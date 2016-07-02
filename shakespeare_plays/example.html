@@ -37,9 +37,9 @@ function generateVis(_nodes, _edges) {
     var network = new vis.Network(container, data, options);
 }
 
-jQuery.get('alls_well_that_ends_well.edgearray', function(edges, textStatus, xhr) {
+jQuery.getJSON('alls_well_that_ends_well.edgearray', function(edges, textStatus, xhr) {
   //optional stuff to do after success
-    jQuery.get('alls_well_that_ends_well.nodearray', function(nodes, textStatus, xhr) {
+    jQuery.getJSON('alls_well_that_ends_well.nodearray', function(nodes, textStatus, xhr) {
       //optional stuff to do after success
       generateVis(nodes, edges);
     });
