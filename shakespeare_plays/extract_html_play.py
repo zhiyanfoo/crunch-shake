@@ -13,12 +13,12 @@ PLAY_NAME = PLAY_PATH[:-5]
 META_INPUT_PATH = PLAY_NAME + "_in.json"
 META_OUTPUT_PATH = PLAY_NAME +"_out2.json"
 
-DIALOGUE_PATTERN = r'^<a name="(?P<act>\d)\.(?P<scene>\d)\.\d+">' \
+DIALOGUE_PATTERN = r'^<a name="?(?P<act>\d)\.(?P<scene>\d)\.\d+"?>' \
     '(\[(?P<instruction>.*)\])?(?P<dialogue>.*)</a><br>'
-DIALOGUE_MATCHER = re.compile(DIALOGUE_PATTERN)
+DIALOGUE_MATCHER = re.compile(DIALOGUE_PATTERN, re.IGNORECASE)
 
-CHARACTER_PATTERN = r'^<a name="speech\d+"><b>(?P<name>.*)</b></a>'
-CHARACTER_MATCHER = re.compile(CHARACTER_PATTERN)
+CHARACTER_PATTERN = r'^<a name="?speech\d+"?><b>(?P<name>.*)</b></a>'
+CHARACTER_MATCHER = re.compile(CHARACTER_PATTERN, re.IGNORECASE)
 
 STAGE_DIRECTION_PATTERN = r'<i>(?P<stage_direction>.*)</i>'
 STAGE_DIRECTION_MATCHER = re.compile(STAGE_DIRECTION_PATTERN)
@@ -114,6 +114,8 @@ def parse_raw_text(play_lines, speaking_characters):
             'ParsedPlay', 
             ['character_chain', 'dialogue', 'act_scene' ,'stage_directions']
             )(character_chain, dialogue, act_scene, stage_directions)
+    print(character_chain[:10])
+    print(dialogue[:10])
     return parsed_play
 
 def play_analysis(speaking_characters, character_chain, dialogue, act_scene, stage_directions):
