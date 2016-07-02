@@ -1,3 +1,4 @@
+[
 {id: 0, label: 'First Lord'},
 {id: 1, label: 'BERTRAM'},
 {id: 2, label: 'Second Lord'},
@@ -23,3 +24,4 @@
 {id: 22, label: 'BOTH'},
 {id: 15, label: 'HELENA'},
 {id: 24, label: 'DIANA'},
+]

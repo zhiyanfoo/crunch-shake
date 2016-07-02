@@ -1,3 +1,4 @@
+[
 {from: 0, to: 10, width: 0.020671834625323, arrows:'to'},
 {from: 0, to: 2, width: 0.29457364341085274, arrows:'to'},
 {from: 0, to: 1, width: 0.27906976744186046, arrows:'to'},
@@ -226,3 +227,4 @@
 {from: 24, to: 22, width: 0.05426356589147287, arrows:'to'},
 {from: 24, to: 13, width: 0.21705426356589147, arrows:'to'},
 {from: 24, to: 15, width: 0.21705426356589147, arrows:'to'},
+]
