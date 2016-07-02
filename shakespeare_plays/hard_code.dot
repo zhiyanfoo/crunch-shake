@@ -1,0 +1,7 @@
+graph { 
+    romeo -- juliet -- d -- c -- f[color=red,penwidth=3.0];
+    b -- c; 
+    d -- e; 
+    e -- f; 
+    a -- d; 
+}	
