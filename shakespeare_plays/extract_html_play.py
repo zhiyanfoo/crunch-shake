@@ -70,8 +70,8 @@ def process_play(play_lines):
     speaking_characters = get_speaking_characters(play_lines)
     parsed_play = parse_raw_text(play_lines, speaking_characters)
     adjcent = play_analysis(speaking_characters, *parsed_play)
-    node_array = get_vis(adjcent)
-    return adjcent, node_array
+    node_array, edge_array = get_vis(adjcent)
+    return adjcent, node_array, edge_array
 
 def parse_raw_text(play_lines, speaking_characters):
     character_chain = []
@@ -276,7 +276,23 @@ def get_vis(adjcent):
     char_ids = give_id(adjcent)
     print(char_ids)
     vis_node_array = get_vis_node_array(char_ids)
-    return vis_node_array
+    vis_edge_array = get_vis_edge_array(edges, char_ids)
+    print(vis_edge_array)
+    return vis_node_array, vis_edge_array
+
+def get_vis_edge_array(edges, char_ids):
+    "{from: 1, to: 3, width: 5, arrows:'to'},"
+    vis_edge_aray = [ get_vis_edge_repr(
+        char_ids[edge[0]],
+        char_ids[edge[1]],
+        edge[2]
+        ) 
+            for edge in edges ]
+    return vis_edge_aray
+
+def get_vis_edge_repr(from_char, to_char, weight):
+    return "{{from: {0}, to: {1}, width: {2}, arrows:'to'}},\n".format(
+            from_char, to_char, weight)
 
 def give_id(adjcent):
     i = 0
@@ -296,9 +312,10 @@ def get_vis_node_repr(_id, char):
 
 def main():
     play_lines, meta_dict = get_files()
-    output_dict, node_array = process_play(play_lines)
+    output_dict, node_array, edge_array = process_play(play_lines)
     to_json(output_dict, META_OUTPUT_PATH)
     list_to_file(node_array, PLAY_NAME + ".nodearray")
+    list_to_file(edge_array, PLAY_NAME + ".edgearray")
 
 if __name__ == "__main__":
     main()
