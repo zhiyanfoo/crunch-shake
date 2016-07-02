@@ -55,7 +55,11 @@ def json_file_to_dict(path):
 
 def to_json(x, path):
     with open(path, 'w') as jsonFile:
-        return json.dump(x, jsonFile)
+        json.dump(x, jsonFile)
+
+def list_to_file(li, path):
+    with open(path, 'w') as outputFile:
+        outputFile.writelines(li)
 
 def get_files():
     play_lines = file_to_list(PLAY_PATH)
@@ -65,7 +69,9 @@ def get_files():
 def process_play(play_lines):
     speaking_characters = get_speaking_characters(play_lines)
     parsed_play = parse_raw_text(play_lines, speaking_characters)
-    return play_analysis(speaking_characters, *parsed_play)
+    adjcent = play_analysis(speaking_characters, *parsed_play)
+    node_array = get_vis(adjcent)
+    return adjcent, node_array
 
 def parse_raw_text(play_lines, speaking_characters):
     character_chain = []
@@ -114,8 +120,8 @@ def parse_raw_text(play_lines, speaking_characters):
             'ParsedPlay', 
             ['character_chain', 'dialogue', 'act_scene' ,'stage_directions']
             )(character_chain, dialogue, act_scene, stage_directions)
-    print(character_chain[:10])
-    print(dialogue[:10])
+    # print(character_chain[:10])
+    # print(dialogue[:10])
     return parsed_play
 
 def play_analysis(speaking_characters, character_chain, dialogue, act_scene, stage_directions):
@@ -136,7 +142,7 @@ def play_analysis(speaking_characters, character_chain, dialogue, act_scene, sta
             actscene_range)
     # print(dialogue[:4])
     normalize_edge_strength(adjcent, max_edge)
-    print(adjcent)
+    # print(adjcent)
     return adjcent
 
 def normalize_edge_strength(adjcent, max_edge):
@@ -168,8 +174,8 @@ def get_character_net(
             dialogue[actscene_range[i][0] : actscene_range[i][1]],
             max_edge
             ) 
-    print(adjcent)
-    print(max_edge)
+    # print(adjcent)
+    # print(max_edge)
     return adjcent, max_edge
 
 def character_net_scene(
@@ -262,10 +268,37 @@ def count_lines_of_dialogue(character_chain, dialogue):
             character_dialogue_count[character_chain[i]] += 1
     return character_dialogue_count 
 
+def get_vis(adjcent):
+    edges = [ (character, other_character, adjcent[character][other_character])
+            for character in adjcent 
+            for other_character in adjcent[character] 
+            ]
+    char_ids = give_id(adjcent)
+    print(char_ids)
+    vis_node_array = get_vis_node_array(char_ids)
+    return vis_node_array
+
+def give_id(adjcent):
+    i = 0
+    char_ids = dict()
+    for character in adjcent:
+        char_ids[character] = i 
+        i += 1
+    return char_ids
+
+def get_vis_node_array(char_ids):
+    vis_node_array = [ get_vis_node_repr(char_ids[char], char) 
+            for char in char_ids ]
+    return vis_node_array 
+
+def get_vis_node_repr(_id, char):
+    return "{{id: {0}, label: '{1}'}},\n".format(_id, char)
+
 def main():
     play_lines, meta_dict = get_files()
-    output_dict = process_play(play_lines)
+    output_dict, node_array = process_play(play_lines)
     to_json(output_dict, META_OUTPUT_PATH)
+    list_to_file(node_array, PLAY_NAME + ".nodearray")
 
 if __name__ == "__main__":
     main()
