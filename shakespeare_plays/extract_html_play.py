@@ -4,6 +4,7 @@ import sys
 import re
 import json
 from collections import Counter, namedtuple
+from itertools import chain
 
 file_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -22,7 +23,11 @@ CHARACTER_MATCHER = re.compile(CHARACTER_PATTERN)
 STAGE_DIRECTION_PATTERN = r'<i>(?P<stage_direction>.*)</i>'
 STAGE_DIRECTION_MATCHER = re.compile(STAGE_DIRECTION_PATTERN)
 
-STAGE_DIRECTION_KEYWORDS_PATTERN = r'(enter|exit|exeunt|aside|read)'
+STAGE_DIRECTION_KEYWORDS_PATTERN = r'(?P<keyword>re-?enter|enter|exit|exeunt|aside|read)'
+STAGE_DIRECTION_KEYWORDS_MATCHER = re.compile(
+        STAGE_DIRECTION_KEYWORDS_PATTERN,
+        re.IGNORECASE
+        )
 
 class ActSceneDialogue(namedtuple('ActSceneDialogue', ['act', 'scene', 'dialogue'])):
     def __repr__(self):
@@ -33,6 +38,12 @@ class StageDirection(
     # prec_dialogue_num : preceding diaglogue number
     def __repr__(self):
         return str(self.prec_dialogue_num) + ' : ' + str(self.stage_direction)
+
+class SDKeywordsCharacters(namedtuple(
+            'StageDirectionKeywordsCharcters', 
+            ['dialogue_num', 'keywords', 'characters'])):
+    def __repr__(self):
+        return str(self.dialogue_num) + ' , ' + str(self.keywords) + ' : ' + str(self.characters)
 
 def file_to_list(path):
     with open(path, 'r') as inputFile:
@@ -50,7 +61,6 @@ def get_files():
     play_lines = file_to_list(PLAY_PATH)
     meta_dict = json_file_to_dict(META_INPUT_PATH)
     return play_lines, meta_dict
-
 
 def process_play(play_lines):
     speaking_characters = get_speaking_characters(play_lines)
@@ -74,7 +84,6 @@ def parse_raw_text(play_lines, speaking_characters):
                             d_match.group('instruction')
                             )
                         )
-                
             act = d_match.group('act')
             scene = d_match.group('scene')
             if (act != act_scene[-1].act or scene != act_scene[-1].scene): 
@@ -112,24 +121,43 @@ def play_analysis(speaking_characters, character_chain, dialogue, act_scene, sta
     character_dialogue_count = count_lines_of_dialogue(
             character_chain, dialogue)
     parse_stage_directions(speaking_characters, stage_directions)
+    print(speaking_characters)
 
 def parse_stage_directions(speaking_characters, stage_directions):
+    joined_characters = "|".join(speaking_characters)
+    characters_pattern = "(?P<character>" + joined_characters + ")"
+    characters_matcher = re.compile(
+            characters_pattern,
+            re.IGNORECASE
+            )
     parsed_stage_directions = [ 
-            [ parse_stage_direction(
-                speaking_characters,
-                stage_direction_sentences
-                )
-                for stage_direction_sentences
+            [ [num, stage_direction_sentence]
+                for stage_direction_sentence
                 in stage_direction.split('.')
                 ]
             for (num, stage_direction) in stage_directions 
             ]
     print(parsed_stage_directions)
+    # SDKeywordsCharacters(
+    #                 num,
+    #                 parse_stage_direction(
+    #                     stage_direction_sentence
+    #                     ),
+    #                 parse_characters(
+    #                     characters_matcher,
+    #                     stage_direction_sentence
+    #                     )
+    #                 )
+               
     return parsed_stage_directions
 
-def parse_stage_direction(speaking_characters, stage_direction_sentence):
-    return stage_direction_sentence
+def parse_stage_direction(stage_direction_sentence):
+    k_match = STAGE_DIRECTION_KEYWORDS_MATCHER.findall(stage_direction_sentence)
+    return k_match
 
+def parse_characters(characters_matcher, stage_direction_sentence):
+    c_match = characters_matcher.findall(stage_direction_sentence)
+    return c_match
 
 def determine_presense():
     pass
