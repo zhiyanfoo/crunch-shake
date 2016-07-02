@@ -148,7 +148,7 @@ def play_analysis(speaking_characters, character_chain, dialogue, act_scene, sta
 def normalize_edge_strength(adjcent, max_edge):
     for character in adjcent:
         for other_character in adjcent[character]:
-            adjcent[character][other_character] /= max_edge
+            adjcent[character][other_character] /= max_edge/10
 
 def actscene_to_range(act_scene, last_num):
     actscene_range = [ (
@@ -313,9 +313,11 @@ def get_vis_node_repr(_id, char):
 def main():
     play_lines, meta_dict = get_files()
     output_dict, node_array, edge_array = process_play(play_lines)
+    def addbrackets(li):
+        return  ['{\n'] + li + ['}\n']
     to_json(output_dict, META_OUTPUT_PATH)
-    list_to_file(node_array, PLAY_NAME + ".nodearray")
-    list_to_file(edge_array, PLAY_NAME + ".edgearray")
+    list_to_file(addbrackets(node_array), PLAY_NAME + ".nodearray")
+    list_to_file(addbrackets(edge_array), PLAY_NAME + ".edgearray")
 
 if __name__ == "__main__":
     main()
