@@ -65,7 +65,7 @@ def get_files():
 def process_play(play_lines):
     speaking_characters = get_speaking_characters(play_lines)
     parsed_play = parse_raw_text(play_lines, speaking_characters)
-    play_analysis(speaking_characters, *parsed_play)
+    return play_analysis(speaking_characters, *parsed_play)
 
 def parse_raw_text(play_lines, speaking_characters):
     character_chain = []
@@ -120,8 +120,96 @@ def play_analysis(speaking_characters, character_chain, dialogue, act_scene, sta
     character_count = Counter(character_chain)
     character_dialogue_count = count_lines_of_dialogue(
             character_chain, dialogue)
-    parse_stage_directions(speaking_characters, stage_directions)
-    print(speaking_characters)
+    # parse_stage_directions(speaking_characters, stage_directions)
+    # print(speaking_characters)
+    actscene_range = actscene_to_range(act_scene, len(dialogue))
+    # print(actscene_range)
+    presence = determine_presence(character_chain, dialogue, actscene_range)
+    # print(presence)
+    adjcent, max_edge  = get_character_net(
+            speaking_characters, 
+            presence, 
+            character_chain, 
+            dialogue, 
+            actscene_range)
+    # print(dialogue[:4])
+    normalize_edge_strength(adjcent, max_edge)
+    print(adjcent)
+    return adjcent
+
+def normalize_edge_strength(adjcent, max_edge):
+    for character in adjcent:
+        for other_character in adjcent[character]:
+            adjcent[character][other_character] /= max_edge
+
+def actscene_to_range(act_scene, last_num):
+    actscene_range = [ (
+        act_scene[i].dialogue,
+        act_scene[i + 1].dialogue,
+        ) for i in range(len(act_scene) - 1) ]
+    return actscene_range + [(act_scene[-1].dialogue, last_num)]
+    
+def get_character_net(
+        speaking_characters,
+        presence,
+        character_chain, 
+        dialogue, 
+        actscene_range):
+    adjcent = { character : dict() for character in speaking_characters }
+    # print(adjcent)
+    max_edge = -1
+    for i in range(len(actscene_range)):
+        max_edge = character_net_scene(
+            adjcent,
+            presence[i],
+            character_chain[actscene_range[i][0] : actscene_range[i][1]],
+            dialogue[actscene_range[i][0] : actscene_range[i][1]],
+            max_edge
+            ) 
+    print(adjcent)
+    print(max_edge)
+    return adjcent, max_edge
+
+def character_net_scene(
+        adjcent, 
+        characters_present,
+        p_character_chain,
+        p_dialogue,
+        max_edge
+        ):
+    # print(adjcent)
+    # print(characters_present)
+    # print(p_character_chain)
+    # print(p_dialogue[:3])
+    for i in range(len(p_dialogue)):
+        max_edge = add_strength_per_dialogue(
+            adjcent, 
+            p_character_chain[i],
+            characters_present.difference([p_character_chain[i]]),
+            len(p_dialogue[i]),
+            max_edge
+            )
+    return max_edge
+
+def add_strength_per_dialogue(
+        adjcent, 
+        character_speaking,
+        other_characters,
+        length,
+        max_edge
+        ):
+    if character_speaking in other_characters:
+        print(adjcent)
+        print('error')
+        exit()
+    for character in other_characters:
+        if character in adjcent[character_speaking].keys():
+            adjcent[character_speaking][character] += length
+        else:
+            adjcent[character_speaking][character] = length
+        if max_edge < adjcent[character_speaking][character]:
+            max_edge = adjcent[character_speaking][character]
+    return max_edge
 
 def parse_stage_directions(speaking_characters, stage_directions):
     joined_characters = "|".join(speaking_characters)
@@ -137,18 +225,6 @@ def parse_stage_directions(speaking_characters, stage_directions):
                 ]
             for (num, stage_direction) in stage_directions 
             ]
-    print(parsed_stage_directions)
-    # SDKeywordsCharacters(
-    #                 num,
-    #                 parse_stage_direction(
-    #                     stage_direction_sentence
-    #                     ),
-    #                 parse_characters(
-    #                     characters_matcher,
-    #                     stage_direction_sentence
-    #                     )
-    #                 )
-               
     return parsed_stage_directions
 
 def parse_stage_direction(stage_direction_sentence):
@@ -159,8 +235,14 @@ def parse_characters(characters_matcher, stage_direction_sentence):
     c_match = characters_matcher.findall(stage_direction_sentence)
     return c_match
 
-def determine_presense():
-    pass
+def determine_presence(character_chain, dialogue, actscene_range):
+    presence = [ set(character_chain[start : end]) 
+            for (start, end) in actscene_range ]
+    return presence
+
+def get_present_characters(start, end, character_chain):
+    characters = set(character_chain[start : end])
+    return characters
 
 def get_speaking_characters(play_lines):
     return { matched_line.group('name') for matched_line in
