@@ -120,29 +120,21 @@ def parse_raw_text(play_lines, speaking_characters):
             'ParsedPlay', 
             ['character_chain', 'dialogue', 'act_scene' ,'stage_directions']
             )(character_chain, dialogue, act_scene, stage_directions)
-    # print(character_chain[:10])
-    # print(dialogue[:10])
     return parsed_play
 
 def play_analysis(speaking_characters, character_chain, dialogue, act_scene, stage_directions):
     character_count = Counter(character_chain)
     character_dialogue_count = count_lines_of_dialogue(
             character_chain, dialogue)
-    # parse_stage_directions(speaking_characters, stage_directions)
-    # print(speaking_characters)
     actscene_range = actscene_to_range(act_scene, len(dialogue))
-    # print(actscene_range)
     presence = determine_presence(character_chain, dialogue, actscene_range)
-    # print(presence)
     adjcent, max_edge  = get_character_net(
             speaking_characters, 
             presence, 
             character_chain, 
             dialogue, 
             actscene_range)
-    # print(dialogue[:4])
     normalize_edge_strength(adjcent, max_edge)
-    # print(adjcent)
     return adjcent
 
 def normalize_edge_strength(adjcent, max_edge):
@@ -185,10 +177,6 @@ def character_net_scene(
         p_dialogue,
         max_edge
         ):
-    # print(adjcent)
-    # print(characters_present)
-    # print(p_character_chain)
-    # print(p_dialogue[:3])
     for i in range(len(p_dialogue)):
         max_edge = add_strength_per_dialogue(
             adjcent, 
@@ -235,14 +223,6 @@ def parse_stage_directions(speaking_characters, stage_directions):
             ]
     return parsed_stage_directions
 
-def parse_stage_direction(stage_direction_sentence):
-    k_match = STAGE_DIRECTION_KEYWORDS_MATCHER.findall(stage_direction_sentence)
-    return k_match
-
-def parse_characters(characters_matcher, stage_direction_sentence):
-    c_match = characters_matcher.findall(stage_direction_sentence)
-    return c_match
-
 def determine_presence(character_chain, dialogue, actscene_range):
     presence = [ set(character_chain[start : end]) 
             for (start, end) in actscene_range ]
@@ -274,25 +254,29 @@ def get_vis(adjcent):
             for other_character in adjcent[character] 
             ]
     char_ids = give_id(adjcent)
-    print(char_ids)
-    vis_node_array = get_vis_node_array(char_ids)
-    vis_edge_array = get_vis_edge_array(edges, char_ids)
-    print(vis_edge_array)
-    return vis_node_array, vis_edge_array
+    vis_nodes = get_vis_nodes(char_ids)
+    vis_edges = get_vis_edges(edges, char_ids)
+    return vis_nodes, vis_edges
 
-def get_vis_edge_array(edges, char_ids):
-    "{from: 1, to: 3, width: 5, arrows:'to'},"
-    vis_edge_aray = [ get_vis_edge_repr(
-        char_ids[edge[0]],
-        char_ids[edge[1]],
-        edge[2]
-        ) 
+def get_vis_edges(edges, char_ids):
+    # "{from: 1, to: 3, width: 5, arrows:'to'},"
+    vis_edges = [ { 
+        "from" : char_ids[edge[0]], 
+        "to" : char_ids[edge[1]],
+        "width" : edge[2],
+        "arrows" : "to"
+        }
             for edge in edges ]
-    return vis_edge_aray
+    return vis_edges
 
-def get_vis_edge_repr(from_char, to_char, weight):
-    return "{{from: {0}, to: {1}, width: {2}, arrows:'to'}},\n".format(
-            from_char, to_char, weight)
+def get_vis_nodes(char_ids):
+    # {id: 0, label: 'ROMEO'}}
+    vis_nodes = [ { 
+        "id" : char_ids[char],
+        "label" : char
+        }
+            for char in char_ids ]
+    return vis_nodes
 
 def give_id(adjcent):
     i = 0
@@ -302,22 +286,12 @@ def give_id(adjcent):
         i += 1
     return char_ids
 
-def get_vis_node_array(char_ids):
-    vis_node_array = [ get_vis_node_repr(char_ids[char], char) 
-            for char in char_ids ]
-    return vis_node_array 
-
-def get_vis_node_repr(_id, char):
-    return "{{id: {0}, label: '{1}'}},\n".format(_id, char)
-
 def main():
     play_lines, meta_dict = get_files()
-    output_dict, node_array, edge_array = process_play(play_lines)
-    def addbrackets(li):
-        return  ['{\n'] + li + ['}\n']
+    output_dict, vis_nodes, vis_edges = process_play(play_lines)
     to_json(output_dict, META_OUTPUT_PATH)
-    list_to_file(addbrackets(node_array), PLAY_NAME + ".nodearray")
-    list_to_file(addbrackets(edge_array), PLAY_NAME + ".edgearray")
+    to_json(vis_nodes, PLAY_NAME + "_nodes.json")
+    to_json(vis_edges, PLAY_NAME + "_edges.json")
 
 if __name__ == "__main__":
     main()
