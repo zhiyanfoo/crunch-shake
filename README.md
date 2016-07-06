@@ -6,7 +6,7 @@ I certainly hope so, becuase this is the aim of this project (For now the focus 
 
 
 As the computationally analysis of literature is still in its infancy, the results produced by it will be simplistic. Yet hopefully, the process guarantees that the vague laws we do come up with do have some predictive power.
-Even failing this-that which is highly probably in these early stages-by analyzing large volumes of data, certain trends might become apparent that will inform a closer reading of the text.
+Even failing this-highly probably in these early stages-by analyzing large volumes of data, certain trends might become apparent that will inform a closer reading of the text.
 
 ### The Bechdel Test
 
@@ -15,6 +15,6 @@ The most successful application of a metric to movies I believe is the [Bechdel 
 ### Focus of this project
 The focus of most of the analysis is in the same vein as the Bechdel test but on plays. Gender disparity is not the exclusive focus of this project, however, literary and stylistic analysis will also be a touched upon.
 
-Why where plays chosen as the medium of interest? When analysing plays, it is easy to get meta information from the text, such as which character speaks which dialogue, to whom he or she is speaking to and the scenes the different characters are in. As such compared to poems and prose, it is easier to computationally analyze plays.
+Why were plays chosen as the medium of interest? When analysing plays, it is easy to get meta information from the text, such as which character speaks which dialogue, to whom he or she is speaking to and the scenes the different characters are in. As such compared to poems and prose, it is easier to computationally analyze plays.
 
 Feel free to submit patches with ideas to IDEAS.md on what type of analysis to do and how to perform said analysis.
