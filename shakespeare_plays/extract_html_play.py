@@ -11,7 +11,7 @@ file_dir = os.path.dirname(os.path.abspath(__file__))
 PLAY_PATH = os.path.abspath(sys.argv[1])
 PLAY_NAME = PLAY_PATH[:-5]
 META_INPUT_PATH = PLAY_NAME + "_in.json"
-META_OUTPUT_PATH = PLAY_NAME +"_out2.json"
+META_OUTPUT_PATH = PLAY_NAME +"_out.json"
 
 DIALOGUE_PATTERN = r'^<a name="?(?P<act>\d)\.(?P<scene>\d)\.\d+"?>' \
     '(\[(?P<instruction>.*)\])?(?P<dialogue>.*)</a><br>'
@@ -34,10 +34,15 @@ class ActSceneDialogue(namedtuple('ActSceneDialogue', ['act', 'scene', 'dialogue
         return str(self.act) + '.' + str(self.scene) + ' : ' + str(self.dialogue)
 
 class StageDirection(
-        namedtuple('StageDirection', ['prec_dialogue_num', 'stage_direction'])):
-    # prec_dialogue_num : preceding diaglogue number
+        namedtuple(
+            'StageDirection',
+            ['prec_dialogue_block', 'stage_direction']
+            )
+        ):
+    # prec_dialogue_block, prec_dialogue_line : preceding diaglogue number
     def __repr__(self):
-        return str(self.prec_dialogue_num) + ' : ' + str(self.stage_direction)
+        return str(self.prec_dialogue_block) + ' : ' \
+                + str(self.stage_direction)
 
 class SDKeywordsCharacters(namedtuple(
             'StageDirectionKeywordsCharcters', 
@@ -68,10 +73,10 @@ def get_files():
 
 def process_play(play_lines):
     speaking_characters = get_speaking_characters(play_lines)
+    print(speaking_characters)
     parsed_play = parse_raw_text(play_lines, speaking_characters)
-    adjcent = play_analysis(speaking_characters, *parsed_play)
-    node_array, edge_array = get_vis(adjcent)
-    return adjcent, node_array, edge_array
+    adjacent = play_analysis(speaking_characters, *parsed_play)
+    return adjacent
 
 def parse_raw_text(play_lines, speaking_characters):
     character_chain = []
@@ -81,12 +86,12 @@ def parse_raw_text(play_lines, speaking_characters):
     for i in range(len(play_lines)):
         line = play_lines[i]
         d_match = DIALOGUE_MATCHER.search(line)
+        # d has 3-4 groups : act, scene, dialogue, optional instruction
         if d_match:
-            d_info = [ d_match.group('act'), d_match.group('scene'), d_match.group('dialogue') ]
             if d_match.group('instruction'):
                 stage_directions.append(
                         StageDirection(
-                            len(dialogue) -1,
+                            len(dialogue) - 1,
                             d_match.group('instruction')
                             )
                         )
@@ -122,56 +127,62 @@ def parse_raw_text(play_lines, speaking_characters):
             )(character_chain, dialogue, act_scene, stage_directions)
     return parsed_play
 
-def play_analysis(speaking_characters, character_chain, dialogue, act_scene, stage_directions):
+def play_analysis(
+        speaking_characters, 
+        character_chain, 
+        dialogue, 
+        act_scene, 
+        stage_directions):
     character_count = Counter(character_chain)
+    print(character_count)
     character_dialogue_count = count_lines_of_dialogue(
             character_chain, dialogue)
-    actscene_range = actscene_to_range(act_scene, len(dialogue))
-    presence = determine_presence(character_chain, dialogue, actscene_range)
-    adjcent, max_edge  = get_character_net(
+    print(stage_directions)
+    act_scene_range = act_scene_to_range(act_scene, len(dialogue))
+    print(act_scene_range)
+    scene_presence = determine_presence(
+            character_chain, dialogue, act_scene_range)
+    adjacent, max_edge  = get_character_net(
             speaking_characters, 
-            presence, 
+            scene_presence, 
             character_chain, 
             dialogue, 
-            actscene_range)
-    normalize_edge_strength(adjcent, max_edge)
-    return adjcent
+            act_scene_range)
+    normalize_edge_strength(adjacent, max_edge)
+    return adjacent
 
-def normalize_edge_strength(adjcent, max_edge):
-    for character in adjcent:
-        for other_character in adjcent[character]:
-            adjcent[character][other_character] /= max_edge/10
+def normalize_edge_strength(adjacent, max_edge):
+    for character in adjacent:
+        for other_character in adjacent[character]:
+            adjacent[character][other_character] /= max_edge/10
 
-def actscene_to_range(act_scene, last_num):
-    actscene_range = [ (
+def act_scene_to_range(act_scene, last_num):
+    act_scene_range = [ (
         act_scene[i].dialogue,
         act_scene[i + 1].dialogue,
         ) for i in range(len(act_scene) - 1) ]
-    return actscene_range + [(act_scene[-1].dialogue, last_num)]
+    return act_scene_range + [(act_scene[-1].dialogue, last_num)]
     
 def get_character_net(
         speaking_characters,
         presence,
         character_chain, 
         dialogue, 
-        actscene_range):
-    adjcent = { character : dict() for character in speaking_characters }
-    # print(adjcent)
+        act_scene_range):
+    adjacent = { character : dict() for character in speaking_characters }
     max_edge = -1
-    for i in range(len(actscene_range)):
+    for i in range(len(act_scene_range)):
         max_edge = character_net_scene(
-            adjcent,
+            adjacent,
             presence[i],
-            character_chain[actscene_range[i][0] : actscene_range[i][1]],
-            dialogue[actscene_range[i][0] : actscene_range[i][1]],
+            character_chain[act_scene_range[i][0] : act_scene_range[i][1]],
+            dialogue[act_scene_range[i][0] : act_scene_range[i][1]],
             max_edge
             ) 
-    # print(adjcent)
-    # print(max_edge)
-    return adjcent, max_edge
+    return adjacent, max_edge
 
 def character_net_scene(
-        adjcent, 
+        adjacent, 
         characters_present,
         p_character_chain,
         p_dialogue,
@@ -179,7 +190,7 @@ def character_net_scene(
         ):
     for i in range(len(p_dialogue)):
         max_edge = add_strength_per_dialogue(
-            adjcent, 
+            adjacent, 
             p_character_chain[i],
             characters_present.difference([p_character_chain[i]]),
             len(p_dialogue[i]),
@@ -188,23 +199,23 @@ def character_net_scene(
     return max_edge
 
 def add_strength_per_dialogue(
-        adjcent, 
+        adjacent, 
         character_speaking,
         other_characters,
         length,
         max_edge
         ):
     if character_speaking in other_characters:
-        print(adjcent)
+        print(adjacent)
         print('error')
         exit()
     for character in other_characters:
-        if character in adjcent[character_speaking].keys():
-            adjcent[character_speaking][character] += length
+        if character in adjacent[character_speaking].keys():
+            adjacent[character_speaking][character] += length
         else:
-            adjcent[character_speaking][character] = length
-        if max_edge < adjcent[character_speaking][character]:
-            max_edge = adjcent[character_speaking][character]
+            adjacent[character_speaking][character] = length
+        if max_edge < adjacent[character_speaking][character]:
+            max_edge = adjacent[character_speaking][character]
     return max_edge
 
 def parse_stage_directions(speaking_characters, stage_directions):
@@ -223,9 +234,9 @@ def parse_stage_directions(speaking_characters, stage_directions):
             ]
     return parsed_stage_directions
 
-def determine_presence(character_chain, dialogue, actscene_range):
+def determine_presence(character_chain, dialogue, act_scene_range):
     presence = [ set(character_chain[start : end]) 
-            for (start, end) in actscene_range ]
+            for (start, end) in act_scene_range ]
     return presence
 
 def get_present_characters(start, end, character_chain):
@@ -248,50 +259,10 @@ def count_lines_of_dialogue(character_chain, dialogue):
             character_dialogue_count[character_chain[i]] += 1
     return character_dialogue_count 
 
-def get_vis(adjcent):
-    edges = [ (character, other_character, adjcent[character][other_character])
-            for character in adjcent 
-            for other_character in adjcent[character] 
-            ]
-    char_ids = give_id(adjcent)
-    vis_nodes = get_vis_nodes(char_ids)
-    vis_edges = get_vis_edges(edges, char_ids)
-    return vis_nodes, vis_edges
-
-def get_vis_edges(edges, char_ids):
-    # "{from: 1, to: 3, width: 5, arrows:'to'},"
-    vis_edges = [ { 
-        "from" : char_ids[edge[0]], 
-        "to" : char_ids[edge[1]],
-        "width" : edge[2],
-        "arrows" : "to"
-        }
-            for edge in edges ]
-    return vis_edges
-
-def get_vis_nodes(char_ids):
-    # {id: 0, label: 'ROMEO'}}
-    vis_nodes = [ { 
-        "id" : char_ids[char],
-        "label" : char
-        }
-            for char in char_ids ]
-    return vis_nodes
-
-def give_id(adjcent):
-    i = 0
-    char_ids = dict()
-    for character in adjcent:
-        char_ids[character] = i 
-        i += 1
-    return char_ids
-
 def main():
     play_lines, meta_dict = get_files()
-    output_dict, vis_nodes, vis_edges = process_play(play_lines)
+    output_dict = process_play(play_lines)
     to_json(output_dict, META_OUTPUT_PATH)
-    to_json(vis_nodes, PLAY_NAME + "_nodes.json")
-    to_json(vis_edges, PLAY_NAME + "_edges.json")
 
 if __name__ == "__main__":
     main()
