@@ -5,6 +5,7 @@ import re
 import json
 from collections import Counter, namedtuple
 from itertools import chain
+from functools import reduce
 
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -12,7 +13,7 @@ FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAY_PATH = os.path.abspath(sys.argv[1])
 PLAY_NAME = PLAY_PATH[:-5]
 
-OUTPUT_PATH = PLAY_NAME + "_out"
+OUTPUT_PATH = PLAY_NAME + ".out"
 
 DIALOGUE_PATTERN = r'^<a name="?(?P<act>\d)\.(?P<scene>\d)\.\d+"?>' \
     '(\[(?P<instruction>.*)\])?(?P<dialogue>.*)</a><br>'
@@ -42,11 +43,13 @@ class Dialogue(namedtuple('Dialogue', [
         ])):
     TYPE = 'dialogue'
     def __repr__(self):
-        return str(self.act) + '.' + str(self.scene) + ' :\n' \
-               + str(self.dialogue) + '\n' + str(self.instruction)
+        return str(self.act) + '.' + str(self.scene) + ' :' \
+               + str(self.dialogue) + ' : ' + str(self.instruction)
 
 class Character(namedtuple('Character', ['character'])):
     TYPE = 'character'
+    def __repr__(self):
+        return self.character
 
 class Instruction(namedtuple('Instruction', [
     'raw', 
@@ -55,6 +58,11 @@ class Instruction(namedtuple('Instruction', [
     'prev_character'
     ])):
     TYPE = 'instruction'
+    def __repr__(self):
+        action_characters = [ 
+                str(self.actions[i]) + " - " + str(self.characters[i])
+                for i in range(len(self.actions)) ]
+        return self.raw + ' : ' + str(action_characters) + ' : ' + str(self.prev_character)
 
 def get_speaking_characters(play_lines):
     return { matched_line.group('name') for matched_line in
@@ -103,8 +111,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
                     known_characters_matcher,
                     prev_character)
             parsed_lines.append(instruction)
-        return parsed_lines, character_chain
-
+    return parsed_lines, character_chain
 
 def process_instructions(
         instruction, 
@@ -112,19 +119,47 @@ def process_instructions(
         prev_character):
     if instruction is None:
         return None
-    instruction_lines = ".".split(instruction)
-    actions = [ match.group('instruction') if match else None for match in 
+    instruction_lines = instruction.split(".")
+    actions = [ match.group(0) if match else None for match in 
             [ INSTRUCTION_MATCHER.search(line)
             for line in instruction_lines ]]
     characters = [ known_characters_matcher.findall(line) 
             for line in instruction_lines ]
     return Instruction(instruction, actions, characters, prev_character)
 
+def get_act_scene_range(play_lines):
+    act_scene_range = []
+    act_scenes = []
+    cur_act_scene = None
+    for i, line in enumerate(play_lines):
+        if line.TYPE == 'dialogue':
+            act_scene = (line.act, line.scene)
+            if cur_act_scene != act_scene:
+                cur_act_scene = act_scene
+                act_scenes.append(act_scene)
+                act_scene_range.append(i)
+    act_scene_range.append(len(play_lines))
+    return act_scenes, act_scene_range
+
 def process_play(raw_play_lines):
     speaking_characters = get_speaking_characters(raw_play_lines)
-    parsed_play = parse_raw_text(raw_play_lines, speaking_characters)
+    play_lines, character_chain = parse_raw_text(
+            raw_play_lines, 
+            speaking_characters)
+    act_scenes, act_scene_range = get_act_scene_range(play_lines)
+    print(act_scenes)
+    print(act_scene_range)
+
+    # presense = get_presense(play_lines)
+    return play_lines, character_chain
 
 # INPUT OUTPUT
+
+def to_output(parsed_play):
+    a = [ str(x) + "\n" for x in  parsed_play[0] ]
+    li = a + ['\n'] * 3 + [ x + ", " for x in parsed_play[1] ]
+    # li = reduce(lambda x, y: x + ['\n'] * 3 + y, parsed_play)
+    list_to_file(li, OUTPUT_PATH)
 
 def file_to_list(path):
     with open(path, 'r') as inputFile:
@@ -148,7 +183,9 @@ def get_files():
 
 def main():
     play_lines = get_files()
-    process_play(play_lines)
+    output = process_play(play_lines)
+    to_output(output)
+
 
 if __name__ == "__main__":
     main()
