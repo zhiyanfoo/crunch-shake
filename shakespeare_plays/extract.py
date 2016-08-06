@@ -7,6 +7,7 @@ from collections import Counter, namedtuple
 from itertools import chain
 from functools import reduce
 
+from lookup import ROMAN_TO_INT 
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -28,11 +29,18 @@ STAGE_DIRECTION_PATTERN = r'<i>(?P<stage_direction>.*)</i>'
 # <p><i>Exeunt BERTRAM and LAFEU</i></p>
 STAGE_DIRECTION_MATCHER = re.compile(STAGE_DIRECTION_PATTERN)
 
-INSTRUCTION_PATTERN = r're-?enter|enter|exit|exeunt|aside|read|to'
+INSTRUCTION_PATTERN = r're-enter|enter|exit|exeunt|aside|read|to'
 INSTRUCTION_MATCHER = re.compile(
         INSTRUCTION_PATTERN,
         re.IGNORECASE
         )
+
+ACT_PATTERN = r"<h3>act (?P<act>[IVX]+).*</h3>"
+ACT_MATCHER = re.compile(ACT_PATTERN, re.IGNORECASE)
+
+SCENE_PATTERN = r"<h3>scene (?P<scene>[IVX]+).*</h3>"
+SCENE_MATCHER = re.compile(SCENE_PATTERN, re.IGNORECASE)
+
 
 class Dialogue(namedtuple('Dialogue', [
         'dialogue', 
@@ -63,6 +71,17 @@ class Instruction(namedtuple('Instruction', [
                 str(self.actions[i]) + " - " + str(self.characters[i])
                 for i in range(len(self.actions)) ]
         return self.raw + ' : ' + str(action_characters) + ' : ' + str(self.prev_character)
+
+class Act(namedtuple('Act', ['act'])):
+    TYPE ='act'
+    def __repr____(self):
+        return self.act
+
+class Scene(namedtuple('Scene', ['scene'])):
+    TYPE ='scene'
+    def __repr____(self):
+        return self.scene
+
 
 def get_speaking_characters(play_lines):
     return { matched_line.group('name') for matched_line in
@@ -111,6 +130,21 @@ def parse_raw_text(raw_play_lines, speaking_characters):
                     known_characters_matcher,
                     prev_character)
             parsed_lines.append(instruction)
+            continue
+        act_match = ACT_MATCHER.search(line)
+        if act_match:
+            act_roman = act_match.group('act')
+            act = ROMAN_TO_INT[act_roman]
+            parsed_lines.append(Act(act))
+            prev_character = None
+            continue
+        scene_match = SCENE_MATCHER.search(line)
+        if scene_match:
+            scene_roman = scene_match.group('scene')
+            scene = ROMAN_TO_INT[scene_roman]
+            parsed_lines.append(Scene(scene))
+            prev_character = None
+            continue
     return parsed_lines, character_chain
 
 def process_instructions(
@@ -130,16 +164,101 @@ def process_instructions(
 def get_act_scene_range(play_lines):
     act_scene_range = []
     act_scenes = []
-    cur_act_scene = None
     for i, line in enumerate(play_lines):
-        if line.TYPE == 'dialogue':
-            act_scene = (line.act, line.scene)
-            if cur_act_scene != act_scene:
-                cur_act_scene = act_scene
-                act_scenes.append(act_scene)
+        if line.TYPE == Scene.TYPE:
+            prev_line = play_lines[i - 1]
+            if prev_line.TYPE == Act.TYPE:
+                act_scenes.append((prev_line.act, line.scene))
+                act_scene_range.append(i - 1)
+            else:
+                act_scenes.append((
+                    act_scenes[-1][0] if act_scenes else 1,
+                    line.scene))
                 act_scene_range.append(i)
     act_scene_range.append(len(play_lines))
     return act_scenes, act_scene_range
+
+def get_presense(play_lines, act_scene_range, character_chain):
+    enterance = { character : [] for character in character_chain }
+    exit = { character : [] for character in character_chain }
+    for scene_start, scene_end in zip(act_scene_range, act_scene_range[1:]):
+        get_presense_scene(
+                play_lines, 
+                enterance, 
+                exit, 
+                scene_start,
+                scene_end)
+
+def get_presense_scene(play_lines, enterance, exit, scene_start, scene_end):
+    """if character enters and exit, 
+       presence will be given as first entrance and last exit"""
+    scene_enterance = dict()
+    scene_exit = dict()
+    for i in range(scene_start, scene_end):
+        line = play_lines[i]
+        character_start(line, i, scene_enterance, ['enter'], scene_start)
+    for i in range(scene_end - 1, scene_start - 1, -1):
+        line = play_lines[i]
+        character_start(line, i, scene_exit, ['exit', 'exeunt'], scene_end - 1)
+    # ensure that characters have both entrance and exit
+    # print(scene_start)
+    close_loose_characters(scene_enterance, scene_exit, scene_end-1)
+    close_loose_characters(scene_exit, scene_enterance, scene_start)
+    # print(scene_enterance)
+    # print(scene_exit)
+
+def close_loose_characters(characters_one, characters_two, i):
+    for character in (characters_one.keys() - characters_two.keys()):
+        characters_two[character] = i
+
+def character_start(line, i, scene_characters, patterns, default):
+    add_if_not_in = create_add_if_not_in(scene_characters)
+    if line.TYPE == Character.TYPE:
+        add_if_not_in(line.character, default)
+    elif line.TYPE == Instruction.TYPE:
+        # print(line)
+        instruction_character_start(
+                line, 
+                i, 
+                line.prev_character, 
+                patterns,
+                add_if_not_in
+                )
+    elif line.TYPE == Dialogue.TYPE:
+        add_if_not_in(line.character, default)
+        instruction = line.instruction
+        if instruction:
+            instruction_character_start(
+                    instruction, 
+                    i, 
+                    line.character, 
+                    patterns,
+                    add_if_not_in
+                    )
+
+def instruction_character_start(
+        instruction, 
+        line_index, 
+        character, 
+        patterns, 
+        add_if_not_in):
+    for i, action in enumerate(instruction.actions):
+        if pattern_in(patterns, action):
+            if not instruction.characters[i]:
+                if character:
+                    add_if_not_in(character, line_index)
+            for character in instruction.characters[i]:
+                add_if_not_in(character, line_index)
+
+def create_add_if_not_in(scene_characters):
+    def add_if_not_in(character, i):
+        if character not in scene_characters:
+            # print(character, i)
+            scene_characters[character] = i
+    return add_if_not_in
+
+def pattern_in(patterns, action):
+    return action and any(pattern in action.lower() for pattern in patterns)
 
 def process_play(raw_play_lines):
     speaking_characters = get_speaking_characters(raw_play_lines)
@@ -150,7 +269,7 @@ def process_play(raw_play_lines):
     print(act_scenes)
     print(act_scene_range)
 
-    # presense = get_presense(play_lines)
+    presense = get_presense(play_lines, act_scene_range, character_chain)
     return play_lines, character_chain
 
 # INPUT OUTPUT

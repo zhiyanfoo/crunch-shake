@@ -1,0 +1,82 @@
+Act(act=1)
+Scene(scene=1)
+Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black : ["Enter - ['BERTRAM', 'COUNTESS', 'HELENA', 'LAFEU']"] : None
+COUNTESS
+1.1 :In delivering my son from me, I bury a second husband. : None
+BERTRAM
+1.1 :And I in going, madam, weep o'er my father's death : None
+1.1 :anew: but I must attend his majesty's command, to : None
+1.1 :whom I am now in ward, evermore in subjection. : None
+LAFEU
+1.1 :You shall find of the king a husband, madam; you, : None
+1.1 :sir, a father: he that so generally is at all times : None
+1.1 :good must of necessity hold his virtue to you; whose : None
+1.1 :worthiness would stir it up where it wanted rather : None
+1.1 :than lack it where there is such abundance. : None
+COUNTESS
+1.1 :Heaven bless him! Farewell, Bertram. : None
+Exit : ['Exit - []'] : COUNTESS
+BERTRAM
+1.1 :  The best wishes that can be forged in : To HELENA : ["To - ['HELENA']"] : BERTRAM
+1.1 :your thoughts be servants to you! Be comfortable : None
+1.1 :to my mother, your mistress, and make much of her. : None
+LAFEU
+1.1 :Farewell, pretty lady: you must hold the credit of : None
+1.1 :your father. : None
+Exeunt BERTRAM and LAFEU : ["Exeunt - ['BERTRAM', 'LAFEU']"] : LAFEU
+HELENA
+1.1 :O, were that all! I think not on my father; : None
+1.1 :And these great tears grace his remembrance more : None
+Enter PAROLLES : ["Enter - ['PAROLLES']"] : HELENA
+Aside : ['Aside - []'] : HELENA
+1.1 :Think him a great way fool, solely a coward; : None
+1.1 :Yet these fixed evils sit so fit in him, : None
+1.1 :That they take place, when virtue's steely bones : None
+1.1 :Look bleak i' the cold wind: withal, full oft we see : None
+1.1 :Cold wisdom waiting on superfluous folly. : None
+Scene(scene=2)
+Flourish of cornets. Enter the KING of France, with letters, and divers Attendants : ['None - []', "Enter - ['KING']"] : HELENA
+KING
+1.2 :The Florentines and Senoys are by the ears; : None
+1.2 :Have fought with equal fortune and continue : None
+1.2 :A braving war. : None
+First Lord
+1.2 :                  So 'tis reported, sir. : None
+KING
+1.2 :Nay, 'tis most credible; we here received it : None
+1.2 :A certainty, vouch'd from our cousin Austria, : None
+1.2 :With caution that the Florentine will move us : None
+1.2 :For speedy aid; wherein our dearest friend : None
+1.2 :Prejudicates the business and would seem : None
+1.2 :To have us make denial. : None
+Act(act=2)
+Scene(scene=1)
+KING
+2.1 :Farewell, young lords; these warlike principles : None
+2.1 :Do not throw from you: and you, my lords, farewell: : None
+2.1 :Share the advice betwixt you; if both gain, all : None
+2.1 :The gift doth stretch itself as 'tis received, : None
+2.1 :And is enough for both. : None
+First Lord
+2.1 :'Tis our hope, sir, : None
+2.1 :After well enter'd soldiers, to return : None
+2.1 :And find your grace in health. : None
+KING
+2.1 :Farewell. Come hither to me. : None
+Exit, attended : ['Exit - []'] : KING
+First Lord
+2.1 :O, my sweet lord, that you will stay behind us! : None
+PAROLLES
+2.1 :'Tis not his fault, the spark. : None
+PAROLLES
+2.1 :  Use a more spacious ceremony to the : To BERTRAM : ["To - ['BERTRAM']"] : PAROLLES
+2.1 :noble lords; you have restrained yourself within the : None
+2.1 :noble lords; you have restrained yourself within the : None
+2.1 :list of too cold an adieu: be more expressive to : None
+2.1 :them: for they wear themselves in the cap of the : None
+BERTRAM
+2.1 :And I will do so. : None
+
+
+
+COUNTESS, BERTRAM, LAFEU, COUNTESS, BERTRAM, LAFEU, HELENA, KING, First Lord, KING, KING, First Lord, KING, First Lord, PAROLLES, PAROLLES, BERTRAM, 
