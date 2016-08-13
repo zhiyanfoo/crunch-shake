@@ -1,6 +1,6 @@
 Act(act=1)
 Scene(scene=1)
-Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black : ["Enter - ['BERTRAM', 'COUNTESS', 'HELENA', 'LAFEU', 'all']"] : None
+Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black : ["Enter - ['BERTRAM', 'COUNTESS', 'HELENA', 'LAFEU', 'ALL']"] : None
 COUNTESS
 1.1 :In delivering my son from me, I bury a second husband. : None
 BERTRAM
@@ -233,10 +233,10 @@ HELENA
 1.1 :Might with effects of them follow our friends, : None
 1.1 :And show what we alone must think, which never : None
 1.1 :Return us thanks. : None
-Enter Page : ["Enter - ['Page']"] : HELENA
-Page
+Enter Page : ["Enter - ['PAGE']"] : HELENA
+PAGE
 1.1 :Monsieur Parolles, my lord calls for you. : None
-Exit : ['Exit - []'] : Page
+Exit : ['Exit - []'] : PAGE
 PAROLLES
 1.1 :Little Helen, farewell; if I can remember thee, I : None
 1.1 :will think of thee at court. : None
@@ -299,7 +299,7 @@ KING
 1.2 :The Florentines and Senoys are by the ears; : None
 1.2 :Have fought with equal fortune and continue : None
 1.2 :A braving war. : None
-First Lord
+FIRST LORD
 1.2 :                  So 'tis reported, sir. : None
 KING
 1.2 :Nay, 'tis most credible; we here received it : None
@@ -308,7 +308,7 @@ KING
 1.2 :For speedy aid; wherein our dearest friend : None
 1.2 :Prejudicates the business and would seem : None
 1.2 :To have us make denial. : None
-First Lord
+FIRST LORD
 1.2 :His love and wisdom, : None
 1.2 :Approved so to your majesty, may plead : None
 1.2 :For amplest credence. : None
@@ -318,14 +318,14 @@ KING
 1.2 :Yet, for our gentlemen that mean to see : None
 1.2 :The Tuscan service, freely have they leave : None
 1.2 :To stand on either part. : None
-Second Lord
+SECOND LORD
 1.2 :It well may serve : None
 1.2 :A nursery to our gentry, who are sick : None
 1.2 :For breathing and exploit. : None
 KING
 1.2 :What's he comes here? : None
 Enter BERTRAM, LAFEU, and PAROLLES : ["Enter - ['BERTRAM', 'LAFEU', 'PAROLLES']"] : KING
-First Lord
+FIRST LORD
 1.2 :It is the Count Rousillon, my good lord, : None
 1.2 :Young Bertram. : None
 KING
@@ -383,7 +383,7 @@ KING
 1.2 :Since I nor wax nor honey can bring home, : None
 1.2 :I quickly were dissolved from my hive, : None
 1.2 :To give some labourers room. : None
-Second Lord
+SECOND LORD
 1.2 :You are loved, sir: : None
 1.2 :They that least lend it you shall lack you first. : None
 KING
@@ -402,10 +402,10 @@ BERTRAM
 1.2 :Thank your majesty. : None
 Exeunt. Flourish : ['Exeunt - []', 'None - []'] : BERTRAM
 Scene(scene=3)
-Enter COUNTESS, Steward, and Clown : ["Enter - ['COUNTESS', 'Steward', 'Clown']"] : BERTRAM
+Enter COUNTESS, Steward, and Clown : ["Enter - ['COUNTESS', 'STEWARD', 'CLOWN']"] : BERTRAM
 COUNTESS
 1.3 :I will now hear; what say you of this gentlewoman? : None
-Steward
+STEWARD
 1.3 :Madam, the care I have had to even your content, I : None
 1.3 :wish might be found in the calendar of my past : None
 1.3 :endeavours; for then we wound our modesty and make : None
@@ -417,50 +417,50 @@ COUNTESS
 1.3 :believe: 'tis my slowness that I do not; for I know : None
 1.3 :you lack not folly to commit them, and have ability : None
 1.3 :enough to make such knaveries yours. : None
-Clown
+CLOWN
 1.3 :'Tis not unknown to you, madam, I am a poor fellow. : None
 COUNTESS
 1.3 :Well, sir. : None
-Clown
+CLOWN
 1.3 :No, madam, 'tis not so well that I am poor, though : None
 1.3 :many of the rich are damned: but, if I may have : None
 1.3 :your ladyship's good will to go to the world, Isbel : None
 1.3 :the woman and I will do as we may. : None
 COUNTESS
 1.3 :Wilt thou needs be a beggar? : None
-Clown
+CLOWN
 1.3 :I do beg your good will in this case. : None
 COUNTESS
 1.3 :In what case? : None
-Clown
+CLOWN
 1.3 :In Isbel's case and mine own. Service is no : None
 1.3 :heritage: and I think I shall never have the : None
 1.3 :blessing of God till I have issue o' my body; for : None
 1.3 :they say barnes are blessings. : None
 COUNTESS
 1.3 :Tell me thy reason why thou wilt marry. : None
-Clown
+CLOWN
 1.3 :My poor body, madam, requires it: I am driven on : None
 1.3 :by the flesh; and he must needs go that the devil drives. : None
 COUNTESS
 1.3 :Is this all your worship's reason? : None
-Clown
+CLOWN
 1.3 :Faith, madam, I have other holy reasons such as they : None
 1.3 :are. : None
 COUNTESS
 1.3 :May the world know them? : None
-Clown
+CLOWN
 1.3 :I have been, madam, a wicked creature, as you and : None
 1.3 :all flesh and blood are; and, indeed, I do marry : None
 1.3 :that I may repent. : None
 COUNTESS
 1.3 :Thy marriage, sooner than thy wickedness. : None
-Clown
+CLOWN
 1.3 :I am out o' friends, madam; and I hope to have : None
 1.3 :friends for my wife's sake. : None
 COUNTESS
 1.3 :Such friends are thine enemies, knave. : None
-Clown
+CLOWN
 1.3 :You're shallow, madam, in great friends; for the : None
 1.3 :knaves come to do that for me which I am aweary of. : None
 1.3 :He that ears my land spares my team and gives me : None
@@ -477,7 +477,7 @@ Clown
 1.3 :horns together, like any deer i' the herd. : None
 COUNTESS
 1.3 :Wilt thou ever be a foul-mouthed and calumnious knave? : None
-Clown
+CLOWN
 1.3 :A prophet I, madam; and I speak the truth the next : None
 1.3 :way: : None
 1.3 :For I the ballad will repeat, : None
@@ -486,13 +486,13 @@ Clown
 1.3 :Your cuckoo sings by kind. : None
 COUNTESS
 1.3 :Get you gone, sir; I'll talk with you more anon. : None
-Steward
+STEWARD
 1.3 :May it please you, madam, that he bid Helen come to : None
 1.3 :you: of her I am to speak. : None
 COUNTESS
 1.3 :Sirrah, tell my gentlewoman I would speak with her; : None
 1.3 :Helen, I mean. : None
-Clown
+CLOWN
 1.3 :     Was this fair face the cause, quoth she, : None
 1.3 :Why the Grecians sacked Troy? : None
 1.3 :Fond done, done fond, : None
@@ -505,7 +505,7 @@ Clown
 1.3 :There's yet one good in ten. : None
 COUNTESS
 1.3 :What, one good in ten? you corrupt the song, sirrah. : None
-Clown
+CLOWN
 1.3 :One good woman in ten, madam; which is a purifying : None
 1.3 :o' the song: would God would serve the world so all : None
 1.3 :the year! we'ld find no fault with the tithe-woman, : None
@@ -516,16 +516,16 @@ Clown
 1.3 :one. : None
 COUNTESS
 1.3 :You'll be gone, sir knave, and do as I command you. : None
-Clown
+CLOWN
 1.3 :That man should be at woman's command, and yet no : None
 1.3 :hurt done! Though honesty be no puritan, yet it : None
 1.3 :will do no hurt; it will wear the surplice of : None
 1.3 :humility over the black gown of a big heart. I am : None
 1.3 :going, forsooth: the business is for Helen to come hither. : None
-Exit : ['Exit - []'] : Clown
+Exit : ['Exit - []'] : CLOWN
 COUNTESS
 1.3 :Well, now. : None
-Steward
+STEWARD
 1.3 :I know, madam, you love your gentlewoman entirely. : None
 COUNTESS
 1.3 :Faith, I do: her father bequeathed her to me; and : None
@@ -533,7 +533,7 @@ COUNTESS
 1.3 :make title to as much love as she finds: there is : None
 1.3 :more owing her than is paid; and more shall be paid : None
 1.3 :her than she'll demand. : None
-Steward
+STEWARD
 1.3 :Madam, I was very late more near her than I think : None
 1.3 :she wished me: alone she was, and did communicate : None
 1.3 :to herself her own words to her own ears; she : None
@@ -557,7 +557,7 @@ COUNTESS
 1.3 :I could neither believe nor misdoubt. Pray you, : None
 1.3 :leave me: stall this in your bosom; and I thank you : None
 1.3 :for your honest care: I will speak with you further anon. : None
-Exit Steward : ["Exit - ['Steward']"] : COUNTESS
+Exit Steward : ["Exit - ['STEWARD']"] : COUNTESS
 Enter HELENA : ["Enter - ['HELENA']"] : COUNTESS
 1.3 :Even so it was with me when I was young: : None
 1.3 :If ever we are nature's, these are ours; this thorn : None
@@ -740,7 +740,7 @@ KING
 2.1 :Share the advice betwixt you; if both gain, all : None
 2.1 :The gift doth stretch itself as 'tis received, : None
 2.1 :And is enough for both. : None
-First Lord
+FIRST LORD
 2.1 :'Tis our hope, sir, : None
 2.1 :After well enter'd soldiers, to return : None
 2.1 :And find your grace in health. : None
@@ -755,23 +755,23 @@ KING
 2.1 :Not to woo honour, but to wed it; when : None
 2.1 :The bravest questant shrinks, find what you seek, : None
 2.1 :That fame may cry you loud: I say, farewell. : None
-Second Lord
+SECOND LORD
 2.1 :Health, at your bidding, serve your majesty! : None
 KING
 2.1 :Those girls of Italy, take heed of them: : None
 2.1 :They say, our French lack language to deny, : None
 2.1 :If they demand: beware of being captives, : None
 2.1 :Before you serve. : None
-Both
+BOTH
 2.1 :                  Our hearts receive your warnings. : None
 KING
 2.1 :Farewell. Come hither to me. : None
 Exit, attended : ['Exit - []'] : KING
-First Lord
+FIRST LORD
 2.1 :O, my sweet lord, that you will stay behind us! : None
 PAROLLES
 2.1 :'Tis not his fault, the spark. : None
-Second Lord
+SECOND LORD
 2.1 :O, 'tis brave wars! : None
 PAROLLES
 2.1 :Most admirable: I have seen those wars. : None
@@ -785,17 +785,17 @@ BERTRAM
 2.1 :Creaking my shoes on the plain masonry, : None
 2.1 :Till honour be bought up and no sword worn : None
 2.1 :But one to dance with! By heaven, I'll steal away. : None
-First Lord
+FIRST LORD
 2.1 :There's honour in the theft. : None
 PAROLLES
 2.1 :Commit it, count. : None
-Second Lord
+SECOND LORD
 2.1 :I am your accessary; and so, farewell. : None
 BERTRAM
 2.1 :I grow to you, and our parting is a tortured body. : None
-First Lord
+FIRST LORD
 2.1 :Farewell, captain. : None
-Second Lord
+SECOND LORD
 2.1 :Sweet Monsieur Parolles! : None
 PAROLLES
 2.1 :Noble heroes, my sword and yours are kin. Good : None
@@ -805,9 +805,9 @@ PAROLLES
 2.1 :on his sinister cheek; it was this very sword : None
 2.1 :entrenched it: say to him, I live; and observe his : None
 2.1 :reports for me. : None
-First Lord
+FIRST LORD
 2.1 :We shall, noble captain. : None
-Exeunt Lords : ['Exeunt - []'] : First Lord
+Exeunt Lords : ['Exeunt - []'] : FIRST LORD
 PAROLLES
 2.1 :Mars dote on you for his novices! what will ye do? : None
 BERTRAM
@@ -1029,17 +1029,17 @@ KING
 2.1 :As high as word, my deed shall match thy meed. : None
 Flourish. Exeunt : ['None - []', 'Exeunt - []'] : KING
 Scene(scene=2)
-Enter COUNTESS and Clown : ["Enter - ['COUNTESS', 'Clown']"] : KING
+Enter COUNTESS and Clown : ["Enter - ['COUNTESS', 'CLOWN']"] : KING
 COUNTESS
 2.2 :Come on, sir; I shall now put you to the height of : None
 2.2 :your breeding. : None
-Clown
+CLOWN
 2.2 :I will show myself highly fed and lowly taught: I : None
 2.2 :know my business is but to the court. : None
 COUNTESS
 2.2 :To the court! why, what place make you special, : None
 2.2 :when you put off that with such contempt? But to the court! : None
-Clown
+CLOWN
 2.2 :Truly, madam, if God have lent a man any manners, he : None
 2.2 :may easily put it off at court: he that cannot make : None
 2.2 :a leg, put off's cap, kiss his hand and say nothing, : None
@@ -1050,13 +1050,13 @@ Clown
 COUNTESS
 2.2 :Marry, that's a bountiful answer that fits all : None
 2.2 :questions. : None
-Clown
+CLOWN
 2.2 :It is like a barber's chair that fits all buttocks, : None
 2.2 :the pin-buttock, the quatch-buttock, the brawn : None
 2.2 :buttock, or any buttock. : None
 COUNTESS
 2.2 :Will your answer serve fit to all questions? : None
-Clown
+CLOWN
 2.2 :As fit as ten groats is for the hand of an attorney, : None
 2.2 :as your French crown for your taffeta punk, as Tib's : None
 2.2 :rush for Tom's forefinger, as a pancake for Shrove : None
@@ -1067,13 +1067,13 @@ Clown
 COUNTESS
 2.2 :Have you, I say, an answer of such fitness for all : None
 2.2 :questions? : None
-Clown
+CLOWN
 2.2 :From below your duke to beneath your constable, it : None
 2.2 :will fit any question. : None
 COUNTESS
 2.2 :It must be an answer of most monstrous size that : None
 2.2 :must fit all demands. : None
-Clown
+CLOWN
 2.2 :But a trifle neither, in good faith, if the learned : None
 2.2 :should speak truth of it: here it is, and all that : None
 2.2 :belongs to't. Ask me if I am a courtier: it shall : None
@@ -1082,48 +1082,48 @@ COUNTESS
 2.2 :To be young again, if we could: I will be a fool in : None
 2.2 :question, hoping to be the wiser by your answer. I : None
 2.2 :pray you, sir, are you a courtier? : None
-Clown
+CLOWN
 2.2 :O Lord, sir! There's a simple putting off. More, : None
 2.2 :more, a hundred of them. : None
 COUNTESS
 2.2 :Sir, I am a poor friend of yours, that loves you. : None
-Clown
+CLOWN
 2.2 :O Lord, sir! Thick, thick, spare not me. : None
 COUNTESS
 2.2 :I think, sir, you can eat none of this homely meat. : None
-Clown
+CLOWN
 2.2 :O Lord, sir! Nay, put me to't, I warrant you. : None
 COUNTESS
 2.2 :You were lately whipped, sir, as I think. : None
-Clown
+CLOWN
 2.2 :O Lord, sir! spare not me. : None
 COUNTESS
 2.2 :Do you cry, 'O Lord, sir!' at your whipping, and : None
 2.2 :'spare not me?' Indeed your 'O Lord, sir!' is very : None
 2.2 :sequent to your whipping: you would answer very well : None
 2.2 :to a whipping, if you were but bound to't. : None
-Clown
+CLOWN
 2.2 :I ne'er had worse luck in my life in my 'O Lord, : None
 2.2 :sir!' I see things may serve long, but not serve ever. : None
 COUNTESS
 2.2 :I play the noble housewife with the time : None
 2.2 :To entertain't so merrily with a fool. : None
-Clown
+CLOWN
 2.2 :O Lord, sir! why, there't serves well again. : None
 COUNTESS
 2.2 :An end, sir; to your business. Give Helen this, : None
 2.2 :And urge her to a present answer back: : None
 2.2 :Commend me to my kinsmen and my son: : None
 2.2 :This is not much. : None
-Clown
+CLOWN
 2.2 :Not much commendation to them. : None
 COUNTESS
 2.2 :Not much employment for you: you understand me? : None
-Clown
+CLOWN
 2.2 :Most fruitfully: I am there before my legs. : None
 COUNTESS
 2.2 :Haste you again. : None
-Exeunt severally : ["Exeunt - ['all']"] : COUNTESS
+Exeunt severally : ["Exeunt - ['ALL']"] : COUNTESS
 Scene(scene=3)
 Enter BERTRAM, LAFEU, and PAROLLES : ["Enter - ['BERTRAM', 'LAFEU', 'PAROLLES']"] : COUNTESS
 LAFEU
@@ -1228,7 +1228,7 @@ KING
 HELENA
 2.3 :Gentlemen, : None
 2.3 :Heaven hath through me restored the king to health. : None
-All
+ALL
 2.3 :We understand it, and thank heaven for you. : None
 HELENA
 2.3 :I am a simple maid, and therein wealthiest, : None
@@ -1245,7 +1245,7 @@ HELENA
 2.3 :Now, Dian, from thy altar do I fly, : None
 2.3 :And to imperial Love, that god most high, : None
 2.3 :Do my sighs stream. Sir, will you hear my suit? : None
-First Lord
+FIRST LORD
 2.3 :And grant it. : None
 HELENA
 2.3 :                  Thanks, sir; all the rest is mute. : None
@@ -1257,7 +1257,7 @@ HELENA
 2.3 :Before I speak, too threateningly replies: : None
 2.3 :Love make your fortunes twenty times above : None
 2.3 :Her that so wishes and her humble love! : None
-Second Lord
+SECOND LORD
 2.3 :No better, if you please. : None
 HELENA
 2.3 :My wish receive, : None
@@ -1278,7 +1278,7 @@ LAFEU
 HELENA
 2.3 :You are too young, too happy, and too good, : None
 2.3 :To make yourself a son out of my blood. : None
-Fourth Lord
+FOURTH LORD
 2.3 :Fair one, I think not so. : None
 LAFEU
 2.3 :There's one grape yet; I am sure thy father drunk : None
@@ -1386,7 +1386,7 @@ KING
 2.3 :Shall more attend upon the coming space, : None
 2.3 :Expecting absent friends. As thou lovest her, : None
 2.3 :Thy love's to me religious; else, does err. : None
-Exeunt all but LAFEU and PAROLLES : ["Exeunt - ['all', 'LAFEU', 'PAROLLES']"] : KING
+Exeunt all but LAFEU and PAROLLES : ["Exeunt - ['ALL', 'LAFEU', 'PAROLLES']"] : KING
 LAFEU
 2.3 :  Do you hear, monsieur? a word with you. : Advancing : ['None - []'] : LAFEU
 PAROLLES
@@ -1548,10 +1548,10 @@ PAROLLES
 2.3 :The king has done you wrong: but, hush, 'tis so. : None
 Exeunt : ['Exeunt - []'] : PAROLLES
 Scene(scene=4)
-Enter HELENA and Clown : ["Enter - ['HELENA', 'Clown']"] : PAROLLES
+Enter HELENA and Clown : ["Enter - ['HELENA', 'CLOWN']"] : PAROLLES
 HELENA
 2.4 :My mother greets me kindly; is she well? : None
-Clown
+CLOWN
 2.4 :She is not well; but yet she has her health: she's : None
 2.4 :very merry; but yet she is not well: but thanks be : None
 2.4 :given, she's very well and wants nothing i', the : None
@@ -1559,15 +1559,15 @@ Clown
 HELENA
 2.4 :If she be very well, what does she ail, that she's : None
 2.4 :not very well? : None
-Clown
+CLOWN
 2.4 :Truly, she's very well indeed, but for two things. : None
 HELENA
 2.4 :What two things? : None
-Clown
+CLOWN
 2.4 :One, that she's not in heaven, whither God send her : None
 2.4 :quickly! the other that she's in earth, from whence : None
 2.4 :God send her quickly! : None
-Enter PAROLLES : ["Enter - ['PAROLLES']"] : Clown
+Enter PAROLLES : ["Enter - ['PAROLLES']"] : CLOWN
 PAROLLES
 2.4 :Bless you, my fortunate lady! : None
 HELENA
@@ -1576,12 +1576,12 @@ HELENA
 PAROLLES
 2.4 :You had my prayers to lead them on; and to keep them : None
 2.4 :on, have them still. O, my knave, how does my old lady? : None
-Clown
+CLOWN
 2.4 :So that you had her wrinkles and I her money, : None
 2.4 :I would she did as you say. : None
 PAROLLES
 2.4 :Why, I say nothing. : None
-Clown
+CLOWN
 2.4 :Marry, you are the wiser man; for many a man's : None
 2.4 :tongue shakes out his master's undoing: to say : None
 2.4 :nothing, to do nothing, to know nothing, and to have : None
@@ -1589,13 +1589,13 @@ Clown
 2.4 :is within a very little of nothing. : None
 PAROLLES
 2.4 :Away! thou'rt a knave. : None
-Clown
+CLOWN
 2.4 :You should have said, sir, before a knave thou'rt a : None
 2.4 :knave; that's, before me thou'rt a knave: this had : None
 2.4 :been truth, sir. : None
 PAROLLES
 2.4 :Go to, thou art a witty fool; I have found thee. : None
-Clown
+CLOWN
 2.4 :Did you find me in yourself, sir? or were you : None
 2.4 :taught to find me? The search, sir, was profitable; : None
 2.4 :and much fool may you find in you, even to the : None
@@ -1785,7 +1785,7 @@ DUKE
 3.1 :The fundamental reasons of this war, : None
 3.1 :Whose great decision hath much blood let forth : None
 3.1 :And more thirsts after. : None
-First Lord
+FIRST LORD
 3.1 :Holy seems the quarrel : None
 3.1 :Upon your grace's part; black and fearful : None
 3.1 :On the opposer. : None
@@ -1793,7 +1793,7 @@ DUKE
 3.1 :Therefore we marvel much our cousin France : None
 3.1 :Would in so just a business shut his bosom : None
 3.1 :Against our borrowing prayers. : None
-Second Lord
+SECOND LORD
 3.1 :Good my lord, : None
 3.1 :The reasons of our state I cannot yield, : None
 3.1 :But like a common and an outward man, : None
@@ -1804,7 +1804,7 @@ Second Lord
 3.1 :As often as I guess'd. : None
 DUKE
 3.1 :Be it his pleasure. : None
-First Lord
+FIRST LORD
 3.1 :But I am sure the younger of our nature, : None
 3.1 :That surfeit on their ease, will day by day : None
 3.1 :Come here for physic. : None
@@ -1816,16 +1816,16 @@ DUKE
 3.1 :To-morrow to the field. : None
 Flourish. Exeunt : ['None - []', 'Exeunt - []'] : DUKE
 Scene(scene=2)
-Enter COUNTESS and Clown : ["Enter - ['COUNTESS', 'Clown']"] : DUKE
+Enter COUNTESS and Clown : ["Enter - ['COUNTESS', 'CLOWN']"] : DUKE
 COUNTESS
 3.2 :It hath happened all as I would have had it, save : None
 3.2 :that he comes not along with her. : None
-Clown
+CLOWN
 3.2 :By my troth, I take my young lord to be a very : None
 3.2 :melancholy man. : None
 COUNTESS
 3.2 :By what observance, I pray you? : None
-Clown
+CLOWN
 3.2 :Why, he will look upon his boot and sing; mend the : None
 3.2 :ruff and sing; ask questions and sing; pick his : None
 3.2 :teeth and sing. I know a man that had this trick of : None
@@ -1833,7 +1833,7 @@ Clown
 COUNTESS
 3.2 :Let me see what he writes, and when he means to come. : None
 Opening a letter : ['None - []'] : COUNTESS
-Clown
+CLOWN
 3.2 :I have no mind to Isbel since I was at court: our : None
 3.2 :old ling and our Isbels o' the country are nothing : None
 3.2 :like your old ling and your Isbels o' the court: : None
@@ -1841,9 +1841,9 @@ Clown
 3.2 :love, as an old man loves money, with no stomach. : None
 COUNTESS
 3.2 :What have we here? : None
-Clown
+CLOWN
 3.2 :E'en that you have there. : None
-Exit : ['Exit - []'] : Clown
+Exit : ['Exit - []'] : CLOWN
 COUNTESS
 3.2 :  I have sent you a daughter-in-law: she hath : Reads : ['Read - []'] : COUNTESS
 3.2 :recovered the king, and undone me. I have wedded : None
@@ -1858,38 +1858,38 @@ COUNTESS
 3.2 :To pluck his indignation on thy head : None
 3.2 :By the misprising of a maid too virtuous : None
 3.2 :For the contempt of empire. : None
-Re-enter Clown : ["Re-enter - ['Clown']"] : COUNTESS
-Clown
+Re-enter Clown : ["Re-enter - ['CLOWN']"] : COUNTESS
+CLOWN
 3.2 :O madam, yonder is heavy news within between two : None
 3.2 :soldiers and my young lady! : None
 COUNTESS
 3.2 :What is the matter? : None
-Clown
+CLOWN
 3.2 :Nay, there is some comfort in the news, some : None
 3.2 :comfort; your son will not be killed so soon as I : None
 3.2 :thought he would. : None
 COUNTESS
 3.2 :Why should he be killed? : None
-Clown
+CLOWN
 3.2 :So say I, madam, if he run away, as I hear he does: : None
 3.2 :the danger is in standing to't; that's the loss of : None
 3.2 :men, though it be the getting of children. Here : None
 3.2 :they come will tell you more: for my part, I only : None
 3.2 :hear your son was run away. : None
-Exit : ['Exit - []'] : Clown
-Enter HELENA, and two Gentlemen : ["Enter - ['HELENA']"] : Clown
-First Gentleman
+Exit : ['Exit - []'] : CLOWN
+Enter HELENA, and two Gentlemen : ["Enter - ['HELENA']"] : CLOWN
+FIRST GENTLEMAN
 3.2 :Save you, good madam. : None
 HELENA
 3.2 :Madam, my lord is gone, for ever gone. : None
-Second Gentleman
+SECOND GENTLEMAN
 3.2 :Do not say so. : None
 COUNTESS
 3.2 :Think upon patience. Pray you, gentlemen, : None
 3.2 :I have felt so many quirks of joy and grief, : None
 3.2 :That the first face of neither, on the start, : None
 3.2 :Can woman me unto't: where is my son, I pray you? : None
-Second Gentleman
+SECOND GENTLEMAN
 3.2 :Madam, he's gone to serve the duke of Florence: : None
 3.2 :We met him thitherward; for thence we came, : None
 3.2 :And, after some dispatch in hand at court, : None
@@ -1904,7 +1904,7 @@ Reads : ['Read - []'] : HELENA
 3.2 :This is a dreadful sentence. : None
 COUNTESS
 3.2 :Brought you this letter, gentlemen? : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :Ay, madam; : None
 3.2 :And for the contents' sake are sorry for our pain. : None
 COUNTESS
@@ -1913,17 +1913,17 @@ COUNTESS
 3.2 :Thou robb'st me of a moiety: he was my son; : None
 3.2 :But I do wash his name out of my blood, : None
 3.2 :And thou art all my child. Towards Florence is he? : None
-Second Gentleman
+SECOND GENTLEMAN
 3.2 :Ay, madam. : None
 COUNTESS
 3.2 :         And to be a soldier? : None
-Second Gentleman
+SECOND GENTLEMAN
 3.2 :Such is his noble purpose; and believe 't, : None
 3.2 :The duke will lay upon him all the honour : None
 3.2 :That good convenience claims. : None
 COUNTESS
 3.2 :Return you thither? : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :Ay, madam, with the swiftest wing of speed. : None
 HELENA
 3.2 :  Till I have no wife I have nothing in France. : Reads : ['Read - []'] : HELENA
@@ -1932,7 +1932,7 @@ COUNTESS
 3.2 :                  Find you that there? : None
 HELENA
 3.2 :Ay, madam. : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :'Tis but the boldness of his hand, haply, which his : None
 3.2 :heart was not consenting to. : None
 COUNTESS
@@ -1941,18 +1941,18 @@ COUNTESS
 3.2 :But only she; and she deserves a lord : None
 3.2 :That twenty such rude boys might tend upon : None
 3.2 :And call her hourly mistress. Who was with him? : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :A servant only, and a gentleman : None
 3.2 :Which I have sometime known. : None
 COUNTESS
 3.2 :Parolles, was it not? : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :Ay, my good lady, he. : None
 COUNTESS
 3.2 :A very tainted fellow, and full of wickedness. : None
 3.2 :My son corrupts a well-derived nature : None
 3.2 :With his inducement. : None
-First Gentleman
+FIRST GENTLEMAN
 3.2 :Indeed, good lady, : None
 3.2 :The fellow has a deal of that too much, : None
 3.2 :Which holds him much to have. : None
@@ -1962,7 +1962,7 @@ COUNTESS
 3.2 :To tell him that his sword can never win : None
 3.2 :The honour that he loses: more I'll entreat you : None
 3.2 :Written to bear along. : None
-Second Gentleman
+SECOND GENTLEMAN
 3.2 :We serve you, madam, : None
 3.2 :In that and all your worthiest affairs. : None
 COUNTESS
@@ -2024,13 +2024,13 @@ BERTRAM
 3.3 :A lover of thy drum, hater of love. : None
 Exeunt : ['Exeunt - []'] : BERTRAM
 Scene(scene=4)
-Enter COUNTESS and Steward : ["Enter - ['COUNTESS', 'Steward']"] : BERTRAM
+Enter COUNTESS and Steward : ["Enter - ['COUNTESS', 'STEWARD']"] : BERTRAM
 COUNTESS
 3.4 :Alas! and would you take the letter of her? : None
 3.4 :Might you not know she would do as she has done, : None
 3.4 :By sending me a letter? Read it again. : None
-Steward
-3.4 : : Reads : ['Read - []'] : Steward
+STEWARD
+3.4 : : Reads : ['Read - []'] : STEWARD
 3.4 :I am Saint Jaques' pilgrim, thither gone: : None
 3.4 :Ambitious love hath so in me offended, : None
 3.4 :That barefoot plod I the cold ground upon, : None
@@ -2051,7 +2051,7 @@ COUNTESS
 3.4 :As letting her pass so: had I spoke with her, : None
 3.4 :I could have well diverted her intents, : None
 3.4 :Which thus she hath prevented. : None
-Steward
+STEWARD
 3.4 :Pardon me, madam: : None
 3.4 :If I had given you this at over-night, : None
 3.4 :She might have been o'erta'en; and yet she writes, : None
@@ -2077,17 +2077,17 @@ COUNTESS
 3.4 :Grief would have tears, and sorrow bids me speak. : None
 Exeunt : ['Exeunt - []'] : COUNTESS
 Scene(scene=5)
-Enter an old Widow of Florence, DIANA, VIOLENTA, and MARIANA, with other Citizens : ["Enter - ['Widow', 'DIANA', 'MARIANA']"] : COUNTESS
-Widow
+Enter an old Widow of Florence, DIANA, VIOLENTA, and MARIANA, with other Citizens : ["Enter - ['WIDOW', 'DIANA', 'MARIANA']"] : COUNTESS
+WIDOW
 3.5 :Nay, come; for if they do approach the city, we : None
 3.5 :shall lose all the sight. : None
 DIANA
 3.5 :They say the French count has done most honourable service. : None
-Widow
+WIDOW
 3.5 :It is reported that he has taken their greatest : None
 3.5 :commander; and that with his own hand he slew the : None
 3.5 :duke's brother. : None
-Tucket : ['None - []'] : Widow
+Tucket : ['None - []'] : WIDOW
 3.5 :We have lost our labour; they are gone a contrary : None
 3.5 :way: hark! you may know by their trumpets. : None
 MARIANA
@@ -2095,7 +2095,7 @@ MARIANA
 3.5 :the report of it. Well, Diana, take heed of this : None
 3.5 :French earl: the honour of a maid is her name; and : None
 3.5 :no legacy is so rich as honesty. : None
-Widow
+WIDOW
 3.5 :I have told my neighbour how you have been solicited : None
 3.5 :by a gentleman his companion. : None
 MARIANA
@@ -2114,22 +2114,22 @@ MARIANA
 3.5 :modesty which is so lost. : None
 DIANA
 3.5 :You shall not need to fear me. : None
-Widow
+WIDOW
 3.5 :I hope so. : None
-Enter HELENA, disguised like a Pilgrim : ["Enter - ['HELENA']"] : Widow
+Enter HELENA, disguised like a Pilgrim : ["Enter - ['HELENA']"] : WIDOW
 3.5 :Look, here comes a pilgrim: I know she will lie at : None
 3.5 :my house; thither they send one another: I'll : None
 3.5 :question her. God save you, pilgrim! whither are you bound? : None
 HELENA
 3.5 :To Saint Jaques le Grand. : None
 3.5 :Where do the palmers lodge, I do beseech you? : None
-Widow
+WIDOW
 3.5 :At the Saint Francis here beside the port. : None
 HELENA
 3.5 :Is this the way? : None
-Widow
+WIDOW
 3.5 :Ay, marry, is't. : None
-A march afar : ['None - []'] : Widow
+A march afar : ['None - []'] : WIDOW
 3.5 :Hark you! they come this way. : None
 3.5 :If you will tarry, holy pilgrim, : None
 3.5 :But till the troops come by, : None
@@ -2138,15 +2138,15 @@ A march afar : ['None - []'] : Widow
 3.5 :As ample as myself. : None
 HELENA
 3.5 :Is it yourself? : None
-Widow
+WIDOW
 3.5 :If you shall please so, pilgrim. : None
 HELENA
 3.5 :I thank you, and will stay upon your leisure. : None
-Widow
+WIDOW
 3.5 :You came, I think, from France? : None
 HELENA
 3.5 :I did so. : None
-Widow
+WIDOW
 3.5 :Here you shall see a countryman of yours : None
 3.5 :That has done worthy service. : None
 HELENA
@@ -2181,7 +2181,7 @@ DIANA
 3.5 :Alas, poor lady! : None
 3.5 :'Tis a hard bondage to become the wife : None
 3.5 :Of a detesting lord. : None
-Widow
+WIDOW
 3.5 :I warrant, good creature, wheresoe'er she is, : None
 3.5 :Her heart weighs sadly: this young maid might do her : None
 3.5 :A shrewd turn, if she pleased. : None
@@ -2189,7 +2189,7 @@ HELENA
 3.5 :How do you mean? : None
 3.5 :May be the amorous count solicits her : None
 3.5 :In the unlawful purpose. : None
-Widow
+WIDOW
 3.5 :He does indeed; : None
 3.5 :And brokes with all that can in such a suit : None
 3.5 :Corrupt the tender honour of a maid: : None
@@ -2197,10 +2197,10 @@ Widow
 3.5 :In honestest defence. : None
 MARIANA
 3.5 :The gods forbid else! : None
-Widow
+WIDOW
 3.5 :So, now they come: : None
-Drum and Colours : ['None - []'] : Widow
-Enter BERTRAM, PAROLLES, and the whole army : ["Enter - ['BERTRAM', 'PAROLLES']"] : Widow
+Drum and Colours : ['None - []'] : WIDOW
+Enter BERTRAM, PAROLLES, and the whole army : ["Enter - ['BERTRAM', 'PAROLLES']"] : WIDOW
 3.5 :That is Antonio, the duke's eldest son; : None
 3.5 :That, Escalus. : None
 HELENA
@@ -2226,12 +2226,12 @@ PAROLLES
 3.5 :Lose our drum! well. : None
 MARIANA
 3.5 :He's shrewdly vexed at something: look, he has spied us. : None
-Widow
+WIDOW
 3.5 :Marry, hang you! : None
 MARIANA
 3.5 :And your courtesy, for a ring-carrier! : None
 Exeunt BERTRAM, PAROLLES, and army : ["Exeunt - ['BERTRAM', 'PAROLLES']"] : MARIANA
-Widow
+WIDOW
 3.5 :The troop is past. Come, pilgrim, I will bring you : None
 3.5 :Where you shall host: of enjoin'd penitents : None
 3.5 :There's four or five, to great Saint Jaques bound, : None
@@ -2248,33 +2248,33 @@ BOTH
 Exeunt : ['Exeunt - []'] : BOTH
 Scene(scene=6)
 Enter BERTRAM and the two French Lords : ["Enter - ['BERTRAM']"] : BOTH
-Second Lord
+SECOND LORD
 3.6 :Nay, good my lord, put him to't; let him have his : None
 3.6 :way. : None
-First Lord
+FIRST LORD
 3.6 :If your lordship find him not a hilding, hold me no : None
 3.6 :more in your respect. : None
-Second Lord
+SECOND LORD
 3.6 :On my life, my lord, a bubble. : None
 BERTRAM
 3.6 :Do you think I am so far deceived in him? : None
-Second Lord
+SECOND LORD
 3.6 :Believe it, my lord, in mine own direct knowledge, : None
 3.6 :without any malice, but to speak of him as my : None
 3.6 :kinsman, he's a most notable coward, an infinite and : None
 3.6 :endless liar, an hourly promise-breaker, the owner : None
 3.6 :of no one good quality worthy your lordship's : None
 3.6 :entertainment. : None
-First Lord
+FIRST LORD
 3.6 :It were fit you knew him; lest, reposing too far in : None
 3.6 :his virtue, which he hath not, he might at some : None
 3.6 :great and trusty business in a main danger fail you. : None
 BERTRAM
 3.6 :I would I knew in what particular action to try him. : None
-First Lord
+FIRST LORD
 3.6 :None better than to let him fetch off his drum, : None
 3.6 :which you hear him so confidently undertake to do. : None
-Second Lord
+SECOND LORD
 3.6 :I, with a troop of Florentines, will suddenly : None
 3.6 :surprise him; such I will have, whom I am sure he : None
 3.6 :knows not from the enemy: we will bind and hoodwink : None
@@ -2287,7 +2287,7 @@ Second Lord
 3.6 :intelligence in his power against you, and that with : None
 3.6 :the divine forfeit of his soul upon oath, never : None
 3.6 :trust my judgment in any thing. : None
-First Lord
+FIRST LORD
 3.6 :O, for the love of laughter, let him fetch his drum; : None
 3.6 :he says he has a stratagem for't: when your : None
 3.6 :lordship sees the bottom of his success in't, and to : None
@@ -2295,21 +2295,21 @@ First Lord
 3.6 :melted, if you give him not John Drum's : None
 3.6 :entertainment, your inclining cannot be removed. : None
 3.6 :Here he comes. : None
-Enter PAROLLES : ["Enter - ['PAROLLES']"] : First Lord
-Second Lord
-3.6 :  O, for the love of laughter, : Aside to BERTRAM : ["Aside - ['BERTRAM']"] : Second Lord
+Enter PAROLLES : ["Enter - ['PAROLLES']"] : FIRST LORD
+SECOND LORD
+3.6 :  O, for the love of laughter, : Aside to BERTRAM : ["Aside - ['BERTRAM']"] : SECOND LORD
 3.6 :hinder not the honour of his design: let him fetch : None
 3.6 :off his drum in any hand. : None
 BERTRAM
 3.6 :How now, monsieur! this drum sticks sorely in your : None
 3.6 :disposition. : None
-First Lord
+FIRST LORD
 3.6 :A pox on't, let it go; 'tis but a drum. : None
 PAROLLES
 3.6 :'But a drum'! is't 'but a drum'? A drum so lost! : None
 3.6 :There was excellent command,--to charge in with our : None
 3.6 :horse upon our own wings, and to rend our own soldiers! : None
-First Lord
+FIRST LORD
 3.6 :That was not to be blamed in the command of the : None
 3.6 :service: it was a disaster of war that Caesar : None
 3.6 :himself could not have prevented, if he had been : None
@@ -2357,13 +2357,13 @@ BERTRAM
 PAROLLES
 3.6 :I love not many words. : None
 Exit : ['Exit - []'] : PAROLLES
-Second Lord
+SECOND LORD
 3.6 :No more than a fish loves water. Is not this a : None
 3.6 :strange fellow, my lord, that so confidently seems : None
 3.6 :to undertake this business, which he knows is not to : None
 3.6 :be done; damns himself to do and dares better be : None
 3.6 :damned than to do't? : None
-First Lord
+FIRST LORD
 3.6 :You do not know him, my lord, as we do: certain it : None
 3.6 :is that he will steal himself into a man's favour and : None
 3.6 :for a week escape a great deal of discoveries; but : None
@@ -2371,28 +2371,28 @@ First Lord
 BERTRAM
 3.6 :Why, do you think he will make no deed at all of : None
 3.6 :this that so seriously he does address himself unto? : None
-Second Lord
+SECOND LORD
 3.6 :None in the world; but return with an invention and : None
 3.6 :clap upon you two or three probable lies: but we : None
 3.6 :have almost embossed him; you shall see his fall : None
 3.6 :to-night; for indeed he is not for your lordship's respect. : None
-First Lord
+FIRST LORD
 3.6 :We'll make you some sport with the fox ere we case : None
 3.6 :him. He was first smoked by the old lord Lafeu: : None
 3.6 :when his disguise and he is parted, tell me what a : None
 3.6 :sprat you shall find him; which you shall see this : None
 3.6 :very night. : None
-Second Lord
+SECOND LORD
 3.6 :I must go look my twigs: he shall be caught. : None
 BERTRAM
 3.6 :Your brother he shall go along with me. : None
-Second Lord
+SECOND LORD
 3.6 :As't please your lordship: I'll leave you. : None
-Exit : ['Exit - []'] : Second Lord
+Exit : ['Exit - []'] : SECOND LORD
 BERTRAM
 3.6 :Now will I lead you to the house, and show you : None
 3.6 :The lass I spoke of. : None
-First Lord
+FIRST LORD
 3.6 :But you say she's honest. : None
 BERTRAM
 3.6 :That's all the fault: I spoke with her but once : None
@@ -2401,16 +2401,16 @@ BERTRAM
 3.6 :Tokens and letters which she did re-send; : None
 3.6 :And this is all I have done. She's a fair creature: : None
 3.6 :Will you go see her? : None
-First Lord
+FIRST LORD
 3.6 :With all my heart, my lord. : None
-Exeunt : ['Exeunt - []'] : First Lord
+Exeunt : ['Exeunt - []'] : FIRST LORD
 Scene(scene=7)
-Enter HELENA and Widow : ["Enter - ['HELENA', 'Widow']"] : First Lord
+Enter HELENA and Widow : ["Enter - ['HELENA', 'WIDOW']"] : FIRST LORD
 HELENA
 3.7 :If you misdoubt me that I am not she, : None
 3.7 :I know not how I shall assure you further, : None
 3.7 :But I shall lose the grounds I work upon. : None
-Widow
+WIDOW
 3.7 :Though my estate be fallen, I was well born, : None
 3.7 :Nothing acquainted with these businesses; : None
 3.7 :And would not put my reputation now : None
@@ -2422,7 +2422,7 @@ HELENA
 3.7 :Is so from word to word; and then you cannot, : None
 3.7 :By the good aid that I of you shall borrow, : None
 3.7 :Err in bestowing it. : None
-Widow
+WIDOW
 3.7 :I should believe you: : None
 3.7 :For you have show'd me that which well approves : None
 3.7 :You're great in fortune. : None
@@ -2442,7 +2442,7 @@ HELENA
 3.7 :In most rich choice; yet in his idle fire, : None
 3.7 :To buy his will, it would not seem too dear, : None
 3.7 :Howe'er repented after. : None
-Widow
+WIDOW
 3.7 :Now I see : None
 3.7 :The bottom of your purpose. : None
 HELENA
@@ -2453,7 +2453,7 @@ HELENA
 3.7 :Herself most chastely absent: after this, : None
 3.7 :To marry her, I'll add three thousand crowns : None
 3.7 :To what is passed already. : None
-Widow
+WIDOW
 3.7 :I have yielded: : None
 3.7 :Instruct my daughter how she shall persever, : None
 3.7 :That time and place with this deceit so lawful : None
@@ -2473,24 +2473,24 @@ Exeunt : ['Exeunt - []'] : HELENA
 Act(act=4)
 Scene(scene=1)
 Enter Second French Lord, with five or six other Soldiers in ambush : ['Enter - []'] : HELENA
-Second Lord
+SECOND LORD
 4.1 :He can come no other way but by this hedge-corner. : None
 4.1 :When you sally upon him, speak what terrible : None
 4.1 :language you will: though you understand it not : None
 4.1 :yourselves, no matter; for we must not seem to : None
 4.1 :understand him, unless some one among us whom we : None
 4.1 :must produce for an interpreter. : None
-First Soldier
+FIRST SOLDIER
 4.1 :Good captain, let me be the interpreter. : None
-Second Lord
+SECOND LORD
 4.1 :Art not acquainted with him? knows he not thy voice? : None
-First Soldier
+FIRST SOLDIER
 4.1 :No, sir, I warrant you. : None
-Second Lord
+SECOND LORD
 4.1 :But what linsey-woolsey hast thou to speak to us again? : None
-First Soldier
+FIRST SOLDIER
 4.1 :E'en such as you speak to me. : None
-Second Lord
+SECOND LORD
 4.1 :He must think us some band of strangers i' the : None
 4.1 :adversary's entertainment. Now he hath a smack of : None
 4.1 :all neighbouring languages; therefore we must every : None
@@ -2501,7 +2501,7 @@ Second Lord
 4.1 :interpreter, you must seem very politic. But couch, : None
 4.1 :ho! here he comes, to beguile two hours in a sleep, : None
 4.1 :and then to return and swear the lies he forges. : None
-Enter PAROLLES : ["Enter - ['PAROLLES']"] : Second Lord
+Enter PAROLLES : ["Enter - ['PAROLLES']"] : SECOND LORD
 PAROLLES
 4.1 :Ten o'clock: within these three hours 'twill be : None
 4.1 :time enough to go home. What shall I say I have : None
@@ -2511,7 +2511,7 @@ PAROLLES
 4.1 :my tongue is too foolhardy; but my heart hath the : None
 4.1 :fear of Mars before it and of his creatures, not : None
 4.1 :daring the reports of my tongue. : None
-Second Lord
+SECOND LORD
 4.1 :This is the first truth that e'er thine own tongue : None
 4.1 :was guilty of. : None
 PAROLLES
@@ -2525,47 +2525,47 @@ PAROLLES
 4.1 :instance? Tongue, I must put you into a : None
 4.1 :butter-woman's mouth and buy myself another of : None
 4.1 :Bajazet's mule, if you prattle me into these perils. : None
-Second Lord
+SECOND LORD
 4.1 :Is it possible he should know what he is, and be : None
 4.1 :that he is? : None
 PAROLLES
 4.1 :I would the cutting of my garments would serve the : None
 4.1 :turn, or the breaking of my Spanish sword. : None
-Second Lord
+SECOND LORD
 4.1 :We cannot afford you so. : None
 PAROLLES
 4.1 :Or the baring of my beard; and to say it was in : None
 4.1 :stratagem. : None
-Second Lord
+SECOND LORD
 4.1 :'Twould not do. : None
 PAROLLES
 4.1 :Or to drown my clothes, and say I was stripped. : None
-Second Lord
+SECOND LORD
 4.1 :Hardly serve. : None
 PAROLLES
 4.1 :Though I swore I leaped from the window of the citadel. : None
-Second Lord
+SECOND LORD
 4.1 :How deep? : None
 PAROLLES
 4.1 :Thirty fathom. : None
-Second Lord
+SECOND LORD
 4.1 :Three great oaths would scarce make that be believed. : None
 PAROLLES
 4.1 :I would I had any drum of the enemy's: I would swear : None
 4.1 :I recovered it. : None
-Second Lord
+SECOND LORD
 4.1 :You shall hear one anon. : None
 PAROLLES
 4.1 :A drum now of the enemy's,-- : None
 Alarum within : ['None - []'] : PAROLLES
-Second Lord
+SECOND LORD
 4.1 :Throca movousus, cargo, cargo, cargo. : None
-All
+ALL
 4.1 :Cargo, cargo, cargo, villiando par corbo, cargo. : None
 PAROLLES
 4.1 :O, ransom, ransom! do not hide mine eyes. : None
 They seize and blindfold him : ['None - []'] : PAROLLES
-First Soldier
+FIRST SOLDIER
 4.1 :Boskos thromuldo boskos. : None
 PAROLLES
 4.1 :I know you are the Muskos' regiment: : None
@@ -2573,17 +2573,17 @@ PAROLLES
 4.1 :If there be here German, or Dane, low Dutch, : None
 4.1 :Italian, or French, let him speak to me; I'll : None
 4.1 :Discover that which shall undo the Florentine. : None
-First Soldier
+FIRST SOLDIER
 4.1 :Boskos vauvado: I understand thee, and can speak : None
 4.1 :thy tongue. Kerely bonto, sir, betake thee to thy : None
 4.1 :faith, for seventeen poniards are at thy bosom. : None
 PAROLLES
 4.1 :O! : None
-First Soldier
+FIRST SOLDIER
 4.1 :O, pray, pray, pray! Manka revania dulche. : None
-Second Lord
+SECOND LORD
 4.1 :Oscorbidulchos volivorco. : None
-First Soldier
+FIRST SOLDIER
 4.1 :The general is content to spare thee yet; : None
 4.1 :And, hoodwink'd as thou art, will lead thee on : None
 4.1 :To gather from thee: haply thou mayst inform : None
@@ -2593,30 +2593,30 @@ PAROLLES
 4.1 :And all the secrets of our camp I'll show, : None
 4.1 :Their force, their purposes; nay, I'll speak that : None
 4.1 :Which you will wonder at. : None
-First Soldier
+FIRST SOLDIER
 4.1 :But wilt thou faithfully? : None
 PAROLLES
 4.1 :If I do not, damn me. : None
-First Soldier
+FIRST SOLDIER
 4.1 :Acordo linta. : None
 4.1 :Come on; thou art granted space. : None
-Exit, with PAROLLES guarded. A short alarum within : ["Exit - ['PAROLLES']", 'None - []'] : First Soldier
-Second Lord
+Exit, with PAROLLES guarded. A short alarum within : ["Exit - ['PAROLLES']", 'None - []'] : FIRST SOLDIER
+SECOND LORD
 4.1 :Go, tell the Count Rousillon, and my brother, : None
 4.1 :We have caught the woodcock, and will keep him muffled : None
 4.1 :Till we do hear from them. : None
-Second Soldier
+SECOND SOLDIER
 4.1 :Captain, I will. : None
-Second Lord
+SECOND LORD
 4.1 :A' will betray us all unto ourselves: : None
 4.1 :Inform on that. : None
-Second Soldier
+SECOND SOLDIER
 4.1 :                  So I will, sir. : None
-Second Lord
+SECOND LORD
 4.1 :Till then I'll keep him dark and safely lock'd. : None
-Exeunt : ['Exeunt - []'] : Second Lord
+Exeunt : ['Exeunt - []'] : SECOND LORD
 Scene(scene=2)
-Enter BERTRAM and DIANA : ["Enter - ['BERTRAM', 'DIANA']"] : Second Lord
+Enter BERTRAM and DIANA : ["Enter - ['BERTRAM', 'DIANA']"] : SECOND LORD
 BERTRAM
 4.2 :They told me that your name was Fontibell. : None
 DIANA
@@ -2727,68 +2727,68 @@ DIANA
 Exit : ['Exit - []'] : DIANA
 Scene(scene=3)
 Enter the two French Lords and some two or three Soldiers : ['Enter - []'] : DIANA
-First Lord
+FIRST LORD
 4.3 :You have not given him his mother's letter? : None
-Second Lord
+SECOND LORD
 4.3 :I have delivered it an hour since: there is : None
 4.3 :something in't that stings his nature; for on the : None
 4.3 :reading it he changed almost into another man. : None
-First Lord
+FIRST LORD
 4.3 :He has much worthy blame laid upon him for shaking : None
 4.3 :off so good a wife and so sweet a lady. : None
-Second Lord
+SECOND LORD
 4.3 :Especially he hath incurred the everlasting : None
 4.3 :displeasure of the king, who had even tuned his : None
 4.3 :bounty to sing happiness to him. I will tell you a : None
 4.3 :thing, but you shall let it dwell darkly with you. : None
-First Lord
+FIRST LORD
 4.3 :When you have spoken it, 'tis dead, and I am the : None
 4.3 :grave of it. : None
-Second Lord
+SECOND LORD
 4.3 :He hath perverted a young gentlewoman here in : None
 4.3 :Florence, of a most chaste renown; and this night he : None
 4.3 :fleshes his will in the spoil of her honour: he hath : None
 4.3 :given her his monumental ring, and thinks himself : None
 4.3 :made in the unchaste composition. : None
-First Lord
+FIRST LORD
 4.3 :Now, God delay our rebellion! as we are ourselves, : None
 4.3 :what things are we! : None
-Second Lord
+SECOND LORD
 4.3 :Merely our own traitors. And as in the common course : None
 4.3 :of all treasons, we still see them reveal : None
 4.3 :themselves, till they attain to their abhorred ends, : None
 4.3 :so he that in this action contrives against his own : None
 4.3 :nobility, in his proper stream o'erflows himself. : None
-First Lord
+FIRST LORD
 4.3 :Is it not meant damnable in us, to be trumpeters of : None
 4.3 :our unlawful intents? We shall not then have his : None
 4.3 :company to-night? : None
-Second Lord
+SECOND LORD
 4.3 :Not till after midnight; for he is dieted to his hour. : None
-First Lord
+FIRST LORD
 4.3 :That approaches apace; I would gladly have him see : None
 4.3 :his company anatomized, that he might take a measure : None
 4.3 :of his own judgments, wherein so curiously he had : None
 4.3 :set this counterfeit. : None
-Second Lord
+SECOND LORD
 4.3 :We will not meddle with him till he come; for his : None
 4.3 :presence must be the whip of the other. : None
-First Lord
+FIRST LORD
 4.3 :In the mean time, what hear you of these wars? : None
-Second Lord
+SECOND LORD
 4.3 :I hear there is an overture of peace. : None
-First Lord
+FIRST LORD
 4.3 :Nay, I assure you, a peace concluded. : None
-Second Lord
+SECOND LORD
 4.3 :What will Count Rousillon do then? will he travel : None
 4.3 :higher, or return again into France? : None
-First Lord
+FIRST LORD
 4.3 :I perceive, by this demand, you are not altogether : None
 4.3 :of his council. : None
-Second Lord
+SECOND LORD
 4.3 :Let it be forbid, sir; so should I be a great deal : None
 4.3 :of his act. : None
-First Lord
+FIRST LORD
 4.3 :Sir, his wife some two months since fled from his : None
 4.3 :house: her pretence is a pilgrimage to Saint Jaques : None
 4.3 :le Grand; which holy undertaking with most austere : None
@@ -2796,47 +2796,47 @@ First Lord
 4.3 :tenderness of her nature became as a prey to her : None
 4.3 :grief; in fine, made a groan of her last breath, and : None
 4.3 :now she sings in heaven. : None
-Second Lord
+SECOND LORD
 4.3 :How is this justified? : None
-First Lord
+FIRST LORD
 4.3 :The stronger part of it by her own letters, which : None
 4.3 :makes her story true, even to the point of her : None
 4.3 :death: her death itself, which could not be her : None
 4.3 :office to say is come, was faithfully confirmed by : None
 4.3 :the rector of the place. : None
-Second Lord
+SECOND LORD
 4.3 :Hath the count all this intelligence? : None
-First Lord
+FIRST LORD
 4.3 :Ay, and the particular confirmations, point from : None
 4.3 :point, so to the full arming of the verity. : None
-Second Lord
+SECOND LORD
 4.3 :I am heartily sorry that he'll be glad of this. : None
-First Lord
+FIRST LORD
 4.3 :How mightily sometimes we make us comforts of our losses! : None
-Second Lord
+SECOND LORD
 4.3 :And how mightily some other times we drown our gain : None
 4.3 :in tears! The great dignity that his valour hath : None
 4.3 :here acquired for him shall at home be encountered : None
 4.3 :with a shame as ample. : None
-First Lord
+FIRST LORD
 4.3 :The web of our life is of a mingled yarn, good and : None
 4.3 :ill together: our virtues would be proud, if our : None
 4.3 :faults whipped them not; and our crimes would : None
 4.3 :despair, if they were not cherished by our virtues. : None
-Enter a Messenger : ['Enter - []'] : First Lord
+Enter a Messenger : ['Enter - []'] : FIRST LORD
 4.3 :How now! where's your master? : None
-Servant
+SERVANT
 4.3 :He met the duke in the street, sir, of whom he hath : None
 4.3 :taken a solemn leave: his lordship will next : None
 4.3 :morning for France. The duke hath offered him : None
 4.3 :letters of commendations to the king. : None
-Second Lord
+SECOND LORD
 4.3 :They shall be no more than needful there, if they : None
 4.3 :were more than they can commend. : None
-First Lord
+FIRST LORD
 4.3 :They cannot be too sweet for the king's tartness. : None
 4.3 :Here's his lordship now. : None
-Enter BERTRAM : ["Enter - ['BERTRAM']"] : First Lord
+Enter BERTRAM : ["Enter - ['BERTRAM']"] : FIRST LORD
 4.3 :How now, my lord! is't not after midnight? : None
 BERTRAM
 4.3 :I have to-night dispatched sixteen businesses, a : None
@@ -2847,7 +2847,7 @@ BERTRAM
 4.3 :and between these main parcels of dispatch effected : None
 4.3 :many nicer needs; the last was the greatest, but : None
 4.3 :that I have not ended yet. : None
-Second Lord
+SECOND LORD
 4.3 :If the business be of any difficulty, and this : None
 4.3 :morning your departure hence, it requires haste of : None
 4.3 :your lordship. : None
@@ -2857,13 +2857,13 @@ BERTRAM
 4.3 :dialogue between the fool and the soldier? Come, : None
 4.3 :bring forth this counterfeit module, he has deceived : None
 4.3 :me, like a double-meaning prophesier. : None
-Second Lord
+SECOND LORD
 4.3 :Bring him forth: has sat i' the stocks all night, : None
 4.3 :poor gallant knave. : None
 BERTRAM
 4.3 :No matter: his heels have deserved it, in usurping : None
 4.3 :his spurs so long. How does he carry himself? : None
-Second Lord
+SECOND LORD
 4.3 :I have told your lordship already, the stocks carry : None
 4.3 :him. But to answer you as you would be understood; : None
 4.3 :he weeps like a wench that had shed her milk: he : None
@@ -2873,74 +2873,74 @@ Second Lord
 4.3 :stocks: and what think you he hath confessed? : None
 BERTRAM
 4.3 :Nothing of me, has a'? : None
-Second Lord
+SECOND LORD
 4.3 :His confession is taken, and it shall be read to his : None
 4.3 :face: if your lordship be in't, as I believe you : None
 4.3 :are, you must have the patience to hear it. : None
-Enter PAROLLES guarded, and First Soldier : ["Enter - ['PAROLLES', 'First Soldier']"] : Second Lord
+Enter PAROLLES guarded, and First Soldier : ["Enter - ['PAROLLES', 'FIRST SOLDIER']"] : SECOND LORD
 BERTRAM
 4.3 :A plague upon him! muffled! he can say nothing of : None
 4.3 :me: hush, hush! : None
-First Lord
+FIRST LORD
 4.3 :Hoodman comes! Portotartarosa : None
-First Soldier
+FIRST SOLDIER
 4.3 :He calls for the tortures: what will you say : None
 4.3 :without 'em? : None
 PAROLLES
 4.3 :I will confess what I know without constraint: if : None
 4.3 :ye pinch me like a pasty, I can say no more. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Bosko chimurcho. : None
-First Lord
+FIRST LORD
 4.3 :Boblibindo chicurmurco. : None
-First Soldier
+FIRST SOLDIER
 4.3 :You are a merciful general. Our general bids you : None
 4.3 :answer to what I shall ask you out of a note. : None
 PAROLLES
 4.3 :And truly, as I hope to live. : None
-First Soldier
-4.3 :  'First demand of him how many horse the : Reads : ['Read - []'] : First Soldier
+FIRST SOLDIER
+4.3 :  'First demand of him how many horse the : Reads : ['Read - []'] : FIRST SOLDIER
 4.3 :duke is strong.' What say you to that? : None
 PAROLLES
 4.3 :Five or six thousand; but very weak and : None
 4.3 :unserviceable: the troops are all scattered, and : None
 4.3 :the commanders very poor rogues, upon my reputation : None
 4.3 :and credit and as I hope to live. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Shall I set down your answer so? : None
 PAROLLES
 4.3 :Do: I'll take the sacrament on't, how and which way you will. : None
 BERTRAM
 4.3 :All's one to him. What a past-saving slave is this! : None
-First Lord
+FIRST LORD
 4.3 :You're deceived, my lord: this is Monsieur : None
 4.3 :Parolles, the gallant militarist,--that was his own : None
 4.3 :phrase,--that had the whole theoric of war in the : None
 4.3 :knot of his scarf, and the practise in the chape of : None
 4.3 :his dagger. : None
-Second Lord
+SECOND LORD
 4.3 :I will never trust a man again for keeping his sword : None
 4.3 :clean. nor believe he can have every thing in him : None
 4.3 :by wearing his apparel neatly. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Well, that's set down. : None
 PAROLLES
 4.3 :Five or six thousand horse, I said,-- I will say : None
 4.3 :true,--or thereabouts, set down, for I'll speak truth. : None
-First Lord
+FIRST LORD
 4.3 :He's very near the truth in this. : None
 BERTRAM
 4.3 :But I con him no thanks for't, in the nature he : None
 4.3 :delivers it. : None
 PAROLLES
 4.3 :Poor rogues, I pray you, say. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Well, that's set down. : None
 PAROLLES
 4.3 :I humbly thank you, sir: a truth's a truth, the : None
 4.3 :rogues are marvellous poor. : None
-First Soldier
-4.3 :  'Demand of him, of what strength they are : Reads : ['Read - []'] : First Soldier
+FIRST SOLDIER
+4.3 :  'Demand of him, of what strength they are : Reads : ['Read - []'] : FIRST SOLDIER
 4.3 :a-foot.' What say you to that? : None
 PAROLLES
 4.3 :By my troth, sir, if I were to live this present : None
@@ -2955,12 +2955,12 @@ PAROLLES
 4.3 :their cassocks, lest they shake themselves to pieces. : None
 BERTRAM
 4.3 :What shall be done to him? : None
-First Lord
+FIRST LORD
 4.3 :Nothing, but let him have thanks. Demand of him my : None
 4.3 :condition, and what credit I have with the duke. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Well, that's set down. : None
-Reads : ['Read - []'] : First Soldier
+Reads : ['Read - []'] : FIRST SOLDIER
 4.3 :'You shall demand of him, whether one Captain Dumain : None
 4.3 :be i' the camp, a Frenchman; what his reputation is : None
 4.3 :with the duke; what his valour, honesty, and : None
@@ -2971,7 +2971,7 @@ Reads : ['Read - []'] : First Soldier
 PAROLLES
 4.3 :I beseech you, let me answer to the particular of : None
 4.3 :the inter'gatories: demand them singly. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Do you know this Captain Dumain? : None
 PAROLLES
 4.3 :I know him: a' was a botcher's 'prentice in Paris, : None
@@ -2981,42 +2981,42 @@ PAROLLES
 BERTRAM
 4.3 :Nay, by your leave, hold your hands; though I know : None
 4.3 :his brains are forfeit to the next tile that falls. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Well, is this captain in the duke of Florence's camp? : None
 PAROLLES
 4.3 :Upon my knowledge, he is, and lousy. : None
-First Lord
+FIRST LORD
 4.3 :Nay look not so upon me; we shall hear of your : None
 4.3 :lordship anon. : None
-First Soldier
+FIRST SOLDIER
 4.3 :What is his reputation with the duke? : None
 PAROLLES
 4.3 :The duke knows him for no other but a poor officer : None
 4.3 :of mine; and writ to me this other day to turn him : None
 4.3 :out o' the band: I think I have his letter in my pocket. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Marry, we'll search. : None
 PAROLLES
 4.3 :In good sadness, I do not know; either it is there, : None
 4.3 :or it is upon a file with the duke's other letters : None
 4.3 :in my tent. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Here 'tis; here's a paper: shall I read it to you? : None
 PAROLLES
 4.3 :I do not know if it be it or no. : None
 BERTRAM
 4.3 :Our interpreter does it well. : None
-First Lord
+FIRST LORD
 4.3 :Excellently. : None
-First Soldier
-4.3 :  'Dian, the count's a fool, and full of gold,'-- : Reads : ['Read - []'] : First Soldier
+FIRST SOLDIER
+4.3 :  'Dian, the count's a fool, and full of gold,'-- : Reads : ['Read - []'] : FIRST SOLDIER
 PAROLLES
 4.3 :That is not the duke's letter, sir; that is an : None
 4.3 :advertisement to a proper maid in Florence, one : None
 4.3 :Diana, to take heed of the allurement of one Count : None
 4.3 :Rousillon, a foolish idle boy, but for all that very : None
 4.3 :ruttish: I pray you, sir, put it up again. : None
-First Soldier
+FIRST SOLDIER
 4.3 :Nay, I'll read it first, by your favour. : None
 PAROLLES
 4.3 :My meaning in't, I protest, was very honest in the : None
@@ -3025,8 +3025,8 @@ PAROLLES
 4.3 :virginity and devours up all the fry it finds. : None
 BERTRAM
 4.3 :Damnable both-sides rogue! : None
-First Soldier
-4.3 :  'When he swears oaths, bid him drop gold, and take it; : Reads : ['Read - []'] : First Soldier
+FIRST SOLDIER
+4.3 :  'When he swears oaths, bid him drop gold, and take it; : Reads : ['Read - []'] : FIRST SOLDIER
 4.3 :After he scores, he never pays the score: : None
 4.3 :Half won is match well made; match, and well make it; : None
 4.3 :He ne'er pays after-debts, take it before; : None
@@ -3039,13 +3039,13 @@ First Soldier
 BERTRAM
 4.3 :He shall be whipped through the army with this rhyme : None
 4.3 :in's forehead. : None
-Second Lord
+SECOND LORD
 4.3 :This is your devoted friend, sir, the manifold : None
 4.3 :linguist and the armipotent soldier. : None
 BERTRAM
 4.3 :I could endure any thing before but a cat, and now : None
 4.3 :he's a cat to me. : None
-First Soldier
+FIRST SOLDIER
 4.3 :I perceive, sir, by the general's looks, we shall be : None
 4.3 :fain to hang you. : None
 PAROLLES
@@ -3053,7 +3053,7 @@ PAROLLES
 4.3 :die; but that, my offences being many, I would : None
 4.3 :repent out the remainder of nature: let me live, : None
 4.3 :sir, in a dungeon, i' the stocks, or any where, so I may live. : None
-First Soldier
+FIRST SOLDIER
 4.3 :We'll see what may be done, so you confess freely; : None
 4.3 :therefore, once more to this Captain Dumain: you : None
 4.3 :have answered to his reputation with the duke and to : None
@@ -3071,12 +3071,12 @@ PAROLLES
 4.3 :little more to say, sir, of his honesty: he has : None
 4.3 :every thing that an honest man should not have; what : None
 4.3 :an honest man should have, he has nothing. : None
-First Lord
+FIRST LORD
 4.3 :I begin to love him for this. : None
 BERTRAM
 4.3 :For this description of thine honesty? A pox upon : None
 4.3 :him for me, he's more and more a cat. : None
-First Soldier
+FIRST SOLDIER
 4.3 :What say you to his expertness in war? : None
 PAROLLES
 4.3 :Faith, sir, he has led the drum before the English : None
@@ -3086,12 +3086,12 @@ PAROLLES
 4.3 :called Mile-end, to instruct for the doubling of : None
 4.3 :files: I would do the man what honour I can, but of : None
 4.3 :this I am not certain. : None
-First Lord
+FIRST LORD
 4.3 :He hath out-villained villany so far, that the : None
 4.3 :rarity redeems him. : None
 BERTRAM
 4.3 :A pox on him, he's a cat still. : None
-First Soldier
+FIRST SOLDIER
 4.3 :His qualities being at this poor price, I need not : None
 4.3 :to ask you if gold will corrupt him to revolt. : None
 PAROLLES
@@ -3099,11 +3099,11 @@ PAROLLES
 4.3 :of his salvation, the inheritance of it; and cut the : None
 4.3 :entail from all remainders, and a perpetual : None
 4.3 :succession for it perpetually. : None
-First Soldier
+FIRST SOLDIER
 4.3 :What's his brother, the other Captain Dumain? : None
-Second Lord
+SECOND LORD
 4.3 :Why does be ask him of me? : None
-First Soldier
+FIRST SOLDIER
 4.3 :What's he? : None
 PAROLLES
 4.3 :E'en a crow o' the same nest; not altogether so : None
@@ -3112,12 +3112,12 @@ PAROLLES
 4.3 :yet his brother is reputed one of the best that is: : None
 4.3 :in a retreat he outruns any lackey; marry, in coming : None
 4.3 :on he has the cramp. : None
-First Soldier
+FIRST SOLDIER
 4.3 :If your life be saved, will you undertake to betray : None
 4.3 :the Florentine? : None
 PAROLLES
 4.3 :Ay, and the captain of his horse, Count Rousillon. : None
-First Soldier
+FIRST SOLDIER
 4.3 :I'll whisper with the general, and know his pleasure. : None
 PAROLLES
 4.3 :  I'll no more drumming; a plague of all : Aside : ['Aside - []'] : PAROLLES
@@ -3125,7 +3125,7 @@ PAROLLES
 4.3 :beguile the supposition of that lascivious young boy : None
 4.3 :the count, have I run into this danger. Yet who : None
 4.3 :would have suspected an ambush where I was taken? : None
-First Soldier
+FIRST SOLDIER
 4.3 :There is no remedy, sir, but you must die: the : None
 4.3 :general says, you that have so traitorously : None
 4.3 :discovered the secrets of your army and made such : None
@@ -3134,36 +3134,36 @@ First Soldier
 4.3 :must die. Come, headsman, off with his head. : None
 PAROLLES
 4.3 :O Lord, sir, let me live, or let me see my death! : None
-First Lord
+FIRST LORD
 4.3 :That shall you, and take your leave of all your friends. : None
-Unblinding him : ['None - []'] : First Lord
+Unblinding him : ['None - []'] : FIRST LORD
 4.3 :So, look about you: know you any here? : None
 BERTRAM
 4.3 :Good morrow, noble captain. : None
-Second Lord
+SECOND LORD
 4.3 :God bless you, Captain Parolles. : None
-First Lord
+FIRST LORD
 4.3 :God save you, noble captain. : None
-Second Lord
+SECOND LORD
 4.3 :Captain, what greeting will you to my Lord Lafeu? : None
 4.3 :I am for France. : None
-First Lord
+FIRST LORD
 4.3 :Good captain, will you give me a copy of the sonnet : None
 4.3 :you writ to Diana in behalf of the Count Rousillon? : None
 4.3 :an I were not a very coward, I'ld compel it of you: : None
 4.3 :but fare you well. : None
-Exeunt BERTRAM and Lords : ["Exeunt - ['BERTRAM']"] : First Lord
-First Soldier
+Exeunt BERTRAM and Lords : ["Exeunt - ['BERTRAM']"] : FIRST LORD
+FIRST SOLDIER
 4.3 :You are undone, captain, all but your scarf; that : None
 4.3 :has a knot on't yet : None
 PAROLLES
 4.3 :Who cannot be crushed with a plot? : None
-First Soldier
+FIRST SOLDIER
 4.3 :If you could find out a country where but women were : None
 4.3 :that had received so much shame, you might begin an : None
 4.3 :impudent nation. Fare ye well, sir; I am for France : None
 4.3 :too: we shall speak of you there. : None
-Exit with Soldiers : ['Exit - []'] : First Soldier
+Exit with Soldiers : ['Exit - []'] : FIRST SOLDIER
 PAROLLES
 4.3 :Yet am I thankful: if my heart were great, : None
 4.3 :'Twould burst at this. Captain I'll be no more; : None
@@ -3178,7 +3178,7 @@ PAROLLES
 4.3 :I'll after them. : None
 Exit : ['Exit - []'] : PAROLLES
 Scene(scene=4)
-Enter HELENA, Widow, and DIANA : ["Enter - ['HELENA', 'Widow', 'DIANA']"] : PAROLLES
+Enter HELENA, Widow, and DIANA : ["Enter - ['HELENA', 'WIDOW', 'DIANA']"] : PAROLLES
 HELENA
 4.4 :That you may well perceive I have not wrong'd you, : None
 4.4 :One of the greatest in the Christian world : None
@@ -3194,7 +3194,7 @@ HELENA
 4.4 :My husband hies him home; where, heaven aiding, : None
 4.4 :And by the leave of my good lord the king, : None
 4.4 :We'll be before our welcome. : None
-Widow
+WIDOW
 4.4 :Gentle madam, : None
 4.4 :You never had a servant to whose trust : None
 4.4 :Your business was more welcome. : None
@@ -3226,7 +3226,7 @@ HELENA
 4.4 :Whate'er the course, the end is the renown. : None
 Exeunt : ['Exeunt - []'] : HELENA
 Scene(scene=5)
-Enter COUNTESS, LAFEU, and Clown : ["Enter - ['COUNTESS', 'LAFEU', 'Clown']"] : HELENA
+Enter COUNTESS, LAFEU, and Clown : ["Enter - ['COUNTESS', 'LAFEU', 'CLOWN']"] : HELENA
 LAFEU
 4.5 :No, no, no, your son was misled with a snipt-taffeta : None
 4.5 :fellow there, whose villanous saffron would have : None
@@ -3243,50 +3243,50 @@ COUNTESS
 LAFEU
 4.5 :'Twas a good lady, 'twas a good lady: we may pick a : None
 4.5 :thousand salads ere we light on such another herb. : None
-Clown
+CLOWN
 4.5 :Indeed, sir, she was the sweet marjoram of the : None
 4.5 :salad, or rather, the herb of grace. : None
 LAFEU
 4.5 :They are not herbs, you knave; they are nose-herbs. : None
-Clown
+CLOWN
 4.5 :I am no great Nebuchadnezzar, sir; I have not much : None
 4.5 :skill in grass. : None
 LAFEU
 4.5 :Whether dost thou profess thyself, a knave or a fool? : None
-Clown
+CLOWN
 4.5 :A fool, sir, at a woman's service, and a knave at a man's. : None
 LAFEU
 4.5 :Your distinction? : None
-Clown
+CLOWN
 4.5 :I would cozen the man of his wife and do his service. : None
 LAFEU
 4.5 :So you were a knave at his service, indeed. : None
-Clown
+CLOWN
 4.5 :And I would give his wife my bauble, sir, to do her service. : None
 LAFEU
 4.5 :I will subscribe for thee, thou art both knave and fool. : None
-Clown
+CLOWN
 4.5 :At your service. : None
 LAFEU
 4.5 :No, no, no. : None
-Clown
+CLOWN
 4.5 :Why, sir, if I cannot serve you, I can serve as : None
 4.5 :great a prince as you are. : None
 LAFEU
 4.5 :Who's that? a Frenchman? : None
-Clown
+CLOWN
 4.5 :Faith, sir, a' has an English name; but his fisnomy : None
 4.5 :is more hotter in France than there. : None
 LAFEU
 4.5 :What prince is that? : None
-Clown
+CLOWN
 4.5 :The black prince, sir; alias, the prince of : None
 4.5 :darkness; alias, the devil. : None
 LAFEU
 4.5 :Hold thee, there's my purse: I give thee not this : None
 4.5 :to suggest thee from thy master thou talkest of; : None
 4.5 :serve him still. : None
-Clown
+CLOWN
 4.5 :I am a woodland fellow, sir, that always loved a : None
 4.5 :great fire; and the master I speak of ever keeps a : None
 4.5 :good fire. But, sure, he is the prince of the : None
@@ -3301,10 +3301,10 @@ LAFEU
 4.5 :tell thee so before, because I would not fall out : None
 4.5 :with thee. Go thy ways: let my horses be well : None
 4.5 :looked to, without any tricks. : None
-Clown
+CLOWN
 4.5 :If I put any tricks upon 'em, sir, they shall be : None
 4.5 :jades' tricks; which are their own right by the law of nature. : None
-Exit : ['Exit - []'] : Clown
+Exit : ['Exit - []'] : CLOWN
 LAFEU
 4.5 :A shrewd knave and an unhappy. : None
 COUNTESS
@@ -3344,8 +3344,8 @@ COUNTESS
 LAFEU
 4.5 :Lady, of that I have made a bold charter; but I : None
 4.5 :thank my God it holds yet. : None
-Re-enter Clown : ["Re-enter - ['Clown']"] : LAFEU
-Clown
+Re-enter Clown : ["Re-enter - ['CLOWN']"] : LAFEU
+CLOWN
 4.5 :O madam, yonder's my lord your son with a patch of : None
 4.5 :velvet on's face: whether there be a scar under't : None
 4.5 :or no, the velvet knows; but 'tis a goodly patch of : None
@@ -3354,19 +3354,19 @@ Clown
 LAFEU
 4.5 :A scar nobly got, or a noble scar, is a good livery : None
 4.5 :of honour; so belike is that. : None
-Clown
+CLOWN
 4.5 :But it is your carbonadoed face. : None
 LAFEU
 4.5 :Let us go see your son, I pray you: I long to talk : None
 4.5 :with the young noble soldier. : None
-Clown
+CLOWN
 4.5 :Faith there's a dozen of 'em, with delicate fine : None
 4.5 :hats and most courteous feathers, which bow the head : None
 4.5 :and nod at every man. : None
-Exeunt : ['Exeunt - []'] : Clown
+Exeunt : ['Exeunt - []'] : CLOWN
 Act(act=5)
 Scene(scene=1)
-Enter HELENA, Widow, and DIANA, with two Attendants : ["Enter - ['HELENA', 'Widow', 'DIANA']"] : Clown
+Enter HELENA, Widow, and DIANA, with two Attendants : ["Enter - ['HELENA', 'WIDOW', 'DIANA']"] : CLOWN
 HELENA
 5.1 :But this exceeding posting day and night : None
 5.1 :Must wear your spirits low; we cannot help it: : None
@@ -3374,14 +3374,14 @@ HELENA
 5.1 :To wear your gentle limbs in my affairs, : None
 5.1 :Be bold you do so grow in my requital : None
 5.1 :As nothing can unroot you. In happy time; : None
-Enter a Gentleman : ["Enter - ['Gentleman']"] : HELENA
+Enter a Gentleman : ["Enter - ['GENTLEMAN']"] : HELENA
 5.1 :This man may help me to his majesty's ear, : None
 5.1 :If he would spend his power. God save you, sir. : None
-Gentleman
+GENTLEMAN
 5.1 :And you. : None
 HELENA
 5.1 :Sir, I have seen you in the court of France. : None
-Gentleman
+GENTLEMAN
 5.1 :I have been sometimes there. : None
 HELENA
 5.1 :I do presume, sir, that you are not fallen : None
@@ -3390,28 +3390,28 @@ HELENA
 5.1 :Which lay nice manners by, I put you to : None
 5.1 :The use of your own virtues, for the which : None
 5.1 :I shall continue thankful. : None
-Gentleman
+GENTLEMAN
 5.1 :What's your will? : None
 HELENA
 5.1 :That it will please you : None
 5.1 :To give this poor petition to the king, : None
 5.1 :And aid me with that store of power you have : None
 5.1 :To come into his presence. : None
-Gentleman
+GENTLEMAN
 5.1 :The king's not here. : None
 HELENA
 5.1 :Not here, sir! : None
-Gentleman
+GENTLEMAN
 5.1 :Not, indeed: : None
 5.1 :He hence removed last night and with more haste : None
 5.1 :Than is his use. : None
-Widow
+WIDOW
 5.1 :                  Lord, how we lose our pains! : None
 HELENA
 5.1 :ALL'S WELL THAT ENDS WELL yet, : None
 5.1 :Though time seem so adverse and means unfit. : None
 5.1 :I do beseech you, whither is he gone? : None
-Gentleman
+GENTLEMAN
 5.1 :Marry, as I take it, to Rousillon; : None
 5.1 :Whither I am going. : None
 HELENA
@@ -3422,7 +3422,7 @@ HELENA
 5.1 :But rather make you thank your pains for it. : None
 5.1 :I will come after you with what good speed : None
 5.1 :Our means will make us means. : None
-Gentleman
+GENTLEMAN
 5.1 :This I'll do for you. : None
 HELENA
 5.1 :And you shall find yourself to be well thank'd, : None
@@ -3430,7 +3430,7 @@ HELENA
 5.1 :Go, go, provide. : None
 Exeunt : ['Exeunt - []'] : HELENA
 Scene(scene=2)
-Enter Clown, and PAROLLES, following : ["Enter - ['Clown', 'PAROLLES']"] : HELENA
+Enter Clown, and PAROLLES, following : ["Enter - ['CLOWN', 'PAROLLES']"] : HELENA
 PAROLLES
 5.2 :Good Monsieur Lavache, give my Lord Lafeu this : None
 5.2 :letter: I have ere now, sir, been better known to : None
@@ -3438,7 +3438,7 @@ PAROLLES
 5.2 :clothes; but I am now, sir, muddied in fortune's : None
 5.2 :mood, and smell somewhat strong of her strong : None
 5.2 :displeasure. : None
-Clown
+CLOWN
 5.2 :Truly, fortune's displeasure is but sluttish, if it : None
 5.2 :smell so strongly as thou speakest of: I will : None
 5.2 :henceforth eat no fish of fortune's buttering. : None
@@ -3446,17 +3446,17 @@ Clown
 PAROLLES
 5.2 :Nay, you need not to stop your nose, sir; I spake : None
 5.2 :but by a metaphor. : None
-Clown
+CLOWN
 5.2 :Indeed, sir, if your metaphor stink, I will stop my : None
 5.2 :nose; or against any man's metaphor. Prithee, get : None
 5.2 :thee further. : None
 PAROLLES
 5.2 :Pray you, sir, deliver me this paper. : None
-Clown
+CLOWN
 5.2 :Foh! prithee, stand away: a paper from fortune's : None
 5.2 :close-stool to give to a nobleman! Look, here he : None
 5.2 :comes himself. : None
-Enter LAFEU : ["Enter - ['LAFEU']"] : Clown
+Enter LAFEU : ["Enter - ['LAFEU']"] : CLOWN
 5.2 :Here is a purr of fortune's, sir, or of fortune's : None
 5.2 :cat,--but not a musk-cat,--that has fallen into the : None
 5.2 :unclean fishpond of her displeasure, and, as he : None
@@ -3465,7 +3465,7 @@ Enter LAFEU : ["Enter - ['LAFEU']"] : Clown
 5.2 :ingenious, foolish, rascally knave. I do pity his : None
 5.2 :distress in my similes of comfort and leave him to : None
 5.2 :your lordship. : None
-Exit : ['Exit - []'] : Clown
+Exit : ['Exit - []'] : CLOWN
 PAROLLES
 5.2 :My lord, I am a man whom fortune hath cruelly : None
 5.2 :scratched. : None
@@ -3544,9 +3544,9 @@ KING
 5.3 :The incensing relics of it: let him approach, : None
 5.3 :A stranger, no offender; and inform him : None
 5.3 :So 'tis our will he should. : None
-Gentleman
+GENTLEMAN
 5.3 :I shall, my liege. : None
-Exit : ['Exit - []'] : Gentleman
+Exit : ['Exit - []'] : GENTLEMAN
 KING
 5.3 :What says he to your daughter? have you spoke? : None
 LAFEU
@@ -3687,8 +3687,8 @@ BERTRAM
 Exit, guarded : ['Exit - []'] : BERTRAM
 KING
 5.3 :I am wrapp'd in dismal thinkings. : None
-Enter a Gentleman : ["Enter - ['Gentleman']"] : KING
-Gentleman
+Enter a Gentleman : ["Enter - ['GENTLEMAN']"] : KING
+GENTLEMAN
 5.3 :Gracious sovereign, : None
 5.3 :Whether I have been to blame or no, I know not: : None
 5.3 :Here's a petition from a Florentine, : None
@@ -3726,14 +3726,14 @@ KING
 5.3 :I wonder, sir, sith wives are monsters to you, : None
 5.3 :And that you fly them as you swear them lordship, : None
 5.3 :Yet you desire to marry. : None
-Enter Widow and DIANA : ["Enter - ['Widow', 'DIANA']"] : KING
+Enter Widow and DIANA : ["Enter - ['WIDOW', 'DIANA']"] : KING
 5.3 :What woman's that? : None
 DIANA
 5.3 :I am, my lord, a wretched Florentine, : None
 5.3 :Derived from the ancient Capilet: : None
 5.3 :My suit, as I do understand, you know, : None
 5.3 :And therefore know how far I may be pitied. : None
-Widow
+WIDOW
 5.3 :I am her mother, sir, whose age and honour : None
 5.3 :Both suffer under this complaint we bring, : None
 5.3 :And both shall cease, without your remedy. : None
@@ -3953,7 +3953,7 @@ KING
 5.3 :She does abuse our ears: to prison with her. : None
 DIANA
 5.3 :Good mother, fetch my bail. Stay, royal sir: : None
-Exit Widow : ["Exit - ['Widow']"] : DIANA
+Exit Widow : ["Exit - ['WIDOW']"] : DIANA
 5.3 :The jeweller that owes the ring is sent for, : None
 5.3 :And he shall surety me. But for this lord, : None
 5.3 :Who hath abused me, as he knows himself, : None
@@ -3963,7 +3963,7 @@ Exit Widow : ["Exit - ['Widow']"] : DIANA
 5.3 :Dead though she be, she feels her young one kick: : None
 5.3 :So there's my riddle: one that's dead is quick: : None
 5.3 :And now behold the meaning. : None
-Re-enter Widow, with HELENA : ["Re-enter - ['Widow', 'HELENA']"] : DIANA
+Re-enter Widow, with HELENA : ["Re-enter - ['WIDOW', 'HELENA']"] : DIANA
 KING
 5.3 :Is there no exorcist : None
 5.3 :Beguiles the truer office of mine eyes? : None
@@ -4019,4 +4019,4 @@ Exeunt : ['Exeunt - []'] : KING
 
 
 
-COUNTESS, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, HELENA, LAFEU, COUNTESS, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, BERTRAM, LAFEU, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, Page, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, KING, First Lord, KING, First Lord, KING, Second Lord, KING, First Lord, KING, BERTRAM, KING, BERTRAM, KING, Second Lord, KING, BERTRAM, KING, BERTRAM, COUNTESS, Steward, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Steward, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Steward, COUNTESS, Steward, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, KING, First Lord, KING, Second Lord, KING, Both, KING, First Lord, PAROLLES, Second Lord, PAROLLES, BERTRAM, PAROLLES, BERTRAM, First Lord, PAROLLES, Second Lord, BERTRAM, First Lord, Second Lord, PAROLLES, First Lord, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, LAFEU, PAROLLES, BERTRAM, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, KING, HELENA, LAFEU, KING, HELENA, All, HELENA, KING, HELENA, First Lord, HELENA, LAFEU, HELENA, Second Lord, HELENA, LAFEU, HELENA, LAFEU, HELENA, Fourth Lord, LAFEU, HELENA, KING, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, HELENA, KING, BERTRAM, KING, BERTRAM, KING, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, HELENA, Clown, HELENA, Clown, HELENA, Clown, PAROLLES, HELENA, PAROLLES, Clown, PAROLLES, Clown, PAROLLES, Clown, PAROLLES, Clown, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, LAFEU, BERTRAM, PAROLLES, LAFEU, BERTRAM, LAFEU, PAROLLES, BERTRAM, PAROLLES, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, PAROLLES, DUKE, First Lord, DUKE, Second Lord, DUKE, First Lord, DUKE, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, COUNTESS, Clown, First Gentleman, HELENA, Second Gentleman, COUNTESS, Second Gentleman, HELENA, COUNTESS, First Gentleman, COUNTESS, Second Gentleman, COUNTESS, Second Gentleman, COUNTESS, First Gentleman, HELENA, COUNTESS, HELENA, First Gentleman, COUNTESS, First Gentleman, COUNTESS, First Gentleman, COUNTESS, First Gentleman, COUNTESS, Second Gentleman, COUNTESS, HELENA, DUKE, BERTRAM, DUKE, BERTRAM, COUNTESS, Steward, COUNTESS, Steward, COUNTESS, Widow, DIANA, Widow, MARIANA, Widow, MARIANA, DIANA, Widow, HELENA, Widow, HELENA, Widow, HELENA, Widow, HELENA, Widow, HELENA, Widow, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, Widow, HELENA, Widow, MARIANA, Widow, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, PAROLLES, MARIANA, Widow, MARIANA, Widow, HELENA, BOTH, Second Lord, First Lord, Second Lord, BERTRAM, Second Lord, First Lord, BERTRAM, First Lord, Second Lord, First Lord, Second Lord, BERTRAM, First Lord, PAROLLES, First Lord, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, Second Lord, First Lord, BERTRAM, Second Lord, First Lord, Second Lord, BERTRAM, Second Lord, BERTRAM, First Lord, BERTRAM, First Lord, HELENA, Widow, HELENA, Widow, HELENA, Widow, HELENA, Widow, HELENA, Second Lord, First Soldier, Second Lord, First Soldier, Second Lord, First Soldier, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, PAROLLES, Second Lord, All, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, Second Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, Second Lord, Second Soldier, Second Lord, Second Soldier, Second Lord, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Second Lord, First Lord, Servant, Second Lord, First Lord, BERTRAM, Second Lord, BERTRAM, Second Lord, BERTRAM, Second Lord, BERTRAM, Second Lord, BERTRAM, First Lord, First Soldier, PAROLLES, First Soldier, First Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, BERTRAM, First Lord, Second Lord, First Soldier, PAROLLES, First Lord, BERTRAM, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, BERTRAM, First Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, BERTRAM, First Soldier, PAROLLES, First Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, BERTRAM, First Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, BERTRAM, First Soldier, BERTRAM, Second Lord, BERTRAM, First Soldier, PAROLLES, First Soldier, PAROLLES, First Lord, BERTRAM, First Soldier, PAROLLES, First Lord, BERTRAM, First Soldier, PAROLLES, First Soldier, Second Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, First Soldier, PAROLLES, First Lord, BERTRAM, Second Lord, First Lord, Second Lord, First Lord, First Soldier, PAROLLES, First Soldier, PAROLLES, HELENA, Widow, HELENA, DIANA, HELENA, LAFEU, COUNTESS, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, Clown, LAFEU, Clown, LAFEU, Clown, HELENA, Gentleman, HELENA, Gentleman, HELENA, Gentleman, HELENA, Gentleman, HELENA, Gentleman, Widow, HELENA, Gentleman, HELENA, Gentleman, HELENA, PAROLLES, Clown, PAROLLES, Clown, PAROLLES, Clown, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, KING, COUNTESS, KING, LAFEU, KING, Gentleman, KING, LAFEU, KING, LAFEU, KING, BERTRAM, KING, BERTRAM, KING, COUNTESS, LAFEU, BERTRAM, KING, BERTRAM, COUNTESS, LAFEU, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, Gentleman, KING, LAFEU, KING, COUNTESS, KING, DIANA, Widow, KING, BERTRAM, DIANA, BERTRAM, DIANA, LAFEU, BERTRAM, KING, DIANA, KING, BERTRAM, DIANA, COUNTESS, KING, DIANA, LAFEU, KING, BERTRAM, KING, BERTRAM, DIANA, BERTRAM, KING, DIANA, KING, DIANA, KING, DIANA, BERTRAM, KING, DIANA, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, LAFEU, DIANA, PAROLLES, KING, PAROLLES, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, LAFEU, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, LAFEU, KING, KING, 
+COUNTESS, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, HELENA, LAFEU, COUNTESS, BERTRAM, LAFEU, COUNTESS, LAFEU, COUNTESS, BERTRAM, LAFEU, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAGE, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, KING, FIRST LORD, KING, FIRST LORD, KING, SECOND LORD, KING, FIRST LORD, KING, BERTRAM, KING, BERTRAM, KING, SECOND LORD, KING, BERTRAM, KING, BERTRAM, COUNTESS, STEWARD, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, STEWARD, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, STEWARD, COUNTESS, STEWARD, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, HELENA, COUNTESS, KING, FIRST LORD, KING, SECOND LORD, KING, BOTH, KING, FIRST LORD, PAROLLES, SECOND LORD, PAROLLES, BERTRAM, PAROLLES, BERTRAM, FIRST LORD, PAROLLES, SECOND LORD, BERTRAM, FIRST LORD, SECOND LORD, PAROLLES, FIRST LORD, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, LAFEU, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, HELENA, KING, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, LAFEU, PAROLLES, BERTRAM, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, KING, HELENA, LAFEU, KING, HELENA, ALL, HELENA, KING, HELENA, FIRST LORD, HELENA, LAFEU, HELENA, SECOND LORD, HELENA, LAFEU, HELENA, LAFEU, HELENA, FOURTH LORD, LAFEU, HELENA, KING, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, HELENA, KING, BERTRAM, KING, BERTRAM, KING, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, HELENA, CLOWN, HELENA, CLOWN, HELENA, CLOWN, PAROLLES, HELENA, PAROLLES, CLOWN, PAROLLES, CLOWN, PAROLLES, CLOWN, PAROLLES, CLOWN, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, PAROLLES, HELENA, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, BERTRAM, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, LAFEU, BERTRAM, PAROLLES, LAFEU, BERTRAM, LAFEU, PAROLLES, BERTRAM, PAROLLES, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, BERTRAM, PAROLLES, DUKE, FIRST LORD, DUKE, SECOND LORD, DUKE, FIRST LORD, DUKE, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, COUNTESS, CLOWN, FIRST GENTLEMAN, HELENA, SECOND GENTLEMAN, COUNTESS, SECOND GENTLEMAN, HELENA, COUNTESS, FIRST GENTLEMAN, COUNTESS, SECOND GENTLEMAN, COUNTESS, SECOND GENTLEMAN, COUNTESS, FIRST GENTLEMAN, HELENA, COUNTESS, HELENA, FIRST GENTLEMAN, COUNTESS, FIRST GENTLEMAN, COUNTESS, FIRST GENTLEMAN, COUNTESS, FIRST GENTLEMAN, COUNTESS, SECOND GENTLEMAN, COUNTESS, HELENA, DUKE, BERTRAM, DUKE, BERTRAM, COUNTESS, STEWARD, COUNTESS, STEWARD, COUNTESS, WIDOW, DIANA, WIDOW, MARIANA, WIDOW, MARIANA, DIANA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, WIDOW, HELENA, WIDOW, MARIANA, WIDOW, HELENA, DIANA, HELENA, DIANA, HELENA, DIANA, HELENA, PAROLLES, MARIANA, WIDOW, MARIANA, WIDOW, HELENA, BOTH, SECOND LORD, FIRST LORD, SECOND LORD, BERTRAM, SECOND LORD, FIRST LORD, BERTRAM, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, BERTRAM, FIRST LORD, PAROLLES, FIRST LORD, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, BERTRAM, PAROLLES, SECOND LORD, FIRST LORD, BERTRAM, SECOND LORD, FIRST LORD, SECOND LORD, BERTRAM, SECOND LORD, BERTRAM, FIRST LORD, BERTRAM, FIRST LORD, HELENA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, WIDOW, HELENA, SECOND LORD, FIRST SOLDIER, SECOND LORD, FIRST SOLDIER, SECOND LORD, FIRST SOLDIER, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, PAROLLES, SECOND LORD, ALL, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, SECOND LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, SECOND LORD, SECOND SOLDIER, SECOND LORD, SECOND SOLDIER, SECOND LORD, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, BERTRAM, DIANA, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, SERVANT, SECOND LORD, FIRST LORD, BERTRAM, SECOND LORD, BERTRAM, SECOND LORD, BERTRAM, SECOND LORD, BERTRAM, SECOND LORD, BERTRAM, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, BERTRAM, FIRST LORD, SECOND LORD, FIRST SOLDIER, PAROLLES, FIRST LORD, BERTRAM, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, BERTRAM, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, BERTRAM, FIRST SOLDIER, PAROLLES, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, BERTRAM, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, BERTRAM, FIRST SOLDIER, BERTRAM, SECOND LORD, BERTRAM, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST LORD, BERTRAM, FIRST SOLDIER, PAROLLES, FIRST LORD, BERTRAM, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, SECOND LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, FIRST LORD, BERTRAM, SECOND LORD, FIRST LORD, SECOND LORD, FIRST LORD, FIRST SOLDIER, PAROLLES, FIRST SOLDIER, PAROLLES, HELENA, WIDOW, HELENA, DIANA, HELENA, LAFEU, COUNTESS, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, COUNTESS, LAFEU, CLOWN, LAFEU, CLOWN, LAFEU, CLOWN, HELENA, GENTLEMAN, HELENA, GENTLEMAN, HELENA, GENTLEMAN, HELENA, GENTLEMAN, HELENA, GENTLEMAN, WIDOW, HELENA, GENTLEMAN, HELENA, GENTLEMAN, HELENA, PAROLLES, CLOWN, PAROLLES, CLOWN, PAROLLES, CLOWN, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, LAFEU, PAROLLES, KING, COUNTESS, KING, LAFEU, KING, GENTLEMAN, KING, LAFEU, KING, LAFEU, KING, BERTRAM, KING, BERTRAM, KING, COUNTESS, LAFEU, BERTRAM, KING, BERTRAM, COUNTESS, LAFEU, BERTRAM, KING, BERTRAM, KING, BERTRAM, KING, GENTLEMAN, KING, LAFEU, KING, COUNTESS, KING, DIANA, WIDOW, KING, BERTRAM, DIANA, BERTRAM, DIANA, LAFEU, BERTRAM, KING, DIANA, KING, BERTRAM, DIANA, COUNTESS, KING, DIANA, LAFEU, KING, BERTRAM, KING, BERTRAM, DIANA, BERTRAM, KING, DIANA, KING, DIANA, KING, DIANA, BERTRAM, KING, DIANA, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, KING, PAROLLES, LAFEU, DIANA, PAROLLES, KING, PAROLLES, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, LAFEU, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, DIANA, KING, HELENA, BERTRAM, HELENA, BERTRAM, HELENA, LAFEU, KING, KING, 

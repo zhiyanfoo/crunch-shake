@@ -134,7 +134,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
     Returns
     -------
     character_chain 
-        A list of the characters who speak in turn
+        A list of the characters who speak in turn, all capitalized
 
     Example:
         >>> PLAY_NAME
@@ -162,7 +162,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
             continue
         c_match = CHARACTER_MATCHER.search(line)
         if c_match:
-            name = c_match.group('name')
+            name = c_match.group('name').upper()
             character_chain.append(name)
             parsed_lines.append(Character(name))
             continue
@@ -199,7 +199,8 @@ def process_instructions(
     """
     For each sentence only one action (the first) is matched, but a single
     instruction can contain multiple sentences, which is why action are
-    returned as a list. Each action can be applied to multiple characters.
+    returned as a list. Each action can be applied to multiple characters. Note
+    that all character names are shifted to uppercase
     """
     if instruction is None:
         return None
@@ -207,8 +208,12 @@ def process_instructions(
     actions = [ match.group(0) if match else None for match in 
             ( INSTRUCTION_MATCHER.search(line) 
                 for line in instruction_lines ) ]
-    characters = [ known_characters_matcher.findall(line) 
-            for line in instruction_lines ]
+    characters = [ 
+            [ character.upper() 
+                for character in known_characters]
+            for known_characters in
+            ( known_characters_matcher.findall(line) 
+                for line in instruction_lines) ]
     return Instruction(instruction, actions, characters, default_character)
 
 def get_act_scene_range(play_lines):
@@ -223,10 +228,11 @@ def get_act_scene_range(play_lines):
         >>> PLAY_NAME
         alls_well_that_ends_well
         >>> act_scenes
-            [(1, 1), (1, 2), (1, 3), (2, 1), (2, 2), ...]
+        [(1, 1), (1, 2), (1, 3), (2, 1), (2, 2), ...]
 
     act_scene_range
         contains start of all act/scenes as well as the index of the last line
+        + 1 (so basically len(play_lines))
  
     """
     act_scenes = []
@@ -248,27 +254,30 @@ def get_act_scene_range(play_lines):
     assert len(act_scenes) + 1 == len(act_scene_range)
     return act_scenes, act_scene_range
 
-def get_presense(play_lines, act_scene_range, character_chain):
+def get_enterance_exit(play_lines, act_scene_range, character_chain):
     """
     For each character in the play, enterance[character] gives the line
     numbers, of `play_lines`, for when they enter a scene. exit[character] does
     the same for when the characters exit
     """
     enterance = { character : [] for character in character_chain }
+    print(enterance)
     exit = { character : [] for character in character_chain }
     for scene_start, scene_end in zip(act_scene_range, act_scene_range[1:]):
-        scene_enterance, scene_exit = get_presense_scene(
+        scene_enterance, scene_exit = enterance_exit_by_scene(
                 play_lines, 
                 scene_start,
                 scene_end)
-        print("scene_enterance")
-        print(scene_enterance)
-        print("scene_exit")
-        print(scene_exit)
-        
+        for character in scene_enterance:
+            enterance[character].append(scene_enterance[character])
+            exit[character].append(scene_exit[character])
+    print("enterance")
+    print(enterance)
+    print("exit")
+    print(exit)
     return enterance, exit
 
-def get_presense_scene(play_lines, scene_start, scene_end):
+def enterance_exit_by_scene(play_lines, scene_start, scene_end):
     """ 
     If character enters, exit and re-enters, scene_enterance will note only
     first enterance; scene_exit will note only first exit.
@@ -355,7 +364,10 @@ def process_play(raw_play_lines):
     act_scenes, act_scene_range = get_act_scene_range(play_lines)
     print(act_scenes)
     print(act_scene_range)
-    enterance, exit = get_presense(play_lines, act_scene_range, character_chain)
+    enterance, exit = get_enterance_exit(
+            play_lines, 
+            act_scene_range, 
+            character_chain)
     return play_lines, character_chain
 
 # INPUT OUTPUT
