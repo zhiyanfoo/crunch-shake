@@ -32,3 +32,13 @@ computationally analyze plays.
 
 Feel free to submit patches with ideas to IDEAS.md on what type of analysis to
 do and how to perform said analysis.
+
+### DEPENDENCIES
+
+NetworkX and PyGraphviz
+
+Both available through pip
+
+### LICENSE
+
+MIT License; see LICENSE.
