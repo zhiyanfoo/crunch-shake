@@ -1,6 +1,8 @@
 import os
 import sys
 
+import networkx as nx
+
 import re
 import json
 from collections import Counter, namedtuple
@@ -359,7 +361,7 @@ def get_presence(
                 start_end, 
                 entrance[i], 
                 exit[i])
-    print(adj)
+    return adj
 
 def get_presence_by_scene(
         adj, 
@@ -386,12 +388,12 @@ def get_presence_by_scene(
                 characters_present.remove(character)
 
 def invert_dict(front_dict):
+    """ Take a dict of key->values and return values->[keys]"""
     back_dict = { value : [] for value in front_dict.values() }
     for key, value in front_dict.items():
         back_dict[value].append(key)
     return back_dict
     
-
 def process_play(raw_play_lines):
     speaking_characters = get_speaking_characters(raw_play_lines)
     print(speaking_characters)
@@ -409,15 +411,38 @@ def process_play(raw_play_lines):
             act_scene_start_end,
             entrance, 
             exit)
-    return play_lines, character_chain
+    graph = create_graph(adj)
+    return play_lines, character_chain, graph
+
+# NetworkX and PyGraphviz
+
+def create_graph(adj):
+    # print(adj)
+    edges = [ (
+        speaker, 
+        recipient, 
+        {'weight' : adj[speaker][recipient], 'color' : 'blue'}
+        ) 
+            for speaker in adj
+            for recipient in adj[speaker] ]
+    graph = nx.DiGraph()
+    graph.add_edges_from(edges)
+    return graph
 
 # INPUT OUTPUT
 
 def to_output(parsed_play):
-    a = [ str(x) + "\n" for x in  parsed_play[0] ]
-    li = a + ['\n'] * 3 + [ x + ", " for x in parsed_play[1] ]
+    play_lines, character_chain, graph = parsed_play
+    a = [ str(x) + "\n" for x in  play_lines ]
+    li = a + ['\n'] * 3 + [ x + ", " for x in character_chain ]
     # li = reduce(lambda x, y: x + ['\n'] * 3 + y, parsed_play)
     list_to_file(li, OUTPUT_PATH)
+    dot_graph = nx.nx_agraph.to_agraph(graph)
+    dot_graph.write(PLAY_NAME + ".dot")
+    prog = ['dot', 'circo']
+    for p in prog:
+        dot_graph.layout(p)
+        dot_graph.draw(PLAY_NAME + "_" + p + ".png")
 
 def file_to_list(path):
     with open(path, 'r') as inputFile:

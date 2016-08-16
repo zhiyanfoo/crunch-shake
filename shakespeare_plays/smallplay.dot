@@ -1,0 +1,22 @@
+strict digraph  {
+	LAFEU -> HELENA	 [weight=7];
+	LAFEU -> COUNTESS	 [weight=5];
+	LAFEU -> BERTRAM	 [weight=7];
+	HELENA -> PAROLLES	 [weight=5];
+	COUNTESS -> LAFEU	 [weight=2];
+	COUNTESS -> HELENA	 [weight=2];
+	COUNTESS -> BERTRAM	 [weight=2];
+	KING -> PAROLLES	 [weight=6];
+	KING -> BERTRAM	 [weight=6];
+	KING -> "FIRST LORD"	 [weight=15];
+	PAROLLES -> BERTRAM	 [weight=6];
+	PAROLLES -> "FIRST LORD"	 [weight=6];
+	BERTRAM -> LAFEU	 [weight=6];
+	BERTRAM -> HELENA	 [weight=6];
+	BERTRAM -> COUNTESS	 [weight=3];
+	BERTRAM -> PAROLLES	 [weight=1];
+	BERTRAM -> "FIRST LORD"	 [weight=1];
+	"FIRST LORD" -> KING	 [weight=4];
+	"FIRST LORD" -> PAROLLES	 [weight=4];
+	"FIRST LORD" -> BERTRAM	 [weight=4];
+}

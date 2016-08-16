@@ -1,6 +1,8 @@
 *.swp
 log
-playwrites.png
 bin/
 lib/
+share/
 pyvenv.cfg
+
+*.png
