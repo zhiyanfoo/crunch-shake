@@ -9,15 +9,15 @@ marked up in HTML and convenient-ish to parse.
 
 ### The Bechdel Test
 
-The most successful application of a metric to media I believe is the [Bechdel
-Test](https://en.wikipedia.org/wiki/Bechdel_test). The tests asks whether "a
-work of fiction features at least two women who talk to each other about
-something other than a man." This is not a high bar but the amount of movies
-that have failed this test is surprising, and informative of the current gender
-disparities that exists in the film industry. This effect can be dismissed if
-looking at any certain movie - A male centric movie by itself does not imply
-institutional sexism - but the overall trend shows us the status of the medium
-as a whole. 
+The most successful metric that has been applied to art I believe is the
+[Bechdel Test](https://en.wikipedia.org/wiki/Bechdel_test). The tests asks
+whether "a work of fiction features at least two women who talk to each other
+about something other than a man." This is not a high bar, but the amount of
+movies that have failed this test is surprising, and informative of the current
+gender disparities that exists in the film industry. This effect can be
+dismissed if looking at any certain movie - A male centric movie by itself does
+not imply institutional sexism - but the overall trend shows us the status of
+the medium as a whole. 
 
 ### Focus of this project
 The focus of most of the analysis is in the same vein as the Bechdel test but
