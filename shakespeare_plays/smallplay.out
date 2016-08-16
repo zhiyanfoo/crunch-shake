@@ -40,7 +40,7 @@ KING
 1.2 :The Florentines and Senoys are by the ears; : None
 1.2 :Have fought with equal fortune and continue : None
 1.2 :A braving war. : None
-First Lord
+FIRST LORD
 1.2 :                  So 'tis reported, sir. : None
 KING
 1.2 :Nay, 'tis most credible; we here received it : None
@@ -57,14 +57,14 @@ KING
 2.1 :Share the advice betwixt you; if both gain, all : None
 2.1 :The gift doth stretch itself as 'tis received, : None
 2.1 :And is enough for both. : None
-First Lord
+FIRST LORD
 2.1 :'Tis our hope, sir, : None
 2.1 :After well enter'd soldiers, to return : None
 2.1 :And find your grace in health. : None
 KING
 2.1 :Farewell. Come hither to me. : None
 Exit, attended : ['Exit - []'] : KING
-First Lord
+FIRST LORD
 2.1 :O, my sweet lord, that you will stay behind us! : None
 PAROLLES
 2.1 :'Tis not his fault, the spark. : None
@@ -79,4 +79,4 @@ BERTRAM
 
 
 
-COUNTESS, BERTRAM, LAFEU, COUNTESS, BERTRAM, LAFEU, HELENA, KING, First Lord, KING, KING, First Lord, KING, First Lord, PAROLLES, PAROLLES, BERTRAM, 
+COUNTESS, BERTRAM, LAFEU, COUNTESS, BERTRAM, LAFEU, HELENA, KING, FIRST LORD, KING, KING, FIRST LORD, KING, FIRST LORD, PAROLLES, PAROLLES, BERTRAM, 
