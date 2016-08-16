@@ -17,8 +17,7 @@ that have failed this test is surprising, and informative of the current gender
 disparities that exists in the film industry. This effect can be dismissed if
 looking at any certain movie - A male centric movie by itself does not imply
 institutional sexism - but the overall trend shows us the status of the medium
-as a whole; in this case, it can push it to become better, if only by creating
-an awareness of the problem in the first place.
+as a whole. 
 
 ### Focus of this project
 The focus of most of the analysis is in the same vein as the Bechdel test but
