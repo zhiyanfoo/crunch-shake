@@ -20,6 +20,7 @@ not imply institutional sexism - but the overall trend shows us the status of
 the medium as a whole. 
 
 ### Focus of this project
+
 The focus of most of the analysis is in the same vein as the Bechdel test but
 on plays. Gender disparity is not the exclusive focus of this project, however,
 literary and stylistic analysis will also be a touched upon.
@@ -33,12 +34,12 @@ computationally analyze plays.
 Feel free to submit patches with ideas to IDEAS.md on what type of analysis to
 do and how to perform said analysis.
 
-### DEPENDENCIES
+### Dependencies
 
 NetworkX and PyGraphviz
 
 Both available through pip
 
-### LICENSE
+### License
 
 MIT License; see LICENSE.
