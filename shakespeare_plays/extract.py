@@ -5,6 +5,7 @@ import networkx as nx
 
 import re
 import json
+import string
 from collections import Counter, namedtuple
 from itertools import chain
 from functools import reduce
@@ -192,7 +193,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
             parsed_lines.append(Scene(scene))
             prev_character = None
             continue
-    return parsed_lines, character_chain
+    return parsed_lines
 
 def process_instructions(
         instruction, 
@@ -388,18 +389,18 @@ def get_presence_by_scene(
                 characters_present.remove(character)
 
 def invert_dict(front_dict):
-    """ Take a dict of key->values and return values->[keys]"""
+    """ Take a dict of key->values and return values->[keys] """
     back_dict = { value : [] for value in front_dict.values() }
     for key, value in front_dict.items():
         back_dict[value].append(key)
     return back_dict
     
-def process_play(raw_play_lines):
+def preprocess(raw_play_lines):
     speaking_characters = get_speaking_characters(raw_play_lines)
-    print(speaking_characters)
-    play_lines, character_chain = parse_raw_text(
-            raw_play_lines, 
-            speaking_characters)
+    play_lines = parse_raw_text(raw_play_lines, speaking_characters)
+    return speaking_characters, play_lines
+
+def process(speaking_characters, play_lines):
     act_scenes, act_scene_range = get_act_scene_range(play_lines)
     act_scene_start_end = list(zip(act_scene_range, act_scene_range[1:]))
     entrance, exit = get_entrance_exit(
@@ -411,17 +412,84 @@ def process_play(raw_play_lines):
             act_scene_start_end,
             entrance, 
             exit)
+    return adj
+
+def postprocess(play_lines, speaking_characters, adj, gender):
     graph = create_graph(adj)
-    return play_lines, character_chain, graph
+    reciprocal_graph = create_graph(adj, reciprocal=True)
+    character_by_importance(
+            play_lines, 
+            speaking_characters, 
+            graph,
+            reciprocal_graph)
+    return graph
 
-# NetworkX and PyGraphviz
+def character_by_importance(
+        play_lines, 
+        speaking_characters, 
+        graph,
+        reciprocal_graph):
+    reverse_graph = graph.reverse(copy=True)
 
-def create_graph(adj):
-    # print(adj)
+    # METRICS
+    lines_by_character = get_lines_by_character(play_lines, speaking_characters)
+    out_degree = nx.out_degree_centrality(graph)
+    page_rank = nx.pagerank_numpy(reverse_graph)
+    betweenness = nx.betweenness_centrality(reciprocal_graph)
+    metrics = [lines_by_character, out_degree, page_rank, betweenness]
+
+    relative_importance = [0.625, 0.125, 0.125, 0.125]
+
+    for i, x in enumerate(metrics):
+        normalize_linear(x)
+        scale(x, relative_importance[i])
+
+    character_value = { character : sum( metric[character] for metric in metrics )
+            for character in speaking_characters }
+    sorted_characters = dict_sorted(character_value)
+    return sorted_characters
+
+def scale(x, a):
+    for key in x:
+        x[key] *= a
+
+def get_lines_by_character(play_lines, speaking_characters):
+    lines_by_character = { key : 0 for key in speaking_characters }
+    for line in play_lines:
+        if line.TYPE == Dialogue.TYPE:
+            lines_by_character[line.character] += 1
+    return lines_by_character
+
+def normalize_linear(x):
+    biggest = max(x.values())
+    scale(x, 1/biggest)
+
+def dict_sorted(x):
+    return sorted(( (key , x[key]) for key in x ), key=lambda x: x[1])
+
+def process_play(raw_play_lines, gender):
+    speaking_characters, play_lines = preprocess(raw_play_lines)
+    adj = process(speaking_characters, play_lines)
+    graph = postprocess(play_lines, speaking_characters, adj, gender)
+    return play_lines, graph
+
+# NETWORKX AND PYGRAPHVIZ
+
+def create_graph(adj, reciprocal=False):
+    def reciprocal_weight(speaker, recipient):
+        weight = adj[speaker][recipient]
+        try:
+            reciprocal_weight = 1 / weight
+            return reciprocal_weight
+        except ZeroDivisionError:
+            return float('inf')
+    def normal_weight(speaker, recipient):
+        return adj[speaker][recipient]
+    weight_f = reciprocal_weight if reciprocal else normal_weight
     edges = [ (
         speaker, 
         recipient, 
-        {'weight' : adj[speaker][recipient], 'color' : 'blue'}
+        {'weight' : weight_f(speaker, recipient), 'color' : 'blue'}
         ) 
             for speaker in adj
             for recipient in adj[speaker] ]
@@ -429,14 +497,31 @@ def create_graph(adj):
     graph.add_edges_from(edges)
     return graph
 
+# VOCAB DIFFERENCES
+
+def vocab_difference(play_lines, gender):
+    males_vocab = dict()
+    female_vocab = dict()
+    remove_punctuation = create_remove_punctuation()
+
+def line_to_vocab(line, vocab, remove_punctuation):
+    words = line
+
+
+def create_remove_punctuation():
+    remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
+    def remove_punctuation(line):
+        return line.translate(remove_punct_map)
+    return remove_punctuation
+
+
 # INPUT OUTPUT
 
 def to_output(parsed_play):
-    play_lines, character_chain, graph = parsed_play
-    a = [ str(x) + "\n" for x in  play_lines ]
-    li = a + ['\n'] * 3 + [ x + ", " for x in character_chain ]
-    # li = reduce(lambda x, y: x + ['\n'] * 3 + y, parsed_play)
-    list_to_file(li, OUTPUT_PATH)
+    play_lines, graph = parsed_play
+    a = [ str(x) + "\n" for x in play_lines ]
+    list_to_file(a, OUTPUT_PATH)
+    print("writing to ", OUTPUT_PATH)
     dot_graph = nx.nx_agraph.to_agraph(graph)
     dot_graph.write(PLAY_NAME + ".dot")
     prog = ['dot', 'circo']
@@ -462,12 +547,17 @@ def list_to_file(li, path):
 
 def get_files():
     play_lines_raw = file_to_list(PLAY_PATH)
-    return play_lines_raw
+    try:
+        gender = json_file_to_dict(PLAY_NAME + "_gender.json")
+    except FileNotFoundError:
+        print("require gender file")
+        gender = None
+    return play_lines_raw, gender
 
 def main():
-    play_lines = get_files()
-    output = process_play(play_lines)
-    to_output(output)
+    play_lines, gender = get_files()
+    output = process_play(play_lines, gender)
+    # to_output(output)
 
 if __name__ == "__main__":
     main()
