@@ -9,6 +9,7 @@ import string
 from collections import Counter, namedtuple
 from itertools import chain
 from functools import reduce
+from math import log
 
 from lookup import ROMAN_TO_INT 
 
@@ -422,6 +423,7 @@ def postprocess(play_lines, speaking_characters, adj, gender):
             speaking_characters, 
             graph,
             reciprocal_graph)
+    vocab_difference(play_lines, gender)
     return graph
 
 def character_by_importance(
@@ -502,18 +504,64 @@ def create_graph(adj, reciprocal=False):
 def vocab_difference(play_lines, gender):
     males_vocab = dict()
     female_vocab = dict()
-    remove_punctuation = create_remove_punctuation()
+    line_to_vocab = create_line_to_vocab()
+    for line in play_lines:
+        if line.TYPE == Dialogue.TYPE:
+            gender_character = gender[line.character]
+            if gender_character == "M":
+                line_to_vocab(line.dialogue, males_vocab)
+            elif gender_character == "F":
+                line_to_vocab(line.dialogue, female_vocab)
+    get_word_gender = create_get_word_gender(males_vocab, female_vocab)
+    word_gender = { key : get_word_gender(key)
+            for key in set(males_vocab.keys()).union(set(female_vocab.keys())) }
+    word_gender_sorted = sorted(word_gender, key=lambda x: word_gender[x])
 
-def line_to_vocab(line, vocab, remove_punctuation):
-    words = line
+    print([ (word, word_gender[word]) for word in word_gender_sorted[:25] ])
+    print([ (word, word_gender[word]) for word in word_gender_sorted[-25:] ])
+    print(word_gender_sorted[:25])
+    print(word_gender_sorted[-25:])
+
+def create_line_to_vocab():
+    remove_punctuation = create_remove_punctuation()
+    def line_to_vocab(line, vocab):
+        stripped = remove_punctuation(line)
+        words = stripped.split(" ")
+        for word in words:
+            if word in vocab:
+                vocab[word] += 1
+            else:
+                vocab[word] = 1
+    return line_to_vocab
+
+def create_get_word_gender(males_vocab, female_vocab):
+    num_male_words = sum(males_vocab.values())
+    num_female_words = sum(female_vocab.values())
+    male_threshold = num_male_words / len(males_vocab)
+    female_threshold = num_female_words / len(female_vocab)
+    print(male_threshold)
+    print(female_threshold)
+    def get_word_gender(word):
+        m_num = males_vocab.get(word, 0)
+        f_num = female_vocab.get(word, 0)
+        norm_m_num = m_num / num_male_words
+        norm_f_num = f_num / num_female_words
+        diff = norm_m_num - norm_f_num
+        _sum = norm_m_num + norm_f_num
+        ratio = diff / _sum
+        meet_threshold = m_num > male_threshold or f_num > female_threshold 
+        metric = ratio if meet_threshold else 0
+        return metric
+    return get_word_gender
+    
 
 
 def create_remove_punctuation():
     remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
+    print(remove_punct_map)
     def remove_punctuation(line):
         return line.translate(remove_punct_map)
     return remove_punctuation
-
 
 # INPUT OUTPUT
 
