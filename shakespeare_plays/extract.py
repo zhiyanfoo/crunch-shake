@@ -120,13 +120,13 @@ def get_speaking_characters(play_lines):
             (CHARACTER_MATCHER.search(line) for line in play_lines)
             if matched_line }
 
-def get_known_character_matcher(speaking_characters):
-    joined_characters = "|".join(speaking_characters)
-    characters_pattern = "(?P<character>" + joined_characters + ")"
-    known_characters_matcher = re.compile(
-            characters_pattern,
+def get_matcher(words, identifier):
+    joined_words = "|".join(words)
+    pattern = "(?P<{0}>".format(identifier) + joined_words + ")"
+    matcher = re.compile(
+            pattern,
             re.IGNORECASE)
-    return known_characters_matcher
+    return matcher
 
 def parse_raw_text(raw_play_lines, speaking_characters):
     """ Parse the lines of the play which is in HTML
@@ -146,7 +146,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
         >>> character_chain
         ['COUNTESS', 'BERTRAM', 'LAFEU', 'COUNTESS', 'BERTRAM', ...]
     """
-    known_characters_matcher = get_known_character_matcher(speaking_characters)
+    known_characters_matcher = get_matcher(speaking_characters, "character")
     parsed_lines = []
     character_chain = []
     for i, line in enumerate(raw_play_lines):
@@ -196,9 +196,7 @@ def parse_raw_text(raw_play_lines, speaking_characters):
             continue
     return parsed_lines
 
-def process_instructions(
-        instruction, 
-        known_characters_matcher, 
+def process_instructions(instruction, known_characters_matcher,
         default_character):
     """
     For each sentence only one action (the first) is matched, but a single
@@ -323,10 +321,7 @@ def create_check_and_add(scene, default, entering=True):
                         )
     return check_and_add
 
-def instruction_character_start(
-        instruction, 
-        line_index, 
-        patterns, 
+def instruction_character_start(instruction, line_index, patterns,
         add_if_not_in):
     """ 
     determine if instruction contains enter/exit type action and add_if_not_in
@@ -349,12 +344,8 @@ def create_add_if_not_in(scene_characters):
 def pattern_in(patterns, action):
     return action and any(pattern in action.lower() for pattern in patterns)
 
-def get_presence(
-        speaking_characters, 
-        play_lines, 
-        act_scene_start_end, 
-        entrance, 
-        exit):
+def get_presence(speaking_characters, play_lines, act_scene_start_end,
+        entrance, exit):
     adj = { character : dict() for character in speaking_characters }
     for i, start_end in enumerate(act_scene_start_end):
         get_presence_by_scene(
@@ -365,12 +356,11 @@ def get_presence(
                 exit[i])
     return adj
 
-def get_presence_by_scene(
-        adj, 
-        play_lines, 
-        start_end, 
-        scene_entrance, 
+def get_presence_by_scene(adj, play_lines, start_end, scene_entrance,
         scene_exit):
+    """ Given the points at which characters entered and exited a screen,
+    construct adj which gives which lines were spoken to whom.
+    """
     scene_start, scene_end = start_end
     characters_present = set()
     inv_entrance, inv_exit = map(invert_dict, [scene_entrance, scene_exit])
@@ -382,9 +372,9 @@ def get_presence_by_scene(
         if line.TYPE == Dialogue.TYPE:
             for character in characters_present - {line.character}:
                 if character in adj[line.character]:
-                    adj[line.character][character] += 1
+                    adj[line.character][character].append(i)
                 else:
-                    adj[line.character][character] = 1
+                    adj[line.character][character] = [i]
         if i in inv_exit:
             for character in inv_exit[i]:
                 characters_present.remove(character)
@@ -413,24 +403,26 @@ def process(speaking_characters, play_lines):
             act_scene_start_end,
             entrance, 
             exit)
-    return adj
+    return adj, act_scene_start_end
 
-def postprocess(play_lines, speaking_characters, adj, gender):
-    graph = create_graph(adj)
-    reciprocal_graph = create_graph(adj, reciprocal=True)
+def postprocess(play_lines, speaking_characters, adj, gender,
+        act_scene_start_end):
+    adj_num = { speaker : { spoken : len(adj[speaker][spoken]) 
+        for spoken in adj[speaker] } 
+        for speaker in adj }
+    graph = create_graph(adj_num)
+    reciprocal_graph = create_graph(adj_num, reciprocal=True)
     characters_by_importance = get_characters_by_importance(
             play_lines, 
             speaking_characters, 
             graph,
             reciprocal_graph)
     vocab_difference(play_lines, gender)
-    bechdel_test(play_lines, characters_by_importance, adj, gender)
+    bechdel_scenes = bechdel_test(play_lines, characters_by_importance, adj,
+            gender, act_scene_start_end)
     return graph
 
-def get_characters_by_importance(
-        play_lines, 
-        speaking_characters, 
-        graph,
+def get_characters_by_importance(play_lines, speaking_characters, graph,
         reciprocal_graph):
     reverse_graph = graph.reverse(copy=True)
 
@@ -472,30 +464,31 @@ def dict_sorted(x):
 
 def process_play(raw_play_lines, gender):
     speaking_characters, play_lines = preprocess(raw_play_lines)
-    adj = process(speaking_characters, play_lines)
-    graph = postprocess(play_lines, speaking_characters, adj, gender)
+    adj, act_scene_start_end = process(speaking_characters, play_lines)
+    graph = postprocess(play_lines, speaking_characters, adj, gender,
+            act_scene_start_end)
     return play_lines, graph
 
 # NETWORKX AND PYGRAPHVIZ
 
-def create_graph(adj, reciprocal=False):
+def create_graph(adj_num, reciprocal=False):
     def reciprocal_weight(speaker, recipient):
-        weight = adj[speaker][recipient]
+        weight = adj_num[speaker][recipient]
         try:
             reciprocal_weight = 1 / weight
             return reciprocal_weight
         except ZeroDivisionError:
             return float('inf')
     def normal_weight(speaker, recipient):
-        return adj[speaker][recipient]
+        return adj_num[speaker][recipient]
     weight_f = reciprocal_weight if reciprocal else normal_weight
     edges = [ (
         speaker, 
         recipient, 
         {'weight' : weight_f(speaker, recipient), 'color' : 'blue'}
         ) 
-            for speaker in adj
-            for recipient in adj[speaker] ]
+            for speaker in adj_num
+            for recipient in adj_num[speaker] ]
     graph = nx.DiGraph()
     graph.add_edges_from(edges)
     return graph
@@ -510,32 +503,73 @@ man. The requirement that the two women must be named is sometimes added.'
 For this implementation the requirement that the conversation involve something
 other than a man is fufilled by the following
 
-1. In a scene the women must not mention any other male characters by name.  2.
-they must not mention any of the following words relating to male partners.
+1. In a scene the women must not mention any other male characters by name,
+when speaking to another women.  
 
-['boyfriend', 'partner', 'husband', 'spouse', 'lover', 'admirer', 'fiancé',
-'amour', 'inamorato']
+2. they must not mention words relating to male partners.
 
-3. they must not mention any of the following words related to sexual
-relationships
+SEE `create_forbidden_matcher`
 
-['sex', 'sexual', 'intercourse', 'marriage', 'matrimony','courting', 'love',
-'wedlock']
+3. they must not mention words related to sexual relationships
+
+SEE `create_forbidden_matcher`
 
 In place of whether the two women are named, both women must be in the upper
 50% of characters as given by character by importance.  
 """
 
-def bechdel_test(play_lines, characters_by_importance, adj, gender):
-    print(gender)
-    print(characters_by_importance)
-    # print(play_lines, characters_by_importance, adj, gender, sep='\n')
+def bechdel_test(play_lines, characters_by_importance, adj, gender,
+        act_scene_start_end):
+    characters = [ x[0] for x in characters_by_importance ]
     # if odd number of characters, includes n + 1 characters, where
     # len(characters) = 2n + 1
     start = len(characters_by_importance) // 2
-    notable_females = [ character for character in (x[0] for x in
-        characters_by_importance[start:]) if gender[character] == "F"]
-    print(notable_females)
+    notable_females = set(filter(lambda x: gender[x] == 'F',
+        characters[start:]))
+    female_to_female = sorted([ line 
+            for speaker in notable_females
+            for spoken in notable_females - {speaker} 
+            for line in adj[speaker][spoken] ])
+    female_lines_by_scene = get_female_lines_by_scene(female_to_female,
+            act_scene_start_end)
+    males = filter(lambda x: gender[x] == 'M', characters)
+    bechdel_scenes = [ bechdel_by_scene(start, end, female_to_female,
+        play_lines, males) for start, end in female_lines_by_scene ]
+    # Abusing the fact that True is one
+    return sum(bechdel_scenes) / len(bechdel_scenes)
+
+def get_female_lines_by_scene(female_to_female, act_scene_start_end):
+    i = 0
+    female_lines_by_scene = []
+    for _ , end in act_scene_start_end:
+        for j in range(i, len(female_to_female)):
+            if female_to_female[j] >= end:
+                female_lines_by_scene.append((i, j))
+                i = j
+                break
+    female_lines_by_scene.append((i, len(female_to_female)))
+    return female_lines_by_scene
+
+def bechdel_by_scene(start, end, female_to_female, play_lines,
+        males):
+    forbidden_matcher = create_forbidden_matcher(males)
+    if start == end:
+        return False
+    for i in range(start, end):
+        line_i = female_to_female[i]
+        line = play_lines[line_i]
+        if forbidden_matcher.search(line.dialogue):
+            return False
+    return True
+
+def create_forbidden_matcher(males):
+    icky = ['sex', 'sexual', 'intercourse', 'marriage', 'matrimony','courting',
+            'love', 'wedlock']
+    boyfriend = ['boyfriend', 'partner', 'husband', 'spouse', 'lover',
+            'admirer', 'fiancé', 'amour', 'inamorato']
+    forbidden_words = icky + boyfriend + list(males)
+    return get_matcher(forbidden_words, "forbidden")
+
 
 # VOCAB DIFFERENCES
 
@@ -577,8 +611,6 @@ def create_get_word_gender(males_vocab, female_vocab):
     num_female_words = sum(female_vocab.values())
     male_threshold = num_male_words / len(males_vocab)
     female_threshold = num_female_words / len(female_vocab)
-    print(male_threshold)
-    print(female_threshold)
     def get_ratio(m_num, f_num):
         norm_m_num = m_num / num_male_words
         norm_f_num = f_num / num_female_words
@@ -598,7 +630,6 @@ def create_get_word_gender(males_vocab, female_vocab):
 
 def create_remove_punctuation():
     remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
-    print(remove_punct_map)
     def remove_punctuation(line):
         return line.translate(remove_punct_map)
     return remove_punctuation
