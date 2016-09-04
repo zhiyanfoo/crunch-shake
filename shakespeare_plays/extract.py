@@ -418,15 +418,16 @@ def process(speaking_characters, play_lines):
 def postprocess(play_lines, speaking_characters, adj, gender):
     graph = create_graph(adj)
     reciprocal_graph = create_graph(adj, reciprocal=True)
-    character_by_importance(
+    characters_by_importance = get_characters_by_importance(
             play_lines, 
             speaking_characters, 
             graph,
             reciprocal_graph)
     vocab_difference(play_lines, gender)
+    bechdel_test(play_lines, characters_by_importance, adj, gender)
     return graph
 
-def character_by_importance(
+def get_characters_by_importance(
         play_lines, 
         speaking_characters, 
         graph,
@@ -438,8 +439,8 @@ def character_by_importance(
     out_degree = nx.out_degree_centrality(graph)
     page_rank = nx.pagerank_numpy(reverse_graph)
     betweenness = nx.betweenness_centrality(reciprocal_graph)
-    metrics = [lines_by_character, out_degree, page_rank, betweenness]
 
+    metrics = [lines_by_character, out_degree, page_rank, betweenness]
     relative_importance = [0.625, 0.125, 0.125, 0.125]
 
     for i, x in enumerate(metrics):
@@ -499,6 +500,43 @@ def create_graph(adj, reciprocal=False):
     graph.add_edges_from(edges)
     return graph
 
+# Bechdel Test
+
+""" 
+The Bechdel test is defined as follows. It 'asks whether a work of fiction
+features at least two women who talk to each other about something other than a
+man. The requirement that the two women must be named is sometimes added.' 
+
+For this implementation the requirement that the conversation involve something
+other than a man is fufilled by the following
+
+1. In a scene the women must not mention any other male characters by name.  2.
+they must not mention any of the following words relating to male partners.
+
+['boyfriend', 'partner', 'husband', 'spouse', 'lover', 'admirer', 'fiancé',
+'amour', 'inamorato']
+
+3. they must not mention any of the following words related to sexual
+relationships
+
+['sex', 'sexual', 'intercourse', 'marriage', 'matrimony','courting', 'love',
+'wedlock']
+
+In place of whether the two women are named, both women must be in the upper
+50% of characters as given by character by importance.  
+"""
+
+def bechdel_test(play_lines, characters_by_importance, adj, gender):
+    print(gender)
+    print(characters_by_importance)
+    # print(play_lines, characters_by_importance, adj, gender, sep='\n')
+    # if odd number of characters, includes n + 1 characters, where
+    # len(characters) = 2n + 1
+    start = len(characters_by_importance) // 2
+    notable_females = [ character for character in (x[0] for x in
+        characters_by_importance[start:]) if gender[character] == "F"]
+    print(notable_females)
+
 # VOCAB DIFFERENCES
 
 def vocab_difference(play_lines, gender):
@@ -517,10 +555,10 @@ def vocab_difference(play_lines, gender):
             for key in set(males_vocab.keys()).union(set(female_vocab.keys())) }
     word_gender_sorted = sorted(word_gender, key=lambda x: word_gender[x])
 
-    print([ (word, word_gender[word]) for word in word_gender_sorted[:25] ])
-    print([ (word, word_gender[word]) for word in word_gender_sorted[-25:] ])
-    print(word_gender_sorted[:25])
-    print(word_gender_sorted[-25:])
+    # print([ (word, word_gender[word]) for word in word_gender_sorted[:25] ])
+    # print([ (word, word_gender[word]) for word in word_gender_sorted[-25:] ])
+    # print(word_gender_sorted[:25])
+    # print(word_gender_sorted[-25:])
 
 def create_line_to_vocab():
     remove_punctuation = create_remove_punctuation()
@@ -541,16 +579,18 @@ def create_get_word_gender(males_vocab, female_vocab):
     female_threshold = num_female_words / len(female_vocab)
     print(male_threshold)
     print(female_threshold)
-    def get_word_gender(word):
-        m_num = males_vocab.get(word, 0)
-        f_num = female_vocab.get(word, 0)
+    def get_ratio(m_num, f_num):
         norm_m_num = m_num / num_male_words
         norm_f_num = f_num / num_female_words
         diff = norm_m_num - norm_f_num
         _sum = norm_m_num + norm_f_num
         ratio = diff / _sum
+        return ratio
+    def get_word_gender(word):
+        m_num = males_vocab.get(word, 0)
+        f_num = female_vocab.get(word, 0)
         meet_threshold = m_num > male_threshold or f_num > female_threshold 
-        metric = ratio if meet_threshold else 0
+        metric = get_ratio(m_num, f_num) if meet_threshold else 0
         return metric
     return get_word_gender
     
