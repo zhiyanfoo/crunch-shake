@@ -12,6 +12,7 @@ from functools import reduce
 from math import log
 
 from lookup import ROMAN_TO_INT 
+from utils import (file_to_list, json_file_to_dict, to_json, list_to_file)
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -625,8 +626,6 @@ def create_get_word_gender(males_vocab, female_vocab):
         metric = get_ratio(m_num, f_num) if meet_threshold else 0
         return metric
     return get_word_gender
-    
-
 
 def create_remove_punctuation():
     remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
@@ -647,22 +646,6 @@ def to_output(parsed_play):
     for p in prog:
         dot_graph.layout(p)
         dot_graph.draw(PLAY_NAME + "_" + p + ".png")
-
-def file_to_list(path):
-    with open(path, 'r') as inputFile:
-        return inputFile.readlines()
-
-def json_file_to_dict(path):
-    with open(path, 'r') as jsonFile:
-        return json.load(jsonFile)
-
-def to_json(x, path):
-    with open(path, 'w') as jsonFile:
-        json.dump(x, jsonFile)
-
-def list_to_file(li, path):
-    with open(path, 'w') as outputFile:
-        outputFile.writelines(li)
 
 def get_files():
     play_lines_raw = file_to_list(PLAY_PATH)

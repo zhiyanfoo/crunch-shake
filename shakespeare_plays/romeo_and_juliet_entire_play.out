@@ -3165,7 +3165,7 @@ JULIET
 4.1 :Farewell, dear father! : None
 Exeunt : ['Exeunt - []'] : JULIET
 Scene(scene=2)
-Enter CAPULET, LADY  CAPULET, Nurse, and two Servingmen : ["Enter - ['CAPULET', 'LADY  CAPULET', 'NURSE']"] : JULIET
+Enter CAPULET, LADY CAPULET, Nurse, and two Servingmen : ["Enter - ['CAPULET', 'LADY CAPULET', 'NURSE']"] : JULIET
 CAPULET
 4.2 :So many guests invite as here are writ. : None
 Exit First Servant : ["Exit - ['FIRST SERVANT']"] : CAPULET
@@ -3223,7 +3223,7 @@ LADY CAPULET
 CAPULET
 4.2 :Go, nurse, go with her: we'll to church to-morrow. : None
 Exeunt JULIET and Nurse : ["Exeunt - ['JULIET', 'NURSE']"] : CAPULET
-LADY  CAPULET
+LADY CAPULET
 4.2 :We shall be short in our provision: : None
 4.2 :'Tis now near night. : None
 CAPULET
