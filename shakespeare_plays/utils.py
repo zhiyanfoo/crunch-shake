@@ -1,4 +1,6 @@
 import json
+import re
+from collections import namedtuple
 
 # INPUT OUTPUT
 
@@ -18,3 +20,15 @@ def list_to_file(li, path):
     with open(path, 'w') as outputFile:
         outputFile.writelines(li)
 
+# MATCHERS
+
+def get_matcher(words, identifier):
+    joined_words = "|".join(words)
+    pattern = "(?P<{0}>".format(identifier) + joined_words + ")"
+    matcher = re.compile(
+            pattern,
+            re.IGNORECASE)
+    return matcher
+
+Matcher = namedtuple('Matcher', ['dialogue', 'character', 'stage_direction',
+    'instruction', 'act', 'scene'])

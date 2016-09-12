@@ -6,3 +6,5 @@ share/
 pyvenv.cfg
 
 *.png
+
+.ipynb_checkpoints/
