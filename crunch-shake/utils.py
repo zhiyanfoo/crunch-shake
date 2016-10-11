@@ -1,6 +1,7 @@
 import json
 import re
 from collections import namedtuple
+import string
 
 # INPUT OUTPUT
 
@@ -32,3 +33,18 @@ def get_matcher(words, identifier):
 
 Matcher = namedtuple('Matcher', ['dialogue', 'character', 'stage_direction',
     'instruction', 'act', 'scene'])
+
+# HELPERS
+
+def invert_dict(front_dict):
+    """ Take a dict of key->values and return values->[keys] """
+    back_dict = { value : [] for value in front_dict.values() }
+    for key, value in front_dict.items():
+        back_dict[value].append(key)
+    return back_dict
+
+def create_remove_punctuation():
+    remove_punct_map = dict.fromkeys(map(ord, string.punctuation))
+    def remove_punctuation(line):
+        return line.translate(remove_punct_map)
+    return remove_punctuation

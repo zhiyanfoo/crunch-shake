@@ -122,3 +122,9 @@ def process_instructions(instruction, known_characters_matcher,
             ( known_characters_matcher.findall(line) 
                 for line in instruction_lines) ]
     return Instruction(instruction, actions, characters, default_character)
+
+def preprocess(raw_play_lines, matcher):
+    speaking_characters = get_speaking_characters(raw_play_lines,
+            matcher.character)
+    play_lines = parse_raw_text(raw_play_lines, speaking_characters, matcher)
+    return speaking_characters, play_lines
