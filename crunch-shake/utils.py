@@ -21,6 +21,10 @@ def list_to_file(li, path):
     with open(path, 'w') as outputFile:
         outputFile.writelines(li)
 
+def str_to_file(x, path):
+    with open(path, 'w') as outputFile:
+        outputFile.write(x)
+
 # MATCHERS
 
 def get_matcher(words, identifier):

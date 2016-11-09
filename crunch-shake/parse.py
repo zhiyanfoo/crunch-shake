@@ -3,7 +3,17 @@ from lookup import ROMAN_TO_INT
 from lines import Dialogue, Character, Instruction, Act, Scene
 
 def get_speaking_characters(raw_play_lines, character_matcher):
-    """ return a set of all character names """
+    """ Return a set of all character names 
+
+    Parameters 
+    ----------
+    raw_play_lines : list of str
+        lines of the play.
+    character_matcher : compiled regex expression
+        used to extract character names from raw_play_lines, regex must include
+        group called 'name'a.
+    
+    """
     return { matched_line.group('name').upper() for matched_line in
             ( character_matcher.search(line) for line in raw_play_lines )
             if matched_line }
