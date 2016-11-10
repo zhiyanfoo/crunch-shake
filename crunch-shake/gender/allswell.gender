@@ -1,1 +1,26 @@
-{"BERTRAM": "M", "SECOND SOLDIER": "M", "LAFEU": "M", "FIRST LORD": "M", "SERVANT": "M", "FOURTH LORD": "M", "PAROLLES": "M", "KING": "M", "BOTH": "M", "ALL": "M", "SECOND GENTLEMAN": "M", "DIANA": "M", "FIRST SOLDIER": "M", "GENTLEMAN": "M", "MARIANA": "M", "FIRST GENTLEMAN": "M", "WIDOW": "M", "PAGE": "M", "HELENA": "M", "DUKE": "M", "SECOND LORD": "M", "COUNTESS": "M", "STEWARD": "M", "CLOWN": "M"}
+{
+    "BERTRAM": "M",
+    "SECOND SOLDIER": "M",
+    "LAFEU": "M",
+    "FIRST LORD": "M",
+    "SERVANT": "M",
+    "FOURTH LORD": "M",
+    "PAROLLES": "M",
+    "KING": "M",
+    "BOTH": "M",
+    "ALL": "M",
+    "SECOND GENTLEMAN": "M",
+    "DIANA": "F",
+    "FIRST SOLDIER": "M",
+    "GENTLEMAN": "M",
+    "MARIANA": "F",
+    "FIRST GENTLEMAN": "M",
+    "WIDOW": "F",
+    "PAGE": "M",
+    "HELENA": "F",
+    "DUKE": "M",
+    "SECOND LORD": "M",
+    "COUNTESS": "M",
+    "STEWARD": "M",
+    "CLOWN": "M"
+}

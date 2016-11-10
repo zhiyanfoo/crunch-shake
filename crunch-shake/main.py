@@ -10,28 +10,30 @@ from analysis import postprocess
 import networkx as nx
 
 PLAY_PATH = os.path.abspath(sys.argv[1])
-PLAY_NAME = PLAY_PATH[:-5]
-
-OUTPUT_PATH = PLAY_NAME + ".out"
+HEAD_DIR = os.path.dirname(os.path.dirname(PLAY_PATH))
+PLAY_NAME = os.path.basename(PLAY_PATH)[:-len('.html')]
+GENDER_PATH = os.path.join(HEAD_DIR, 'gender', PLAY_NAME + ".gender")
+OUTPUT_PATH = os.path.join(HEAD_DIR, 'output')
+OUTPUT_PATH_BASE = os.path.join(OUTPUT_PATH, PLAY_NAME)
 
 # INPUT OUTPUT
 
 def to_output(parsed_play):
     play_lines, graph = parsed_play
     a = [ str(x) + "\n" for x in play_lines ]
-    list_to_file(a, OUTPUT_PATH)
     print("writing to", OUTPUT_PATH)
+    list_to_file(a, OUTPUT_PATH_BASE + '.out')
     dot_graph = nx.nx_agraph.to_agraph(graph)
-    dot_graph.write(PLAY_NAME + ".dot")
+    dot_graph.write(OUTPUT_PATH_BASE + ".dot")
     prog = ['dot', 'circo']
     for p in prog:
         dot_graph.layout(p)
-        dot_graph.draw(PLAY_NAME + "_" + p + ".png")
+        dot_graph.draw(OUTPUT_PATH_BASE + "_" + p + ".png")
 
 def get_files():
     play_lines_raw = file_to_list(PLAY_PATH)
     try:
-        gender = json_file_to_dict(PLAY_NAME + "_gender.json")
+        gender = json_file_to_dict(GENDER_PATH)
     except FileNotFoundError:
         print("require gender file")
         gender = None

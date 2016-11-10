@@ -1,0 +1,3634 @@
+Act(act=1)
+Scene(scene=1)
+Dead March. Enter the Funeral of KING HENRY the  Fifth, attended on by Dukes of BEDFORD, Regent of  France; GLOUCESTER, Protector; and EXETER, Earl of WARWICK, the BISHOP OF WINCHESTER, Heralds,  & c : ['None - []', "Enter - ['BEDFORD', 'GLOUCESTER', 'EXETER', 'WARWICK', 'OF WINCHESTER']"] : None
+BEDFORD
+1.1 :Hung be the heavens with black, yield day to night! : None
+1.1 :Comets, importing change of times and states, : None
+1.1 :Brandish your crystal tresses in the sky, : None
+1.1 :And with them scourge the bad revolting stars : None
+1.1 :That have consented unto Henry's death! : None
+1.1 :King Henry the Fifth, too famous to live long! : None
+1.1 :England ne'er lost a king of so much worth. : None
+GLOUCESTER
+1.1 :England ne'er had a king until his time. : None
+1.1 :Virtue he had, deserving to command: : None
+1.1 :His brandish'd sword did blind men with his beams: : None
+1.1 :His arms spread wider than a dragon's wings; : None
+1.1 :His sparking eyes, replete with wrathful fire, : None
+1.1 :More dazzled and drove back his enemies : None
+1.1 :Than mid-day sun fierce bent against their faces. : None
+1.1 :What should I say? his deeds exceed all speech: : None
+1.1 :He ne'er lift up his hand but conquered. : None
+EXETER
+1.1 :We mourn in black: why mourn we not in blood? : None
+1.1 :Henry is dead and never shall revive: : None
+1.1 :Upon a wooden coffin we attend, : None
+1.1 :And death's dishonourable victory : None
+1.1 :We with our stately presence glorify, : None
+1.1 :Like captives bound to a triumphant car. : None
+1.1 :What! shall we curse the planets of mishap : None
+1.1 :That plotted thus our glory's overthrow? : None
+1.1 :Or shall we think the subtle-witted French : None
+1.1 :Conjurers and sorcerers, that afraid of him : None
+1.1 :By magic verses have contrived his end? : None
+1.1 :BISHOP : None
+OF WINCHESTER
+1.1 :He was a king bless'd of the King of kings. : None
+1.1 :Unto the French the dreadful judgement-day : None
+1.1 :So dreadful will not be as was his sight. : None
+1.1 :The battles of the Lord of hosts he fought: : None
+1.1 :The church's prayers made him so prosperous. : None
+GLOUCESTER
+1.1 :The church! where is it? Had not churchmen pray'd, : None
+1.1 :His thread of life had not so soon decay'd: : None
+1.1 :None do you like but an effeminate prince, : None
+1.1 :Whom, like a school-boy, you may over-awe. : None
+1.1 :BISHOP : None
+OF WINCHESTER
+1.1 :Gloucester, whate'er we like, thou art protector : None
+1.1 :And lookest to command the prince and realm. : None
+1.1 :Thy wife is proud; she holdeth thee in awe, : None
+1.1 :More than God or religious churchmen may. : None
+GLOUCESTER
+1.1 :Name not religion, for thou lovest the flesh, : None
+1.1 :And ne'er throughout the year to church thou go'st : None
+1.1 :Except it be to pray against thy foes. : None
+BEDFORD
+1.1 :Cease, cease these jars and rest your minds in peace: : None
+1.1 :Let's to the altar: heralds, wait on us: : None
+1.1 :Instead of gold, we'll offer up our arms: : None
+1.1 :Since arms avail not now that Henry's dead. : None
+1.1 :Posterity, await for wretched years, : None
+1.1 :When at their mothers' moist eyes babes shall suck, : None
+1.1 :Our isle be made a nourish of salt tears, : None
+1.1 :And none but women left to wail the dead. : None
+1.1 :Henry the Fifth, thy ghost I invocate: : None
+1.1 :Prosper this realm, keep it from civil broils, : None
+1.1 :Combat with adverse planets in the heavens! : None
+1.1 :A far more glorious star thy soul will make : None
+1.1 :Than Julius Caesar or bright-- : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : BEDFORD
+MESSENGER
+1.1 :My honourable lords, health to you all! : None
+1.1 :Sad tidings bring I to you out of France, : None
+1.1 :Of loss, of slaughter and discomfiture: : None
+1.1 :Guienne, Champagne, Rheims, Orleans, : None
+1.1 :Paris, Guysors, Poictiers, are all quite lost. : None
+BEDFORD
+1.1 :What say'st thou, man, before dead Henry's corse? : None
+1.1 :Speak softly, or the loss of those great towns : None
+1.1 :Will make him burst his lead and rise from death. : None
+GLOUCESTER
+1.1 :Is Paris lost? is Rouen yielded up? : None
+1.1 :If Henry were recall'd to life again, : None
+1.1 :These news would cause him once more yield the ghost. : None
+EXETER
+1.1 :How were they lost? what treachery was used? : None
+MESSENGER
+1.1 :No treachery; but want of men and money. : None
+1.1 :Amongst the soldiers this is muttered, : None
+1.1 :That here you maintain several factions, : None
+1.1 :And whilst a field should be dispatch'd and fought, : None
+1.1 :You are disputing of your generals: : None
+1.1 :One would have lingering wars with little cost; : None
+1.1 :Another would fly swift, but wanteth wings; : None
+1.1 :A third thinks, without expense at all, : None
+1.1 :By guileful fair words peace may be obtain'd. : None
+1.1 :Awake, awake, English nobility! : None
+1.1 :Let not sloth dim your horrors new-begot: : None
+1.1 :Cropp'd are the flower-de-luces in your arms; : None
+1.1 :Of England's coat one half is cut away. : None
+EXETER
+1.1 :Were our tears wanting to this funeral, : None
+1.1 :These tidings would call forth their flowing tides. : None
+BEDFORD
+1.1 :Me they concern; Regent I am of France. : None
+1.1 :Give me my steeled coat. I'll fight for France. : None
+1.1 :Away with these disgraceful wailing robes! : None
+1.1 :Wounds will I lend the French instead of eyes, : None
+1.1 :To weep their intermissive miseries. : None
+Enter to them another Messenger : ["Enter - ['MESSENGER']"] : BEDFORD
+MESSENGER
+1.1 :Lords, view these letters full of bad mischance. : None
+1.1 :France is revolted from the English quite, : None
+1.1 :Except some petty towns of no import: : None
+1.1 :The Dauphin Charles is crowned king of Rheims; : None
+1.1 :The Bastard of Orleans with him is join'd; : None
+1.1 :Reignier, Duke of Anjou, doth take his part; : None
+1.1 :The Duke of Alencon flieth to his side. : None
+EXETER
+1.1 :The Dauphin crowned king! all fly to him! : None
+1.1 :O, whither shall we fly from this reproach? : None
+GLOUCESTER
+1.1 :We will not fly, but to our enemies' throats. : None
+1.1 :Bedford, if thou be slack, I'll fight it out. : None
+BEDFORD
+1.1 :Gloucester, why doubt'st thou of my forwardness? : None
+1.1 :An army have I muster'd in my thoughts, : None
+1.1 :Wherewith already France is overrun. : None
+Enter another Messenger : ["Enter - ['MESSENGER']"] : BEDFORD
+MESSENGER
+1.1 :My gracious lords, to add to your laments, : None
+1.1 :Wherewith you now bedew King Henry's hearse, : None
+1.1 :I must inform you of a dismal fight : None
+1.1 :Betwixt the stout Lord Talbot and the French. : None
+1.1 :BISHOP : None
+OF WINCHESTER
+1.1 :What! wherein Talbot overcame? is't so? : None
+MESSENGER
+1.1 :O, no; wherein Lord Talbot was o'erthrown: : None
+1.1 :The circumstance I'll tell you more at large. : None
+1.1 :The tenth of August last this dreadful lord, : None
+1.1 :Retiring from the siege of Orleans, : None
+1.1 :Having full scarce six thousand in his troop. : None
+1.1 :By three and twenty thousand of the French : None
+1.1 :Was round encompassed and set upon. : None
+1.1 :No leisure had he to enrank his men; : None
+1.1 :He wanted pikes to set before his archers; : None
+1.1 :Instead whereof sharp stakes pluck'd out of hedges : None
+1.1 :They pitched in the ground confusedly, : None
+1.1 :To keep the horsemen off from breaking in. : None
+1.1 :More than three hours the fight continued; : None
+1.1 :Where valiant Talbot above human thought : None
+1.1 :Enacted wonders with his sword and lance: : None
+1.1 :Hundreds he sent to hell, and none durst stand him; : None
+1.1 :Here, there, and every where, enraged he flew: : None
+1.1 :The French exclaim'd, the devil was in arms; : None
+1.1 :All the whole army stood agazed on him: : None
+1.1 :His soldiers spying his undaunted spirit : None
+1.1 :A Talbot! a Talbot! cried out amain : None
+1.1 :And rush'd into the bowels of the battle. : None
+1.1 :Here had the conquest fully been seal'd up, : None
+1.1 :If Sir John Fastolfe had not play'd the coward: : None
+1.1 :He, being in the vaward, placed behind : None
+1.1 :With purpose to relieve and follow them, : None
+1.1 :Cowardly fled, not having struck one stroke. : None
+1.1 :Hence grew the general wreck and massacre; : None
+1.1 :Enclosed were they with their enemies: : None
+1.1 :A base Walloon, to win the Dauphin's grace, : None
+1.1 :Thrust Talbot with a spear into the back, : None
+1.1 :Whom all France with their chief assembled strength : None
+1.1 :Durst not presume to look once in the face. : None
+BEDFORD
+1.1 :Is Talbot slain? then I will slay myself, : None
+1.1 :For living idly here in pomp and ease, : None
+1.1 :Whilst such a worthy leader, wanting aid, : None
+1.1 :Unto his dastard foemen is betray'd. : None
+MESSENGER
+1.1 :O no, he lives; but is took prisoner, : None
+1.1 :And Lord Scales with him and Lord Hungerford: : None
+1.1 :Most of the rest slaughter'd or took likewise. : None
+BEDFORD
+1.1 :His ransom there is none but I shall pay: : None
+1.1 :I'll hale the Dauphin headlong from his throne: : None
+1.1 :His crown shall be the ransom of my friend; : None
+1.1 :Four of their lords I'll change for one of ours. : None
+1.1 :Farewell, my masters; to my task will I; : None
+1.1 :Bonfires in France forthwith I am to make, : None
+1.1 :To keep our great Saint George's feast withal: : None
+1.1 :Ten thousand soldiers with me I will take, : None
+1.1 :Whose bloody deeds shall make all Europe quake. : None
+MESSENGER
+1.1 :So you had need; for Orleans is besieged; : None
+1.1 :The English army is grown weak and faint: : None
+1.1 :The Earl of Salisbury craveth supply, : None
+1.1 :And hardly keeps his men from mutiny, : None
+1.1 :Since they, so few, watch such a multitude. : None
+EXETER
+1.1 :Remember, lords, your oaths to Henry sworn, : None
+1.1 :Either to quell the Dauphin utterly, : None
+1.1 :Or bring him in obedience to your yoke. : None
+BEDFORD
+1.1 :I do remember it; and here take my leave, : None
+1.1 :To go about my preparation. : None
+Exit : ['Exit - []'] : BEDFORD
+GLOUCESTER
+1.1 :I'll to the Tower with all the haste I can, : None
+1.1 :To view the artillery and munition; : None
+1.1 :And then I will proclaim young Henry king. : None
+Exit : ['Exit - []'] : GLOUCESTER
+EXETER
+1.1 :To Eltham will I, where the young king is, : None
+1.1 :Being ordain'd his special governor, : None
+1.1 :And for his safety there I'll best devise. : None
+Exit : ['Exit - []'] : EXETER
+1.1 :BISHOP : None
+OF WINCHESTER
+1.1 :Each hath his place and function to attend: : None
+1.1 :I am left out; for me nothing remains. : None
+1.1 :But long I will not be Jack out of office: : None
+1.1 :The king from Eltham I intend to steal : None
+1.1 :And sit at chiefest stern of public weal. : None
+Exeunt : ['Exeunt - []'] : OF WINCHESTER
+Scene(scene=2)
+Sound a flourish. Enter CHARLES, ALENCON, and REIGNIER, marching with drum and Soldiers : ['None - []', "Enter - ['CHARLES', 'ALENCON', 'REIGNIER', 'SOLDIER']"] : OF WINCHESTER
+CHARLES
+1.2 :Mars his true moving, even as in the heavens : None
+1.2 :So in the earth, to this day is not known: : None
+1.2 :Late did he shine upon the English side; : None
+1.2 :Now we are victors; upon us he smiles. : None
+1.2 :What towns of any moment but we have? : None
+1.2 :At pleasure here we lie near Orleans; : None
+1.2 :Otherwhiles the famish'd English, like pale ghosts, : None
+1.2 :Faintly besiege us one hour in a month. : None
+ALENCON
+1.2 :They want their porridge and their fat bull-beeves: : None
+1.2 :Either they must be dieted like mules : None
+1.2 :And have their provender tied to their mouths : None
+1.2 :Or piteous they will look, like drowned mice. : None
+REIGNIER
+1.2 :Let's raise the siege: why live we idly here? : None
+1.2 :Talbot is taken, whom we wont to fear: : None
+1.2 :Remaineth none but mad-brain'd Salisbury; : None
+1.2 :And he may well in fretting spend his gall, : None
+1.2 :Nor men nor money hath he to make war. : None
+CHARLES
+1.2 :Sound, sound alarum! we will rush on them. : None
+1.2 :Now for the honour of the forlorn French! : None
+1.2 :Him I forgive my death that killeth me : None
+1.2 :When he sees me go back one foot or fly. : None
+Exeunt : ['Exeunt - []'] : CHARLES
+Here alarum; they are beaten back by the English with great loss. Re-enter CHARLES, ALENCON, and REIGNIER : ['None - []', "Re-enter - ['CHARLES', 'ALENCON', 'REIGNIER']"] : CHARLES
+CHARLES
+1.2 :Who ever saw the like? what men have I! : None
+1.2 :Dogs! cowards! dastards! I would ne'er have fled, : None
+1.2 :But that they left me 'midst my enemies. : None
+REIGNIER
+1.2 :Salisbury is a desperate homicide; : None
+1.2 :He fighteth as one weary of his life. : None
+1.2 :The other lords, like lions wanting food, : None
+1.2 :Do rush upon us as their hungry prey. : None
+ALENCON
+1.2 :Froissart, a countryman of ours, records, : None
+1.2 :England all Olivers and Rowlands bred, : None
+1.2 :During the time Edward the Third did reign. : None
+1.2 :More truly now may this be verified; : None
+1.2 :For none but Samsons and Goliases : None
+1.2 :It sendeth forth to skirmish. One to ten! : None
+1.2 :Lean, raw-boned rascals! who would e'er suppose : None
+1.2 :They had such courage and audacity? : None
+CHARLES
+1.2 :Let's leave this town; for they are hare-brain'd slaves, : None
+1.2 :And hunger will enforce them to be more eager: : None
+1.2 :Of old I know them; rather with their teeth : None
+1.2 :The walls they'll tear down than forsake the siege. : None
+REIGNIER
+1.2 :I think, by some odd gimmors or device : None
+1.2 :Their arms are set like clocks, stiff to strike on; : None
+1.2 :Else ne'er could they hold out so as they do. : None
+1.2 :By my consent, we'll even let them alone. : None
+ALENCON
+1.2 :Be it so. : None
+Enter the BASTARD OF ORLEANS : ["Enter - ['BASTARD OF ORLEANS']"] : ALENCON
+BASTARD OF ORLEANS
+1.2 :Where's the Prince Dauphin? I have news for him. : None
+CHARLES
+1.2 :Bastard of Orleans, thrice welcome to us. : None
+BASTARD OF ORLEANS
+1.2 :Methinks your looks are sad, your cheer appall'd: : None
+1.2 :Hath the late overthrow wrought this offence? : None
+1.2 :Be not dismay'd, for succor is at hand: : None
+1.2 :A holy maid hither with me I bring, : None
+1.2 :Which by a vision sent to her from heaven : None
+1.2 :Ordained is to raise this tedious siege : None
+1.2 :And drive the English forth the bounds of France. : None
+1.2 :The spirit of deep prophecy she hath, : None
+1.2 :Exceeding the nine sibyls of old Rome: : None
+1.2 :What's past and what's to come she can descry. : None
+1.2 :Speak, shall I call her in? Believe my words, : None
+1.2 :For they are certain and unfallible. : None
+CHARLES
+1.2 :Go, call her in. : None
+Exit BASTARD OF ORLEANS : ["Exit - ['BASTARD OF ORLEANS']"] : CHARLES
+1.2 :But first, to try her skill, : None
+1.2 :Reignier, stand thou as Dauphin in my place: : None
+1.2 :Question her proudly; let thy looks be stern: : None
+1.2 :By this means shall we sound what skill she hath. : None
+Re-enter the BASTARD OF ORLEANS, with JOAN LA PUCELLE : ["Re-enter - ['BASTARD OF ORLEANS', 'JOAN LA PUCELLE']"] : CHARLES
+REIGNIER
+1.2 :Fair maid, is't thou wilt do these wondrous feats? : None
+JOAN LA PUCELLE
+1.2 :Reignier, is't thou that thinkest to beguile me? : None
+1.2 :Where is the Dauphin? Come, come from behind; : None
+1.2 :I know thee well, though never seen before. : None
+1.2 :Be not amazed, there's nothing hid from me: : None
+1.2 :In private will I talk with thee apart. : None
+1.2 :Stand back, you lords, and give us leave awhile. : None
+REIGNIER
+1.2 :She takes upon her bravely at first dash. : None
+JOAN LA PUCELLE
+1.2 :Dauphin, I am by birth a shepherd's daughter, : None
+1.2 :My wit untrain'd in any kind of art. : None
+1.2 :Heaven and our Lady gracious hath it pleased : None
+1.2 :To shine on my contemptible estate: : None
+1.2 :Lo, whilst I waited on my tender lambs, : None
+1.2 :And to sun's parching heat display'd my cheeks, : None
+1.2 :God's mother deigned to appear to me : None
+1.2 :And in a vision full of majesty : None
+1.2 :Will'd me to leave my base vocation : None
+1.2 :And free my country from calamity: : None
+1.2 :Her aid she promised and assured success: : None
+1.2 :In complete glory she reveal'd herself; : None
+1.2 :And, whereas I was black and swart before, : None
+1.2 :With those clear rays which she infused on me : None
+1.2 :That beauty am I bless'd with which you see. : None
+1.2 :Ask me what question thou canst possible, : None
+1.2 :And I will answer unpremeditated: : None
+1.2 :My courage try by combat, if thou darest, : None
+1.2 :And thou shalt find that I exceed my sex. : None
+1.2 :Resolve on this, thou shalt be fortunate, : None
+1.2 :If thou receive me for thy warlike mate. : None
+CHARLES
+1.2 :Thou hast astonish'd me with thy high terms: : None
+1.2 :Only this proof I'll of thy valour make, : None
+1.2 :In single combat thou shalt buckle with me, : None
+1.2 :And if thou vanquishest, thy words are true; : None
+1.2 :Otherwise I renounce all confidence. : None
+JOAN LA PUCELLE
+1.2 :I am prepared: here is my keen-edged sword, : None
+1.2 :Deck'd with five flower-de-luces on each side; : None
+1.2 :The which at Touraine, in Saint Katharine's : None
+1.2 :churchyard, : None
+1.2 :Out of a great deal of old iron I chose forth. : None
+CHARLES
+1.2 :Then come, o' God's name; I fear no woman. : None
+JOAN LA PUCELLE
+1.2 :And while I live, I'll ne'er fly from a man. : None
+Here they fight, and JOAN LA PUCELLE overcomes : ["None - ['JOAN LA PUCELLE']"] : JOAN LA PUCELLE
+CHARLES
+1.2 :Stay, stay thy hands! thou art an Amazon : None
+1.2 :And fightest with the sword of Deborah. : None
+JOAN LA PUCELLE
+1.2 :Christ's mother helps me, else I were too weak. : None
+CHARLES
+1.2 :Whoe'er helps thee, 'tis thou that must help me: : None
+1.2 :Impatiently I burn with thy desire; : None
+1.2 :My heart and hands thou hast at once subdued. : None
+1.2 :Excellent Pucelle, if thy name be so, : None
+1.2 :Let me thy servant and not sovereign be: : None
+1.2 :'Tis the French Dauphin sueth to thee thus. : None
+JOAN LA PUCELLE
+1.2 :I must not yield to any rites of love, : None
+1.2 :For my profession's sacred from above: : None
+1.2 :When I have chased all thy foes from hence, : None
+1.2 :Then will I think upon a recompense. : None
+CHARLES
+1.2 :Meantime look gracious on thy prostrate thrall. : None
+REIGNIER
+1.2 :My lord, methinks, is very long in talk. : None
+ALENCON
+1.2 :Doubtless he shrives this woman to her smock; : None
+1.2 :Else ne'er could he so long protract his speech. : None
+REIGNIER
+1.2 :Shall we disturb him, since he keeps no mean? : None
+ALENCON
+1.2 :He may mean more than we poor men do know: : None
+1.2 :These women are shrewd tempters with their tongues. : None
+REIGNIER
+1.2 :My lord, where are you? what devise you on? : None
+1.2 :Shall we give over Orleans, or no? : None
+JOAN LA PUCELLE
+1.2 :Why, no, I say, distrustful recreants! : None
+1.2 :Fight till the last gasp; I will be your guard. : None
+CHARLES
+1.2 :What she says I'll confirm: we'll fight it out. : None
+JOAN LA PUCELLE
+1.2 :Assign'd am I to be the English scourge. : None
+1.2 :This night the siege assuredly I'll raise: : None
+1.2 :Expect Saint Martin's summer, halcyon days, : None
+1.2 :Since I have entered into these wars. : None
+1.2 :Glory is like a circle in the water, : None
+1.2 :Which never ceaseth to enlarge itself : None
+1.2 :Till by broad spreading it disperse to nought. : None
+1.2 :With Henry's death the English circle ends; : None
+1.2 :Dispersed are the glories it included. : None
+1.2 :Now am I like that proud insulting ship : None
+1.2 :Which Caesar and his fortune bare at once. : None
+CHARLES
+1.2 :Was Mahomet inspired with a dove? : None
+1.2 :Thou with an eagle art inspired then. : None
+1.2 :Helen, the mother of great Constantine, : None
+1.2 :Nor yet Saint Philip's daughters, were like thee. : None
+1.2 :Bright star of Venus, fall'n down on the earth, : None
+1.2 :How may I reverently worship thee enough? : None
+ALENCON
+1.2 :Leave off delays, and let us raise the siege. : None
+REIGNIER
+1.2 :Woman, do what thou canst to save our honours; : None
+1.2 :Drive them from Orleans and be immortalized. : None
+CHARLES
+1.2 :Presently we'll try: come, let's away about it: : None
+1.2 :No prophet will I trust, if she prove false. : None
+Exeunt : ['Exeunt - []'] : CHARLES
+Scene(scene=3)
+Enter GLOUCESTER, with his Serving-men in blue coats : ["Enter - ['GLOUCESTER']"] : CHARLES
+GLOUCESTER
+1.3 :I am come to survey the Tower this day: : None
+1.3 :Since Henry's death, I fear, there is conveyance. : None
+1.3 :Where be these warders, that they wait not here? : None
+1.3 :Open the gates; 'tis Gloucester that calls. : None
+FIRST WARDER
+1.3 :  Who's there that knocks so imperiously? : Within : ['None - []'] : FIRST WARDER
+1.3 :First Serving-Man	It is the noble Duke of Gloucester. : None
+SECOND WARDER
+1.3 :  Whoe'er he be, you may not be let in. : Within : ['None - []'] : SECOND WARDER
+1.3 :First Serving-Man	Villains, answer you so the lord protector? : None
+FIRST WARDER
+1.3 :  The Lord protect him! so we answer him: : Within : ['None - []'] : FIRST WARDER
+1.3 :We do no otherwise than we are will'd. : None
+GLOUCESTER
+1.3 :Who willed you? or whose will stands but mine? : None
+1.3 :There's none protector of the realm but I. : None
+1.3 :Break up the gates, I'll be your warrantize. : None
+1.3 :Shall I be flouted thus by dunghill grooms? : None
+Gloucester's men rush at the Tower Gates, and WOODVILE the Lieutenant speaks within : ["To - ['GLOUCESTER', 'WOODVILE']"] : GLOUCESTER
+WOODVILE
+1.3 :What noise is this? what traitors have we here? : None
+GLOUCESTER
+1.3 :Lieutenant, is it you whose voice I hear? : None
+1.3 :Open the gates; here's Gloucester that would enter. : None
+WOODVILE
+1.3 :Have patience, noble duke; I may not open; : None
+1.3 :The Cardinal of Winchester forbids: : None
+1.3 :From him I have express commandment : None
+1.3 :That thou nor none of thine shall be let in. : None
+GLOUCESTER
+1.3 :Faint-hearted Woodvile, prizest him 'fore me? : None
+1.3 :Arrogant Winchester, that haughty prelate, : None
+1.3 :Whom Henry, our late sovereign, ne'er could brook? : None
+1.3 :Thou art no friend to God or to the king: : None
+1.3 :Open the gates, or I'll shut thee out shortly. : None
+1.3 :Serving-Men	Open the gates unto the lord protector, : None
+1.3 :Or we'll burst them open, if that you come not quickly. : None
+Enter to the Protector at the Tower Gates BISHOP OF WINCHESTER and his men in tawny coats : ["Enter - ['OF WINCHESTER']"] : GLOUCESTER
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :How now, ambitious Humphry! what means this? : None
+GLOUCESTER
+1.3 :Peel'd priest, dost thou command me to be shut out? : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :I do, thou most usurping proditor, : None
+1.3 :And not protector, of the king or realm. : None
+GLOUCESTER
+1.3 :Stand back, thou manifest conspirator, : None
+1.3 :Thou that contrivedst to murder our dead lord; : None
+1.3 :Thou that givest whores indulgences to sin: : None
+1.3 :I'll canvass thee in thy broad cardinal's hat, : None
+1.3 :If thou proceed in this thy insolence. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Nay, stand thou back, I will not budge a foot: : None
+1.3 :This be Damascus, be thou cursed Cain, : None
+1.3 :To slay thy brother Abel, if thou wilt. : None
+GLOUCESTER
+1.3 :I will not slay thee, but I'll drive thee back: : None
+1.3 :Thy scarlet robes as a child's bearing-cloth : None
+1.3 :I'll use to carry thee out of this place. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Do what thou darest; I beard thee to thy face. : None
+GLOUCESTER
+1.3 :What! am I dared and bearded to my face? : None
+1.3 :Draw, men, for all this privileged place; : None
+1.3 :Blue coats to tawny coats. Priest, beware your beard, : None
+1.3 :I mean to tug it and to cuff you soundly: : None
+1.3 :Under my feet I stamp thy cardinal's hat: : None
+1.3 :In spite of pope or dignities of church, : None
+1.3 :Here by the cheeks I'll drag thee up and down. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Gloucester, thou wilt answer this before the pope. : None
+GLOUCESTER
+1.3 :Winchester goose, I cry, a rope! a rope! : None
+1.3 :Now beat them hence; why do you let them stay? : None
+1.3 :Thee I'll chase hence, thou wolf in sheep's array. : None
+1.3 :Out, tawny coats! out, scarlet hypocrite! : None
+Here GLOUCESTER's men beat out BISHOP OF  WINCHESTER's men, and enter in the hurly- burly the Mayor of London and his Officers : ["enter - ['GLOUCESTER', 'MAYOR', 'OFFICER']"] : GLOUCESTER
+MAYOR
+1.3 :Fie, lords! that you, being supreme magistrates, : None
+1.3 :Thus contumeliously should break the peace! : None
+GLOUCESTER
+1.3 :Peace, mayor! thou know'st little of my wrongs: : None
+1.3 :Here's Beaufort, that regards nor God nor king, : None
+1.3 :Hath here distrain'd the Tower to his use. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Here's Gloucester, a foe to citizens, : None
+1.3 :One that still motions war and never peace, : None
+1.3 :O'ercharging your free purses with large fines, : None
+1.3 :That seeks to overthrow religion, : None
+1.3 :Because he is protector of the realm, : None
+1.3 :And would have armour here out of the Tower, : None
+1.3 :To crown himself king and suppress the prince. : None
+GLOUCESTER
+1.3 :I will not answer thee with words, but blows. : None
+Here they skirmish again : ['None - []'] : GLOUCESTER
+MAYOR
+1.3 :Naught rests for me in this tumultuous strife : None
+1.3 :But to make open proclamation: : None
+1.3 :Come, officer; as loud as e'er thou canst, : None
+1.3 :Cry. : None
+OFFICER
+1.3 :All manner of men assembled here in arms this day : None
+1.3 :against God's peace and the king's, we charge and : None
+1.3 :command you, in his highness' name, to repair to : None
+1.3 :your several dwelling-places; and not to wear, : None
+1.3 :handle, or use any sword, weapon, or dagger, : None
+1.3 :henceforward, upon pain of death. : None
+GLOUCESTER
+1.3 :Cardinal, I'll be no breaker of the law: : None
+1.3 :But we shall meet, and break our minds at large. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Gloucester, we will meet; to thy cost, be sure: : None
+1.3 :Thy heart-blood I will have for this day's work. : None
+MAYOR
+1.3 :I'll call for clubs, if you will not away. : None
+1.3 :This cardinal's more haughty than the devil. : None
+GLOUCESTER
+1.3 :Mayor, farewell: thou dost but what thou mayst. : None
+1.3 :BISHOP : None
+OF WINCHESTER
+1.3 :Abominable Gloucester, guard thy head; : None
+1.3 :For I intend to have it ere long. : None
+Exeunt, severally, GLOUCESTER and BISHOP OF WINCHESTER with their Serving-men : ["Exeunt - ['ALL', 'GLOUCESTER', 'OF WINCHESTER']"] : OF WINCHESTER
+MAYOR
+1.3 :See the coast clear'd, and then we will depart. : None
+1.3 :Good God, these nobles should such stomachs bear! : None
+1.3 :I myself fight not once in forty year. : None
+Exeunt : ['Exeunt - []'] : MAYOR
+Scene(scene=4)
+Enter, on the walls, a Master Gunner and his Boy : ["Enter - ['ALL', 'BOY']"] : MAYOR
+1.4 :Master-Gunner	Sirrah, thou know'st how Orleans is besieged, : None
+1.4 :And how the English have the suburbs won. : None
+BOY
+1.4 :Father, I know; and oft have shot at them, : None
+1.4 :Howe'er unfortunate I miss'd my aim. : None
+1.4 :Master-Gunner	But now thou shalt not. Be thou ruled by me: : None
+1.4 :Chief master-gunner am I of this town; : None
+1.4 :Something I must do to procure me grace. : None
+1.4 :The prince's espials have informed me : None
+1.4 :How the English, in the suburbs close intrench'd, : None
+1.4 :Wont, through a secret grate of iron bars : None
+1.4 :In yonder tower, to overpeer the city, : None
+1.4 :And thence discover how with most advantage : None
+1.4 :They may vex us with shot, or with assault. : None
+1.4 :To intercept this inconvenience, : None
+1.4 :A piece of ordnance 'gainst it I have placed; : None
+1.4 :And even these three days have I watch'd, : None
+1.4 :If I could see them. : None
+1.4 :Now do thou watch, for I can stay no longer. : None
+1.4 :If thou spy'st any, run and bring me word; : None
+1.4 :And thou shalt find me at the governor's. : None
+Exit : ['Exit - []'] : BOY
+BOY
+1.4 :Father, I warrant you; take you no care; : None
+1.4 :I'll never trouble you, if I may spy them. : None
+Exit : ['Exit - []'] : BOY
+Enter, on the turrets, SALISBURY and TALBOT, GLANSDALE, GARGRAVE, and others : ["Enter - ['SALISBURY', 'TALBOT', 'GLANSDALE', 'GARGRAVE']"] : BOY
+SALISBURY
+1.4 :Talbot, my life, my joy, again return'd! : None
+1.4 :How wert thou handled being prisoner? : None
+1.4 :Or by what means got'st thou to be released? : None
+1.4 :Discourse, I prithee, on this turret's top. : None
+TALBOT
+1.4 :The Duke of Bedford had a prisoner : None
+1.4 :Call'd the brave Lord Ponton de Santrailles; : None
+1.4 :For him was I exchanged and ransomed. : None
+1.4 :But with a baser man of arms by far : None
+1.4 :Once in contempt they would have barter'd me: : None
+1.4 :Which I, disdaining, scorn'd; and craved death, : None
+1.4 :Rather than I would be so vile esteem'd. : None
+1.4 :In fine, redeem'd I was as I desired. : None
+1.4 :But, O! the treacherous Fastolfe wounds my heart, : None
+1.4 :Whom with my bare fists I would execute, : None
+1.4 :If I now had him brought into my power. : None
+SALISBURY
+1.4 :Yet tell'st thou not how thou wert entertain'd. : None
+TALBOT
+1.4 :With scoffs and scorns and contumelious taunts. : None
+1.4 :In open market-place produced they me, : None
+1.4 :To be a public spectacle to all: : None
+1.4 :Here, said they, is the terror of the French, : None
+1.4 :The scarecrow that affrights our children so. : None
+1.4 :Then broke I from the officers that led me, : None
+1.4 :And with my nails digg'd stones out of the ground, : None
+1.4 :To hurl at the beholders of my shame: : None
+1.4 :My grisly countenance made others fly; : None
+1.4 :None durst come near for fear of sudden death. : None
+1.4 :In iron walls they deem'd me not secure; : None
+1.4 :So great fear of my name 'mongst them was spread, : None
+1.4 :That they supposed I could rend bars of steel, : None
+1.4 :And spurn in pieces posts of adamant: : None
+1.4 :Wherefore a guard of chosen shot I had, : None
+1.4 :That walked about me every minute-while; : None
+1.4 :And if I did but stir out of my bed, : None
+1.4 :Ready they were to shoot me to the heart. : None
+Enter the Boy with a linstock : ["Enter - ['BOY']"] : TALBOT
+SALISBURY
+1.4 :I grieve to hear what torments you endured, : None
+1.4 :But we will be revenged sufficiently : None
+1.4 :Now it is supper-time in Orleans: : None
+1.4 :Here, through this grate, I count each one : None
+1.4 :and view the Frenchmen how they fortify: : None
+1.4 :Let us look in; the sight will much delight thee. : None
+1.4 :Sir Thomas Gargrave, and Sir William Glansdale, : None
+1.4 :Let me have your express opinions : None
+1.4 :Where is best place to make our battery next. : None
+GARGRAVE
+1.4 :I think, at the north gate; for there stand lords. : None
+GLANSDALE
+1.4 :And I, here, at the bulwark of the bridge. : None
+TALBOT
+1.4 :For aught I see, this city must be famish'd, : None
+1.4 :Or with light skirmishes enfeebled. : None
+Here they shoot. SALISBURY and GARGRAVE fall : ['None - []', "None - ['SALISBURY', 'GARGRAVE', 'ALL']"] : TALBOT
+SALISBURY
+1.4 :O Lord, have mercy on us, wretched sinners! : None
+GARGRAVE
+1.4 :O Lord, have mercy on me, woful man! : None
+TALBOT
+1.4 :What chance is this that suddenly hath cross'd us? : None
+1.4 :Speak, Salisbury; at least, if thou canst speak: : None
+1.4 :How farest thou, mirror of all martial men? : None
+1.4 :One of thy eyes and thy cheek's side struck off! : None
+1.4 :Accursed tower! accursed fatal hand : None
+1.4 :That hath contrived this woful tragedy! : None
+1.4 :In thirteen battles Salisbury o'ercame; : None
+1.4 :Henry the Fifth he first train'd to the wars; : None
+1.4 :Whilst any trump did sound, or drum struck up, : None
+1.4 :His sword did ne'er leave striking in the field. : None
+1.4 :Yet livest thou, Salisbury? though thy speech doth fail, : None
+1.4 :One eye thou hast, to look to heaven for grace: : None
+1.4 :The sun with one eye vieweth all the world. : None
+1.4 :Heaven, be thou gracious to none alive, : None
+1.4 :If Salisbury wants mercy at thy hands! : None
+1.4 :Bear hence his body; I will help to bury it. : None
+1.4 :Sir Thomas Gargrave, hast thou any life? : None
+1.4 :Speak unto Talbot; nay, look up to him. : None
+1.4 :Salisbury, cheer thy spirit with this comfort; : None
+1.4 :Thou shalt not die whiles-- : None
+1.4 :He beckons with his hand and smiles on me. : None
+1.4 :As who should say 'When I am dead and gone, : None
+1.4 :Remember to avenge me on the French.' : None
+1.4 :Plantagenet, I will; and like thee, Nero, : None
+1.4 :Play on the lute, beholding the towns burn: : None
+1.4 :Wretched shall France be only in my name. : None
+Here an alarum, and it thunders and lightens : ['None - []'] : TALBOT
+1.4 :What stir is this? what tumult's in the heavens? : None
+1.4 :Whence cometh this alarum and the noise? : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : TALBOT
+MESSENGER
+1.4 :My lord, my lord, the French have gathered head: : None
+1.4 :The Dauphin, with one Joan la Pucelle join'd, : None
+1.4 :A holy prophetess new risen up, : None
+1.4 :Is come with a great power to raise the siege. : None
+Here SALISBURY lifteth himself up and groans : ["None - ['SALISBURY']"] : MESSENGER
+TALBOT
+1.4 :Hear, hear how dying Salisbury doth groan! : None
+1.4 :It irks his heart he cannot be revenged. : None
+1.4 :Frenchmen, I'll be a Salisbury to you: : None
+1.4 :Pucelle or puzzel, dolphin or dogfish, : None
+1.4 :Your hearts I'll stamp out with my horse's heels, : None
+1.4 :And make a quagmire of your mingled brains. : None
+1.4 :Convey me Salisbury into his tent, : None
+1.4 :And then we'll try what these dastard Frenchmen dare. : None
+Alarum. Exeunt : ['None - []', 'Exeunt - []'] : TALBOT
+Scene(scene=5)
+Here an alarum again: and TALBOT pursueth the  DAUPHIN, and driveth him: then enter JOAN LA  PUCELLE, driving Englishmen before her, and exit after them then re-enter TALBOT : ["enter - ['TALBOT', 'TALBOT']"] : TALBOT
+TALBOT
+1.5 :Where is my strength, my valour, and my force? : None
+1.5 :Our English troops retire, I cannot stay them: : None
+1.5 :A woman clad in armour chaseth them. : None
+Re-enter JOAN LA PUCELLE : ["Re-enter - ['JOAN LA PUCELLE']"] : TALBOT
+1.5 :Here, here she comes. I'll have a bout with thee; : None
+1.5 :Devil or devil's dam, I'll conjure thee: : None
+1.5 :Blood will I draw on thee, thou art a witch, : None
+1.5 :And straightway give thy soul to him thou servest. : None
+JOAN LA PUCELLE
+1.5 :Come, come, 'tis only I that must disgrace thee. : None
+Here they fight : ['None - []'] : JOAN LA PUCELLE
+TALBOT
+1.5 :Heavens, can you suffer hell so to prevail? : None
+1.5 :My breast I'll burst with straining of my courage : None
+1.5 :And from my shoulders crack my arms asunder. : None
+1.5 :But I will chastise this high-minded strumpet. : None
+They fight again : ['None - []'] : TALBOT
+JOAN LA PUCELLE
+1.5 :Talbot, farewell; thy hour is not yet come: : None
+1.5 :I must go victual Orleans forthwith. : None
+A short alarum; then enter the town with soldiers : ["enter - ['SOLDIER']"] : JOAN LA PUCELLE
+1.5 :O'ertake me, if thou canst; I scorn thy strength. : None
+1.5 :Go, go, cheer up thy hungry-starved men; : None
+1.5 :Help Salisbury to make his testament: : None
+1.5 :This day is ours, as many more shall be. : None
+Exit : ['Exit - []'] : JOAN LA PUCELLE
+TALBOT
+1.5 :My thoughts are whirled like a potter's wheel; : None
+1.5 :I know not where I am, nor what I do; : None
+1.5 :A witch, by fear, not force, like Hannibal, : None
+1.5 :Drives back our troops and conquers as she lists: : None
+1.5 :So bees with smoke and doves with noisome stench : None
+1.5 :Are from their hives and houses driven away. : None
+1.5 :They call'd us for our fierceness English dogs; : None
+1.5 :Now, like to whelps, we crying run away. : None
+A short alarum : ['None - []'] : TALBOT
+1.5 :Hark, countrymen! either renew the fight, : None
+1.5 :Or tear the lions out of England's coat; : None
+1.5 :Renounce your soil, give sheep in lions' stead: : None
+1.5 :Sheep run not half so treacherous from the wolf, : None
+1.5 :Or horse or oxen from the leopard, : None
+1.5 :As you fly from your oft-subdued slaves. : None
+Alarum. Here another skirmish : ['None - []', 'None - []'] : TALBOT
+1.5 :It will not be: retire into your trenches: : None
+1.5 :You all consented unto Salisbury's death, : None
+1.5 :For none would strike a stroke in his revenge. : None
+1.5 :Pucelle is enter'd into Orleans, : None
+1.5 :In spite of us or aught that we could do. : None
+1.5 :O, would I were to die with Salisbury! : None
+1.5 :The shame hereof will make me hide my head. : None
+Exit TALBOT. Alarum; retreat; flourish : ["Exit - ['TALBOT']", 'None - []'] : TALBOT
+Scene(scene=6)
+Enter, on the walls, JOAN LA PUCELLE, CHARLES, REIGNIER, ALENCON, and Soldiers : ["Enter - ['ALL', 'JOAN LA PUCELLE', 'CHARLES', 'REIGNIER', 'ALENCON', 'SOLDIER']"] : TALBOT
+JOAN LA PUCELLE
+1.6 :Advance our waving colours on the walls; : None
+1.6 :Rescued is Orleans from the English : None
+1.6 :Thus Joan la Pucelle hath perform'd her word. : None
+CHARLES
+1.6 :Divinest creature, Astraea's daughter, : None
+1.6 :How shall I honour thee for this success? : None
+1.6 :Thy promises are like Adonis' gardens : None
+1.6 :That one day bloom'd and fruitful were the next. : None
+1.6 :France, triumph in thy glorious prophetess! : None
+1.6 :Recover'd is the town of Orleans: : None
+1.6 :More blessed hap did ne'er befall our state. : None
+REIGNIER
+1.6 :Why ring not out the bells aloud throughout the town? : None
+1.6 :Dauphin, command the citizens make bonfires : None
+1.6 :And feast and banquet in the open streets, : None
+1.6 :To celebrate the joy that God hath given us. : None
+ALENCON
+1.6 :All France will be replete with mirth and joy, : None
+1.6 :When they shall hear how we have play'd the men. : None
+CHARLES
+1.6 :'Tis Joan, not we, by whom the day is won; : None
+1.6 :For which I will divide my crown with her, : None
+1.6 :And all the priests and friars in my realm : None
+1.6 :Shall in procession sing her endless praise. : None
+1.6 :A statelier pyramis to her I'll rear : None
+1.6 :Than Rhodope's or Memphis' ever was: : None
+1.6 :In memory of her when she is dead, : None
+1.6 :Her ashes, in an urn more precious : None
+1.6 :Than the rich-jewel'd of Darius, : None
+1.6 :Transported shall be at high festivals : None
+1.6 :Before the kings and queens of France. : None
+1.6 :No longer on Saint Denis will we cry, : None
+1.6 :But Joan la Pucelle shall be France's saint. : None
+1.6 :Come in, and let us banquet royally, : None
+1.6 :After this golden day of victory. : None
+Flourish. Exeunt : ['None - []', 'Exeunt - []'] : CHARLES
+Act(act=2)
+Scene(scene=1)
+Enter a Sergeant of a band with two Sentinels : ["Enter - ['SERGEANT', 'SENTINELS']"] : CHARLES
+SERGEANT
+2.1 :Sirs, take your places and be vigilant: : None
+2.1 :If any noise or soldier you perceive : None
+2.1 :Near to the walls, by some apparent sign : None
+2.1 :Let us have knowledge at the court of guard. : None
+FIRST SENTINEL
+2.1 :Sergeant, you shall. : None
+Exit Sergeant : ["Exit - ['SERGEANT']"] : FIRST SENTINEL
+2.1 :Thus are poor servitors, : None
+2.1 :When others sleep upon their quiet beds, : None
+2.1 :Constrain'd to watch in darkness, rain and cold. : None
+Enter TALBOT, BEDFORD, BURGUNDY, and Forces, with scaling-ladders, their drums beating a dead march : ["Enter - ['TALBOT', 'BEDFORD', 'BURGUNDY']"] : FIRST SENTINEL
+TALBOT
+2.1 :Lord Regent, and redoubted Burgundy, : None
+2.1 :By whose approach the regions of Artois, : None
+2.1 :Wallon and Picardy are friends to us, : None
+2.1 :This happy night the Frenchmen are secure, : None
+2.1 :Having all day caroused and banqueted: : None
+2.1 :Embrace we then this opportunity : None
+2.1 :As fitting best to quittance their deceit : None
+2.1 :Contrived by art and baleful sorcery. : None
+BEDFORD
+2.1 :Coward of France! how much he wrongs his fame, : None
+2.1 :Despairing of his own arm's fortitude, : None
+2.1 :To join with witches and the help of hell! : None
+BURGUNDY
+2.1 :Traitors have never other company. : None
+2.1 :But what's that Pucelle whom they term so pure? : None
+TALBOT
+2.1 :A maid, they say. : None
+BEDFORD
+2.1 :                  A maid! and be so martial! : None
+BURGUNDY
+2.1 :Pray God she prove not masculine ere long, : None
+2.1 :If underneath the standard of the French : None
+2.1 :She carry armour as she hath begun. : None
+TALBOT
+2.1 :Well, let them practise and converse with spirits: : None
+2.1 :God is our fortress, in whose conquering name : None
+2.1 :Let us resolve to scale their flinty bulwarks. : None
+BEDFORD
+2.1 :Ascend, brave Talbot; we will follow thee. : None
+TALBOT
+2.1 :Not all together: better far, I guess, : None
+2.1 :That we do make our entrance several ways; : None
+2.1 :That, if it chance the one of us do fail, : None
+2.1 :The other yet may rise against their force. : None
+BEDFORD
+2.1 :Agreed: I'll to yond corner. : None
+BURGUNDY
+2.1 :And I to this. : None
+TALBOT
+2.1 :And here will Talbot mount, or make his grave. : None
+2.1 :Now, Salisbury, for thee, and for the right : None
+2.1 :Of English Henry, shall this night appear : None
+2.1 :How much in duty I am bound to both. : None
+SENTINELS
+2.1 :Arm! arm! the enemy doth make assault! : None
+Cry: 'St. George,' 'A Talbot.' : ['None - []', "None - ['TALBOT']", 'None - []'] : SENTINELS
+The French leap over the walls in their shirts.  Enter, several ways, the BASTARD OF ORLEANS, ALENCON, and REIGNIER, half ready, and half unready : ["None - ['ALL']", "Enter - ['BASTARD OF ORLEANS', 'ALENCON', 'REIGNIER']"] : SENTINELS
+ALENCON
+2.1 :How now, my lords! what, all unready so? : None
+BASTARD OF ORLEANS
+2.1 :Unready! ay, and glad we 'scaped so well. : None
+REIGNIER
+2.1 :'Twas time, I trow, to wake and leave our beds, : None
+2.1 :Hearing alarums at our chamber-doors. : None
+ALENCON
+2.1 :Of all exploits since first I follow'd arms, : None
+2.1 :Ne'er heard I of a warlike enterprise : None
+2.1 :More venturous or desperate than this. : None
+BASTARD OF ORLEANS
+2.1 :I think this Talbot be a fiend of hell. : None
+REIGNIER
+2.1 :If not of hell, the heavens, sure, favour him. : None
+ALENCON
+2.1 :Here cometh Charles: I marvel how he sped. : None
+BASTARD OF ORLEANS
+2.1 :Tut, holy Joan was his defensive guard. : None
+Enter CHARLES and JOAN LA PUCELLE : ["Enter - ['CHARLES', 'JOAN LA PUCELLE']"] : BASTARD OF ORLEANS
+CHARLES
+2.1 :Is this thy cunning, thou deceitful dame? : None
+2.1 :Didst thou at first, to flatter us withal, : None
+2.1 :Make us partakers of a little gain, : None
+2.1 :That now our loss might be ten times so much? : None
+JOAN LA PUCELLE
+2.1 :Wherefore is Charles impatient with his friend! : None
+2.1 :At all times will you have my power alike? : None
+2.1 :Sleeping or waking must I still prevail, : None
+2.1 :Or will you blame and lay the fault on me? : None
+2.1 :Improvident soldiers! had your watch been good, : None
+2.1 :This sudden mischief never could have fall'n. : None
+CHARLES
+2.1 :Duke of Alencon, this was your default, : None
+2.1 :That, being captain of the watch to-night, : None
+2.1 :Did look no better to that weighty charge. : None
+ALENCON
+2.1 :Had all your quarters been as safely kept : None
+2.1 :As that whereof I had the government, : None
+2.1 :We had not been thus shamefully surprised. : None
+BASTARD OF ORLEANS
+2.1 :Mine was secure. : None
+REIGNIER
+2.1 :                  And so was mine, my lord. : None
+CHARLES
+2.1 :And, for myself, most part of all this night, : None
+2.1 :Within her quarter and mine own precinct : None
+2.1 :I was employ'd in passing to and fro, : None
+2.1 :About relieving of the sentinels: : None
+2.1 :Then how or which way should they first break in? : None
+JOAN LA PUCELLE
+2.1 :Question, my lords, no further of the case, : None
+2.1 :How or which way: 'tis sure they found some place : None
+2.1 :But weakly guarded, where the breach was made. : None
+2.1 :And now there rests no other shift but this; : None
+2.1 :To gather our soldiers, scatter'd and dispersed, : None
+2.1 :And lay new platforms to endamage them. : None
+Alarum. Enter an English Soldier, crying 'A  Talbot! a Talbot!' They fly, leaving their clothes behind : ['None - []', "Enter - ['SOLDIER', 'TALBOT', 'TALBOT']"] : JOAN LA PUCELLE
+SOLDIER
+2.1 :I'll be so bold to take what they have left. : None
+2.1 :The cry of Talbot serves me for a sword; : None
+2.1 :For I have loaden me with many spoils, : None
+2.1 :Using no other weapon but his name. : None
+Exit : ['Exit - []'] : SOLDIER
+Scene(scene=2)
+Enter TALBOT, BEDFORD, BURGUNDY, a Captain, and others : ["Enter - ['TALBOT', 'BEDFORD', 'BURGUNDY', 'CAPTAIN']"] : SOLDIER
+BEDFORD
+2.2 :The day begins to break, and night is fled, : None
+2.2 :Whose pitchy mantle over-veil'd the earth. : None
+2.2 :Here sound retreat, and cease our hot pursuit. : None
+Retreat sounded : ['None - []'] : BEDFORD
+TALBOT
+2.2 :Bring forth the body of old Salisbury, : None
+2.2 :And here advance it in the market-place, : None
+2.2 :The middle centre of this cursed town. : None
+2.2 :Now have I paid my vow unto his soul; : None
+2.2 :For every drop of blood was drawn from him, : None
+2.2 :There hath at least five Frenchmen died tonight. : None
+2.2 :And that hereafter ages may behold : None
+2.2 :What ruin happen'd in revenge of him, : None
+2.2 :Within their chiefest temple I'll erect : None
+2.2 :A tomb, wherein his corpse shall be interr'd: : None
+2.2 :Upon the which, that every one may read, : None
+2.2 :Shall be engraved the sack of Orleans, : None
+2.2 :The treacherous manner of his mournful death : None
+2.2 :And what a terror he had been to France. : None
+2.2 :But, lords, in all our bloody massacre, : None
+2.2 :I muse we met not with the Dauphin's grace, : None
+2.2 :His new-come champion, virtuous Joan of Arc, : None
+2.2 :Nor any of his false confederates. : None
+BEDFORD
+2.2 :'Tis thought, Lord Talbot, when the fight began, : None
+2.2 :Roused on the sudden from their drowsy beds, : None
+2.2 :They did amongst the troops of armed men : None
+2.2 :Leap o'er the walls for refuge in the field. : None
+BURGUNDY
+2.2 :Myself, as far as I could well discern : None
+2.2 :For smoke and dusky vapours of the night, : None
+2.2 :Am sure I scared the Dauphin and his trull, : None
+2.2 :When arm in arm they both came swiftly running, : None
+2.2 :Like to a pair of loving turtle-doves : None
+2.2 :That could not live asunder day or night. : None
+2.2 :After that things are set in order here, : None
+2.2 :We'll follow them with all the power we have. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : BURGUNDY
+MESSENGER
+2.2 :All hail, my lords! which of this princely train : None
+2.2 :Call ye the warlike Talbot, for his acts : None
+2.2 :So much applauded through the realm of France? : None
+TALBOT
+2.2 :Here is the Talbot: who would speak with him? : None
+MESSENGER
+2.2 :The virtuous lady, Countess of Auvergne, : None
+2.2 :With modesty admiring thy renown, : None
+2.2 :By me entreats, great lord, thou wouldst vouchsafe : None
+2.2 :To visit her poor castle where she lies, : None
+2.2 :That she may boast she hath beheld the man : None
+2.2 :Whose glory fills the world with loud report. : None
+BURGUNDY
+2.2 :Is it even so? Nay, then, I see our wars : None
+2.2 :Will turn unto a peaceful comic sport, : None
+2.2 :When ladies crave to be encounter'd with. : None
+2.2 :You may not, my lord, despise her gentle suit. : None
+TALBOT
+2.2 :Ne'er trust me then; for when a world of men : None
+2.2 :Could not prevail with all their oratory, : None
+2.2 :Yet hath a woman's kindness over-ruled: : None
+2.2 :And therefore tell her I return great thanks, : None
+2.2 :And in submission will attend on her. : None
+2.2 :Will not your honours bear me company? : None
+BEDFORD
+2.2 :No, truly; it is more than manners will: : None
+2.2 :And I have heard it said, unbidden guests : None
+2.2 :Are often welcomest when they are gone. : None
+TALBOT
+2.2 :Well then, alone, since there's no remedy, : None
+2.2 :I mean to prove this lady's courtesy. : None
+2.2 :Come hither, captain. : None
+Whispers : ['None - []'] : TALBOT
+2.2 :You perceive my mind? : None
+CAPTAIN
+2.2 :I do, my lord, and mean accordingly. : None
+Exeunt : ['Exeunt - []'] : CAPTAIN
+Scene(scene=3)
+Enter the COUNTESS and her Porter : ["Enter - ['PORTER']"] : CAPTAIN
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :Porter, remember what I gave in charge; : None
+2.3 :And when you have done so, bring the keys to me. : None
+PORTER
+2.3 :Madam, I will. : None
+Exit : ['Exit - []'] : PORTER
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :The plot is laid: if all things fall out right, : None
+2.3 :I shall as famous be by this exploit : None
+2.3 :As Scythian Tomyris by Cyrus' death. : None
+2.3 :Great is the rumor of this dreadful knight, : None
+2.3 :And his achievements of no less account: : None
+2.3 :Fain would mine eyes be witness with mine ears, : None
+2.3 :To give their censure of these rare reports. : None
+Enter Messenger and TALBOT : ["Enter - ['MESSENGER', 'TALBOT']"] : OF AUVERGNE
+MESSENGER
+2.3 :Madam, : None
+2.3 :According as your ladyship desired, : None
+2.3 :By message craved, so is Lord Talbot come. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :And he is welcome. What! is this the man? : None
+MESSENGER
+2.3 :Madam, it is. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :                  Is this the scourge of France? : None
+2.3 :Is this the Talbot, so much fear'd abroad : None
+2.3 :That with his name the mothers still their babes? : None
+2.3 :I see report is fabulous and false: : None
+2.3 :I thought I should have seen some Hercules, : None
+2.3 :A second Hector, for his grim aspect, : None
+2.3 :And large proportion of his strong-knit limbs. : None
+2.3 :Alas, this is a child, a silly dwarf! : None
+2.3 :It cannot be this weak and writhled shrimp : None
+2.3 :Should strike such terror to his enemies. : None
+TALBOT
+2.3 :Madam, I have been bold to trouble you; : None
+2.3 :But since your ladyship is not at leisure, : None
+2.3 :I'll sort some other time to visit you. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :What means he now? Go ask him whither he goes. : None
+MESSENGER
+2.3 :Stay, my Lord Talbot; for my lady craves : None
+2.3 :To know the cause of your abrupt departure. : None
+TALBOT
+2.3 :Marry, for that she's in a wrong belief, : None
+2.3 :I go to certify her Talbot's here. : None
+Re-enter Porter with keys : ["Re-enter - ['PORTER']"] : TALBOT
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :If thou be he, then art thou prisoner. : None
+TALBOT
+2.3 :Prisoner! to whom? : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :To me, blood-thirsty lord; : None
+2.3 :And for that cause I trained thee to my house. : None
+2.3 :Long time thy shadow hath been thrall to me, : None
+2.3 :For in my gallery thy picture hangs: : None
+2.3 :But now the substance shall endure the like, : None
+2.3 :And I will chain these legs and arms of thine, : None
+2.3 :That hast by tyranny these many years : None
+2.3 :Wasted our country, slain our citizens : None
+2.3 :And sent our sons and husbands captivate. : None
+TALBOT
+2.3 :Ha, ha, ha! : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :Laughest thou, wretch? thy mirth shall turn to moan. : None
+TALBOT
+2.3 :I laugh to see your ladyship so fond : None
+2.3 :To think that you have aught but Talbot's shadow : None
+2.3 :Whereon to practise your severity. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :Why, art not thou the man? : None
+TALBOT
+2.3 :I am indeed. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :Then have I substance too. : None
+TALBOT
+2.3 :No, no, I am but shadow of myself: : None
+2.3 :You are deceived, my substance is not here; : None
+2.3 :For what you see is but the smallest part : None
+2.3 :And least proportion of humanity: : None
+2.3 :I tell you, madam, were the whole frame here, : None
+2.3 :It is of such a spacious lofty pitch, : None
+2.3 :Your roof were not sufficient to contain't. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :This is a riddling merchant for the nonce; : None
+2.3 :He will be here, and yet he is not here: : None
+2.3 :How can these contrarieties agree? : None
+TALBOT
+2.3 :That will I show you presently. : None
+Winds his horn. Drums strike up: a peal of ordnance. Enter soldiers : ['None - []', 'None - []', "Enter - ['SOLDIER']"] : TALBOT
+2.3 :How say you, madam? are you now persuaded : None
+2.3 :That Talbot is but shadow of himself? : None
+2.3 :These are his substance, sinews, arms and strength, : None
+2.3 :With which he yoketh your rebellious necks, : None
+2.3 :Razeth your cities and subverts your towns : None
+2.3 :And in a moment makes them desolate. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :Victorious Talbot! pardon my abuse: : None
+2.3 :I find thou art no less than fame hath bruited : None
+2.3 :And more than may be gather'd by thy shape. : None
+2.3 :Let my presumption not provoke thy wrath; : None
+2.3 :For I am sorry that with reverence : None
+2.3 :I did not entertain thee as thou art. : None
+TALBOT
+2.3 :Be not dismay'd, fair lady; nor misconstrue : None
+2.3 :The mind of Talbot, as you did mistake : None
+2.3 :The outward composition of his body. : None
+2.3 :What you have done hath not offended me; : None
+2.3 :Nor other satisfaction do I crave, : None
+2.3 :But only, with your patience, that we may : None
+2.3 :Taste of your wine and see what cates you have; : None
+2.3 :For soldiers' stomachs always serve them well. : None
+2.3 :COUNTESS : None
+OF AUVERGNE
+2.3 :With all my heart, and think me honoured : None
+2.3 :To feast so great a warrior in my house. : None
+Exeunt : ['Exeunt - []'] : OF AUVERGNE
+Scene(scene=4)
+Enter the Earls of SOMERSET, SUFFOLK, and WARWICK; RICHARD PLANTAGENET, VERNON, and another Lawyer : ["Enter - ['SOMERSET', 'SUFFOLK', 'WARWICK', 'PLANTAGENET', 'VERNON', 'LAWYER']"] : OF AUVERGNE
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Great lords and gentlemen, what means this silence? : None
+2.4 :Dare no man answer in a case of truth? : None
+SUFFOLK
+2.4 :Within the Temple-hall we were too loud; : None
+2.4 :The garden here is more convenient. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Then say at once if I maintain'd the truth; : None
+2.4 :Or else was wrangling Somerset in the error? : None
+SUFFOLK
+2.4 :Faith, I have been a truant in the law, : None
+2.4 :And never yet could frame my will to it; : None
+2.4 :And therefore frame the law unto my will. : None
+SOMERSET
+2.4 :Judge you, my Lord of Warwick, then, between us. : None
+WARWICK
+2.4 :Between two hawks, which flies the higher pitch; : None
+2.4 :Between two dogs, which hath the deeper mouth; : None
+2.4 :Between two blades, which bears the better temper: : None
+2.4 :Between two horses, which doth bear him best; : None
+2.4 :Between two girls, which hath the merriest eye; : None
+2.4 :I have perhaps some shallow spirit of judgement; : None
+2.4 :But in these nice sharp quillets of the law, : None
+2.4 :Good faith, I am no wiser than a daw. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Tut, tut, here is a mannerly forbearance: : None
+2.4 :The truth appears so naked on my side : None
+2.4 :That any purblind eye may find it out. : None
+SOMERSET
+2.4 :And on my side it is so well apparell'd, : None
+2.4 :So clear, so shining and so evident : None
+2.4 :That it will glimmer through a blind man's eye. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Since you are tongue-tied and so loath to speak, : None
+2.4 :In dumb significants proclaim your thoughts: : None
+2.4 :Let him that is a true-born gentleman : None
+2.4 :And stands upon the honour of his birth, : None
+2.4 :If he suppose that I have pleaded truth, : None
+2.4 :From off this brier pluck a white rose with me. : None
+SOMERSET
+2.4 :Let him that is no coward nor no flatterer, : None
+2.4 :But dare maintain the party of the truth, : None
+2.4 :Pluck a red rose from off this thorn with me. : None
+WARWICK
+2.4 :I love no colours, and without all colour : None
+2.4 :Of base insinuating flattery : None
+2.4 :I pluck this white rose with Plantagenet. : None
+SUFFOLK
+2.4 :I pluck this red rose with young Somerset : None
+2.4 :And say withal I think he held the right. : None
+VERNON
+2.4 :Stay, lords and gentlemen, and pluck no more, : None
+2.4 :Till you conclude that he upon whose side : None
+2.4 :The fewest roses are cropp'd from the tree : None
+2.4 :Shall yield the other in the right opinion. : None
+SOMERSET
+2.4 :Good Master Vernon, it is well objected: : None
+2.4 :If I have fewest, I subscribe in silence. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :And I. : None
+VERNON
+2.4 :Then for the truth and plainness of the case. : None
+2.4 :I pluck this pale and maiden blossom here, : None
+2.4 :Giving my verdict on the white rose side. : None
+SOMERSET
+2.4 :Prick not your finger as you pluck it off, : None
+2.4 :Lest bleeding you do paint the white rose red : None
+2.4 :And fall on my side so, against your will. : None
+VERNON
+2.4 :If I my lord, for my opinion bleed, : None
+2.4 :Opinion shall be surgeon to my hurt : None
+2.4 :And keep me on the side where still I am. : None
+SOMERSET
+2.4 :Well, well, come on: who else? : None
+LAWYER
+2.4 :Unless my study and my books be false, : None
+2.4 :The argument you held was wrong in you: : None
+To SOMERSET : ["To - ['SOMERSET']"] : LAWYER
+2.4 :In sign whereof I pluck a white rose too. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Now, Somerset, where is your argument? : None
+SOMERSET
+2.4 :Here in my scabbard, meditating that : None
+2.4 :Shall dye your white rose in a bloody red. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Meantime your cheeks do counterfeit our roses; : None
+2.4 :For pale they look with fear, as witnessing : None
+2.4 :The truth on our side. : None
+SOMERSET
+2.4 :No, Plantagenet, : None
+2.4 :'Tis not for fear but anger that thy cheeks : None
+2.4 :Blush for pure shame to counterfeit our roses, : None
+2.4 :And yet thy tongue will not confess thy error. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Hath not thy rose a canker, Somerset? : None
+SOMERSET
+2.4 :Hath not thy rose a thorn, Plantagenet? : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Ay, sharp and piercing, to maintain his truth; : None
+2.4 :Whiles thy consuming canker eats his falsehood. : None
+SOMERSET
+2.4 :Well, I'll find friends to wear my bleeding roses, : None
+2.4 :That shall maintain what I have said is true, : None
+2.4 :Where false Plantagenet dare not be seen. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Now, by this maiden blossom in my hand, : None
+2.4 :I scorn thee and thy fashion, peevish boy. : None
+SUFFOLK
+2.4 :Turn not thy scorns this way, Plantagenet. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Proud Pole, I will, and scorn both him and thee. : None
+SUFFOLK
+2.4 :I'll turn my part thereof into thy throat. : None
+SOMERSET
+2.4 :Away, away, good William de la Pole! : None
+2.4 :We grace the yeoman by conversing with him. : None
+WARWICK
+2.4 :Now, by God's will, thou wrong'st him, Somerset; : None
+2.4 :His grandfather was Lionel Duke of Clarence, : None
+2.4 :Third son to the third Edward King of England: : None
+2.4 :Spring crestless yeomen from so deep a root? : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :He bears him on the place's privilege, : None
+2.4 :Or durst not, for his craven heart, say thus. : None
+SOMERSET
+2.4 :By him that made me, I'll maintain my words : None
+2.4 :On any plot of ground in Christendom. : None
+2.4 :Was not thy father, Richard Earl of Cambridge, : None
+2.4 :For treason executed in our late king's days? : None
+2.4 :And, by his treason, stand'st not thou attainted, : None
+2.4 :Corrupted, and exempt from ancient gentry? : None
+2.4 :His trespass yet lives guilty in thy blood; : None
+2.4 :And, till thou be restored, thou art a yeoman. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :My father was attached, not attainted, : None
+2.4 :Condemn'd to die for treason, but no traitor; : None
+2.4 :And that I'll prove on better men than Somerset, : None
+2.4 :Were growing time once ripen'd to my will. : None
+2.4 :For your partaker Pole and you yourself, : None
+2.4 :I'll note you in my book of memory, : None
+2.4 :To scourge you for this apprehension: : None
+2.4 :Look to it well and say you are well warn'd. : None
+SOMERSET
+2.4 :Ah, thou shalt find us ready for thee still; : None
+2.4 :And know us by these colours for thy foes, : None
+2.4 :For these my friends in spite of thee shall wear. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :And, by my soul, this pale and angry rose, : None
+2.4 :As cognizance of my blood-drinking hate, : None
+2.4 :Will I for ever and my faction wear, : None
+2.4 :Until it wither with me to my grave : None
+2.4 :Or flourish to the height of my degree. : None
+SUFFOLK
+2.4 :Go forward and be choked with thy ambition! : None
+2.4 :And so farewell until I meet thee next. : None
+Exit : ['Exit - []'] : SUFFOLK
+SOMERSET
+2.4 :Have with thee, Pole. Farewell, ambitious Richard. : None
+Exit : ['Exit - []'] : SOMERSET
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :How I am braved and must perforce endure it! : None
+WARWICK
+2.4 :This blot that they object against your house : None
+2.4 :Shall be wiped out in the next parliament : None
+2.4 :Call'd for the truce of Winchester and Gloucester; : None
+2.4 :And if thou be not then created York, : None
+2.4 :I will not live to be accounted Warwick. : None
+2.4 :Meantime, in signal of my love to thee, : None
+2.4 :Against proud Somerset and William Pole, : None
+2.4 :Will I upon thy party wear this rose: : None
+2.4 :And here I prophesy: this brawl to-day, : None
+2.4 :Grown to this faction in the Temple-garden, : None
+2.4 :Shall send between the red rose and the white : None
+2.4 :A thousand souls to death and deadly night. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Good Master Vernon, I am bound to you, : None
+2.4 :That you on my behalf would pluck a flower. : None
+VERNON
+2.4 :In your behalf still will I wear the same. : None
+LAWYER
+2.4 :And so will I. : None
+2.4 :RICHARD : None
+PLANTAGENET
+2.4 :Thanks, gentle sir. : None
+2.4 :Come, let us four to dinner: I dare say : None
+2.4 :This quarrel will drink blood another day. : None
+Exeunt : ['Exeunt - []'] : PLANTAGENET
+Scene(scene=5)
+Enter MORTIMER, brought in a chair, and Gaolers : ["Enter - ['MORTIMER']"] : PLANTAGENET
+MORTIMER
+2.5 :Kind keepers of my weak decaying age, : None
+2.5 :Let dying Mortimer here rest himself. : None
+2.5 :Even like a man new haled from the rack, : None
+2.5 :So fare my limbs with long imprisonment. : None
+2.5 :And these grey locks, the pursuivants of death, : None
+2.5 :Nestor-like aged in an age of care, : None
+2.5 :Argue the end of Edmund Mortimer. : None
+2.5 :These eyes, like lamps whose wasting oil is spent, : None
+2.5 :Wax dim, as drawing to their exigent; : None
+2.5 :Weak shoulders, overborne with burthening grief, : None
+2.5 :And pithless arms, like to a wither'd vine : None
+2.5 :That droops his sapless branches to the ground; : None
+2.5 :Yet are these feet, whose strengthless stay is numb, : None
+2.5 :Unable to support this lump of clay, : None
+2.5 :Swift-winged with desire to get a grave, : None
+2.5 :As witting I no other comfort have. : None
+2.5 :But tell me, keeper, will my nephew come? : None
+FIRST GAOLER
+2.5 :Richard Plantagenet, my lord, will come: : None
+2.5 :We sent unto the Temple, unto his chamber; : None
+2.5 :And answer was return'd that he will come. : None
+MORTIMER
+2.5 :Enough: my soul shall then be satisfied. : None
+2.5 :Poor gentleman! his wrong doth equal mine. : None
+2.5 :Since Henry Monmouth first began to reign, : None
+2.5 :Before whose glory I was great in arms, : None
+2.5 :This loathsome sequestration have I had: : None
+2.5 :And even since then hath Richard been obscured, : None
+2.5 :Deprived of honour and inheritance. : None
+2.5 :But now the arbitrator of despairs, : None
+2.5 :Just death, kind umpire of men's miseries, : None
+2.5 :With sweet enlargement doth dismiss me hence: : None
+2.5 :I would his troubles likewise were expired, : None
+2.5 :That so he might recover what was lost. : None
+Enter RICHARD PLANTAGENET : ["Enter - ['PLANTAGENET']"] : MORTIMER
+FIRST GAOLER
+2.5 :My lord, your loving nephew now is come. : None
+MORTIMER
+2.5 :Richard Plantagenet, my friend, is he come? : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :Ay, noble uncle, thus ignobly used, : None
+2.5 :Your nephew, late despised Richard, comes. : None
+MORTIMER
+2.5 :Direct mine arms I may embrace his neck, : None
+2.5 :And in his bosom spend my latter gasp: : None
+2.5 :O, tell me when my lips do touch his cheeks, : None
+2.5 :That I may kindly give one fainting kiss. : None
+2.5 :And now declare, sweet stem from York's great stock, : None
+2.5 :Why didst thou say, of late thou wert despised? : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :First, lean thine aged back against mine arm; : None
+2.5 :And, in that ease, I'll tell thee my disease. : None
+2.5 :This day, in argument upon a case, : None
+2.5 :Some words there grew 'twixt Somerset and me; : None
+2.5 :Among which terms he used his lavish tongue : None
+2.5 :And did upbraid me with my father's death: : None
+2.5 :Which obloquy set bars before my tongue, : None
+2.5 :Else with the like I had requited him. : None
+2.5 :Therefore, good uncle, for my father's sake, : None
+2.5 :In honour of a true Plantagenet : None
+2.5 :And for alliance sake, declare the cause : None
+2.5 :My father, Earl of Cambridge, lost his head. : None
+MORTIMER
+2.5 :That cause, fair nephew, that imprison'd me : None
+2.5 :And hath detain'd me all my flowering youth : None
+2.5 :Within a loathsome dungeon, there to pine, : None
+2.5 :Was cursed instrument of his decease. : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :Discover more at large what cause that was, : None
+2.5 :For I am ignorant and cannot guess. : None
+MORTIMER
+2.5 :I will, if that my fading breath permit : None
+2.5 :And death approach not ere my tale be done. : None
+2.5 :Henry the Fourth, grandfather to this king, : None
+2.5 :Deposed his nephew Richard, Edward's son, : None
+2.5 :The first-begotten and the lawful heir, : None
+2.5 :Of Edward king, the third of that descent: : None
+2.5 :During whose reign the Percies of the north, : None
+2.5 :Finding his usurpation most unjust, : None
+2.5 :Endeavor'd my advancement to the throne: : None
+2.5 :The reason moved these warlike lords to this : None
+2.5 :Was, for that--young King Richard thus removed, : None
+2.5 :Leaving no heir begotten of his body-- : None
+2.5 :I was the next by birth and parentage; : None
+2.5 :For by my mother I derived am : None
+2.5 :From Lionel Duke of Clarence, the third son : None
+2.5 :To King Edward the Third; whereas he : None
+2.5 :From John of Gaunt doth bring his pedigree, : None
+2.5 :Being but fourth of that heroic line. : None
+2.5 :But mark: as in this haughty attempt : None
+2.5 :They laboured to plant the rightful heir, : None
+2.5 :I lost my liberty and they their lives. : None
+2.5 :Long after this, when Henry the Fifth, : None
+2.5 :Succeeding his father Bolingbroke, did reign, : None
+2.5 :Thy father, Earl of Cambridge, then derived : None
+2.5 :From famous Edmund Langley, Duke of York, : None
+2.5 :Marrying my sister that thy mother was, : None
+2.5 :Again in pity of my hard distress : None
+2.5 :Levied an army, weening to redeem : None
+2.5 :And have install'd me in the diadem: : None
+2.5 :But, as the rest, so fell that noble earl : None
+2.5 :And was beheaded. Thus the Mortimers, : None
+2.5 :In whom the tide rested, were suppress'd. : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :Of which, my lord, your honour is the last. : None
+MORTIMER
+2.5 :True; and thou seest that I no issue have : None
+2.5 :And that my fainting words do warrant death; : None
+2.5 :Thou art my heir; the rest I wish thee gather: : None
+2.5 :But yet be wary in thy studious care. : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :Thy grave admonishments prevail with me: : None
+2.5 :But yet, methinks, my father's execution : None
+2.5 :Was nothing less than bloody tyranny. : None
+MORTIMER
+2.5 :With silence, nephew, be thou politic: : None
+2.5 :Strong-fixed is the house of Lancaster, : None
+2.5 :And like a mountain, not to be removed. : None
+2.5 :But now thy uncle is removing hence: : None
+2.5 :As princes do their courts, when they are cloy'd : None
+2.5 :With long continuance in a settled place. : None
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :O, uncle, would some part of my young years : None
+2.5 :Might but redeem the passage of your age! : None
+MORTIMER
+2.5 :Thou dost then wrong me, as that slaughterer doth : None
+2.5 :Which giveth many wounds when one will kill. : None
+2.5 :Mourn not, except thou sorrow for my good; : None
+2.5 :Only give order for my funeral: : None
+2.5 :And so farewell, and fair be all thy hopes : None
+2.5 :And prosperous be thy life in peace and war! : None
+Dies : ['None - []'] : MORTIMER
+2.5 :RICHARD : None
+PLANTAGENET
+2.5 :And peace, no war, befall thy parting soul! : None
+2.5 :In prison hast thou spent a pilgrimage : None
+2.5 :And like a hermit overpass'd thy days. : None
+2.5 :Well, I will lock his counsel in my breast; : None
+2.5 :And what I do imagine let that rest. : None
+2.5 :Keepers, convey him hence, and I myself : None
+2.5 :Will see his burial better than his life. : None
+Exeunt Gaolers, bearing out the body of MORTIMER : ["Exeunt - ['MORTIMER']"] : PLANTAGENET
+2.5 :Here dies the dusky torch of Mortimer, : None
+2.5 :Choked with ambition of the meaner sort: : None
+2.5 :And for those wrongs, those bitter injuries, : None
+2.5 :Which Somerset hath offer'd to my house: : None
+2.5 :I doubt not but with honour to redress; : None
+2.5 :And therefore haste I to the parliament, : None
+2.5 :Either to be restored to my blood, : None
+2.5 :Or make my ill the advantage of my good. : None
+Exit : ['Exit - []'] : PLANTAGENET
+Act(act=3)
+Scene(scene=1)
+Flourish. Enter KING HENRY VI, EXETER, GLOUCESTER,  WARWICK, SOMERSET, and SUFFOLK; the BISHOP OF  WINCHESTER, RICHARD PLANTAGENET, and others.  GLOUCESTER offers to put up a bill; BISHOP OF WINCHESTER snatches it, and tears it : ['None - []', "Enter - ['KING HENRY VI', 'EXETER', 'GLOUCESTER', 'WARWICK', 'SOMERSET', 'SUFFOLK', 'PLANTAGENET']", "to - ['GLOUCESTER', 'OF WINCHESTER']"] : PLANTAGENET
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Comest thou with deep premeditated lines, : None
+3.1 :With written pamphlets studiously devised, : None
+3.1 :Humphrey of Gloucester? If thou canst accuse, : None
+3.1 :Or aught intend'st to lay unto my charge, : None
+3.1 :Do it without invention, suddenly; : None
+3.1 :As I with sudden and extemporal speech : None
+3.1 :Purpose to answer what thou canst object. : None
+GLOUCESTER
+3.1 :Presumptuous priest! this place commands my patience, : None
+3.1 :Or thou shouldst find thou hast dishonour'd me. : None
+3.1 :Think not, although in writing I preferr'd : None
+3.1 :The manner of thy vile outrageous crimes, : None
+3.1 :That therefore I have forged, or am not able : None
+3.1 :Verbatim to rehearse the method of my pen: : None
+3.1 :No, prelate; such is thy audacious wickedness, : None
+3.1 :Thy lewd, pestiferous and dissentious pranks, : None
+3.1 :As very infants prattle of thy pride. : None
+3.1 :Thou art a most pernicious usurer, : None
+3.1 :Forward by nature, enemy to peace; : None
+3.1 :Lascivious, wanton, more than well beseems : None
+3.1 :A man of thy profession and degree; : None
+3.1 :And for thy treachery, what's more manifest? : None
+3.1 :In that thou laid'st a trap to take my life, : None
+3.1 :As well at London bridge as at the Tower. : None
+3.1 :Beside, I fear me, if thy thoughts were sifted, : None
+3.1 :The king, thy sovereign, is not quite exempt : None
+3.1 :From envious malice of thy swelling heart. : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Gloucester, I do defy thee. Lords, vouchsafe : None
+3.1 :To give me hearing what I shall reply. : None
+3.1 :If I were covetous, ambitious or perverse, : None
+3.1 :As he will have me, how am I so poor? : None
+3.1 :Or how haps it I seek not to advance : None
+3.1 :Or raise myself, but keep my wonted calling? : None
+3.1 :And for dissension, who preferreth peace : None
+3.1 :More than I do?--except I be provoked. : None
+3.1 :No, my good lords, it is not that offends; : None
+3.1 :It is not that that hath incensed the duke: : None
+3.1 :It is, because no one should sway but he; : None
+3.1 :No one but he should be about the king; : None
+3.1 :And that engenders thunder in his breast : None
+3.1 :And makes him roar these accusations forth. : None
+3.1 :But he shall know I am as good-- : None
+GLOUCESTER
+3.1 :As good! : None
+3.1 :Thou bastard of my grandfather! : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Ay, lordly sir; for what are you, I pray, : None
+3.1 :But one imperious in another's throne? : None
+GLOUCESTER
+3.1 :Am I not protector, saucy priest? : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :And am not I a prelate of the church? : None
+GLOUCESTER
+3.1 :Yes, as an outlaw in a castle keeps : None
+3.1 :And useth it to patronage his theft. : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Unreverent Gloster! : None
+GLOUCESTER
+3.1 :Thou art reverent : None
+3.1 :Touching thy spiritual function, not thy life. : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Rome shall remedy this. : None
+WARWICK
+3.1 :Roam thither, then. : None
+SOMERSET
+3.1 :My lord, it were your duty to forbear. : None
+WARWICK
+3.1 :Ay, see the bishop be not overborne. : None
+SOMERSET
+3.1 :Methinks my lord should be religious : None
+3.1 :And know the office that belongs to such. : None
+WARWICK
+3.1 :Methinks his lordship should be humbler; : None
+3.1 :it fitteth not a prelate so to plead. : None
+SOMERSET
+3.1 :Yes, when his holy state is touch'd so near. : None
+WARWICK
+3.1 :State holy or unhallow'd, what of that? : None
+3.1 :Is not his grace protector to the king? : None
+3.1 :RICHARD : None
+PLANTAGENET
+3.1 :  Plantagenet, I see, must hold his tongue, : Aside : ['Aside - []'] : PLANTAGENET
+3.1 :Lest it be said 'Speak, sirrah, when you should; : None
+3.1 :Must your bold verdict enter talk with lords?' : None
+3.1 :Else would I have a fling at Winchester. : None
+KING HENRY VI
+3.1 :Uncles of Gloucester and of Winchester, : None
+3.1 :The special watchmen of our English weal, : None
+3.1 :I would prevail, if prayers might prevail, : None
+3.1 :To join your hearts in love and amity. : None
+3.1 :O, what a scandal is it to our crown, : None
+3.1 :That two such noble peers as ye should jar! : None
+3.1 :Believe me, lords, my tender years can tell : None
+3.1 :Civil dissension is a viperous worm : None
+3.1 :That gnaws the bowels of the commonwealth. : None
+A noise within, 'Down with the tawny-coats!' : ['None - []'] : KING HENRY VI
+3.1 :What tumult's this? : None
+WARWICK
+3.1 :An uproar, I dare warrant, : None
+3.1 :Begun through malice of the bishop's men. : None
+A noise again, 'Stones! stones!' Enter Mayor : ["to - ['MAYOR']"] : WARWICK
+MAYOR
+3.1 :O, my good lords, and virtuous Henry, : None
+3.1 :Pity the city of London, pity us! : None
+3.1 :The bishop and the Duke of Gloucester's men, : None
+3.1 :Forbidden late to carry any weapon, : None
+3.1 :Have fill'd their pockets full of pebble stones : None
+3.1 :And banding themselves in contrary parts : None
+3.1 :Do pelt so fast at one another's pate : None
+3.1 :That many have their giddy brains knock'd out: : None
+3.1 :Our windows are broke down in every street : None
+3.1 :And we for fear compell'd to shut our shops. : None
+Enter Serving-men, in skirmish, with bloody pates : ['Enter - []'] : MAYOR
+KING HENRY VI
+3.1 :We charge you, on allegiance to ourself, : None
+3.1 :To hold your slaughtering hands and keep the peace. : None
+3.1 :Pray, uncle Gloucester, mitigate this strife. : None
+3.1 :First Serving-man	Nay, if we be forbidden stones, : None
+3.1 :We'll fall to it with our teeth. : None
+3.1 :Second Serving-man	Do what ye dare, we are as resolute. : None
+Skirmish again : ['None - []'] : KING HENRY VI
+GLOUCESTER
+3.1 :You of my household, leave this peevish broil : None
+3.1 :And set this unaccustom'd fight aside. : None
+3.1 :Third Serving-man	My lord, we know your grace to be a man : None
+3.1 :Just and upright; and, for your royal birth, : None
+3.1 :Inferior to none but to his majesty: : None
+3.1 :And ere that we will suffer such a prince, : None
+3.1 :So kind a father of the commonweal, : None
+3.1 :To be disgraced by an inkhorn mate, : None
+3.1 :We and our wives and children all will fight : None
+3.1 :And have our bodies slaughtered by thy foes. : None
+3.1 :First Serving-man	Ay, and the very parings of our nails : None
+3.1 :Shall pitch a field when we are dead. : None
+Begin again : ['None - []'] : GLOUCESTER
+GLOUCESTER
+3.1 :Stay, stay, I say! : None
+3.1 :And if you love me, as you say you do, : None
+3.1 :Let me persuade you to forbear awhile. : None
+KING HENRY VI
+3.1 :O, how this discord doth afflict my soul! : None
+3.1 :Can you, my Lord of Winchester, behold : None
+3.1 :My sighs and tears and will not once relent? : None
+3.1 :Who should be pitiful, if you be not? : None
+3.1 :Or who should study to prefer a peace. : None
+3.1 :If holy churchmen take delight in broils? : None
+WARWICK
+3.1 :Yield, my lord protector; yield, Winchester; : None
+3.1 :Except you mean with obstinate repulse : None
+3.1 :To slay your sovereign and destroy the realm. : None
+3.1 :You see what mischief and what murder too : None
+3.1 :Hath been enacted through your enmity; : None
+3.1 :Then be at peace except ye thirst for blood. : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :He shall submit, or I will never yield. : None
+GLOUCESTER
+3.1 :Compassion on the king commands me stoop; : None
+3.1 :Or I would see his heart out, ere the priest : None
+3.1 :Should ever get that privilege of me. : None
+WARWICK
+3.1 :Behold, my Lord of Winchester, the duke : None
+3.1 :Hath banish'd moody discontented fury, : None
+3.1 :As by his smoothed brows it doth appear: : None
+3.1 :Why look you still so stern and tragical? : None
+GLOUCESTER
+3.1 :Here, Winchester, I offer thee my hand. : None
+KING HENRY VI
+3.1 :Fie, uncle Beaufort! I have heard you preach : None
+3.1 :That malice was a great and grievous sin; : None
+3.1 :And will not you maintain the thing you teach, : None
+3.1 :But prove a chief offender in the same? : None
+WARWICK
+3.1 :Sweet king! the bishop hath a kindly gird. : None
+3.1 :For shame, my lord of Winchester, relent! : None
+3.1 :What, shall a child instruct you what to do? : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :Well, Duke of Gloucester, I will yield to thee; : None
+3.1 :Love for thy love and hand for hand I give. : None
+GLOUCESTER
+3.1 :  Ay, but, I fear me, with a hollow heart.-- : Aside : ['Aside - []'] : GLOUCESTER
+3.1 :See here, my friends and loving countrymen, : None
+3.1 :This token serveth for a flag of truce : None
+3.1 :Betwixt ourselves and all our followers: : None
+3.1 :So help me God, as I dissemble not! : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :  So help me God, as I intend it not! : Aside : ['Aside - []'] : OF WINCHESTER
+KING HENRY VI
+3.1 :O, loving uncle, kind Duke of Gloucester, : None
+3.1 :How joyful am I made by this contract! : None
+3.1 :Away, my masters! trouble us no more; : None
+3.1 :But join in friendship, as your lords have done. : None
+3.1 :First Serving-man	Content: I'll to the surgeon's. : None
+3.1 :Second Serving-man	And so will I. : None
+3.1 :Third Serving-man	And I will see what physic the tavern affords. : None
+Exeunt Serving-men, Mayor,  & c : ["Exeunt - ['MAYOR']"] : KING HENRY VI
+WARWICK
+3.1 :Accept this scroll, most gracious sovereign, : None
+3.1 :Which in the right of Richard Plantagenet : None
+3.1 :We do exhibit to your majesty. : None
+GLOUCESTER
+3.1 :Well urged, my Lord of Warwick: or sweet prince, : None
+3.1 :And if your grace mark every circumstance, : None
+3.1 :You have great reason to do Richard right; : None
+3.1 :Especially for those occasions : None
+3.1 :At Eltham Place I told your majesty. : None
+KING HENRY VI
+3.1 :And those occasions, uncle, were of force: : None
+3.1 :Therefore, my loving lords, our pleasure is : None
+3.1 :That Richard be restored to his blood. : None
+WARWICK
+3.1 :Let Richard be restored to his blood; : None
+3.1 :So shall his father's wrongs be recompensed. : None
+3.1 :BISHOP : None
+OF WINCHESTER
+3.1 :As will the rest, so willeth Winchester. : None
+KING HENRY VI
+3.1 :If Richard will be true, not that alone : None
+3.1 :But all the whole inheritance I give : None
+3.1 :That doth belong unto the house of York, : None
+3.1 :From whence you spring by lineal descent. : None
+3.1 :RICHARD : None
+PLANTAGENET
+3.1 :Thy humble servant vows obedience : None
+3.1 :And humble service till the point of death. : None
+KING HENRY VI
+3.1 :Stoop then and set your knee against my foot; : None
+3.1 :And, in reguerdon of that duty done, : None
+3.1 :I gird thee with the valiant sword of York: : None
+3.1 :Rise Richard, like a true Plantagenet, : None
+3.1 :And rise created princely Duke of York. : None
+3.1 :RICHARD : None
+PLANTAGENET
+3.1 :And so thrive Richard as thy foes may fall! : None
+3.1 :And as my duty springs, so perish they : None
+3.1 :That grudge one thought against your majesty! : None
+ALL
+3.1 :Welcome, high prince, the mighty Duke of York! : None
+SOMERSET
+3.1 :  Perish, base prince, ignoble Duke of York! : Aside : ['Aside - []'] : SOMERSET
+GLOUCESTER
+3.1 :Now will it best avail your majesty : None
+3.1 :To cross the seas and to be crown'd in France: : None
+3.1 :The presence of a king engenders love : None
+3.1 :Amongst his subjects and his loyal friends, : None
+3.1 :As it disanimates his enemies. : None
+KING HENRY VI
+3.1 :When Gloucester says the word, King Henry goes; : None
+3.1 :For friendly counsel cuts off many foes. : None
+GLOUCESTER
+3.1 :Your ships already are in readiness. : None
+Sennet. Flourish. Exeunt all but EXETER : ['None - []', 'None - []', "Exeunt - ['ALL', 'EXETER']"] : GLOUCESTER
+EXETER
+3.1 :Ay, we may march in England or in France, : None
+3.1 :Not seeing what is likely to ensue. : None
+3.1 :This late dissension grown betwixt the peers : None
+3.1 :Burns under feigned ashes of forged love : None
+3.1 :And will at last break out into a flame: : None
+3.1 :As fester'd members rot but by degree, : None
+3.1 :Till bones and flesh and sinews fall away, : None
+3.1 :So will this base and envious discord breed. : None
+3.1 :And now I fear that fatal prophecy : None
+3.1 :Which in the time of Henry named the Fifth : None
+3.1 :Was in the mouth of every sucking babe; : None
+3.1 :That Henry born at Monmouth should win all : None
+3.1 :And Henry born at Windsor lose all: : None
+3.1 :Which is so plain that Exeter doth wish : None
+3.1 :His days may finish ere that hapless time. : None
+Exit : ['Exit - []'] : EXETER
+Scene(scene=2)
+Enter JOAN LA PUCELLE disguised, with four Soldiers with sacks upon their backs : ["Enter - ['JOAN LA PUCELLE', 'SOLDIER']"] : EXETER
+JOAN LA PUCELLE
+3.2 :These are the city gates, the gates of Rouen, : None
+3.2 :Through which our policy must make a breach: : None
+3.2 :Take heed, be wary how you place your words; : None
+3.2 :Talk like the vulgar sort of market men : None
+3.2 :That come to gather money for their corn. : None
+3.2 :If we have entrance, as I hope we shall, : None
+3.2 :And that we find the slothful watch but weak, : None
+3.2 :I'll by a sign give notice to our friends, : None
+3.2 :That Charles the Dauphin may encounter them. : None
+FIRST SOLDIER
+3.2 :Our sacks shall be a mean to sack the city, : None
+3.2 :And we be lords and rulers over Rouen; : None
+3.2 :Therefore we'll knock. : None
+Knocks : ['None - []'] : FIRST SOLDIER
+WATCH
+3.2 :  Qui est la? : Within : ['None - []'] : WATCH
+JOAN LA PUCELLE
+3.2 :Paysans, pauvres gens de France; : None
+3.2 :Poor market folks that come to sell their corn. : None
+WATCH
+3.2 :Enter, go in; the market bell is rung. : None
+JOAN LA PUCELLE
+3.2 :Now, Rouen, I'll shake thy bulwarks to the ground. : None
+Exeunt : ['Exeunt - []'] : JOAN LA PUCELLE
+Enter CHARLES, the BASTARD OF ORLEANS, ALENCON, REIGNIER, and forces : ["Enter - ['CHARLES', 'BASTARD OF ORLEANS', 'ALENCON', 'REIGNIER']"] : JOAN LA PUCELLE
+CHARLES
+3.2 :Saint Denis bless this happy stratagem! : None
+3.2 :And once again we'll sleep secure in Rouen. : None
+BASTARD OF ORLEANS
+3.2 :Here enter'd Pucelle and her practisants; : None
+3.2 :Now she is there, how will she specify : None
+3.2 :Where is the best and safest passage in? : None
+REIGNIER
+3.2 :By thrusting out a torch from yonder tower; : None
+3.2 :Which, once discern'd, shows that her meaning is, : None
+3.2 :No way to that, for weakness, which she enter'd. : None
+Enter JOAN LA PUCELLE on the top, thrusting out a torch burning : ["Enter - ['JOAN LA PUCELLE']"] : REIGNIER
+JOAN LA PUCELLE
+3.2 :Behold, this is the happy wedding torch : None
+3.2 :That joineth Rouen unto her countrymen, : None
+3.2 :But burning fatal to the Talbotites! : None
+Exit : ['Exit - []'] : JOAN LA PUCELLE
+BASTARD OF ORLEANS
+3.2 :See, noble Charles, the beacon of our friend; : None
+3.2 :The burning torch in yonder turret stands. : None
+CHARLES
+3.2 :Now shine it like a comet of revenge, : None
+3.2 :A prophet to the fall of all our foes! : None
+REIGNIER
+3.2 :Defer no time, delays have dangerous ends; : None
+3.2 :Enter, and cry 'The Dauphin!' presently, : None
+3.2 :And then do execution on the watch. : None
+Alarum. Exeunt : ['None - []', 'Exeunt - []'] : REIGNIER
+An alarum. Enter TALBOT in an excursion : ['None - []', "Enter - ['TALBOT']"] : REIGNIER
+TALBOT
+3.2 :France, thou shalt rue this treason with thy tears, : None
+3.2 :If Talbot but survive thy treachery. : None
+3.2 :Pucelle, that witch, that damned sorceress, : None
+3.2 :Hath wrought this hellish mischief unawares, : None
+3.2 :That hardly we escaped the pride of France. : None
+Exit : ['Exit - []'] : TALBOT
+An alarum: excursions. BEDFORD, brought in sick  in a chair. Enter TALBOT and BURGUNDY without:  within JOAN LA PUCELLE, CHARLES, BASTARD OF ORLEANS, ALENCON, and REIGNIER, on the walls : ['None - []', "None - ['BEDFORD']", "Enter - ['TALBOT', 'BURGUNDY', 'JOAN LA PUCELLE', 'CHARLES', 'BASTARD OF ORLEANS', 'ALENCON', 'REIGNIER', 'ALL']"] : TALBOT
+JOAN LA PUCELLE
+3.2 :Good morrow, gallants! want ye corn for bread? : None
+3.2 :I think the Duke of Burgundy will fast : None
+3.2 :Before he'll buy again at such a rate: : None
+3.2 :'Twas full of darnel; do you like the taste? : None
+BURGUNDY
+3.2 :Scoff on, vile fiend and shameless courtezan! : None
+3.2 :I trust ere long to choke thee with thine own : None
+3.2 :And make thee curse the harvest of that corn. : None
+CHARLES
+3.2 :Your grace may starve perhaps before that time. : None
+BEDFORD
+3.2 :O, let no words, but deeds, revenge this treason! : None
+JOAN LA PUCELLE
+3.2 :What will you do, good grey-beard? break a lance, : None
+3.2 :And run a tilt at death within a chair? : None
+TALBOT
+3.2 :Foul fiend of France, and hag of all despite, : None
+3.2 :Encompass'd with thy lustful paramours! : None
+3.2 :Becomes it thee to taunt his valiant age : None
+3.2 :And twit with cowardice a man half dead? : None
+3.2 :Damsel, I'll have a bout with you again, : None
+3.2 :Or else let Talbot perish with this shame. : None
+JOAN LA PUCELLE
+3.2 :Are ye so hot, sir? yet, Pucelle, hold thy peace; : None
+3.2 :If Talbot do but thunder, rain will follow. : None
+The English whisper together in council : ['to - []'] : JOAN LA PUCELLE
+3.2 :God speed the parliament! who shall be the speaker? : None
+TALBOT
+3.2 :Dare ye come forth and meet us in the field? : None
+JOAN LA PUCELLE
+3.2 :Belike your lordship takes us then for fools, : None
+3.2 :To try if that our own be ours or no. : None
+TALBOT
+3.2 :I speak not to that railing Hecate, : None
+3.2 :But unto thee, Alencon, and the rest; : None
+3.2 :Will ye, like soldiers, come and fight it out? : None
+ALENCON
+3.2 :Signior, no. : None
+TALBOT
+3.2 :Signior, hang! base muleters of France! : None
+3.2 :Like peasant foot-boys do they keep the walls : None
+3.2 :And dare not take up arms like gentlemen. : None
+JOAN LA PUCELLE
+3.2 :Away, captains! let's get us from the walls; : None
+3.2 :For Talbot means no goodness by his looks. : None
+3.2 :God be wi' you, my lord! we came but to tell you : None
+3.2 :That we are here. : None
+Exeunt from the walls : ["Exeunt - ['ALL']"] : JOAN LA PUCELLE
+TALBOT
+3.2 :And there will we be too, ere it be long, : None
+3.2 :Or else reproach be Talbot's greatest fame! : None
+3.2 :Vow, Burgundy, by honour of thy house, : None
+3.2 :Prick'd on by public wrongs sustain'd in France, : None
+3.2 :Either to get the town again or die: : None
+3.2 :And I, as sure as English Henry lives : None
+3.2 :And as his father here was conqueror, : None
+3.2 :As sure as in this late-betrayed town : None
+3.2 :Great Coeur-de-lion's heart was buried, : None
+3.2 :So sure I swear to get the town or die. : None
+BURGUNDY
+3.2 :My vows are equal partners with thy vows. : None
+TALBOT
+3.2 :But, ere we go, regard this dying prince, : None
+3.2 :The valiant Duke of Bedford. Come, my lord, : None
+3.2 :We will bestow you in some better place, : None
+3.2 :Fitter for sickness and for crazy age. : None
+BEDFORD
+3.2 :Lord Talbot, do not so dishonour me: : None
+3.2 :Here will I sit before the walls of Rouen : None
+3.2 :And will be partner of your weal or woe. : None
+BURGUNDY
+3.2 :Courageous Bedford, let us now persuade you. : None
+BEDFORD
+3.2 :Not to be gone from hence; for once I read : None
+3.2 :That stout Pendragon in his litter sick : None
+3.2 :Came to the field and vanquished his foes: : None
+3.2 :Methinks I should revive the soldiers' hearts, : None
+3.2 :Because I ever found them as myself. : None
+TALBOT
+3.2 :Undaunted spirit in a dying breast! : None
+3.2 :Then be it so: heavens keep old Bedford safe! : None
+3.2 :And now no more ado, brave Burgundy, : None
+3.2 :But gather we our forces out of hand : None
+3.2 :And set upon our boasting enemy. : None
+Exeunt all but BEDFORD and Attendants : ["Exeunt - ['ALL', 'BEDFORD']"] : TALBOT
+An alarum: excursions. Enter FASTOLFE and a Captain : ['None - []', "Enter - ['FASTOLFE', 'CAPTAIN']"] : TALBOT
+CAPTAIN
+3.2 :Whither away, Sir John Fastolfe, in such haste? : None
+FASTOLFE
+3.2 :Whither away! to save myself by flight: : None
+3.2 :We are like to have the overthrow again. : None
+CAPTAIN
+3.2 :What! will you fly, and leave Lord Talbot? : None
+FASTOLFE
+3.2 :Ay, : None
+3.2 :All the Talbots in the world, to save my life! : None
+Exit : ['Exit - []'] : FASTOLFE
+CAPTAIN
+3.2 :Cowardly knight! ill fortune follow thee! : None
+Exit : ['Exit - []'] : CAPTAIN
+Retreat: excursions. JOAN LA PUCELLE, ALENCON, and CHARLES fly : ['None - []', "None - ['JOAN LA PUCELLE', 'ALENCON', 'CHARLES']"] : CAPTAIN
+BEDFORD
+3.2 :Now, quiet soul, depart when heaven please, : None
+3.2 :For I have seen our enemies' overthrow. : None
+3.2 :What is the trust or strength of foolish man? : None
+3.2 :They that of late were daring with their scoffs : None
+3.2 :Are glad and fain by flight to save themselves. : None
+BEDFORD dies, and is carried in by two in his chair : ["None - ['BEDFORD']"] : BEDFORD
+An alarum. Re-enter TALBOT, BURGUNDY, and the rest : ['None - []', "Re-enter - ['TALBOT', 'BURGUNDY']"] : BEDFORD
+TALBOT
+3.2 :Lost, and recover'd in a day again! : None
+3.2 :This is a double honour, Burgundy: : None
+3.2 :Yet heavens have glory for this victory! : None
+BURGUNDY
+3.2 :Warlike and martial Talbot, Burgundy : None
+3.2 :Enshrines thee in his heart and there erects : None
+3.2 :Thy noble deeds as valour's monuments. : None
+TALBOT
+3.2 :Thanks, gentle duke. But where is Pucelle now? : None
+3.2 :I think her old familiar is asleep: : None
+3.2 :Now where's the Bastard's braves, and Charles his gleeks? : None
+3.2 :What, all amort? Rouen hangs her head for grief : None
+3.2 :That such a valiant company are fled. : None
+3.2 :Now will we take some order in the town, : None
+3.2 :Placing therein some expert officers, : None
+3.2 :And then depart to Paris to the king, : None
+3.2 :For there young Henry with his nobles lie. : None
+BURGUNDY
+3.2 :What wills Lord Talbot pleaseth Burgundy. : None
+TALBOT
+3.2 :But yet, before we go, let's not forget : None
+3.2 :The noble Duke of Bedford late deceased, : None
+3.2 :But see his exequies fulfill'd in Rouen: : None
+3.2 :A braver soldier never couched lance, : None
+3.2 :A gentler heart did never sway in court; : None
+3.2 :But kings and mightiest potentates must die, : None
+3.2 :For that's the end of human misery. : None
+Exeunt : ['Exeunt - []'] : TALBOT
+Scene(scene=3)
+Enter CHARLES, the BASTARD OF ORLEANS, ALENCON, JOAN LA PUCELLE, and forces : ["Enter - ['CHARLES', 'BASTARD OF ORLEANS', 'ALENCON', 'JOAN LA PUCELLE']"] : TALBOT
+JOAN LA PUCELLE
+3.3 :Dismay not, princes, at this accident, : None
+3.3 :Nor grieve that Rouen is so recovered: : None
+3.3 :Care is no cure, but rather corrosive, : None
+3.3 :For things that are not to be remedied. : None
+3.3 :Let frantic Talbot triumph for a while : None
+3.3 :And like a peacock sweep along his tail; : None
+3.3 :We'll pull his plumes and take away his train, : None
+3.3 :If Dauphin and the rest will be but ruled. : None
+CHARLES
+3.3 :We have been guided by thee hitherto, : None
+3.3 :And of thy cunning had no diffidence: : None
+3.3 :One sudden foil shall never breed distrust. : None
+BASTARD OF ORLEANS
+3.3 :Search out thy wit for secret policies, : None
+3.3 :And we will make thee famous through the world. : None
+ALENCON
+3.3 :We'll set thy statue in some holy place, : None
+3.3 :And have thee reverenced like a blessed saint: : None
+3.3 :Employ thee then, sweet virgin, for our good. : None
+JOAN LA PUCELLE
+3.3 :Then thus it must be; this doth Joan devise: : None
+3.3 :By fair persuasions mix'd with sugar'd words : None
+3.3 :We will entice the Duke of Burgundy : None
+3.3 :To leave the Talbot and to follow us. : None
+CHARLES
+3.3 :Ay, marry, sweeting, if we could do that, : None
+3.3 :France were no place for Henry's warriors; : None
+3.3 :Nor should that nation boast it so with us, : None
+3.3 :But be extirped from our provinces. : None
+ALENCON
+3.3 :For ever should they be expulsed from France : None
+3.3 :And not have title of an earldom here. : None
+JOAN LA PUCELLE
+3.3 :Your honours shall perceive how I will work : None
+3.3 :To bring this matter to the wished end. : None
+Drum sounds afar off : ['None - []'] : JOAN LA PUCELLE
+3.3 :Hark! by the sound of drum you may perceive : None
+3.3 :Their powers are marching unto Paris-ward. : None
+Here sound an English march. Enter, and pass over at a distance, TALBOT and his forces : ['None - []', "Enter - ['TALBOT']"] : JOAN LA PUCELLE
+3.3 :There goes the Talbot, with his colours spread, : None
+3.3 :And all the troops of English after him. : None
+French march. Enter BURGUNDY and forces : ['None - []', "Enter - ['BURGUNDY']"] : JOAN LA PUCELLE
+3.3 :Now in the rearward comes the duke and his: : None
+3.3 :Fortune in favour makes him lag behind. : None
+3.3 :Summon a parley; we will talk with him. : None
+Trumpets sound a parley : ['None - []'] : JOAN LA PUCELLE
+CHARLES
+3.3 :A parley with the Duke of Burgundy! : None
+BURGUNDY
+3.3 :Who craves a parley with the Burgundy? : None
+JOAN LA PUCELLE
+3.3 :The princely Charles of France, thy countryman. : None
+BURGUNDY
+3.3 :What say'st thou, Charles? for I am marching hence. : None
+CHARLES
+3.3 :Speak, Pucelle, and enchant him with thy words. : None
+JOAN LA PUCELLE
+3.3 :Brave Burgundy, undoubted hope of France! : None
+3.3 :Stay, let thy humble handmaid speak to thee. : None
+BURGUNDY
+3.3 :Speak on; but be not over-tedious. : None
+JOAN LA PUCELLE
+3.3 :Look on thy country, look on fertile France, : None
+3.3 :And see the cities and the towns defaced : None
+3.3 :By wasting ruin of the cruel foe. : None
+3.3 :As looks the mother on her lowly babe : None
+3.3 :When death doth close his tender dying eyes, : None
+3.3 :See, see the pining malady of France; : None
+3.3 :Behold the wounds, the most unnatural wounds, : None
+3.3 :Which thou thyself hast given her woful breast. : None
+3.3 :O, turn thy edged sword another way; : None
+3.3 :Strike those that hurt, and hurt not those that help. : None
+3.3 :One drop of blood drawn from thy country's bosom : None
+3.3 :Should grieve thee more than streams of foreign gore: : None
+3.3 :Return thee therefore with a flood of tears, : None
+3.3 :And wash away thy country's stained spots. : None
+BURGUNDY
+3.3 :Either she hath bewitch'd me with her words, : None
+3.3 :Or nature makes me suddenly relent. : None
+JOAN LA PUCELLE
+3.3 :Besides, all French and France exclaims on thee, : None
+3.3 :Doubting thy birth and lawful progeny. : None
+3.3 :Who joint'st thou with but with a lordly nation : None
+3.3 :That will not trust thee but for profit's sake? : None
+3.3 :When Talbot hath set footing once in France : None
+3.3 :And fashion'd thee that instrument of ill, : None
+3.3 :Who then but English Henry will be lord : None
+3.3 :And thou be thrust out like a fugitive? : None
+3.3 :Call we to mind, and mark but this for proof, : None
+3.3 :Was not the Duke of Orleans thy foe? : None
+3.3 :And was he not in England prisoner? : None
+3.3 :But when they heard he was thine enemy, : None
+3.3 :They set him free without his ransom paid, : None
+3.3 :In spite of Burgundy and all his friends. : None
+3.3 :See, then, thou fight'st against thy countrymen : None
+3.3 :And joint'st with them will be thy slaughtermen. : None
+3.3 :Come, come, return; return, thou wandering lord: : None
+3.3 :Charles and the rest will take thee in their arms. : None
+BURGUNDY
+3.3 :I am vanquished; these haughty words of hers : None
+3.3 :Have batter'd me like roaring cannon-shot, : None
+3.3 :And made me almost yield upon my knees. : None
+3.3 :Forgive me, country, and sweet countrymen, : None
+3.3 :And, lords, accept this hearty kind embrace: : None
+3.3 :My forces and my power of men are yours: : None
+3.3 :So farewell, Talbot; I'll no longer trust thee. : None
+JOAN LA PUCELLE
+3.3 :  Done like a Frenchman: turn, and turn again! : Aside : ['Aside - []'] : JOAN LA PUCELLE
+CHARLES
+3.3 :Welcome, brave duke! thy friendship makes us fresh. : None
+BASTARD OF ORLEANS
+3.3 :And doth beget new courage in our breasts. : None
+ALENCON
+3.3 :Pucelle hath bravely play'd her part in this, : None
+3.3 :And doth deserve a coronet of gold. : None
+CHARLES
+3.3 :Now let us on, my lords, and join our powers, : None
+3.3 :And seek how we may prejudice the foe. : None
+Exeunt : ['Exeunt - []'] : CHARLES
+Scene(scene=4)
+Enter KING HENRY VI, GLOUCESTER, BISHOP OF  WINCHESTER, YORK, SUFFOLK, SOMERSET, WARWICK,  EXETER, VERNON	BASSET, and others. To them with his Soldiers, TALBOT : ["Enter - ['KING HENRY VI', 'GLOUCESTER', 'YORK', 'SUFFOLK', 'SOMERSET', 'WARWICK', 'EXETER', 'VERNON', 'BASSET']", "To - ['SOLDIER', 'TALBOT']"] : CHARLES
+TALBOT
+3.4 :My gracious prince, and honourable peers, : None
+3.4 :Hearing of your arrival in this realm, : None
+3.4 :I have awhile given truce unto my wars, : None
+3.4 :To do my duty to my sovereign: : None
+3.4 :In sign, whereof, this arm, that hath reclaim'd : None
+3.4 :To your obedience fifty fortresses, : None
+3.4 :Twelve cities and seven walled towns of strength, : None
+3.4 :Beside five hundred prisoners of esteem, : None
+3.4 :Lets fall his sword before your highness' feet, : None
+3.4 :And with submissive loyalty of heart : None
+3.4 :Ascribes the glory of his conquest got : None
+3.4 :First to my God and next unto your grace. : None
+Kneels : ['None - []'] : TALBOT
+KING HENRY VI
+3.4 :Is this the Lord Talbot, uncle Gloucester, : None
+3.4 :That hath so long been resident in France? : None
+GLOUCESTER
+3.4 :Yes, if it please your majesty, my liege. : None
+KING HENRY VI
+3.4 :Welcome, brave captain and victorious lord! : None
+3.4 :When I was young, as yet I am not old, : None
+3.4 :I do remember how my father said : None
+3.4 :A stouter champion never handled sword. : None
+3.4 :Long since we were resolved of your truth, : None
+3.4 :Your faithful service and your toil in war; : None
+3.4 :Yet never have you tasted our reward, : None
+3.4 :Or been reguerdon'd with so much as thanks, : None
+3.4 :Because till now we never saw your face: : None
+3.4 :Therefore, stand up; and, for these good deserts, : None
+3.4 :We here create you Earl of Shrewsbury; : None
+3.4 :And in our coronation take your place. : None
+Sennet. Flourish. Exeunt all but VERNON and BASSET : ['None - []', 'None - []', "Exeunt - ['ALL', 'VERNON', 'BASSET']"] : KING HENRY VI
+VERNON
+3.4 :Now, sir, to you, that were so hot at sea, : None
+3.4 :Disgracing of these colours that I wear : None
+3.4 :In honour of my noble Lord of York: : None
+3.4 :Darest thou maintain the former words thou spakest? : None
+BASSET
+3.4 :Yes, sir; as well as you dare patronage : None
+3.4 :The envious barking of your saucy tongue : None
+3.4 :Against my lord the Duke of Somerset. : None
+VERNON
+3.4 :Sirrah, thy lord I honour as he is. : None
+BASSET
+3.4 :Why, what is he? as good a man as York. : None
+VERNON
+3.4 :Hark ye; not so: in witness, take ye that. : None
+Strikes him : ['None - []'] : VERNON
+BASSET
+3.4 :Villain, thou know'st the law of arms is such : None
+3.4 :That whoso draws a sword, 'tis present death, : None
+3.4 :Or else this blow should broach thy dearest blood. : None
+3.4 :But I'll unto his majesty, and crave : None
+3.4 :I may have liberty to venge this wrong; : None
+3.4 :When thou shalt see I'll meet thee to thy cost. : None
+VERNON
+3.4 :Well, miscreant, I'll be there as soon as you; : None
+3.4 :And, after, meet you sooner than you would. : None
+Exeunt : ['Exeunt - []'] : VERNON
+Act(act=4)
+Scene(scene=1)
+Enter KING HENRY VI, GLOUCESTER, BISHOP OF  WINCHESTER, YORK, SUFFOLK, SOMERSET, WARWICK, TALBOT, EXETER, the Governor, of Paris, and others : ["Enter - ['KING HENRY VI', 'GLOUCESTER', 'YORK', 'SUFFOLK', 'SOMERSET', 'WARWICK', 'TALBOT', 'EXETER']"] : VERNON
+GLOUCESTER
+4.1 :Lord bishop, set the crown upon his head. : None
+4.1 :BISHOP : None
+OF WINCHESTER
+4.1 :God save King Henry, of that name the sixth! : None
+GLOUCESTER
+4.1 :Now, governor of Paris, take your oath, : None
+4.1 :That you elect no other king but him; : None
+4.1 :Esteem none friends but such as are his friends, : None
+4.1 :And none your foes but such as shall pretend : None
+4.1 :Malicious practises against his state: : None
+4.1 :This shall ye do, so help you righteous God! : None
+Enter FASTOLFE : ["Enter - ['FASTOLFE']"] : GLOUCESTER
+FASTOLFE
+4.1 :My gracious sovereign, as I rode from Calais, : None
+4.1 :To haste unto your coronation, : None
+4.1 :A letter was deliver'd to my hands, : None
+4.1 :Writ to your grace from the Duke of Burgundy. : None
+TALBOT
+4.1 :Shame to the Duke of Burgundy and thee! : None
+4.1 :I vow'd, base knight, when I did meet thee next, : None
+4.1 :To tear the garter from thy craven's leg, : None
+Plucking it off : ['None - []'] : TALBOT
+4.1 :Which I have done, because unworthily : None
+4.1 :Thou wast installed in that high degree. : None
+4.1 :Pardon me, princely Henry, and the rest : None
+4.1 :This dastard, at the battle of Patay, : None
+4.1 :When but in all I was six thousand strong : None
+4.1 :And that the French were almost ten to one, : None
+4.1 :Before we met or that a stroke was given, : None
+4.1 :Like to a trusty squire did run away: : None
+4.1 :In which assault we lost twelve hundred men; : None
+4.1 :Myself and divers gentlemen beside : None
+4.1 :Were there surprised and taken prisoners. : None
+4.1 :Then judge, great lords, if I have done amiss; : None
+4.1 :Or whether that such cowards ought to wear : None
+4.1 :This ornament of knighthood, yea or no. : None
+GLOUCESTER
+4.1 :To say the truth, this fact was infamous : None
+4.1 :And ill beseeming any common man, : None
+4.1 :Much more a knight, a captain and a leader. : None
+TALBOT
+4.1 :When first this order was ordain'd, my lords, : None
+4.1 :Knights of the garter were of noble birth, : None
+4.1 :Valiant and virtuous, full of haughty courage, : None
+4.1 :Such as were grown to credit by the wars; : None
+4.1 :Not fearing death, nor shrinking for distress, : None
+4.1 :But always resolute in most extremes. : None
+4.1 :He then that is not furnish'd in this sort : None
+4.1 :Doth but usurp the sacred name of knight, : None
+4.1 :Profaning this most honourable order, : None
+4.1 :And should, if I were worthy to be judge, : None
+4.1 :Be quite degraded, like a hedge-born swain : None
+4.1 :That doth presume to boast of gentle blood. : None
+KING HENRY VI
+4.1 :Stain to thy countrymen, thou hear'st thy doom! : None
+4.1 :Be packing, therefore, thou that wast a knight: : None
+4.1 :Henceforth we banish thee, on pain of death. : None
+Exit FASTOLFE : ["Exit - ['FASTOLFE']"] : KING HENRY VI
+4.1 :And now, my lord protector, view the letter : None
+4.1 :Sent from our uncle Duke of Burgundy. : None
+GLOUCESTER
+4.1 :What means his grace, that he hath changed his style? : None
+4.1 :No more but, plain and bluntly, 'To the king!' : None
+4.1 :Hath he forgot he is his sovereign? : None
+4.1 :Or doth this churlish superscription : None
+4.1 :Pretend some alteration in good will? : None
+4.1 :What's here? : None
+Reads : ['Read - []'] : GLOUCESTER
+4.1 :'I have, upon especial cause, : None
+4.1 :Moved with compassion of my country's wreck, : None
+4.1 :Together with the pitiful complaints : None
+4.1 :Of such as your oppression feeds upon, : None
+4.1 :Forsaken your pernicious faction : None
+4.1 :And join'd with Charles, the rightful King of France.' : None
+4.1 :O monstrous treachery! can this be so, : None
+4.1 :That in alliance, amity and oaths, : None
+4.1 :There should be found such false dissembling guile? : None
+KING HENRY VI
+4.1 :What! doth my uncle Burgundy revolt? : None
+GLOUCESTER
+4.1 :He doth, my lord, and is become your foe. : None
+KING HENRY VI
+4.1 :Is that the worst this letter doth contain? : None
+GLOUCESTER
+4.1 :It is the worst, and all, my lord, he writes. : None
+KING HENRY VI
+4.1 :Why, then, Lord Talbot there shall talk with him : None
+4.1 :And give him chastisement for this abuse. : None
+4.1 :How say you, my lord? are you not content? : None
+TALBOT
+4.1 :Content, my liege! yes, but that I am prevented, : None
+4.1 :I should have begg'd I might have been employ'd. : None
+KING HENRY VI
+4.1 :Then gather strength and march unto him straight: : None
+4.1 :Let him perceive how ill we brook his treason : None
+4.1 :And what offence it is to flout his friends. : None
+TALBOT
+4.1 :I go, my lord, in heart desiring still : None
+4.1 :You may behold confusion of your foes. : None
+Exit : ['Exit - []'] : TALBOT
+Enter VERNON and BASSET : ["Enter - ['VERNON', 'BASSET']"] : TALBOT
+VERNON
+4.1 :Grant me the combat, gracious sovereign. : None
+BASSET
+4.1 :And me, my lord, grant me the combat too. : None
+YORK
+4.1 :This is my servant: hear him, noble prince. : None
+SOMERSET
+4.1 :And this is mine: sweet Henry, favour him. : None
+KING HENRY VI
+4.1 :Be patient, lords; and give them leave to speak. : None
+4.1 :Say, gentlemen, what makes you thus exclaim? : None
+4.1 :And wherefore crave you combat? or with whom? : None
+VERNON
+4.1 :With him, my lord; for he hath done me wrong. : None
+BASSET
+4.1 :And I with him; for he hath done me wrong. : None
+KING HENRY VI
+4.1 :What is that wrong whereof you both complain? : None
+4.1 :First let me know, and then I'll answer you. : None
+BASSET
+4.1 :Crossing the sea from England into France, : None
+4.1 :This fellow here, with envious carping tongue, : None
+4.1 :Upbraided me about the rose I wear; : None
+4.1 :Saying, the sanguine colour of the leaves : None
+4.1 :Did represent my master's blushing cheeks, : None
+4.1 :When stubbornly he did repugn the truth : None
+4.1 :About a certain question in the law : None
+4.1 :Argued betwixt the Duke of York and him; : None
+4.1 :With other vile and ignominious terms: : None
+4.1 :In confutation of which rude reproach : None
+4.1 :And in defence of my lord's worthiness, : None
+4.1 :I crave the benefit of law of arms. : None
+VERNON
+4.1 :And that is my petition, noble lord: : None
+4.1 :For though he seem with forged quaint conceit : None
+4.1 :To set a gloss upon his bold intent, : None
+4.1 :Yet know, my lord, I was provoked by him; : None
+4.1 :And he first took exceptions at this badge, : None
+4.1 :Pronouncing that the paleness of this flower : None
+4.1 :Bewray'd the faintness of my master's heart. : None
+YORK
+4.1 :Will not this malice, Somerset, be left? : None
+SOMERSET
+4.1 :Your private grudge, my Lord of York, will out, : None
+4.1 :Though ne'er so cunningly you smother it. : None
+KING HENRY VI
+4.1 :Good Lord, what madness rules in brainsick men, : None
+4.1 :When for so slight and frivolous a cause : None
+4.1 :Such factious emulations shall arise! : None
+4.1 :Good cousins both, of York and Somerset, : None
+4.1 :Quiet yourselves, I pray, and be at peace. : None
+YORK
+4.1 :Let this dissension first be tried by fight, : None
+4.1 :And then your highness shall command a peace. : None
+SOMERSET
+4.1 :The quarrel toucheth none but us alone; : None
+4.1 :Betwixt ourselves let us decide it then. : None
+YORK
+4.1 :There is my pledge; accept it, Somerset. : None
+VERNON
+4.1 :Nay, let it rest where it began at first. : None
+BASSET
+4.1 :Confirm it so, mine honourable lord. : None
+GLOUCESTER
+4.1 :Confirm it so! Confounded be your strife! : None
+4.1 :And perish ye, with your audacious prate! : None
+4.1 :Presumptuous vassals, are you not ashamed : None
+4.1 :With this immodest clamorous outrage : None
+4.1 :To trouble and disturb the king and us? : None
+4.1 :And you, my lords, methinks you do not well : None
+4.1 :To bear with their perverse objections; : None
+4.1 :Much less to take occasion from their mouths : None
+4.1 :To raise a mutiny betwixt yourselves: : None
+4.1 :Let me persuade you take a better course. : None
+EXETER
+4.1 :It grieves his highness: good my lords, be friends. : None
+KING HENRY VI
+4.1 :Come hither, you that would be combatants: : None
+4.1 :Henceforth I charge you, as you love our favour, : None
+4.1 :Quite to forget this quarrel and the cause. : None
+4.1 :And you, my lords, remember where we are, : None
+4.1 :In France, amongst a fickle wavering nation: : None
+4.1 :If they perceive dissension in our looks : None
+4.1 :And that within ourselves we disagree, : None
+4.1 :How will their grudging stomachs be provoked : None
+4.1 :To wilful disobedience, and rebel! : None
+4.1 :Beside, what infamy will there arise, : None
+4.1 :When foreign princes shall be certified : None
+4.1 :That for a toy, a thing of no regard, : None
+4.1 :King Henry's peers and chief nobility : None
+4.1 :Destroy'd themselves, and lost the realm of France! : None
+4.1 :O, think upon the conquest of my father, : None
+4.1 :My tender years, and let us not forego : None
+4.1 :That for a trifle that was bought with blood : None
+4.1 :Let me be umpire in this doubtful strife. : None
+4.1 :I see no reason, if I wear this rose, : None
+Putting on a red rose : ['None - []'] : KING HENRY VI
+4.1 :That any one should therefore be suspicious : None
+4.1 :I more incline to Somerset than York: : None
+4.1 :Both are my kinsmen, and I love them both: : None
+4.1 :As well they may upbraid me with my crown, : None
+4.1 :Because, forsooth, the king of Scots is crown'd. : None
+4.1 :But your discretions better can persuade : None
+4.1 :Than I am able to instruct or teach: : None
+4.1 :And therefore, as we hither came in peace, : None
+4.1 :So let us still continue peace and love. : None
+4.1 :Cousin of York, we institute your grace : None
+4.1 :To be our regent in these parts of France: : None
+4.1 :And, good my Lord of Somerset, unite : None
+4.1 :Your troops of horsemen with his bands of foot; : None
+4.1 :And, like true subjects, sons of your progenitors, : None
+4.1 :Go cheerfully together and digest. : None
+4.1 :Your angry choler on your enemies. : None
+4.1 :Ourself, my lord protector and the rest : None
+4.1 :After some respite will return to Calais; : None
+4.1 :From thence to England; where I hope ere long : None
+4.1 :To be presented, by your victories, : None
+4.1 :With Charles, Alencon and that traitorous rout. : None
+Flourish. Exeunt all but YORK, WARWICK, EXETER and VERNON : ['None - []', "Exeunt - ['ALL', 'YORK', 'WARWICK', 'EXETER', 'VERNON']"] : KING HENRY VI
+WARWICK
+4.1 :My Lord of York, I promise you, the king : None
+4.1 :Prettily, methought, did play the orator. : None
+YORK
+4.1 :And so he did; but yet I like it not, : None
+4.1 :In that he wears the badge of Somerset. : None
+WARWICK
+4.1 :Tush, that was but his fancy, blame him not; : None
+4.1 :I dare presume, sweet prince, he thought no harm. : None
+YORK
+4.1 :An if I wist he did,--but let it rest; : None
+4.1 :Other affairs must now be managed. : None
+Exeunt all but EXETER : ["Exeunt - ['ALL', 'EXETER']"] : YORK
+EXETER
+4.1 :Well didst thou, Richard, to suppress thy voice; : None
+4.1 :For, had the passions of thy heart burst out, : None
+4.1 :I fear we should have seen decipher'd there : None
+4.1 :More rancorous spite, more furious raging broils, : None
+4.1 :Than yet can be imagined or supposed. : None
+4.1 :But howsoe'er, no simple man that sees : None
+4.1 :This jarring discord of nobility, : None
+4.1 :This shouldering of each other in the court, : None
+4.1 :This factious bandying of their favourites, : None
+4.1 :But that it doth presage some ill event. : None
+4.1 :'Tis much when sceptres are in children's hands; : None
+4.1 :But more when envy breeds unkind division; : None
+4.1 :There comes the rain, there begins confusion. : None
+Exit : ['Exit - []'] : EXETER
+Scene(scene=2)
+Enter TALBOT, with trump and drum : ["Enter - ['TALBOT']"] : EXETER
+TALBOT
+4.2 :Go to the gates of Bourdeaux, trumpeter: : None
+4.2 :Summon their general unto the wall. : None
+Trumpet sounds. Enter General and others, aloft : ['None - []', "Enter - ['GENERAL']"] : TALBOT
+4.2 :English John Talbot, captains, calls you forth, : None
+4.2 :Servant in arms to Harry King of England; : None
+4.2 :And thus he would: Open your city gates; : None
+4.2 :Be humble to us; call my sovereign yours, : None
+4.2 :And do him homage as obedient subjects; : None
+4.2 :And I'll withdraw me and my bloody power: : None
+4.2 :But, if you frown upon this proffer'd peace, : None
+4.2 :You tempt the fury of my three attendants, : None
+4.2 :Lean famine, quartering steel, and climbing fire; : None
+4.2 :Who in a moment even with the earth : None
+4.2 :Shall lay your stately and air-braving towers, : None
+4.2 :If you forsake the offer of their love. : None
+GENERAL
+4.2 :Thou ominous and fearful owl of death, : None
+4.2 :Our nation's terror and their bloody scourge! : None
+4.2 :The period of thy tyranny approacheth. : None
+4.2 :On us thou canst not enter but by death; : None
+4.2 :For, I protest, we are well fortified : None
+4.2 :And strong enough to issue out and fight: : None
+4.2 :If thou retire, the Dauphin, well appointed, : None
+4.2 :Stands with the snares of war to tangle thee: : None
+4.2 :On either hand thee there are squadrons pitch'd, : None
+4.2 :To wall thee from the liberty of flight; : None
+4.2 :And no way canst thou turn thee for redress, : None
+4.2 :But death doth front thee with apparent spoil : None
+4.2 :And pale destruction meets thee in the face. : None
+4.2 :Ten thousand French have ta'en the sacrament : None
+4.2 :To rive their dangerous artillery : None
+4.2 :Upon no Christian soul but English Talbot. : None
+4.2 :Lo, there thou stand'st, a breathing valiant man, : None
+4.2 :Of an invincible unconquer'd spirit! : None
+4.2 :This is the latest glory of thy praise : None
+4.2 :That I, thy enemy, due thee withal; : None
+4.2 :For ere the glass, that now begins to run, : None
+4.2 :Finish the process of his sandy hour, : None
+4.2 :These eyes, that see thee now well coloured, : None
+4.2 :Shall see thee wither'd, bloody, pale and dead. : None
+Drum afar off : ['None - []'] : GENERAL
+4.2 :Hark! hark! the Dauphin's drum, a warning bell, : None
+4.2 :Sings heavy music to thy timorous soul; : None
+4.2 :And mine shall ring thy dire departure out. : None
+Exeunt General,  & c : ["Exeunt - ['GENERAL']"] : GENERAL
+TALBOT
+4.2 :He fables not; I hear the enemy: : None
+4.2 :Out, some light horsemen, and peruse their wings. : None
+4.2 :O, negligent and heedless discipline! : None
+4.2 :How are we park'd and bounded in a pale, : None
+4.2 :A little herd of England's timorous deer, : None
+4.2 :Mazed with a yelping kennel of French curs! : None
+4.2 :If we be English deer, be then in blood; : None
+4.2 :Not rascal-like, to fall down with a pinch, : None
+4.2 :But rather, moody-mad and desperate stags, : None
+4.2 :Turn on the bloody hounds with heads of steel : None
+4.2 :And make the cowards stand aloof at bay: : None
+4.2 :Sell every man his life as dear as mine, : None
+4.2 :And they shall find dear deer of us, my friends. : None
+4.2 :God and Saint George, Talbot and England's right, : None
+4.2 :Prosper our colours in this dangerous fight! : None
+Exeunt : ['Exeunt - []'] : TALBOT
+Scene(scene=3)
+Enter a Messenger that meets YORK. Enter YORK with trumpet and many Soldiers : ["Enter - ['MESSENGER', 'YORK']", "Enter - ['YORK', 'SOLDIER']"] : TALBOT
+YORK
+4.3 :Are not the speedy scouts return'd again, : None
+4.3 :That dogg'd the mighty army of the Dauphin? : None
+MESSENGER
+4.3 :They are return'd, my lord, and give it out : None
+4.3 :That he is march'd to Bourdeaux with his power, : None
+4.3 :To fight with Talbot: as he march'd along, : None
+4.3 :By your espials were discovered : None
+4.3 :Two mightier troops than that the Dauphin led, : None
+4.3 :Which join'd with him and made their march for Bourdeaux. : None
+YORK
+4.3 :A plague upon that villain Somerset, : None
+4.3 :That thus delays my promised supply : None
+4.3 :Of horsemen, that were levied for this siege! : None
+4.3 :Renowned Talbot doth expect my aid, : None
+4.3 :And I am lowted by a traitor villain : None
+4.3 :And cannot help the noble chevalier: : None
+4.3 :God comfort him in this necessity! : None
+4.3 :If he miscarry, farewell wars in France. : None
+Enter Sir William LUCY : ["Enter - ['LUCY']"] : YORK
+LUCY
+4.3 :Thou princely leader of our English strength, : None
+4.3 :Never so needful on the earth of France, : None
+4.3 :Spur to the rescue of the noble Talbot, : None
+4.3 :Who now is girdled with a waist of iron : None
+4.3 :And hemm'd about with grim destruction: : None
+4.3 :To Bourdeaux, warlike duke! to Bourdeaux, York! : None
+4.3 :Else, farewell Talbot, France, and England's honour. : None
+YORK
+4.3 :O God, that Somerset, who in proud heart : None
+4.3 :Doth stop my cornets, were in Talbot's place! : None
+4.3 :So should we save a valiant gentleman : None
+4.3 :By forfeiting a traitor and a coward. : None
+4.3 :Mad ire and wrathful fury makes me weep, : None
+4.3 :That thus we die, while remiss traitors sleep. : None
+LUCY
+4.3 :O, send some succor to the distress'd lord! : None
+YORK
+4.3 :He dies, we lose; I break my warlike word; : None
+4.3 :We mourn, France smiles; we lose, they daily get; : None
+4.3 :All 'long of this vile traitor Somerset. : None
+LUCY
+4.3 :Then God take mercy on brave Talbot's soul; : None
+4.3 :And on his son young John, who two hours since : None
+4.3 :I met in travel toward his warlike father! : None
+4.3 :This seven years did not Talbot see his son; : None
+4.3 :And now they meet where both their lives are done. : None
+YORK
+4.3 :Alas, what joy shall noble Talbot have : None
+4.3 :To bid his young son welcome to his grave? : None
+4.3 :Away! vexation almost stops my breath, : None
+4.3 :That sunder'd friends greet in the hour of death. : None
+4.3 :Lucy, farewell; no more my fortune can, : None
+4.3 :But curse the cause I cannot aid the man. : None
+4.3 :Maine, Blois, Poictiers, and Tours, are won away, : None
+4.3 :'Long all of Somerset and his delay. : None
+Exit, with his soldiers : ["Exit - ['SOLDIER']"] : YORK
+LUCY
+4.3 :Thus, while the vulture of sedition : None
+4.3 :Feeds in the bosom of such great commanders, : None
+4.3 :Sleeping neglection doth betray to loss : None
+4.3 :The conquest of our scarce cold conqueror, : None
+4.3 :That ever living man of memory, : None
+4.3 :Henry the Fifth: whiles they each other cross, : None
+4.3 :Lives, honours, lands and all hurry to loss. : None
+Exit : ['Exit - []'] : LUCY
+Scene(scene=4)
+Enter SOMERSET, with his army; a Captain of TALBOT's with him : ["Enter - ['SOMERSET', 'CAPTAIN', 'TALBOT']"] : LUCY
+SOMERSET
+4.4 :It is too late; I cannot send them now: : None
+4.4 :This expedition was by York and Talbot : None
+4.4 :Too rashly plotted: all our general force : None
+4.4 :Might with a sally of the very town : None
+4.4 :Be buckled with: the over-daring Talbot : None
+4.4 :Hath sullied all his gloss of former honour : None
+4.4 :By this unheedful, desperate, wild adventure: : None
+4.4 :York set him on to fight and die in shame, : None
+4.4 :That, Talbot dead, great York might bear the name. : None
+CAPTAIN
+4.4 :Here is Sir William Lucy, who with me : None
+4.4 :Set from our o'ermatch'd forces forth for aid. : None
+Enter Sir William LUCY : ["Enter - ['LUCY']"] : CAPTAIN
+SOMERSET
+4.4 :How now, Sir William! whither were you sent? : None
+LUCY
+4.4 :Whither, my lord? from bought and sold Lord Talbot; : None
+4.4 :Who, ring'd about with bold adversity, : None
+4.4 :Cries out for noble York and Somerset, : None
+4.4 :To beat assailing death from his weak legions: : None
+4.4 :And whiles the honourable captain there : None
+4.4 :Drops bloody sweat from his war-wearied limbs, : None
+4.4 :And, in advantage lingering, looks for rescue, : None
+4.4 :You, his false hopes, the trust of England's honour, : None
+4.4 :Keep off aloof with worthless emulation. : None
+4.4 :Let not your private discord keep away : None
+4.4 :The levied succors that should lend him aid, : None
+4.4 :While he, renowned noble gentleman, : None
+4.4 :Yields up his life unto a world of odds: : None
+4.4 :Orleans the Bastard, Charles, Burgundy, : None
+4.4 :Alencon, Reignier, compass him about, : None
+4.4 :And Talbot perisheth by your default. : None
+SOMERSET
+4.4 :York set him on; York should have sent him aid. : None
+LUCY
+4.4 :And York as fast upon your grace exclaims; : None
+4.4 :Swearing that you withhold his levied host, : None
+4.4 :Collected for this expedition. : None
+SOMERSET
+4.4 :York lies; he might have sent and had the horse; : None
+4.4 :I owe him little duty, and less love; : None
+4.4 :And take foul scorn to fawn on him by sending. : None
+LUCY
+4.4 :The fraud of England, not the force of France, : None
+4.4 :Hath now entrapp'd the noble-minded Talbot: : None
+4.4 :Never to England shall he bear his life; : None
+4.4 :But dies, betray'd to fortune by your strife. : None
+SOMERSET
+4.4 :Come, go; I will dispatch the horsemen straight: : None
+4.4 :Within six hours they will be at his aid. : None
+LUCY
+4.4 :Too late comes rescue: he is ta'en or slain; : None
+4.4 :For fly he could not, if he would have fled; : None
+4.4 :And fly would Talbot never, though he might. : None
+SOMERSET
+4.4 :If he be dead, brave Talbot, then adieu! : None
+LUCY
+4.4 :His fame lives in the world, his shame in you. : None
+Exeunt : ['Exeunt - []'] : LUCY
+Scene(scene=5)
+Enter TALBOT and JOHN his son : ["Enter - ['TALBOT']"] : LUCY
+TALBOT
+4.5 :O young John Talbot! I did send for thee : None
+4.5 :To tutor thee in stratagems of war, : None
+4.5 :That Talbot's name might be in thee revived : None
+4.5 :When sapless age and weak unable limbs : None
+4.5 :Should bring thy father to his drooping chair. : None
+4.5 :But, O malignant and ill-boding stars! : None
+4.5 :Now thou art come unto a feast of death, : None
+4.5 :A terrible and unavoided danger: : None
+4.5 :Therefore, dear boy, mount on my swiftest horse; : None
+4.5 :And I'll direct thee how thou shalt escape : None
+4.5 :By sudden flight: come, dally not, be gone. : None
+JOHN TALBOT
+4.5 :Is my name Talbot? and am I your son? : None
+4.5 :And shall I fly? O if you love my mother, : None
+4.5 :Dishonour not her honourable name, : None
+4.5 :To make a bastard and a slave of me! : None
+4.5 :The world will say, he is not Talbot's blood, : None
+4.5 :That basely fled when noble Talbot stood. : None
+TALBOT
+4.5 :Fly, to revenge my death, if I be slain. : None
+JOHN TALBOT
+4.5 :He that flies so will ne'er return again. : None
+TALBOT
+4.5 :If we both stay, we both are sure to die. : None
+JOHN TALBOT
+4.5 :Then let me stay; and, father, do you fly: : None
+4.5 :Your loss is great, so your regard should be; : None
+4.5 :My worth unknown, no loss is known in me. : None
+4.5 :Upon my death the French can little boast; : None
+4.5 :In yours they will, in you all hopes are lost. : None
+4.5 :Flight cannot stain the honour you have won; : None
+4.5 :But mine it will, that no exploit have done: : None
+4.5 :You fled for vantage, everyone will swear; : None
+4.5 :But, if I bow, they'll say it was for fear. : None
+4.5 :There is no hope that ever I will stay, : None
+4.5 :If the first hour I shrink and run away. : None
+4.5 :Here on my knee I beg mortality, : None
+4.5 :Rather than life preserved with infamy. : None
+TALBOT
+4.5 :Shall all thy mother's hopes lie in one tomb? : None
+JOHN TALBOT
+4.5 :Ay, rather than I'll shame my mother's womb. : None
+TALBOT
+4.5 :Upon my blessing, I command thee go. : None
+JOHN TALBOT
+4.5 :To fight I will, but not to fly the foe. : None
+TALBOT
+4.5 :Part of thy father may be saved in thee. : None
+JOHN TALBOT
+4.5 :No part of him but will be shame in me. : None
+TALBOT
+4.5 :Thou never hadst renown, nor canst not lose it. : None
+JOHN TALBOT
+4.5 :Yes, your renowned name: shall flight abuse it? : None
+TALBOT
+4.5 :Thy father's charge shall clear thee from that stain. : None
+JOHN TALBOT
+4.5 :You cannot witness for me, being slain. : None
+4.5 :If death be so apparent, then both fly. : None
+TALBOT
+4.5 :And leave my followers here to fight and die? : None
+4.5 :My age was never tainted with such shame. : None
+JOHN TALBOT
+4.5 :And shall my youth be guilty of such blame? : None
+4.5 :No more can I be sever'd from your side, : None
+4.5 :Than can yourself yourself in twain divide: : None
+4.5 :Stay, go, do what you will, the like do I; : None
+4.5 :For live I will not, if my father die. : None
+TALBOT
+4.5 :Then here I take my leave of thee, fair son, : None
+4.5 :Born to eclipse thy life this afternoon. : None
+4.5 :Come, side by side together live and die. : None
+4.5 :And soul with soul from France to heaven fly. : None
+Exeunt : ['Exeunt - []'] : TALBOT
+Scene(scene=6)
+Alarum: excursions, wherein JOHN TALBOT is hemmed about, and TALBOT rescues him : ["None - ['JOHN TALBOT', 'TALBOT']"] : TALBOT
+TALBOT
+4.6 :Saint George and victory! fight, soldiers, fight. : None
+4.6 :The regent hath with Talbot broke his word : None
+4.6 :And left us to the rage of France his sword. : None
+4.6 :Where is John Talbot? Pause, and take thy breath; : None
+4.6 :I gave thee life and rescued thee from death. : None
+JOHN TALBOT
+4.6 :O, twice my father, twice am I thy son! : None
+4.6 :The life thou gavest me first was lost and done, : None
+4.6 :Till with thy warlike sword, despite of late, : None
+4.6 :To my determined time thou gavest new date. : None
+TALBOT
+4.6 :When from the Dauphin's crest thy sword struck fire, : None
+4.6 :It warm'd thy father's heart with proud desire : None
+4.6 :Of bold-faced victory. Then leaden age, : None
+4.6 :Quicken'd with youthful spleen and warlike rage, : None
+4.6 :Beat down Alencon, Orleans, Burgundy, : None
+4.6 :And from the pride of Gallia rescued thee. : None
+4.6 :The ireful bastard Orleans, that drew blood : None
+4.6 :From thee, my boy, and had the maidenhood : None
+4.6 :Of thy first fight, I soon encountered, : None
+4.6 :And interchanging blows I quickly shed : None
+4.6 :Some of his bastard blood; and in disgrace : None
+4.6 :Bespoke him thus; 'Contaminated, base : None
+4.6 :And misbegotten blood I spill of thine, : None
+4.6 :Mean and right poor, for that pure blood of mine : None
+4.6 :Which thou didst force from Talbot, my brave boy:' : None
+4.6 :Here, purposing the Bastard to destroy, : None
+4.6 :Came in strong rescue. Speak, thy father's care, : None
+4.6 :Art thou not weary, John? how dost thou fare? : None
+4.6 :Wilt thou yet leave the battle, boy, and fly, : None
+4.6 :Now thou art seal'd the son of chivalry? : None
+4.6 :Fly, to revenge my death when I am dead: : None
+4.6 :The help of one stands me in little stead. : None
+4.6 :O, too much folly is it, well I wot, : None
+4.6 :To hazard all our lives in one small boat! : None
+4.6 :If I to-day die not with Frenchmen's rage, : None
+4.6 :To-morrow I shall die with mickle age: : None
+4.6 :By me they nothing gain an if I stay; : None
+4.6 :'Tis but the shortening of my life one day: : None
+4.6 :In thee thy mother dies, our household's name, : None
+4.6 :My death's revenge, thy youth, and England's fame: : None
+4.6 :All these and more we hazard by thy stay; : None
+4.6 :All these are saved if thou wilt fly away. : None
+JOHN TALBOT
+4.6 :The sword of Orleans hath not made me smart; : None
+4.6 :These words of yours draw life-blood from my heart: : None
+4.6 :On that advantage, bought with such a shame, : None
+4.6 :To save a paltry life and slay bright fame, : None
+4.6 :Before young Talbot from old Talbot fly, : None
+4.6 :The coward horse that bears me fail and die! : None
+4.6 :And like me to the peasant boys of France, : None
+4.6 :To be shame's scorn and subject of mischance! : None
+4.6 :Surely, by all the glory you have won, : None
+4.6 :An if I fly, I am not Talbot's son: : None
+4.6 :Then talk no more of flight, it is no boot; : None
+4.6 :If son to Talbot, die at Talbot's foot. : None
+TALBOT
+4.6 :Then follow thou thy desperate sire of Crete, : None
+4.6 :Thou Icarus; thy life to me is sweet: : None
+4.6 :If thou wilt fight, fight by thy father's side; : None
+4.6 :And, commendable proved, let's die in pride. : None
+Exeunt : ['Exeunt - []'] : TALBOT
+Scene(scene=7)
+Alarum: excursions. Enter TALBOT led by a Servant : ['None - []', "Enter - ['TALBOT', 'SERVANT']"] : TALBOT
+TALBOT
+4.7 :Where is my other life? mine own is gone; : None
+4.7 :O, where's young Talbot? where is valiant John? : None
+4.7 :Triumphant death, smear'd with captivity, : None
+4.7 :Young Talbot's valour makes me smile at thee: : None
+4.7 :When he perceived me shrink and on my knee, : None
+4.7 :His bloody sword he brandish'd over me, : None
+4.7 :And, like a hungry lion, did commence : None
+4.7 :Rough deeds of rage and stern impatience; : None
+4.7 :But when my angry guardant stood alone, : None
+4.7 :Tendering my ruin and assail'd of none, : None
+4.7 :Dizzy-eyed fury and great rage of heart : None
+4.7 :Suddenly made him from my side to start : None
+4.7 :Into the clustering battle of the French; : None
+4.7 :And in that sea of blood my boy did drench : None
+4.7 :His over-mounting spirit, and there died, : None
+4.7 :My Icarus, my blossom, in his pride. : None
+SERVANT
+4.7 :O, my dear lord, lo, where your son is borne! : None
+Enter Soldiers, with the body of JOHN TALBOT : ["Enter - ['SOLDIER', 'JOHN TALBOT']"] : SERVANT
+TALBOT
+4.7 :Thou antic death, which laugh'st us here to scorn, : None
+4.7 :Anon, from thy insulting tyranny, : None
+4.7 :Coupled in bonds of perpetuity, : None
+4.7 :Two Talbots, winged through the lither sky, : None
+4.7 :In thy despite shall 'scape mortality. : None
+4.7 :O, thou, whose wounds become hard-favour'd death, : None
+4.7 :Speak to thy father ere thou yield thy breath! : None
+4.7 :Brave death by speaking, whether he will or no; : None
+4.7 :Imagine him a Frenchman and thy foe. : None
+4.7 :Poor boy! he smiles, methinks, as who should say, : None
+4.7 :Had death been French, then death had died to-day. : None
+4.7 :Come, come and lay him in his father's arms: : None
+4.7 :My spirit can no longer bear these harms. : None
+4.7 :Soldiers, adieu! I have what I would have, : None
+4.7 :Now my old arms are young John Talbot's grave. : None
+Dies : ['None - []'] : TALBOT
+Enter CHARLES, ALENCON, BURGUNDY, BASTARD OF ORLEANS, JOAN LA PUCELLE, and forces : ["Enter - ['CHARLES', 'ALENCON', 'BURGUNDY', 'BASTARD OF ORLEANS', 'JOAN LA PUCELLE']"] : TALBOT
+CHARLES
+4.7 :Had York and Somerset brought rescue in, : None
+4.7 :We should have found a bloody day of this. : None
+BASTARD OF ORLEANS
+4.7 :How the young whelp of Talbot's, raging-wood, : None
+4.7 :Did flesh his puny sword in Frenchmen's blood! : None
+JOAN LA PUCELLE
+4.7 :Once I encounter'd him, and thus I said: : None
+4.7 :'Thou maiden youth, be vanquish'd by a maid:' : None
+4.7 :But, with a proud majestical high scorn, : None
+4.7 :He answer'd thus: 'Young Talbot was not born : None
+4.7 :To be the pillage of a giglot wench:' : None
+4.7 :So, rushing in the bowels of the French, : None
+4.7 :He left me proudly, as unworthy fight. : None
+BURGUNDY
+4.7 :Doubtless he would have made a noble knight; : None
+4.7 :See, where he lies inhearsed in the arms : None
+4.7 :Of the most bloody nurser of his harms! : None
+BASTARD OF ORLEANS
+4.7 :Hew them to pieces, hack their bones asunder : None
+4.7 :Whose life was England's glory, Gallia's wonder. : None
+CHARLES
+4.7 :O, no, forbear! for that which we have fled : None
+4.7 :During the life, let us not wrong it dead. : None
+Enter Sir William LUCY, attended; Herald of the French preceding : ["Enter - ['LUCY']"] : CHARLES
+LUCY
+4.7 :Herald, conduct me to the Dauphin's tent, : None
+4.7 :To know who hath obtained the glory of the day. : None
+CHARLES
+4.7 :On what submissive message art thou sent? : None
+LUCY
+4.7 :Submission, Dauphin! 'tis a mere French word; : None
+4.7 :We English warriors wot not what it means. : None
+4.7 :I come to know what prisoners thou hast ta'en : None
+4.7 :And to survey the bodies of the dead. : None
+CHARLES
+4.7 :For prisoners ask'st thou? hell our prison is. : None
+4.7 :But tell me whom thou seek'st. : None
+LUCY
+4.7 :But where's the great Alcides of the field, : None
+4.7 :Valiant Lord Talbot, Earl of Shrewsbury, : None
+4.7 :Created, for his rare success in arms, : None
+4.7 :Great Earl of Washford, Waterford and Valence; : None
+4.7 :Lord Talbot of Goodrig and Urchinfield, : None
+4.7 :Lord Strange of Blackmere, Lord Verdun of Alton, : None
+4.7 :Lord Cromwell of Wingfield, Lord Furnival of Sheffield, : None
+4.7 :The thrice-victorious Lord of Falconbridge; : None
+4.7 :Knight of the noble order of Saint George, : None
+4.7 :Worthy Saint Michael and the Golden Fleece; : None
+4.7 :Great marshal to Henry the Sixth : None
+4.7 :Of all his wars within the realm of France? : None
+JOAN LA PUCELLE
+4.7 :Here is a silly stately style indeed! : None
+4.7 :The Turk, that two and fifty kingdoms hath, : None
+4.7 :Writes not so tedious a style as this. : None
+4.7 :Him that thou magnifiest with all these titles : None
+4.7 :Stinking and fly-blown lies here at our feet. : None
+LUCY
+4.7 :Is Talbot slain, the Frenchmen's only scourge, : None
+4.7 :Your kingdom's terror and black Nemesis? : None
+4.7 :O, were mine eyeballs into bullets turn'd, : None
+4.7 :That I in rage might shoot them at your faces! : None
+4.7 :O, that I could but call these dead to life! : None
+4.7 :It were enough to fright the realm of France: : None
+4.7 :Were but his picture left amongst you here, : None
+4.7 :It would amaze the proudest of you all. : None
+4.7 :Give me their bodies, that I may bear them hence : None
+4.7 :And give them burial as beseems their worth. : None
+JOAN LA PUCELLE
+4.7 :I think this upstart is old Talbot's ghost, : None
+4.7 :He speaks with such a proud commanding spirit. : None
+4.7 :For God's sake let him have 'em; to keep them here, : None
+4.7 :They would but stink, and putrefy the air. : None
+CHARLES
+4.7 :Go, take their bodies hence. : None
+LUCY
+4.7 :I'll bear them hence; but from their ashes shall be rear'd : None
+4.7 :A phoenix that shall make all France afeard. : None
+CHARLES
+4.7 :So we be rid of them, do with 'em what thou wilt. : None
+4.7 :And now to Paris, in this conquering vein: : None
+4.7 :All will be ours, now bloody Talbot's slain. : None
+Exeunt : ['Exeunt - []'] : CHARLES
+Act(act=5)
+Scene(scene=1)
+Sennet. Enter KING HENRY VI, GLOUCESTER, and EXETER : ['None - []', "Enter - ['KING HENRY VI', 'GLOUCESTER', 'EXETER']"] : CHARLES
+KING HENRY VI
+5.1 :Have you perused the letters from the pope, : None
+5.1 :The emperor and the Earl of Armagnac? : None
+GLOUCESTER
+5.1 :I have, my lord: and their intent is this: : None
+5.1 :They humbly sue unto your excellence : None
+5.1 :To have a godly peace concluded of : None
+5.1 :Between the realms of England and of France. : None
+KING HENRY VI
+5.1 :How doth your grace affect their motion? : None
+GLOUCESTER
+5.1 :Well, my good lord; and as the only means : None
+5.1 :To stop effusion of our Christian blood : None
+5.1 :And 'stablish quietness on every side. : None
+KING HENRY VI
+5.1 :Ay, marry, uncle; for I always thought : None
+5.1 :It was both impious and unnatural : None
+5.1 :That such immanity and bloody strife : None
+5.1 :Should reign among professors of one faith. : None
+GLOUCESTER
+5.1 :Beside, my lord, the sooner to effect : None
+5.1 :And surer bind this knot of amity, : None
+5.1 :The Earl of Armagnac, near knit to Charles, : None
+5.1 :A man of great authority in France, : None
+5.1 :Proffers his only daughter to your grace : None
+5.1 :In marriage, with a large and sumptuous dowry. : None
+KING HENRY VI
+5.1 :Marriage, uncle! alas, my years are young! : None
+5.1 :And fitter is my study and my books : None
+5.1 :Than wanton dalliance with a paramour. : None
+5.1 :Yet call the ambassador; and, as you please, : None
+5.1 :So let them have their answers every one: : None
+5.1 :I shall be well content with any choice : None
+5.1 :Tends to God's glory and my country's weal. : None
+Enter CARDINAL OF WINCHESTER in Cardinal's habit, a Legate and two Ambassadors : ["Enter - ['OF WINCHESTER', 'LEGATE']"] : KING HENRY VI
+EXETER
+5.1 :What! is my Lord of Winchester install'd, : None
+5.1 :And call'd unto a cardinal's degree? : None
+5.1 :Then I perceive that will be verified : None
+5.1 :Henry the Fifth did sometime prophesy, : None
+5.1 :'If once he come to be a cardinal, : None
+5.1 :He'll make his cap co-equal with the crown.' : None
+KING HENRY VI
+5.1 :My lords ambassadors, your several suits : None
+5.1 :Have been consider'd and debated on. : None
+5.1 :And therefore are we certainly resolved : None
+5.1 :To draw conditions of a friendly peace; : None
+5.1 :Which by my Lord of Winchester we mean : None
+5.1 :Shall be transported presently to France. : None
+GLOUCESTER
+5.1 :And for the proffer of my lord your master, : None
+5.1 :I have inform'd his highness so at large : None
+5.1 :As liking of the lady's virtuous gifts, : None
+5.1 :Her beauty and the value of her dower, : None
+5.1 :He doth intend she shall be England's queen. : None
+KING HENRY VI
+5.1 :In argument and proof of which contract, : None
+5.1 :Bear her this jewel, pledge of my affection. : None
+5.1 :And so, my lord protector, see them guarded : None
+5.1 :And safely brought to Dover; where inshipp'd : None
+5.1 :Commit them to the fortune of the sea. : None
+Exeunt all but CARDINAL OF WINCHESTER and Legate : ["Exeunt - ['ALL', 'OF WINCHESTER', 'LEGATE']"] : KING HENRY VI
+5.1 :CARDINAL : None
+OF WINCHESTER
+5.1 :Stay, my lord legate: you shall first receive : None
+5.1 :The sum of money which I promised : None
+5.1 :Should be deliver'd to his holiness : None
+5.1 :For clothing me in these grave ornaments. : None
+LEGATE
+5.1 :I will attend upon your lordship's leisure. : None
+5.1 :CARDINAL : None
+OF WINCHESTER
+5.1 :  Now Winchester will not submit, I trow, : Aside : ['Aside - []'] : OF WINCHESTER
+5.1 :Or be inferior to the proudest peer. : None
+5.1 :Humphrey of Gloucester, thou shalt well perceive : None
+5.1 :That, neither in birth or for authority, : None
+5.1 :The bishop will be overborne by thee: : None
+5.1 :I'll either make thee stoop and bend thy knee, : None
+5.1 :Or sack this country with a mutiny. : None
+Exeunt : ['Exeunt - []'] : OF WINCHESTER
+Scene(scene=2)
+Enter CHARLES, BURGUNDY, ALENCON, BASTARD OF ORLEANS, REIGNIER, JOAN LA PUCELLE, and forces : ["Enter - ['CHARLES', 'BURGUNDY', 'ALENCON', 'BASTARD OF ORLEANS', 'REIGNIER', 'JOAN LA PUCELLE']"] : OF WINCHESTER
+CHARLES
+5.2 :These news, my lord, may cheer our drooping spirits: : None
+5.2 :'Tis said the stout Parisians do revolt : None
+5.2 :And turn again unto the warlike French. : None
+ALENCON
+5.2 :Then march to Paris, royal Charles of France, : None
+5.2 :And keep not back your powers in dalliance. : None
+JOAN LA PUCELLE
+5.2 :Peace be amongst them, if they turn to us; : None
+5.2 :Else, ruin combat with their palaces! : None
+Enter Scout : ["Enter - ['SCOUT']"] : JOAN LA PUCELLE
+SCOUT
+5.2 :Success unto our valiant general, : None
+5.2 :And happiness to his accomplices! : None
+CHARLES
+5.2 :What tidings send our scouts? I prithee, speak. : None
+SCOUT
+5.2 :The English army, that divided was : None
+5.2 :Into two parties, is now conjoined in one, : None
+5.2 :And means to give you battle presently. : None
+CHARLES
+5.2 :Somewhat too sudden, sirs, the warning is; : None
+5.2 :But we will presently provide for them. : None
+BURGUNDY
+5.2 :I trust the ghost of Talbot is not there: : None
+5.2 :Now he is gone, my lord, you need not fear. : None
+JOAN LA PUCELLE
+5.2 :Of all base passions, fear is most accursed. : None
+5.2 :Command the conquest, Charles, it shall be thine, : None
+5.2 :Let Henry fret and all the world repine. : None
+CHARLES
+5.2 :Then on, my lords; and France be fortunate! : None
+Exeunt : ['Exeunt - []'] : CHARLES
+Scene(scene=3)
+Alarum. Excursions. Enter JOAN LA PUCELLE : ['None - []', 'None - []', "Enter - ['JOAN LA PUCELLE']"] : CHARLES
+JOAN LA PUCELLE
+5.3 :The regent conquers, and the Frenchmen fly. : None
+5.3 :Now help, ye charming spells and periapts; : None
+5.3 :And ye choice spirits that admonish me : None
+5.3 :And give me signs of future accidents. : None
+Thunder : ['None - []'] : JOAN LA PUCELLE
+5.3 :You speedy helpers, that are substitutes : None
+5.3 :Under the lordly monarch of the north, : None
+5.3 :Appear and aid me in this enterprise. : None
+Enter Fiends : ['Enter - []'] : JOAN LA PUCELLE
+5.3 :This speedy and quick appearance argues proof : None
+5.3 :Of your accustom'd diligence to me. : None
+5.3 :Now, ye familiar spirits, that are cull'd : None
+5.3 :Out of the powerful regions under earth, : None
+5.3 :Help me this once, that France may get the field. : None
+They walk, and speak not : ['None - []'] : JOAN LA PUCELLE
+5.3 :O, hold me not with silence over-long! : None
+5.3 :Where I was wont to feed you with my blood, : None
+5.3 :I'll lop a member off and give it you : None
+5.3 :In earnest of further benefit, : None
+5.3 :So you do condescend to help me now. : None
+They hang their heads : ['None - []'] : JOAN LA PUCELLE
+5.3 :No hope to have redress? My body shall : None
+5.3 :Pay recompense, if you will grant my suit. : None
+They shake their heads : ['None - []'] : JOAN LA PUCELLE
+5.3 :Cannot my body nor blood-sacrifice : None
+5.3 :Entreat you to your wonted furtherance? : None
+5.3 :Then take my soul, my body, soul and all, : None
+5.3 :Before that England give the French the foil. : None
+They depart : ['None - []'] : JOAN LA PUCELLE
+5.3 :See, they forsake me! Now the time is come : None
+5.3 :That France must vail her lofty-plumed crest : None
+5.3 :And let her head fall into England's lap. : None
+5.3 :My ancient incantations are too weak, : None
+5.3 :And hell too strong for me to buckle with: : None
+5.3 :Now, France, thy glory droopeth to the dust. : None
+Exit : ['Exit - []'] : JOAN LA PUCELLE
+Excursions. Re-enter JOAN LA PUCELLE fighting hand  to hand with YORK. JOAN LA PUCELLE is taken. The French fly. : ['None - []', "Re-enter - ['JOAN LA PUCELLE', 'YORK']", "None - ['JOAN LA PUCELLE']", 'None - []', 'None - []'] : JOAN LA PUCELLE
+YORK
+5.3 :Damsel of France, I think I have you fast: : None
+5.3 :Unchain your spirits now with spelling charms : None
+5.3 :And try if they can gain your liberty. : None
+5.3 :A goodly prize, fit for the devil's grace! : None
+5.3 :See, how the ugly wench doth bend her brows, : None
+5.3 :As if with Circe she would change my shape! : None
+JOAN LA PUCELLE
+5.3 :Changed to a worser shape thou canst not be. : None
+YORK
+5.3 :O, Charles the Dauphin is a proper man; : None
+5.3 :No shape but his can please your dainty eye. : None
+JOAN LA PUCELLE
+5.3 :A plaguing mischief light on Charles and thee! : None
+5.3 :And may ye both be suddenly surprised : None
+5.3 :By bloody hands, in sleeping on your beds! : None
+YORK
+5.3 :Fell banning hag, enchantress, hold thy tongue! : None
+JOAN LA PUCELLE
+5.3 :I prithee, give me leave to curse awhile. : None
+YORK
+5.3 :Curse, miscreant, when thou comest to the stake. : None
+Exeunt : ['Exeunt - []'] : YORK
+Alarum. Enter SUFFOLK with MARGARET in his hand : ['None - []', "Enter - ['SUFFOLK', 'MARGARET']"] : YORK
+SUFFOLK
+5.3 :Be what thou wilt, thou art my prisoner. : None
+Gazes on her : ['None - []'] : SUFFOLK
+5.3 :O fairest beauty, do not fear nor fly! : None
+5.3 :For I will touch thee but with reverent hands; : None
+5.3 :I kiss these fingers for eternal peace, : None
+5.3 :And lay them gently on thy tender side. : None
+5.3 :Who art thou? say, that I may honour thee. : None
+MARGARET
+5.3 :Margaret my name, and daughter to a king, : None
+5.3 :The King of Naples, whosoe'er thou art. : None
+SUFFOLK
+5.3 :An earl I am, and Suffolk am I call'd. : None
+5.3 :Be not offended, nature's miracle, : None
+5.3 :Thou art allotted to be ta'en by me: : None
+5.3 :So doth the swan her downy cygnets save, : None
+5.3 :Keeping them prisoner underneath her wings. : None
+5.3 :Yet, if this servile usage once offend. : None
+5.3 :Go, and be free again, as Suffolk's friend. : None
+She is going : ['None - []'] : SUFFOLK
+5.3 :O, stay! I have no power to let her pass; : None
+5.3 :My hand would free her, but my heart says no : None
+5.3 :As plays the sun upon the glassy streams, : None
+5.3 :Twinkling another counterfeited beam, : None
+5.3 :So seems this gorgeous beauty to mine eyes. : None
+5.3 :Fain would I woo her, yet I dare not speak: : None
+5.3 :I'll call for pen and ink, and write my mind. : None
+5.3 :Fie, de la Pole! disable not thyself; : None
+5.3 :Hast not a tongue? is she not here? : None
+5.3 :Wilt thou be daunted at a woman's sight? : None
+5.3 :Ay, beauty's princely majesty is such, : None
+5.3 :Confounds the tongue and makes the senses rough. : None
+MARGARET
+5.3 :Say, Earl of Suffolk--if thy name be so-- : None
+5.3 :What ransom must I pay before I pass? : None
+5.3 :For I perceive I am thy prisoner. : None
+SUFFOLK
+5.3 :How canst thou tell she will deny thy suit, : None
+5.3 :Before thou make a trial of her love? : None
+MARGARET
+5.3 :Why speak'st thou not? what ransom must I pay? : None
+SUFFOLK
+5.3 :She's beautiful, and therefore to be woo'd; : None
+5.3 :She is a woman, therefore to be won. : None
+MARGARET
+5.3 :Wilt thou accept of ransom? yea, or no. : None
+SUFFOLK
+5.3 :Fond man, remember that thou hast a wife; : None
+5.3 :Then how can Margaret be thy paramour? : None
+MARGARET
+5.3 :I were best to leave him, for he will not hear. : None
+SUFFOLK
+5.3 :There all is marr'd; there lies a cooling card. : None
+MARGARET
+5.3 :He talks at random; sure, the man is mad. : None
+SUFFOLK
+5.3 :And yet a dispensation may be had. : None
+MARGARET
+5.3 :And yet I would that you would answer me. : None
+SUFFOLK
+5.3 :I'll win this Lady Margaret. For whom? : None
+5.3 :Why, for my king: tush, that's a wooden thing! : None
+MARGARET
+5.3 :He talks of wood: it is some carpenter. : None
+SUFFOLK
+5.3 :Yet so my fancy may be satisfied, : None
+5.3 :And peace established between these realms : None
+5.3 :But there remains a scruple in that too; : None
+5.3 :For though her father be the King of Naples, : None
+5.3 :Duke of Anjou and Maine, yet is he poor, : None
+5.3 :And our nobility will scorn the match. : None
+MARGARET
+5.3 :Hear ye, captain, are you not at leisure? : None
+SUFFOLK
+5.3 :It shall be so, disdain they ne'er so much. : None
+5.3 :Henry is youthful and will quickly yield. : None
+5.3 :Madam, I have a secret to reveal. : None
+MARGARET
+5.3 :What though I be enthrall'd? he seems a knight, : None
+5.3 :And will not any way dishonour me. : None
+SUFFOLK
+5.3 :Lady, vouchsafe to listen what I say. : None
+MARGARET
+5.3 :Perhaps I shall be rescued by the French; : None
+5.3 :And then I need not crave his courtesy. : None
+SUFFOLK
+5.3 :Sweet madam, give me a hearing in a cause-- : None
+MARGARET
+5.3 :Tush, women have been captivate ere now. : None
+SUFFOLK
+5.3 :Lady, wherefore talk you so? : None
+MARGARET
+5.3 :I cry you mercy, 'tis but Quid for Quo. : None
+SUFFOLK
+5.3 :Say, gentle princess, would you not suppose : None
+5.3 :Your bondage happy, to be made a queen? : None
+MARGARET
+5.3 :To be a queen in bondage is more vile : None
+5.3 :Than is a slave in base servility; : None
+5.3 :For princes should be free. : None
+SUFFOLK
+5.3 :And so shall you, : None
+5.3 :If happy England's royal king be free. : None
+MARGARET
+5.3 :Why, what concerns his freedom unto me? : None
+SUFFOLK
+5.3 :I'll undertake to make thee Henry's queen, : None
+5.3 :To put a golden sceptre in thy hand : None
+5.3 :And set a precious crown upon thy head, : None
+5.3 :If thou wilt condescend to be my-- : None
+MARGARET
+5.3 :What? : None
+SUFFOLK
+5.3 :His love. : None
+MARGARET
+5.3 :I am unworthy to be Henry's wife. : None
+SUFFOLK
+5.3 :No, gentle madam; I unworthy am : None
+5.3 :To woo so fair a dame to be his wife, : None
+5.3 :And have no portion in the choice myself. : None
+5.3 :How say you, madam, are ye so content? : None
+MARGARET
+5.3 :An if my father please, I am content. : None
+SUFFOLK
+5.3 :Then call our captains and our colours forth. : None
+5.3 :And, madam, at your father's castle walls : None
+5.3 :We'll crave a parley, to confer with him. : None
+A parley sounded. Enter REIGNIER on the walls : ['None - []', "Enter - ['REIGNIER', 'ALL']"] : SUFFOLK
+5.3 :See, Reignier, see, thy daughter prisoner! : None
+REIGNIER
+5.3 :To whom? : None
+SUFFOLK
+5.3 :       To me. : None
+REIGNIER
+5.3 :                  Suffolk, what remedy? : None
+5.3 :I am a soldier, and unapt to weep, : None
+5.3 :Or to exclaim on fortune's fickleness. : None
+SU FFOLK
+5.3 :Yes, there is remedy enough, my lord: : None
+5.3 :Consent, and for thy honour give consent, : None
+5.3 :Thy daughter shall be wedded to my king; : None
+5.3 :Whom I with pain have woo'd and won thereto; : None
+5.3 :And this her easy-held imprisonment : None
+5.3 :Hath gained thy daughter princely liberty. : None
+REIGNIER
+5.3 :Speaks Suffolk as he thinks? : None
+SUFFOLK
+5.3 :Fair Margaret knows : None
+5.3 :That Suffolk doth not flatter, face, or feign. : None
+REIGNIER
+5.3 :Upon thy princely warrant, I descend : None
+5.3 :To give thee answer of thy just demand. : None
+Exit from the walls : ["Exit - ['ALL']"] : REIGNIER
+SUFFOLK
+5.3 :And here I will expect thy coming. : None
+Trumpets sound. Enter REIGNIER, below : ['None - []', "Enter - ['REIGNIER']"] : SUFFOLK
+REIGNIER
+5.3 :Welcome, brave earl, into our territories: : None
+5.3 :Command in Anjou what your honour pleases. : None
+SUFFOLK
+5.3 :Thanks, Reignier, happy for so sweet a child, : None
+5.3 :Fit to be made companion with a king: : None
+5.3 :What answer makes your grace unto my suit? : None
+REIGNIER
+5.3 :Since thou dost deign to woo her little worth : None
+5.3 :To be the princely bride of such a lord; : None
+5.3 :Upon condition I may quietly : None
+5.3 :Enjoy mine own, the country Maine and Anjou, : None
+5.3 :Free from oppression or the stroke of war, : None
+5.3 :My daughter shall be Henry's, if he please. : None
+SUFFOLK
+5.3 :That is her ransom; I deliver her; : None
+5.3 :And those two counties I will undertake : None
+5.3 :Your grace shall well and quietly enjoy. : None
+REIGNIER
+5.3 :And I again, in Henry's royal name, : None
+5.3 :As deputy unto that gracious king, : None
+5.3 :Give thee her hand, for sign of plighted faith. : None
+SUFFOLK
+5.3 :Reignier of France, I give thee kingly thanks, : None
+5.3 :Because this is in traffic of a king. : None
+Aside : ['Aside - []'] : SUFFOLK
+5.3 :And yet, methinks, I could be well content : None
+5.3 :To be mine own attorney in this case. : None
+5.3 :I'll over then to England with this news, : None
+5.3 :And make this marriage to be solemnized. : None
+5.3 :So farewell, Reignier: set this diamond safe : None
+5.3 :In golden palaces, as it becomes. : None
+REIGNIER
+5.3 :I do embrace thee, as I would embrace : None
+5.3 :The Christian prince, King Henry, were he here. : None
+MARGARET
+5.3 :Farewell, my lord: good wishes, praise and prayers : None
+5.3 :Shall Suffolk ever have of Margaret. : None
+Going : ['None - []'] : MARGARET
+SUFFOLK
+5.3 :Farewell, sweet madam: but hark you, Margaret; : None
+5.3 :No princely commendations to my king? : None
+MARGARET
+5.3 :Such commendations as becomes a maid, : None
+5.3 :A virgin and his servant, say to him. : None
+SUFFOLK
+5.3 :Words sweetly placed and modestly directed. : None
+5.3 :But madam, I must trouble you again; : None
+5.3 :No loving token to his majesty? : None
+MARGARET
+5.3 :Yes, my good lord, a pure unspotted heart, : None
+5.3 :Never yet taint with love, I send the king. : None
+SUFFOLK
+5.3 :And this withal. : None
+Kisses her : ['None - []'] : SUFFOLK
+MARGARET
+5.3 :That for thyself: I will not so presume : None
+5.3 :To send such peevish tokens to a king. : None
+Exeunt REIGNIER and MARGARET : ["Exeunt - ['REIGNIER', 'MARGARET']"] : MARGARET
+SUFFOLK
+5.3 :O, wert thou for myself! But, Suffolk, stay; : None
+5.3 :Thou mayst not wander in that labyrinth; : None
+5.3 :There Minotaurs and ugly treasons lurk. : None
+5.3 :Solicit Henry with her wondrous praise: : None
+5.3 :Bethink thee on her virtues that surmount, : None
+5.3 :And natural graces that extinguish art; : None
+5.3 :Repeat their semblance often on the seas, : None
+5.3 :That, when thou comest to kneel at Henry's feet, : None
+5.3 :Thou mayst bereave him of his wits with wonder. : None
+Exit : ['Exit - []'] : SUFFOLK
+Scene(scene=4)
+Enter YORK, WARWICK, and others : ["Enter - ['YORK', 'WARWICK']"] : SUFFOLK
+YORK
+5.4 :Bring forth that sorceress condemn'd to burn. : None
+Enter JOAN LA PUCELLE, guarded, and a Shepherd : ["Enter - ['JOAN LA PUCELLE', 'SHEPHERD']"] : YORK
+SHEPHERD
+5.4 :Ah, Joan, this kills thy father's heart outright! : None
+5.4 :Have I sought every country far and near, : None
+5.4 :And, now it is my chance to find thee out, : None
+5.4 :Must I behold thy timeless cruel death? : None
+5.4 :Ah, Joan, sweet daughter Joan, I'll die with thee! : None
+JOAN LA PUCELLE
+5.4 :Decrepit miser! base ignoble wretch! : None
+5.4 :I am descended of a gentler blood: : None
+5.4 :Thou art no father nor no friend of mine. : None
+SHEPHERD
+5.4 :Out, out! My lords, an please you, 'tis not so; : None
+5.4 :I did beget her, all the parish knows: : None
+5.4 :Her mother liveth yet, can testify : None
+5.4 :She was the first fruit of my bachelorship. : None
+WARWICK
+5.4 :Graceless! wilt thou deny thy parentage? : None
+YORK
+5.4 :This argues what her kind of life hath been, : None
+5.4 :Wicked and vile; and so her death concludes. : None
+SHEPHERD
+5.4 :Fie, Joan, that thou wilt be so obstacle! : None
+5.4 :God knows thou art a collop of my flesh; : None
+5.4 :And for thy sake have I shed many a tear: : None
+5.4 :Deny me not, I prithee, gentle Joan. : None
+JOAN LA PUCELLE
+5.4 :Peasant, avaunt! You have suborn'd this man, : None
+5.4 :Of purpose to obscure my noble birth. : None
+SHEPHERD
+5.4 :'Tis true, I gave a noble to the priest : None
+5.4 :The morn that I was wedded to her mother. : None
+5.4 :Kneel down and take my blessing, good my girl. : None
+5.4 :Wilt thou not stoop? Now cursed be the time : None
+5.4 :Of thy nativity! I would the milk : None
+5.4 :Thy mother gave thee when thou suck'dst her breast, : None
+5.4 :Had been a little ratsbane for thy sake! : None
+5.4 :Or else, when thou didst keep my lambs a-field, : None
+5.4 :I wish some ravenous wolf had eaten thee! : None
+5.4 :Dost thou deny thy father, cursed drab? : None
+5.4 :O, burn her, burn her! hanging is too good. : None
+Exit : ['Exit - []'] : SHEPHERD
+YORK
+5.4 :Take her away; for she hath lived too long, : None
+5.4 :To fill the world with vicious qualities. : None
+JOAN LA PUCELLE
+5.4 :First, let me tell you whom you have condemn'd: : None
+5.4 :Not me begotten of a shepherd swain, : None
+5.4 :But issued from the progeny of kings; : None
+5.4 :Virtuous and holy; chosen from above, : None
+5.4 :By inspiration of celestial grace, : None
+5.4 :To work exceeding miracles on earth. : None
+5.4 :I never had to do with wicked spirits: : None
+5.4 :But you, that are polluted with your lusts, : None
+5.4 :Stain'd with the guiltless blood of innocents, : None
+5.4 :Corrupt and tainted with a thousand vices, : None
+5.4 :Because you want the grace that others have, : None
+5.4 :You judge it straight a thing impossible : None
+5.4 :To compass wonders but by help of devils. : None
+5.4 :No, misconceived! Joan of Arc hath been : None
+5.4 :A virgin from her tender infancy, : None
+5.4 :Chaste and immaculate in very thought; : None
+5.4 :Whose maiden blood, thus rigorously effused, : None
+5.4 :Will cry for vengeance at the gates of heaven. : None
+YORK
+5.4 :Ay, ay: away with her to execution! : None
+WARWICK
+5.4 :And hark ye, sirs; because she is a maid, : None
+5.4 :Spare for no faggots, let there be enow: : None
+5.4 :Place barrels of pitch upon the fatal stake, : None
+5.4 :That so her torture may be shortened. : None
+JOAN LA PUCELLE
+5.4 :Will nothing turn your unrelenting hearts? : None
+5.4 :Then, Joan, discover thine infirmity, : None
+5.4 :That warranteth by law to be thy privilege. : None
+5.4 :I am with child, ye bloody homicides: : None
+5.4 :Murder not then the fruit within my womb, : None
+5.4 :Although ye hale me to a violent death. : None
+YORK
+5.4 :Now heaven forfend! the holy maid with child! : None
+WARWICK
+5.4 :The greatest miracle that e'er ye wrought: : None
+5.4 :Is all your strict preciseness come to this? : None
+YORK
+5.4 :She and the Dauphin have been juggling: : None
+5.4 :I did imagine what would be her refuge. : None
+WARWICK
+5.4 :Well, go to; we'll have no bastards live; : None
+5.4 :Especially since Charles must father it. : None
+JOAN LA PUCELLE
+5.4 :You are deceived; my child is none of his: : None
+5.4 :It was Alencon that enjoy'd my love. : None
+YORK
+5.4 :Alencon! that notorious Machiavel! : None
+5.4 :It dies, an if it had a thousand lives. : None
+JOAN LA PUCELLE
+5.4 :O, give me leave, I have deluded you: : None
+5.4 :'Twas neither Charles nor yet the duke I named, : None
+5.4 :But Reignier, king of Naples, that prevail'd. : None
+WARWICK
+5.4 :A married man! that's most intolerable. : None
+YORK
+5.4 :Why, here's a girl! I think she knows not well, : None
+5.4 :There were so many, whom she may accuse. : None
+WARWICK
+5.4 :It's sign she hath been liberal and free. : None
+YORK
+5.4 :And yet, forsooth, she is a virgin pure. : None
+5.4 :Strumpet, thy words condemn thy brat and thee: : None
+5.4 :Use no entreaty, for it is in vain. : None
+JOAN LA PUCELLE
+5.4 :Then lead me hence; with whom I leave my curse: : None
+5.4 :May never glorious sun reflex his beams : None
+5.4 :Upon the country where you make abode; : None
+5.4 :But darkness and the gloomy shade of death : None
+5.4 :Environ you, till mischief and despair : None
+5.4 :Drive you to break your necks or hang yourselves! : None
+Exit, guarded : ['Exit - []'] : JOAN LA PUCELLE
+YORK
+5.4 :Break thou in pieces and consume to ashes, : None
+5.4 :Thou foul accursed minister of hell! : None
+Enter CARDINAL OF WINCHESTER, attended : ["Enter - ['OF WINCHESTER']"] : YORK
+5.4 :CARDINAL : None
+OF WINCHESTER
+5.4 :Lord regent, I do greet your excellence : None
+5.4 :With letters of commission from the king. : None
+5.4 :For know, my lords, the states of Christendom, : None
+5.4 :Moved with remorse of these outrageous broils, : None
+5.4 :Have earnestly implored a general peace : None
+5.4 :Betwixt our nation and the aspiring French; : None
+5.4 :And here at hand the Dauphin and his train : None
+5.4 :Approacheth, to confer about some matter. : None
+YORK
+5.4 : Is all our travail turn'd to this effect? : None
+5.4 :After the slaughter of so many peers, : None
+5.4 :So many captains, gentlemen and soldiers, : None
+5.4 :That in this quarrel have been overthrown : None
+5.4 :And sold their bodies for their country's benefit, : None
+5.4 :Shall we at last conclude effeminate peace? : None
+5.4 :Have we not lost most part of all the towns, : None
+5.4 :By treason, falsehood and by treachery, : None
+5.4 :Our great progenitors had conquered? : None
+5.4 :O Warwick, Warwick! I foresee with grief : None
+5.4 :The utter loss of all the realm of France. : None
+WARWICK
+5.4 :Be patient, York: if we conclude a peace, : None
+5.4 :It shall be with such strict and severe covenants : None
+5.4 :As little shall the Frenchmen gain thereby. : None
+Enter CHARLES, ALENCON, BASTARD OF ORLEANS, REIGNIER, and others : ["Enter - ['CHARLES', 'ALENCON', 'BASTARD OF ORLEANS', 'REIGNIER']"] : WARWICK
+CHARLES
+5.4 :Since, lords of England, it is thus agreed : None
+5.4 :That peaceful truce shall be proclaim'd in France, : None
+5.4 :We come to be informed by yourselves : None
+5.4 :What the conditions of that league must be. : None
+YORK
+5.4 :Speak, Winchester; for boiling choler chokes : None
+5.4 :The hollow passage of my poison'd voice, : None
+5.4 :By sight of these our baleful enemies. : None
+5.4 :CARDINAL : None
+OF WINCHESTER
+5.4 :Charles, and the rest, it is enacted thus: : None
+5.4 :That, in regard King Henry gives consent, : None
+5.4 :Of mere compassion and of lenity, : None
+5.4 :To ease your country of distressful war, : None
+5.4 :And suffer you to breathe in fruitful peace, : None
+5.4 :You shall become true liegemen to his crown: : None
+5.4 :And Charles, upon condition thou wilt swear : None
+5.4 :To pay him tribute, submit thyself, : None
+5.4 :Thou shalt be placed as viceroy under him, : None
+5.4 :And still enjoy thy regal dignity. : None
+ALENCON
+5.4 :Must he be then as shadow of himself? : None
+5.4 :Adorn his temples with a coronet, : None
+5.4 :And yet, in substance and authority, : None
+5.4 :Retain but privilege of a private man? : None
+5.4 :This proffer is absurd and reasonless. : None
+CHARLES
+5.4 :'Tis known already that I am possess'd : None
+5.4 :With more than half the Gallian territories, : None
+5.4 :And therein reverenced for their lawful king: : None
+5.4 :Shall I, for lucre of the rest unvanquish'd, : None
+5.4 :Detract so much from that prerogative, : None
+5.4 :As to be call'd but viceroy of the whole? : None
+5.4 :No, lord ambassador, I'll rather keep : None
+5.4 :That which I have than, coveting for more, : None
+5.4 :Be cast from possibility of all. : None
+YORK
+5.4 :Insulting Charles! hast thou by secret means : None
+5.4 :Used intercession to obtain a league, : None
+5.4 :And, now the matter grows to compromise, : None
+5.4 :Stand'st thou aloof upon comparison? : None
+5.4 :Either accept the title thou usurp'st, : None
+5.4 :Of benefit proceeding from our king : None
+5.4 :And not of any challenge of desert, : None
+5.4 :Or we will plague thee with incessant wars. : None
+REIGNIER
+5.4 :My lord, you do not well in obstinacy : None
+5.4 :To cavil in the course of this contract: : None
+5.4 :If once it be neglected, ten to one : None
+5.4 :We shall not find like opportunity. : None
+ALENCON
+5.4 :To say the truth, it is your policy : None
+5.4 :To save your subjects from such massacre : None
+5.4 :And ruthless slaughters as are daily seen : None
+5.4 :By our proceeding in hostility; : None
+5.4 :And therefore take this compact of a truce, : None
+5.4 :Although you break it when your pleasure serves. : None
+WARWICK
+5.4 :How say'st thou, Charles? shall our condition stand? : None
+CHARLES
+5.4 :It shall; : None
+5.4 :Only reserved, you claim no interest : None
+5.4 :In any of our towns of garrison. : None
+YORK
+5.4 :Then swear allegiance to his majesty, : None
+5.4 :As thou art knight, never to disobey : None
+5.4 :Nor be rebellious to the crown of England, : None
+5.4 :Thou, nor thy nobles, to the crown of England. : None
+5.4 :So, now dismiss your army when ye please: : None
+5.4 :Hang up your ensign, let your drums be still, : None
+5.4 :For here we entertain a solemn peace. : None
+Exeunt : ['Exeunt - []'] : YORK
+Scene(scene=5)
+Enter SUFFOLK in conference with KING HENRY VI, GLOUCESTER and EXETER : ["Enter - ['SUFFOLK', 'KING HENRY VI', 'GLOUCESTER', 'EXETER']"] : YORK
+KING HENRY VI
+5.5 :Your wondrous rare description, noble earl, : None
+5.5 :Of beauteous Margaret hath astonish'd me: : None
+5.5 :Her virtues graced with external gifts : None
+5.5 :Do breed love's settled passions in my heart: : None
+5.5 :And like as rigor of tempestuous gusts : None
+5.5 :Provokes the mightiest hulk against the tide, : None
+5.5 :So am I driven by breath of her renown : None
+5.5 :Either to suffer shipwreck or arrive : None
+5.5 :Where I may have fruition of her love. : None
+SUFFOLK
+5.5 :Tush, my good lord, this superficial tale : None
+5.5 :Is but a preface of her worthy praise; : None
+5.5 :The chief perfections of that lovely dame : None
+5.5 :Had I sufficient skill to utter them, : None
+5.5 :Would make a volume of enticing lines, : None
+5.5 :Able to ravish any dull conceit: : None
+5.5 :And, which is more, she is not so divine, : None
+5.5 :So full-replete with choice of all delights, : None
+5.5 :But with as humble lowliness of mind : None
+5.5 :She is content to be at your command; : None
+5.5 :Command, I mean, of virtuous chaste intents, : None
+5.5 :To love and honour Henry as her lord. : None
+KING HENRY VI
+5.5 :And otherwise will Henry ne'er presume. : None
+5.5 :Therefore, my lord protector, give consent : None
+5.5 :That Margaret may be England's royal queen. : None
+GLOUCESTER
+5.5 :So should I give consent to flatter sin. : None
+5.5 :You know, my lord, your highness is betroth'd : None
+5.5 :Unto another lady of esteem: : None
+5.5 :How shall we then dispense with that contract, : None
+5.5 :And not deface your honour with reproach? : None
+SUFFOLK
+5.5 :As doth a ruler with unlawful oaths; : None
+5.5 :Or one that, at a triumph having vow'd : None
+5.5 :To try his strength, forsaketh yet the lists : None
+5.5 :By reason of his adversary's odds: : None
+5.5 :A poor earl's daughter is unequal odds, : None
+5.5 :And therefore may be broke without offence. : None
+GLOUCESTER
+5.5 :Why, what, I pray, is Margaret more than that? : None
+5.5 :Her father is no better than an earl, : None
+5.5 :Although in glorious titles he excel. : None
+SUFFOLK
+5.5 :Yes, lord, her father is a king, : None
+5.5 :The King of Naples and Jerusalem; : None
+5.5 :And of such great authority in France : None
+5.5 :As his alliance will confirm our peace : None
+5.5 :And keep the Frenchmen in allegiance. : None
+GLOUCESTER
+5.5 :And so the Earl of Armagnac may do, : None
+5.5 :Because he is near kinsman unto Charles. : None
+EXETER
+5.5 :Beside, his wealth doth warrant a liberal dower, : None
+5.5 :Where Reignier sooner will receive than give. : None
+SUFFOLK
+5.5 :A dower, my lords! disgrace not so your king, : None
+5.5 :That he should be so abject, base and poor, : None
+5.5 :To choose for wealth and not for perfect love. : None
+5.5 :Henry is able to enrich his queen : None
+5.5 :And not seek a queen to make him rich: : None
+5.5 :So worthless peasants bargain for their wives, : None
+5.5 :As market-men for oxen, sheep, or horse. : None
+5.5 :Marriage is a matter of more worth : None
+5.5 :Than to be dealt in by attorneyship; : None
+5.5 :Not whom we will, but whom his grace affects, : None
+5.5 :Must be companion of his nuptial bed: : None
+5.5 :And therefore, lords, since he affects her most, : None
+5.5 :It most of all these reasons bindeth us, : None
+5.5 :In our opinions she should be preferr'd. : None
+5.5 :For what is wedlock forced but a hell, : None
+5.5 :An age of discord and continual strife? : None
+5.5 :Whereas the contrary bringeth bliss, : None
+5.5 :And is a pattern of celestial peace. : None
+5.5 :Whom should we match with Henry, being a king, : None
+5.5 :But Margaret, that is daughter to a king? : None
+5.5 :Her peerless feature, joined with her birth, : None
+5.5 :Approves her fit for none but for a king: : None
+5.5 :Her valiant courage and undaunted spirit, : None
+5.5 :More than in women commonly is seen, : None
+5.5 :Will answer our hope in issue of a king; : None
+5.5 :For Henry, son unto a conqueror, : None
+5.5 :Is likely to beget more conquerors, : None
+5.5 :If with a lady of so high resolve : None
+5.5 :As is fair Margaret he be link'd in love. : None
+5.5 :Then yield, my lords; and here conclude with me : None
+5.5 :That Margaret shall be queen, and none but she. : None
+KING HENRY VI
+5.5 :Whether it be through force of your report, : None
+5.5 :My noble Lord of Suffolk, or for that : None
+5.5 :My tender youth was never yet attaint : None
+5.5 :With any passion of inflaming love, : None
+5.5 :I cannot tell; but this I am assured, : None
+5.5 :I feel such sharp dissension in my breast, : None
+5.5 :Such fierce alarums both of hope and fear, : None
+5.5 :As I am sick with working of my thoughts. : None
+5.5 :Take, therefore, shipping; post, my lord, to France; : None
+5.5 :Agree to any covenants, and procure : None
+5.5 :That Lady Margaret do vouchsafe to come : None
+5.5 :To cross the seas to England and be crown'd : None
+5.5 :King Henry's faithful and anointed queen: : None
+5.5 :For your expenses and sufficient charge, : None
+5.5 :Among the people gather up a tenth. : None
+5.5 :Be gone, I say; for, till you do return, : None
+5.5 :I rest perplexed with a thousand cares. : None
+5.5 :And you, good uncle, banish all offence: : None
+5.5 :If you do censure me by what you were, : None
+5.5 :Not what you are, I know it will excuse : None
+5.5 :This sudden execution of my will. : None
+5.5 :And so, conduct me where, from company, : None
+5.5 :I may revolve and ruminate my grief. : None
+Exit : ['Exit - []'] : KING HENRY VI
+GLOUCESTER
+5.5 :Ay, grief, I fear me, both at first and last. : None
+Exeunt GLOUCESTER and EXETER : ["Exeunt - ['GLOUCESTER', 'EXETER']"] : GLOUCESTER
+SUFFOLK
+5.5 :Thus Suffolk hath prevail'd; and thus he goes, : None
+5.5 :As did the youthful Paris once to Greece, : None
+5.5 :With hope to find the like event in love, : None
+5.5 :But prosper better than the Trojan did. : None
+5.5 :Margaret shall now be queen, and rule the king; : None
+5.5 :But I will rule both her, the king and realm. : None
+Exit : ['Exit - []'] : SUFFOLK

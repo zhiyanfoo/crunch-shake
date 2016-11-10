@@ -1,0 +1,4220 @@
+Act(act=1)
+Scene(scene=1)
+Enter LORD BARDOLPH : ["Enter - ['LORD BARDOLPH']"] : None
+LORD BARDOLPH
+1.1 :Who keeps the gate here, ho? : None
+The Porter opens the gate : ["None - ['PORTER']"] : LORD BARDOLPH
+1.1 :Where is the earl? : None
+PORTER
+1.1 :What shall I say you are? : None
+LORD BARDOLPH
+1.1 :Tell thou the earl : None
+1.1 :That the Lord Bardolph doth attend him here. : None
+PORTER
+1.1 :His lordship is walk'd forth into the orchard; : None
+1.1 :Please it your honour, knock but at the gate, : None
+1.1 :And he himself wilt answer. : None
+Enter NORTHUMBERLAND : ["Enter - ['NORTHUMBERLAND']"] : PORTER
+LORD BARDOLPH
+1.1 :Here comes the earl. : None
+Exit Porter : ["Exit - ['PORTER']"] : LORD BARDOLPH
+NORTHUMBERLAND
+1.1 :What news, Lord Bardolph? every minute now : None
+1.1 :Should be the father of some stratagem: : None
+1.1 :The times are wild: contention, like a horse : None
+1.1 :Full of high feeding, madly hath broke loose : None
+1.1 :And bears down all before him. : None
+LORD BARDOLPH
+1.1 :Noble earl, : None
+1.1 :I bring you certain news from Shrewsbury. : None
+NORTHUMBERLAND
+1.1 :Good, an God will! : None
+LORD BARDOLPH
+1.1 :                  As good as heart can wish: : None
+1.1 :The king is almost wounded to the death; : None
+1.1 :And, in the fortune of my lord your son, : None
+1.1 :Prince Harry slain outright; and both the Blunts : None
+1.1 :Kill'd by the hand of Douglas; young Prince John : None
+1.1 :And Westmoreland and Stafford fled the field; : None
+1.1 :And Harry Monmouth's brawn, the hulk Sir John, : None
+1.1 :Is prisoner to your son: O, such a day, : None
+1.1 :So fought, so follow'd and so fairly won, : None
+1.1 :Came not till now to dignify the times, : None
+1.1 :Since Caesar's fortunes! : None
+NORTHUMBERLAND
+1.1 :How is this derived? : None
+1.1 :Saw you the field? came you from Shrewsbury? : None
+LORD BARDOLPH
+1.1 :I spake with one, my lord, that came from thence, : None
+1.1 :A gentleman well bred and of good name, : None
+1.1 :That freely render'd me these news for true. : None
+NORTHUMBERLAND
+1.1 :Here comes my servant Travers, whom I sent : None
+1.1 :On Tuesday last to listen after news. : None
+Enter TRAVERS : ["Enter - ['TRAVERS']"] : NORTHUMBERLAND
+LORD BARDOLPH
+1.1 :My lord, I over-rode him on the way; : None
+1.1 :And he is furnish'd with no certainties : None
+1.1 :More than he haply may retail from me. : None
+NORTHUMBERLAND
+1.1 :Now, Travers, what good tidings comes with you? : None
+TRAVERS
+1.1 :My lord, Sir John Umfrevile turn'd me back : None
+1.1 :With joyful tidings; and, being better horsed, : None
+1.1 :Out-rode me. After him came spurring hard : None
+1.1 :A gentleman, almost forspent with speed, : None
+1.1 :That stopp'd by me to breathe his bloodied horse. : None
+1.1 :He ask'd the way to Chester; and of him : None
+1.1 :I did demand what news from Shrewsbury: : None
+1.1 :He told me that rebellion had bad luck : None
+1.1 :And that young Harry Percy's spur was cold. : None
+1.1 :With that, he gave his able horse the head, : None
+1.1 :And bending forward struck his armed heels : None
+1.1 :Against the panting sides of his poor jade : None
+1.1 :Up to the rowel-head, and starting so : None
+1.1 :He seem'd in running to devour the way, : None
+1.1 :Staying no longer question. : None
+NORTHUMBERLAND
+1.1 :Ha! Again: : None
+1.1 :Said he young Harry Percy's spur was cold? : None
+1.1 :Of Hotspur Coldspur? that rebellion : None
+1.1 :Had met ill luck? : None
+LORD BARDOLPH
+1.1 :                  My lord, I'll tell you what; : None
+1.1 :If my young lord your son have not the day, : None
+1.1 :Upon mine honour, for a silken point : None
+1.1 :I'll give my barony: never talk of it. : None
+NORTHUMBERLAND
+1.1 :Why should that gentleman that rode by Travers : None
+1.1 :Give then such instances of loss? : None
+LORD BARDOLPH
+1.1 :Who, he? : None
+1.1 :He was some hilding fellow that had stolen : None
+1.1 :The horse he rode on, and, upon my life, : None
+1.1 :Spoke at a venture. Look, here comes more news. : None
+Enter MORTON : ["Enter - ['MORTON']"] : LORD BARDOLPH
+NORTHUMBERLAND
+1.1 :Yea, this man's brow, like to a title-leaf, : None
+1.1 :Foretells the nature of a tragic volume: : None
+1.1 :So looks the strand whereon the imperious flood : None
+1.1 :Hath left a witness'd usurpation. : None
+1.1 :Say, Morton, didst thou come from Shrewsbury? : None
+MORTON
+1.1 :I ran from Shrewsbury, my noble lord; : None
+1.1 :Where hateful death put on his ugliest mask : None
+1.1 :To fright our party. : None
+NORTHUMBERLAND
+1.1 :How doth my son and brother? : None
+1.1 :Thou tremblest; and the whiteness in thy cheek : None
+1.1 :Is apter than thy tongue to tell thy errand. : None
+1.1 :Even such a man, so faint, so spiritless, : None
+1.1 :So dull, so dead in look, so woe-begone, : None
+1.1 :Drew Priam's curtain in the dead of night, : None
+1.1 :And would have told him half his Troy was burnt; : None
+1.1 :But Priam found the fire ere he his tongue, : None
+1.1 :And I my Percy's death ere thou report'st it. : None
+1.1 :This thou wouldst say, 'Your son did thus and thus; : None
+1.1 :Your brother thus: so fought the noble Douglas:' : None
+1.1 :Stopping my greedy ear with their bold deeds: : None
+1.1 :But in the end, to stop my ear indeed, : None
+1.1 :Thou hast a sigh to blow away this praise, : None
+1.1 :Ending with 'Brother, son, and all are dead.' : None
+MORTON
+1.1 :Douglas is living, and your brother, yet; : None
+1.1 :But, for my lord your son-- : None
+NORTHUMBERLAND
+1.1 :Why, he is dead. : None
+1.1 :See what a ready tongue suspicion hath! : None
+1.1 :He that but fears the thing he would not know : None
+1.1 :Hath by instinct knowledge from others' eyes : None
+1.1 :That what he fear'd is chanced. Yet speak, Morton; : None
+1.1 :Tell thou an earl his divination lies, : None
+1.1 :And I will take it as a sweet disgrace : None
+1.1 :And make thee rich for doing me such wrong. : None
+MORTON
+1.1 :You are too great to be by me gainsaid: : None
+1.1 :Your spirit is too true, your fears too certain. : None
+NORTHUMBERLAND
+1.1 :Yet, for all this, say not that Percy's dead. : None
+1.1 :I see a strange confession in thine eye: : None
+1.1 :Thou shakest thy head and hold'st it fear or sin : None
+1.1 :To speak a truth. If he be slain, say so; : None
+1.1 :The tongue offends not that reports his death: : None
+1.1 :And he doth sin that doth belie the dead, : None
+1.1 :Not he which says the dead is not alive. : None
+1.1 :Yet the first bringer of unwelcome news : None
+1.1 :Hath but a losing office, and his tongue : None
+1.1 :Sounds ever after as a sullen bell, : None
+1.1 :Remember'd tolling a departing friend. : None
+LORD BARDOLPH
+1.1 :I cannot think, my lord, your son is dead. : None
+MORTON
+1.1 :I am sorry I should force you to believe : None
+1.1 :That which I would to God I had not seen; : None
+1.1 :But these mine eyes saw him in bloody state, : None
+1.1 :Rendering faint quittance, wearied and out-breathed, : None
+1.1 :To Harry Monmouth; whose swift wrath beat down : None
+1.1 :The never-daunted Percy to the earth, : None
+1.1 :From whence with life he never more sprung up. : None
+1.1 :In few, his death, whose spirit lent a fire : None
+1.1 :Even to the dullest peasant in his camp, : None
+1.1 :Being bruited once, took fire and heat away : None
+1.1 :From the best temper'd courage in his troops; : None
+1.1 :For from his metal was his party steel'd; : None
+1.1 :Which once in him abated, all the rest : None
+1.1 :Turn'd on themselves, like dull and heavy lead: : None
+1.1 :And as the thing that's heavy in itself, : None
+1.1 :Upon enforcement flies with greatest speed, : None
+1.1 :So did our men, heavy in Hotspur's loss, : None
+1.1 :Lend to this weight such lightness with their fear : None
+1.1 :That arrows fled not swifter toward their aim : None
+1.1 :Than did our soldiers, aiming at their safety, : None
+1.1 :Fly from the field. Then was the noble Worcester : None
+1.1 :Too soon ta'en prisoner; and that furious Scot, : None
+1.1 :The bloody Douglas, whose well-labouring sword : None
+1.1 :Had three times slain the appearance of the king, : None
+1.1 :'Gan vail his stomach and did grace the shame : None
+1.1 :Of those that turn'd their backs, and in his flight, : None
+1.1 :Stumbling in fear, was took. The sum of all : None
+1.1 :Is that the king hath won, and hath sent out : None
+1.1 :A speedy power to encounter you, my lord, : None
+1.1 :Under the conduct of young Lancaster : None
+1.1 :And Westmoreland. This is the news at full. : None
+NORTHUMBERLAND
+1.1 :For this I shall have time enough to mourn. : None
+1.1 :In poison there is physic; and these news, : None
+1.1 :Having been well, that would have made me sick, : None
+1.1 :Being sick, have in some measure made me well: : None
+1.1 :And as the wretch, whose fever-weaken'd joints, : None
+1.1 :Like strengthless hinges, buckle under life, : None
+1.1 :Impatient of his fit, breaks like a fire : None
+1.1 :Out of his keeper's arms, even so my limbs, : None
+1.1 :Weaken'd with grief, being now enraged with grief, : None
+1.1 :Are thrice themselves. Hence, therefore, thou nice crutch! : None
+1.1 :A scaly gauntlet now with joints of steel : None
+1.1 :Must glove this hand: and hence, thou sickly quoif! : None
+1.1 :Thou art a guard too wanton for the head : None
+1.1 :Which princes, flesh'd with conquest, aim to hit. : None
+1.1 :Now bind my brows with iron; and approach : None
+1.1 :The ragged'st hour that time and spite dare bring : None
+1.1 :To frown upon the enraged Northumberland! : None
+1.1 :Let heaven kiss earth! now let not Nature's hand : None
+1.1 :Keep the wild flood confined! let order die! : None
+1.1 :And let this world no longer be a stage : None
+1.1 :To feed contention in a lingering act; : None
+1.1 :But let one spirit of the first-born Cain : None
+1.1 :Reign in all bosoms, that, each heart being set : None
+1.1 :On bloody courses, the rude scene may end, : None
+1.1 :And darkness be the burier of the dead! : None
+TRAVERS
+1.1 :This strained passion doth you wrong, my lord. : None
+LORD BARDOLPH
+1.1 :Sweet earl, divorce not wisdom from your honour. : None
+MORTON
+1.1 :The lives of all your loving complices : None
+1.1 :Lean on your health; the which, if you give o'er : None
+1.1 :To stormy passion, must perforce decay. : None
+1.1 :You cast the event of war, my noble lord, : None
+1.1 :And summ'd the account of chance, before you said : None
+1.1 :'Let us make head.' It was your presurmise, : None
+1.1 :That, in the dole of blows, your son might drop: : None
+1.1 :You knew he walk'd o'er perils, on an edge, : None
+1.1 :More likely to fall in than to get o'er; : None
+1.1 :You were advised his flesh was capable : None
+1.1 :Of wounds and scars and that his forward spirit : None
+1.1 :Would lift him where most trade of danger ranged: : None
+1.1 :Yet did you say 'Go forth;' and none of this, : None
+1.1 :Though strongly apprehended, could restrain : None
+1.1 :The stiff-borne action: what hath then befallen, : None
+1.1 :Or what hath this bold enterprise brought forth, : None
+1.1 :More than that being which was like to be? : None
+LORD BARDOLPH
+1.1 :We all that are engaged to this loss : None
+1.1 :Knew that we ventured on such dangerous seas : None
+1.1 :That if we wrought our life 'twas ten to one; : None
+1.1 :And yet we ventured, for the gain proposed : None
+1.1 :Choked the respect of likely peril fear'd; : None
+1.1 :And since we are o'erset, venture again. : None
+1.1 :Come, we will all put forth, body and goods. : None
+MORTON
+1.1 :'Tis more than time: and, my most noble lord, : None
+1.1 :I hear for certain, and do speak the truth, : None
+1.1 :The gentle Archbishop of York is up : None
+1.1 :With well-appointed powers: he is a man : None
+1.1 :Who with a double surety binds his followers. : None
+1.1 :My lord your son had only but the corpse, : None
+1.1 :But shadows and the shows of men, to fight; : None
+1.1 :For that same word, rebellion, did divide : None
+1.1 :The action of their bodies from their souls; : None
+1.1 :And they did fight with queasiness, constrain'd, : None
+1.1 :As men drink potions, that their weapons only : None
+1.1 :Seem'd on our side; but, for their spirits and souls, : None
+1.1 :This word, rebellion, it had froze them up, : None
+1.1 :As fish are in a pond. But now the bishop : None
+1.1 :Turns insurrection to religion: : None
+1.1 :Supposed sincere and holy in his thoughts, : None
+1.1 :He's followed both with body and with mind; : None
+1.1 :And doth enlarge his rising with the blood : None
+1.1 :Of fair King Richard, scraped from Pomfret stones; : None
+1.1 :Derives from heaven his quarrel and his cause; : None
+1.1 :Tells them he doth bestride a bleeding land, : None
+1.1 :Gasping for life under great Bolingbroke; : None
+1.1 :And more and less do flock to follow him. : None
+NORTHUMBERLAND
+1.1 :I knew of this before; but, to speak truth, : None
+1.1 :This present grief had wiped it from my mind. : None
+1.1 :Go in with me; and counsel every man : None
+1.1 :The aptest way for safety and revenge: : None
+1.1 :Get posts and letters, and make friends with speed: : None
+1.1 :Never so few, and never yet more need. : None
+Exeunt : ['Exeunt - []'] : NORTHUMBERLAND
+Scene(scene=2)
+Enter FALSTAFF, with his Page bearing his sword and buckler : ["Enter - ['FALSTAFF', 'PAGE']"] : NORTHUMBERLAND
+FALSTAFF
+1.2 :Sirrah, you giant, what says the doctor to my water? : None
+PAGE
+1.2 :He said, sir, the water itself was a good healthy : None
+1.2 :water; but, for the party that owed it, he might : None
+1.2 :have more diseases than he knew for. : None
+FALSTAFF
+1.2 :Men of all sorts take a pride to gird at me: the : None
+1.2 :brain of this foolish-compounded clay, man, is not : None
+1.2 :able to invent anything that tends to laughter, more : None
+1.2 :than I invent or is invented on me: I am not only : None
+1.2 :witty in myself, but the cause that wit is in other : None
+1.2 :men. I do here walk before thee like a sow that : None
+1.2 :hath overwhelmed all her litter but one. If the : None
+1.2 :prince put thee into my service for any other reason : None
+1.2 :than to set me off, why then I have no judgment. : None
+1.2 :Thou whoreson mandrake, thou art fitter to be worn : None
+1.2 :in my cap than to wait at my heels. I was never : None
+1.2 :manned with an agate till now: but I will inset you : None
+1.2 :neither in gold nor silver, but in vile apparel, and : None
+1.2 :send you back again to your master, for a jewel,-- : None
+1.2 :the juvenal, the prince your master, whose chin is : None
+1.2 :not yet fledged. I will sooner have a beard grow in : None
+1.2 :the palm of my hand than he shall get one on his : None
+1.2 :cheek; and yet he will not stick to say his face is : None
+1.2 :a face-royal: God may finish it when he will, 'tis : None
+1.2 :not a hair amiss yet: he may keep it still at a : None
+1.2 :face-royal, for a barber shall never earn sixpence : None
+1.2 :out of it; and yet he'll be crowing as if he had : None
+1.2 :writ man ever since his father was a bachelor. He : None
+1.2 :may keep his own grace, but he's almost out of mine, : None
+1.2 :I can assure him. What said Master Dombledon about : None
+1.2 :the satin for my short cloak and my slops? : None
+PAGE
+1.2 :He said, sir, you should procure him better : None
+1.2 :assurance than Bardolph: he would not take his : None
+1.2 :band and yours; he liked not the security. : None
+FALSTAFF
+1.2 :Let him be damned, like the glutton! pray God his : None
+1.2 :tongue be hotter! A whoreson Achitophel! a rascally : None
+1.2 :yea-forsooth knave! to bear a gentleman in hand, : None
+1.2 :and then stand upon security! The whoreson : None
+1.2 :smooth-pates do now wear nothing but high shoes, and : None
+1.2 :bunches of keys at their girdles; and if a man is : None
+1.2 :through with them in honest taking up, then they : None
+1.2 :must stand upon security. I had as lief they would : None
+1.2 :put ratsbane in my mouth as offer to stop it with : None
+1.2 :security. I looked a' should have sent me two and : None
+1.2 :twenty yards of satin, as I am a true knight, and he : None
+1.2 :sends me security. Well, he may sleep in security; : None
+1.2 :for he hath the horn of abundance, and the lightness : None
+1.2 :of his wife shines through it: and yet cannot he : None
+1.2 :see, though he have his own lanthorn to light him. : None
+1.2 :Where's Bardolph? : None
+PAGE
+1.2 :He's gone into Smithfield to buy your worship a horse. : None
+FALSTAFF
+1.2 :I bought him in Paul's, and he'll buy me a horse in : None
+1.2 :Smithfield: an I could get me but a wife in the : None
+1.2 :stews, I were manned, horsed, and wived. : None
+Enter the Lord Chief-Justice and Servant : ["Enter - ['SERVANT']"] : FALSTAFF
+PAGE
+1.2 :Sir, here comes the nobleman that committed the : None
+1.2 :Prince for striking him about Bardolph. : None
+FALSTAFF
+1.2 :Wait, close; I will not see him. : None
+1.2 :Lord Chief-Justice	What's he that goes there? : None
+SERVANT
+1.2 :Falstaff, an't please your lordship. : None
+1.2 :Lord Chief-Justice	He that was in question for the robbery? : None
+SERVANT
+1.2 :He, my lord: but he hath since done good service at : None
+1.2 :Shrewsbury; and, as I hear, is now going with some : None
+1.2 :charge to the Lord John of Lancaster. : None
+1.2 :Lord Chief-Justice	What, to York? Call him back again. : None
+SERVANT
+1.2 :Sir John Falstaff! : None
+FALSTAFF
+1.2 :Boy, tell him I am deaf. : None
+PAGE
+1.2 :You must speak louder; my master is deaf. : None
+1.2 :Lord Chief-Justice	I am sure he is, to the hearing of any thing good. : None
+1.2 :Go, pluck him by the elbow; I must speak with him. : None
+SERVANT
+1.2 :Sir John! : None
+FALSTAFF
+1.2 :What! a young knave, and begging! Is there not : None
+1.2 :wars? is there not employment? doth not the king : None
+1.2 :lack subjects? do not the rebels need soldiers? : None
+1.2 :Though it be a shame to be on any side but one, it : None
+1.2 :is worse shame to beg than to be on the worst side, : None
+1.2 :were it worse than the name of rebellion can tell : None
+1.2 :how to make it. : None
+SERVANT
+1.2 :You mistake me, sir. : None
+FALSTAFF
+1.2 :Why, sir, did I say you were an honest man? setting : None
+1.2 :my knighthood and my soldiership aside, I had lied : None
+1.2 :in my throat, if I had said so. : None
+SERVANT
+1.2 :I pray you, sir, then set your knighthood and our : None
+1.2 :soldiership aside; and give me leave to tell you, : None
+1.2 :you lie in your throat, if you say I am any other : None
+1.2 :than an honest man. : None
+FALSTAFF
+1.2 :I give thee leave to tell me so! I lay aside that : None
+1.2 :which grows to me! if thou gettest any leave of me, : None
+1.2 :hang me; if thou takest leave, thou wert better be : None
+1.2 :hanged. You hunt counter: hence! avaunt! : None
+SERVANT
+1.2 :Sir, my lord would speak with you. : None
+1.2 :Lord Chief-Justice	Sir John Falstaff, a word with you. : None
+FALSTAFF
+1.2 :My good lord! God give your lordship good time of : None
+1.2 :day. I am glad to see your lordship abroad: I heard : None
+1.2 :say your lordship was sick: I hope your lordship : None
+1.2 :goes abroad by advice. Your lordship, though not : None
+1.2 :clean past your youth, hath yet some smack of age in : None
+1.2 :you, some relish of the saltness of time; and I must : None
+1.2 :humbly beseech your lordship to have a reverent care : None
+1.2 :of your health. : None
+1.2 :Lord Chief-Justice	Sir John, I sent for you before your expedition to : None
+1.2 :Shrewsbury. : None
+FALSTAFF
+1.2 :An't please your lordship, I hear his majesty is : None
+1.2 :returned with some discomfort from Wales. : None
+1.2 :Lord Chief-Justice	I talk not of his majesty: you would not come when : None
+1.2 :I sent for you. : None
+FALSTAFF
+1.2 :And I hear, moreover, his highness is fallen into : None
+1.2 :this same whoreson apoplexy. : None
+1.2 :Lord Chief-Justice	Well, God mend him! I pray you, let me speak with : None
+1.2 :you. : None
+FALSTAFF
+1.2 :This apoplexy is, as I take it, a kind of lethargy, : None
+1.2 :an't please your lordship; a kind of sleeping in the : None
+1.2 :blood, a whoreson tingling. : None
+1.2 :Lord Chief-Justice	What tell you me of it? be it as it is. : None
+FALSTAFF
+1.2 :It hath its original from much grief, from study and : None
+1.2 :perturbation of the brain: I have read the cause of : None
+1.2 :his effects in Galen: it is a kind of deafness. : None
+1.2 :Lord Chief-Justice	I think you are fallen into the disease; for you : None
+1.2 :hear not what I say to you. : None
+FALSTAFF
+1.2 :Very well, my lord, very well: rather, an't please : None
+1.2 :you, it is the disease of not listening, the malady : None
+1.2 :of not marking, that I am troubled withal. : None
+1.2 :Lord Chief-Justice	To punish you by the heels would amend the : None
+1.2 :attention of your ears; and I care not if I do : None
+1.2 :become your physician. : None
+FALSTAFF
+1.2 :I am as poor as Job, my lord, but not so patient: : None
+1.2 :your lordship may minister the potion of : None
+1.2 :imprisonment to me in respect of poverty; but how : None
+1.2 :should I be your patient to follow your : None
+1.2 :prescriptions, the wise may make some dram of a : None
+1.2 :scruple, or indeed a scruple itself. : None
+1.2 :Lord Chief-Justice	I sent for you, when there were matters against you : None
+1.2 :for your life, to come speak with me. : None
+FALSTAFF
+1.2 :As I was then advised by my learned counsel in the : None
+1.2 :laws of this land-service, I did not come. : None
+1.2 :Lord Chief-Justice	Well, the truth is, Sir John, you live in great infamy. : None
+FALSTAFF
+1.2 :He that buckles him in my belt cannot live in less. : None
+1.2 :Lord Chief-Justice	Your means are very slender, and your waste is great. : None
+FALSTAFF
+1.2 :I would it were otherwise; I would my means were : None
+1.2 :greater, and my waist slenderer. : None
+1.2 :Lord Chief-Justice	You have misled the youthful prince. : None
+FALSTAFF
+1.2 :The young prince hath misled me: I am the fellow : None
+1.2 :with the great belly, and he my dog. : None
+1.2 :Lord Chief-Justice	Well, I am loath to gall a new-healed wound: your : None
+1.2 :day's service at Shrewsbury hath a little gilded : None
+1.2 :over your night's exploit on Gad's-hill: you may : None
+1.2 :thank the unquiet time for your quiet o'er-posting : None
+1.2 :that action. : None
+FALSTAFF
+1.2 :My lord? : None
+1.2 :Lord Chief-Justice	But since all is well, keep it so: wake not a : None
+1.2 :sleeping wolf. : None
+FALSTAFF
+1.2 :To wake a wolf is as bad as to smell a fox. : None
+1.2 :Lord Chief-Justice	What! you are as a candle, the better part burnt : None
+1.2 :out. : None
+FALSTAFF
+1.2 :A wassail candle, my lord, all tallow: if I did say : None
+1.2 :of wax, my growth would approve the truth. : None
+1.2 :Lord Chief-Justice	There is not a white hair on your face but should : None
+1.2 :have his effect of gravity. : None
+FALSTAFF
+1.2 :His effect of gravy, gravy, gravy. : None
+1.2 :Lord Chief-Justice	You follow the young prince up and down, like his : None
+1.2 :ill angel. : None
+FALSTAFF
+1.2 :Not so, my lord; your ill angel is light; but I hope : None
+1.2 :he that looks upon me will take me without weighing: : None
+1.2 :and yet, in some respects, I grant, I cannot go: I : None
+1.2 :cannot tell. Virtue is of so little regard in these : None
+1.2 :costermonger times that true valour is turned : None
+1.2 :bear-herd: pregnancy is made a tapster, and hath : None
+1.2 :his quick wit wasted in giving reckonings: all the : None
+1.2 :other gifts appertinent to man, as the malice of : None
+1.2 :this age shapes them, are not worth a gooseberry. : None
+1.2 :You that are old consider not the capacities of us : None
+1.2 :that are young; you do measure the heat of our : None
+1.2 :livers with the bitterness of your galls: and we : None
+1.2 :that are in the vaward of our youth, I must confess, : None
+1.2 :are wags too. : None
+1.2 :Lord Chief-Justice	Do you set down your name in the scroll of youth, : None
+1.2 :that are written down old with all the characters of : None
+1.2 :age? Have you not a moist eye? a dry hand? a : None
+1.2 :yellow cheek? a white beard? a decreasing leg? an : None
+1.2 :increasing belly? is not your voice broken? your : None
+1.2 :wind short? your chin double? your wit single? and : None
+1.2 :every part about you blasted with antiquity? and : None
+1.2 :will you yet call yourself young? Fie, fie, fie, Sir John! : None
+FALSTAFF
+1.2 :My lord, I was born about three of the clock in the : None
+1.2 :afternoon, with a white head and something a round : None
+1.2 :belly. For my voice, I have lost it with halloing : None
+1.2 :and singing of anthems. To approve my youth : None
+1.2 :further, I will not: the truth is, I am only old in : None
+1.2 :judgment and understanding; and he that will caper : None
+1.2 :with me for a thousand marks, let him lend me the : None
+1.2 :money, and have at him! For the box of the ear that : None
+1.2 :the prince gave you, he gave it like a rude prince, : None
+1.2 :and you took it like a sensible lord. I have : None
+1.2 :chequed him for it, and the young lion repents; : None
+1.2 :marry, not in ashes and sackcloth, but in new silk : None
+1.2 :and old sack. : None
+1.2 :Lord Chief-Justice	Well, God send the prince a better companion! : None
+FALSTAFF
+1.2 :God send the companion a better prince! I cannot : None
+1.2 :rid my hands of him. : None
+1.2 :Lord Chief-Justice	Well, the king hath severed you and Prince Harry: I : None
+1.2 :hear you are going with Lord John of Lancaster : None
+1.2 :against the Archbishop and the Earl of : None
+1.2 :Northumberland. : None
+FALSTAFF
+1.2 :Yea; I thank your pretty sweet wit for it. But look : None
+1.2 :you pray, all you that kiss my lady Peace at home, : None
+1.2 :that our armies join not in a hot day; for, by the : None
+1.2 :Lord, I take but two shirts out with me, and I mean : None
+1.2 :not to sweat extraordinarily: if it be a hot day, : None
+1.2 :and I brandish any thing but a bottle, I would I : None
+1.2 :might never spit white again. There is not a : None
+1.2 :dangerous action can peep out his head but I am : None
+1.2 :thrust upon it: well, I cannot last ever: but it : None
+1.2 :was alway yet the trick of our English nation, if : None
+1.2 :they have a good thing, to make it too common. If : None
+1.2 :ye will needs say I am an old man, you should give : None
+1.2 :me rest. I would to God my name were not so : None
+1.2 :terrible to the enemy as it is: I were better to be : None
+1.2 :eaten to death with a rust than to be scoured to : None
+1.2 :nothing with perpetual motion. : None
+1.2 :Lord Chief-Justice	Well, be honest, be honest; and God bless your : None
+1.2 :expedition! : None
+FALSTAFF
+1.2 :Will your lordship lend me a thousand pound to : None
+1.2 :furnish me forth? : None
+1.2 :Lord Chief-Justice	Not a penny, not a penny; you are too impatient to : None
+1.2 :bear crosses. Fare you well: commend me to my : None
+1.2 :cousin Westmoreland. : None
+Exeunt Chief-Justice and Servant : ["Exeunt - ['SERVANT']"] : FALSTAFF
+FALSTAFF
+1.2 :If I do, fillip me with a three-man beetle. A man : None
+1.2 :can no more separate age and covetousness than a' : None
+1.2 :can part young limbs and lechery: but the gout : None
+1.2 :galls the one, and the pox pinches the other; and : None
+1.2 :so both the degrees prevent my curses. Boy! : None
+PAGE
+1.2 :Sir? : None
+FALSTAFF
+1.2 :What money is in my purse? : None
+PAGE
+1.2 :Seven groats and two pence. : None
+FALSTAFF
+1.2 :I can get no remedy against this consumption of the : None
+1.2 :purse: borrowing only lingers and lingers it out, : None
+1.2 :but the disease is incurable. Go bear this letter : None
+1.2 :to my Lord of Lancaster; this to the prince; this : None
+1.2 :to the Earl of Westmoreland; and this to old : None
+1.2 :Mistress Ursula, whom I have weekly sworn to marry : None
+1.2 :since I perceived the first white hair on my chin. : None
+1.2 :About it: you know where to find me. : None
+Exit Page : ["Exit - ['PAGE']"] : FALSTAFF
+1.2 :A pox of this gout! or, a gout of this pox! for : None
+1.2 :the one or the other plays the rogue with my great : None
+1.2 :toe. 'Tis no matter if I do halt; I have the wars : None
+1.2 :for my colour, and my pension shall seem the more : None
+1.2 :reasonable. A good wit will make use of any thing: : None
+1.2 :I will turn diseases to commodity. : None
+Exit : ['Exit - []'] : FALSTAFF
+Scene(scene=3)
+Enter the ARCHBISHOP OF YORK, the Lords HASTINGS, MOWBRAY, and BARDOLPH : ["Enter - ['ARCHBISHOP OF YORK', 'HASTINGS', 'MOWBRAY', 'BARDOLPH']"] : FALSTAFF
+ARCHBISHOP OF YORK
+1.3 :Thus have you heard our cause and known our means; : None
+1.3 :And, my most noble friends, I pray you all, : None
+1.3 :Speak plainly your opinions of our hopes: : None
+1.3 :And first, lord marshal, what say you to it? : None
+MOWBRAY
+1.3 :I well allow the occasion of our arms; : None
+1.3 :But gladly would be better satisfied : None
+1.3 :How in our means we should advance ourselves : None
+1.3 :To look with forehead bold and big enough : None
+1.3 :Upon the power and puissance of the king. : None
+HASTINGS
+1.3 :Our present musters grow upon the file : None
+1.3 :To five and twenty thousand men of choice; : None
+1.3 :And our supplies live largely in the hope : None
+1.3 :Of great Northumberland, whose bosom burns : None
+1.3 :With an incensed fire of injuries. : None
+LORD BARDOLPH
+1.3 :The question then, Lord Hastings, standeth thus; : None
+1.3 :Whether our present five and twenty thousand : None
+1.3 :May hold up head without Northumberland? : None
+HASTINGS
+1.3 :With him, we may. : None
+LORD BARDOLPH
+1.3 :                  Yea, marry, there's the point: : None
+1.3 :But if without him we be thought too feeble, : None
+1.3 :My judgment is, we should not step too far : None
+1.3 :Till we had his assistance by the hand; : None
+1.3 :For in a theme so bloody-faced as this : None
+1.3 :Conjecture, expectation, and surmise : None
+1.3 :Of aids incertain should not be admitted. : None
+ARCHBISHOP OF YORK
+1.3 :'Tis very true, Lord Bardolph; for indeed : None
+1.3 :It was young Hotspur's case at Shrewsbury. : None
+LORD BARDOLPH
+1.3 :It was, my lord; who lined himself with hope, : None
+1.3 :Eating the air on promise of supply, : None
+1.3 :Flattering himself in project of a power : None
+1.3 :Much smaller than the smallest of his thoughts: : None
+1.3 :And so, with great imagination : None
+1.3 :Proper to madmen, led his powers to death : None
+1.3 :And winking leap'd into destruction. : None
+HASTINGS
+1.3 :But, by your leave, it never yet did hurt : None
+1.3 :To lay down likelihoods and forms of hope. : None
+LORD BARDOLPH
+1.3 :Yes, if this present quality of war, : None
+1.3 :Indeed the instant action: a cause on foot : None
+1.3 :Lives so in hope as in an early spring : None
+1.3 :We see the appearing buds; which to prove fruit, : None
+1.3 :Hope gives not so much warrant as despair : None
+1.3 :That frosts will bite them. When we mean to build, : None
+1.3 :We first survey the plot, then draw the model; : None
+1.3 :And when we see the figure of the house, : None
+1.3 :Then must we rate the cost of the erection; : None
+1.3 :Which if we find outweighs ability, : None
+1.3 :What do we then but draw anew the model : None
+1.3 :In fewer offices, or at last desist : None
+1.3 :To build at all? Much more, in this great work, : None
+1.3 :Which is almost to pluck a kingdom down : None
+1.3 :And set another up, should we survey : None
+1.3 :The plot of situation and the model, : None
+1.3 :Consent upon a sure foundation, : None
+1.3 :Question surveyors, know our own estate, : None
+1.3 :How able such a work to undergo, : None
+1.3 :To weigh against his opposite; or else : None
+1.3 :We fortify in paper and in figures, : None
+1.3 :Using the names of men instead of men: : None
+1.3 :Like one that draws the model of a house : None
+1.3 :Beyond his power to build it; who, half through, : None
+1.3 :Gives o'er and leaves his part-created cost : None
+1.3 :A naked subject to the weeping clouds : None
+1.3 :And waste for churlish winter's tyranny. : None
+HASTINGS
+1.3 :Grant that our hopes, yet likely of fair birth, : None
+1.3 :Should be still-born, and that we now possess'd : None
+1.3 :The utmost man of expectation, : None
+1.3 :I think we are a body strong enough, : None
+1.3 :Even as we are, to equal with the king. : None
+LORD BARDOLPH
+1.3 :What, is the king but five and twenty thousand? : None
+HASTINGS
+1.3 :To us no more; nay, not so much, Lord Bardolph. : None
+1.3 :For his divisions, as the times do brawl, : None
+1.3 :Are in three heads: one power against the French, : None
+1.3 :And one against Glendower; perforce a third : None
+1.3 :Must take up us: so is the unfirm king : None
+1.3 :In three divided; and his coffers sound : None
+1.3 :With hollow poverty and emptiness. : None
+ARCHBISHOP OF YORK
+1.3 :That he should draw his several strengths together : None
+1.3 :And come against us in full puissance, : None
+1.3 :Need not be dreaded. : None
+HASTINGS
+1.3 :If he should do so, : None
+1.3 :He leaves his back unarm'd, the French and Welsh : None
+1.3 :Baying him at the heels: never fear that. : None
+LORD BARDOLPH
+1.3 :Who is it like should lead his forces hither? : None
+HASTINGS
+1.3 :The Duke of Lancaster and Westmoreland; : None
+1.3 :Against the Welsh, himself and Harry Monmouth: : None
+1.3 :But who is substituted 'gainst the French, : None
+1.3 :I have no certain notice. : None
+ARCHBISHOP OF YORK
+1.3 :Let us on, : None
+1.3 :And publish the occasion of our arms. : None
+1.3 :The commonwealth is sick of their own choice; : None
+1.3 :Their over-greedy love hath surfeited: : None
+1.3 :An habitation giddy and unsure : None
+1.3 :Hath he that buildeth on the vulgar heart. : None
+1.3 :O thou fond many, with what loud applause : None
+1.3 :Didst thou beat heaven with blessing Bolingbroke, : None
+1.3 :Before he was what thou wouldst have him be! : None
+1.3 :And being now trimm'd in thine own desires, : None
+1.3 :Thou, beastly feeder, art so full of him, : None
+1.3 :That thou provokest thyself to cast him up. : None
+1.3 :So, so, thou common dog, didst thou disgorge : None
+1.3 :Thy glutton bosom of the royal Richard; : None
+1.3 :And now thou wouldst eat thy dead vomit up, : None
+1.3 :And howl'st to find it. What trust is in : None
+1.3 :these times? : None
+1.3 :They that, when Richard lived, would have him die, : None
+1.3 :Are now become enamour'd on his grave: : None
+1.3 :Thou, that threw'st dust upon his goodly head : None
+1.3 :When through proud London he came sighing on : None
+1.3 :After the admired heels of Bolingbroke, : None
+1.3 :Criest now 'O earth, yield us that king again, : None
+1.3 :And take thou this!' O thoughts of men accursed! : None
+1.3 :Past and to come seems best; things present worst. : None
+MOWBRAY
+1.3 :Shall we go draw our numbers and set on? : None
+HASTINGS
+1.3 :We are time's subjects, and time bids be gone. : None
+Exeunt : ['Exeunt - []'] : HASTINGS
+Act(act=2)
+Scene(scene=1)
+Enter MISTRESS QUICKLY, FANG and his Boy with her, and SNARE following. : ["Enter - ['MISTRESS QUICKLY', 'FANG', 'SNARE']", 'None - []'] : HASTINGS
+MISTRESS QUICKLY
+2.1 :Master Fang, have you entered the action? : None
+FANG
+2.1 :It is entered. : None
+MISTRESS QUICKLY
+2.1 :Where's your yeoman? Is't a lusty yeoman? will a' : None
+2.1 :stand to 't? : None
+FANG
+2.1 :Sirrah, where's Snare? : None
+MISTRESS QUICKLY
+2.1 :O Lord, ay! good Master Snare. : None
+SNARE
+2.1 :Here, here. : None
+FANG
+2.1 :Snare, we must arrest Sir John Falstaff. : None
+MISTRESS QUICKLY
+2.1 :Yea, good Master Snare; I have entered him and all. : None
+SNARE
+2.1 :It may chance cost some of us our lives, for he will stab. : None
+MISTRESS QUICKLY
+2.1 :Alas the day! take heed of him; he stabbed me in : None
+2.1 :mine own house, and that most beastly: in good : None
+2.1 :faith, he cares not what mischief he does. If his : None
+2.1 :weapon be out: he will foin like any devil; he will : None
+2.1 :spare neither man, woman, nor child. : None
+FANG
+2.1 :If I can close with him, I care not for his thrust. : None
+MISTRESS QUICKLY
+2.1 :No, nor I neither: I'll be at your elbow. : None
+FANG
+2.1 :An I but fist him once; an a' come but within my vice,-- : None
+MISTRESS QUICKLY
+2.1 :I am undone by his going; I warrant you, he's an : None
+2.1 :infinitive thing upon my score. Good Master Fang, : None
+2.1 :hold him sure: good Master Snare, let him not : None
+2.1 :'scape. A' comes continuantly to Pie-corner--saving : None
+2.1 :your manhoods--to buy a saddle; and he is indited to : None
+2.1 :dinner to the Lubber's-head in Lumbert street, to : None
+2.1 :Master Smooth's the silkman: I pray ye, since my : None
+2.1 :exion is entered and my case so openly known to the : None
+2.1 :world, let him be brought in to his answer. A : None
+2.1 :hundred mark is a long one for a poor lone woman to : None
+2.1 :bear: and I have borne, and borne, and borne, and : None
+2.1 :have been fubbed off, and fubbed off, and fubbed : None
+2.1 :off, from this day to that day, that it is a shame : None
+2.1 :to be thought on. There is no honesty in such : None
+2.1 :dealing; unless a woman should be made an ass and a : None
+2.1 :beast, to bear every knave's wrong. Yonder he : None
+2.1 :comes; and that errant malmsey-nose knave, Bardolph, : None
+2.1 :with him. Do your offices, do your offices: Master : None
+2.1 :Fang and Master Snare, do me, do me, do me your offices. : None
+Enter FALSTAFF, Page, and BARDOLPH : ["Enter - ['FALSTAFF', 'PAGE', 'BARDOLPH']"] : MISTRESS QUICKLY
+FALSTAFF
+2.1 :How now! whose mare's dead? what's the matter? : None
+FANG
+2.1 :Sir John, I arrest you at the suit of Mistress Quickly. : None
+FALSTAFF
+2.1 :Away, varlets! Draw, Bardolph: cut me off the : None
+2.1 :villain's head: throw the quean in the channel. : None
+MISTRESS QUICKLY
+2.1 :Throw me in the channel! I'll throw thee in the : None
+2.1 :channel. Wilt thou? wilt thou? thou bastardly : None
+2.1 :rogue! Murder, murder! Ah, thou honeysuckle : None
+2.1 :villain! wilt thou kill God's officers and the : None
+2.1 :king's? Ah, thou honey-seed rogue! thou art a : None
+2.1 :honey-seed, a man-queller, and a woman-queller. : None
+FALSTAFF
+2.1 :Keep them off, Bardolph. : None
+FANG
+2.1 :A rescue! a rescue! : None
+MISTRESS QUICKLY
+2.1 :Good people, bring a rescue or two. Thou wo't, wo't : None
+2.1 :thou? Thou wo't, wo't ta? do, do, thou rogue! do, : None
+2.1 :thou hemp-seed! : None
+FALSTAFF
+2.1 :Away, you scullion! you rampallion! You : None
+2.1 :fustilarian! I'll tickle your catastrophe. : None
+Enter the Lord Chief-Justice, and his men : ['Enter - []'] : FALSTAFF
+2.1 :Lord Chief-Justice	What is the matter? keep the peace here, ho! : None
+MISTRESS QUICKLY
+2.1 :Good my lord, be good to me. I beseech you, stand to me. : None
+2.1 :Lord Chief-Justice	How now, Sir John! what are you brawling here? : None
+2.1 :Doth this become your place, your time and business? : None
+2.1 :You should have been well on your way to York. : None
+2.1 :Stand from him, fellow: wherefore hang'st upon him? : None
+MISTRESS QUICKLY
+2.1 :O most worshipful lord, an't please your grace, I am : None
+2.1 :a poor widow of Eastcheap, and he is arrested at my suit. : None
+2.1 :Lord Chief-Justice	For what sum? : None
+MISTRESS QUICKLY
+2.1 :It is more than for some, my lord; it is for all, : None
+2.1 :all I have. He hath eaten me out of house and home; : None
+2.1 :he hath put all my substance into that fat belly of : None
+2.1 :his: but I will have some of it out again, or I : None
+2.1 :will ride thee o' nights like the mare. : None
+FALSTAFF
+2.1 :I think I am as like to ride the mare, if I have : None
+2.1 :any vantage of ground to get up. : None
+2.1 :Lord Chief-Justice	How comes this, Sir John? Fie! what man of good : None
+2.1 :temper would endure this tempest of exclamation? : None
+2.1 :Are you not ashamed to enforce a poor widow to so : None
+2.1 :rough a course to come by her own? : None
+FALSTAFF
+2.1 :What is the gross sum that I owe thee? : None
+MISTRESS QUICKLY
+2.1 :Marry, if thou wert an honest man, thyself and the : None
+2.1 :money too. Thou didst swear to me upon a : None
+2.1 :parcel-gilt goblet, sitting in my Dolphin-chamber, : None
+2.1 :at the round table, by a sea-coal fire, upon : None
+2.1 :Wednesday in Wheeson week, when the prince broke : None
+2.1 :thy head for liking his father to a singing-man of : None
+2.1 :Windsor, thou didst swear to me then, as I was : None
+2.1 :washing thy wound, to marry me and make me my lady : None
+2.1 :thy wife. Canst thou deny it? Did not goodwife : None
+2.1 :Keech, the butcher's wife, come in then and call me : None
+2.1 :gossip Quickly? coming in to borrow a mess of : None
+2.1 :vinegar; telling us she had a good dish of prawns; : None
+2.1 :whereby thou didst desire to eat some; whereby I : None
+2.1 :told thee they were ill for a green wound? And : None
+2.1 :didst thou not, when she was gone down stairs, : None
+2.1 :desire me to be no more so familiarity with such : None
+2.1 :poor people; saying that ere long they should call : None
+2.1 :me madam? And didst thou not kiss me and bid me : None
+2.1 :fetch thee thirty shillings? I put thee now to thy : None
+2.1 :book-oath: deny it, if thou canst. : None
+FALSTAFF
+2.1 :My lord, this is a poor mad soul; and she says up : None
+2.1 :and down the town that the eldest son is like you: : None
+2.1 :she hath been in good case, and the truth is, : None
+2.1 :poverty hath distracted her. But for these foolish : None
+2.1 :officers, I beseech you I may have redress against them. : None
+2.1 :Lord Chief-Justice	Sir John, Sir John, I am well acquainted with your : None
+2.1 :manner of wrenching the true cause the false way. It : None
+2.1 :is not a confident brow, nor the throng of words : None
+2.1 :that come with such more than impudent sauciness : None
+2.1 :from you, can thrust me from a level consideration: : None
+2.1 :you have, as it appears to me, practised upon the : None
+2.1 :easy-yielding spirit of this woman, and made her : None
+2.1 :serve your uses both in purse and in person. : None
+MISTRESS QUICKLY
+2.1 :Yea, in truth, my lord. : None
+2.1 :Lord Chief-Justice	Pray thee, peace. Pay her the debt you owe her, and : None
+2.1 :unpay the villany you have done her: the one you : None
+2.1 :may do with sterling money, and the other with : None
+2.1 :current repentance. : None
+FALSTAFF
+2.1 :My lord, I will not undergo this sneap without : None
+2.1 :reply. You call honourable boldness impudent : None
+2.1 :sauciness: if a man will make courtesy and say : None
+2.1 :nothing, he is virtuous: no, my lord, my humble : None
+2.1 :duty remembered, I will not be your suitor. I say : None
+2.1 :to you, I do desire deliverance from these officers, : None
+2.1 :being upon hasty employment in the king's affairs. : None
+2.1 :Lord Chief-Justice	You speak as having power to do wrong: but answer : None
+2.1 :in the effect of your reputation, and satisfy this : None
+2.1 :poor woman. : None
+FALSTAFF
+2.1 :Come hither, hostess. : None
+Enter GOWER : ["Enter - ['GOWER']"] : FALSTAFF
+2.1 :Lord Chief-Justice	Now, Master Gower, what news? : None
+GOWER
+2.1 :The king, my lord, and Harry Prince of Wales : None
+2.1 :Are near at hand: the rest the paper tells. : None
+FALSTAFF
+2.1 :As I am a gentleman. : None
+MISTRESS QUICKLY
+2.1 :Faith, you said so before. : None
+FALSTAFF
+2.1 :As I am a gentleman. Come, no more words of it. : None
+MISTRESS QUICKLY
+2.1 :By this heavenly ground I tread on, I must be fain : None
+2.1 :to pawn both my plate and the tapestry of my : None
+2.1 :dining-chambers. : None
+FALSTAFF
+2.1 :Glasses, glasses is the only drinking: and for thy : None
+2.1 :walls, a pretty slight drollery, or the story of : None
+2.1 :the Prodigal, or the German hunting in water-work, : None
+2.1 :is worth a thousand of these bed-hangings and these : None
+2.1 :fly-bitten tapestries. Let it be ten pound, if thou : None
+2.1 :canst. Come, an 'twere not for thy humours, there's : None
+2.1 :not a better wench in England. Go, wash thy face, : None
+2.1 :and draw the action. Come, thou must not be in : None
+2.1 :this humour with me; dost not know me? come, come, I : None
+2.1 :know thou wast set on to this. : None
+MISTRESS QUICKLY
+2.1 :Pray thee, Sir John, let it be but twenty nobles: i' : None
+2.1 :faith, I am loath to pawn my plate, so God save me, : None
+2.1 :la! : None
+FALSTAFF
+2.1 :Let it alone; I'll make other shift: you'll be a : None
+2.1 :fool still. : None
+MISTRESS QUICKLY
+2.1 :Well, you shall have it, though I pawn my gown. I : None
+2.1 :hope you'll come to supper. You'll pay me all together? : None
+FALSTAFF
+2.1 :Will I live? : None
+To BARDOLPH : ["To - ['BARDOLPH']"] : FALSTAFF
+2.1 :Go, with her, with her; hook on, hook on. : None
+MISTRESS QUICKLY
+2.1 :Will you have Doll Tearsheet meet you at supper? : None
+FALSTAFF
+2.1 :No more words; let's have her. : None
+Exeunt MISTRESS QUICKLY, BARDOLPH, Officers and Boy : ["Exeunt - ['MISTRESS QUICKLY', 'BARDOLPH']"] : FALSTAFF
+2.1 :Lord Chief-Justice	I have heard better news. : None
+FALSTAFF
+2.1 :What's the news, my lord? : None
+2.1 :Lord Chief-Justice	Where lay the king last night? : None
+GOWER
+2.1 :At Basingstoke, my lord. : None
+FALSTAFF
+2.1 :I hope, my lord, all's well: what is the news, my lord? : None
+2.1 :Lord Chief-Justice	Come all his forces back? : None
+GOWER
+2.1 :No; fifteen hundred foot, five hundred horse, : None
+2.1 :Are marched up to my lord of Lancaster, : None
+2.1 :Against Northumberland and the Archbishop. : None
+FALSTAFF
+2.1 :Comes the king back from Wales, my noble lord? : None
+2.1 :Lord Chief-Justice	You shall have letters of me presently: : None
+2.1 :Come, go along with me, good Master Gower. : None
+FALSTAFF
+2.1 :My lord! : None
+2.1 :Lord Chief-Justice	What's the matter? : None
+FALSTAFF
+2.1 :Master Gower, shall I entreat you with me to dinner? : None
+GOWER
+2.1 :I must wait upon my good lord here; I thank you, : None
+2.1 :good Sir John. : None
+2.1 :Lord Chief-Justice	Sir John, you loiter here too long, being you are to : None
+2.1 :take soldiers up in counties as you go. : None
+FALSTAFF
+2.1 :Will you sup with me, Master Gower? : None
+2.1 :Lord Chief-Justice	What foolish master taught you these manners, Sir John? : None
+FALSTAFF
+2.1 :Master Gower, if they become me not, he was a fool : None
+2.1 :that taught them me. This is the right fencing : None
+2.1 :grace, my lord; tap for tap, and so part fair. : None
+2.1 :Lord Chief-Justice	Now the Lord lighten thee! thou art a great fool. : None
+Exeunt : ['Exeunt - []'] : FALSTAFF
+Scene(scene=2)
+Enter PRINCE HENRY and POINS : ["Enter - ['PRINCE HENRY', 'POINS']"] : FALSTAFF
+PRINCE HENRY
+2.2 :Before God, I am exceeding weary. : None
+POINS
+2.2 :Is't come to that? I had thought weariness durst not : None
+2.2 :have attached one of so high blood. : None
+PRINCE HENRY
+2.2 :Faith, it does me; though it discolours the : None
+2.2 :complexion of my greatness to acknowledge it. Doth : None
+2.2 :it not show vilely in me to desire small beer? : None
+POINS
+2.2 :Why, a prince should not be so loosely studied as : None
+2.2 :to remember so weak a composition. : None
+PRINCE HENRY
+2.2 :Belike then my appetite was not princely got; for, : None
+2.2 :by my troth, I do now remember the poor creature, : None
+2.2 :small beer. But, indeed, these humble : None
+2.2 :considerations make me out of love with my : None
+2.2 :greatness. What a disgrace is it to me to remember : None
+2.2 :thy name! or to know thy face to-morrow! or to : None
+2.2 :take note how many pair of silk stockings thou : None
+2.2 :hast, viz. these, and those that were thy : None
+2.2 :peach-coloured ones! or to bear the inventory of thy : None
+2.2 :shirts, as, one for superfluity, and another for : None
+2.2 :use! But that the tennis-court-keeper knows better : None
+2.2 :than I; for it is a low ebb of linen with thee when : None
+2.2 :thou keepest not racket there; as thou hast not done : None
+2.2 :a great while, because the rest of thy low : None
+2.2 :countries have made a shift to eat up thy holland: : None
+2.2 :and God knows, whether those that bawl out the ruins : None
+2.2 :of thy linen shall inherit his kingdom: but the : None
+2.2 :midwives say the children are not in the fault; : None
+2.2 :whereupon the world increases, and kindreds are : None
+2.2 :mightily strengthened. : None
+POINS
+2.2 :How ill it follows, after you have laboured so hard, : None
+2.2 :you should talk so idly! Tell me, how many good : None
+2.2 :young princes would do so, their fathers being so : None
+2.2 :sick as yours at this time is? : None
+PRINCE HENRY
+2.2 :Shall I tell thee one thing, Poins? : None
+POINS
+2.2 :Yes, faith; and let it be an excellent good thing. : None
+PRINCE HENRY
+2.2 :It shall serve among wits of no higher breeding than thine. : None
+POINS
+2.2 :Go to; I stand the push of your one thing that you : None
+2.2 :will tell. : None
+PRINCE HENRY
+2.2 :Marry, I tell thee, it is not meet that I should be : None
+2.2 :sad, now my father is sick: albeit I could tell : None
+2.2 :thee, as to one it pleases me, for fault of a : None
+2.2 :better, to call my friend, I could be sad, and sad : None
+2.2 :indeed too. : None
+POINS
+2.2 :Very hardly upon such a subject. : None
+PRINCE HENRY
+2.2 :By this hand thou thinkest me as far in the devil's : None
+2.2 :book as thou and Falstaff for obduracy and : None
+2.2 :persistency: let the end try the man. But I tell : None
+2.2 :thee, my heart bleeds inwardly that my father is so : None
+2.2 :sick: and keeping such vile company as thou art : None
+2.2 :hath in reason taken from me all ostentation of sorrow. : None
+POINS
+2.2 :The reason? : None
+PRINCE HENRY
+2.2 :What wouldst thou think of me, if I should weep? : None
+POINS
+2.2 :I would think thee a most princely hypocrite. : None
+PRINCE HENRY
+2.2 :It would be every man's thought; and thou art a : None
+2.2 :blessed fellow to think as every man thinks: never : None
+2.2 :a man's thought in the world keeps the road-way : None
+2.2 :better than thine: every man would think me an : None
+2.2 :hypocrite indeed. And what accites your most : None
+2.2 :worshipful thought to think so? : None
+POINS
+2.2 :Why, because you have been so lewd and so much : None
+2.2 :engraffed to Falstaff. : None
+PRINCE HENRY
+2.2 :And to thee. : None
+POINS
+2.2 :By this light, I am well spoke on; I can hear it : None
+2.2 :with my own ears: the worst that they can say of : None
+2.2 :me is that I am a second brother and that I am a : None
+2.2 :proper fellow of my hands; and those two things, I : None
+2.2 :confess, I cannot help. By the mass, here comes Bardolph. : None
+Enter BARDOLPH and Page : ["Enter - ['BARDOLPH', 'PAGE']"] : POINS
+PRINCE HENRY
+2.2 :And the boy that I gave Falstaff: a' had him from : None
+2.2 :me Christian; and look, if the fat villain have not : None
+2.2 :transformed him ape. : None
+BARDOLPH
+2.2 :God save your grace! : None
+PRINCE HENRY
+2.2 :And yours, most noble Bardolph! : None
+BARDOLPH
+2.2 :Come, you virtuous ass, you bashful fool, must you : None
+2.2 :be blushing? wherefore blush you now? What a : None
+2.2 :maidenly man-at-arms are you become! Is't such a : None
+2.2 :matter to get a pottle-pot's maidenhead? : None
+PAGE
+2.2 :A' calls me e'en now, my lord, through a red : None
+2.2 :lattice, and I could discern no part of his face : None
+2.2 :from the window: at last I spied his eyes, and : None
+2.2 :methought he had made two holes in the ale-wife's : None
+2.2 :new petticoat and so peeped through. : None
+PRINCE HENRY
+2.2 :Has not the boy profited? : None
+BARDOLPH
+2.2 :Away, you whoreson upright rabbit, away! : None
+PAGE
+2.2 :Away, you rascally Althaea's dream, away! : None
+PRINCE HENRY
+2.2 :Instruct us, boy; what dream, boy? : None
+PAGE
+2.2 :Marry, my lord, Althaea dreamed she was delivered : None
+2.2 :of a fire-brand; and therefore I call him her dream. : None
+PRINCE HENRY
+2.2 :A crown's worth of good interpretation: there 'tis, : None
+2.2 :boy. : None
+POINS
+2.2 :O, that this good blossom could be kept from : None
+2.2 :cankers! Well, there is sixpence to preserve thee. : None
+BARDOLPH
+2.2 :An you do not make him hanged among you, the : None
+2.2 :gallows shall have wrong. : None
+PRINCE HENRY
+2.2 :And how doth thy master, Bardolph? : None
+BARDOLPH
+2.2 :Well, my lord. He heard of your grace's coming to : None
+2.2 :town: there's a letter for you. : None
+POINS
+2.2 :Delivered with good respect. And how doth the : None
+2.2 :martlemas, your master? : None
+BARDOLPH
+2.2 :In bodily health, sir. : None
+POINS
+2.2 :Marry, the immortal part needs a physician; but : None
+2.2 :that moves not him: though that be sick, it dies : None
+2.2 :not. : None
+PRINCE HENRY
+2.2 :I do allow this wen to be as familiar with me as my : None
+2.2 :dog; and he holds his place; for look you how be writes. : None
+POINS
+2.2 :  'John Falstaff, knight,'--every man must : Reads : ['Read - []'] : POINS
+2.2 :know that, as oft as he has occasion to name : None
+2.2 :himself: even like those that are kin to the king; : None
+2.2 :for they never prick their finger but they say, : None
+2.2 :'There's some of the king's blood spilt.' 'How : None
+2.2 :comes that?' says he, that takes upon him not to : None
+2.2 :conceive. The answer is as ready as a borrower's : None
+2.2 :cap, 'I am the king's poor cousin, sir.' : None
+PRINCE HENRY
+2.2 :Nay, they will be kin to us, or they will fetch it : None
+2.2 :from Japhet. But to the letter. : None
+POINS
+2.2 :  'Sir John Falstaff, knight, to the son of : Reads : ['Read - []'] : POINS
+2.2 :the king, nearest his father, Harry Prince of : None
+2.2 :Wales, greeting.' Why, this is a certificate. : None
+PRINCE HENRY
+2.2 :Peace! : None
+POINS
+2.2 :  'I will imitate the honourable Romans in : Reads : ['Read - []'] : POINS
+2.2 :brevity:' he sure means brevity in breath, : None
+2.2 :short-winded. 'I commend me to thee, I commend : None
+2.2 :thee, and I leave thee. Be not too familiar with : None
+2.2 :Poins; for he misuses thy favours so much, that he : None
+2.2 :swears thou art to marry his sister Nell. Repent : None
+2.2 :at idle times as thou mayest; and so, farewell. : None
+2.2 :Thine, by yea and no, which is as much as to : None
+2.2 :say, as thou usest him, JACK FALSTAFF with my : None
+2.2 :familiars, JOHN with my brothers and sisters, : None
+2.2 :and SIR JOHN with all Europe.' : None
+2.2 :My lord, I'll steep this letter in sack and make him eat it. : None
+PRINCE HENRY
+2.2 :That's to make him eat twenty of his words. But do : None
+2.2 :you use me thus, Ned? must I marry your sister? : None
+POINS
+2.2 :God send the wench no worse fortune! But I never said so. : None
+PRINCE HENRY
+2.2 :Well, thus we play the fools with the time, and the : None
+2.2 :spirits of the wise sit in the clouds and mock us. : None
+2.2 :Is your master here in London? : None
+BARDOLPH
+2.2 :Yea, my lord. : None
+PRINCE HENRY
+2.2 :Where sups he? doth the old boar feed in the old frank? : None
+BARDOLPH
+2.2 :At the old place, my lord, in Eastcheap. : None
+PRINCE HENRY
+2.2 :What company? : None
+PAGE
+2.2 :Ephesians, my lord, of the old church. : None
+PRINCE HENRY
+2.2 :Sup any women with him? : None
+PAGE
+2.2 :None, my lord, but old Mistress Quickly and : None
+2.2 :Mistress Doll Tearsheet. : None
+PRINCE HENRY
+2.2 :What pagan may that be? : None
+PAGE
+2.2 :A proper gentlewoman, sir, and a kinswoman of my master's. : None
+PRINCE HENRY
+2.2 :Even such kin as the parish heifers are to the town : None
+2.2 :bull. Shall we steal upon them, Ned, at supper? : None
+POINS
+2.2 :I am your shadow, my lord; I'll follow you. : None
+PRINCE HENRY
+2.2 :Sirrah, you boy, and Bardolph, no word to your : None
+2.2 :master that I am yet come to town: there's for : None
+2.2 :your silence. : None
+BARDOLPH
+2.2 :I have no tongue, sir. : None
+PAGE
+2.2 :And for mine, sir, I will govern it. : None
+PRINCE HENRY
+2.2 :Fare you well; go. : None
+Exeunt BARDOLPH and Page : ["Exeunt - ['BARDOLPH', 'PAGE']"] : PRINCE HENRY
+2.2 :This Doll Tearsheet should be some road. : None
+POINS
+2.2 :I warrant you, as common as the way between Saint : None
+2.2 :Alban's and London. : None
+PRINCE HENRY
+2.2 :How might we see Falstaff bestow himself to-night : None
+2.2 :in his true colours, and not ourselves be seen? : None
+POINS
+2.2 :Put on two leathern jerkins and aprons, and wait : None
+2.2 :upon him at his table as drawers. : None
+PRINCE HENRY
+2.2 :From a God to a bull? a heavy decension! it was : None
+2.2 :Jove's case. From a prince to a prentice? a low : None
+2.2 :transformation! that shall be mine; for in every : None
+2.2 :thing the purpose must weigh with the folly. : None
+2.2 :Follow me, Ned. : None
+Exeunt : ['Exeunt - []'] : PRINCE HENRY
+Scene(scene=3)
+Enter NORTHUMBERLAND, LADY NORTHUMBERLAND, and LADY PERCY : ["Enter - ['NORTHUMBERLAND', 'NORTHUMBERLAND', 'LADY PERCY']"] : PRINCE HENRY
+NORTHUMBERLAND
+2.3 :I pray thee, loving wife, and gentle daughter, : None
+2.3 :Give even way unto my rough affairs: : None
+2.3 :Put not you on the visage of the times : None
+2.3 :And be like them to Percy troublesome. : None
+2.3 :LADY : None
+NORTHUMBERLAND
+2.3 :I have given over, I will speak no more: : None
+2.3 :Do what you will; your wisdom be your guide. : None
+NORTHUMBERLAND
+2.3 :Alas, sweet wife, my honour is at pawn; : None
+2.3 :And, but my going, nothing can redeem it. : None
+LADY PERCY
+2.3 :O yet, for God's sake, go not to these wars! : None
+2.3 :The time was, father, that you broke your word, : None
+2.3 :When you were more endeared to it than now; : None
+2.3 :When your own Percy, when my heart's dear Harry, : None
+2.3 :Threw many a northward look to see his father : None
+2.3 :Bring up his powers; but he did long in vain. : None
+2.3 :Who then persuaded you to stay at home? : None
+2.3 :There were two honours lost, yours and your son's. : None
+2.3 :For yours, the God of heaven brighten it! : None
+2.3 :For his, it stuck upon him as the sun : None
+2.3 :In the grey vault of heaven, and by his light : None
+2.3 :Did all the chivalry of England move : None
+2.3 :To do brave acts: he was indeed the glass : None
+2.3 :Wherein the noble youth did dress themselves: : None
+2.3 :He had no legs that practised not his gait; : None
+2.3 :And speaking thick, which nature made his blemish, : None
+2.3 :Became the accents of the valiant; : None
+2.3 :For those that could speak low and tardily : None
+2.3 :Would turn their own perfection to abuse, : None
+2.3 :To seem like him: so that in speech, in gait, : None
+2.3 :In diet, in affections of delight, : None
+2.3 :In military rules, humours of blood, : None
+2.3 :He was the mark and glass, copy and book, : None
+2.3 :That fashion'd others. And him, O wondrous him! : None
+2.3 :O miracle of men! him did you leave, : None
+2.3 :Second to none, unseconded by you, : None
+2.3 :To look upon the hideous god of war : None
+2.3 :In disadvantage; to abide a field : None
+2.3 :Where nothing but the sound of Hotspur's name : None
+2.3 :Did seem defensible: so you left him. : None
+2.3 :Never, O never, do his ghost the wrong : None
+2.3 :To hold your honour more precise and nice : None
+2.3 :With others than with him! let them alone: : None
+2.3 :The marshal and the archbishop are strong: : None
+2.3 :Had my sweet Harry had but half their numbers, : None
+2.3 :To-day might I, hanging on Hotspur's neck, : None
+2.3 :Have talk'd of Monmouth's grave. : None
+NORTHUMBERLAND
+2.3 :Beshrew your heart, : None
+2.3 :Fair daughter, you do draw my spirits from me : None
+2.3 :With new lamenting ancient oversights. : None
+2.3 :But I must go and meet with danger there, : None
+2.3 :Or it will seek me in another place : None
+2.3 :And find me worse provided. : None
+2.3 :LADY : None
+NORTHUMBERLAND
+2.3 :O, fly to Scotland, : None
+2.3 :Till that the nobles and the armed commons : None
+2.3 :Have of their puissance made a little taste. : None
+LADY PERCY
+2.3 :If they get ground and vantage of the king, : None
+2.3 :Then join you with them, like a rib of steel, : None
+2.3 :To make strength stronger; but, for all our loves, : None
+2.3 :First let them try themselves. So did your son; : None
+2.3 :He was so suffer'd: so came I a widow; : None
+2.3 :And never shall have length of life enough : None
+2.3 :To rain upon remembrance with mine eyes, : None
+2.3 :That it may grow and sprout as high as heaven, : None
+2.3 :For recordation to my noble husband. : None
+NORTHUMBERLAND
+2.3 :Come, come, go in with me. 'Tis with my mind : None
+2.3 :As with the tide swell'd up unto his height, : None
+2.3 :That makes a still-stand, running neither way: : None
+2.3 :Fain would I go to meet the archbishop, : None
+2.3 :But many thousand reasons hold me back. : None
+2.3 :I will resolve for Scotland: there am I, : None
+2.3 :Till time and vantage crave my company. : None
+Exeunt : ['Exeunt - []'] : NORTHUMBERLAND
+Scene(scene=4)
+Enter two Drawers : ['Enter - []'] : NORTHUMBERLAND
+FIRST DRAWER
+2.4 :What the devil hast thou brought there? apple-johns? : None
+2.4 :thou knowest Sir John cannot endure an apple-john. : None
+SECOND DRAWER
+2.4 :Mass, thou sayest true. The prince once set a dish : None
+2.4 :of apple-johns before him, and told him there were : None
+2.4 :five more Sir Johns, and, putting off his hat, said : None
+2.4 :'I will now take my leave of these six dry, round, : None
+2.4 :old, withered knights.' It angered him to the : None
+2.4 :heart: but he hath forgot that. : None
+FIRST DRAWER
+2.4 :Why, then, cover, and set them down: and see if : None
+2.4 :thou canst find out Sneak's noise; Mistress : None
+2.4 :Tearsheet would fain hear some music. Dispatch: the : None
+2.4 :room where they supped is too hot; they'll come in straight. : None
+SECOND DRAWER
+2.4 :Sirrah, here will be the prince and Master Poins : None
+2.4 :anon; and they will put on two of our jerkins and : None
+2.4 :aprons; and Sir John must not know of it: Bardolph : None
+2.4 :hath brought word. : None
+FIRST DRAWER
+2.4 :By the mass, here will be old Utis: it will be an : None
+2.4 :excellent stratagem. : None
+SECOND DRAWER
+2.4 :I'll see if I can find out Sneak. : None
+Exit : ['Exit - []'] : SECOND DRAWER
+Enter MISTRESS QUICKLY and DOLL TEARSHEET : ["Enter - ['MISTRESS QUICKLY', 'DOLL TEARSHEET']"] : SECOND DRAWER
+MISTRESS QUICKLY
+2.4 :I' faith, sweetheart, methinks now you are in an : None
+2.4 :excellent good temperality: your pulsidge beats as : None
+2.4 :extraordinarily as heart would desire; and your : None
+2.4 :colour, I warrant you, is as red as any rose, in good : None
+2.4 :truth, la! But, i' faith, you have drunk too much : None
+2.4 :canaries; and that's a marvellous searching wine, : None
+2.4 :and it perfumes the blood ere one can say 'What's : None
+2.4 :this?' How do you now? : None
+DOLL TEARSHEET
+2.4 :Better than I was: hem! : None
+MISTRESS QUICKLY
+2.4 :Why, that's well said; a good heart's worth gold. : None
+2.4 :Lo, here comes Sir John. : None
+Enter FALSTAFF : ["Enter - ['FALSTAFF']"] : MISTRESS QUICKLY
+FALSTAFF
+2.4 :  'When Arthur first in court,' : Singing : ['None - []'] : FALSTAFF
+2.4 :--Empty the jordan. : None
+Exit First Drawer : ["Exit - ['FIRST DRAWER']"] : FALSTAFF
+Singing : ['None - []'] : FALSTAFF
+2.4 :--'And was a worthy king.' How now, Mistress Doll! : None
+MISTRESS QUICKLY
+2.4 :Sick of a calm; yea, good faith. : None
+FALSTAFF
+2.4 :So is all her sect; an they be once in a calm, they are sick. : None
+DOLL TEARSHEET
+2.4 :You muddy rascal, is that all the comfort you give me? : None
+FALSTAFF
+2.4 :You make fat rascals, Mistress Doll. : None
+DOLL TEARSHEET
+2.4 :I make them! gluttony and diseases make them; I : None
+2.4 :make them not. : None
+FALSTAFF
+2.4 :If the cook help to make the gluttony, you help to : None
+2.4 :make the diseases, Doll: we catch of you, Doll, we : None
+2.4 :catch of you; grant that, my poor virtue grant that. : None
+DOLL TEARSHEET
+2.4 :Yea, joy, our chains and our jewels. : None
+FALSTAFF
+2.4 :'Your broaches, pearls, and ouches:' for to serve : None
+2.4 :bravely is to come halting off, you know: to come : None
+2.4 :off the breach with his pike bent bravely, and to : None
+2.4 :surgery bravely; to venture upon the charged : None
+2.4 :chambers bravely,-- : None
+DOLL TEARSHEET
+2.4 :Hang yourself, you muddy conger, hang yourself! : None
+MISTRESS QUICKLY
+2.4 :By my troth, this is the old fashion; you two never : None
+2.4 :meet but you fall to some discord: you are both, : None
+2.4 :i' good truth, as rheumatic as two dry toasts; you : None
+2.4 :cannot one bear with another's confirmities. What : None
+2.4 :the good-year! one must bear, and that must be : None
+2.4 :you: you are the weaker vessel, as they say, the : None
+2.4 :emptier vessel. : None
+DOLL TEARSHEET
+2.4 :Can a weak empty vessel bear such a huge full : None
+2.4 :hogshead? there's a whole merchant's venture of : None
+2.4 :Bourdeaux stuff in him; you have not seen a hulk : None
+2.4 :better stuffed in the hold. Come, I'll be friends : None
+2.4 :with thee, Jack: thou art going to the wars; and : None
+2.4 :whether I shall ever see thee again or no, there is : None
+2.4 :nobody cares. : None
+Re-enter First Drawer : ["Re-enter - ['FIRST DRAWER']"] : DOLL TEARSHEET
+FIRST DRAWER
+2.4 :Sir, Ancient Pistol's below, and would speak with : None
+2.4 :you. : None
+DOLL TEARSHEET
+2.4 :Hang him, swaggering rascal! let him not come : None
+2.4 :hither: it is the foul-mouthed'st rogue in England. : None
+MISTRESS QUICKLY
+2.4 :If he swagger, let him not come here: no, by my : None
+2.4 :faith; I must live among my neighbours: I'll no : None
+2.4 :swaggerers: I am in good name and fame with the : None
+2.4 :very best: shut the door; there comes no swaggerers : None
+2.4 :here: I have not lived all this while, to have : None
+2.4 :swaggering now: shut the door, I pray you. : None
+FALSTAFF
+2.4 :Dost thou hear, hostess? : None
+MISTRESS QUICKLY
+2.4 :Pray ye, pacify yourself, Sir John: there comes no : None
+2.4 :swaggerers here. : None
+FALSTAFF
+2.4 :Dost thou hear? it is mine ancient. : None
+MISTRESS QUICKLY
+2.4 :Tilly-fally, Sir John, ne'er tell me: your ancient : None
+2.4 :swaggerer comes not in my doors. I was before Master : None
+2.4 :Tisick, the debuty, t'other day; and, as he said to : None
+2.4 :me, 'twas no longer ago than Wednesday last, 'I' : None
+2.4 :good faith, neighbour Quickly,' says he; Master : None
+2.4 :Dumbe, our minister, was by then; 'neighbour : None
+2.4 :Quickly,' says he, 'receive those that are civil; : None
+2.4 :for,' said he, 'you are in an ill name:' now a' : None
+2.4 :said so, I can tell whereupon; 'for,' says he, 'you : None
+2.4 :are an honest woman, and well thought on; therefore : None
+2.4 :take heed what guests you receive: receive,' says : None
+2.4 :he, 'no swaggering companions.' There comes none : None
+2.4 :here: you would bless you to hear what he said: : None
+2.4 :no, I'll no swaggerers. : None
+FALSTAFF
+2.4 :He's no swaggerer, hostess; a tame cheater, i' : None
+2.4 :faith; you may stroke him as gently as a puppy : None
+2.4 :greyhound: he'll not swagger with a Barbary hen, if : None
+2.4 :her feathers turn back in any show of resistance. : None
+2.4 :Call him up, drawer. : None
+Exit First Drawer : ["Exit - ['FIRST DRAWER']"] : FALSTAFF
+MISTRESS QUICKLY
+2.4 :Cheater, call you him? I will bar no honest man my : None
+2.4 :house, nor no cheater: but I do not love : None
+2.4 :swaggering, by my troth; I am the worse, when one : None
+2.4 :says swagger: feel, masters, how I shake; look you, : None
+2.4 :I warrant you. : None
+DOLL TEARSHEET
+2.4 :So you do, hostess. : None
+MISTRESS QUICKLY
+2.4 :Do I? yea, in very truth, do I, an 'twere an aspen : None
+2.4 :leaf: I cannot abide swaggerers. : None
+Enter PISTOL, BARDOLPH, and Page : ["Enter - ['PISTOL', 'BARDOLPH', 'PAGE']"] : MISTRESS QUICKLY
+PISTOL
+2.4 :God save you, Sir John! : None
+FALSTAFF
+2.4 :Welcome, Ancient Pistol. Here, Pistol, I charge : None
+2.4 :you with a cup of sack: do you discharge upon mine hostess. : None
+PISTOL
+2.4 :I will discharge upon her, Sir John, with two bullets. : None
+FALSTAFF
+2.4 :She is Pistol-proof, sir; you shall hardly offend : None
+2.4 :her. : None
+MISTRESS QUICKLY
+2.4 :Come, I'll drink no proofs nor no bullets: I'll : None
+2.4 :drink no more than will do me good, for no man's : None
+2.4 :pleasure, I. : None
+PISTOL
+2.4 :Then to you, Mistress Dorothy; I will charge you. : None
+DOLL TEARSHEET
+2.4 :Charge me! I scorn you, scurvy companion. What! : None
+2.4 :you poor, base, rascally, cheating, lack-linen : None
+2.4 :mate! Away, you mouldy rogue, away! I am meat for : None
+2.4 :your master. : None
+PISTOL
+2.4 :I know you, Mistress Dorothy. : None
+DOLL TEARSHEET
+2.4 :Away, you cut-purse rascal! you filthy bung, away! : None
+2.4 :by this wine, I'll thrust my knife in your mouldy : None
+2.4 :chaps, an you play the saucy cuttle with me. Away, : None
+2.4 :you bottle-ale rascal! you basket-hilt stale : None
+2.4 :juggler, you! Since when, I pray you, sir? God's : None
+2.4 :light, with two points on your shoulder? much! : None
+PISTOL
+2.4 :God let me not live, but I will murder your ruff for this. : None
+FALSTAFF
+2.4 :No more, Pistol; I would not have you go off here: : None
+2.4 :discharge yourself of our company, Pistol. : None
+MISTRESS QUICKLY
+2.4 :No, Good Captain Pistol; not here, sweet captain. : None
+DOLL TEARSHEET
+2.4 :Captain! thou abominable damned cheater, art thou : None
+2.4 :not ashamed to be called captain? An captains were : None
+2.4 :of my mind, they would truncheon you out, for : None
+2.4 :taking their names upon you before you have earned : None
+2.4 :them. You a captain! you slave, for what? for : None
+2.4 :tearing a poor whore's ruff in a bawdy-house? He a : None
+2.4 :captain! hang him, rogue! he lives upon mouldy : None
+2.4 :stewed prunes and dried cakes. A captain! God's : None
+2.4 :light, these villains will make the word as odious : None
+2.4 :as the word 'occupy;' which was an excellent good : None
+2.4 :word before it was ill sorted: therefore captains : None
+2.4 :had need look to 't. : None
+BARDOLPH
+2.4 :Pray thee, go down, good ancient. : None
+FALSTAFF
+2.4 :Hark thee hither, Mistress Doll. : None
+PISTOL
+2.4 :Not I	I tell thee what, Corporal Bardolph, I could : None
+2.4 :tear her: I'll be revenged of her. : None
+PAGE
+2.4 :Pray thee, go down. : None
+PISTOL
+2.4 :I'll see her damned first; to Pluto's damned lake, : None
+2.4 :by this hand, to the infernal deep, with Erebus and : None
+2.4 :tortures vile also. Hold hook and line, say I. : None
+2.4 :Down, down, dogs! down, faitors! Have we not : None
+2.4 :Hiren here? : None
+MISTRESS QUICKLY
+2.4 :Good Captain Peesel, be quiet; 'tis very late, i' : None
+2.4 :faith: I beseek you now, aggravate your choler. : None
+PISTOL
+2.4 :These be good humours, indeed! Shall pack-horses : None
+2.4 :And hollow pamper'd jades of Asia, : None
+2.4 :Which cannot go but thirty mile a-day, : None
+2.4 :Compare with Caesars, and with Cannibals, : None
+2.4 :And Trojan Greeks? nay, rather damn them with : None
+2.4 :King Cerberus; and let the welkin roar. : None
+2.4 :Shall we fall foul for toys? : None
+MISTRESS QUICKLY
+2.4 :By my troth, captain, these are very bitter words. : None
+BARDOLPH
+2.4 :Be gone, good ancient: this will grow to abrawl anon. : None
+PISTOL
+2.4 :Die men like dogs! give crowns like pins! Have we : None
+2.4 :not Heren here? : None
+MISTRESS QUICKLY
+2.4 :O' my word, captain, there's none such here. What : None
+2.4 :the good-year! do you think I would deny her? For : None
+2.4 :God's sake, be quiet. : None
+PISTOL
+2.4 :Then feed, and be fat, my fair Calipolis. : None
+2.4 :Come, give's some sack. : None
+2.4 :'Si fortune me tormente, sperato me contento.' : None
+2.4 :Fear we broadsides? no, let the fiend give fire: : None
+2.4 :Give me some sack: and, sweetheart, lie thou there. : None
+Laying down his sword : ['None - []'] : PISTOL
+2.4 :Come we to full points here; and are etceteras nothing? : None
+FALSTAFF
+2.4 :Pistol, I would be quiet. : None
+PISTOL
+2.4 :Sweet knight, I kiss thy neaf: what! we have seen : None
+2.4 :the seven stars. : None
+DOLL TEARSHEET
+2.4 :For God's sake, thrust him down stairs: I cannot : None
+2.4 :endure such a fustian rascal. : None
+PISTOL
+2.4 :Thrust him down stairs! know we not Galloway nags? : None
+FALSTAFF
+2.4 :Quoit him down, Bardolph, like a shove-groat : None
+2.4 :shilling: nay, an a' do nothing but speak nothing, : None
+2.4 :a' shall be nothing here. : None
+BARDOLPH
+2.4 :Come, get you down stairs. : None
+PISTOL
+2.4 :What! shall we have incision? shall we imbrue? : None
+Snatching up his sword : ['None - []'] : PISTOL
+2.4 :Then death rock me asleep, abridge my doleful days! : None
+2.4 :Why, then, let grievous, ghastly, gaping wounds : None
+2.4 :Untwine the Sisters Three! Come, Atropos, I say! : None
+MISTRESS QUICKLY
+2.4 :Here's goodly stuff toward! : None
+FALSTAFF
+2.4 :Give me my rapier, boy. : None
+DOLL TEARSHEET
+2.4 :I pray thee, Jack, I pray thee, do not draw. : None
+FALSTAFF
+2.4 :Get you down stairs. : None
+Drawing, and driving PISTOL out : ["TO - ['PISTOL']"] : FALSTAFF
+MISTRESS QUICKLY
+2.4 :Here's a goodly tumult! I'll forswear keeping : None
+2.4 :house, afore I'll be in these tirrits and frights. : None
+2.4 :So; murder, I warrant now. Alas, alas! put up : None
+2.4 :your naked weapons, put up your naked weapons. : None
+Exeunt PISTOL and BARDOLPH : ["Exeunt - ['PISTOL', 'BARDOLPH']"] : MISTRESS QUICKLY
+DOLL TEARSHEET
+2.4 :I pray thee, Jack, be quiet; the rascal's gone. : None
+2.4 :Ah, you whoreson little valiant villain, you! : None
+MISTRESS QUICKLY
+2.4 :He you not hurt i' the groin? methought a' made a : None
+2.4 :shrewd thrust at your belly. : None
+Re-enter BARDOLPH : ["Re-enter - ['BARDOLPH']"] : MISTRESS QUICKLY
+FALSTAFF
+2.4 :Have you turned him out o' doors? : None
+BARDOLPH
+2.4 :Yea, sir. The rascal's drunk: you have hurt him, : None
+2.4 :sir, i' the shoulder. : None
+FALSTAFF
+2.4 :A rascal! to brave me! : None
+DOLL TEARSHEET
+2.4 :Ah, you sweet little rogue, you! alas, poor ape, : None
+2.4 :how thou sweatest! come, let me wipe thy face; : None
+2.4 :come on, you whoreson chops: ah, rogue! i'faith, I : None
+2.4 :love thee: thou art as valorous as Hector of Troy, : None
+2.4 :worth five of Agamemnon, and ten times better than : None
+2.4 :the Nine Worthies: ah, villain! : None
+FALSTAFF
+2.4 :A rascally slave! I will toss the rogue in a blanket. : None
+DOLL TEARSHEET
+2.4 :Do, an thou darest for thy heart: an thou dost, : None
+2.4 :I'll canvass thee between a pair of sheets. : None
+Enter Music : ['Enter - []'] : DOLL TEARSHEET
+PAGE
+2.4 :The music is come, sir. : None
+FALSTAFF
+2.4 :Let them play. Play, sirs. Sit on my knee, Doll. : None
+2.4 :A rascal bragging slave! the rogue fled from me : None
+2.4 :like quicksilver. : None
+DOLL TEARSHEET
+2.4 :I' faith, and thou followedst him like a church. : None
+2.4 :Thou whoreson little tidy Bartholomew boar-pig, : None
+2.4 :when wilt thou leave fighting o' days and foining : None
+2.4 :o' nights, and begin to patch up thine old body for heaven? : None
+Enter, behind, PRINCE HENRY and POINS, disguised : ["Enter - ['PRINCE HENRY', 'POINS']"] : DOLL TEARSHEET
+FALSTAFF
+2.4 :Peace, good Doll! do not speak like a death's-head; : None
+2.4 :do not bid me remember mine end. : None
+DOLL TEARSHEET
+2.4 :Sirrah, what humour's the prince of? : None
+FALSTAFF
+2.4 :A good shallow young fellow: a' would have made a : None
+2.4 :good pantler, a' would ha' chipp'd bread well. : None
+DOLL TEARSHEET
+2.4 :They say Poins has a good wit. : None
+FALSTAFF
+2.4 :He a good wit? hang him, baboon! his wit's as thick : None
+2.4 :as Tewksbury mustard; there's no more conceit in him : None
+2.4 :than is in a mallet. : None
+DOLL TEARSHEET
+2.4 :Why does the prince love him so, then? : None
+FALSTAFF
+2.4 :Because their legs are both of a bigness, and a' : None
+2.4 :plays at quoits well, and eats conger and fennel, : None
+2.4 :and drinks off candles' ends for flap-dragons, and : None
+2.4 :rides the wild-mare with the boys, and jumps upon : None
+2.4 :joined-stools, and swears with a good grace, and : None
+2.4 :wears his boots very smooth, like unto the sign of : None
+2.4 :the leg, and breeds no bate with telling of discreet : None
+2.4 :stories; and such other gambol faculties a' has, : None
+2.4 :that show a weak mind and an able body, for the : None
+2.4 :which the prince admits him: for the prince himself : None
+2.4 :is such another; the weight of a hair will turn the : None
+2.4 :scales between their avoirdupois. : None
+PRINCE HENRY
+2.4 :Would not this nave of a wheel have his ears cut off? : None
+POINS
+2.4 :Let's beat him before his whore. : None
+PRINCE HENRY
+2.4 :Look, whether the withered elder hath not his poll : None
+2.4 :clawed like a parrot. : None
+POINS
+2.4 :Is it not strange that desire should so many years : None
+2.4 :outlive performance? : None
+FALSTAFF
+2.4 :Kiss me, Doll. : None
+PRINCE HENRY
+2.4 :Saturn and Venus this year in conjunction! what : None
+2.4 :says the almanac to that? : None
+POINS
+2.4 :And look, whether the fiery Trigon, his man, be not : None
+2.4 :lisping to his master's old tables, his note-book, : None
+2.4 :his counsel-keeper. : None
+FALSTAFF
+2.4 :Thou dost give me flattering busses. : None
+DOLL TEARSHEET
+2.4 :By my troth, I kiss thee with a most constant heart. : None
+FALSTAFF
+2.4 :I am old, I am old. : None
+DOLL TEARSHEET
+2.4 :I love thee better than I love e'er a scurvy young : None
+2.4 :boy of them all. : None
+FALSTAFF
+2.4 :What stuff wilt have a kirtle of? I shall receive : None
+2.4 :money o' Thursday: shalt have a cap to-morrow. A : None
+2.4 :merry song, come: it grows late; we'll to bed. : None
+2.4 :Thou'lt forget me when I am gone. : None
+DOLL TEARSHEET
+2.4 :By my troth, thou'lt set me a-weeping, an thou : None
+2.4 :sayest so: prove that ever I dress myself handsome : None
+2.4 :till thy return: well, harken at the end. : None
+FALSTAFF
+2.4 :Some sack, Francis. : None
+PRINCE HENRY
+POINS
+2.4 :Anon, anon, sir. : None
+Coming forward : ['None - []'] : POINS
+FALSTAFF
+2.4 :Ha! a bastard son of the king's? And art not thou : None
+2.4 :Poins his brother? : None
+PRINCE HENRY
+2.4 :Why, thou globe of sinful continents! what a life : None
+2.4 :dost thou lead! : None
+FALSTAFF
+2.4 :A better than thou: I am a gentleman; thou art a drawer. : None
+PRINCE HENRY
+2.4 :Very true, sir; and I come to draw you out by the ears. : None
+MISTRESS QUICKLY
+2.4 :O, the Lord preserve thy good grace! by my troth, : None
+2.4 :welcome to London. Now, the Lord bless that sweet : None
+2.4 :face of thine! O, Jesu, are you come from Wales? : None
+FALSTAFF
+2.4 :Thou whoreson mad compound of majesty, by this light : None
+2.4 :flesh and corrupt blood, thou art welcome. : None
+DOLL TEARSHEET
+2.4 :How, you fat fool! I scorn you. : None
+POINS
+2.4 :My lord, he will drive you out of your revenge and : None
+2.4 :turn all to a merriment, if you take not the heat. : None
+PRINCE HENRY
+2.4 :You whoreson candle-mine, you, how vilely did you : None
+2.4 :speak of me even now before this honest, virtuous, : None
+2.4 :civil gentlewoman! : None
+MISTRESS QUICKLY
+2.4 :God's blessing of your good heart! and so she is, : None
+2.4 :by my troth. : None
+FALSTAFF
+2.4 :Didst thou hear me? : None
+PRINCE HENRY
+2.4 :Yea, and you knew me, as you did when you ran away : None
+2.4 :by Gad's-hill: you knew I was at your back, and : None
+2.4 :spoke it on purpose to try my patience. : None
+FALSTAFF
+2.4 :No, no, no; not so; I did not think thou wast within hearing. : None
+PRINCE HENRY
+2.4 :I shall drive you then to confess the wilful abuse; : None
+2.4 :and then I know how to handle you. : None
+FALSTAFF
+2.4 :No abuse, Hal, o' mine honour, no abuse. : None
+PRINCE HENRY
+2.4 :Not to dispraise me, and call me pantier and : None
+2.4 :bread-chipper and I know not what? : None
+FALSTAFF
+2.4 :No abuse, Hal. : None
+POINS
+2.4 :No abuse? : None
+FALSTAFF
+2.4 :No abuse, Ned, i' the world; honest Ned, none. I : None
+2.4 :dispraised him before the wicked, that the wicked : None
+2.4 :might not fall in love with him; in which doing, I : None
+2.4 :have done the part of a careful friend and a true : None
+2.4 :subject, and thy father is to give me thanks for it. : None
+2.4 :No abuse, Hal: none, Ned, none: no, faith, boys, none. : None
+PRINCE HENRY
+2.4 :See now, whether pure fear and entire cowardice doth : None
+2.4 :not make thee wrong this virtuous gentlewoman to : None
+2.4 :close with us? is she of the wicked? is thine : None
+2.4 :hostess here of the wicked? or is thy boy of the : None
+2.4 :wicked? or honest Bardolph, whose zeal burns in his : None
+2.4 :nose, of the wicked? : None
+POINS
+2.4 :Answer, thou dead elm, answer. : None
+FALSTAFF
+2.4 :The fiend hath pricked down Bardolph irrecoverable; : None
+2.4 :and his face is Lucifer's privy-kitchen, where he : None
+2.4 :doth nothing but roast malt-worms. For the boy, : None
+2.4 :there is a good angel about him; but the devil : None
+2.4 :outbids him too. : None
+PRINCE HENRY
+2.4 :For the women? : None
+FALSTAFF
+2.4 :For one of them, she is in hell already, and burns : None
+2.4 :poor souls. For the other, I owe her money, and : None
+2.4 :whether she be damned for that, I know not. : None
+MISTRESS QUICKLY
+2.4 :No, I warrant you. : None
+FALSTAFF
+2.4 :No, I think thou art not; I think thou art quit for : None
+2.4 :that. Marry, there is another indictment upon thee, : None
+2.4 :for suffering flesh to be eaten in thy house, : None
+2.4 :contrary to the law; for the which I think thou wilt howl. : None
+MISTRESS QUICKLY
+2.4 :All victuallers do so; what's a joint of mutton or : None
+2.4 :two in a whole Lent? : None
+PRINCE HENRY
+2.4 :You, gentlewoman,- : None
+DOLL TEARSHEET
+2.4 :What says your grace? : None
+FALSTAFF
+2.4 :His grace says that which his flesh rebels against. : None
+Knocking within : ['None - []'] : FALSTAFF
+MISTRESS QUICKLY
+2.4 :Who knocks so loud at door? Look to the door there, Francis. : None
+Enter PETO : ["Enter - ['PETO']"] : MISTRESS QUICKLY
+PRINCE HENRY
+2.4 :Peto, how now! what news? : None
+PETO
+2.4 :The king your father is at Westminster: : None
+2.4 :And there are twenty weak and wearied posts : None
+2.4 :Come from the north: and, as I came along, : None
+2.4 :I met and overtook a dozen captains, : None
+2.4 :Bare-headed, sweating, knocking at the taverns, : None
+2.4 :And asking every one for Sir John Falstaff. : None
+PRINCE HENRY
+2.4 :By heaven, Poins, I feel me much to blame, : None
+2.4 :So idly to profane the precious time, : None
+2.4 :When tempest of commotion, like the south : None
+2.4 :Borne with black vapour, doth begin to melt : None
+2.4 :And drop upon our bare unarmed heads. : None
+2.4 :Give me my sword and cloak. Falstaff, good night. : None
+Exeunt PRINCE HENRY, POINS, PETO and BARDOLPH : ["Exeunt - ['PRINCE HENRY', 'POINS', 'PETO', 'BARDOLPH']"] : PRINCE HENRY
+FALSTAFF
+2.4 :Now comes in the sweetest morsel of the night, and : None
+2.4 :we must hence and leave it unpicked. : None
+Knocking within : ['None - []'] : FALSTAFF
+2.4 :More knocking at the door! : None
+Re-enter BARDOLPH : ["Re-enter - ['BARDOLPH']"] : FALSTAFF
+2.4 :How now! what's the matter? : None
+BARDOLPH
+2.4 :You must away to court, sir, presently; : None
+2.4 :A dozen captains stay at door for you. : None
+FALSTAFF
+2.4 :  Pay the musicians, sirrah. Farewell, : To the Page : ["To - ['PAGE']"] : FALSTAFF
+2.4 :hostess; farewell, Doll. You see, my good wenches, : None
+2.4 :how men of merit are sought after: the undeserver : None
+2.4 :may sleep, when the man of action is called on. : None
+2.4 :Farewell good wenches: if I be not sent away post, : None
+2.4 :I will see you again ere I go. : None
+DOLL TEARSHEET
+2.4 :I cannot speak; if my heart be not read to burst,-- : None
+2.4 :well, sweet Jack, have a care of thyself. : None
+FALSTAFF
+2.4 :Farewell, farewell. : None
+Exeunt FALSTAFF and BARDOLPH : ["Exeunt - ['FALSTAFF', 'BARDOLPH']"] : FALSTAFF
+MISTRESS QUICKLY
+2.4 :Well, fare thee well: I have known thee these : None
+2.4 :twenty-nine years, come peascod-time; but an : None
+2.4 :honester and truer-hearted man,--well, fare thee well. : None
+BARDOLPH
+2.4 :  Mistress Tearsheet! : Within : ['None - []'] : BARDOLPH
+MISTRESS QUICKLY
+2.4 :What's the matter? : None
+BARDOLPH
+2.4 :  Good Mistress Tearsheet, come to my master. : Within : ['None - []'] : BARDOLPH
+MISTRESS QUICKLY
+2.4 :O, run, Doll, run; run, good Doll: come. : None
+She comes blubbered : ['None - []'] : MISTRESS QUICKLY
+2.4 :Yea, will you come, Doll? : None
+Exeunt : ['Exeunt - []'] : MISTRESS QUICKLY
+Act(act=3)
+Scene(scene=1)
+Enter KING HENRY IV in his nightgown, with a Page : ["Enter - ['KING HENRY IV', 'PAGE']"] : MISTRESS QUICKLY
+KING HENRY IV
+3.1 :Go call the Earls of Surrey and of Warwick; : None
+3.1 :But, ere they come, bid them o'er-read these letters, : None
+3.1 :And well consider of them; make good speed. : None
+Exit Page : ["Exit - ['PAGE']"] : KING HENRY IV
+3.1 :How many thousand of my poorest subjects : None
+3.1 :Are at this hour asleep! O sleep, O gentle sleep, : None
+3.1 :Nature's soft nurse, how have I frighted thee, : None
+3.1 :That thou no more wilt weigh my eyelids down : None
+3.1 :And steep my senses in forgetfulness? : None
+3.1 :Why rather, sleep, liest thou in smoky cribs, : None
+3.1 :Upon uneasy pallets stretching thee : None
+3.1 :And hush'd with buzzing night-flies to thy slumber, : None
+3.1 :Than in the perfumed chambers of the great, : None
+3.1 :Under the canopies of costly state, : None
+3.1 :And lull'd with sound of sweetest melody? : None
+3.1 :O thou dull god, why liest thou with the vile : None
+3.1 :In loathsome beds, and leavest the kingly couch : None
+3.1 :A watch-case or a common 'larum-bell? : None
+3.1 :Wilt thou upon the high and giddy mast : None
+3.1 :Seal up the ship-boy's eyes, and rock his brains : None
+3.1 :In cradle of the rude imperious surge : None
+3.1 :And in the visitation of the winds, : None
+3.1 :Who take the ruffian billows by the top, : None
+3.1 :Curling their monstrous heads and hanging them : None
+3.1 :With deafening clamour in the slippery clouds, : None
+3.1 :That, with the hurly, death itself awakes? : None
+3.1 :Canst thou, O partial sleep, give thy repose : None
+3.1 :To the wet sea-boy in an hour so rude, : None
+3.1 :And in the calmest and most stillest night, : None
+3.1 :With all appliances and means to boot, : None
+3.1 :Deny it to a king? Then happy low, lie down! : None
+3.1 :Uneasy lies the head that wears a crown. : None
+Enter WARWICK and SURREY : ["Enter - ['WARWICK']"] : KING HENRY IV
+WARWICK
+3.1 :Many good morrows to your majesty! : None
+KING HENRY IV
+3.1 :Is it good morrow, lords? : None
+WARWICK
+3.1 :'Tis one o'clock, and past. : None
+KING HENRY IV
+3.1 :Why, then, good morrow to you all, my lords. : None
+3.1 :Have you read o'er the letters that I sent you? : None
+WARWICK
+3.1 :We have, my liege. : None
+KING HENRY IV
+3.1 :Then you perceive the body of our kingdom : None
+3.1 :How foul it is; what rank diseases grow : None
+3.1 :And with what danger, near the heart of it. : None
+WARWICK
+3.1 :It is but as a body yet distemper'd; : None
+3.1 :Which to his former strength may be restored : None
+3.1 :With good advice and little medicine: : None
+3.1 :My Lord Northumberland will soon be cool'd. : None
+KING HENRY IV
+3.1 :O God! that one might read the book of fate, : None
+3.1 :And see the revolution of the times : None
+3.1 :Make mountains level, and the continent, : None
+3.1 :Weary of solid firmness, melt itself : None
+3.1 :Into the sea! and, other times, to see : None
+3.1 :The beachy girdle of the ocean : None
+3.1 :Too wide for Neptune's hips; how chances mock, : None
+3.1 :And changes fill the cup of alteration : None
+3.1 :With divers liquors! O, if this were seen, : None
+3.1 :The happiest youth, viewing his progress through, : None
+3.1 :What perils past, what crosses to ensue, : None
+3.1 :Would shut the book, and sit him down and die. : None
+3.1 :'Tis not 'ten years gone : None
+3.1 :Since Richard and Northumberland, great friends, : None
+3.1 :Did feast together, and in two years after : None
+3.1 :Were they at wars: it is but eight years since : None
+3.1 :This Percy was the man nearest my soul, : None
+3.1 :Who like a brother toil'd in my affairs : None
+3.1 :And laid his love and life under my foot, : None
+3.1 :Yea, for my sake, even to the eyes of Richard : None
+3.1 :Gave him defiance. But which of you was by-- : None
+3.1 :You, cousin Nevil, as I may remember-- : None
+To WARWICK : ["To - ['WARWICK']"] : KING HENRY IV
+3.1 :When Richard, with his eye brimful of tears, : None
+3.1 :Then cheque'd and rated by Northumberland, : None
+3.1 :Did speak these words, now proved a prophecy? : None
+3.1 :'Northumberland, thou ladder by the which : None
+3.1 :My cousin Bolingbroke ascends my throne;' : None
+3.1 :Though then, God knows, I had no such intent, : None
+3.1 :But that necessity so bow'd the state : None
+3.1 :That I and greatness were compell'd to kiss: : None
+3.1 :'The time shall come,' thus did he follow it, : None
+3.1 :'The time will come, that foul sin, gathering head, : None
+3.1 :Shall break into corruption:' so went on, : None
+3.1 :Foretelling this same time's condition : None
+3.1 :And the division of our amity. : None
+WARWICK
+3.1 :There is a history in all men's lives, : None
+3.1 :Figuring the nature of the times deceased; : None
+3.1 :The which observed, a man may prophesy, : None
+3.1 :With a near aim, of the main chance of things : None
+3.1 :As yet not come to life, which in their seeds : None
+3.1 :And weak beginnings lie intreasured. : None
+3.1 :Such things become the hatch and brood of time; : None
+3.1 :And by the necessary form of this : None
+3.1 :King Richard might create a perfect guess : None
+3.1 :That great Northumberland, then false to him, : None
+3.1 :Would of that seed grow to a greater falseness; : None
+3.1 :Which should not find a ground to root upon, : None
+3.1 :Unless on you. : None
+KING HENRY IV
+3.1 :                  Are these things then necessities? : None
+3.1 :Then let us meet them like necessities: : None
+3.1 :And that same word even now cries out on us: : None
+3.1 :They say the bishop and Northumberland : None
+3.1 :Are fifty thousand strong. : None
+WARWICK
+3.1 :It cannot be, my lord; : None
+3.1 :Rumour doth double, like the voice and echo, : None
+3.1 :The numbers of the fear'd. Please it your grace : None
+3.1 :To go to bed. Upon my soul, my lord, : None
+3.1 :The powers that you already have sent forth : None
+3.1 :Shall bring this prize in very easily. : None
+3.1 :To comfort you the more, I have received : None
+3.1 :A certain instance that Glendower is dead. : None
+3.1 :Your majesty hath been this fortnight ill, : None
+3.1 :And these unseason'd hours perforce must add : None
+3.1 :Unto your sickness. : None
+KING HENRY IV
+3.1 :I will take your counsel: : None
+3.1 :And were these inward wars once out of hand, : None
+3.1 :We would, dear lords, unto the Holy Land. : None
+Exeunt : ['Exeunt - []'] : KING HENRY IV
+Scene(scene=2)
+Enter SHALLOW and SILENCE, meeting; MOULDY,  SHADOW, WART, FEEBLE, BULLCALF, a Servant or two with them : ["Enter - ['SHALLOW', 'SILENCE', 'MOULDY', 'SHADOW', 'WART', 'FEEBLE', 'BULLCALF', 'SERVANT']"] : KING HENRY IV
+SHALLOW
+3.2 :Come on, come on, come on, sir; give me your hand, : None
+3.2 :sir, give me your hand, sir: an early stirrer, by : None
+3.2 :the rood! And how doth my good cousin Silence? : None
+SILENCE
+3.2 :Good morrow, good cousin Shallow. : None
+SHALLOW
+3.2 :And how doth my cousin, your bedfellow? and your : None
+3.2 :fairest daughter and mine, my god-daughter Ellen? : None
+SILENCE
+3.2 :Alas, a black ousel, cousin Shallow! : None
+SHALLOW
+3.2 :By yea and nay, sir, I dare say my cousin William is : None
+3.2 :become a good scholar: he is at Oxford still, is he not? : None
+SILENCE
+3.2 :Indeed, sir, to my cost. : None
+SHALLOW
+3.2 :A' must, then, to the inns o' court shortly. I was : None
+3.2 :once of Clement's Inn, where I think they will : None
+3.2 :talk of mad Shallow yet. : None
+SILENCE
+3.2 :You were called 'lusty Shallow' then, cousin. : None
+SHALLOW
+3.2 :By the mass, I was called any thing; and I would : None
+3.2 :have done any thing indeed too, and roundly too. : None
+3.2 :There was I, and little John Doit of Staffordshire, : None
+3.2 :and black George Barnes, and Francis Pickbone, and : None
+3.2 :Will Squele, a Cotswold man; you had not four such : None
+3.2 :swinge-bucklers in all the inns o' court again: and : None
+3.2 :I may say to you, we knew where the bona-robas were : None
+3.2 :and had the best of them all at commandment. Then : None
+3.2 :was Jack Falstaff, now Sir John, a boy, and page to : None
+3.2 :Thomas Mowbray, Duke of Norfolk. : None
+SILENCE
+3.2 :This Sir John, cousin, that comes hither anon about soldiers? : None
+SHALLOW
+3.2 :The same Sir John, the very same. I  see him break : None
+3.2 :Skogan's head at the court-gate, when a' was a : None
+3.2 :crack not thus high: and the very same day did I : None
+3.2 :fight with one Sampson Stockfish, a fruiterer, : None
+3.2 :behind Gray's Inn. Jesu, Jesu, the mad days that I : None
+3.2 :have spent! and to see how many of my old : None
+3.2 :acquaintance are dead! : None
+SILENCE
+3.2 :We shall all follow, cousin. : None
+SHADOW
+3.2 :Certain, 'tis certain; very sure, very sure: death, : None
+3.2 :as the Psalmist saith, is certain to all; all shall : None
+3.2 :die. How a good yoke of bullocks at Stamford fair? : None
+SILENCE
+3.2 :By my troth, I was not there. : None
+SHALLOW
+3.2 :Death is certain. Is old Double of your town living : None
+3.2 :yet? : None
+SILENCE
+3.2 :Dead, sir. : None
+SHALLOW
+3.2 :Jesu, Jesu, dead! a' drew a good bow; and dead! a' : None
+3.2 :shot a fine shoot: John a Gaunt loved him well, and : None
+3.2 :betted much money on his head. Dead! a' would have : None
+3.2 :clapped i' the clout at twelve score; and carried : None
+3.2 :you a forehand shaft a fourteen and fourteen and a : None
+3.2 :half, that it would have done a man's heart good to : None
+3.2 :see. How a score of ewes now? : None
+SILENCE
+3.2 :Thereafter as they be: a score of good ewes may be : None
+3.2 :worth ten pounds. : None
+SHALLOW
+3.2 :And is old Double dead? : None
+SILENCE
+3.2 :Here come two of Sir John Falstaff's men, as I think. : None
+Enter BARDOLPH and one with him : ["Enter - ['BARDOLPH']"] : SILENCE
+BARDOLPH
+3.2 :Good morrow, honest gentlemen: I beseech you, which : None
+3.2 :is Justice Shallow? : None
+SHALLOW
+3.2 :I am Robert Shallow, sir; a poor esquire of this : None
+3.2 :county, and one of the king's justices of th e peace: : None
+3.2 :What is your good pleasure with me? : None
+BARDOLPH
+3.2 :My captain, sir, commends him to you; my captain, : None
+3.2 :Sir John Falstaff, a tall gentleman, by heaven, and : None
+3.2 :a most gallant leader. : None
+SHALLOW
+3.2 :He greets me well, sir. I knew him a good backsword : None
+3.2 :man. How doth the good knight? may I ask how my : None
+3.2 :lady his wife doth? : None
+BARDOLPH
+3.2 :Sir, pardon; a soldier is better accommodated than : None
+3.2 :with a wife. : None
+SHALLOW
+3.2 :It is well said, in faith, sir; and it is well said : None
+3.2 :indeed too. Better accommodated! it is good; yea, : None
+3.2 :indeed, is it: good phrases are surely, and ever : None
+3.2 :were, very commendable. Accommodated! it comes of : None
+3.2 :'accommodo' very good; a good phrase. : None
+BARDOLPH
+3.2 :Pardon me, sir; I have heard the word. Phrase call : None
+3.2 :you it? by this good day, I know not the phrase; : None
+3.2 :but I will maintain the word with my sword to be a : None
+3.2 :soldier-like word, and a word of exceeding good : None
+3.2 :command, by heaven. Accommodated; that is, when a : None
+3.2 :man is, as they say, accommodated; or when a man is, : None
+3.2 :being, whereby a' may be thought to be accommodated; : None
+3.2 :which is an excellent thing. : None
+SHALLOW
+3.2 :It is very just. : None
+Enter FALSTAFF : ["Enter - ['FALSTAFF']"] : SHALLOW
+3.2 :Look, here comes good Sir John. Give me your good : None
+3.2 :hand, give me your worship's good hand: by my : None
+3.2 :troth, you like well and bear your years very well: : None
+3.2 :welcome, good Sir John. : None
+FALSTAFF
+3.2 :I am glad to see you well, good Master Robert : None
+3.2 :Shallow: Master Surecard, as I think? : None
+SHALLOW
+3.2 :No, Sir John; it is my cousin Silence, in commission with me. : None
+FALSTAFF
+3.2 :Good Master Silence, it well befits you should be of : None
+3.2 :the peace. : None
+SILENCE
+3.2 :Your good-worship is welcome. : None
+FALSTAFF
+3.2 :Fie! this is hot weather, gentlemen. Have you : None
+3.2 :provided me here half a dozen sufficient men? : None
+SHALLOW
+3.2 :Marry, have we, sir. Will you sit? : None
+FALSTAFF
+3.2 :Let me see them, I beseech you. : None
+SHALLOW
+3.2 :Where's the roll? where's the roll? where's the : None
+3.2 :roll? Let me see, let me see, let me see. So, so: : None
+3.2 :yea, marry, sir: Ralph Mouldy! Let them appear as : None
+3.2 :I call; let them do so, let them do so. Let me : None
+3.2 :see; where is Mouldy? : None
+MOULDY
+3.2 :Here, an't please you. : None
+SHALLOW
+3.2 :What think you, Sir John? a good-limbed fellow; : None
+3.2 :young, strong, and of good friends. : None
+FALSTAFF
+3.2 :Is thy name Mouldy? : None
+MOULDY
+3.2 :Yea, an't please you. : None
+FALSTAFF
+3.2 :'Tis the more time thou wert used. : None
+SHALLOW
+3.2 :Ha, ha, ha! most excellent, i' faith! Things that : None
+3.2 :are mouldy lack use: very singular good! in faith, : None
+3.2 :well said, Sir John, very well said. : None
+FALSTAFF
+3.2 :Prick him. : None
+MOULDY
+3.2 :I was pricked well enough before, an you could have : None
+3.2 :let me alone: my old dame will be undone now for : None
+3.2 :one to do her husbandry and her drudgery: you need : None
+3.2 :not to have pricked me; there are other men fitter : None
+3.2 :to go out than I. : None
+FALSTAFF
+3.2 :Go to: peace, Mouldy; you shall go. Mouldy, it is : None
+3.2 :time you were spent. : None
+MOULDY
+3.2 :Spent! : None
+SHALLOW
+3.2 :Peace, fellow, peace; stand aside: know you where : None
+3.2 :you are? For the other, Sir John: let me see: : None
+3.2 :Simon Shadow! : None
+FALSTAFF
+3.2 :Yea, marry, let me have him to sit under: he's like : None
+3.2 :to be a cold soldier. : None
+SHALLOW
+3.2 :Where's Shadow? : None
+SHADOW
+3.2 :Here, sir. : None
+FALSTAFF
+3.2 :Shadow, whose son art thou? : None
+SHADOW
+3.2 :My mother's son, sir. : None
+FALSTAFF
+3.2 :Thy mother's son! like enough, and thy father's : None
+3.2 :shadow: so the son of the female is the shadow of : None
+3.2 :the male: it is often so, indeed; but much of the : None
+3.2 :father's substance! : None
+SHALLOW
+3.2 :Do you like him, Sir John? : None
+FALSTAFF
+3.2 :Shadow will serve for summer; prick him, for we have : None
+3.2 :a number of shadows to fill up the muster-book. : None
+SHALLOW
+3.2 :Thomas Wart! : None
+FALSTAFF
+3.2 :Where's he? : None
+WART
+3.2 :Here, sir. : None
+FALSTAFF
+3.2 :Is thy name Wart? : None
+WART
+3.2 :Yea, sir. : None
+FALSTAFF
+3.2 :Thou art a very ragged wart. : None
+SHALLOW
+3.2 :Shall I prick him down, Sir John? : None
+FALSTAFF
+3.2 :It were superfluous; for his apparel is built upon : None
+3.2 :his back and the whole frame stands upon pins: : None
+3.2 :prick him no more. : None
+SHALLOW
+3.2 :Ha, ha, ha! you can do it, sir; you can do it: I : None
+3.2 :commend you well. Francis Feeble! : None
+FEEBLE
+3.2 :Here, sir. : None
+FALSTAFF
+3.2 :What trade art thou, Feeble? : None
+FEEBLE
+3.2 :A woman's tailor, sir. : None
+SHALLOW
+3.2 :Shall I prick him, sir? : None
+FALSTAFF
+3.2 :You may: but if he had been a man's tailor, he'ld : None
+3.2 :ha' pricked you. Wilt thou make as many holes in : None
+3.2 :an enemy's battle as thou hast done in a woman's petticoat? : None
+FEEBLE
+3.2 :I will do my good will, sir; you can have no more. : None
+FALSTAFF
+3.2 :Well said, good woman's tailor! well said, : None
+3.2 :courageous Feeble! thou wilt be as valiant as the : None
+3.2 :wrathful dove or most magnanimous mouse. Prick the : None
+3.2 :woman's tailor: well, Master Shallow; deep, Master Shallow. : None
+FEEBLE
+3.2 :I would Wart might have gone, sir. : None
+FALSTAFF
+3.2 :I would thou wert a man's tailor, that thou mightst : None
+3.2 :mend him and make him fit to go. I cannot put him : None
+3.2 :to a private soldier that is the leader of so many : None
+3.2 :thousands: let that suffice, most forcible Feeble. : None
+FEEBLE
+3.2 :It shall suffice, sir. : None
+FALSTAFF
+3.2 :I am bound to thee, reverend Feeble. Who is next? : None
+SHALLOW
+3.2 :Peter Bullcalf o' the green! : None
+FALSTAFF
+3.2 :Yea, marry, let's see Bullcalf. : None
+BULLCALF
+3.2 :Here, sir. : None
+FALSTAFF
+3.2 :'Fore God, a likely fellow! Come, prick me Bullcalf : None
+3.2 :till he roar again. : None
+BULLCALF
+3.2 :O Lord! good my lord captain,-- : None
+FALSTAFF
+3.2 :What, dost thou roar before thou art pricked? : None
+BULLCALF
+3.2 :O Lord, sir! I am a diseased man. : None
+FALSTAFF
+3.2 :What disease hast thou? : None
+BULLCALF
+3.2 :A whoreson cold, sir, a cough, sir, which I caught : None
+3.2 :with ringing in the king's affairs upon his : None
+3.2 :coronation-day, sir. : None
+FALSTAFF
+3.2 :Come, thou shalt go to the wars in a gown; we wilt : None
+3.2 :have away thy cold; and I will take such order that : None
+3.2 :my friends shall ring for thee. Is here all? : None
+SHALLOW
+3.2 :Here is two more called than your number, you must : None
+3.2 :have but four here, sir: and so, I pray you, go in : None
+3.2 :with me to dinner. : None
+FALSTAFF
+3.2 :Come, I will go drink with you, but I cannot tarry : None
+3.2 :dinner. I am glad to see you, by my troth, Master Shallow. : None
+SHALLOW
+3.2 :O, Sir John, do you remember since we lay all night : None
+3.2 :in the windmill in Saint George's field? : None
+FALSTAFF
+3.2 :No more of that, good Master Shallow, no more of that. : None
+SHALLOW
+3.2 :Ha! 'twas a merry night. And is Jane Nightwork alive? : None
+FALSTAFF
+3.2 :She lives, Master Shallow. : None
+SHALLOW
+3.2 :She never could away with me. : None
+FALSTAFF
+3.2 :Never, never; she would always say she could not : None
+3.2 :abide Master Shallow. : None
+SHALLOW
+3.2 :By the mass, I could anger her to the heart. She : None
+3.2 :was then a bona-roba. Doth she hold her own well? : None
+FALSTAFF
+3.2 :Old, old, Master Shallow. : None
+SHALLOW
+3.2 :Nay, she must be old; she cannot choose but be old; : None
+3.2 :certain she's old; and had Robin Nightwork by old : None
+3.2 :Nightwork before I came to Clement's Inn. : None
+SILENCE
+3.2 :That's fifty-five year ago. : None
+SHALLOW
+3.2 :Ha, cousin Silence, that thou hadst seen that that : None
+3.2 :this knight and I have seen! Ha, Sir John, said I well? : None
+FALSTAFF
+3.2 :We have heard the chimes at midnight, Master Shallow. : None
+SHALLOW
+3.2 :That we have, that we have, that we have; in faith, : None
+3.2 :Sir John, we have: our watch-word was 'Hem boys!' : None
+3.2 :Come, let's to dinner; come, let's to dinner: : None
+3.2 :Jesus, the days that we have seen! Come, come. : None
+Exeunt FALSTAFF and Justices : ["Exeunt - ['FALSTAFF']"] : SHALLOW
+BULLCALF
+3.2 :Good Master Corporate Bardolph, stand my friend; : None
+3.2 :and here's four Harry ten shillings in French crowns : None
+3.2 :for you. In very truth, sir, I had as lief be : None
+3.2 :hanged, sir, as go: and yet, for mine own part, sir, : None
+3.2 :I do not care; but rather, because I am unwilling, : None
+3.2 :and, for mine own part, have a desire to stay with : None
+3.2 :my friends; else, sir, I did not care, for mine own : None
+3.2 :part, so much. : None
+BARDOLPH
+3.2 :Go to; stand aside. : None
+MOULDY
+3.2 :And, good master corporal captain, for my old : None
+3.2 :dame's sake, stand my friend: she has nobody to do : None
+3.2 :any thing about her when I am gone; and she is old, : None
+3.2 :and cannot help herself: You shall have forty, sir. : None
+BARDOLPH
+3.2 :Go to; stand aside. : None
+FEEBLE
+3.2 :By my troth, I care not; a man can die but once: we : None
+3.2 :owe God a death: I'll ne'er bear a base mind: : None
+3.2 :an't be my destiny, so; an't be not, so: no man is : None
+3.2 :too good to serve's prince; and let it go which way : None
+3.2 :it will, he that dies this year is quit for the next. : None
+BARDOLPH
+3.2 :Well said; thou'rt a good fellow. : None
+FEEBLE
+3.2 :Faith, I'll bear no base mind. : None
+Re-enter FALSTAFF and the Justices : ["Re-enter - ['FALSTAFF']"] : FEEBLE
+FALSTAFF
+3.2 :Come, sir, which men shall I have? : None
+SHALLOW
+3.2 :Four of which you please. : None
+BARDOLPH
+3.2 :Sir, a word with you: I have three pound to free : None
+3.2 :Mouldy and Bullcalf. : None
+FALSTAFF
+3.2 :Go to; well. : None
+SHALLOW
+3.2 :Come, Sir John, which four will you have? : None
+FALSTAFF
+3.2 :Do you choose for me. : None
+SHALLOW
+3.2 :Marry, then, Mouldy, Bullcalf, Feeble and Shadow. : None
+FALSTAFF
+3.2 :Mouldy and Bullcalf: for you, Mouldy, stay at home : None
+3.2 :till you are past service: and for your part, : None
+3.2 :Bullcalf, grow till you come unto it: I will none of you. : None
+SHALLOW
+3.2 :Sir John, Sir John, do not yourself wrong: they are : None
+3.2 :your likeliest men, and I would have you served with the best. : None
+FALSTAFF
+3.2 :Will you tell me, Master Shallow, how to choose a : None
+3.2 :man? Care I for the limb, the thewes, the stature, : None
+3.2 :bulk, and big assemblance of a man! Give me the : None
+3.2 :spirit, Master Shallow. Here's Wart; you see what a : None
+3.2 :ragged appearance it is; a' shall charge you and : None
+3.2 :discharge you with the motion of a pewterer's : None
+3.2 :hammer, come off and on swifter than he that gibbets : None
+3.2 :on the brewer's bucket. And this same half-faced : None
+3.2 :fellow, Shadow; give me this man: he presents no : None
+3.2 :mark to the enemy; the foeman may with as great aim : None
+3.2 :level at the edge of a penknife. And for a retreat; : None
+3.2 :how swiftly will this Feeble the woman's tailor run : None
+3.2 :off! O, give me the spare men, and spare me the : None
+3.2 :great ones. Put me a caliver into Wart's hand, Bardolph. : None
+BARDOLPH
+3.2 :Hold, Wart, traverse; thus, thus, thus. : None
+FALSTAFF
+3.2 :Come, manage me your caliver. So: very well: go : None
+3.2 :to: very good, exceeding good. O, give me always a : None
+3.2 :little, lean, old, chapt, bald shot. Well said, i' : None
+3.2 :faith, Wart; thou'rt a good scab: hold, there's a : None
+3.2 :tester for thee. : None
+SHALLOW
+3.2 :He is not his craft's master; he doth not do it : None
+3.2 :right. I remember at Mile-end Green, when I lay at : None
+3.2 :Clement's Inn--I was then Sir Dagonet in Arthur's : None
+3.2 :show,--there was a little quiver fellow, and a' : None
+3.2 :would manage you his piece thus; and a' would about : None
+3.2 :and about, and come you in and come you in: 'rah, : None
+3.2 :tah, tah,' would a' say; 'bounce' would a' say; and : None
+3.2 :away again would a' go, and again would a' come: I : None
+3.2 :shall ne'er see such a fellow. : None
+FALSTAFF
+3.2 :These fellows will do well, Master Shallow. God : None
+3.2 :keep you, Master Silence: I will not use many words : None
+3.2 :with you. Fare you well, gentlemen both: I thank : None
+3.2 :you: I must a dozen mile to-night. Bardolph, give : None
+3.2 :the soldiers coats. : None
+SHALLOW
+3.2 :Sir John, the Lord bless you! God prosper your : None
+3.2 :affairs! God send us peace! At your return visit : None
+3.2 :our house; let our old acquaintance be renewed; : None
+3.2 :peradventure I will with ye to the court. : None
+FALSTAFF
+3.2 :'Fore God, I would you would, Master Shallow. : None
+SHALLOW
+3.2 :Go to; I have spoke at a word. God keep you. : None
+FALSTAFF
+3.2 :Fare you well, gentle gentlemen. : None
+Exeunt Justices : ['Exeunt - []'] : FALSTAFF
+3.2 :On, Bardolph; lead the men away. : None
+Exeunt BARDOLPH, Recruits,  & c : ["Exeunt - ['BARDOLPH']"] : FALSTAFF
+3.2 :As I return, I will fetch off these justices: I do : None
+3.2 :see the bottom of Justice Shallow. Lord, Lord, how : None
+3.2 :subject we old men are to this vice of lying! This : None
+3.2 :same starved justice hath done nothing but prate to : None
+3.2 :me of the wildness of his youth, and the feats he : None
+3.2 :hath done about Turnbull Street: and every third : None
+3.2 :word a lie, duer paid to the hearer than the Turk's : None
+3.2 :tribute. I do remember him at Clement's Inn like a : None
+3.2 :man made after supper of a cheese-paring: when a' : None
+3.2 :was naked, he was, for all the world, like a forked : None
+3.2 :radish, with a head fantastically carved upon it : None
+3.2 :with a knife: a' was so forlorn, that his : None
+3.2 :dimensions to any thick sight were invincible: a' : None
+3.2 :was the very genius of famine; yet lecherous as a : None
+3.2 :monkey, and the whores called him mandrake: a' came : None
+3.2 :ever in the rearward of the fashion, and sung those : None
+3.2 :tunes to the overscutched huswives that he heard the : None
+3.2 :carmen whistle, and swear they were his fancies or : None
+3.2 :his good-nights. And now is this Vice's dagger : None
+3.2 :become a squire, and talks as familiarly of John a : None
+3.2 :Gaunt as if he had been sworn brother to him; and : None
+3.2 :I'll be sworn a' ne'er saw him but once in the : None
+3.2 :Tilt-yard; and then he burst his head for crowding : None
+3.2 :among the marshal's men. I saw it, and told John a : None
+3.2 :Gaunt he beat his own name; for you might have : None
+3.2 :thrust him and all his apparel into an eel-skin; the : None
+3.2 :case of a treble hautboy was a mansion for him, a : None
+3.2 :court: and now has he land and beefs. Well, I'll : None
+3.2 :be acquainted with him, if I return; and it shall : None
+3.2 :go hard but I will make him a philosopher's two : None
+3.2 :stones to me: if the young dace be a bait for the : None
+3.2 :old pike, I see no reason in the law of nature but I : None
+3.2 :may snap at him. Let time shape, and there an end. : None
+Exit : ['Exit - []'] : FALSTAFF
+Act(act=4)
+Scene(scene=1)
+Enter the ARCHBISHOP OF YORK, MOWBRAY, LORD HASTINGS, and others : ["Enter - ['ARCHBISHOP OF YORK', 'MOWBRAY', 'HASTINGS']"] : FALSTAFF
+ARCHBISHOP OF YORK
+4.1 :What is this forest call'd? : None
+HASTINGS
+4.1 :'Tis Gaultree Forest, an't shall please your grace. : None
+ARCHBISHOP OF YORK
+4.1 :Here stand, my lords; and send discoverers forth : None
+4.1 :To know the numbers of our enemies. : None
+HASTINGS
+4.1 :We have sent forth already. : None
+ARCHBISHOP OF YORK
+4.1 :'Tis well done. : None
+4.1 :My friends and brethren in these great affairs, : None
+4.1 :I must acquaint you that I have received : None
+4.1 :New-dated letters from Northumberland; : None
+4.1 :Their cold intent, tenor and substance, thus: : None
+4.1 :Here doth he wish his person, with such powers : None
+4.1 :As might hold sortance with his quality, : None
+4.1 :The which he could not levy; whereupon : None
+4.1 :He is retired, to ripe his growing fortunes, : None
+4.1 :To Scotland: and concludes in hearty prayers : None
+4.1 :That your attempts may overlive the hazard : None
+4.1 :And fearful melting of their opposite. : None
+MOWBRAY
+4.1 :Thus do the hopes we have in him touch ground : None
+4.1 :And dash themselves to pieces. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : MOWBRAY
+HASTINGS
+4.1 :Now, what news? : None
+MESSENGER
+4.1 :West of this forest, scarcely off a mile, : None
+4.1 :In goodly form comes on the enemy; : None
+4.1 :And, by the ground they hide, I judge their number : None
+4.1 :Upon or near the rate of thirty thousand. : None
+MOWBRAY
+4.1 :The just proportion that we gave them out : None
+4.1 :Let us sway on and face them in the field. : None
+ARCHBISHOP OF YORK
+4.1 :What well-appointed leader fronts us here? : None
+Enter WESTMORELAND : ["Enter - ['WESTMORELAND']"] : ARCHBISHOP OF YORK
+MOWBRAY
+4.1 :I think it is my Lord of Westmoreland. : None
+WESTMORELAND
+4.1 :Health and fair greeting from our general, : None
+4.1 :The prince, Lord John and Duke of Lancaster. : None
+ARCHBISHOP OF YORK
+4.1 :Say on, my Lord of Westmoreland, in peace: : None
+4.1 :What doth concern your coming? : None
+WESTMORELAND
+4.1 :Then, my lord, : None
+4.1 :Unto your grace do I in chief address : None
+4.1 :The substance of my speech. If that rebellion : None
+4.1 :Came like itself, in base and abject routs, : None
+4.1 :Led on by bloody youth, guarded with rags, : None
+4.1 :And countenanced by boys and beggary, : None
+4.1 :I say, if damn'd commotion so appear'd, : None
+4.1 :In his true, native and most proper shape, : None
+4.1 :You, reverend father, and these noble lords : None
+4.1 :Had not been here, to dress the ugly form : None
+4.1 :Of base and bloody insurrection : None
+4.1 :With your fair honours. You, lord archbishop, : None
+4.1 :Whose see is by a civil peace maintained, : None
+4.1 :Whose beard the silver hand of peace hath touch'd, : None
+4.1 :Whose learning and good letters peace hath tutor'd, : None
+4.1 :Whose white investments figure innocence, : None
+4.1 :The dove and very blessed spirit of peace, : None
+4.1 :Wherefore do you so ill translate ourself : None
+4.1 :Out of the speech of peace that bears such grace, : None
+4.1 :Into the harsh and boisterous tongue of war; : None
+4.1 :Turning your books to graves, your ink to blood, : None
+4.1 :Your pens to lances and your tongue divine : None
+4.1 :To a trumpet and a point of war? : None
+ARCHBISHOP OF YORK
+4.1 :Wherefore do I this? so the question stands. : None
+4.1 :Briefly to this end: we are all diseased, : None
+4.1 :And with our surfeiting and wanton hours : None
+4.1 :Have brought ourselves into a burning fever, : None
+4.1 :And we must bleed for it; of which disease : None
+4.1 :Our late king, Richard, being infected, died. : None
+4.1 :But, my most noble Lord of Westmoreland, : None
+4.1 :I take not on me here as a physician, : None
+4.1 :Nor do I as an enemy to peace : None
+4.1 :Troop in the throngs of military men; : None
+4.1 :But rather show awhile like fearful war, : None
+4.1 :To diet rank minds sick of happiness : None
+4.1 :And purge the obstructions which begin to stop : None
+4.1 :Our very veins of life. Hear me more plainly. : None
+4.1 :I have in equal balance justly weigh'd : None
+4.1 :What wrongs our arms may do, what wrongs we suffer, : None
+4.1 :And find our griefs heavier than our offences. : None
+4.1 :We see which way the stream of time doth run, : None
+4.1 :And are enforced from our most quiet there : None
+4.1 :By the rough torrent of occasion; : None
+4.1 :And have the summary of all our griefs, : None
+4.1 :When time shall serve, to show in articles; : None
+4.1 :Which long ere this we offer'd to the king, : None
+4.1 :And might by no suit gain our audience: : None
+4.1 :When we are wrong'd and would unfold our griefs, : None
+4.1 :We are denied access unto his person : None
+4.1 :Even by those men that most have done us wrong. : None
+4.1 :The dangers of the days but newly gone, : None
+4.1 :Whose memory is written on the earth : None
+4.1 :With yet appearing blood, and the examples : None
+4.1 :Of every minute's instance, present now, : None
+4.1 :Hath put us in these ill-beseeming arms, : None
+4.1 :Not to break peace or any branch of it, : None
+4.1 :But to establish here a peace indeed, : None
+4.1 :Concurring both in name and quality. : None
+WESTMORELAND
+4.1 :When ever yet was your appeal denied? : None
+4.1 :Wherein have you been galled by the king? : None
+4.1 :What peer hath been suborn'd to grate on you, : None
+4.1 :That you should seal this lawless bloody book : None
+4.1 :Of forged rebellion with a seal divine : None
+4.1 :And consecrate commotion's bitter edge? : None
+ARCHBISHOP OF YORK
+4.1 :My brother general, the commonwealth, : None
+4.1 :To brother born an household cruelty, : None
+4.1 :I make my quarrel in particular. : None
+WESTMORELAND
+4.1 :There is no need of any such redress; : None
+4.1 :Or if there were, it not belongs to you. : None
+MOWBRAY
+4.1 :Why not to him in part, and to us all : None
+4.1 :That feel the bruises of the days before, : None
+4.1 :And suffer the condition of these times : None
+4.1 :To lay a heavy and unequal hand : None
+4.1 :Upon our honours? : None
+WESTMORELAND
+4.1 :                  O, my good Lord Mowbray, : None
+4.1 :Construe the times to their necessities, : None
+4.1 :And you shall say indeed, it is the time, : None
+4.1 :And not the king, that doth you injuries. : None
+4.1 :Yet for your part, it not appears to me : None
+4.1 :Either from the king or in the present time : None
+4.1 :That you should have an inch of any ground : None
+4.1 :To build a grief on: were you not restored : None
+4.1 :To all the Duke of Norfolk's signories, : None
+4.1 :Your noble and right well remember'd father's? : None
+MOWBRAY
+4.1 :What thing, in honour, had my father lost, : None
+4.1 :That need to be revived and breathed in me? : None
+4.1 :The king that loved him, as the state stood then, : None
+4.1 :Was force perforce compell'd to banish him: : None
+4.1 :And then that Harry Bolingbroke and he, : None
+4.1 :Being mounted and both roused in their seats, : None
+4.1 :Their neighing coursers daring of the spur, : None
+4.1 :Their armed staves in charge, their beavers down, : None
+4.1 :Their eyes of fire sparking through sights of steel : None
+4.1 :And the loud trumpet blowing them together, : None
+4.1 :Then, then, when there was nothing could have stay'd : None
+4.1 :My father from the breast of Bolingbroke, : None
+4.1 :O when the king did throw his warder down, : None
+4.1 :His own life hung upon the staff he threw; : None
+4.1 :Then threw he down himself and all their lives : None
+4.1 :That by indictment and by dint of sword : None
+4.1 :Have since miscarried under Bolingbroke. : None
+WESTMORELAND
+4.1 :You speak, Lord Mowbray, now you know not what. : None
+4.1 :The Earl of Hereford was reputed then : None
+4.1 :In England the most valiant gentlemen: : None
+4.1 :Who knows on whom fortune would then have smiled? : None
+4.1 :But if your father had been victor there, : None
+4.1 :He ne'er had borne it out of Coventry: : None
+4.1 :For all the country in a general voice : None
+4.1 :Cried hate upon him; and all their prayers and love : None
+4.1 :Were set on Hereford, whom they doted on : None
+4.1 :And bless'd and graced indeed, more than the king. : None
+4.1 :But this is mere digression from my purpose. : None
+4.1 :Here come I from our princely general : None
+4.1 :To know your griefs; to tell you from his grace : None
+4.1 :That he will give you audience; and wherein : None
+4.1 :It shall appear that your demands are just, : None
+4.1 :You shall enjoy them, every thing set off : None
+4.1 :That might so much as think you enemies. : None
+MOWBRAY
+4.1 :But he hath forced us to compel this offer; : None
+4.1 :And it proceeds from policy, not love. : None
+WESTMORELAND
+4.1 :Mowbray, you overween to take it so; : None
+4.1 :This offer comes from mercy, not from fear: : None
+4.1 :For, lo! within a ken our army lies, : None
+4.1 :Upon mine honour, all too confident : None
+4.1 :To give admittance to a thought of fear. : None
+4.1 :Our battle is more full of names than yours, : None
+4.1 :Our men more perfect in the use of arms, : None
+4.1 :Our armour all as strong, our cause the best; : None
+4.1 :Then reason will our heart should be as good : None
+4.1 :Say you not then our offer is compell'd. : None
+MOWBRAY
+4.1 :Well, by my will we shall admit no parley. : None
+WESTMORELAND
+4.1 :That argues but the shame of your offence: : None
+4.1 :A rotten case abides no handling. : None
+HASTINGS
+4.1 :Hath the Prince John a full commission, : None
+4.1 :In very ample virtue of his father, : None
+4.1 :To hear and absolutely to determine : None
+4.1 :Of what conditions we shall stand upon? : None
+WESTMORELAND
+4.1 :That is intended in the general's name: : None
+4.1 :I muse you make so slight a question. : None
+ARCHBISHOP OF YORK
+4.1 :Then take, my Lord of Westmoreland, this schedule, : None
+4.1 :For this contains our general grievances: : None
+4.1 :Each several article herein redress'd, : None
+4.1 :All members of our cause, both here and hence, : None
+4.1 :That are insinew'd to this action, : None
+4.1 :Acquitted by a true substantial form : None
+4.1 :And present execution of our wills : None
+4.1 :To us and to our purposes confined, : None
+4.1 :We come within our awful banks again : None
+4.1 :And knit our powers to the arm of peace. : None
+WESTMORELAND
+4.1 :This will I show the general. Please you, lords, : None
+4.1 :In sight of both our battles we may meet; : None
+4.1 :And either end in peace, which God so frame! : None
+4.1 :Or to the place of difference call the swords : None
+4.1 :Which must decide it. : None
+ARCHBISHOP OF YORK
+4.1 :My lord, we will do so. : None
+Exit WESTMORELAND : ["Exit - ['WESTMORELAND']"] : ARCHBISHOP OF YORK
+MOWBRAY
+4.1 :There is a thing within my bosom tells me : None
+4.1 :That no conditions of our peace can stand. : None
+HASTINGS
+4.1 :Fear you not that: if we can make our peace : None
+4.1 :Upon such large terms and so absolute : None
+4.1 :As our conditions shall consist upon, : None
+4.1 :Our peace shall stand as firm as rocky mountains. : None
+MOWBRAY
+4.1 :Yea, but our valuation shall be such : None
+4.1 :That every slight and false-derived cause, : None
+4.1 :Yea, every idle, nice and wanton reason : None
+4.1 :Shall to the king taste of this action; : None
+4.1 :That, were our royal faiths martyrs in love, : None
+4.1 :We shall be winnow'd with so rough a wind : None
+4.1 :That even our corn shall seem as light as chaff : None
+4.1 :And good from bad find no partition. : None
+ARCHBISHOP OF YORK
+4.1 :No, no, my lord. Note this; the king is weary : None
+4.1 :Of dainty and such picking grievances: : None
+4.1 :For he hath found to end one doubt by death : None
+4.1 :Revives two greater in the heirs of life, : None
+4.1 :And therefore will he wipe his tables clean : None
+4.1 :And keep no tell-tale to his memory : None
+4.1 :That may repeat and history his loss : None
+4.1 :To new remembrance; for full well he knows : None
+4.1 :He cannot so precisely weed this land : None
+4.1 :As his misdoubts present occasion: : None
+4.1 :His foes are so enrooted with his friends : None
+4.1 :That, plucking to unfix an enemy, : None
+4.1 :He doth unfasten so and shake a friend: : None
+4.1 :So that this land, like an offensive wife : None
+4.1 :That hath enraged him on to offer strokes, : None
+4.1 :As he is striking, holds his infant up : None
+4.1 :And hangs resolved correction in the arm : None
+4.1 :That was uprear'd to execution. : None
+HASTINGS
+4.1 :Besides, the king hath wasted all his rods : None
+4.1 :On late offenders, that he now doth lack : None
+4.1 :The very instruments of chastisement: : None
+4.1 :So that his power, like to a fangless lion, : None
+4.1 :May offer, but not hold. : None
+ARCHBISHOP OF YORK
+4.1 :'Tis very true: : None
+4.1 :And therefore be assured, my good lord marshal, : None
+4.1 :If we do now make our atonement well, : None
+4.1 :Our peace will, like a broken limb united, : None
+4.1 :Grow stronger for the breaking. : None
+MOWBRAY
+4.1 :Be it so. : None
+4.1 :Here is return'd my Lord of Westmoreland. : None
+Re-enter WESTMORELAND : ["Re-enter - ['WESTMORELAND']"] : MOWBRAY
+WESTMORELAND
+4.1 :The prince is here at hand: pleaseth your lordship : None
+4.1 :To meet his grace just distance 'tween our armies. : None
+MOWBRAY
+4.1 :Your grace of York, in God's name then, set forward. : None
+ARCHBISHOP OF YORK
+4.1 :Before, and greet his grace: my lord, we come. : None
+Exeunt : ['Exeunt - []'] : ARCHBISHOP OF YORK
+Scene(scene=2)
+Enter, from one side, MOWBRAY, attended; afterwards  the ARCHBISHOP OF YORK, HASTINGS, and others: from  the other side, Prince John of LANCASTER, and WESTMORELAND; Officers, and others with them : ["Enter - ['MOWBRAY', 'ARCHBISHOP OF YORK', 'HASTINGS', 'LANCASTER', 'WESTMORELAND']"] : ARCHBISHOP OF YORK
+LANCASTER
+4.2 :You are well encounter'd here, my cousin Mowbray: : None
+4.2 :Good day to you, gentle lord archbishop; : None
+4.2 :And so to you, Lord Hastings, and to all. : None
+4.2 :My Lord of York, it better show'd with you : None
+4.2 :When that your flock, assembled by the bell, : None
+4.2 :Encircled you to hear with reverence : None
+4.2 :Your exposition on the holy text : None
+4.2 :Than now to see you here an iron man, : None
+4.2 :Cheering a rout of rebels with your drum, : None
+4.2 :Turning the word to sword and life to death. : None
+4.2 :That man that sits within a monarch's heart, : None
+4.2 :And ripens in the sunshine of his favour, : None
+4.2 :Would he abuse the countenance of the king, : None
+4.2 :Alack, what mischiefs might he set abrooch : None
+4.2 :In shadow of such greatness! With you, lord bishop, : None
+4.2 :It is even so. Who hath not heard it spoken : None
+4.2 :How deep you were within the books of God? : None
+4.2 :To us the speaker in his parliament; : None
+4.2 :To us the imagined voice of God himself; : None
+4.2 :The very opener and intelligencer : None
+4.2 :Between the grace, the sanctities of heaven : None
+4.2 :And our dull workings. O, who shall believe : None
+4.2 :But you misuse the reverence of your place, : None
+4.2 :Employ the countenance and grace of heaven, : None
+4.2 :As a false favourite doth his prince's name, : None
+4.2 :In deeds dishonourable? You have ta'en up, : None
+4.2 :Under the counterfeited zeal of God, : None
+4.2 :The subjects of his substitute, my father, : None
+4.2 :And both against the peace of heaven and him : None
+4.2 :Have here up-swarm'd them. : None
+ARCHBISHOP OF YORK
+4.2 :Good my Lord of Lancaster, : None
+4.2 :I am not here against your father's peace; : None
+4.2 :But, as I told my lord of Westmoreland, : None
+4.2 :The time misorder'd doth, in common sense, : None
+4.2 :Crowd us and crush us to this monstrous form, : None
+4.2 :To hold our safety up. I sent your grace : None
+4.2 :The parcels and particulars of our grief, : None
+4.2 :The which hath been with scorn shoved from the court, : None
+4.2 :Whereon this Hydra son of war is born; : None
+4.2 :Whose dangerous eyes may well be charm'd asleep : None
+4.2 :With grant of our most just and right desires, : None
+4.2 :And true obedience, of this madness cured, : None
+4.2 :Stoop tamely to the foot of majesty. : None
+MOWBRAY
+4.2 :If not, we ready are to try our fortunes : None
+4.2 :To the last man. : None
+HASTINGS
+4.2 :                  And though we here fall down, : None
+4.2 :We have supplies to second our attempt: : None
+4.2 :If they miscarry, theirs shall second them; : None
+4.2 :And so success of mischief shall be born : None
+4.2 :And heir from heir shall hold this quarrel up : None
+4.2 :Whiles England shall have generation. : None
+LANCASTER
+4.2 :You are too shallow, Hastings, much too shallow, : None
+4.2 :To sound the bottom of the after-times. : None
+WESTMORELAND
+4.2 :Pleaseth your grace to answer them directly : None
+4.2 :How far forth you do like their articles. : None
+LANCASTER
+4.2 :I like them all, and do allow them well, : None
+4.2 :And swear here, by the honour of my blood, : None
+4.2 :My father's purposes have been mistook, : None
+4.2 :And some about him have too lavishly : None
+4.2 :Wrested his meaning and authority. : None
+4.2 :My lord, these griefs shall be with speed redress'd; : None
+4.2 :Upon my soul, they shall. If this may please you, : None
+4.2 :Discharge your powers unto their several counties, : None
+4.2 :As we will ours: and here between the armies : None
+4.2 :Let's drink together friendly and embrace, : None
+4.2 :That all their eyes may bear those tokens home : None
+4.2 :Of our restored love and amity. : None
+ARCHBISHOP OF YORK
+4.2 :I take your princely word for these redresses. : None
+LANCASTER
+4.2 :I give it you, and will maintain my word: : None
+4.2 :And thereupon I drink unto your grace. : None
+HASTINGS
+4.2 :Go, captain, and deliver to the army : None
+4.2 :This news of peace: let them have pay, and part: : None
+4.2 :I know it will well please them. Hie thee, captain. : None
+Exit Officer : ['Exit - []'] : HASTINGS
+ARCHBISHOP OF YORK
+4.2 :To you, my noble Lord of Westmoreland. : None
+WESTMORELAND
+4.2 :I pledge your grace; and, if you knew what pains : None
+4.2 :I have bestow'd to breed this present peace, : None
+4.2 :You would drink freely: but my love to ye : None
+4.2 :Shall show itself more openly hereafter. : None
+ARCHBISHOP OF YORK
+4.2 :I do not doubt you. : None
+WESTMORELAND
+4.2 :I am glad of it. : None
+4.2 :Health to my lord and gentle cousin, Mowbray. : None
+MOWBRAY
+4.2 :You wish me health in very happy season; : None
+4.2 :For I am, on the sudden, something ill. : None
+ARCHBISHOP OF YORK
+4.2 :Against ill chances men are ever merry; : None
+4.2 :But heaviness foreruns the good event. : None
+WESTMORELAND
+4.2 :Therefore be merry, coz; since sudden sorrow : None
+4.2 :Serves to say thus, 'some good thing comes : None
+4.2 :to-morrow.' : None
+ARCHBISHOP OF YORK
+4.2 :Believe me, I am passing light in spirit. : None
+MOWBRAY
+4.2 :So much the worse, if your own rule be true. : None
+Shouts within : ['None - []'] : MOWBRAY
+LANCASTER
+4.2 :The word of peace is render'd: hark, how they shout! : None
+MOWBRAY
+4.2 :This had been cheerful after victory. : None
+ARCHBISHOP OF YORK
+4.2 :A peace is of the nature of a conquest; : None
+4.2 :For then both parties nobly are subdued, : None
+4.2 :And neither party loser. : None
+LANCASTER
+4.2 :Go, my lord, : None
+4.2 :And let our army be discharged too. : None
+Exit WESTMORELAND : ["Exit - ['WESTMORELAND']"] : LANCASTER
+4.2 :And, good my lord, so please you, let our trains : None
+4.2 :March, by us, that we may peruse the men : None
+4.2 :We should have coped withal. : None
+ARCHBISHOP OF YORK
+4.2 :Go, good Lord Hastings, : None
+4.2 :And, ere they be dismissed, let them march by. : None
+Exit HASTINGS : ["Exit - ['HASTINGS']"] : ARCHBISHOP OF YORK
+LANCASTER
+4.2 :I trust, lords, we shall lie to-night together. : None
+Re-enter WESTMORELAND : ["Re-enter - ['WESTMORELAND']"] : LANCASTER
+4.2 :Now, cousin, wherefore stands our army still? : None
+WESTMORELAND
+4.2 :The leaders, having charge from you to stand, : None
+4.2 :Will not go off until they hear you speak. : None
+LANCASTER
+4.2 :They know their duties. : None
+Re-enter HASTINGS : ["Re-enter - ['HASTINGS']"] : LANCASTER
+HASTINGS
+4.2 :My lord, our army is dispersed already; : None
+4.2 :Like youthful steers unyoked, they take their courses : None
+4.2 :East, west, north, south; or, like a school broke up, : None
+4.2 :Each hurries toward his home and sporting-place. : None
+WESTMORELAND
+4.2 :Good tidings, my Lord Hastings; for the which : None
+4.2 :I do arrest thee, traitor, of high treason: : None
+4.2 :And you, lord archbishop, and you, Lord Mowbray, : None
+4.2 :Of capitol treason I attach you both. : None
+MOWBRAY
+4.2 :Is this proceeding just and honourable? : None
+WESTMORELAND
+4.2 :Is your assembly so? : None
+ARCHBISHOP OF YORK
+4.2 :Will you thus break your faith? : None
+LANCASTER
+4.2 :I pawn'd thee none: : None
+4.2 :I promised you redress of these same grievances : None
+4.2 :Whereof you did complain; which, by mine honour, : None
+4.2 :I will perform with a most Christian care. : None
+4.2 :But for you, rebels, look to taste the due : None
+4.2 :Meet for rebellion and such acts as yours. : None
+4.2 :Most shallowly did you these arms commence, : None
+4.2 :Fondly brought here and foolishly sent hence. : None
+4.2 :Strike up our drums, pursue the scatter'd stray: : None
+4.2 :God, and not we, hath safely fought to-day. : None
+4.2 :Some guard these traitors to the block of death, : None
+4.2 :Treason's true bed and yielder up of breath. : None
+Exeunt : ['Exeunt - []'] : LANCASTER
+Scene(scene=3)
+Alarum. Excursions. Enter FALSTAFF and COLEVILE, meeting : ['None - []', 'None - []', "Enter - ['FALSTAFF', 'COLEVILE']"] : LANCASTER
+FALSTAFF
+4.3 :What's your name, sir? of what condition are you, : None
+4.3 :and of what place, I pray? : None
+COLEVILE
+4.3 :I am a knight, sir, and my name is Colevile of the dale. : None
+FALSTAFF
+4.3 :Well, then, Colevile is your name, a knight is your : None
+4.3 :degree, and your place the dale: Colevile shall be : None
+4.3 :still your name, a traitor your degree, and the : None
+4.3 :dungeon your place, a place deep enough; so shall : None
+4.3 :you be still Colevile of the dale. : None
+COLEVILE
+4.3 :Are not you Sir John Falstaff? : None
+FALSTAFF
+4.3 :As good a man as he, sir, whoe'er I am. Do ye : None
+4.3 :yield, sir? or shall I sweat for you? if I do : None
+4.3 :sweat, they are the drops of thy lovers, and they : None
+4.3 :weep for thy death: therefore rouse up fear and : None
+4.3 :trembling, and do observance to my mercy. : None
+COLEVILE
+4.3 :I think you are Sir John Falstaff, and in that : None
+4.3 :thought yield me. : None
+FALSTAFF
+4.3 :I have a whole school of tongues in this belly of : None
+4.3 :mine, and not a tongue of them all speaks any other : None
+4.3 :word but my name. An I had but a belly of any : None
+4.3 :indifference, I were simply the most active fellow : None
+4.3 :in Europe: my womb, my womb, my womb, undoes me. : None
+4.3 :Here comes our general. : None
+Enter PRINCE JOHN OF LANCASTER, WESTMORELAND, BLUNT, and others : ["Enter - ['LANCASTER', 'WESTMORELAND']"] : FALSTAFF
+LANCASTER
+4.3 :The heat is past; follow no further now: : None
+4.3 :Call in the powers, good cousin Westmoreland. : None
+Exit WESTMORELAND : ["Exit - ['WESTMORELAND']"] : LANCASTER
+4.3 :Now, Falstaff, where have you been all this while? : None
+4.3 :When every thing is ended, then you come: : None
+4.3 :These tardy tricks of yours will, on my life, : None
+4.3 :One time or other break some gallows' back. : None
+FALSTAFF
+4.3 :I would be sorry, my lord, but it should be thus: I : None
+4.3 :never knew yet but rebuke and cheque was the reward : None
+4.3 :of valour. Do you think me a swallow, an arrow, or a : None
+4.3 :bullet? have I, in my poor and old motion, the : None
+4.3 :expedition of thought? I have speeded hither with : None
+4.3 :the very extremest inch of possibility; I have : None
+4.3 :foundered nine score and odd posts: and here, : None
+4.3 :travel-tainted as I am, have in my pure and : None
+4.3 :immaculate valour, taken Sir John Colevile of the : None
+4.3 :dale, a most furious knight and valorous enemy. : None
+4.3 :But what of that? he saw me, and yielded; that I : None
+4.3 :may justly say, with the hook-nosed fellow of Rome, : None
+4.3 :'I came, saw, and overcame.' : None
+LANCASTER
+4.3 :It was more of his courtesy than your deserving. : None
+FALSTAFF
+4.3 :I know not: here he is, and here I yield him: and : None
+4.3 :I beseech your grace, let it be booked with the : None
+4.3 :rest of this day's deeds; or, by the Lord, I will : None
+4.3 :have it in a particular ballad else, with mine own : None
+4.3 :picture on the top on't, Colevile kissing my foot: : None
+4.3 :to the which course if I be enforced, if you do not : None
+4.3 :all show like gilt twopences to me, and I in the : None
+4.3 :clear sky of fame o'ershine you as much as the full : None
+4.3 :moon doth the cinders of the element, which show : None
+4.3 :like pins' heads to her, believe not the word of : None
+4.3 :the noble: therefore let me have right, and let : None
+4.3 :desert mount. : None
+LANCASTER
+4.3 :Thine's too heavy to mount. : None
+FALSTAFF
+4.3 :Let it shine, then. : None
+LANCASTER
+4.3 :Thine's too thick to shine. : None
+FALSTAFF
+4.3 :Let it do something, my good lord, that may do me : None
+4.3 :good, and call it what you will. : None
+LANCASTER
+4.3 :Is thy name Colevile? : None
+COLEVILE
+4.3 :It is, my lord. : None
+LANCASTER
+4.3 :A famous rebel art thou, Colevile. : None
+FALSTAFF
+4.3 :And a famous true subject took him. : None
+COLEVILE
+4.3 :I am, my lord, but as my betters are : None
+4.3 :That led me hither: had they been ruled by me, : None
+4.3 :You should have won them dearer than you have. : None
+FALSTAFF
+4.3 :I know not how they sold themselves: but thou, like : None
+4.3 :a kind fellow, gavest thyself away gratis; and I : None
+4.3 :thank thee for thee. : None
+Re-enter WESTMORELAND : ["Re-enter - ['WESTMORELAND']"] : FALSTAFF
+LANCASTER
+4.3 :Now, have you left pursuit? : None
+WESTMORELAND
+4.3 :Retreat is made and execution stay'd. : None
+LANCASTER
+4.3 :Send Colevile with his confederates : None
+4.3 :To York, to present execution: : None
+4.3 :Blunt, lead him hence; and see you guard him sure. : None
+Exeunt BLUNT and others with COLEVILE : ["Exeunt - ['COLEVILE']"] : LANCASTER
+4.3 :And now dispatch we toward the court, my lords: : None
+4.3 :I hear the king my father is sore sick: : None
+4.3 :Our news shall go before us to his majesty, : None
+4.3 :Which, cousin, you shall bear to comfort him, : None
+4.3 :And we with sober speed will follow you. : None
+FALSTAFF
+4.3 :My lord, I beseech you, give me leave to go : None
+4.3 :Through Gloucestershire: and, when you come to court, : None
+4.3 :Stand my good lord, pray, in your good report. : None
+LANCASTER
+4.3 :Fare you well, Falstaff: I, in my condition, : None
+4.3 :Shall better speak of you than you deserve. : None
+Exeunt all but Falstaff : ["Exeunt - ['FALSTAFF']"] : LANCASTER
+FALSTAFF
+4.3 :I would you had but the wit: 'twere better than : None
+4.3 :your dukedom. Good faith, this same young sober- : None
+4.3 :blooded boy doth not love me; nor a man cannot make : None
+4.3 :him laugh; but that's no marvel, he drinks no wine. : None
+4.3 :There's never none of these demure boys come to any : None
+4.3 :proof; for thin drink doth so over-cool their blood, : None
+4.3 :and making many fish-meals, that they fall into a : None
+4.3 :kind of male green-sickness; and then when they : None
+4.3 :marry, they get wenches: they are generally fools : None
+4.3 :and cowards; which some of us should be too, but for : None
+4.3 :inflammation. A good sherris sack hath a two-fold : None
+4.3 :operation in it. It ascends me into the brain; : None
+4.3 :dries me there all the foolish and dull and curdy : None
+4.3 :vapours which environ it; makes it apprehensive, : None
+4.3 :quick, forgetive, full of nimble fiery and : None
+4.3 :delectable shapes, which, delivered o'er to the : None
+4.3 :voice, the tongue, which is the birth, becomes : None
+4.3 :excellent wit. The second property of your : None
+4.3 :excellent sherris is, the warming of the blood; : None
+4.3 :which, before cold and settled, left the liver : None
+4.3 :white and pale, which is the badge of pusillanimity : None
+4.3 :and cowardice; but the sherris warms it and makes : None
+4.3 :it course from the inwards to the parts extreme: : None
+4.3 :it illumineth the face, which as a beacon gives : None
+4.3 :warning to all the rest of this little kingdom, : None
+4.3 :man, to arm; and then the vital commoners and : None
+4.3 :inland petty spirits muster me all to their captain, : None
+4.3 :the heart, who, great and puffed up with this : None
+4.3 :retinue, doth any deed of courage; and this valour : None
+4.3 :comes of sherris. So that skill in the weapon is : None
+4.3 :nothing without sack, for that sets it a-work; and : None
+4.3 :learning a mere hoard of gold kept by a devil, till : None
+4.3 :sack commences it and sets it in act and use. : None
+4.3 :Hereof comes it that Prince Harry is valiant; for : None
+4.3 :the cold blood he did naturally inherit of his : None
+4.3 :father, he hath, like lean, sterile and bare land, : None
+4.3 :manured, husbanded and tilled with excellent : None
+4.3 :endeavour of drinking good and good store of fertile : None
+4.3 :sherris, that he is become very hot and valiant. If : None
+4.3 :I had a thousand sons, the first humane principle I : None
+4.3 :would teach them should be, to forswear thin : None
+4.3 :potations and to addict themselves to sack. : None
+Enter BARDOLPH : ["Enter - ['BARDOLPH']"] : FALSTAFF
+4.3 :How now Bardolph? : None
+BARDOLPH
+4.3 :The army is discharged all and gone. : None
+FALSTAFF
+4.3 :Let them go. I'll through Gloucestershire; and : None
+4.3 :there will I visit Master Robert Shallow, esquire: : None
+4.3 :I have him already tempering between my finger and : None
+4.3 :my thumb, and shortly will I seal with him. Come away. : None
+Exeunt : ['Exeunt - []'] : FALSTAFF
+Scene(scene=4)
+Enter KING HENRY IV, the Princes Thomas of CLARENCE and Humphrey of GLOUCESTER, WARWICK, and others : ["Enter - ['KING HENRY IV', 'PRINCES', 'CLARENCE', 'GLOUCESTER', 'WARWICK']"] : FALSTAFF
+KING HENRY IV
+4.4 :Now, lords, if God doth give successful end : None
+4.4 :To this debate that bleedeth at our doors, : None
+4.4 :We will our youth lead on to higher fields : None
+4.4 :And draw no swords but what are sanctified. : None
+4.4 :Our navy is address'd, our power collected, : None
+4.4 :Our substitutes in absence well invested, : None
+4.4 :And every thing lies level to our wish: : None
+4.4 :Only, we want a little personal strength; : None
+4.4 :And pause us, till these rebels, now afoot, : None
+4.4 :Come underneath the yoke of government. : None
+WARWICK
+4.4 :Both which we doubt not but your majesty : None
+4.4 :Shall soon enjoy. : None
+KING HENRY IV
+4.4 :                  Humphrey, my son of Gloucester, : None
+4.4 :Where is the prince your brother? : None
+GLOUCESTER
+4.4 :I think he's gone to hunt, my lord, at Windsor. : None
+KING HENRY IV
+4.4 :And how accompanied? : None
+GLOUCESTER
+4.4 :I do not know, my lord. : None
+KING HENRY IV
+4.4 :Is not his brother, Thomas of Clarence, with him? : None
+GLOUCESTER
+4.4 :No, my good lord; he is in presence here. : None
+CLARENCE
+4.4 :What would my lord and father? : None
+KING HENRY IV
+4.4 :Nothing but well to thee, Thomas of Clarence. : None
+4.4 :How chance thou art not with the prince thy brother? : None
+4.4 :He loves thee, and thou dost neglect him, Thomas; : None
+4.4 :Thou hast a better place in his affection : None
+4.4 :Than all thy brothers: cherish it, my boy, : None
+4.4 :And noble offices thou mayst effect : None
+4.4 :Of mediation, after I am dead, : None
+4.4 :Between his greatness and thy other brethren: : None
+4.4 :Therefore omit him not; blunt not his love, : None
+4.4 :Nor lose the good advantage of his grace : None
+4.4 :By seeming cold or careless of his will; : None
+4.4 :For he is gracious, if he be observed: : None
+4.4 :He hath a tear for pity and a hand : None
+4.4 :Open as day for melting charity: : None
+4.4 :Yet notwithstanding, being incensed, he's flint, : None
+4.4 :As humorous as winter and as sudden : None
+4.4 :As flaws congealed in the spring of day. : None
+4.4 :His temper, therefore, must be well observed: : None
+4.4 :Chide him for faults, and do it reverently, : None
+4.4 :When thou perceive his blood inclined to mirth; : None
+4.4 :But, being moody, give him line and scope, : None
+4.4 :Till that his passions, like a whale on ground, : None
+4.4 :Confound themselves with working. Learn this, Thomas, : None
+4.4 :And thou shalt prove a shelter to thy friends, : None
+4.4 :A hoop of gold to bind thy brothers in, : None
+4.4 :That the united vessel of their blood, : None
+4.4 :Mingled with venom of suggestion-- : None
+4.4 :As, force perforce, the age will pour it in-- : None
+4.4 :Shall never leak, though it do work as strong : None
+4.4 :As aconitum or rash gunpowder. : None
+CLARENCE
+4.4 :I shall observe him with all care and love. : None
+KING HENRY IV
+4.4 :Why art thou not at Windsor with him, Thomas? : None
+CLARENCE
+4.4 :He is not there to-day; he dines in London. : None
+KING HENRY IV
+4.4 :And how accompanied? canst thou tell that? : None
+CLARENCE
+4.4 :With Poins, and other his continual followers. : None
+KING HENRY IV
+4.4 :Most subject is the fattest soil to weeds; : None
+4.4 :And he, the noble image of my youth, : None
+4.4 :Is overspread with them: therefore my grief : None
+4.4 :Stretches itself beyond the hour of death: : None
+4.4 :The blood weeps from my heart when I do shape : None
+4.4 :In forms imaginary the unguided days : None
+4.4 :And rotten times that you shall look upon : None
+4.4 :When I am sleeping with my ancestors. : None
+4.4 :For when his headstrong riot hath no curb, : None
+4.4 :When rage and hot blood are his counsellors, : None
+4.4 :When means and lavish manners meet together, : None
+4.4 :O, with what wings shall his affections fly : None
+4.4 :Towards fronting peril and opposed decay! : None
+WARWICK
+4.4 :My gracious lord, you look beyond him quite: : None
+4.4 :The prince but studies his companions : None
+4.4 :Like a strange tongue, wherein, to gain the language, : None
+4.4 :'Tis needful that the most immodest word : None
+4.4 :Be look'd upon and learn'd; which once attain'd, : None
+4.4 :Your highness knows, comes to no further use : None
+4.4 :But to be known and hated. So, like gross terms, : None
+4.4 :The prince will in the perfectness of time : None
+4.4 :Cast off his followers; and their memory : None
+4.4 :Shall as a pattern or a measure live, : None
+4.4 :By which his grace must mete the lives of others, : None
+4.4 :Turning past evils to advantages. : None
+KING HENRY IV
+4.4 :'Tis seldom when the bee doth leave her comb : None
+4.4 :In the dead carrion. : None
+Enter WESTMORELAND : ["Enter - ['WESTMORELAND']"] : KING HENRY IV
+4.4 :Who's here? Westmoreland? : None
+WESTMORELAND
+4.4 :Health to my sovereign, and new happiness : None
+4.4 :Added to that that I am to deliver! : None
+4.4 :Prince John your son doth kiss your grace's hand: : None
+4.4 :Mowbray, the Bishop Scroop, Hastings and all : None
+4.4 :Are brought to the correction of your law; : None
+4.4 :There is not now a rebel's sword unsheath'd : None
+4.4 :But peace puts forth her olive every where. : None
+4.4 :The manner how this action hath been borne : None
+4.4 :Here at more leisure may your highness read, : None
+4.4 :With every course in his particular. : None
+KING HENRY IV
+4.4 :O Westmoreland, thou art a summer bird, : None
+4.4 :Which ever in the haunch of winter sings : None
+4.4 :The lifting up of day. : None
+Enter HARCOURT : ["Enter - ['HARCOURT']"] : KING HENRY IV
+4.4 :Look, here's more news. : None
+HARCOURT
+4.4 :From enemies heaven keep your majesty; : None
+4.4 :And, when they stand against you, may they fall : None
+4.4 :As those that I am come to tell you of! : None
+4.4 :The Earl Northumberland and the Lord Bardolph, : None
+4.4 :With a great power of English and of Scots : None
+4.4 :Are by the sheriff of Yorkshire overthrown: : None
+4.4 :The manner and true order of the fight : None
+4.4 :This packet, please it you, contains at large. : None
+KING HENRY IV
+4.4 :And wherefore should these good news make me sick? : None
+4.4 :Will fortune never come with both hands full, : None
+4.4 :But write her fair words still in foulest letters? : None
+4.4 :She either gives a stomach and no food; : None
+4.4 :Such are the poor, in health; or else a feast : None
+4.4 :And takes away the stomach; such are the rich, : None
+4.4 :That have abundance and enjoy it not. : None
+4.4 :I should rejoice now at this happy news; : None
+4.4 :And now my sight fails, and my brain is giddy: : None
+4.4 :O me! come near me; now I am much ill. : None
+GLOUCESTER
+4.4 :Comfort, your majesty! : None
+CLARENCE
+4.4 :O my royal father! : None
+WESTMORELAND
+4.4 :My sovereign lord, cheer up yourself, look up. : None
+WARWICK
+4.4 :Be patient, princes; you do know, these fits : None
+4.4 :Are with his highness very ordinary. : None
+4.4 :Stand from him. Give him air; he'll straight be well. : None
+CLARENCE
+4.4 :No, no, he cannot long hold out these pangs: : None
+4.4 :The incessant care and labour of his mind : None
+4.4 :Hath wrought the mure that should confine it in : None
+4.4 :So thin that life looks through and will break out. : None
+GLOUCESTER
+4.4 :The people fear me; for they do observe : None
+4.4 :Unfather'd heirs and loathly births of nature: : None
+4.4 :The seasons change their manners, as the year : None
+4.4 :Had found some months asleep and leap'd them over. : None
+CLARENCE
+4.4 :The river hath thrice flow'd, no ebb between; : None
+4.4 :And the old folk, time's doting chronicles, : None
+4.4 :Say it did so a little time before : None
+4.4 :That our great-grandsire, Edward, sick'd and died. : None
+WARWICK
+4.4 :Speak lower, princes, for the king recovers. : None
+GLOUCESTER
+4.4 :This apoplexy will certain be his end. : None
+KING HENRY IV
+4.4 :I pray you, take me up, and bear me hence : None
+4.4 :Into some other chamber: softly, pray. : None
+Scene(scene=5)
+KING HENRY IV lying on a bed: CLARENCE, GLOUCESTER, WARWICK, and others in attendance : ["None - ['KING HENRY IV', 'CLARENCE', 'GLOUCESTER', 'WARWICK']"] : KING HENRY IV
+KING HENRY IV
+4.5 :Let there be no noise made, my gentle friends; : None
+4.5 :Unless some dull and favourable hand : None
+4.5 :Will whisper music to my weary spirit. : None
+WARWICK
+4.5 :Call for the music in the other room. : None
+KING HENRY IV
+4.5 :Set me the crown upon my pillow here. : None
+CLARENCE
+4.5 :His eye is hollow, and he changes much. : None
+WARWICK
+4.5 :Less noise, less noise! : None
+Enter PRINCE HENRY : ["Enter - ['PRINCE HENRY']"] : WARWICK
+PRINCE HENRY
+4.5 :Who saw the Duke of Clarence? : None
+CLARENCE
+4.5 :I am here, brother, full of heaviness. : None
+PRINCE HENRY
+4.5 :How now! rain within doors, and none abroad! : None
+4.5 :How doth the king? : None
+GLOUCESTER
+4.5 :Exceeding ill. : None
+PRINCE HENRY
+4.5 :                  Heard he the good news yet? : None
+4.5 :Tell it him. : None
+GLOUCESTER
+4.5 :He alter'd much upon the hearing it. : None
+PRINCE HENRY
+4.5 :If he be sick with joy, he'll recover without physic. : None
+WARWICK
+4.5 :Not so much noise, my lords: sweet prince, : None
+4.5 :speak low; : None
+4.5 :The king your father is disposed to sleep. : None
+CLARENCE
+4.5 :Let us withdraw into the other room. : None
+WARWICK
+4.5 :Will't please your grace to go along with us? : None
+PRINCE HENRY
+4.5 :No; I will sit and watch here by the king. : None
+Exeunt all but PRINCE HENRY : ["Exeunt - ['PRINCE HENRY']"] : PRINCE HENRY
+4.5 :Why doth the crown lie there upon his pillow, : None
+4.5 :Being so troublesome a bedfellow? : None
+4.5 :O polish'd perturbation! golden care! : None
+4.5 :That keep'st the ports of slumber open wide : None
+4.5 :To many a watchful night! sleep with it now! : None
+4.5 :Yet not so sound and half so deeply sweet : None
+4.5 :As he whose brow with homely biggen bound : None
+4.5 :Snores out the watch of night. O majesty! : None
+4.5 :When thou dost pinch thy bearer, thou dost sit : None
+4.5 :Like a rich armour worn in heat of day, : None
+4.5 :That scalds with safety. By his gates of breath : None
+4.5 :There lies a downy feather which stirs not: : None
+4.5 :Did he suspire, that light and weightless down : None
+4.5 :Perforce must move. My gracious lord! my father! : None
+4.5 :This sleep is sound indeed, this is a sleep : None
+4.5 :That from this golden rigol hath divorced : None
+4.5 :So many English kings. Thy due from me : None
+4.5 :Is tears and heavy sorrows of the blood, : None
+4.5 :Which nature, love, and filial tenderness, : None
+4.5 :Shall, O dear father, pay thee plenteously: : None
+4.5 :My due from thee is this imperial crown, : None
+4.5 :Which, as immediate as thy place and blood, : None
+4.5 :Derives itself to me. Lo, here it sits, : None
+4.5 :Which God shall guard: and put the world's whole strength : None
+4.5 :Into one giant arm, it shall not force : None
+4.5 :This lineal honour from me: this from thee : None
+4.5 :Will I to mine leave, as 'tis left to me. : None
+Exit : ['Exit - []'] : PRINCE HENRY
+KING HENRY IV
+4.5 :Warwick! Gloucester! Clarence! : None
+Re-enter WARWICK, GLOUCESTER, CLARENCE, and the rest : ["Re-enter - ['WARWICK', 'GLOUCESTER', 'CLARENCE']"] : KING HENRY IV
+CLARENCE
+4.5 :Doth the king call? : None
+WARWICK
+4.5 :What would your majesty? How fares your grace? : None
+KING HENRY IV
+4.5 :Why did you leave me here alone, my lords? : None
+CLARENCE
+4.5 :We left the prince my brother here, my liege, : None
+4.5 :Who undertook to sit and watch by you. : None
+KING HENRY IV
+4.5 :The Prince of Wales! Where is he? let me see him: : None
+4.5 :He is not here. : None
+WARWICK
+4.5 :This door is open; he is gone this way. : None
+GLOUCESTER
+4.5 :He came not through the chamber where we stay'd. : None
+KING HENRY IV
+4.5 :Where is the crown? who took it from my pillow? : None
+WARWICK
+4.5 :When we withdrew, my liege, we left it here. : None
+KING HENRY IV
+4.5 :The prince hath ta'en it hence: go, seek him out. : None
+4.5 :Is he so hasty that he doth suppose : None
+4.5 :My sleep my death? : None
+4.5 :Find him, my Lord of Warwick; chide him hither. : None
+Exit WARWICK : ["Exit - ['WARWICK']"] : KING HENRY IV
+4.5 :This part of his conjoins with my disease, : None
+4.5 :And helps to end me. See, sons, what things you are! : None
+4.5 :How quickly nature falls into revolt : None
+4.5 :When gold becomes her object! : None
+4.5 :For this the foolish over-careful fathers : None
+4.5 :Have broke their sleep with thoughts, their brains with care, : None
+4.5 :Their bones with industry; : None
+4.5 :For this they have engrossed and piled up : None
+4.5 :The canker'd heaps of strange-achieved gold; : None
+4.5 :For this they have been thoughtful to invest : None
+4.5 :Their sons with arts and martial exercises: : None
+4.5 :When, like the bee, culling from every flower : None
+4.5 :The virtuous sweets, : None
+4.5 :Our thighs pack'd with wax, our mouths with honey, : None
+4.5 :We bring it to the hive, and, like the bees, : None
+4.5 :Are murdered for our pains. This bitter taste : None
+4.5 :Yield his engrossments to the ending father. : None
+Re-enter WARWICK : ["Re-enter - ['WARWICK']"] : KING HENRY IV
+4.5 :Now, where is he that will not stay so long : None
+4.5 :Till his friend sickness hath determined me? : None
+WARWICK
+4.5 :My lord, I found the prince in the next room, : None
+4.5 :Washing with kindly tears his gentle cheeks, : None
+4.5 :With such a deep demeanor in great sorrow : None
+4.5 :That tyranny, which never quaff'd but blood, : None
+4.5 :Would, by beholding him, have wash'd his knife : None
+4.5 :With gentle eye-drops. He is coming hither. : None
+KING HENRY IV
+4.5 :But wherefore did he take away the crown? : None
+Re-enter PRINCE HENRY : ["Re-enter - ['PRINCE HENRY']"] : KING HENRY IV
+4.5 :Lo, where he comes. Come hither to me, Harry. : None
+4.5 :Depart the chamber, leave us here alone. : None
+Exeunt WARWICK and the rest : ["Exeunt - ['WARWICK']"] : KING HENRY IV
+PRINCE HENRY
+4.5 :I never thought to hear you speak again. : None
+KING HENRY IV
+4.5 :Thy wish was father, Harry, to that thought: : None
+4.5 :I stay too long by thee, I weary thee. : None
+4.5 :Dost thou so hunger for mine empty chair : None
+4.5 :That thou wilt needs invest thee with my honours : None
+4.5 :Before thy hour be ripe? O foolish youth! : None
+4.5 :Thou seek'st the greatness that will o'erwhelm thee. : None
+4.5 :Stay but a little; for my cloud of dignity : None
+4.5 :Is held from falling with so weak a wind : None
+4.5 :That it will quickly drop: my day is dim. : None
+4.5 :Thou hast stolen that which after some few hours : None
+4.5 :Were thine without offence; and at my death : None
+4.5 :Thou hast seal'd up my expectation: : None
+4.5 :Thy life did manifest thou lovedst me not, : None
+4.5 :And thou wilt have me die assured of it. : None
+4.5 :Thou hidest a thousand daggers in thy thoughts, : None
+4.5 :Which thou hast whetted on thy stony heart, : None
+4.5 :To stab at half an hour of my life. : None
+4.5 :What! canst thou not forbear me half an hour? : None
+4.5 :Then get thee gone and dig my grave thyself, : None
+4.5 :And bid the merry bells ring to thine ear : None
+4.5 :That thou art crowned, not that I am dead. : None
+4.5 :Let all the tears that should bedew my hearse : None
+4.5 :Be drops of balm to sanctify thy head: : None
+4.5 :Only compound me with forgotten dust : None
+4.5 :Give that which gave thee life unto the worms. : None
+4.5 :Pluck down my officers, break my decrees; : None
+4.5 :For now a time is come to mock at form: : None
+4.5 :Harry the Fifth is crown'd: up, vanity! : None
+4.5 :Down, royal state! all you sage counsellors, hence! : None
+4.5 :And to the English court assemble now, : None
+4.5 :From every region, apes of idleness! : None
+4.5 :Now, neighbour confines, purge you of your scum: : None
+4.5 :Have you a ruffian that will swear, drink, dance, : None
+4.5 :Revel the night, rob, murder, and commit : None
+4.5 :The oldest sins the newest kind of ways? : None
+4.5 :Be happy, he will trouble you no more; : None
+4.5 :England shall double gild his treble guilt, : None
+4.5 :England shall give him office, honour, might; : None
+4.5 :For the fifth Harry from curb'd licence plucks : None
+4.5 :The muzzle of restraint, and the wild dog : None
+4.5 :Shall flesh his tooth on every innocent. : None
+4.5 :O my poor kingdom, sick with civil blows! : None
+4.5 :When that my care could not withhold thy riots, : None
+4.5 :What wilt thou do when riot is thy care? : None
+4.5 :O, thou wilt be a wilderness again, : None
+4.5 :Peopled with wolves, thy old inhabitants! : None
+PRINCE HENRY
+4.5 :O, pardon me, my liege! but for my tears, : None
+4.5 :The moist impediments unto my speech, : None
+4.5 :I had forestall'd this dear and deep rebuke : None
+4.5 :Ere you with grief had spoke and I had heard : None
+4.5 :The course of it so far. There is your crown; : None
+4.5 :And He that wears the crown immortally : None
+4.5 :Long guard it yours! If I affect it more : None
+4.5 :Than as your honour and as your renown, : None
+4.5 :Let me no more from this obedience rise, : None
+4.5 :Which my most inward true and duteous spirit : None
+4.5 :Teacheth, this prostrate and exterior bending. : None
+4.5 :God witness with me, when I here came in, : None
+4.5 :And found no course of breath within your majesty, : None
+4.5 :How cold it struck my heart! If I do feign, : None
+4.5 :O, let me in my present wildness die : None
+4.5 :And never live to show the incredulous world : None
+4.5 :The noble change that I have purposed! : None
+4.5 :Coming to look on you, thinking you dead, : None
+4.5 :And dead almost, my liege, to think you were, : None
+4.5 :I spake unto this crown as having sense, : None
+4.5 :And thus upbraided it: 'The care on thee depending : None
+4.5 :Hath fed upon the body of my father; : None
+4.5 :Therefore, thou best of gold art worst of gold: : None
+4.5 :Other, less fine in carat, is more precious, : None
+4.5 :Preserving life in medicine potable; : None
+4.5 :But thou, most fine, most honour'd: most renown'd, : None
+4.5 :Hast eat thy bearer up.' Thus, my most royal liege, : None
+4.5 :Accusing it, I put it on my head, : None
+4.5 :To try with it, as with an enemy : None
+4.5 :That had before my face murder'd my father, : None
+4.5 :The quarrel of a true inheritor. : None
+4.5 :But if it did infect my blood with joy, : None
+4.5 :Or swell my thoughts to any strain of pride; : None
+4.5 :If any rebel or vain spirit of mine : None
+4.5 :Did with the least affection of a welcome : None
+4.5 :Give entertainment to the might of it, : None
+4.5 :Let God for ever keep it from my head : None
+4.5 :And make me as the poorest vassal is : None
+4.5 :That doth with awe and terror kneel to it! : None
+KING HENRY IV
+4.5 :O my son, : None
+4.5 :God put it in thy mind to take it hence, : None
+4.5 :That thou mightst win the more thy father's love, : None
+4.5 :Pleading so wisely in excuse of it! : None
+4.5 :Come hither, Harry, sit thou by my bed; : None
+4.5 :And hear, I think, the very latest counsel : None
+4.5 :That ever I shall breathe. God knows, my son, : None
+4.5 :By what by-paths and indirect crook'd ways : None
+4.5 :I met this crown; and I myself know well : None
+4.5 :How troublesome it sat upon my head. : None
+4.5 :To thee it shall descend with bitter quiet, : None
+4.5 :Better opinion, better confirmation; : None
+4.5 :For all the soil of the achievement goes : None
+4.5 :With me into the earth. It seem'd in me : None
+4.5 :But as an honour snatch'd with boisterous hand, : None
+4.5 :And I had many living to upbraid : None
+4.5 :My gain of it by their assistances; : None
+4.5 :Which daily grew to quarrel and to bloodshed, : None
+4.5 :Wounding supposed peace: all these bold fears : None
+4.5 :Thou see'st with peril I have answered; : None
+4.5 :For all my reign hath been but as a scene : None
+4.5 :Acting that argument: and now my death : None
+4.5 :Changes the mode; for what in me was purchased, : None
+4.5 :Falls upon thee in a more fairer sort; : None
+4.5 :So thou the garland wear'st successively. : None
+4.5 :Yet, though thou stand'st more sure than I could do, : None
+4.5 :Thou art not firm enough, since griefs are green; : None
+4.5 :And all my friends, which thou must make thy friends, : None
+4.5 :Have but their stings and teeth newly ta'en out; : None
+4.5 :By whose fell working I was first advanced : None
+4.5 :And by whose power I well might lodge a fear : None
+4.5 :To be again displaced: which to avoid, : None
+4.5 :I cut them off; and had a purpose now : None
+4.5 :To lead out many to the Holy Land, : None
+4.5 :Lest rest and lying still might make them look : None
+4.5 :Too near unto my state. Therefore, my Harry, : None
+4.5 :Be it thy course to busy giddy minds : None
+4.5 :With foreign quarrels; that action, hence borne out, : None
+4.5 :May waste the memory of the former days. : None
+4.5 :More would I, but my lungs are wasted so : None
+4.5 :That strength of speech is utterly denied me. : None
+4.5 :How I came by the crown, O God forgive; : None
+4.5 :And grant it may with thee in true peace live! : None
+PRINCE HENRY
+4.5 :My gracious liege, : None
+4.5 :You won it, wore it, kept it, gave it me; : None
+4.5 :Then plain and right must my possession be: : None
+4.5 :Which I with more than with a common pain : None
+4.5 :'Gainst all the world will rightfully maintain. : None
+Enter Lord John of LANCASTER : ["Enter - ['LANCASTER']"] : PRINCE HENRY
+KING HENRY IV
+4.5 :Look, look, here comes my John of Lancaster. : None
+LANCASTER
+4.5 :Health, peace, and happiness to my royal father! : None
+KING HENRY IV
+4.5 :Thou bring'st me happiness and peace, son John; : None
+4.5 :But health, alack, with youthful wings is flown : None
+4.5 :From this bare wither'd trunk: upon thy sight : None
+4.5 :My worldly business makes a period. : None
+4.5 :Where is my Lord of Warwick? : None
+PRINCE HENRY
+4.5 :My Lord of Warwick! : None
+Enter WARWICK, and others : ["Enter - ['WARWICK']"] : PRINCE HENRY
+KING HENRY IV
+4.5 :Doth any name particular belong : None
+4.5 :Unto the lodging where I first did swoon? : None
+WARWICK
+4.5 :'Tis call'd Jerusalem, my noble lord. : None
+KING HENRY IV
+4.5 :Laud be to God! even there my life must end. : None
+4.5 :It hath been prophesied to me many years, : None
+4.5 :I should not die but in Jerusalem; : None
+4.5 :Which vainly I supposed the Holy Land: : None
+4.5 :But bear me to that chamber; there I'll lie; : None
+4.5 :In that Jerusalem shall Harry die. : None
+Exeunt : ['Exeunt - []'] : KING HENRY IV
+Act(act=5)
+Scene(scene=1)
+Enter SHALLOW, FALSTAFF, BARDOLPH, and Page : ["Enter - ['SHALLOW', 'FALSTAFF', 'BARDOLPH', 'PAGE']"] : KING HENRY IV
+SHALLOW
+5.1 :By cock and pie, sir, you shall not away to-night. : None
+5.1 :What, Davy, I say! : None
+FALSTAFF
+5.1 :You must excuse me, Master Robert Shallow. : None
+SHALLOW
+5.1 :I will not excuse you; you shall not be excused; : None
+5.1 :excuses shall not be admitted; there is no excuse : None
+5.1 :shall serve; you shall not be excused. Why, Davy! : None
+Enter DAVY : ["Enter - ['DAVY']"] : SHALLOW
+DAVY
+5.1 :Here, sir. : None
+SHALLOW
+5.1 :Davy, Davy, Davy, Davy, let me see, Davy; let me : None
+5.1 :see, Davy; let me see: yea, marry, William cook, : None
+5.1 :bid him come hither. Sir John, you shall not be excused. : None
+DAVY
+5.1 :Marry, sir, thus; those precepts cannot be served: : None
+5.1 :and, again, sir, shall we sow the headland with wheat? : None
+SHALLOW
+5.1 :With red wheat, Davy. But for William cook: are : None
+5.1 :there no young pigeons? : None
+DAVY
+5.1 :Yes, sir. Here is now the smith's note for shoeing : None
+5.1 :and plough-irons. : None
+SHALLOW
+5.1 :Let it be cast and paid. Sir John, you shall not be excused. : None
+DAVY
+5.1 :Now, sir, a new link to the bucket must need be : None
+5.1 :had: and, sir, do you mean to stop any of William's : None
+5.1 :wages, about the sack he lost the other day at : None
+5.1 :Hinckley fair? : None
+SHALLOW
+5.1 :A' shall answer it. Some pigeons, Davy, a couple : None
+5.1 :of short-legged hens, a joint of mutton, and any : None
+5.1 :pretty little tiny kickshaws, tell William cook. : None
+DAVY
+5.1 :Doth the man of war stay all night, sir? : None
+SHALLOW
+5.1 :Yea, Davy. I will use him well: a friend i' the : None
+5.1 :court is better than a penny in purse. Use his men : None
+5.1 :well, Davy; for they are arrant knaves, and will backbite. : None
+DAVY
+5.1 :No worse than they are backbitten, sir; for they : None
+5.1 :have marvellous foul linen. : None
+SHALLOW
+5.1 :Well conceited, Davy: about thy business, Davy. : None
+DAVY
+5.1 :I beseech you, sir, to countenance William Visor of : None
+5.1 :Woncot against Clement Perkes of the hill. : None
+SHALLOW
+5.1 :There is many complaints, Davy, against that Visor: : None
+5.1 :that Visor is an arrant knave, on my knowledge. : None
+DAVY
+5.1 :I grant your worship that he is a knave, sir; but : None
+5.1 :yet, God forbid, sir, but a knave should have some : None
+5.1 :countenance at his friend's request. An honest : None
+5.1 :man, sir, is able to speak for himself, when a knave : None
+5.1 :is not. I have served your worship truly, sir, : None
+5.1 :this eight years; and if I cannot once or twice in : None
+5.1 :a quarter bear out a knave against an honest man, I : None
+5.1 :have but a very little credit with your worship. The : None
+5.1 :knave is mine honest friend, sir; therefore, I : None
+5.1 :beseech your worship, let him be countenanced. : None
+SHALLOW
+5.1 :Go to; I say he shall have no wrong. Look about, Davy. : None
+Exit DAVY : ["Exit - ['DAVY']"] : SHALLOW
+5.1 :Where are you, Sir John? Come, come, come, off : None
+5.1 :with your boots. Give me your hand, Master Bardolph. : None
+BARDOLPH
+5.1 :I am glad to see your worship. : None
+SHALLOW
+5.1 :I thank thee with all my heart, kind : None
+5.1 :Master Bardolph: and welcome, my tall fellow. : None
+To the Page : ["To - ['PAGE']"] : SHALLOW
+5.1 :Come, Sir John. : None
+FALSTAFF
+5.1 :I'll follow you, good Master Robert Shallow. : None
+Exit SHALLOW : ["Exit - ['SHALLOW']"] : FALSTAFF
+5.1 :Bardolph, look to our horses. : None
+Exeunt BARDOLPH and Page : ["Exeunt - ['BARDOLPH', 'PAGE']"] : FALSTAFF
+5.1 :If I were sawed into quantities, I should make four : None
+5.1 :dozen of such bearded hermits' staves as Master : None
+5.1 :Shallow. It is a wonderful thing to see the : None
+5.1 :semblable coherence of his men's spirits and his: : None
+5.1 :they, by observing of him, do bear themselves like : None
+5.1 :foolish justices; he, by conversing with them, is : None
+5.1 :turned into a justice-like serving-man: their : None
+5.1 :spirits are so married in conjunction with the : None
+5.1 :participation of society that they flock together in : None
+5.1 :consent, like so many wild-geese. If I had a suit : None
+5.1 :to Master Shallow, I would humour his men with the : None
+5.1 :imputation of being near their master: if to his : None
+5.1 :men, I would curry with Master Shallow that no man : None
+5.1 :could better command his servants. It is certain : None
+5.1 :that either wise bearing or ignorant carriage is : None
+5.1 :caught, as men take diseases, one of another: : None
+5.1 :therefore let men take heed of their company. I : None
+5.1 :will devise matter enough out of this Shallow to : None
+5.1 :keep Prince Harry in continual laughter the wearing : None
+5.1 :out of six fashions, which is four terms, or two : None
+5.1 :actions, and a' shall laugh without intervallums. O, : None
+5.1 :it is much that a lie with a slight oath and a jest : None
+5.1 :with a sad brow will do with a fellow that never : None
+5.1 :had the ache in his shoulders! O, you shall see him : None
+5.1 :laugh till his face be like a wet cloak ill laid up! : None
+SHALLOW
+5.1 :  Sir John! : Within : ['None - []'] : SHALLOW
+FALSTAFF
+5.1 :I come, Master Shallow; I come, Master Shallow. : None
+Exit : ['Exit - []'] : FALSTAFF
+Scene(scene=2)
+Enter WARWICK and the Lord Chief-Justice, meeting : ["Enter - ['WARWICK']"] : FALSTAFF
+WARWICK
+5.2 :How now, my lord chief-justice! whither away? : None
+5.2 :Lord Chief-Justice	How doth the king? : None
+WARWICK
+5.2 :Exceeding well; his cares are now all ended. : None
+5.2 :Lord Chief-Justice	I hope, not dead. : None
+WARWICK
+5.2 :He's walk'd the way of nature; : None
+5.2 :And to our purposes he lives no more. : None
+5.2 :Lord Chief-Justice	I would his majesty had call'd me with him: : None
+5.2 :The service that I truly did his life : None
+5.2 :Hath left me open to all injuries. : None
+WARWICK
+5.2 :Indeed I think the young king loves you not. : None
+5.2 :Lord Chief-Justice	I know he doth not, and do arm myself : None
+5.2 :To welcome the condition of the time, : None
+5.2 :Which cannot look more hideously upon me : None
+5.2 :Than I have drawn it in my fantasy. : None
+Enter LANCASTER, CLARENCE, GLOUCESTER, WESTMORELAND, and others : ["Enter - ['LANCASTER', 'CLARENCE', 'GLOUCESTER', 'WESTMORELAND']"] : WARWICK
+WARWICK
+5.2 :Here come the heavy issue of dead Harry: : None
+5.2 :O that the living Harry had the temper : None
+5.2 :Of him, the worst of these three gentlemen! : None
+5.2 :How many nobles then should hold their places : None
+5.2 :That must strike sail to spirits of vile sort! : None
+5.2 :Lord Chief-Justice	O God, I fear all will be overturn'd! : None
+LANCASTER
+5.2 :Good morrow, cousin Warwick, good morrow. : None
+GLOUCESTER
+CLARENCE
+5.2 :Good morrow, cousin. : None
+LANCASTER
+5.2 :We meet like men that had forgot to speak. : None
+WARWICK
+5.2 :We do remember; but our argument : None
+5.2 :Is all too heavy to admit much talk. : None
+LANCASTER
+5.2 :Well, peace be with him that hath made us heavy. : None
+5.2 :Lord Chief-Justice	Peace be with us, lest we be heavier! : None
+GLOUCESTER
+5.2 :O, good my lord, you have lost a friend indeed; : None
+5.2 :And I dare swear you borrow not that face : None
+5.2 :Of seeming sorrow, it is sure your own. : None
+LANCASTER
+5.2 :Though no man be assured what grace to find, : None
+5.2 :You stand in coldest expectation: : None
+5.2 :I am the sorrier; would 'twere otherwise. : None
+CLARENCE
+5.2 :Well, you must now speak Sir John Falstaff fair; : None
+5.2 :Which swims against your stream of quality. : None
+5.2 :Lord Chief-Justice	Sweet princes, what I did, I did in honour, : None
+5.2 :Led by the impartial conduct of my soul: : None
+5.2 :And never shall you see that I will beg : None
+5.2 :A ragged and forestall'd remission. : None
+5.2 :If truth and upright innocency fail me, : None
+5.2 :I'll to the king my master that is dead, : None
+5.2 :And tell him who hath sent me after him. : None
+WARWICK
+5.2 :Here comes the prince. : None
+Enter KING HENRY V, attended : ["Enter - ['KING HENRY V']"] : WARWICK
+5.2 :Lord Chief-Justice	Good morrow; and God save your majesty! : None
+KING HENRY V
+5.2 :This new and gorgeous garment, majesty, : None
+5.2 :Sits not so easy on me as you think. : None
+5.2 :Brothers, you mix your sadness with some fear: : None
+5.2 :This is the English, not the Turkish court; : None
+5.2 :Not Amurath an Amurath succeeds, : None
+5.2 :But Harry Harry. Yet be sad, good brothers, : None
+5.2 :For, by my faith, it very well becomes you: : None
+5.2 :Sorrow so royally in you appears : None
+5.2 :That I will deeply put the fashion on : None
+5.2 :And wear it in my heart: why then, be sad; : None
+5.2 :But entertain no more of it, good brothers, : None
+5.2 :Than a joint burden laid upon us all. : None
+5.2 :For me, by heaven, I bid you be assured, : None
+5.2 :I'll be your father and your brother too; : None
+5.2 :Let me but bear your love, I 'll bear your cares: : None
+5.2 :Yet weep that Harry's dead; and so will I; : None
+5.2 :But Harry lives, that shall convert those tears : None
+5.2 :By number into hours of happiness. : None
+PRINCES
+5.2 :We hope no other from your majesty. : None
+KING HENRY V
+5.2 :You all look strangely on me: and you most; : None
+5.2 :You are, I think, assured I love you not. : None
+5.2 :Lord Chief-Justice	I am assured, if I be measured rightly, : None
+5.2 :Your majesty hath no just cause to hate me. : None
+KING HENRY V
+5.2 :No! : None
+5.2 :How might a prince of my great hopes forget : None
+5.2 :So great indignities you laid upon me? : None
+5.2 :What! rate, rebuke, and roughly send to prison : None
+5.2 :The immediate heir of England! Was this easy? : None
+5.2 :May this be wash'd in Lethe, and forgotten? : None
+5.2 :Lord Chief-Justice	I then did use the person of your father; : None
+5.2 :The image of his power lay then in me: : None
+5.2 :And, in the administration of his law, : None
+5.2 :Whiles I was busy for the commonwealth, : None
+5.2 :Your highness pleased to forget my place, : None
+5.2 :The majesty and power of law and justice, : None
+5.2 :The image of the king whom I presented, : None
+5.2 :And struck me in my very seat of judgment; : None
+5.2 :Whereon, as an offender to your father, : None
+5.2 :I gave bold way to my authority : None
+5.2 :And did commit you. If the deed were ill, : None
+5.2 :Be you contented, wearing now the garland, : None
+5.2 :To have a son set your decrees at nought, : None
+5.2 :To pluck down justice from your awful bench, : None
+5.2 :To trip the course of law and blunt the sword : None
+5.2 :That guards the peace and safety of your person; : None
+5.2 :Nay, more, to spurn at your most royal image : None
+5.2 :And mock your workings in a second body. : None
+5.2 :Question your royal thoughts, make the case yours; : None
+5.2 :Be now the father and propose a son, : None
+5.2 :Hear your own dignity so much profaned, : None
+5.2 :See your most dreadful laws so loosely slighted, : None
+5.2 :Behold yourself so by a son disdain'd; : None
+5.2 :And then imagine me taking your part : None
+5.2 :And in your power soft silencing your son: : None
+5.2 :After this cold considerance, sentence me; : None
+5.2 :And, as you are a king, speak in your state : None
+5.2 :What I have done that misbecame my place, : None
+5.2 :My person, or my liege's sovereignty. : None
+KING HENRY V
+5.2 :You are right, justice, and you weigh this well; : None
+5.2 :Therefore still bear the balance and the sword: : None
+5.2 :And I do wish your honours may increase, : None
+5.2 :Till you do live to see a son of mine : None
+5.2 :Offend you and obey you, as I did. : None
+5.2 :So shall I live to speak my father's words: : None
+5.2 :'Happy am I, that have a man so bold, : None
+5.2 :That dares do justice on my proper son; : None
+5.2 :And not less happy, having such a son, : None
+5.2 :That would deliver up his greatness so : None
+5.2 :Into the hands of justice.' You did commit me: : None
+5.2 :For which, I do commit into your hand : None
+5.2 :The unstained sword that you have used to bear; : None
+5.2 :With this remembrance, that you use the same : None
+5.2 :With the like bold, just and impartial spirit : None
+5.2 :As you have done 'gainst me. There is my hand. : None
+5.2 :You shall be as a father to my youth: : None
+5.2 :My voice shall sound as you do prompt mine ear, : None
+5.2 :And I will stoop and humble my intents : None
+5.2 :To your well-practised wise directions. : None
+5.2 :And, princes all, believe me, I beseech you; : None
+5.2 :My father is gone wild into his grave, : None
+5.2 :For in his tomb lie my affections; : None
+5.2 :And with his spirit sadly I survive, : None
+5.2 :To mock the expectation of the world, : None
+5.2 :To frustrate prophecies and to raze out : None
+5.2 :Rotten opinion, who hath writ me down : None
+5.2 :After my seeming. The tide of blood in me : None
+5.2 :Hath proudly flow'd in vanity till now: : None
+5.2 :Now doth it turn and ebb back to the sea, : None
+5.2 :Where it shall mingle with the state of floods : None
+5.2 :And flow henceforth in formal majesty. : None
+5.2 :Now call we our high court of parliament: : None
+5.2 :And let us choose such limbs of noble counsel, : None
+5.2 :That the great body of our state may go : None
+5.2 :In equal rank with the best govern'd nation; : None
+5.2 :That war, or peace, or both at once, may be : None
+5.2 :As things acquainted and familiar to us; : None
+5.2 :In which you, father, shall have foremost hand. : None
+5.2 :Our coronation done, we will accite, : None
+5.2 :As I before remember'd, all our state: : None
+5.2 :And, God consigning to my good intents, : None
+5.2 :No prince nor peer shall have just cause to say, : None
+5.2 :God shorten Harry's happy life one day! : None
+Exeunt : ['Exeunt - []'] : KING HENRY V
+Scene(scene=3)
+Enter FALSTAFF, SHALLOW, SILENCE, DAVY, BARDOLPH, and the Page : ["Enter - ['FALSTAFF', 'SHALLOW', 'SILENCE', 'DAVY', 'BARDOLPH', 'PAGE']"] : KING HENRY V
+SHALLOW
+5.3 :Nay, you shall see my orchard, where, in an arbour, : None
+5.3 :we will eat a last year's pippin of my own graffing, : None
+5.3 :with a dish of caraways, and so forth: come, : None
+5.3 :cousin Silence: and then to bed. : None
+FALSTAFF
+5.3 :'Fore God, you have here a goodly dwelling and a rich. : None
+SHALLOW
+5.3 :Barren, barren, barren; beggars all, beggars all, : None
+5.3 :Sir John: marry, good air. Spread, Davy; spread, : None
+5.3 :Davy; well said, Davy. : None
+FALSTAFF
+5.3 :This Davy serves you for good uses; he is your : None
+5.3 :serving-man and your husband. : None
+SHALLOW
+5.3 :A good varlet, a good varlet, a very good varlet, : None
+5.3 :Sir John: by the mass, I have drunk too much sack : None
+5.3 :at supper: a good varlet. Now sit down, now sit : None
+5.3 :down: come, cousin. : None
+SILENCE
+5.3 :Ah, sirrah! quoth-a, we shall : None
+5.3 :Do nothing but eat, and make good cheer, : None
+Singing : ['None - []'] : SILENCE
+5.3 :And praise God for the merry year; : None
+5.3 :When flesh is cheap and females dear, : None
+5.3 :And lusty lads roam here and there : None
+5.3 :So merrily, : None
+5.3 :And ever among so merrily. : None
+FALSTAFF
+5.3 :There's a merry heart! Good Master Silence, I'll : None
+5.3 :give you a health for that anon. : None
+SHALLOW
+5.3 :Give Master Bardolph some wine, Davy. : None
+DAVY
+5.3 :Sweet sir, sit; I'll be with you anon. most sweet : None
+5.3 :sir, sit. Master page, good master page, sit. : None
+5.3 :Proface! What you want in meat, we'll have in drink: : None
+5.3 :but you must bear; the heart's all. : None
+Exit : ['Exit - []'] : DAVY
+SHALLOW
+5.3 :Be merry, Master Bardolph; and, my little soldier : None
+5.3 :there, be merry. : None
+SILENCE
+5.3 :Be merry, be merry, my wife has all; : None
+Singing : ['None - []'] : SILENCE
+5.3 :For women are shrews, both short and tall: : None
+5.3 :'Tis merry in hall when beards wag all, : None
+5.3 :And welcome merry Shrove-tide. : None
+5.3 :Be merry, be merry. : None
+FALSTAFF
+5.3 :I did not think Master Silence had been a man of : None
+5.3 :this mettle. : None
+SILENCE
+5.3 :Who, I? I have been merry twice and once ere now. : None
+Re-enter DAVY : ["Re-enter - ['DAVY']"] : SILENCE
+DAVY
+5.3 :There's a dish of leather-coats for you. : None
+To BARDOLPH : ["To - ['BARDOLPH']"] : DAVY
+SHALLOW
+5.3 :Davy! : None
+DAVY
+5.3 :Your worship! I'll be with you straight. : None
+To BARDOLPH : ["To - ['BARDOLPH']"] : DAVY
+5.3 :A cup of wine, sir? : None
+SILENCE
+5.3 :A cup of wine that's brisk and fine, : None
+Singing : ['None - []'] : SILENCE
+5.3 :And drink unto the leman mine; : None
+5.3 :And a merry heart lives long-a. : None
+FALSTAFF
+5.3 :Well said, Master Silence. : None
+SILENCE
+5.3 :An we shall be merry, now comes in the sweet o' the night. : None
+FALSTAFF
+5.3 :Health and long life to you, Master Silence. : None
+SILENCE
+5.3 :Fill the cup, and let it come; : None
+Singing : ['None - []'] : SILENCE
+5.3 :I'll pledge you a mile to the bottom. : None
+SHALLOW
+5.3 :Honest Bardolph, welcome: if thou wantest any : None
+5.3 :thing, and wilt not call, beshrew thy heart. : None
+5.3 :Welcome, my little tiny thief. : None
+To the Page : ["To - ['PAGE']"] : SHALLOW
+5.3 :And welcome indeed too. I'll drink to Master : None
+5.3 :Bardolph, and to all the cavaleros about London. : None
+DAVY
+5.3 :I hove to see London once ere I die. : None
+BARDOLPH
+5.3 :An I might see you there, Davy,-- : None
+SHALLOW
+5.3 :By the mass, you'll crack a quart together, ha! : None
+5.3 :Will you not, Master Bardolph? : None
+BARDOLPH
+5.3 :Yea, sir, in a pottle-pot. : None
+SHALLOW
+5.3 :By God's liggens, I thank thee: the knave will : None
+5.3 :stick by thee, I can assure thee that. A' will not : None
+5.3 :out; he is true bred. : None
+BARDOLPH
+5.3 :And I'll stick by him, sir. : None
+SHALLOW
+5.3 :Why, there spoke a king. Lack nothing: be merry. : None
+Knocking within : ['None - []'] : SHALLOW
+5.3 :Look who's at door there, ho! who knocks? : None
+Exit DAVY : ["Exit - ['DAVY']"] : SHALLOW
+FALSTAFF
+5.3 :Why, now you have done me right. : None
+To SILENCE, seeing him take off a bumper : ["To - ['SILENCE']"] : FALSTAFF
+SILENCE
+5.3 : : Singing : ['None - []'] : SILENCE
+5.3 :Do me right, : None
+5.3 :And dub me knight: Samingo. : None
+5.3 :Is't not so? : None
+FALSTAFF
+5.3 :'Tis so. : None
+SILENCE
+5.3 :Is't so? Why then, say an old man can do somewhat. : None
+Re-enter DAVY : ["Re-enter - ['DAVY']"] : SILENCE
+DAVY
+5.3 :An't please your worship, there's one Pistol come : None
+5.3 :from the court with news. : None
+FALSTAFF
+5.3 :From the court! let him come in. : None
+Enter PISTOL : ["Enter - ['PISTOL']"] : FALSTAFF
+5.3 :How now, Pistol! : None
+PISTOL
+5.3 :Sir John, God save you! : None
+FALSTAFF
+5.3 :What wind blew you hither, Pistol? : None
+PISTOL
+5.3 :Not the ill wind which blows no man to good. Sweet : None
+5.3 :knight, thou art now one of the greatest men in this realm. : None
+SILENCE
+5.3 :By'r lady, I think a' be, but goodman Puff of Barson. : None
+PISTOL
+5.3 :Puff! : None
+5.3 :Puff in thy teeth, most recreant coward base! : None
+5.3 :Sir John, I am thy Pistol and thy friend, : None
+5.3 :And helter-skelter have I rode to thee, : None
+5.3 :And tidings do I bring and lucky joys : None
+5.3 :And golden times and happy news of price. : None
+FALSTAFF
+5.3 :I pray thee now, deliver them like a man of this world. : None
+PISTOL
+5.3 :A foutre for the world and worldlings base! : None
+5.3 :I speak of Africa and golden joys. : None
+FALSTAFF
+5.3 :O base Assyrian knight, what is thy news? : None
+5.3 :Let King Cophetua know the truth thereof. : None
+SILENCE
+5.3 :And Robin Hood, Scarlet, and John. : None
+Singing : ['None - []'] : SILENCE
+PISTOL
+5.3 :Shall dunghill curs confront the Helicons? : None
+5.3 :And shall good news be baffled? : None
+5.3 :Then, Pistol, lay thy head in Furies' lap. : None
+SILENCE
+5.3 :Honest gentleman, I know not your breeding. : None
+PISTOL
+5.3 :Why then, lament therefore. : None
+SHALLOW
+5.3 :Give me pardon, sir: if, sir, you come with news : None
+5.3 :from the court, I take it there's but two ways, : None
+5.3 :either to utter them, or to conceal them. I am, : None
+5.3 :sir, under the king, in some authority. : None
+PISTOL
+5.3 :Under which king, Besonian? speak, or die. : None
+SHALLOW
+5.3 :Under King Harry. : None
+PISTOL
+5.3 :                  Harry the Fourth? or Fifth? : None
+SHALLOW
+5.3 :Harry the Fourth. : None
+PISTOL
+5.3 :A foutre for thine office! : None
+5.3 :Sir John, thy tender lambkin now is king; : None
+5.3 :Harry the Fifth's the man. I speak the truth: : None
+5.3 :When Pistol lies, do this; and fig me, like : None
+5.3 :The bragging Spaniard. : None
+FALSTAFF
+5.3 :What, is the old king dead? : None
+PISTOL
+5.3 :As nail in door: the things I speak are just. : None
+FALSTAFF
+5.3 :Away, Bardolph! saddle my horse. Master Robert : None
+5.3 :Shallow, choose what office thou wilt in the land, : None
+5.3 :'tis thine. Pistol, I will double-charge thee with dignities. : None
+BARDOLPH
+5.3 :O joyful day! : None
+5.3 :I would not take a knighthood for my fortune. : None
+PISTOL
+5.3 :What! I do bring good news. : None
+FALSTAFF
+5.3 :Carry Master Silence to bed. Master Shallow, my : None
+5.3 :Lord Shallow,--be what thou wilt; I am fortune's : None
+5.3 :steward--get on thy boots: we'll ride all night. : None
+5.3 :O sweet Pistol! Away, Bardolph! : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : FALSTAFF
+5.3 :Come, Pistol, utter more to me; and withal devise : None
+5.3 :something to do thyself good. Boot, boot, Master : None
+5.3 :Shallow: I know the young king is sick for me. Let : None
+5.3 :us take any man's horses; the laws of England are at : None
+5.3 :my commandment. Blessed are they that have been my : None
+5.3 :friends; and woe to my lord chief-justice! : None
+PISTOL
+5.3 :Let vultures vile seize on his lungs also! : None
+5.3 :'Where is the life that late I led?' say they: : None
+5.3 :Why, here it is; welcome these pleasant days! : None
+Exeunt : ['Exeunt - []'] : PISTOL
+Scene(scene=4)
+Enter Beadles, dragging in HOSTESS QUICKLY and DOLL TEARSHEET : ["Enter - ['DOLL TEARSHEET']"] : PISTOL
+MISTRESS QUICKLY
+5.4 :No, thou arrant knave; I would to God that I might : None
+5.4 :die, that I might have thee hanged: thou hast : None
+5.4 :drawn my shoulder out of joint. : None
+FIRST BEADLE
+5.4 :The constables have delivered her over to me; and : None
+5.4 :she shall have whipping-cheer enough, I warrant : None
+5.4 :her: there hath been a man or two lately killed about her. : None
+DOLL TEARSHEET
+5.4 :Nut-hook, nut-hook, you lie. Come on; I 'll tell : None
+5.4 :thee what, thou damned tripe-visaged rascal, an : None
+5.4 :the child I now go with do miscarry, thou wert : None
+5.4 :better thou hadst struck thy mother, thou : None
+5.4 :paper-faced villain. : None
+MISTRESS QUICKLY
+5.4 :O the Lord, that Sir John were come! he would make : None
+5.4 :this a bloody day to somebody. But I pray God the : None
+5.4 :fruit of her womb miscarry! : None
+FIRST BEADLE
+5.4 :If it do, you shall have a dozen of cushions again; : None
+5.4 :you have but eleven now. Come, I charge you both go : None
+5.4 :with me; for the man is dead that you and Pistol : None
+5.4 :beat amongst you. : None
+DOLL TEARSHEET
+5.4 :I'll tell you what, you thin man in a censer, I : None
+5.4 :will have you as soundly swinged for this,--you : None
+5.4 :blue-bottle rogue, you filthy famished correctioner, : None
+5.4 :if you be not swinged, I'll forswear half-kirtles. : None
+FIRST BEADLE
+5.4 :Come, come, you she knight-errant, come. : None
+MISTRESS QUICKLY
+5.4 :O God, that right should thus overcome might! : None
+5.4 :Well, of sufferance comes ease. : None
+DOLL TEARSHEET
+5.4 :Come, you rogue, come; bring me to a justice. : None
+MISTRESS QUICKLY
+5.4 :Ay, come, you starved blood-hound. : None
+DOLL TEARSHEET
+5.4 :Goodman death, goodman bones! : None
+MISTRESS QUICKLY
+5.4 :Thou atomy, thou! : None
+DOLL TEARSHEET
+5.4 :Come, you thin thing; come you rascal. : None
+FIRST BEADLE
+5.4 :Very well. : None
+Exeunt : ['Exeunt - []'] : FIRST BEADLE
+Scene(scene=5)
+Enter two Grooms, strewing rushes : ['Enter - []'] : FIRST BEADLE
+FIRST GROOM
+5.5 :More rushes, more rushes. : None
+SECOND GROOM
+5.5 :The trumpets have sounded twice. : None
+FIRST GROOM
+5.5 :'Twill be two o'clock ere they come from the : None
+5.5 :coronation: dispatch, dispatch. : None
+Exeunt : ['Exeunt - []'] : FIRST GROOM
+Enter FALSTAFF, SHALLOW, PISTOL, BARDOLPH, and Page : ["Enter - ['FALSTAFF', 'SHALLOW', 'PISTOL', 'BARDOLPH', 'PAGE']"] : FIRST GROOM
+FALSTAFF
+5.5 :Stand here by me, Master Robert Shallow; I will : None
+5.5 :make the king do you grace: I will leer upon him as : None
+5.5 :a' comes by; and do but mark the countenance that he : None
+5.5 :will give me. : None
+PISTOL
+5.5 :God bless thy lungs, good knight. : None
+FALSTAFF
+5.5 :Come here, Pistol; stand behind me. O, if I had had : None
+5.5 :time to have made new liveries, I would have : None
+5.5 :bestowed the thousand pound I borrowed of you. But : None
+5.5 :'tis no matter; this poor show doth better: this : None
+5.5 :doth infer the zeal I had to see him. : None
+SHALLOW
+5.5 :It doth so. : None
+FALSTAFF
+5.5 :It shows my earnestness of affection,-- : None
+SHALLOW
+5.5 :It doth so. : None
+FALSTAFF
+5.5 :My devotion,-- : None
+SHALLOW
+5.5 :It doth, it doth, it doth. : None
+FALSTAFF
+5.5 :As it were, to ride day and night; and not to : None
+5.5 :deliberate, not to remember, not to have patience : None
+5.5 :to shift me,-- : None
+SHALLOW
+5.5 :It is best, certain. : None
+FALSTAFF
+5.5 :But to stand stained with travel, and sweating with : None
+5.5 :desire to see him; thinking of nothing else, : None
+5.5 :putting all affairs else in oblivion, as if there : None
+5.5 :were nothing else to be done but to see him. : None
+PISTOL
+5.5 :'Tis 'semper idem,' for 'obsque hoc nihil est:' : None
+5.5 :'tis all in every part. : None
+SHALLOW
+5.5 :'Tis so, indeed. : None
+PISTOL
+5.5 :My knight, I will inflame thy noble liver, : None
+5.5 :And make thee rage. : None
+5.5 :Thy Doll, and Helen of thy noble thoughts, : None
+5.5 :Is in base durance and contagious prison; : None
+5.5 :Haled thither : None
+5.5 :By most mechanical and dirty hand: : None
+5.5 :Rouse up revenge from ebon den with fell : None
+5.5 :Alecto's snake, : None
+5.5 :For Doll is in. Pistol speaks nought but truth. : None
+FALSTAFF
+5.5 :I will deliver her. : None
+Shouts within, and the trumpets sound : ['None - []'] : FALSTAFF
+PISTOL
+5.5 :There roar'd the sea, and trumpet-clangor sounds. : None
+Enter KING HENRY V and his train, the Lord Chief- Justice among them : ["Enter - ['KING HENRY V']"] : PISTOL
+FALSTAFF
+5.5 :God save thy grace, King Hal! my royal Hal! : None
+PISTOL
+5.5 :The heavens thee guard and keep, most royal imp of fame! : None
+FALSTAFF
+5.5 :God save thee, my sweet boy! : None
+KING HENRY IV
+5.5 :My lord chief-justice, speak to that vain man. : None
+5.5 :Lord Chief-Justice	Have you your wits? know you what 'tis to speak? : None
+FALSTAFF
+5.5 :My king! my Jove! I speak to thee, my heart! : None
+KING HENRY IV
+5.5 :I know thee not, old man: fall to thy prayers; : None
+5.5 :How ill white hairs become a fool and jester! : None
+5.5 :I have long dream'd of such a kind of man, : None
+5.5 :So surfeit-swell'd, so old and so profane; : None
+5.5 :But, being awaked, I do despise my dream. : None
+5.5 :Make less thy body hence, and more thy grace; : None
+5.5 :Leave gormandizing; know the grave doth gape : None
+5.5 :For thee thrice wider than for other men. : None
+5.5 :Reply not to me with a fool-born jest: : None
+5.5 :Presume not that I am the thing I was; : None
+5.5 :For God doth know, so shall the world perceive, : None
+5.5 :That I have turn'd away my former self; : None
+5.5 :So will I those that kept me company. : None
+5.5 :When thou dost hear I am as I have been, : None
+5.5 :Approach me, and thou shalt be as thou wast, : None
+5.5 :The tutor and the feeder of my riots: : None
+5.5 :Till then, I banish thee, on pain of death, : None
+5.5 :As I have done the rest of my misleaders, : None
+5.5 :Not to come near our person by ten mile. : None
+5.5 :For competence of life I will allow you, : None
+5.5 :That lack of means enforce you not to evil: : None
+5.5 :And, as we hear you do reform yourselves, : None
+5.5 :We will, according to your strengths and qualities, : None
+5.5 :Give you advancement. Be it your charge, my lord, : None
+5.5 :To see perform'd the tenor of our word. Set on. : None
+Exeunt KING HENRY V,  & c : ["Exeunt - ['KING HENRY V']"] : KING HENRY IV
+FALSTAFF
+5.5 :Master Shallow, I owe you a thousand pound. : None
+SHALLOW
+5.5 :Yea, marry, Sir John; which I beseech you to let me : None
+5.5 :have home with me. : None
+FALSTAFF
+5.5 :That can hardly be, Master Shallow. Do not you : None
+5.5 :grieve at this; I shall be sent for in private to : None
+5.5 :him: look you, he must seem thus to the world: : None
+5.5 :fear not your advancements; I will be the man yet : None
+5.5 :that shall make you great. : None
+SHALLOW
+5.5 :I cannot well perceive how, unless you should give : None
+5.5 :me your doublet and stuff me out with straw. I : None
+5.5 :beseech you, good Sir John, let me have five hundred : None
+5.5 :of my thousand. : None
+FALSTAFF
+5.5 :Sir, I will be as good as my word: this that you : None
+5.5 :heard was but a colour. : None
+SHALLOW
+5.5 :A colour that I fear you will die in, Sir John. : None
+FALSTAFF
+5.5 :Fear no colours: go  with me to dinner: come, : None
+5.5 :Lieutenant Pistol; come, Bardolph: I shall be sent : None
+5.5 :for soon at night. : None
+Re-enter Prince John of LANCASTER, the Lord Chief-Justice; Officers with them : ["Re-enter - ['LANCASTER']"] : FALSTAFF
+5.5 :Lord Chief-Justice	Go, carry Sir John Falstaff to the Fleet: : None
+5.5 :Take all his company along with him. : None
+FALSTAFF
+5.5 :My lord, my lord,-- : None
+5.5 :Lord Chief-Justice	I cannot now speak: I will hear you soon. : None
+5.5 :Take them away. : None
+PISTOL
+5.5 :Si fortune me tormenta, spero contenta. : None
+Exeunt all but PRINCE JOHN and the Lord Chief-Justice : ['Exeunt - []'] : PISTOL
+LANCASTER
+5.5 :I like this fair proceeding of the king's: : None
+5.5 :He hath intent his wonted followers : None
+5.5 :Shall all be very well provided for; : None
+5.5 :But all are banish'd till their conversations : None
+5.5 :Appear more wise and modest to the world. : None
+5.5 :Lord Chief-Justice	And so they are. : None
+LANCASTER
+5.5 :The king hath call'd his parliament, my lord. : None
+5.5 :Lord Chief-Justice	He hath. : None
+LANCASTER
+5.5 :I will lay odds that, ere this year expire, : None
+5.5 :We bear our civil swords and native fire : None
+5.5 :As far as France: I beard a bird so sing, : None
+5.5 :Whose music, to my thinking, pleased the king. : None
+5.5 :Come, will you hence? : None
+Exeunt : ['Exeunt - []'] : LANCASTER
+5.5 :EPILOGUE : None
+Spoken by a Dancer : ['None - []'] : LANCASTER
+5.5 :First my fear; then my courtesy; last my speech. : None
+5.5 :My fear is, your displeasure; my courtesy, my duty; : None
+5.5 :and my speech, to beg your pardons. If you look : None
+5.5 :for a good speech now, you undo me: for what I have : None
+5.5 :to say is of mine own making; and what indeed I : None
+5.5 :should say will, I doubt, prove mine own marring. : None
+5.5 :But to the purpose, and so to the venture. Be it : None
+5.5 :known to you, as it is very well, I was lately here : None
+5.5 :in the end of a displeasing play, to pray your : None
+5.5 :patience for it and to promise you a better. I : None
+5.5 :meant indeed to pay you with this; which, if like an : None
+5.5 :ill venture it come unluckily home, I break, and : None
+5.5 :you, my gentle creditors, lose. Here I promised you : None
+5.5 :I would be and here I commit my body to your : None
+5.5 :mercies: bate me some and I will pay you some and, : None
+5.5 :as most debtors do, promise you infinitely. : None
+5.5 :If my tongue cannot entreat you to acquit me, will : None
+5.5 :you command me to use my legs? and yet that were but : None
+5.5 :light payment, to dance out of your debt. But a : None
+5.5 :good conscience will make any possible satisfaction, : None
+5.5 :and so would I. All the gentlewomen here have : None
+5.5 :forgiven me: if the gentlemen will not, then the : None
+5.5 :gentlemen do not agree with the gentlewomen, which : None
+5.5 :was never seen before in such an assembly. : None
+5.5 :One word more, I beseech you. If you be not too : None
+5.5 :much cloyed with fat meat, our humble author will : None
+5.5 :continue the story, with Sir John in it, and make : None
+5.5 :you merry with fair Katharine of France: where, for : None
+5.5 :any thing I know, Falstaff shall die of a sweat, : None
+5.5 :unless already a' be killed with your hard : None
+5.5 :opinions; for Oldcastle died a martyr, and this is : None
+5.5 :not the man. My tongue is weary; when my legs are : None
+5.5 :too, I will bid you good night: and so kneel down : None
+5.5 :before you; but, indeed, to pray for the queen. : None

@@ -60,8 +60,7 @@ def create_graph(adj_num, reciprocal=False):
         recipient, 
         {'weight' : weight_f(speaker, recipient), 'color' : 'blue'}
         ) 
-            for speaker in adj_num
-            for recipient in adj_num[speaker] ]
+            for speaker in adj_num for recipient in adj_num[speaker] ]
     graph = nx.DiGraph()
     graph.add_edges_from(edges)
     return graph
@@ -89,6 +88,9 @@ SEE `create_forbidden_matcher`
 
 In place of whether the two women are named, both women must be in the upper
 50% of characters as given by character by importance.  
+
+Note:
+    If there are no females in the upper 50% of characters, it retuns 0%.
 """
 
 def bechdel_test(play_lines, characters_by_importance, adj, gender,
@@ -102,40 +104,67 @@ def bechdel_test(play_lines, characters_by_importance, adj, gender,
     female_to_female = sorted([ line 
             for speaker in notable_females
             for spoken in notable_females - {speaker} 
-            for line in adj[speaker][spoken] ])
+            for line in adj[speaker].get(spoken, [])])
     female_lines_by_scene = get_female_lines_by_scene(female_to_female,
             act_scene_start_end)
     males = filter(lambda x: gender[x] == 'M', characters)
+    print(female_lines_by_scene)
     bechdel_scenes = [ bechdel_by_scene(start, end, female_to_female,
         play_lines, males) for start, end in female_lines_by_scene ]
     # Abusing the fact that True is one
     print(bechdel_scenes)
-    return bechdel_scenes ,sum(bechdel_scenes) / len(bechdel_scenes)
+    bechdel_percent = sum(bechdel_scenes) / len(act_scene_start_end)
+    return bechdel_scenes, bechdel_percent
 
 def get_female_lines_by_scene(female_to_female, act_scene_start_end):
     """ for each scene in play, get the range of lines in female_to_female
-    which belong to that scene
+    which belong to that scene. As is in common, the range is defined to be
+    (inclusive, exclusive).
+
+    For example:
+    if 
+    >>> female_to_female = [0, 1, 3, 8, 9, 10, 11, 100, 101]
+    >>> act_scene_start_end = [(0, 10), (10, 30), (30, 80), (80, 102)]
+
+    then after 
+    >>> female_lines_by_scene = [ lines_by_scene(female_to_female, end) for _ ,
+            end in act_scene_start_end ]
+    >>> female_lines_by_scene == [(0, 5), (5, 7), (7,7), (7,9)]
     """
-    i = 0
-    female_lines_by_scene = []
-    for _ , end in act_scene_start_end:
-        for j in range(i, len(female_to_female)):
-            if female_to_female[j] >= end:
-                female_lines_by_scene.append((i, j))
-                i = j
-                break
-    female_lines_by_scene.append((i, len(female_to_female)))
+    class LinesByScenes:
+        def __init__(self):
+            self.left_marker = 0
+            self.reached_end = False
+
+        def __call__(self, female_to_female, end):
+            if self.reached_end:
+                return (len(female_to_female), len(female_to_female))
+            for i in range(self.left_marker, len(female_to_female)):
+                line_n = female_to_female[i]
+                if line_n >= end:
+                    line_range = (self.left_marker, i)
+                    self.left_marker = i
+                    return line_range
+            self.reached_end = True
+            return (self.left_marker, len(female_to_female))
+
+    lines_by_scene = LinesByScenes()
+    female_lines_by_scene = [ lines_by_scene(female_to_female, end) for _ ,
+            end in act_scene_start_end ]
     return female_lines_by_scene
 
 def bechdel_by_scene(start, end, female_to_female, play_lines,
         males):
     forbidden_matcher = create_forbidden_matcher(males)
+    # if start == end, this means the scene contains no dialgoue.
     if start == end:
         return False
     for i in range(start, end):
         line_i = female_to_female[i]
         line = play_lines[line_i]
-        if forbidden_matcher.search(line.dialogue):
+        forbidden_match = forbidden_matcher.search(line.dialogue)
+        if forbidden_match:
+            print("forbidden_match : ", forbidden_match)
             return False
     return True
 

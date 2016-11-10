@@ -32,6 +32,7 @@ def get_act_scene_range(play_lines):
                 act_scene_range.append(i)
     act_scene_range.append(len(play_lines))
     # make sure that the beginning is part of an act, scene
+    # print(act_scene_range)
     assert act_scene_range[0] == 0
     assert len(act_scenes) + 1 == len(act_scene_range)
     return act_scenes, act_scene_range
