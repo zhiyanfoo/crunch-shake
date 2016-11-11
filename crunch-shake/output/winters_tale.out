@@ -1,0 +1,4236 @@
+Act(act=1)
+Scene(scene=1)
+Enter CAMILLO and ARCHIDAMUS : ["Enter - ['CAMILLO', 'ARCHIDAMUS']"] : None
+ARCHIDAMUS
+1.1 :If you shall chance, Camillo, to visit Bohemia, on : None
+1.1 :the like occasion whereon my services are now on : None
+1.1 :foot, you shall see, as I have said, great : None
+1.1 :difference betwixt our Bohemia and your Sicilia. : None
+CAMILLO
+1.1 :I think, this coming summer, the King of Sicilia : None
+1.1 :means to pay Bohemia the visitation which he justly owes him. : None
+ARCHIDAMUS
+1.1 :Wherein our entertainment shall shame us we will be : None
+1.1 :justified in our loves; for indeed-- : None
+CAMILLO
+1.1 :Beseech you,-- : None
+ARCHIDAMUS
+1.1 :Verily, I speak it in the freedom of my knowledge: : None
+1.1 :we cannot with such magnificence--in so rare--I know : None
+1.1 :not what to say. We will give you sleepy drinks, : None
+1.1 :that your senses, unintelligent of our insufficience, : None
+1.1 :may, though they cannot praise us, as little accuse : None
+1.1 :us. : None
+CAMILLO
+1.1 :You pay a great deal too dear for what's given freely. : None
+ARCHIDAMUS
+1.1 :Believe me, I speak as my understanding instructs me : None
+1.1 :and as mine honesty puts it to utterance. : None
+CAMILLO
+1.1 :Sicilia cannot show himself over-kind to Bohemia. : None
+1.1 :They were trained together in their childhoods; and : None
+1.1 :there rooted betwixt them then such an affection, : None
+1.1 :which cannot choose but branch now. Since their : None
+1.1 :more mature dignities and royal necessities made : None
+1.1 :separation of their society, their encounters, : None
+1.1 :though not personal, have been royally attorneyed : None
+1.1 :with interchange of gifts, letters, loving : None
+1.1 :embassies; that they have seemed to be together, : None
+1.1 :though absent, shook hands, as over a vast, and : None
+1.1 :embraced, as it were, from the ends of opposed : None
+1.1 :winds. The heavens continue their loves! : None
+ARCHIDAMUS
+1.1 :I think there is not in the world either malice or : None
+1.1 :matter to alter it. You have an unspeakable : None
+1.1 :comfort of your young prince Mamillius: it is a : None
+1.1 :gentleman of the greatest promise that ever came : None
+1.1 :into my note. : None
+CAMILLO
+1.1 :I very well agree with you in the hopes of him: it : None
+1.1 :is a gallant child; one that indeed physics the : None
+1.1 :subject, makes old hearts fresh: they that went on : None
+1.1 :crutches ere he was born desire yet their life to : None
+1.1 :see him a man. : None
+ARCHIDAMUS
+1.1 :Would they else be content to die? : None
+CAMILLO
+1.1 :Yes; if there were no other excuse why they should : None
+1.1 :desire to live. : None
+ARCHIDAMUS
+1.1 :If the king had no son, they would desire to live : None
+1.1 :on crutches till he had one. : None
+Exeunt : ['Exeunt - []'] : ARCHIDAMUS
+Scene(scene=2)
+Enter LEONTES, HERMIONE, MAMILLIUS, POLIXENES, CAMILLO, and Attendants : ["Enter - ['LEONTES', 'HERMIONE', 'MAMILLIUS', 'POLIXENES', 'CAMILLO']"] : ARCHIDAMUS
+POLIXENES
+1.2 :Nine changes of the watery star hath been : None
+1.2 :The shepherd's note since we have left our throne : None
+1.2 :Without a burthen: time as long again : None
+1.2 :Would be find up, my brother, with our thanks; : None
+1.2 :And yet we should, for perpetuity, : None
+1.2 :Go hence in debt: and therefore, like a cipher, : None
+1.2 :Yet standing in rich place, I multiply : None
+1.2 :With one 'We thank you' many thousands moe : None
+1.2 :That go before it. : None
+LEONTES
+1.2 :                  Stay your thanks a while; : None
+1.2 :And pay them when you part. : None
+POLIXENES
+1.2 :Sir, that's to-morrow. : None
+1.2 :I am question'd by my fears, of what may chance : None
+1.2 :Or breed upon our absence; that may blow : None
+1.2 :No sneaping winds at home, to make us say : None
+1.2 :'This is put forth too truly:' besides, I have stay'd : None
+1.2 :To tire your royalty. : None
+LEONTES
+1.2 :We are tougher, brother, : None
+1.2 :Than you can put us to't. : None
+POLIXENES
+1.2 :No longer stay. : None
+LEONTES
+1.2 :One seven-night longer. : None
+POLIXENES
+1.2 :Very sooth, to-morrow. : None
+LEONTES
+1.2 :We'll part the time between's then; and in that : None
+1.2 :I'll no gainsaying. : None
+POLIXENES
+1.2 :Press me not, beseech you, so. : None
+1.2 :There is no tongue that moves, none, none i' the world, : None
+1.2 :So soon as yours could win me: so it should now, : None
+1.2 :Were there necessity in your request, although : None
+1.2 :'Twere needful I denied it. My affairs : None
+1.2 :Do even drag me homeward: which to hinder : None
+1.2 :Were in your love a whip to me; my stay : None
+1.2 :To you a charge and trouble: to save both, : None
+1.2 :Farewell, our brother. : None
+LEONTES
+1.2 :Tongue-tied, our queen? : None
+1.2 :speak you. : None
+HERMIONE
+1.2 :I had thought, sir, to have held my peace until : None
+1.2 :You have drawn oaths from him not to stay. You, sir, : None
+1.2 :Charge him too coldly. Tell him, you are sure : None
+1.2 :All in Bohemia's well; this satisfaction : None
+1.2 :The by-gone day proclaim'd: say this to him, : None
+1.2 :He's beat from his best ward. : None
+LEONTES
+1.2 :Well said, Hermione. : None
+HERMIONE
+1.2 :To tell, he longs to see his son, were strong: : None
+1.2 :But let him say so then, and let him go; : None
+1.2 :But let him swear so, and he shall not stay, : None
+1.2 :We'll thwack him hence with distaffs. : None
+1.2 :Yet of your royal presence I'll adventure : None
+1.2 :The borrow of a week. When at Bohemia : None
+1.2 :You take my lord, I'll give him my commission : None
+1.2 :To let him there a month behind the gest : None
+1.2 :Prefix'd for's parting: yet, good deed, Leontes, : None
+1.2 :I love thee not a jar o' the clock behind : None
+1.2 :What lady-she her lord. You'll stay? : None
+POLIXENES
+1.2 :No, madam. : None
+HERMIONE
+1.2 :Nay, but you will? : None
+POLIXENES
+1.2 :                  I may not, verily. : None
+HERMIONE
+1.2 :Verily! : None
+1.2 :You put me off with limber vows; but I, : None
+1.2 :Though you would seek to unsphere the : None
+1.2 :stars with oaths, : None
+1.2 :Should yet say 'Sir, no going.' Verily, : None
+1.2 :You shall not go: a lady's 'Verily' 's : None
+1.2 :As potent as a lord's. Will you go yet? : None
+1.2 :Force me to keep you as a prisoner, : None
+1.2 :Not like a guest; so you shall pay your fees : None
+1.2 :When you depart, and save your thanks. How say you? : None
+1.2 :My prisoner? or my guest? by your dread 'Verily,' : None
+1.2 :One of them you shall be. : None
+POLIXENES
+1.2 :Your guest, then, madam: : None
+1.2 :To be your prisoner should import offending; : None
+1.2 :Which is for me less easy to commit : None
+1.2 :Than you to punish. : None
+HERMIONE
+1.2 :Not your gaoler, then, : None
+1.2 :But your kind hostess. Come, I'll question you : None
+1.2 :Of my lord's tricks and yours when you were boys: : None
+1.2 :You were pretty lordings then? : None
+POLIXENES
+1.2 :We were, fair queen, : None
+1.2 :Two lads that thought there was no more behind : None
+1.2 :But such a day to-morrow as to-day, : None
+1.2 :And to be boy eternal. : None
+HERMIONE
+1.2 :Was not my lord : None
+1.2 :The verier wag o' the two? : None
+POLIXENES
+1.2 :We were as twinn'd lambs that did frisk i' the sun, : None
+1.2 :And bleat the one at the other: what we changed : None
+1.2 :Was innocence for innocence; we knew not : None
+1.2 :The doctrine of ill-doing, nor dream'd : None
+1.2 :That any did. Had we pursued that life, : None
+1.2 :And our weak spirits ne'er been higher rear'd : None
+1.2 :With stronger blood, we should have answer'd heaven : None
+1.2 :Boldly 'not guilty;' the imposition clear'd : None
+1.2 :Hereditary ours. : None
+HERMIONE
+1.2 :                  By this we gather : None
+1.2 :You have tripp'd since. : None
+POLIXENES
+1.2 :O my most sacred lady! : None
+1.2 :Temptations have since then been born to's; for : None
+1.2 :In those unfledged days was my wife a girl; : None
+1.2 :Your precious self had then not cross'd the eyes : None
+1.2 :Of my young play-fellow. : None
+HERMIONE
+1.2 :Grace to boot! : None
+1.2 :Of this make no conclusion, lest you say : None
+1.2 :Your queen and I are devils: yet go on; : None
+1.2 :The offences we have made you do we'll answer, : None
+1.2 :If you first sinn'd with us and that with us : None
+1.2 :You did continue fault and that you slipp'd not : None
+1.2 :With any but with us. : None
+LEONTES
+1.2 :Is he won yet? : None
+HERMIONE
+1.2 :He'll stay my lord. : None
+LEONTES
+1.2 :At my request he would not. : None
+1.2 :Hermione, my dearest, thou never spokest : None
+1.2 :To better purpose. : None
+HERMIONE
+1.2 :                                 Never? : None
+LEONTES
+1.2 :Never, but once. : None
+HERMIONE
+1.2 :What! have I twice said well? when was't before? : None
+1.2 :I prithee tell me; cram's with praise, and make's : None
+1.2 :As fat as tame things: one good deed dying tongueless : None
+1.2 :Slaughters a thousand waiting upon that. : None
+1.2 :Our praises are our wages: you may ride's : None
+1.2 :With one soft kiss a thousand furlongs ere : None
+1.2 :With spur we beat an acre. But to the goal: : None
+1.2 :My last good deed was to entreat his stay: : None
+1.2 :What was my first? it has an elder sister, : None
+1.2 :Or I mistake you: O, would her name were Grace! : None
+1.2 :But once before I spoke to the purpose: when? : None
+1.2 :Nay, let me have't; I long. : None
+LEONTES
+1.2 :Why, that was when : None
+1.2 :Three crabbed months had sour'd themselves to death, : None
+1.2 :Ere I could make thee open thy white hand : None
+1.2 :And clap thyself my love: then didst thou utter : None
+1.2 :'I am yours for ever.' : None
+HERMIONE
+1.2 :'Tis grace indeed. : None
+1.2 :Why, lo you now, I have spoke to the purpose twice: : None
+1.2 :The one for ever earn'd a royal husband; : None
+1.2 :The other for some while a friend. : None
+LEONTES
+1.2 :	Too hot, too hot! : Aside : ['Aside - []'] : LEONTES
+1.2 :To mingle friendship far is mingling bloods. : None
+1.2 :I have tremor cordis on me: my heart dances; : None
+1.2 :But not for joy; not joy. This entertainment : None
+1.2 :May a free face put on, derive a liberty : None
+1.2 :From heartiness, from bounty, fertile bosom, : None
+1.2 :And well become the agent; 't may, I grant; : None
+1.2 :But to be paddling palms and pinching fingers, : None
+1.2 :As now they are, and making practised smiles, : None
+1.2 :As in a looking-glass, and then to sigh, as 'twere : None
+1.2 :The mort o' the deer; O, that is entertainment : None
+1.2 :My bosom likes not, nor my brows! Mamillius, : None
+1.2 :Art thou my boy? : None
+MAMILLIUS
+1.2 :                           Ay, my good lord. : None
+LEONTES
+1.2 :I' fecks! : None
+1.2 :Why, that's my bawcock. What, hast : None
+1.2 :smutch'd thy nose? : None
+1.2 :They say it is a copy out of mine. Come, captain, : None
+1.2 :We must be neat; not neat, but cleanly, captain: : None
+1.2 :And yet the steer, the heifer and the calf : None
+1.2 :Are all call'd neat.--Still virginalling : None
+1.2 :Upon his palm!--How now, you wanton calf! : None
+1.2 :Art thou my calf? : None
+MAMILLIUS
+1.2 :                  Yes, if you will, my lord. : None
+LEONTES
+1.2 :Thou want'st a rough pash and the shoots that I have, : None
+1.2 :To be full like me: yet they say we are : None
+1.2 :Almost as like as eggs; women say so, : None
+1.2 :That will say anything but were they false : None
+1.2 :As o'er-dyed blacks, as wind, as waters, false : None
+1.2 :As dice are to be wish'd by one that fixes : None
+1.2 :No bourn 'twixt his and mine, yet were it true : None
+1.2 :To say this boy were like me. Come, sir page, : None
+1.2 :Look on me with your welkin eye: sweet villain! : None
+1.2 :Most dear'st! my collop! Can thy dam?--may't be?-- : None
+1.2 :Affection! thy intention stabs the centre: : None
+1.2 :Thou dost make possible things not so held, : None
+1.2 :Communicatest with dreams;--how can this be?-- : None
+1.2 :With what's unreal thou coactive art, : None
+1.2 :And fellow'st nothing: then 'tis very credent : None
+1.2 :Thou mayst co-join with something; and thou dost, : None
+1.2 :And that beyond commission, and I find it, : None
+1.2 :And that to the infection of my brains : None
+1.2 :And hardening of my brows. : None
+POLIXENES
+1.2 :What means Sicilia? : None
+HERMIONE
+1.2 :He something seems unsettled. : None
+POLIXENES
+1.2 :How, my lord! : None
+1.2 :What cheer? how is't with you, best brother? : None
+HERMIONE
+1.2 :You look as if you held a brow of much distraction : None
+1.2 :Are you moved, my lord? : None
+LEONTES
+1.2 :No, in good earnest. : None
+1.2 :How sometimes nature will betray its folly, : None
+1.2 :Its tenderness, and make itself a pastime : None
+1.2 :To harder bosoms! Looking on the lines : None
+1.2 :Of my boy's face, methoughts I did recoil : None
+1.2 :Twenty-three years, and saw myself unbreech'd, : None
+1.2 :In my green velvet coat, my dagger muzzled, : None
+1.2 :Lest it should bite its master, and so prove, : None
+1.2 :As ornaments oft do, too dangerous: : None
+1.2 :How like, methought, I then was to this kernel, : None
+1.2 :This squash, this gentleman. Mine honest friend, : None
+1.2 :Will you take eggs for money? : None
+MAMILLIUS
+1.2 :No, my lord, I'll fight. : None
+LEONTES
+1.2 :You will! why, happy man be's dole! My brother, : None
+1.2 :Are you so fond of your young prince as we : None
+1.2 :Do seem to be of ours? : None
+POLIXENES
+1.2 :If at home, sir, : None
+1.2 :He's all my exercise, my mirth, my matter, : None
+1.2 :Now my sworn friend and then mine enemy, : None
+1.2 :My parasite, my soldier, statesman, all: : None
+1.2 :He makes a July's day short as December, : None
+1.2 :And with his varying childness cures in me : None
+1.2 :Thoughts that would thick my blood. : None
+LEONTES
+1.2 :So stands this squire : None
+1.2 :Officed with me: we two will walk, my lord, : None
+1.2 :And leave you to your graver steps. Hermione, : None
+1.2 :How thou lovest us, show in our brother's welcome; : None
+1.2 :Let what is dear in Sicily be cheap: : None
+1.2 :Next to thyself and my young rover, he's : None
+1.2 :Apparent to my heart. : None
+HERMIONE
+1.2 :If you would seek us, : None
+1.2 :We are yours i' the garden: shall's attend you there? : None
+LEONTES
+1.2 :To your own bents dispose you: you'll be found, : None
+1.2 :Be you beneath the sky. : None
+Aside : ['Aside - []'] : LEONTES
+1.2 :I am angling now, : None
+1.2 :Though you perceive me not how I give line. : None
+1.2 :Go to, go to! : None
+1.2 :How she holds up the neb, the bill to him! : None
+1.2 :And arms her with the boldness of a wife : None
+1.2 :To her allowing husband! : None
+Exeunt POLIXENES, HERMIONE, and Attendants : ["Exeunt - ['POLIXENES', 'HERMIONE']"] : LEONTES
+1.2 :Gone already! : None
+1.2 :Inch-thick, knee-deep, o'er head and : None
+1.2 :ears a fork'd one! : None
+1.2 :Go, play, boy, play: thy mother plays, and I : None
+1.2 :Play too, but so disgraced a part, whose issue : None
+1.2 :Will hiss me to my grave: contempt and clamour : None
+1.2 :Will be my knell. Go, play, boy, play. : None
+1.2 :There have been, : None
+1.2 :Or I am much deceived, cuckolds ere now; : None
+1.2 :And many a man there is, even at this present, : None
+1.2 :Now while I speak this, holds his wife by the arm, : None
+1.2 :That little thinks she has been sluiced in's absence : None
+1.2 :And his pond fish'd by his next neighbour, by : None
+1.2 :Sir Smile, his neighbour: nay, there's comfort in't : None
+1.2 :Whiles other men have gates and those gates open'd, : None
+1.2 :As mine, against their will. Should all despair : None
+1.2 :That have revolted wives, the tenth of mankind : None
+1.2 :Would hang themselves. Physic for't there is none; : None
+1.2 :It is a bawdy planet, that will strike : None
+1.2 :Where 'tis predominant; and 'tis powerful, think it, : None
+1.2 :From east, west, north and south: be it concluded, : None
+1.2 :No barricado for a belly; know't; : None
+1.2 :It will let in and out the enemy : None
+1.2 :With bag and baggage: many thousand on's : None
+1.2 :Have the disease, and feel't not. How now, boy! : None
+MAMILLIUS
+1.2 :I am like you, they say. : None
+LEONTES
+1.2 :Why that's some comfort. What, Camillo there? : None
+CAMILLO
+1.2 :Ay, my good lord. : None
+LEONTES
+1.2 :Go play, Mamillius; thou'rt an honest man. : None
+Exit MAMILLIUS : ["Exit - ['MAMILLIUS']"] : LEONTES
+1.2 :Camillo, this great sir will yet stay longer. : None
+CAMILLO
+1.2 :You had much ado to make his anchor hold: : None
+1.2 :When you cast out, it still came home. : None
+LEONTES
+1.2 :Didst note it? : None
+CAMILLO
+1.2 :He would not stay at your petitions: made : None
+1.2 :His business more material. : None
+LEONTES
+1.2 :Didst perceive it? : None
+Aside : ['Aside - []'] : LEONTES
+1.2 :They're here with me already, whispering, rounding : None
+1.2 :'Sicilia is a so-forth:' 'tis far gone, : None
+1.2 :When I shall gust it last. How came't, Camillo, : None
+1.2 :That he did stay? : None
+CAMILLO
+1.2 :                  At the good queen's entreaty. : None
+LEONTES
+1.2 :At the queen's be't: 'good' should be pertinent : None
+1.2 :But, so it is, it is not. Was this taken : None
+1.2 :By any understanding pate but thine? : None
+1.2 :For thy conceit is soaking, will draw in : None
+1.2 :More than the common blocks: not noted, is't, : None
+1.2 :But of the finer natures? by some severals : None
+1.2 :Of head-piece extraordinary? lower messes : None
+1.2 :Perchance are to this business purblind? say. : None
+CAMILLO
+1.2 :Business, my lord! I think most understand : None
+1.2 :Bohemia stays here longer. : None
+LEONTES
+1.2 :Ha! : None
+CAMILLO
+1.2 :Stays here longer. : None
+LEONTES
+1.2 :Ay, but why? : None
+CAMILLO
+1.2 :To satisfy your highness and the entreaties : None
+1.2 :Of our most gracious mistress. : None
+LEONTES
+1.2 :Satisfy! : None
+1.2 :The entreaties of your mistress! satisfy! : None
+1.2 :Let that suffice. I have trusted thee, Camillo, : None
+1.2 :With all the nearest things to my heart, as well : None
+1.2 :My chamber-councils, wherein, priest-like, thou : None
+1.2 :Hast cleansed my bosom, I from thee departed : None
+1.2 :Thy penitent reform'd: but we have been : None
+1.2 :Deceived in thy integrity, deceived : None
+1.2 :In that which seems so. : None
+CAMILLO
+1.2 :Be it forbid, my lord! : None
+LEONTES
+1.2 :To bide upon't, thou art not honest, or, : None
+1.2 :If thou inclinest that way, thou art a coward, : None
+1.2 :Which hoxes honesty behind, restraining : None
+1.2 :From course required; or else thou must be counted : None
+1.2 :A servant grafted in my serious trust : None
+1.2 :And therein negligent; or else a fool : None
+1.2 :That seest a game play'd home, the rich stake drawn, : None
+1.2 :And takest it all for jest. : None
+CAMILLO
+1.2 :My gracious lord, : None
+1.2 :I may be negligent, foolish and fearful; : None
+1.2 :In every one of these no man is free, : None
+1.2 :But that his negligence, his folly, fear, : None
+1.2 :Among the infinite doings of the world, : None
+1.2 :Sometime puts forth. In your affairs, my lord, : None
+1.2 :If ever I were wilful-negligent, : None
+1.2 :It was my folly; if industriously : None
+1.2 :I play'd the fool, it was my negligence, : None
+1.2 :Not weighing well the end; if ever fearful : None
+1.2 :To do a thing, where I the issue doubted, : None
+1.2 :Where of the execution did cry out : None
+1.2 :Against the non-performance, 'twas a fear : None
+1.2 :Which oft infects the wisest: these, my lord, : None
+1.2 :Are such allow'd infirmities that honesty : None
+1.2 :Is never free of. But, beseech your grace, : None
+1.2 :Be plainer with me; let me know my trespass : None
+1.2 :By its own visage: if I then deny it, : None
+1.2 :'Tis none of mine. : None
+LEONTES
+1.2 :                  Ha' not you seen, Camillo,-- : None
+1.2 :But that's past doubt, you have, or your eye-glass : None
+1.2 :Is thicker than a cuckold's horn,--or heard,-- : None
+1.2 :For to a vision so apparent rumour : None
+1.2 :Cannot be mute,--or thought,--for cogitation : None
+1.2 :Resides not in that man that does not think,-- : None
+1.2 :My wife is slippery? If thou wilt confess, : None
+1.2 :Or else be impudently negative, : None
+1.2 :To have nor eyes nor ears nor thought, then say : None
+1.2 :My wife's a hobby-horse, deserves a name : None
+1.2 :As rank as any flax-wench that puts to : None
+1.2 :Before her troth-plight: say't and justify't. : None
+CAMILLO
+1.2 :I would not be a stander-by to hear : None
+1.2 :My sovereign mistress clouded so, without : None
+1.2 :My present vengeance taken: 'shrew my heart, : None
+1.2 :You never spoke what did become you less : None
+1.2 :Than this; which to reiterate were sin : None
+1.2 :As deep as that, though true. : None
+LEONTES
+1.2 :Is whispering nothing? : None
+1.2 :Is leaning cheek to cheek? is meeting noses? : None
+1.2 :Kissing with inside lip? stopping the career : None
+1.2 :Of laughing with a sigh?--a note infallible : None
+1.2 :Of breaking honesty--horsing foot on foot? : None
+1.2 :Skulking in corners? wishing clocks more swift? : None
+1.2 :Hours, minutes? noon, midnight? and all eyes : None
+1.2 :Blind with the pin and web but theirs, theirs only, : None
+1.2 :That would unseen be wicked? is this nothing? : None
+1.2 :Why, then the world and all that's in't is nothing; : None
+1.2 :The covering sky is nothing; Bohemia nothing; : None
+1.2 :My wife is nothing; nor nothing have these nothings, : None
+1.2 :If this be nothing. : None
+CAMILLO
+1.2 :Good my lord, be cured : None
+1.2 :Of this diseased opinion, and betimes; : None
+1.2 :For 'tis most dangerous. : None
+LEONTES
+1.2 :Say it be, 'tis true. : None
+CAMILLO
+1.2 :No, no, my lord. : None
+LEONTES
+1.2 :                  It is; you lie, you lie: : None
+1.2 :I say thou liest, Camillo, and I hate thee, : None
+1.2 :Pronounce thee a gross lout, a mindless slave, : None
+1.2 :Or else a hovering temporizer, that : None
+1.2 :Canst with thine eyes at once see good and evil, : None
+1.2 :Inclining to them both: were my wife's liver : None
+1.2 :Infected as her life, she would not live : None
+1.2 :The running of one glass. : None
+CAMILLO
+1.2 :Who does infect her? : None
+LEONTES
+1.2 :Why, he that wears her like a medal, hanging : None
+1.2 :About his neck, Bohemia: who, if I : None
+1.2 :Had servants true about me, that bare eyes : None
+1.2 :To see alike mine honour as their profits, : None
+1.2 :Their own particular thrifts, they would do that : None
+1.2 :Which should undo more doing: ay, and thou, : None
+1.2 :His cupbearer,--whom I from meaner form : None
+1.2 :Have benched and reared to worship, who mayst see : None
+1.2 :Plainly as heaven sees earth and earth sees heaven, : None
+1.2 :How I am galled,--mightst bespice a cup, : None
+1.2 :To give mine enemy a lasting wink; : None
+1.2 :Which draught to me were cordial. : None
+CAMILLO
+1.2 :Sir, my lord, : None
+1.2 :I could do this, and that with no rash potion, : None
+1.2 :But with a lingering dram that should not work : None
+1.2 :Maliciously like poison: but I cannot : None
+1.2 :Believe this crack to be in my dread mistress, : None
+1.2 :So sovereignly being honourable. : None
+1.2 :I have loved thee,-- : None
+LEONTES
+1.2 :Make that thy question, and go rot! : None
+1.2 :Dost think I am so muddy, so unsettled, : None
+1.2 :To appoint myself in this vexation, sully : None
+1.2 :The purity and whiteness of my sheets, : None
+1.2 :Which to preserve is sleep, which being spotted : None
+1.2 :Is goads, thorns, nettles, tails of wasps, : None
+1.2 :Give scandal to the blood o' the prince my son, : None
+1.2 :Who I do think is mine and love as mine, : None
+1.2 :Without ripe moving to't? Would I do this? : None
+1.2 :Could man so blench? : None
+CAMILLO
+1.2 :I must believe you, sir: : None
+1.2 :I do; and will fetch off Bohemia for't; : None
+1.2 :Provided that, when he's removed, your highness : None
+1.2 :Will take again your queen as yours at first, : None
+1.2 :Even for your son's sake; and thereby for sealing : None
+1.2 :The injury of tongues in courts and kingdoms : None
+1.2 :Known and allied to yours. : None
+LEONTES
+1.2 :Thou dost advise me : None
+1.2 :Even so as I mine own course have set down: : None
+1.2 :I'll give no blemish to her honour, none. : None
+CAMILLO
+1.2 :My lord, : None
+1.2 :Go then; and with a countenance as clear : None
+1.2 :As friendship wears at feasts, keep with Bohemia : None
+1.2 :And with your queen. I am his cupbearer: : None
+1.2 :If from me he have wholesome beverage, : None
+1.2 :Account me not your servant. : None
+LEONTES
+1.2 :This is all: : None
+1.2 :Do't and thou hast the one half of my heart; : None
+1.2 :Do't not, thou split'st thine own. : None
+CAMILLO
+1.2 :I'll do't, my lord. : None
+LEONTES
+1.2 :I will seem friendly, as thou hast advised me. : None
+Exit : ['Exit - []'] : LEONTES
+CAMILLO
+1.2 :O miserable lady! But, for me, : None
+1.2 :What case stand I in? I must be the poisoner : None
+1.2 :Of good Polixenes; and my ground to do't : None
+1.2 :Is the obedience to a master, one : None
+1.2 :Who in rebellion with himself will have : None
+1.2 :All that are his so too. To do this deed, : None
+1.2 :Promotion follows. If I could find example : None
+1.2 :Of thousands that had struck anointed kings : None
+1.2 :And flourish'd after, I'ld not do't; but since : None
+1.2 :Nor brass nor stone nor parchment bears not one, : None
+1.2 :Let villany itself forswear't. I must : None
+1.2 :Forsake the court: to do't, or no, is certain : None
+1.2 :To me a break-neck. Happy star, reign now! : None
+1.2 :Here comes Bohemia. : None
+Re-enter POLIXENES : ["Re-enter - ['POLIXENES']"] : CAMILLO
+POLIXENES
+1.2 :This is strange: methinks : None
+1.2 :My favour here begins to warp. Not speak? : None
+1.2 :Good day, Camillo. : None
+CAMILLO
+1.2 :                  Hail, most royal sir! : None
+POLIXENES
+1.2 :What is the news i' the court? : None
+CAMILLO
+1.2 :None rare, my lord. : None
+POLIXENES
+1.2 :The king hath on him such a countenance : None
+1.2 :As he had lost some province and a region : None
+1.2 :Loved as he loves himself: even now I met him : None
+1.2 :With customary compliment; when he, : None
+1.2 :Wafting his eyes to the contrary and falling : None
+1.2 :A lip of much contempt, speeds from me and : None
+1.2 :So leaves me to consider what is breeding : None
+1.2 :That changeth thus his manners. : None
+CAMILLO
+1.2 :I dare not know, my lord. : None
+POLIXENES
+1.2 :How! dare not! do not. Do you know, and dare not? : None
+1.2 :Be intelligent to me: 'tis thereabouts; : None
+1.2 :For, to yourself, what you do know, you must. : None
+1.2 :And cannot say, you dare not. Good Camillo, : None
+1.2 :Your changed complexions are to me a mirror : None
+1.2 :Which shows me mine changed too; for I must be : None
+1.2 :A party in this alteration, finding : None
+1.2 :Myself thus alter'd with 't. : None
+CAMILLO
+1.2 :There is a sickness : None
+1.2 :Which puts some of us in distemper, but : None
+1.2 :I cannot name the disease; and it is caught : None
+1.2 :Of you that yet are well. : None
+POLIXENES
+1.2 :How! caught of me! : None
+1.2 :Make me not sighted like the basilisk: : None
+1.2 :I have look'd on thousands, who have sped the better : None
+1.2 :By my regard, but kill'd none so. Camillo,-- : None
+1.2 :As you are certainly a gentleman, thereto : None
+1.2 :Clerk-like experienced, which no less adorns : None
+1.2 :Our gentry than our parents' noble names, : None
+1.2 :In whose success we are gentle,--I beseech you, : None
+1.2 :If you know aught which does behove my knowledge : None
+1.2 :Thereof to be inform'd, imprison't not : None
+1.2 :In ignorant concealment. : None
+CAMILLO
+1.2 :I may not answer. : None
+POLIXENES
+1.2 :A sickness caught of me, and yet I well! : None
+1.2 :I must be answer'd. Dost thou hear, Camillo, : None
+1.2 :I conjure thee, by all the parts of man : None
+1.2 :Which honour does acknowledge, whereof the least : None
+1.2 :Is not this suit of mine, that thou declare : None
+1.2 :What incidency thou dost guess of harm : None
+1.2 :Is creeping toward me; how far off, how near; : None
+1.2 :Which way to be prevented, if to be; : None
+1.2 :If not, how best to bear it. : None
+CAMILLO
+1.2 :Sir, I will tell you; : None
+1.2 :Since I am charged in honour and by him : None
+1.2 :That I think honourable: therefore mark my counsel, : None
+1.2 :Which must be even as swiftly follow'd as : None
+1.2 :I mean to utter it, or both yourself and me : None
+1.2 :Cry lost, and so good night! : None
+POLIXENES
+1.2 :On, good Camillo. : None
+CAMILLO
+1.2 :I am appointed him to murder you. : None
+POLIXENES
+1.2 :By whom, Camillo? : None
+CAMILLO
+1.2 :                        By the king. : None
+POLIXENES
+1.2 :For what? : None
+CAMILLO
+1.2 :He thinks, nay, with all confidence he swears, : None
+1.2 :As he had seen't or been an instrument : None
+1.2 :To vice you to't, that you have touch'd his queen : None
+1.2 :Forbiddenly. : None
+POLIXENES
+1.2 :                  O, then my best blood turn : None
+1.2 :To an infected jelly and my name : None
+1.2 :Be yoked with his that did betray the Best! : None
+1.2 :Turn then my freshest reputation to : None
+1.2 :A savour that may strike the dullest nostril : None
+1.2 :Where I arrive, and my approach be shunn'd, : None
+1.2 :Nay, hated too, worse than the great'st infection : None
+1.2 :That e'er was heard or read! : None
+CAMILLO
+1.2 :Swear his thought over : None
+1.2 :By each particular star in heaven and : None
+1.2 :By all their influences, you may as well : None
+1.2 :Forbid the sea for to obey the moon : None
+1.2 :As or by oath remove or counsel shake : None
+1.2 :The fabric of his folly, whose foundation : None
+1.2 :Is piled upon his faith and will continue : None
+1.2 :The standing of his body. : None
+POLIXENES
+1.2 :How should this grow? : None
+CAMILLO
+1.2 :I know not: but I am sure 'tis safer to : None
+1.2 :Avoid what's grown than question how 'tis born. : None
+1.2 :If therefore you dare trust my honesty, : None
+1.2 :That lies enclosed in this trunk which you : None
+1.2 :Shall bear along impawn'd, away to-night! : None
+1.2 :Your followers I will whisper to the business, : None
+1.2 :And will by twos and threes at several posterns : None
+1.2 :Clear them o' the city. For myself, I'll put : None
+1.2 :My fortunes to your service, which are here : None
+1.2 :By this discovery lost. Be not uncertain; : None
+1.2 :For, by the honour of my parents, I : None
+1.2 :Have utter'd truth: which if you seek to prove, : None
+1.2 :I dare not stand by; nor shall you be safer : None
+1.2 :Than one condemn'd by the king's own mouth, thereon : None
+1.2 :His execution sworn. : None
+POLIXENES
+1.2 :I do believe thee: : None
+1.2 :I saw his heart in 's face. Give me thy hand: : None
+1.2 :Be pilot to me and thy places shall : None
+1.2 :Still neighbour mine. My ships are ready and : None
+1.2 :My people did expect my hence departure : None
+1.2 :Two days ago. This jealousy : None
+1.2 :Is for a precious creature: as she's rare, : None
+1.2 :Must it be great, and as his person's mighty, : None
+1.2 :Must it be violent, and as he does conceive : None
+1.2 :He is dishonour'd by a man which ever : None
+1.2 :Profess'd to him, why, his revenges must : None
+1.2 :In that be made more bitter. Fear o'ershades me: : None
+1.2 :Good expedition be my friend, and comfort : None
+1.2 :The gracious queen, part of his theme, but nothing : None
+1.2 :Of his ill-ta'en suspicion! Come, Camillo; : None
+1.2 :I will respect thee as a father if : None
+1.2 :Thou bear'st my life off hence: let us avoid. : None
+CAMILLO
+1.2 :It is in mine authority to command : None
+1.2 :The keys of all the posterns: please your highness : None
+1.2 :To take the urgent hour. Come, sir, away. : None
+Exeunt : ['Exeunt - []'] : CAMILLO
+Act(act=2)
+Scene(scene=1)
+Enter HERMIONE, MAMILLIUS, and Ladies : ["Enter - ['HERMIONE', 'MAMILLIUS']"] : CAMILLO
+HERMIONE
+2.1 :Take the boy to you: he so troubles me, : None
+2.1 :'Tis past enduring. : None
+FIRST LADY
+2.1 :Come, my gracious lord, : None
+2.1 :Shall I be your playfellow? : None
+MAMILLIUS
+2.1 :No, I'll none of you. : None
+FIRST LADY
+2.1 :Why, my sweet lord? : None
+MAMILLIUS
+2.1 :You'll kiss me hard and speak to me as if : None
+2.1 :I were a baby still. I love you better. : None
+SECOND LADY
+2.1 :And why so, my lord? : None
+MAMILLIUS
+2.1 :Not for because : None
+2.1 :Your brows are blacker; yet black brows, they say, : None
+2.1 :Become some women best, so that there be not : None
+2.1 :Too much hair there, but in a semicircle : None
+2.1 :Or a half-moon made with a pen. : None
+SECOND LADY
+2.1 :Who taught you this? : None
+MAMILLIUS
+2.1 :I learnt it out of women's faces. Pray now : None
+2.1 :What colour are your eyebrows? : None
+FIRST LADY
+2.1 :Blue, my lord. : None
+MAMILLIUS
+2.1 :Nay, that's a mock: I have seen a lady's nose : None
+2.1 :That has been blue, but not her eyebrows. : None
+FIRST LADY
+2.1 :Hark ye; : None
+2.1 :The queen your mother rounds apace: we shall : None
+2.1 :Present our services to a fine new prince : None
+2.1 :One of these days; and then you'ld wanton with us, : None
+2.1 :If we would have you. : None
+SECOND LADY
+2.1 :She is spread of late : None
+2.1 :Into a goodly bulk: good time encounter her! : None
+HERMIONE
+2.1 :What wisdom stirs amongst you? Come, sir, now : None
+2.1 :I am for you again: pray you, sit by us, : None
+2.1 :And tell 's a tale. : None
+MAMILLIUS
+2.1 :Merry or sad shall't be? : None
+HERMIONE
+2.1 :As merry as you will. : None
+MAMILLIUS
+2.1 :A sad tale's best for winter: I have one : None
+2.1 :Of sprites and goblins. : None
+HERMIONE
+2.1 :Let's have that, good sir. : None
+2.1 :Come on, sit down: come on, and do your best : None
+2.1 :To fright me with your sprites; you're powerful at it. : None
+MAMILLIUS
+2.1 :There was a man-- : None
+HERMIONE
+2.1 :                  Nay, come, sit down; then on. : None
+MAMILLIUS
+2.1 :Dwelt by a churchyard: I will tell it softly; : None
+2.1 :Yond crickets shall not hear it. : None
+HERMIONE
+2.1 :Come on, then, : None
+2.1 :And give't me in mine ear. : None
+Enter LEONTES, with ANTIGONUS, Lords and others : ["Enter - ['LEONTES', 'ANTIGONUS', 'LORDS']"] : HERMIONE
+LEONTES
+2.1 :Was he met there? his train? Camillo with him? : None
+FIRST LORD
+2.1 :Behind the tuft of pines I met them; never : None
+2.1 :Saw I men scour so on their way: I eyed them : None
+2.1 :Even to their ships. : None
+LEONTES
+2.1 :How blest am I : None
+2.1 :In my just censure, in my true opinion! : None
+2.1 :Alack, for lesser knowledge! how accursed : None
+2.1 :In being so blest! There may be in the cup : None
+2.1 :A spider steep'd, and one may drink, depart, : None
+2.1 :And yet partake no venom, for his knowledge : None
+2.1 :Is not infected: but if one present : None
+2.1 :The abhorr'd ingredient to his eye, make known : None
+2.1 :How he hath drunk, he cracks his gorge, his sides, : None
+2.1 :With violent hefts. I have drunk, : None
+2.1 :and seen the spider. : None
+2.1 :Camillo was his help in this, his pander: : None
+2.1 :There is a plot against my life, my crown; : None
+2.1 :All's true that is mistrusted: that false villain : None
+2.1 :Whom I employ'd was pre-employ'd by him: : None
+2.1 :He has discover'd my design, and I : None
+2.1 :Remain a pinch'd thing; yea, a very trick : None
+2.1 :For them to play at will. How came the posterns : None
+2.1 :So easily open? : None
+FIRST LORD
+2.1 :                  By his great authority; : None
+2.1 :Which often hath no less prevail'd than so : None
+2.1 :On your command. : None
+LEONTES
+2.1 :                          I know't too well. : None
+2.1 :Give me the boy: I am glad you did not nurse him: : None
+2.1 :Though he does bear some signs of me, yet you : None
+2.1 :Have too much blood in him. : None
+HERMIONE
+2.1 :What is this? sport? : None
+LEONTES
+2.1 :Bear the boy hence; he shall not come about her; : None
+2.1 :Away with him! and let her sport herself : None
+2.1 :With that she's big with; for 'tis Polixenes : None
+2.1 :Has made thee swell thus. : None
+HERMIONE
+2.1 :But I'ld say he had not, : None
+2.1 :And I'll be sworn you would believe my saying, : None
+2.1 :Howe'er you lean to the nayward. : None
+LEONTES
+2.1 :You, my lords, : None
+2.1 :Look on her, mark her well; be but about : None
+2.1 :To say 'she is a goodly lady,' and : None
+2.1 :The justice of your bearts will thereto add : None
+2.1 :'Tis pity she's not honest, honourable:' : None
+2.1 :Praise her but for this her without-door form, : None
+2.1 :Which on my faith deserves high speech, and straight : None
+2.1 :The shrug, the hum or ha, these petty brands : None
+2.1 :That calumny doth use--O, I am out-- : None
+2.1 :That mercy does, for calumny will sear : None
+2.1 :Virtue itself: these shrugs, these hums and ha's, : None
+2.1 :When you have said 'she's goodly,' come between : None
+2.1 :Ere you can say 'she's honest:' but be 't known, : None
+2.1 :From him that has most cause to grieve it should be, : None
+2.1 :She's an adulteress. : None
+HERMIONE
+2.1 :Should a villain say so, : None
+2.1 :The most replenish'd villain in the world, : None
+2.1 :He were as much more villain: you, my lord, : None
+2.1 :Do but mistake. : None
+LEONTES
+2.1 :                  You have mistook, my lady, : None
+2.1 :Polixenes for Leontes: O thou thing! : None
+2.1 :Which I'll not call a creature of thy place, : None
+2.1 :Lest barbarism, making me the precedent, : None
+2.1 :Should a like language use to all degrees : None
+2.1 :And mannerly distinguishment leave out : None
+2.1 :Betwixt the prince and beggar: I have said : None
+2.1 :She's an adulteress; I have said with whom: : None
+2.1 :More, she's a traitor and Camillo is : None
+2.1 :A federary with her, and one that knows : None
+2.1 :What she should shame to know herself : None
+2.1 :But with her most vile principal, that she's : None
+2.1 :A bed-swerver, even as bad as those : None
+2.1 :That vulgars give bold'st titles, ay, and privy : None
+2.1 :To this their late escape. : None
+HERMIONE
+2.1 :No, by my life. : None
+2.1 :Privy to none of this. How will this grieve you, : None
+2.1 :When you shall come to clearer knowledge, that : None
+2.1 :You thus have publish'd me! Gentle my lord, : None
+2.1 :You scarce can right me throughly then to say : None
+2.1 :You did mistake. : None
+LEONTES
+2.1 :                  No; if I mistake : None
+2.1 :In those foundations which I build upon, : None
+2.1 :The centre is not big enough to bear : None
+2.1 :A school-boy's top. Away with her! to prison! : None
+2.1 :He who shall speak for her is afar off guilty : None
+2.1 :But that he speaks. : None
+HERMIONE
+2.1 :There's some ill planet reigns: : None
+2.1 :I must be patient till the heavens look : None
+2.1 :With an aspect more favourable. Good my lords, : None
+2.1 :I am not prone to weeping, as our sex : None
+2.1 :Commonly are; the want of which vain dew : None
+2.1 :Perchance shall dry your pities: but I have : None
+2.1 :That honourable grief lodged here which burns : None
+2.1 :Worse than tears drown: beseech you all, my lords, : None
+2.1 :With thoughts so qualified as your charities : None
+2.1 :Shall best instruct you, measure me; and so : None
+2.1 :The king's will be perform'd! : None
+LEONTES
+2.1 :Shall I be heard? : None
+HERMIONE
+2.1 :Who is't that goes with me? Beseech your highness, : None
+2.1 :My women may be with me; for you see : None
+2.1 :My plight requires it. Do not weep, good fools; : None
+2.1 :There is no cause: when you shall know your mistress : None
+2.1 :Has deserved prison, then abound in tears : None
+2.1 :As I come out: this action I now go on : None
+2.1 :Is for my better grace. Adieu, my lord: : None
+2.1 :I never wish'd to see you sorry; now : None
+2.1 :I trust I shall. My women, come; you have leave. : None
+LEONTES
+2.1 :Go, do our bidding; hence! : None
+Exit HERMIONE, guarded; with Ladies : ["Exit - ['HERMIONE']"] : LEONTES
+FIRST LORD
+2.1 :Beseech your highness, call the queen again. : None
+ANTIGONUS
+2.1 :Be certain what you do, sir, lest your justice : None
+2.1 :Prove violence; in the which three great ones suffer, : None
+2.1 :Yourself, your queen, your son. : None
+FIRST LORD
+2.1 :For her, my lord, : None
+2.1 :I dare my life lay down and will do't, sir, : None
+2.1 :Please you to accept it, that the queen is spotless : None
+2.1 :I' the eyes of heaven and to you; I mean, : None
+2.1 :In this which you accuse her. : None
+ANTIGONUS
+2.1 :If it prove : None
+2.1 :She's otherwise, I'll keep my stables where : None
+2.1 :I lodge my wife; I'll go in couples with her; : None
+2.1 :Than when I feel and see her no farther trust her; : None
+2.1 :For every inch of woman in the world, : None
+2.1 :Ay, every dram of woman's flesh is false, If she be. : None
+LEONTES
+2.1 :         Hold your peaces. : None
+FIRST LORD
+2.1 :Good my lord,-- : None
+ANTIGONUS
+2.1 :It is for you we speak, not for ourselves: : None
+2.1 :You are abused and by some putter-on : None
+2.1 :That will be damn'd for't; would I knew the villain, : None
+2.1 :I would land-damn him. Be she honour-flaw'd, : None
+2.1 :I have three daughters; the eldest is eleven : None
+2.1 :The second and the third, nine, and some five; : None
+2.1 :If this prove true, they'll pay for't: : None
+2.1 :by mine honour, : None
+2.1 :I'll geld 'em all; fourteen they shall not see, : None
+2.1 :To bring false generations: they are co-heirs; : None
+2.1 :And I had rather glib myself than they : None
+2.1 :Should not produce fair issue. : None
+LEONTES
+2.1 :Cease; no more. : None
+2.1 :You smell this business with a sense as cold : None
+2.1 :As is a dead man's nose: but I do see't and feel't : None
+2.1 :As you feel doing thus; and see withal : None
+2.1 :The instruments that feel. : None
+ANTIGONUS
+2.1 :If it be so, : None
+2.1 :We need no grave to bury honesty: : None
+2.1 :There's not a grain of it the face to sweeten : None
+2.1 :Of the whole dungy earth. : None
+LEONTES
+2.1 :What! lack I credit? : None
+FIRST LORD
+2.1 :I had rather you did lack than I, my lord, : None
+2.1 :Upon this ground; and more it would content me : None
+2.1 :To have her honour true than your suspicion, : None
+2.1 :Be blamed for't how you might. : None
+LEONTES
+2.1 :Why, what need we : None
+2.1 :Commune with you of this, but rather follow : None
+2.1 :Our forceful instigation? Our prerogative : None
+2.1 :Calls not your counsels, but our natural goodness : None
+2.1 :Imparts this; which if you, or stupefied : None
+2.1 :Or seeming so in skill, cannot or will not : None
+2.1 :Relish a truth like us, inform yourselves : None
+2.1 :We need no more of your advice: the matter, : None
+2.1 :The loss, the gain, the ordering on't, is all : None
+2.1 :Properly ours. : None
+ANTIGONUS
+2.1 :                  And I wish, my liege, : None
+2.1 :You had only in your silent judgment tried it, : None
+2.1 :Without more overture. : None
+LEONTES
+2.1 :How could that be? : None
+2.1 :Either thou art most ignorant by age, : None
+2.1 :Or thou wert born a fool. Camillo's flight, : None
+2.1 :Added to their familiarity, : None
+2.1 :Which was as gross as ever touch'd conjecture, : None
+2.1 :That lack'd sight only, nought for approbation : None
+2.1 :But only seeing, all other circumstances : None
+2.1 :Made up to the deed, doth push on this proceeding: : None
+2.1 :Yet, for a greater confirmation, : None
+2.1 :For in an act of this importance 'twere : None
+2.1 :Most piteous to be wild, I have dispatch'd in post : None
+2.1 :To sacred Delphos, to Apollo's temple, : None
+2.1 :Cleomenes and Dion, whom you know : None
+2.1 :Of stuff'd sufficiency: now from the oracle : None
+2.1 :They will bring all; whose spiritual counsel had, : None
+2.1 :Shall stop or spur me. Have I done well? : None
+FIRST LORD
+2.1 :Well done, my lord. : None
+LEONTES
+2.1 :Though I am satisfied and need no more : None
+2.1 :Than what I know, yet shall the oracle : None
+2.1 :Give rest to the minds of others, such as he : None
+2.1 :Whose ignorant credulity will not : None
+2.1 :Come up to the truth. So have we thought it good : None
+2.1 :From our free person she should be confined, : None
+2.1 :Lest that the treachery of the two fled hence : None
+2.1 :Be left her to perform. Come, follow us; : None
+2.1 :We are to speak in public; for this business : None
+2.1 :Will raise us all. : None
+ANTIGONUS
+2.1 : : Aside : ['Aside - []'] : ANTIGONUS
+2.1 :To laughter, as I take it, : None
+2.1 :If the good truth were known. : None
+Exeunt : ['Exeunt - []'] : ANTIGONUS
+Scene(scene=2)
+Enter PAULINA, a Gentleman, and Attendants : ["Enter - ['PAULINA', 'GENTLEMAN']"] : ANTIGONUS
+PAULINA
+2.2 :The keeper of the prison, call to him; : None
+2.2 :let him have knowledge who I am. : None
+Exit Gentleman : ["Exit - ['GENTLEMAN']"] : PAULINA
+2.2 :Good lady, : None
+2.2 :No court in Europe is too good for thee; : None
+2.2 :What dost thou then in prison? : None
+Re-enter Gentleman, with the Gaoler : ["Re-enter - ['GENTLEMAN', 'GAOLER']"] : PAULINA
+2.2 :Now, good sir, : None
+2.2 :You know me, do you not? : None
+GAOLER
+2.2 :For a worthy lady : None
+2.2 :And one whom much I honour. : None
+PAULINA
+2.2 :Pray you then, : None
+2.2 :Conduct me to the queen. : None
+GAOLER
+2.2 :I may not, madam: : None
+2.2 :To the contrary I have express commandment. : None
+PAULINA
+2.2 :Here's ado, : None
+2.2 :To lock up honesty and honour from : None
+2.2 :The access of gentle visitors! : None
+2.2 :Is't lawful, pray you, : None
+2.2 :To see her women? any of them? Emilia? : None
+GAOLER
+2.2 :So please you, madam, : None
+2.2 :To put apart these your attendants, I : None
+2.2 :Shall bring Emilia forth. : None
+PAULINA
+2.2 :I pray now, call her. : None
+2.2 :Withdraw yourselves. : None
+Exeunt Gentleman and Attendants : ["Exeunt - ['GENTLEMAN']"] : PAULINA
+GAOLER
+2.2 :And, madam, : None
+2.2 :I must be present at your conference. : None
+PAULINA
+2.2 :Well, be't so, prithee. : None
+Exit Gaoler : ["Exit - ['GAOLER']"] : PAULINA
+2.2 :Here's such ado to make no stain a stain : None
+2.2 :As passes colouring. : None
+Re-enter Gaoler, with EMILIA : ["Re-enter - ['GAOLER', 'EMILIA']"] : PAULINA
+2.2 :Dear gentlewoman, : None
+2.2 :How fares our gracious lady? : None
+EMILIA
+2.2 :As well as one so great and so forlorn : None
+2.2 :May hold together: on her frights and griefs, : None
+2.2 :Which never tender lady hath born greater, : None
+2.2 :She is something before her time deliver'd. : None
+PAULINA
+2.2 :A boy? : None
+EMILIA
+2.2 :     A daughter, and a goodly babe, : None
+2.2 :Lusty and like to live: the queen receives : None
+2.2 :Much comfort in't; says 'My poor prisoner, : None
+2.2 :I am innocent as you.' : None
+PAULINA
+2.2 :I dare be sworn : None
+2.2 :These dangerous unsafe lunes i' the king, : None
+2.2 :beshrew them! : None
+2.2 :He must be told on't, and he shall: the office : None
+2.2 :Becomes a woman best; I'll take't upon me: : None
+2.2 :If I prove honey-mouth'd let my tongue blister : None
+2.2 :And never to my red-look'd anger be : None
+2.2 :The trumpet any more. Pray you, Emilia, : None
+2.2 :Commend my best obedience to the queen: : None
+2.2 :If she dares trust me with her little babe, : None
+2.2 :I'll show't the king and undertake to be : None
+2.2 :Her advocate to the loud'st. We do not know : None
+2.2 :How he may soften at the sight o' the child: : None
+2.2 :The silence often of pure innocence : None
+2.2 :Persuades when speaking fails. : None
+EMILIA
+2.2 :Most worthy madam, : None
+2.2 :Your honour and your goodness is so evident : None
+2.2 :That your free undertaking cannot miss : None
+2.2 :A thriving issue: there is no lady living : None
+2.2 :So meet for this great errand. Please your ladyship : None
+2.2 :To visit the next room, I'll presently : None
+2.2 :Acquaint the queen of your most noble offer; : None
+2.2 :Who  but to-day hammer'd of this design, : None
+2.2 :But durst not tempt a minister of honour, : None
+2.2 :Lest she should be denied. : None
+PAULINA
+2.2 :Tell her, Emilia. : None
+2.2 :I'll use that tongue I have: if wit flow from't : None
+2.2 :As boldness from my bosom, let 't not be doubted : None
+2.2 :I shall do good. : None
+EMILIA
+2.2 :                  Now be you blest for it! : None
+2.2 :I'll to the queen: please you, : None
+2.2 :come something nearer. : None
+GAOLER
+2.2 :Madam, if't please the queen to send the babe, : None
+2.2 :I know not what I shall incur to pass it, : None
+2.2 :Having no warrant. : None
+PAULINA
+2.2 :                  You need not fear it, sir: : None
+2.2 :This child was prisoner to the womb and is : None
+2.2 :By law and process of great nature thence : None
+2.2 :Freed and enfranchised, not a party to : None
+2.2 :The anger of the king nor guilty of, : None
+2.2 :If any be, the trespass of the queen. : None
+GAOLER
+2.2 :I do believe it. : None
+PAULINA
+2.2 :                  Do not you fear: upon mine honour, : None
+2.2 :I will stand betwixt you and danger. : None
+Exeunt : ['Exeunt - []'] : PAULINA
+Scene(scene=3)
+Enter LEONTES, ANTIGONUS, Lords, and Servants : ["Enter - ['LEONTES', 'ANTIGONUS', 'LORDS', 'SERVANT']"] : PAULINA
+LEONTES
+2.3 :Nor night nor day no rest: it is but weakness : None
+2.3 :To bear the matter thus; mere weakness. If : None
+2.3 :The cause were not in being,--part o' the cause, : None
+2.3 :She the adulteress; for the harlot king : None
+2.3 :Is quite beyond mine arm, out of the blank : None
+2.3 :And level of my brain, plot-proof; but she : None
+2.3 :I can hook to me: say that she were gone, : None
+2.3 :Given to the fire, a moiety of my rest : None
+2.3 :Might come to me again. Who's there? : None
+FIRST SERVANT
+2.3 :My lord? : None
+LEONTES
+2.3 :How does the boy? : None
+FIRST SERVANT
+2.3 :                  He took good rest to-night; : None
+2.3 :'Tis hoped his sickness is discharged. : None
+LEONTES
+2.3 :To see his nobleness! : None
+2.3 :Conceiving the dishonour of his mother, : None
+2.3 :He straight declined, droop'd, took it deeply, : None
+2.3 :Fasten'd and fix'd the shame on't in himself, : None
+2.3 :Threw off his spirit, his appetite, his sleep, : None
+2.3 :And downright languish'd. Leave me solely: go, : None
+2.3 :See how he fares. : None
+Exit Servant : ["Exit - ['SERVANT']"] : LEONTES
+2.3 :Fie, fie! no thought of him: : None
+2.3 :The thought of my revenges that way : None
+2.3 :Recoil upon me: in himself too mighty, : None
+2.3 :And in his parties, his alliance; let him be : None
+2.3 :Until a time may serve: for present vengeance, : None
+2.3 :Take it on her. Camillo and Polixenes : None
+2.3 :Laugh at me, make their pastime at my sorrow: : None
+2.3 :They should not laugh if I could reach them, nor : None
+2.3 :Shall she within my power. : None
+Enter PAULINA, with a child : ["Enter - ['PAULINA']"] : LEONTES
+FIRST LORD
+2.3 :You must not enter. : None
+PAULINA
+2.3 :Nay, rather, good my lords, be second to me: : None
+2.3 :Fear you his tyrannous passion more, alas, : None
+2.3 :Than the queen's life? a gracious innocent soul, : None
+2.3 :More free than he is jealous. : None
+ANTIGONUS
+2.3 :That's enough. : None
+SECOND SERVANT
+2.3 :Madam, he hath not slept tonight; commanded : None
+2.3 :None should come at him. : None
+PAULINA
+2.3 :Not so hot, good sir: : None
+2.3 :I come to bring him sleep. 'Tis such as you, : None
+2.3 :That creep like shadows by him and do sigh : None
+2.3 :At each his needless heavings, such as you : None
+2.3 :Nourish the cause of his awaking: I : None
+2.3 :Do come with words as medicinal as true, : None
+2.3 :Honest as either, to purge him of that humour : None
+2.3 :That presses him from sleep. : None
+LEONTES
+2.3 :What noise there, ho? : None
+PAULINA
+2.3 :No noise, my lord; but needful conference : None
+2.3 :About some gossips for your highness. : None
+LEONTES
+2.3 :How! : None
+2.3 :Away with that audacious lady! Antigonus, : None
+2.3 :I charged thee that she should not come about me: : None
+2.3 :I knew she would. : None
+ANTIGONUS
+2.3 :                  I told her so, my lord, : None
+2.3 :On your displeasure's peril and on mine, : None
+2.3 :She should not visit you. : None
+LEONTES
+2.3 :What, canst not rule her? : None
+PAULINA
+2.3 :From all dishonesty he can: in this, : None
+2.3 :Unless he take the course that you have done, : None
+2.3 :Commit me for committing honour, trust it, : None
+2.3 :He shall not rule me. : None
+ANTIGONUS
+2.3 :La you now, you hear: : None
+2.3 :When she will take the rein I let her run; : None
+2.3 :But she'll not stumble. : None
+PAULINA
+2.3 :Good my liege, I come; : None
+2.3 :And, I beseech you, hear me, who profess : None
+2.3 :Myself your loyal servant, your physician, : None
+2.3 :Your most obedient counsellor, yet that dare : None
+2.3 :Less appear so in comforting your evils, : None
+2.3 :Than such as most seem yours: I say, I come : None
+2.3 :From your good queen. : None
+LEONTES
+2.3 :Good queen! : None
+PAULINA
+2.3 :Good queen, my lord, : None
+2.3 :Good queen; I say good queen; : None
+2.3 :And would by combat make her good, so were I : None
+2.3 :A man, the worst about you. : None
+LEONTES
+2.3 :Force her hence. : None
+PAULINA
+2.3 :Let him that makes but trifles of his eyes : None
+2.3 :First hand me: on mine own accord I'll off; : None
+2.3 :But first I'll do my errand. The good queen, : None
+2.3 :For she is good, hath brought you forth a daughter; : None
+2.3 :Here 'tis; commends it to your blessing. : None
+Laying down the child : ['None - []'] : PAULINA
+LEONTES
+2.3 :Out! : None
+2.3 :A mankind witch! Hence with her, out o' door: : None
+2.3 :A most intelligencing bawd! : None
+PAULINA
+2.3 :Not so: : None
+2.3 :I am as ignorant in that as you : None
+2.3 :In so entitling me, and no less honest : None
+2.3 :Than you are mad; which is enough, I'll warrant, : None
+2.3 :As this world goes, to pass for honest. : None
+LEONTES
+2.3 :Traitors! : None
+2.3 :Will you not push her out? Give her the bastard. : None
+2.3 :Thou dotard! thou art woman-tired, unroosted : None
+2.3 :By thy dame Partlet here. Take up the bastard; : None
+2.3 :Take't up, I say; give't to thy crone. : None
+PAULINA
+2.3 :For ever : None
+2.3 :Unvenerable be thy hands, if thou : None
+2.3 :Takest up the princess by that forced baseness : None
+2.3 :Which he has put upon't! : None
+LEONTES
+2.3 :He dreads his wife. : None
+PAULINA
+2.3 :So I would you did; then 'twere past all doubt : None
+2.3 :You'ld call your children yours. : None
+LEONTES
+2.3 :A nest of traitors! : None
+ANTIGONUS
+2.3 :I am none, by this good light. : None
+PAULINA
+2.3 :Nor I, nor any : None
+2.3 :But one that's here, and that's himself, for he : None
+2.3 :The sacred honour of himself, his queen's, : None
+2.3 :His hopeful son's, his babe's, betrays to slander, : None
+2.3 :Whose sting is sharper than the sword's; : None
+2.3 :and will not-- : None
+2.3 :For, as the case now stands, it is a curse : None
+2.3 :He cannot be compell'd to't--once remove : None
+2.3 :The root of his opinion, which is rotten : None
+2.3 :As ever oak or stone was sound. : None
+LEONTES
+2.3 :A callat : None
+2.3 :Of boundless tongue, who late hath beat her husband : None
+2.3 :And now baits me! This brat is none of mine; : None
+2.3 :It is the issue of Polixenes: : None
+2.3 :Hence with it, and together with the dam : None
+2.3 :Commit them to the fire! : None
+PAULINA
+2.3 :It is yours; : None
+2.3 :And, might we lay the old proverb to your charge, : None
+2.3 :So like you, 'tis the worse. Behold, my lords, : None
+2.3 :Although the print be little, the whole matter : None
+2.3 :And copy of the father, eye, nose, lip, : None
+2.3 :The trick of's frown, his forehead, nay, the valley, : None
+2.3 :The pretty dimples of his chin and cheek, : None
+2.3 :His smiles, : None
+2.3 :The very mould and frame of hand, nail, finger: : None
+2.3 :And thou, good goddess Nature, which hast made it : None
+2.3 :So like to him that got it, if thou hast : None
+2.3 :The ordering of the mind too, 'mongst all colours : None
+2.3 :No yellow in't, lest she suspect, as he does, : None
+2.3 :Her children not her husband's! : None
+LEONTES
+2.3 :A gross hag : None
+2.3 :And, lozel, thou art worthy to be hang'd, : None
+2.3 :That wilt not stay her tongue. : None
+ANTIGONUS
+2.3 :Hang all the husbands : None
+2.3 :That cannot do that feat, you'll leave yourself : None
+2.3 :Hardly one subject. : None
+LEONTES
+2.3 :Once more, take her hence. : None
+PAULINA
+2.3 :A most unworthy and unnatural lord : None
+2.3 :Can do no more. : None
+LEONTES
+2.3 :                  I'll ha' thee burnt. : None
+PAULINA
+2.3 :I care not: : None
+2.3 :It is an heretic that makes the fire, : None
+2.3 :Not she which burns in't. I'll not call you tyrant; : None
+2.3 :But this most cruel usage of your queen, : None
+2.3 :Not able to produce more accusation : None
+2.3 :Than your own weak-hinged fancy, something savours : None
+2.3 :Of tyranny and will ignoble make you, : None
+2.3 :Yea, scandalous to the world. : None
+LEONTES
+2.3 :On your allegiance, : None
+2.3 :Out of the chamber with her! Were I a tyrant, : None
+2.3 :Where were her life? she durst not call me so, : None
+2.3 :If she did know me one. Away with her! : None
+PAULINA
+2.3 :I pray you, do not push me; I'll be gone. : None
+2.3 :Look to your babe, my lord; 'tis yours: : None
+2.3 :Jove send her : None
+2.3 :A better guiding spirit! What needs these hands? : None
+2.3 :You, that are thus so tender o'er his follies, : None
+2.3 :Will never do him good, not one of you. : None
+2.3 :So, so: farewell; we are gone. : None
+Exit : ['Exit - []'] : PAULINA
+LEONTES
+2.3 :Thou, traitor, hast set on thy wife to this. : None
+2.3 :My child? away with't! Even thou, that hast : None
+2.3 :A heart so tender o'er it, take it hence : None
+2.3 :And see it instantly consumed with fire; : None
+2.3 :Even thou and none but thou. Take it up straight: : None
+2.3 :Within this hour bring me word 'tis done, : None
+2.3 :And by good testimony, or I'll seize thy life, : None
+2.3 :With what thou else call'st thine. If thou refuse : None
+2.3 :And wilt encounter with my wrath, say so; : None
+2.3 :The bastard brains with these my proper hands : None
+2.3 :Shall I dash out. Go, take it to the fire; : None
+2.3 :For thou set'st on thy wife. : None
+ANTIGONUS
+2.3 :I did not, sir: : None
+2.3 :These lords, my noble fellows, if they please, : None
+2.3 :Can clear me in't. : None
+LORDS
+2.3 :                  We can: my royal liege, : None
+2.3 :He is not guilty of her coming hither. : None
+LEONTES
+2.3 :You're liars all. : None
+FIRST LORD
+2.3 :Beseech your highness, give us better credit: : None
+2.3 :We have always truly served you, and beseech you : None
+2.3 :So to esteem of us, and on our knees we beg, : None
+2.3 :As recompense of our dear services : None
+2.3 :Past and to come, that you do change this purpose, : None
+2.3 :Which being so horrible, so bloody, must : None
+2.3 :Lead on to some foul issue: we all kneel. : None
+LEONTES
+2.3 :I am a feather for each wind that blows: : None
+2.3 :Shall I live on to see this bastard kneel : None
+2.3 :And call me father? better burn it now : None
+2.3 :Than curse it then. But be it; let it live. : None
+2.3 :It shall not neither. You, sir, come you hither; : None
+2.3 :You that have been so tenderly officious : None
+2.3 :With Lady Margery, your midwife there, : None
+2.3 :To save this bastard's life,--for 'tis a bastard, : None
+2.3 :So sure as this beard's grey, : None
+2.3 :--what will you adventure : None
+2.3 :To save this brat's life? : None
+ANTIGONUS
+2.3 :Any thing, my lord, : None
+2.3 :That my ability may undergo : None
+2.3 :And nobleness impose: at least thus much: : None
+2.3 :I'll pawn the little blood which I have left : None
+2.3 :To save the innocent: any thing possible. : None
+LEONTES
+2.3 :It shall be possible. Swear by this sword : None
+2.3 :Thou wilt perform my bidding. : None
+ANTIGONUS
+2.3 :I will, my lord. : None
+LEONTES
+2.3 :Mark and perform it, see'st thou! for the fail : None
+2.3 :Of any point in't shall not only be : None
+2.3 :Death to thyself but to thy lewd-tongued wife, : None
+2.3 :Whom for this time we pardon. We enjoin thee, : None
+2.3 :As thou art liege-man to us, that thou carry : None
+2.3 :This female bastard hence and that thou bear it : None
+2.3 :To some remote and desert place quite out : None
+2.3 :Of our dominions, and that there thou leave it, : None
+2.3 :Without more mercy, to its own protection : None
+2.3 :And favour of the climate. As by strange fortune : None
+2.3 :It came to us, I do in justice charge thee, : None
+2.3 :On thy soul's peril and thy body's torture, : None
+2.3 :That thou commend it strangely to some place : None
+2.3 :Where chance may nurse or end it. Take it up. : None
+ANTIGONUS
+2.3 :I swear to do this, though a present death : None
+2.3 :Had been more merciful. Come on, poor babe: : None
+2.3 :Some powerful spirit instruct the kites and ravens : None
+2.3 :To be thy nurses! Wolves and bears, they say : None
+2.3 :Casting their savageness aside have done : None
+2.3 :Like offices of pity. Sir, be prosperous : None
+2.3 :In more than this deed does require! And blessing : None
+2.3 :Against this cruelty fight on thy side, : None
+2.3 :Poor thing, condemn'd to loss! : None
+Exit with the child : ['Exit - []'] : ANTIGONUS
+LEONTES
+2.3 :No, I'll not rear : None
+2.3 :Another's issue. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : LEONTES
+SERVANT
+2.3 :                  Please your highness, posts : None
+2.3 :From those you sent to the oracle are come : None
+2.3 :An hour since: Cleomenes and Dion, : None
+2.3 :Being well arrived from Delphos, are both landed, : None
+2.3 :Hasting to the court. : None
+FIRST LORD
+2.3 :So please you, sir, their speed : None
+2.3 :Hath been beyond account. : None
+LEONTES
+2.3 :Twenty-three days : None
+2.3 :They have been absent: 'tis good speed; foretells : None
+2.3 :The great Apollo suddenly will have : None
+2.3 :The truth of this appear. Prepare you, lords; : None
+2.3 :Summon a session, that we may arraign : None
+2.3 :Our most disloyal lady, for, as she hath : None
+2.3 :Been publicly accused, so shall she have : None
+2.3 :A just and open trial. While she lives : None
+2.3 :My heart will be a burthen to me. Leave me, : None
+2.3 :And think upon my bidding. : None
+Exeunt : ['Exeunt - []'] : LEONTES
+Act(act=3)
+Scene(scene=1)
+Enter CLEOMENES and DION : ["Enter - ['CLEOMENES', 'DION']"] : LEONTES
+CLEOMENES
+3.1 :The climate's delicate, the air most sweet, : None
+3.1 :Fertile the isle, the temple much surpassing : None
+3.1 :The common praise it bears. : None
+DION
+3.1 :I shall report, : None
+3.1 :For most it caught me, the celestial habits, : None
+3.1 :Methinks I so should term them, and the reverence : None
+3.1 :Of the grave wearers. O, the sacrifice! : None
+3.1 :How ceremonious, solemn and unearthly : None
+3.1 :It was i' the offering! : None
+CLEOMENES
+3.1 :But of all, the burst : None
+3.1 :And the ear-deafening voice o' the oracle, : None
+3.1 :Kin to Jove's thunder, so surprised my sense. : None
+3.1 :That I was nothing. : None
+DION
+3.1 :If the event o' the journey : None
+3.1 :Prove as successful to the queen,--O be't so!-- : None
+3.1 :As it hath been to us rare, pleasant, speedy, : None
+3.1 :The time is worth the use on't. : None
+CLEOMENES
+3.1 :Great Apollo : None
+3.1 :Turn all to the best! These proclamations, : None
+3.1 :So forcing faults upon Hermione, : None
+3.1 :I little like. : None
+DION
+3.1 :                  The violent carriage of it : None
+3.1 :Will clear or end the business: when the oracle, : None
+3.1 :Thus by Apollo's great divine seal'd up, : None
+3.1 :Shall the contents discover, something rare : None
+3.1 :Even then will rush to knowledge. Go: fresh horses! : None
+3.1 :And gracious be the issue! : None
+Exeunt : ['Exeunt - []'] : DION
+Scene(scene=2)
+Enter LEONTES, Lords, and Officers : ["Enter - ['LEONTES', 'LORDS', 'OFFICER']"] : DION
+LEONTES
+3.2 :This sessions, to our great grief we pronounce, : None
+3.2 :Even pushes 'gainst our heart: the party tried : None
+3.2 :The daughter of a king, our wife, and one : None
+3.2 :Of us too much beloved. Let us be clear'd : None
+3.2 :Of being tyrannous, since we so openly : None
+3.2 :Proceed in justice, which shall have due course, : None
+3.2 :Even to the guilt or the purgation. : None
+3.2 :Produce the prisoner. : None
+OFFICER
+3.2 :It is his highness' pleasure that the queen : None
+3.2 :Appear in person here in court. Silence! : None
+Enter HERMIONE guarded; PAULINA and Ladies attending : ["Enter - ['HERMIONE', 'PAULINA']"] : OFFICER
+LEONTES
+3.2 :Read the indictment. : None
+OFFICER
+3.2 :            Hermione, queen to the worthy : Reads : ['Read - []'] : OFFICER
+3.2 :Leontes, king of Sicilia, thou art here accused and : None
+3.2 :arraigned of high treason, in committing adultery : None
+3.2 :with Polixenes, king of Bohemia, and conspiring : None
+3.2 :with Camillo to take away the life of our sovereign : None
+3.2 :lord the king, thy royal husband: the pretence : None
+3.2 :whereof being by circumstances partly laid open, : None
+3.2 :thou, Hermione, contrary to the faith and allegiance : None
+3.2 :of a true subject, didst counsel and aid them, for : None
+3.2 :their better safety, to fly away by night. : None
+HERMIONE
+3.2 :Since what I am to say must be but that : None
+3.2 :Which contradicts my accusation and : None
+3.2 :The testimony on my part no other : None
+3.2 :But what comes from myself, it shall scarce boot me : None
+3.2 :To say 'not guilty:' mine integrity : None
+3.2 :Being counted falsehood, shall, as I express it, : None
+3.2 :Be so received. But thus: if powers divine : None
+3.2 :Behold our human actions, as they do, : None
+3.2 :I doubt not then but innocence shall make : None
+3.2 :False accusation blush and tyranny : None
+3.2 :Tremble at patience. You, my lord, best know, : None
+3.2 :Who least will seem to do so, my past life : None
+3.2 :Hath been as continent, as chaste, as true, : None
+3.2 :As I am now unhappy; which is more : None
+3.2 :Than history can pattern, though devised : None
+3.2 :And play'd to take spectators. For behold me : None
+3.2 :A fellow of the royal bed, which owe : None
+3.2 :A moiety of the throne a great king's daughter, : None
+3.2 :The mother to a hopeful prince, here standing : None
+3.2 :To prate and talk for life and honour 'fore : None
+3.2 :Who please to come and hear. For life, I prize it : None
+3.2 :As I weigh grief, which I would spare: for honour, : None
+3.2 :'Tis a derivative from me to mine, : None
+3.2 :And only that I stand for. I appeal : None
+3.2 :To your own conscience, sir, before Polixenes : None
+3.2 :Came to your court, how I was in your grace, : None
+3.2 :How merited to be so; since he came, : None
+3.2 :With what encounter so uncurrent I : None
+3.2 :Have strain'd to appear thus: if one jot beyond : None
+3.2 :The bound of honour, or in act or will : None
+3.2 :That way inclining, harden'd be the hearts : None
+3.2 :Of all that hear me, and my near'st of kin : None
+3.2 :Cry fie upon my grave! : None
+LEONTES
+3.2 :I ne'er heard yet : None
+3.2 :That any of these bolder vices wanted : None
+3.2 :Less impudence to gainsay what they did : None
+3.2 :Than to perform it first. : None
+HERMIONE
+3.2 :That's true enough; : None
+3.2 :Through 'tis a saying, sir, not due to me. : None
+LEONTES
+3.2 :You will not own it. : None
+HERMIONE
+3.2 :More than mistress of : None
+3.2 :Which comes to me in name of fault, I must not : None
+3.2 :At all acknowledge. For Polixenes, : None
+3.2 :With whom I am accused, I do confess : None
+3.2 :I loved him as in honour he required, : None
+3.2 :With such a kind of love as might become : None
+3.2 :A lady like me, with a love even such, : None
+3.2 :So and no other, as yourself commanded: : None
+3.2 :Which not to have done I think had been in me : None
+3.2 :Both disobedience and ingratitude : None
+3.2 :To you and toward your friend, whose love had spoke, : None
+3.2 :Even since it could speak, from an infant, freely : None
+3.2 :That it was yours. Now, for conspiracy, : None
+3.2 :I know not how it tastes; though it be dish'd : None
+3.2 :For me to try how: all I know of it : None
+3.2 :Is that Camillo was an honest man; : None
+3.2 :And why he left your court, the gods themselves, : None
+3.2 :Wotting no more than I, are ignorant. : None
+LEONTES
+3.2 :You knew of his departure, as you know : None
+3.2 :What you have underta'en to do in's absence. : None
+HERMIONE
+3.2 :Sir, : None
+3.2 :You speak a language that I understand not: : None
+3.2 :My life stands in the level of your dreams, : None
+3.2 :Which I'll lay down. : None
+LEONTES
+3.2 :Your actions are my dreams; : None
+3.2 :You had a bastard by Polixenes, : None
+3.2 :And I but dream'd it. As you were past all shame,-- : None
+3.2 :Those of your fact are so--so past all truth: : None
+3.2 :Which to deny concerns more than avails; for as : None
+3.2 :Thy brat hath been cast out, like to itself, : None
+3.2 :No father owning it,--which is, indeed, : None
+3.2 :More criminal in thee than it,--so thou : None
+3.2 :Shalt feel our justice, in whose easiest passage : None
+3.2 :Look for no less than death. : None
+HERMIONE
+3.2 :Sir, spare your threats: : None
+3.2 :The bug which you would fright me with I seek. : None
+3.2 :To me can life be no commodity: : None
+3.2 :The crown and comfort of my life, your favour, : None
+3.2 :I do give lost; for I do feel it gone, : None
+3.2 :But know not how it went. My second joy : None
+3.2 :And first-fruits of my body, from his presence : None
+3.2 :I am barr'd, like one infectious. My third comfort : None
+3.2 :Starr'd most unluckily, is from my breast, : None
+3.2 :The innocent milk in its most innocent mouth, : None
+3.2 :Haled out to murder: myself on every post : None
+3.2 :Proclaimed a strumpet: with immodest hatred : None
+3.2 :The child-bed privilege denied, which 'longs : None
+3.2 :To women of all fashion; lastly, hurried : None
+3.2 :Here to this place, i' the open air, before : None
+3.2 :I have got strength of limit. Now, my liege, : None
+3.2 :Tell me what blessings I have here alive, : None
+3.2 :That I should fear to die? Therefore proceed. : None
+3.2 :But yet hear this: mistake me not; no life, : None
+3.2 :I prize it not a straw, but for mine honour, : None
+3.2 :Which I would free, if I shall be condemn'd : None
+3.2 :Upon surmises, all proofs sleeping else : None
+3.2 :But what your jealousies awake, I tell you : None
+3.2 :'Tis rigor and not law. Your honours all, : None
+3.2 :I do refer me to the oracle: : None
+3.2 :Apollo be my judge! : None
+FIRST LORD
+3.2 :This your request : None
+3.2 :Is altogether just: therefore bring forth, : None
+3.2 :And in Apollos name, his oracle. : None
+Exeunt certain Officers : ["Exeunt - ['OFFICER']"] : FIRST LORD
+HERMIONE
+3.2 :The Emperor of Russia was my father: : None
+3.2 :O that he were alive, and here beholding : None
+3.2 :His daughter's trial! that he did but see : None
+3.2 :The flatness of my misery, yet with eyes : None
+3.2 :Of pity, not revenge! : None
+Re-enter Officers, with CLEOMENES and DION : ["Re-enter - ['OFFICER', 'CLEOMENES', 'DION']"] : HERMIONE
+OFFICER
+3.2 :You here shall swear upon this sword of justice, : None
+3.2 :That you, Cleomenes and Dion, have : None
+3.2 :Been both at Delphos, and from thence have brought : None
+3.2 :The seal'd-up oracle, by the hand deliver'd : None
+3.2 :Of great Apollo's priest; and that, since then, : None
+3.2 :You have not dared to break the holy seal : None
+3.2 :Nor read the secrets in't. : None
+CLEOMENES
+DION
+3.2 :All this we swear. : None
+LEONTES
+3.2 :Break up the seals and read. : None
+OFFICER
+3.2 :	Hermione is chaste; : Reads : ['Read - []'] : OFFICER
+3.2 :Polixenes blameless; Camillo a true subject; Leontes : None
+3.2 :a jealous tyrant; his innocent babe truly begotten; : None
+3.2 :and the king shall live without an heir, if that : None
+3.2 :which is lost be not found. : None
+LORDS
+3.2 :Now blessed be the great Apollo! : None
+HERMIONE
+3.2 :Praised! : None
+LEONTES
+3.2 :Hast thou read truth? : None
+OFFICER
+3.2 :Ay, my lord; even so : None
+3.2 :As it is here set down. : None
+LEONTES
+3.2 :There is no truth at all i' the oracle: : None
+3.2 :The sessions shall proceed: this is mere falsehood. : None
+Enter Servant : ["Enter - ['SERVANT']"] : LEONTES
+SERVANT
+3.2 :My lord the king, the king! : None
+LEONTES
+3.2 :What is the business? : None
+SERVANT
+3.2 :O sir, I shall be hated to report it! : None
+3.2 :The prince your son, with mere conceit and fear : None
+3.2 :Of the queen's speed, is gone. : None
+LEONTES
+3.2 :How! gone! : None
+SERVANT
+3.2 :Is dead. : None
+LEONTES
+3.2 :Apollo's angry; and the heavens themselves : None
+3.2 :Do strike at my injustice. : None
+HERMIONE swoons : ["None - ['HERMIONE']"] : LEONTES
+3.2 :How now there! : None
+PAULINA
+3.2 :This news is mortal to the queen: look down : None
+3.2 :And see what death is doing. : None
+LEONTES
+3.2 :Take her hence: : None
+3.2 :Her heart is but o'ercharged; she will recover: : None
+3.2 :I have too much believed mine own suspicion: : None
+3.2 :Beseech you, tenderly apply to her : None
+3.2 :Some remedies for life. : None
+Exeunt PAULINA and Ladies, with HERMIONE : ["Exeunt - ['PAULINA', 'HERMIONE']"] : LEONTES
+3.2 :Apollo, pardon : None
+3.2 :My great profaneness 'gainst thine oracle! : None
+3.2 :I'll reconcile me to Polixenes, : None
+3.2 :New woo my queen, recall the good Camillo, : None
+3.2 :Whom I proclaim a man of truth, of mercy; : None
+3.2 :For, being transported by my jealousies : None
+3.2 :To bloody thoughts and to revenge, I chose : None
+3.2 :Camillo for the minister to poison : None
+3.2 :My friend Polixenes: which had been done, : None
+3.2 :But that the good mind of Camillo tardied : None
+3.2 :My swift command, though I with death and with : None
+3.2 :Reward did threaten and encourage him, : None
+3.2 :Not doing 't and being done: he, most humane : None
+3.2 :And fill'd with honour, to my kingly guest : None
+3.2 :Unclasp'd my practise, quit his fortunes here, : None
+3.2 :Which you knew great, and to the hazard : None
+3.2 :Of all encertainties himself commended, : None
+3.2 :No richer than his honour: how he glisters : None
+3.2 :Thorough my rust! and how his pity : None
+3.2 :Does my deeds make the blacker! : None
+Re-enter PAULINA : ["Re-enter - ['PAULINA']"] : LEONTES
+PAULINA
+3.2 :Woe the while! : None
+3.2 :O, cut my lace, lest my heart, cracking it, : None
+3.2 :Break too. : None
+FIRST LORD
+3.2 :          What fit is this, good lady? : None
+PAULINA
+3.2 :What studied torments, tyrant, hast for me? : None
+3.2 :What wheels? racks? fires? what flaying? boiling? : None
+3.2 :In leads or oils? what old or newer torture : None
+3.2 :Must I receive, whose every word deserves : None
+3.2 :To taste of thy most worst? Thy tyranny : None
+3.2 :Together working with thy jealousies, : None
+3.2 :Fancies too weak for boys, too green and idle : None
+3.2 :For girls of nine, O, think what they have done : None
+3.2 :And then run mad indeed, stark mad! for all : None
+3.2 :Thy by-gone fooleries were but spices of it. : None
+3.2 :That thou betray'dst Polixenes,'twas nothing; : None
+3.2 :That did but show thee, of a fool, inconstant : None
+3.2 :And damnable ingrateful: nor was't much, : None
+3.2 :Thou wouldst have poison'd good Camillo's honour, : None
+3.2 :To have him kill a king: poor trespasses, : None
+3.2 :More monstrous standing by: whereof I reckon : None
+3.2 :The casting forth to crows thy baby-daughter : None
+3.2 :To be or none or little; though a devil : None
+3.2 :Would have shed water out of fire ere done't: : None
+3.2 :Nor is't directly laid to thee, the death : None
+3.2 :Of the young prince, whose honourable thoughts, : None
+3.2 :Thoughts high for one so tender, cleft the heart : None
+3.2 :That could conceive a gross and foolish sire : None
+3.2 :Blemish'd his gracious dam: this is not, no, : None
+3.2 :Laid to thy answer: but the last,--O lords, : None
+3.2 :When I have said, cry 'woe!' the queen, the queen, : None
+3.2 :The sweet'st, dear'st creature's dead, : None
+3.2 :and vengeance for't : None
+3.2 :Not dropp'd down yet. : None
+FIRST LORD
+3.2 :The higher powers forbid! : None
+PAULINA
+3.2 :I say she's dead; I'll swear't. If word nor oath : None
+3.2 :Prevail not, go and see: if you can bring : None
+3.2 :Tincture or lustre in her lip, her eye, : None
+3.2 :Heat outwardly or breath within, I'll serve you : None
+3.2 :As I would do the gods. But, O thou tyrant! : None
+3.2 :Do not repent these things, for they are heavier : None
+3.2 :Than all thy woes can stir; therefore betake thee : None
+3.2 :To nothing but despair. A thousand knees : None
+3.2 :Ten thousand years together, naked, fasting, : None
+3.2 :Upon a barren mountain and still winter : None
+3.2 :In storm perpetual, could not move the gods : None
+3.2 :To look that way thou wert. : None
+LEONTES
+3.2 :Go on, go on : None
+3.2 :Thou canst not speak too much; I have deserved : None
+3.2 :All tongues to talk their bitterest. : None
+FIRST LORD
+3.2 :Say no more: : None
+3.2 :Howe'er the business goes, you have made fault : None
+3.2 :I' the boldness of your speech. : None
+PAULINA
+3.2 :I am sorry for't: : None
+3.2 :All faults I make, when I shall come to know them, : None
+3.2 :I do repent. Alas! I have show'd too much : None
+3.2 :The rashness of a woman: he is touch'd : None
+3.2 :To the noble heart. What's gone and what's past help : None
+3.2 :Should be past grief: do not receive affliction : None
+3.2 :At my petition; I beseech you, rather : None
+3.2 :Let me be punish'd, that have minded you : None
+3.2 :Of what you should forget. Now, good my liege : None
+3.2 :Sir, royal sir, forgive a foolish woman: : None
+3.2 :The love I bore your queen--lo, fool again!-- : None
+3.2 :I'll speak of her no more, nor of your children; : None
+3.2 :I'll not remember you of my own lord, : None
+3.2 :Who is lost too: take your patience to you, : None
+3.2 :And I'll say nothing. : None
+LEONTES
+3.2 :Thou didst speak but well : None
+3.2 :When most the truth; which I receive much better : None
+3.2 :Than to be pitied of thee. Prithee, bring me : None
+3.2 :To the dead bodies of my queen and son: : None
+3.2 :One grave shall be for both: upon them shall : None
+3.2 :The causes of their death appear, unto : None
+3.2 :Our shame perpetual. Once a day I'll visit : None
+3.2 :The chapel where they lie, and tears shed there : None
+3.2 :Shall be my recreation: so long as nature : None
+3.2 :Will bear up with this exercise, so long : None
+3.2 :I daily vow to use it. Come and lead me : None
+3.2 :Unto these sorrows. : None
+Exeunt : ['Exeunt - []'] : LEONTES
+Scene(scene=3)
+Enter ANTIGONUS with a Child, and a Mariner : ["Enter - ['ANTIGONUS', 'MARINER']"] : LEONTES
+ANTIGONUS
+3.3 :Thou art perfect then, our ship hath touch'd upon : None
+3.3 :The deserts of Bohemia? : None
+MARINER
+3.3 :Ay, my lord: and fear : None
+3.3 :We have landed in ill time: the skies look grimly : None
+3.3 :And threaten present blusters. In my conscience, : None
+3.3 :The heavens with that we have in hand are angry : None
+3.3 :And frown upon 's. : None
+ANTIGONUS
+3.3 :Their sacred wills be done! Go, get aboard; : None
+3.3 :Look to thy bark: I'll not be long before : None
+3.3 :I call upon thee. : None
+MARINER
+3.3 :Make your best haste, and go not : None
+3.3 :Too far i' the land: 'tis like to be loud weather; : None
+3.3 :Besides, this place is famous for the creatures : None
+3.3 :Of prey that keep upon't. : None
+ANTIGONUS
+3.3 :Go thou away: : None
+3.3 :I'll follow instantly. : None
+MARINER
+3.3 :I am glad at heart : None
+3.3 :To be so rid o' the business. : None
+Exit : ['Exit - []'] : MARINER
+ANTIGONUS
+3.3 :Come, poor babe: : None
+3.3 :I have heard, but not believed, : None
+3.3 :the spirits o' the dead : None
+3.3 :May walk again: if such thing be, thy mother : None
+3.3 :Appear'd to me last night, for ne'er was dream : None
+3.3 :So like a waking. To me comes a creature, : None
+3.3 :Sometimes her head on one side, some another; : None
+3.3 :I never saw a vessel of like sorrow, : None
+3.3 :So fill'd and so becoming: in pure white robes, : None
+3.3 :Like very sanctity, she did approach : None
+3.3 :My cabin where I lay; thrice bow'd before me, : None
+3.3 :And gasping to begin some speech, her eyes : None
+3.3 :Became two spouts: the fury spent, anon : None
+3.3 :Did this break-from her: 'Good Antigonus, : None
+3.3 :Since fate, against thy better disposition, : None
+3.3 :Hath made thy person for the thrower-out : None
+3.3 :Of my poor babe, according to thine oath, : None
+3.3 :Places remote enough are in Bohemia, : None
+3.3 :There weep and leave it crying; and, for the babe : None
+3.3 :Is counted lost for ever, Perdita, : None
+3.3 :I prithee, call't. For this ungentle business : None
+3.3 :Put on thee by my lord, thou ne'er shalt see : None
+3.3 :Thy wife Paulina more.' And so, with shrieks : None
+3.3 :She melted into air. Affrighted much, : None
+3.3 :I did in time collect myself and thought : None
+3.3 :This was so and no slumber. Dreams are toys: : None
+3.3 :Yet for this once, yea, superstitiously, : None
+3.3 :I will be squared by this. I do believe : None
+3.3 :Hermione hath suffer'd death, and that : None
+3.3 :Apollo would, this being indeed the issue : None
+3.3 :Of King Polixenes, it should here be laid, : None
+3.3 :Either for life or death, upon the earth : None
+3.3 :Of its right father. Blossom, speed thee well! : None
+3.3 :There lie, and there thy character: there these; : None
+3.3 :Which may, if fortune please, both breed thee, pretty, : None
+3.3 :And still rest thine. The storm begins; poor wretch, : None
+3.3 :That for thy mother's fault art thus exposed : None
+3.3 :To loss and what may follow! Weep I cannot, : None
+3.3 :But my heart bleeds; and most accursed am I : None
+3.3 :To be by oath enjoin'd to this. Farewell! : None
+3.3 :The day frowns more and more: thou'rt like to have : None
+3.3 :A lullaby too rough: I never saw : None
+3.3 :The heavens so dim by day. A savage clamour! : None
+3.3 :Well may I get aboard! This is the chase: : None
+3.3 :I am gone for ever. : None
+Exit, pursued by a bear : ['Exit - []'] : ANTIGONUS
+Enter a Shepherd : ["Enter - ['SHEPHERD']"] : ANTIGONUS
+SHEPHERD
+3.3 :I would there were no age between sixteen and : None
+3.3 :three-and-twenty, or that youth would sleep out the : None
+3.3 :rest; for there is nothing in the between but : None
+3.3 :getting wenches with child, wronging the ancientry, : None
+3.3 :stealing, fighting--Hark you now! Would any but : None
+3.3 :these boiled brains of nineteen and two-and-twenty : None
+3.3 :hunt this weather? They have scared away two of my : None
+3.3 :best sheep, which I fear the wolf will sooner find : None
+3.3 :than the master: if any where I have them, 'tis by : None
+3.3 :the seaside, browsing of ivy. Good luck, an't be thy : None
+3.3 :will what have we here! Mercy on 's, a barne a very : None
+3.3 :pretty barne! A boy or a child, I wonder? A : None
+3.3 :pretty one; a very pretty one: sure, some 'scape: : None
+3.3 :though I am not bookish, yet I can read : None
+3.3 :waiting-gentlewoman in the 'scape. This has been : None
+3.3 :some stair-work, some trunk-work, some : None
+3.3 :behind-door-work: they were warmer that got this : None
+3.3 :than the poor thing is here. I'll take it up for : None
+3.3 :pity: yet I'll tarry till my son come; he hallooed : None
+3.3 :but even now. Whoa, ho, hoa! : None
+Enter Clown : ["Enter - ['CLOWN']"] : SHEPHERD
+CLOWN
+3.3 :Hilloa, loa! : None
+SHEPHERD
+3.3 :What, art so near? If thou'lt see a thing to talk : None
+3.3 :on when thou art dead and rotten, come hither. What : None
+3.3 :ailest thou, man? : None
+CLOWN
+3.3 :I have seen two such sights, by sea and by land! : None
+3.3 :but I am not to say it is a sea, for it is now the : None
+3.3 :sky: betwixt the firmament and it you cannot thrust : None
+3.3 :a bodkin's point. : None
+SHEPHERD
+3.3 :Why, boy, how is it? : None
+CLOWN
+3.3 :I would you did but see how it chafes, how it rages, : None
+3.3 :how it takes up the shore! but that's not the : None
+3.3 :point. O, the most piteous cry of the poor souls! : None
+3.3 :sometimes to see 'em, and not to see 'em; now the : None
+3.3 :ship boring the moon with her main-mast, and anon : None
+3.3 :swallowed with yest and froth, as you'ld thrust a : None
+3.3 :cork into a hogshead. And then for the : None
+3.3 :land-service, to see how the bear tore out his : None
+3.3 :shoulder-bone; how he cried to me for help and said : None
+3.3 :his name was Antigonus, a nobleman. But to make an : None
+3.3 :end of the ship, to see how the sea flap-dragoned : None
+3.3 :it: but, first, how the poor souls roared, and the : None
+3.3 :sea mocked them; and how the poor gentleman roared : None
+3.3 :and the bear mocked him, both roaring louder than : None
+3.3 :the sea or weather. : None
+SHEPHERD
+3.3 :Name of mercy, when was this, boy? : None
+CLOWN
+3.3 :Now, now: I have not winked since I saw these : None
+3.3 :sights: the men are not yet cold under water, nor : None
+3.3 :the bear half dined on the gentleman: he's at it : None
+3.3 :now. : None
+SHEPHERD
+3.3 :Would I had been by, to have helped the old man! : None
+CLOWN
+3.3 :I would you had been by the ship side, to have : None
+3.3 :helped her: there your charity would have lacked footing. : None
+SHEPHERD
+3.3 :Heavy matters! heavy matters! but look thee here, : None
+3.3 :boy. Now bless thyself: thou mettest with things : None
+3.3 :dying, I with things newborn. Here's a sight for : None
+3.3 :thee; look thee, a bearing-cloth for a squire's : None
+3.3 :child! look thee here; take up, take up, boy; : None
+3.3 :open't. So, let's see: it was told me I should be : None
+3.3 :rich by the fairies. This is some changeling: : None
+3.3 :open't. What's within, boy? : None
+CLOWN
+3.3 :You're a made old man: if the sins of your youth : None
+3.3 :are forgiven you, you're well to live. Gold! all gold! : None
+SHEPHERD
+3.3 :This is fairy gold, boy, and 'twill prove so: up : None
+3.3 :with't, keep it close: home, home, the next way. : None
+3.3 :We are lucky, boy; and to be so still requires : None
+3.3 :nothing but secrecy. Let my sheep go: come, good : None
+3.3 :boy, the next way home. : None
+CLOWN
+3.3 :Go you the next way with your findings. I'll go see : None
+3.3 :if the bear be gone from the gentleman and how much : None
+3.3 :he hath eaten: they are never curst but when they : None
+3.3 :are hungry: if there be any of him left, I'll bury : None
+3.3 :it. : None
+SHEPHERD
+3.3 :That's a good deed. If thou mayest discern by that : None
+3.3 :which is left of him what he is, fetch me to the : None
+3.3 :sight of him. : None
+CLOWN
+3.3 :Marry, will I; and you shall help to put him i' the ground. : None
+SHEPHERD
+3.3 :'Tis a lucky day, boy, and we'll do good deeds on't. : None
+Exeunt : ['Exeunt - []'] : SHEPHERD
+Act(act=4)
+4.3 :SCENE I: : None
+Enter Time, the Chorus : ["Enter - ['TIME']"] : SHEPHERD
+TIME
+4.3 :I, that please some, try all, both joy and terror : None
+4.3 :Of good and bad, that makes and unfolds error, : None
+4.3 :Now take upon me, in the name of Time, : None
+4.3 :To use my wings. Impute it not a crime : None
+4.3 :To me or my swift passage, that I slide : None
+4.3 :O'er sixteen years and leave the growth untried : None
+4.3 :Of that wide gap, since it is in my power : None
+4.3 :To o'erthrow law and in one self-born hour : None
+4.3 :To plant and o'erwhelm custom. Let me pass : None
+4.3 :The same I am, ere ancient'st order was : None
+4.3 :Or what is now received: I witness to : None
+4.3 :The times that brought them in; so shall I do : None
+4.3 :To the freshest things now reigning and make stale : None
+4.3 :The glistering of this present, as my tale : None
+4.3 :Now seems to it. Your patience this allowing, : None
+4.3 :I turn my glass and give my scene such growing : None
+4.3 :As you had slept between: Leontes leaving, : None
+4.3 :The effects of his fond jealousies so grieving : None
+4.3 :That he shuts up himself, imagine me, : None
+4.3 :Gentle spectators, that I now may be : None
+4.3 :In fair Bohemia, and remember well, : None
+4.3 :I mentioned a son o' the king's, which Florizel : None
+4.3 :I now name to you; and with speed so pace : None
+4.3 :To speak of Perdita, now grown in grace : None
+4.3 :Equal with wondering: what of her ensues : None
+4.3 :I list not prophecy; but let Time's news : None
+4.3 :Be known when 'tis brought forth. : None
+4.3 :A shepherd's daughter, : None
+4.3 :And what to her adheres, which follows after, : None
+4.3 :Is the argument of Time. Of this allow, : None
+4.3 :If ever you have spent time worse ere now; : None
+4.3 :If never, yet that Time himself doth say : None
+4.3 :He wishes earnestly you never may. : None
+Exit : ['Exit - []'] : TIME
+Scene(scene=2)
+Enter POLIXENES and CAMILLO : ["Enter - ['POLIXENES', 'CAMILLO']"] : TIME
+POLIXENES
+4.2 :I pray thee, good Camillo, be no more importunate: : None
+4.2 :'tis a sickness denying thee any thing; a death to : None
+4.2 :grant this. : None
+CAMILLO
+4.2 :It is fifteen years since I saw my country: though : None
+4.2 :I have for the most part been aired abroad, I : None
+4.2 :desire to lay my bones there. Besides, the penitent : None
+4.2 :king, my master, hath sent for me; to whose feeling : None
+4.2 :sorrows I might be some allay, or I o'erween to : None
+4.2 :think so, which is another spur to my departure. : None
+POLIXENES
+4.2 :As thou lovest me, Camillo, wipe not out the rest of : None
+4.2 :thy services by leaving me now: the need I have of : None
+4.2 :thee thine own goodness hath made; better not to : None
+4.2 :have had thee than thus to want thee: thou, having : None
+4.2 :made me businesses which none without thee can : None
+4.2 :sufficiently manage, must either stay to execute : None
+4.2 :them thyself or take away with thee the very : None
+4.2 :services thou hast done; which if I have not enough : None
+4.2 :considered, as too much I cannot, to be more : None
+4.2 :thankful to thee shall be my study, and my profit : None
+4.2 :therein the heaping friendships. Of that fatal : None
+4.2 :country, Sicilia, prithee speak no more; whose very : None
+4.2 :naming punishes me with the remembrance of that : None
+4.2 :penitent, as thou callest him, and reconciled king, : None
+4.2 :my brother; whose loss of his most precious queen : None
+4.2 :and children are even now to be afresh lamented. : None
+4.2 :Say to me, when sawest thou the Prince Florizel, my : None
+4.2 :son? Kings are no less unhappy, their issue not : None
+4.2 :being gracious, than they are in losing them when : None
+4.2 :they have approved their virtues. : None
+CAMILLO
+4.2 :Sir, it is three days since I saw the prince. What : None
+4.2 :his happier affairs may be, are to me unknown: but I : None
+4.2 :have missingly noted, he is of late much retired : None
+4.2 :from court and is less frequent to his princely : None
+4.2 :exercises than formerly he hath appeared. : None
+POLIXENES
+4.2 :I have considered so much, Camillo, and with some : None
+4.2 :care; so far that I have eyes under my service which : None
+4.2 :look upon his removedness; from whom I have this : None
+4.2 :intelligence, that he is seldom from the house of a : None
+4.2 :most homely shepherd; a man, they say, that from : None
+4.2 :very nothing, and beyond the imagination of his : None
+4.2 :neighbours, is grown into an unspeakable estate. : None
+CAMILLO
+4.2 :I have heard, sir, of such a man, who hath a : None
+4.2 :daughter of most rare note: the report of her is : None
+4.2 :extended more than can be thought to begin from such a cottage. : None
+POLIXENES
+4.2 :That's likewise part of my intelligence; but, I : None
+4.2 :fear, the angle that plucks our son thither. Thou : None
+4.2 :shalt accompany us to the place; where we will, not : None
+4.2 :appearing what we are, have some question with the : None
+4.2 :shepherd; from whose simplicity I think it not : None
+4.2 :uneasy to get the cause of my son's resort thither. : None
+4.2 :Prithee, be my present partner in this business, and : None
+4.2 :lay aside the thoughts of Sicilia. : None
+CAMILLO
+4.2 :I willingly obey your command. : None
+POLIXENES
+4.2 :My best Camillo! We must disguise ourselves. : None
+Exeunt : ['Exeunt - []'] : POLIXENES
+Scene(scene=3)
+Enter AUTOLYCUS, singing : ["Enter - ['AUTOLYCUS']"] : POLIXENES
+AUTOLYCUS
+4.3 :When daffodils begin to peer, : None
+4.3 :With heigh! the doxy over the dale, : None
+4.3 :Why, then comes in the sweet o' the year; : None
+4.3 :For the red blood reigns in the winter's pale. : None
+4.3 :The white sheet bleaching on the hedge, : None
+4.3 :With heigh! the sweet birds, O, how they sing! : None
+4.3 :Doth set my pugging tooth on edge; : None
+4.3 :For a quart of ale is a dish for a king. : None
+4.3 :The lark, that tirra-lyra chants, : None
+4.3 :With heigh! with heigh! the thrush and the jay, : None
+4.3 :Are summer songs for me and my aunts, : None
+4.3 :While we lie tumbling in the hay. : None
+4.3 :I have served Prince Florizel and in my time : None
+4.3 :wore three-pile; but now I am out of service: : None
+4.3 :But shall I go mourn for that, my dear? : None
+4.3 :The pale moon shines by night: : None
+4.3 :And when I wander here and there, : None
+4.3 :I then do most go right. : None
+4.3 :If tinkers may have leave to live, : None
+4.3 :And bear the sow-skin budget, : None
+4.3 :Then my account I well may, give, : None
+4.3 :And in the stocks avouch it. : None
+4.3 :My traffic is sheets; when the kite builds, look to : None
+4.3 :lesser linen. My father named me Autolycus; who : None
+4.3 :being, as I am, littered under Mercury, was likewise : None
+4.3 :a snapper-up of unconsidered trifles. With die and : None
+4.3 :drab I purchased this caparison, and my revenue is : None
+4.3 :the silly cheat. Gallows and knock are too powerful : None
+4.3 :on the highway: beating and hanging are terrors to : None
+4.3 :me: for the life to come, I sleep out the thought : None
+4.3 :of it. A prize! a prize! : None
+Enter Clown : ["Enter - ['CLOWN']"] : AUTOLYCUS
+CLOWN
+4.3 :Let me see: every 'leven wether tods; every tod : None
+4.3 :yields pound and odd shilling; fifteen hundred : None
+4.3 :shorn. what comes the wool to? : None
+AUTOLYCUS
+4.3 : : Aside : ['Aside - []'] : AUTOLYCUS
+4.3 :If the springe hold, the cock's mine. : None
+CLOWN
+4.3 :I cannot do't without counters. Let me see; what am : None
+4.3 :I to buy for our sheep-shearing feast? Three pound : None
+4.3 :of sugar, five pound of currants, rice,--what will : None
+4.3 :this sister of mine do with rice? But my father : None
+4.3 :hath made her mistress of the feast, and she lays it : None
+4.3 :on. She hath made me four and twenty nose-gays for : None
+4.3 :the shearers, three-man-song-men all, and very good : None
+4.3 :ones; but they are most of them means and bases; but : None
+4.3 :one puritan amongst them, and he sings psalms to : None
+4.3 :horn-pipes. I must have saffron to colour the warden : None
+4.3 :pies; mace; dates?--none, that's out of my note; : None
+4.3 :nutmegs, seven; a race or two of ginger, but that I : None
+4.3 :may beg; four pound of prunes, and as many of : None
+4.3 :raisins o' the sun. : None
+AUTOLYCUS
+4.3 :O that ever I was born! : None
+Grovelling on the ground : ['None - []'] : AUTOLYCUS
+CLOWN
+4.3 :I' the name of me-- : None
+AUTOLYCUS
+4.3 :O, help me, help me! pluck but off these rags; and : None
+4.3 :then, death, death! : None
+CLOWN
+4.3 :Alack, poor soul! thou hast need of more rags to lay : None
+4.3 :on thee, rather than have these off. : None
+AUTOLYCUS
+4.3 :O sir, the loathsomeness of them offends me more : None
+4.3 :than the stripes I have received, which are mighty : None
+4.3 :ones and millions. : None
+CLOWN
+4.3 :Alas, poor man! a million of beating may come to a : None
+4.3 :great matter. : None
+AUTOLYCUS
+4.3 :I am robbed, sir, and beaten; my money and apparel : None
+4.3 :ta'en from me, and these detestable things put upon : None
+4.3 :me. : None
+CLOWN
+4.3 :What, by a horseman, or a footman? : None
+AUTOLYCUS
+4.3 :A footman, sweet sir, a footman. : None
+CLOWN
+4.3 :Indeed, he should be a footman by the garments he : None
+4.3 :has left with thee: if this be a horseman's coat, : None
+4.3 :it hath seen very hot service. Lend me thy hand, : None
+4.3 :I'll help thee: come, lend me thy hand. : None
+AUTOLYCUS
+4.3 :O, good sir, tenderly, O! : None
+CLOWN
+4.3 :Alas, poor soul! : None
+AUTOLYCUS
+4.3 :O, good sir, softly, good sir! I fear, sir, my : None
+4.3 :shoulder-blade is out. : None
+CLOWN
+4.3 :How now! canst stand? : None
+AUTOLYCUS
+4.3 : : Picking his pocket : ['None - []'] : AUTOLYCUS
+4.3 :Softly, dear sir; good sir, softly. You ha' done me : None
+4.3 :a charitable office. : None
+CLOWN
+4.3 :Dost lack any money? I have a little money for thee. : None
+AUTOLYCUS
+4.3 :No, good sweet sir; no, I beseech you, sir: I have : None
+4.3 :a kinsman not past three quarters of a mile hence, : None
+4.3 :unto whom I was going; I shall there have money, or : None
+4.3 :any thing I want: offer me no money, I pray you; : None
+4.3 :that kills my heart. : None
+CLOWN
+4.3 :What manner of fellow was he that robbed you? : None
+AUTOLYCUS
+4.3 :A fellow, sir, that I have known to go about with : None
+4.3 :troll-my-dames; I knew him once a servant of the : None
+4.3 :prince: I cannot tell, good sir, for which of his : None
+4.3 :virtues it was, but he was certainly whipped out of the court. : None
+CLOWN
+4.3 :His vices, you would say; there's no virtue whipped : None
+4.3 :out of the court: they cherish it to make it stay : None
+4.3 :there; and yet it will no more but abide. : None
+AUTOLYCUS
+4.3 :Vices, I would say, sir. I know this man well: he : None
+4.3 :hath been since an ape-bearer; then a : None
+4.3 :process-server, a bailiff; then he compassed a : None
+4.3 :motion of the Prodigal Son, and married a tinker's : None
+4.3 :wife within a mile where my land and living lies; : None
+4.3 :and, having flown over many knavish professions, he : None
+4.3 :settled only in rogue: some call him Autolycus. : None
+CLOWN
+4.3 :Out upon him! prig, for my life, prig: he haunts : None
+4.3 :wakes, fairs and bear-baitings. : None
+AUTOLYCUS
+4.3 :Very true, sir; he, sir, he; that's the rogue that : None
+4.3 :put me into this apparel. : None
+CLOWN
+4.3 :Not a more cowardly rogue in all Bohemia: if you had : None
+4.3 :but looked big and spit at him, he'ld have run. : None
+AUTOLYCUS
+4.3 :I must confess to you, sir, I am no fighter: I am : None
+4.3 :false of heart that way; and that he knew, I warrant : None
+4.3 :him. : None
+CLOWN
+4.3 :How do you now? : None
+AUTOLYCUS
+4.3 :Sweet sir, much better than I was; I can stand and : None
+4.3 :walk: I will even take my leave of you, and pace : None
+4.3 :softly towards my kinsman's. : None
+CLOWN
+4.3 :Shall I bring thee on the way? : None
+AUTOLYCUS
+4.3 :No, good-faced sir; no, sweet sir. : None
+CLOWN
+4.3 :Then fare thee well: I must go buy spices for our : None
+4.3 :sheep-shearing. : None
+AUTOLYCUS
+4.3 :Prosper you, sweet sir! : None
+Exit Clown : ["Exit - ['CLOWN']"] : AUTOLYCUS
+4.3 :Your purse is not hot enough to purchase your spice. : None
+4.3 :I'll be with you at your sheep-shearing too: if I : None
+4.3 :make not this cheat bring out another and the : None
+4.3 :shearers prove sheep, let me be unrolled and my name : None
+4.3 :put in the book of virtue! : None
+Sings : ['None - []'] : AUTOLYCUS
+4.3 :Jog on, jog on, the foot-path way, : None
+4.3 :And merrily hent the stile-a: : None
+4.3 :A merry heart goes all the day, : None
+4.3 :Your sad tires in a mile-a. : None
+Exit : ['Exit - []'] : AUTOLYCUS
+Scene(scene=4)
+Enter FLORIZEL and PERDITA : ["Enter - ['FLORIZEL', 'PERDITA']"] : AUTOLYCUS
+FLORIZEL
+4.4 :These your unusual weeds to each part of you : None
+4.4 :Do give a life: no shepherdess, but Flora : None
+4.4 :Peering in April's front. This your sheep-shearing : None
+4.4 :Is as a meeting of the petty gods, : None
+4.4 :And you the queen on't. : None
+PERDITA
+4.4 :Sir, my gracious lord, : None
+4.4 :To chide at your extremes it not becomes me: : None
+4.4 :O, pardon, that I name them! Your high self, : None
+4.4 :The gracious mark o' the land, you have obscured : None
+4.4 :With a swain's wearing, and me, poor lowly maid, : None
+4.4 :Most goddess-like prank'd up: but that our feasts : None
+4.4 :In every mess have folly and the feeders : None
+4.4 :Digest it with a custom, I should blush : None
+4.4 :To see you so attired, sworn, I think, : None
+4.4 :To show myself a glass. : None
+FLORIZEL
+4.4 :I bless the time : None
+4.4 :When my good falcon made her flight across : None
+4.4 :Thy father's ground. : None
+PERDITA
+4.4 :Now Jove afford you cause! : None
+4.4 :To me the difference forges dread; your greatness : None
+4.4 :Hath not been used to fear. Even now I tremble : None
+4.4 :To think your father, by some accident, : None
+4.4 :Should pass this way as you did: O, the Fates! : None
+4.4 :How would he look, to see his work so noble : None
+4.4 :Vilely bound up? What would he say? Or how : None
+4.4 :Should I, in these my borrow'd flaunts, behold : None
+4.4 :The sternness of his presence? : None
+FLORIZEL
+4.4 :Apprehend : None
+4.4 :Nothing but jollity. The gods themselves, : None
+4.4 :Humbling their deities to love, have taken : None
+4.4 :The shapes of beasts upon them: Jupiter : None
+4.4 :Became a bull, and bellow'd; the green Neptune : None
+4.4 :A ram, and bleated; and the fire-robed god, : None
+4.4 :Golden Apollo, a poor humble swain, : None
+4.4 :As I seem now. Their transformations : None
+4.4 :Were never for a piece of beauty rarer, : None
+4.4 :Nor in a way so chaste, since my desires : None
+4.4 :Run not before mine honour, nor my lusts : None
+4.4 :Burn hotter than my faith. : None
+PERDITA
+4.4 :O, but, sir, : None
+4.4 :Your resolution cannot hold, when 'tis : None
+4.4 :Opposed, as it must be, by the power of the king: : None
+4.4 :One of these two must be necessities, : None
+4.4 :Which then will speak, that you must : None
+4.4 :change this purpose, : None
+4.4 :Or I my life. : None
+FLORIZEL
+4.4 :                  Thou dearest Perdita, : None
+4.4 :With these forced thoughts, I prithee, darken not : None
+4.4 :The mirth o' the feast. Or I'll be thine, my fair, : None
+4.4 :Or not my father's. For I cannot be : None
+4.4 :Mine own, nor any thing to any, if : None
+4.4 :I be not thine. To this I am most constant, : None
+4.4 :Though destiny say no. Be merry, gentle; : None
+4.4 :Strangle such thoughts as these with any thing : None
+4.4 :That you behold the while. Your guests are coming: : None
+4.4 :Lift up your countenance, as it were the day : None
+4.4 :Of celebration of that nuptial which : None
+4.4 :We two have sworn shall come. : None
+PERDITA
+4.4 :O lady Fortune, : None
+4.4 :Stand you auspicious! : None
+FLORIZEL
+4.4 :See, your guests approach: : None
+4.4 :Address yourself to entertain them sprightly, : None
+4.4 :And let's be red with mirth. : None
+Enter Shepherd, Clown, MOPSA, DORCAS, and others, with POLIXENES and CAMILLO disguised : ["Enter - ['SHEPHERD', 'CLOWN', 'MOPSA', 'DORCAS', 'POLIXENES', 'CAMILLO']"] : FLORIZEL
+SHEPHERD
+4.4 :Fie, daughter! when my old wife lived, upon : None
+4.4 :This day she was both pantler, butler, cook, : None
+4.4 :Both dame and servant; welcomed all, served all; : None
+4.4 :Would sing her song and dance her turn; now here, : None
+4.4 :At upper end o' the table, now i' the middle; : None
+4.4 :On his shoulder, and his; her face o' fire : None
+4.4 :With labour and the thing she took to quench it, : None
+4.4 :She would to each one sip. You are retired, : None
+4.4 :As if you were a feasted one and not : None
+4.4 :The hostess of the meeting: pray you, bid : None
+4.4 :These unknown friends to's welcome; for it is : None
+4.4 :A way to make us better friends, more known. : None
+4.4 :Come, quench your blushes and present yourself : None
+4.4 :That which you are, mistress o' the feast: come on, : None
+4.4 :And bid us welcome to your sheep-shearing, : None
+4.4 :As your good flock shall prosper. : None
+PERDITA
+4.4 :                  Sir, welcome: : To POLIXENES : ["To - ['POLIXENES']"] : PERDITA
+4.4 :It is my father's will I should take on me : None
+4.4 :The hostess-ship o' the day. : None
+To CAMILLO : ["To - ['CAMILLO']"] : PERDITA
+4.4 :You're welcome, sir. : None
+4.4 :Give me those flowers there, Dorcas. Reverend sirs, : None
+4.4 :For you there's rosemary and rue; these keep : None
+4.4 :Seeming and savour all the winter long: : None
+4.4 :Grace and remembrance be to you both, : None
+4.4 :And welcome to our shearing! : None
+POLIXENES
+4.4 :Shepherdess, : None
+4.4 :A fair one are you--well you fit our ages : None
+4.4 :With flowers of winter. : None
+PERDITA
+4.4 :Sir, the year growing ancient, : None
+4.4 :Not yet on summer's death, nor on the birth : None
+4.4 :Of trembling winter, the fairest : None
+4.4 :flowers o' the season : None
+4.4 :Are our carnations and streak'd gillyvors, : None
+4.4 :Which some call nature's bastards: of that kind : None
+4.4 :Our rustic garden's barren; and I care not : None
+4.4 :To get slips of them. : None
+POLIXENES
+4.4 :Wherefore, gentle maiden, : None
+4.4 :Do you neglect them? : None
+PERDITA
+4.4 :For I have heard it said : None
+4.4 :There is an art which in their piedness shares : None
+4.4 :With great creating nature. : None
+POLIXENES
+4.4 :Say there be; : None
+4.4 :Yet nature is made better by no mean : None
+4.4 :But nature makes that mean: so, over that art : None
+4.4 :Which you say adds to nature, is an art : None
+4.4 :That nature makes. You see, sweet maid, we marry : None
+4.4 :A gentler scion to the wildest stock, : None
+4.4 :And make conceive a bark of baser kind : None
+4.4 :By bud of nobler race: this is an art : None
+4.4 :Which does mend nature, change it rather, but : None
+4.4 :The art itself is nature. : None
+PERDITA
+4.4 :So it is. : None
+POLIXENES
+4.4 :Then make your garden rich in gillyvors, : None
+4.4 :And do not call them bastards. : None
+PERDITA
+4.4 :I'll not put : None
+4.4 :The dibble in earth to set one slip of them; : None
+4.4 :No more than were I painted I would wish : None
+4.4 :This youth should say 'twere well and only therefore : None
+4.4 :Desire to breed by me. Here's flowers for you; : None
+4.4 :Hot lavender, mints, savoury, marjoram; : None
+4.4 :The marigold, that goes to bed wi' the sun : None
+4.4 :And with him rises weeping: these are flowers : None
+4.4 :Of middle summer, and I think they are given : None
+4.4 :To men of middle age. You're very welcome. : None
+CAMILLO
+4.4 :I should leave grazing, were I of your flock, : None
+4.4 :And only live by gazing. : None
+PERDITA
+4.4 :Out, alas! : None
+4.4 :You'd be so lean, that blasts of January : None
+4.4 :Would blow you through and through. : None
+4.4 :Now, my fair'st friend, : None
+4.4 :I would I had some flowers o' the spring that might : None
+4.4 :Become your time of day; and yours, and yours, : None
+4.4 :That wear upon your virgin branches yet : None
+4.4 :Your maidenheads growing: O Proserpina, : None
+4.4 :For the flowers now, that frighted thou let'st fall : None
+4.4 :From Dis's waggon! daffodils, : None
+4.4 :That come before the swallow dares, and take : None
+4.4 :The winds of March with beauty; violets dim, : None
+4.4 :But sweeter than the lids of Juno's eyes : None
+4.4 :Or Cytherea's breath; pale primroses : None
+4.4 :That die unmarried, ere they can behold : None
+4.4 :Bight Phoebus in his strength--a malady : None
+4.4 :Most incident to maids; bold oxlips and : None
+4.4 :The crown imperial; lilies of all kinds, : None
+4.4 :The flower-de-luce being one! O, these I lack, : None
+4.4 :To make you garlands of, and my sweet friend, : None
+4.4 :To strew him o'er and o'er! : None
+FLORIZEL
+4.4 :What, like a corse? : None
+PERDITA
+4.4 :No, like a bank for love to lie and play on; : None
+4.4 :Not like a corse; or if, not to be buried, : None
+4.4 :But quick and in mine arms. Come, take your flowers: : None
+4.4 :Methinks I play as I have seen them do : None
+4.4 :In Whitsun pastorals: sure this robe of mine : None
+4.4 :Does change my disposition. : None
+FLORIZEL
+4.4 :What you do : None
+4.4 :Still betters what is done. When you speak, sweet. : None
+4.4 :I'ld have you do it ever: when you sing, : None
+4.4 :I'ld have you buy and sell so, so give alms, : None
+4.4 :Pray so; and, for the ordering your affairs, : None
+4.4 :To sing them too: when you do dance, I wish you : None
+4.4 :A wave o' the sea, that you might ever do : None
+4.4 :Nothing but that; move still, still so, : None
+4.4 :And own no other function: each your doing, : None
+4.4 :So singular in each particular, : None
+4.4 :Crowns what you are doing in the present deed, : None
+4.4 :That all your acts are queens. : None
+PERDITA
+4.4 :O Doricles, : None
+4.4 :Your praises are too large: but that your youth, : None
+4.4 :And the true blood which peepeth fairly through't, : None
+4.4 :Do plainly give you out an unstain'd shepherd, : None
+4.4 :With wisdom I might fear, my Doricles, : None
+4.4 :You woo'd me the false way. : None
+FLORIZEL
+4.4 :I think you have : None
+4.4 :As little skill to fear as I have purpose : None
+4.4 :To put you to't. But come; our dance, I pray: : None
+4.4 :Your hand, my Perdita: so turtles pair, : None
+4.4 :That never mean to part. : None
+PERDITA
+4.4 :I'll swear for 'em. : None
+POLIXENES
+4.4 :This is the prettiest low-born lass that ever : None
+4.4 :Ran on the green-sward: nothing she does or seems : None
+4.4 :But smacks of something greater than herself, : None
+4.4 :Too noble for this place. : None
+CAMILLO
+4.4 :He tells her something : None
+4.4 :That makes her blood look out: good sooth, she is : None
+4.4 :The queen of curds and cream. : None
+CLOWN
+4.4 :Come on, strike up! : None
+DORCAS
+4.4 :Mopsa must be your mistress: marry, garlic, : None
+4.4 :To mend her kissing with! : None
+MOPSA
+4.4 :Now, in good time! : None
+CLOWN
+4.4 :Not a word, a word; we stand upon our manners. : None
+4.4 :Come, strike up! : None
+Music. Here a dance of Shepherds and Shepherdesses : ['None - []', "None - ['SHEPHERD', 'SHEPHERD']"] : CLOWN
+POLIXENES
+4.4 :Pray, good shepherd, what fair swain is this : None
+4.4 :Which dances with your daughter? : None
+SHEPHERD
+4.4 :They call him Doricles; and boasts himself : None
+4.4 :To have a worthy feeding: but I have it : None
+4.4 :Upon his own report and I believe it; : None
+4.4 :He looks like sooth. He says he loves my daughter: : None
+4.4 :I think so too; for never gazed the moon : None
+4.4 :Upon the water as he'll stand and read : None
+4.4 :As 'twere my daughter's eyes: and, to be plain. : None
+4.4 :I think there is not half a kiss to choose : None
+4.4 :Who loves another best. : None
+POLIXENES
+4.4 :She dances featly. : None
+SHEPHERD
+4.4 :So she does any thing; though I report it, : None
+4.4 :That should be silent: if young Doricles : None
+4.4 :Do light upon her, she shall bring him that : None
+4.4 :Which he not dreams of. : None
+Enter Servant : ["Enter - ['SERVANT']"] : SHEPHERD
+SERVANT
+4.4 :O master, if you did but hear the pedlar at the : None
+4.4 :door, you would never dance again after a tabour and : None
+4.4 :pipe; no, the bagpipe could not move you: he sings : None
+4.4 :several tunes faster than you'll tell money; he : None
+4.4 :utters them as he had eaten ballads and all men's : None
+4.4 :ears grew to his tunes. : None
+CLOWN
+4.4 :He could never come better; he shall come in. I : None
+4.4 :love a ballad but even too well, if it be doleful : None
+4.4 :matter merrily set down, or a very pleasant thing : None
+4.4 :indeed and sung lamentably. : None
+SERVANT
+4.4 :He hath songs for man or woman, of all sizes; no : None
+4.4 :milliner can so fit his customers with gloves: he : None
+4.4 :has the prettiest love-songs for maids; so without : None
+4.4 :bawdry, which is strange; with such delicate : None
+4.4 :burthens of dildos and fadings, 'jump her and thump : None
+4.4 :her;' and where some stretch-mouthed rascal would, : None
+4.4 :as it were, mean mischief and break a foul gap into : None
+4.4 :the matter, he makes the maid to answer 'Whoop, do me : None
+4.4 :no harm, good man;' puts him off, slights him, with : None
+4.4 :'Whoop, do me no harm, good man.' : None
+POLIXENES
+4.4 :This is a brave fellow. : None
+CLOWN
+4.4 :Believe me, thou talkest of an admirable conceited : None
+4.4 :fellow. Has he any unbraided wares? : None
+SERVANT
+4.4 :He hath ribbons of an the colours i' the rainbow; : None
+4.4 :points more than all the lawyers in Bohemia can : None
+4.4 :learnedly handle, though they come to him by the : None
+4.4 :gross: inkles, caddisses, cambrics, lawns: why, he : None
+4.4 :sings 'em over as they were gods or goddesses; you : None
+4.4 :would think a smock were a she-angel, he so chants : None
+4.4 :to the sleeve-hand and the work about the square on't. : None
+CLOWN
+4.4 :Prithee bring him in; and let him approach singing. : None
+PERDITA
+4.4 :Forewarn him that he use no scurrilous words in 's tunes. : None
+Exit Servant : ["Exit - ['SERVANT']"] : PERDITA
+CLOWN
+4.4 :You have of these pedlars, that have more in them : None
+4.4 :than you'ld think, sister. : None
+PERDITA
+4.4 :Ay, good brother, or go about to think. : None
+Enter AUTOLYCUS, singing : ["Enter - ['AUTOLYCUS']"] : PERDITA
+AUTOLYCUS
+4.4 :     Lawn as white as driven snow; : None
+4.4 :Cyprus black as e'er was crow; : None
+4.4 :Gloves as sweet as damask roses; : None
+4.4 :Masks for faces and for noses; : None
+4.4 :Bugle bracelet, necklace amber, : None
+4.4 :Perfume for a lady's chamber; : None
+4.4 :Golden quoifs and stomachers, : None
+4.4 :For my lads to give their dears: : None
+4.4 :Pins and poking-sticks of steel, : None
+4.4 :What maids lack from head to heel: : None
+4.4 :Come buy of me, come; come buy, come buy; : None
+4.4 :Buy lads, or else your lasses cry: Come buy. : None
+CLOWN
+4.4 :If I were not in love with Mopsa, thou shouldst take : None
+4.4 :no money of me; but being enthralled as I am, it : None
+4.4 :will also be the bondage of certain ribbons and gloves. : None
+MOPSA
+4.4 :I was promised them against the feast; but they come : None
+4.4 :not too late now. : None
+DORCAS
+4.4 :He hath promised you more than that, or there be liars. : None
+MOPSA
+4.4 :He hath paid you all he promised you; may be, he has : None
+4.4 :paid you more, which will shame you to give him again. : None
+CLOWN
+4.4 :Is there no manners left among maids? will they : None
+4.4 :wear their plackets where they should bear their : None
+4.4 :faces? Is there not milking-time, when you are : None
+4.4 :going to bed, or kiln-hole, to whistle off these : None
+4.4 :secrets, but you must be tittle-tattling before all : None
+4.4 :our guests? 'tis well they are whispering: clamour : None
+4.4 :your tongues, and not a word more. : None
+MOPSA
+4.4 :I have done. Come, you promised me a tawdry-lace : None
+4.4 :and a pair of sweet gloves. : None
+CLOWN
+4.4 :Have I not told thee how I was cozened by the way : None
+4.4 :and lost all my money? : None
+AUTOLYCUS
+4.4 :And indeed, sir, there are cozeners abroad; : None
+4.4 :therefore it behoves men to be wary. : None
+CLOWN
+4.4 :Fear not thou, man, thou shalt lose nothing here. : None
+AUTOLYCUS
+4.4 :I hope so, sir; for I have about me many parcels of charge. : None
+CLOWN
+4.4 :What hast here? ballads? : None
+MOPSA
+4.4 :Pray now, buy some: I love a ballad in print o' : None
+4.4 :life, for then we are sure they are true. : None
+AUTOLYCUS
+4.4 :Here's one to a very doleful tune, how a usurer's : None
+4.4 :wife was brought to bed of twenty money-bags at a : None
+4.4 :burthen and how she longed to eat adders' heads and : None
+4.4 :toads carbonadoed. : None
+MOPSA
+4.4 :Is it true, think you? : None
+AUTOLYCUS
+4.4 :Very true, and but a month old. : None
+DORCAS
+4.4 :Bless me from marrying a usurer! : None
+AUTOLYCUS
+4.4 :Here's the midwife's name to't, one Mistress : None
+4.4 :Tale-porter, and five or six honest wives that were : None
+4.4 :present. Why should I carry lies abroad? : None
+MOPSA
+4.4 :Pray you now, buy it. : None
+CLOWN
+4.4 :Come on, lay it by: and let's first see moe : None
+4.4 :ballads; we'll buy the other things anon. : None
+AUTOLYCUS
+4.4 :Here's another ballad of a fish, that appeared upon : None
+4.4 :the coast on Wednesday the four-score of April, : None
+4.4 :forty thousand fathom above water, and sung this : None
+4.4 :ballad against the hard hearts of maids: it was : None
+4.4 :thought she was a woman and was turned into a cold : None
+4.4 :fish for she would not exchange flesh with one that : None
+4.4 :loved her: the ballad is very pitiful and as true. : None
+DORCAS
+4.4 :Is it true too, think you? : None
+AUTOLYCUS
+4.4 :Five justices' hands at it, and witnesses more than : None
+4.4 :my pack will hold. : None
+CLOWN
+4.4 :Lay it by too: another. : None
+AUTOLYCUS
+4.4 :This is a merry ballad, but a very pretty one. : None
+MOPSA
+4.4 :Let's have some merry ones. : None
+AUTOLYCUS
+4.4 :Why, this is a passing merry one and goes to : None
+4.4 :the tune of 'Two maids wooing a man:' there's : None
+4.4 :scarce a maid westward but she sings it; 'tis in : None
+4.4 :request, I can tell you. : None
+MOPSA
+4.4 :We can both sing it: if thou'lt bear a part, thou : None
+4.4 :shalt hear; 'tis in three parts. : None
+DORCAS
+4.4 :We had the tune on't a month ago. : None
+AUTOLYCUS
+4.4 :I can bear my part; you must know 'tis my : None
+4.4 :occupation; have at it with you. : None
+SONG : ['None - []'] : AUTOLYCUS
+AUTOLYCUS
+4.4 :Get you hence, for I must go : None
+4.4 :Where it fits not you to know. : None
+DORCAS
+4.4 :     Whither? : None
+MOPSA
+4.4 :                  O, whither? : None
+DORCAS
+4.4 :Whither? : None
+MOPSA
+4.4 :     It becomes thy oath full well, : None
+4.4 :Thou to me thy secrets tell. : None
+DORCAS
+4.4 :          Me too, let me go thither. : None
+MOPSA
+4.4 :     Or thou goest to the orange or mill. : None
+DORCAS
+4.4 :     If to either, thou dost ill. : None
+AUTOLYCUS
+4.4 :Neither. : None
+DORCAS
+4.4 :       What, neither? : None
+AUTOLYCUS
+4.4 :Neither. : None
+DORCAS
+4.4 :     Thou hast sworn my love to be. : None
+MOPSA
+4.4 :     Thou hast sworn it more to me: : None
+4.4 :Then whither goest? say, whither? : None
+CLOWN
+4.4 :We'll have this song out anon by ourselves: my : None
+4.4 :father and the gentlemen are in sad talk, and we'll : None
+4.4 :not trouble them. Come, bring away thy pack after : None
+4.4 :me. Wenches, I'll buy for you both. Pedlar, let's : None
+4.4 :have the first choice. Follow me, girls. : None
+Exit with DORCAS and MOPSA : ["Exit - ['DORCAS', 'MOPSA']"] : CLOWN
+AUTOLYCUS
+4.4 :And you shall pay well for 'em. : None
+Follows singing : ['None - []'] : AUTOLYCUS
+4.4 :Will you buy any tape, : None
+4.4 :Or lace for your cape, : None
+4.4 :My dainty duck, my dear-a? : None
+4.4 :Any silk, any thread, : None
+4.4 :Any toys for your head, : None
+4.4 :Of the new'st and finest, finest wear-a? : None
+4.4 :Come to the pedlar; : None
+4.4 :Money's a medler. : None
+4.4 :That doth utter all men's ware-a. : None
+Exit : ['Exit - []'] : AUTOLYCUS
+Re-enter Servant : ["Re-enter - ['SERVANT']"] : AUTOLYCUS
+SERVANT
+4.4 :Master, there is three carters, three shepherds, : None
+4.4 :three neat-herds, three swine-herds, that have made : None
+4.4 :themselves all men of hair, they call themselves : None
+4.4 :Saltiers, and they have a dance which the wenches : None
+4.4 :say is a gallimaufry of gambols, because they are : None
+4.4 :not in't; but they themselves are o' the mind, if it : None
+4.4 :be not too rough for some that know little but : None
+4.4 :bowling, it will please plentifully. : None
+SHEPHERD
+4.4 :Away! we'll none on 't: here has been too much : None
+4.4 :homely foolery already. I know, sir, we weary you. : None
+POLIXENES
+4.4 :You weary those that refresh us: pray, let's see : None
+4.4 :these four threes of herdsmen. : None
+SERVANT
+4.4 :One three of them, by their own report, sir, hath : None
+4.4 :danced before the king; and not the worst of the : None
+4.4 :three but jumps twelve foot and a half by the squier. : None
+SHEPHERD
+4.4 :Leave your prating: since these good men are : None
+4.4 :pleased, let them come in; but quickly now. : None
+SERVANT
+4.4 :Why, they stay at door, sir. : None
+Exit : ['Exit - []'] : SERVANT
+Here a dance of twelve Satyrs : ['None - []'] : SERVANT
+POLIXENES
+4.4 :O, father, you'll know more of that hereafter. : None
+To CAMILLO : ["To - ['CAMILLO']"] : POLIXENES
+4.4 :Is it not too far gone? 'Tis time to part them. : None
+4.4 :He's simple and tells much. : None
+To FLORIZEL : ["To - ['FLORIZEL']"] : POLIXENES
+4.4 :How now, fair shepherd! : None
+4.4 :Your heart is full of something that does take : None
+4.4 :Your mind from feasting. Sooth, when I was young : None
+4.4 :And handed love as you do, I was wont : None
+4.4 :To load my she with knacks: I would have ransack'd : None
+4.4 :The pedlar's silken treasury and have pour'd it : None
+4.4 :To her acceptance; you have let him go : None
+4.4 :And nothing marted with him. If your lass : None
+4.4 :Interpretation should abuse and call this : None
+4.4 :Your lack of love or bounty, you were straited : None
+4.4 :For a reply, at least if you make a care : None
+4.4 :Of happy holding her. : None
+FLORIZEL
+4.4 :Old sir, I know : None
+4.4 :She prizes not such trifles as these are: : None
+4.4 :The gifts she looks from me are pack'd and lock'd : None
+4.4 :Up in my heart; which I have given already, : None
+4.4 :But not deliver'd. O, hear me breathe my life : None
+4.4 :Before this ancient sir, who, it should seem, : None
+4.4 :Hath sometime loved! I take thy hand, this hand, : None
+4.4 :As soft as dove's down and as white as it, : None
+4.4 :Or Ethiopian's tooth, or the fann'd : None
+4.4 :snow that's bolted : None
+4.4 :By the northern blasts twice o'er. : None
+POLIXENES
+4.4 :What follows this? : None
+4.4 :How prettily the young swain seems to wash : None
+4.4 :The hand was fair before! I have put you out: : None
+4.4 :But to your protestation; let me hear : None
+4.4 :What you profess. : None
+FLORIZEL
+4.4 :                  Do, and be witness to 't. : None
+POLIXENES
+4.4 :And this my neighbour too? : None
+FLORIZEL
+4.4 :And he, and more : None
+4.4 :Than he, and men, the earth, the heavens, and all: : None
+4.4 :That, were I crown'd the most imperial monarch, : None
+4.4 :Thereof most worthy, were I the fairest youth : None
+4.4 :That ever made eye swerve, had force and knowledge : None
+4.4 :More than was ever man's, I would not prize them : None
+4.4 :Without her love; for her employ them all; : None
+4.4 :Commend them and condemn them to her service : None
+4.4 :Or to their own perdition. : None
+POLIXENES
+4.4 :Fairly offer'd. : None
+CAMILLO
+4.4 :This shows a sound affection. : None
+SHEPHERD
+4.4 :But, my daughter, : None
+4.4 :Say you the like to him? : None
+PERDITA
+4.4 :I cannot speak : None
+4.4 :So well, nothing so well; no, nor mean better: : None
+4.4 :By the pattern of mine own thoughts I cut out : None
+4.4 :The purity of his. : None
+SHEPHERD
+4.4 :                  Take hands, a bargain! : None
+4.4 :And, friends unknown, you shall bear witness to 't: : None
+4.4 :I give my daughter to him, and will make : None
+4.4 :Her portion equal his. : None
+FLORIZEL
+4.4 :O, that must be : None
+4.4 :I' the virtue of your daughter: one being dead, : None
+4.4 :I shall have more than you can dream of yet; : None
+4.4 :Enough then for your wonder. But, come on, : None
+4.4 :Contract us 'fore these witnesses. : None
+SHEPHERD
+4.4 :Come, your hand; : None
+4.4 :And, daughter, yours. : None
+POLIXENES
+4.4 :Soft, swain, awhile, beseech you; : None
+4.4 :Have you a father? : None
+FLORIZEL
+4.4 :                  I have: but what of him? : None
+POLIXENES
+4.4 :Knows he of this? : None
+FLORIZEL
+4.4 :                  He neither does nor shall. : None
+POLIXENES
+4.4 :Methinks a father : None
+4.4 :Is at the nuptial of his son a guest : None
+4.4 :That best becomes the table. Pray you once more, : None
+4.4 :Is not your father grown incapable : None
+4.4 :Of reasonable affairs? is he not stupid : None
+4.4 :With age and altering rheums? can he speak? hear? : None
+4.4 :Know man from man? dispute his own estate? : None
+4.4 :Lies he not bed-rid? and again does nothing : None
+4.4 :But what he did being childish? : None
+FLORIZEL
+4.4 :No, good sir; : None
+4.4 :He has his health and ampler strength indeed : None
+4.4 :Than most have of his age. : None
+POLIXENES
+4.4 :By my white beard, : None
+4.4 :You offer him, if this be so, a wrong : None
+4.4 :Something unfilial: reason my son : None
+4.4 :Should choose himself a wife, but as good reason : None
+4.4 :The father, all whose joy is nothing else : None
+4.4 :But fair posterity, should hold some counsel : None
+4.4 :In such a business. : None
+FLORIZEL
+4.4 :I yield all this; : None
+4.4 :But for some other reasons, my grave sir, : None
+4.4 :Which 'tis not fit you know, I not acquaint : None
+4.4 :My father of this business. : None
+POLIXENES
+4.4 :Let him know't. : None
+FLORIZEL
+4.4 :He shall not. : None
+POLIXENES
+4.4 :                  Prithee, let him. : None
+FLORIZEL
+4.4 :No, he must not. : None
+SHEPHERD
+4.4 :Let him, my son: he shall not need to grieve : None
+4.4 :At knowing of thy choice. : None
+FLORIZEL
+4.4 :Come, come, he must not. : None
+4.4 :Mark our contract. : None
+POLIXENES
+4.4 :                  Mark your divorce, young sir, : None
+Discovering himself : ['None - []'] : POLIXENES
+4.4 :Whom son I dare not call; thou art too base : None
+4.4 :To be acknowledged: thou a sceptre's heir, : None
+4.4 :That thus affect'st a sheep-hook! Thou old traitor, : None
+4.4 :I am sorry that by hanging thee I can : None
+4.4 :But shorten thy life one week. And thou, fresh piece : None
+4.4 :Of excellent witchcraft, who of force must know : None
+4.4 :The royal fool thou copest with,-- : None
+SHEPHERD
+4.4 :O, my heart! : None
+POLIXENES
+4.4 :I'll have thy beauty scratch'd with briers, and made : None
+4.4 :More homely than thy state. For thee, fond boy, : None
+4.4 :If I may ever know thou dost but sigh : None
+4.4 :That thou no more shalt see this knack, as never : None
+4.4 :I mean thou shalt, we'll bar thee from succession; : None
+4.4 :Not hold thee of our blood, no, not our kin, : None
+4.4 :Far than Deucalion off: mark thou my words: : None
+4.4 :Follow us to the court. Thou churl, for this time, : None
+4.4 :Though full of our displeasure, yet we free thee : None
+4.4 :From the dead blow of it. And you, enchantment.-- : None
+4.4 :Worthy enough a herdsman: yea, him too, : None
+4.4 :That makes himself, but for our honour therein, : None
+4.4 :Unworthy thee,--if ever henceforth thou : None
+4.4 :These rural latches to his entrance open, : None
+4.4 :Or hoop his body more with thy embraces, : None
+4.4 :I will devise a death as cruel for thee : None
+4.4 :As thou art tender to't. : None
+Exit : ['Exit - []'] : POLIXENES
+PERDITA
+4.4 :Even here undone! : None
+4.4 :I was not much afeard; for once or twice : None
+4.4 :I was about to speak and tell him plainly, : None
+4.4 :The selfsame sun that shines upon his court : None
+4.4 :Hides not his visage from our cottage but : None
+4.4 :Looks on alike. Will't please you, sir, be gone? : None
+4.4 :I told you what would come of this: beseech you, : None
+4.4 :Of your own state take care: this dream of mine,-- : None
+4.4 :Being now awake, I'll queen it no inch farther, : None
+4.4 :But milk my ewes and weep. : None
+CAMILLO
+4.4 :Why, how now, father! : None
+4.4 :Speak ere thou diest. : None
+SHEPHERD
+4.4 :I cannot speak, nor think : None
+4.4 :Nor dare to know that which I know. O sir! : None
+4.4 :You have undone a man of fourscore three, : None
+4.4 :That thought to fill his grave in quiet, yea, : None
+4.4 :To die upon the bed my father died, : None
+4.4 :To lie close by his honest bones: but now : None
+4.4 :Some hangman must put on my shroud and lay me : None
+4.4 :Where no priest shovels in dust. O cursed wretch, : None
+4.4 :That knew'st this was the prince, : None
+4.4 :and wouldst adventure : None
+4.4 :To mingle faith with him! Undone! undone! : None
+4.4 :If I might die within this hour, I have lived : None
+4.4 :To die when I desire. : None
+Exit : ['Exit - []'] : SHEPHERD
+FLORIZEL
+4.4 :Why look you so upon me? : None
+4.4 :I am but sorry, not afeard; delay'd, : None
+4.4 :But nothing alter'd: what I was, I am; : None
+4.4 :More straining on for plucking back, not following : None
+4.4 :My leash unwillingly. : None
+CAMILLO
+4.4 :Gracious my lord, : None
+4.4 :You know your father's temper: at this time : None
+4.4 :He will allow no speech, which I do guess : None
+4.4 :You do not purpose to him; and as hardly : None
+4.4 :Will he endure your sight as yet, I fear: : None
+4.4 :Then, till the fury of his highness settle, : None
+4.4 :Come not before him. : None
+FLORIZEL
+4.4 :I not purpose it. : None
+4.4 :I think, Camillo? : None
+CAMILLO
+4.4 :                  Even he, my lord. : None
+PERDITA
+4.4 :How often have I told you 'twould be thus! : None
+4.4 :How often said, my dignity would last : None
+4.4 :But till 'twere known! : None
+FLORIZEL
+4.4 :It cannot fail but by : None
+4.4 :The violation of my faith; and then : None
+4.4 :Let nature crush the sides o' the earth together : None
+4.4 :And mar the seeds within! Lift up thy looks: : None
+4.4 :From my succession wipe me, father; I : None
+4.4 :Am heir to my affection. : None
+CAMILLO
+4.4 :Be advised. : None
+FLORIZEL
+4.4 :I am, and by my fancy: if my reason : None
+4.4 :Will thereto be obedient, I have reason; : None
+4.4 :If not, my senses, better pleased with madness, : None
+4.4 :Do bid it welcome. : None
+CAMILLO
+4.4 :                  This is desperate, sir. : None
+FLORIZEL
+4.4 :So call it: but it does fulfil my vow; : None
+4.4 :I needs must think it honesty. Camillo, : None
+4.4 :Not for Bohemia, nor the pomp that may : None
+4.4 :Be thereat glean'd, for all the sun sees or : None
+4.4 :The close earth wombs or the profound sea hides : None
+4.4 :In unknown fathoms, will I break my oath : None
+4.4 :To this my fair beloved: therefore, I pray you, : None
+4.4 :As you have ever been my father's honour'd friend, : None
+4.4 :When he shall miss me,--as, in faith, I mean not : None
+4.4 :To see him any more,--cast your good counsels : None
+4.4 :Upon his passion; let myself and fortune : None
+4.4 :Tug for the time to come. This you may know : None
+4.4 :And so deliver, I am put to sea : None
+4.4 :With her whom here I cannot hold on shore; : None
+4.4 :And most opportune to our need I have : None
+4.4 :A vessel rides fast by, but not prepared : None
+4.4 :For this design. What course I mean to hold : None
+4.4 :Shall nothing benefit your knowledge, nor : None
+4.4 :Concern me the reporting. : None
+CAMILLO
+4.4 :O my lord! : None
+4.4 :I would your spirit were easier for advice, : None
+4.4 :Or stronger for your need. : None
+FLORIZEL
+4.4 :Hark, Perdita : None
+Drawing her aside : ['aside - []'] : FLORIZEL
+4.4 :I'll hear you by and by. : None
+CAMILLO
+4.4 :He's irremoveable, : None
+4.4 :Resolved for flight. Now were I happy, if : None
+4.4 :His going I could frame to serve my turn, : None
+4.4 :Save him from danger, do him love and honour, : None
+4.4 :Purchase the sight again of dear Sicilia : None
+4.4 :And that unhappy king, my master, whom : None
+4.4 :I so much thirst to see. : None
+FLORIZEL
+4.4 :Now, good Camillo; : None
+4.4 :I am so fraught with curious business that : None
+4.4 :I leave out ceremony. : None
+CAMILLO
+4.4 :Sir, I think : None
+4.4 :You have heard of my poor services, i' the love : None
+4.4 :That I have borne your father? : None
+FLORIZEL
+4.4 :Very nobly : None
+4.4 :Have you deserved: it is my father's music : None
+4.4 :To speak your deeds, not little of his care : None
+4.4 :To have them recompensed as thought on. : None
+CAMILLO
+4.4 :Well, my lord, : None
+4.4 :If you may please to think I love the king : None
+4.4 :And through him what is nearest to him, which is : None
+4.4 :Your gracious self, embrace but my direction: : None
+4.4 :If your more ponderous and settled project : None
+4.4 :May suffer alteration, on mine honour, : None
+4.4 :I'll point you where you shall have such receiving : None
+4.4 :As shall become your highness; where you may : None
+4.4 :Enjoy your mistress, from the whom, I see, : None
+4.4 :There's no disjunction to be made, but by-- : None
+4.4 :As heavens forefend!--your ruin; marry her, : None
+4.4 :And, with my best endeavours in your absence, : None
+4.4 :Your discontenting father strive to qualify : None
+4.4 :And bring him up to liking. : None
+FLORIZEL
+4.4 :How, Camillo, : None
+4.4 :May this, almost a miracle, be done? : None
+4.4 :That I may call thee something more than man : None
+4.4 :And after that trust to thee. : None
+CAMILLO
+4.4 :Have you thought on : None
+4.4 :A place whereto you'll go? : None
+FLORIZEL
+4.4 :Not any yet: : None
+4.4 :But as the unthought-on accident is guilty : None
+4.4 :To what we wildly do, so we profess : None
+4.4 :Ourselves to be the slaves of chance and flies : None
+4.4 :Of every wind that blows. : None
+CAMILLO
+4.4 :Then list to me: : None
+4.4 :This follows, if you will not change your purpose : None
+4.4 :But undergo this flight, make for Sicilia, : None
+4.4 :And there present yourself and your fair princess, : None
+4.4 :For so I see she must be, 'fore Leontes: : None
+4.4 :She shall be habited as it becomes : None
+4.4 :The partner of your bed. Methinks I see : None
+4.4 :Leontes opening his free arms and weeping : None
+4.4 :His welcomes forth; asks thee the son forgiveness, : None
+4.4 :As 'twere i' the father's person; kisses the hands : None
+4.4 :Of your fresh princess; o'er and o'er divides him : None
+4.4 :'Twixt his unkindness and his kindness; the one : None
+4.4 :He chides to hell and bids the other grow : None
+4.4 :Faster than thought or time. : None
+FLORIZEL
+4.4 :Worthy Camillo, : None
+4.4 :What colour for my visitation shall I : None
+4.4 :Hold up before him? : None
+CAMILLO
+4.4 :Sent by the king your father : None
+4.4 :To greet him and to give him comforts. Sir, : None
+4.4 :The manner of your bearing towards him, with : None
+4.4 :What you as from your father shall deliver, : None
+4.4 :Things known betwixt us three, I'll write you down: : None
+4.4 :The which shall point you forth at every sitting : None
+4.4 :What you must say; that he shall not perceive : None
+4.4 :But that you have your father's bosom there : None
+4.4 :And speak his very heart. : None
+FLORIZEL
+4.4 :I am bound to you: : None
+4.4 :There is some sap in this. : None
+CAMILLO
+4.4 :A cause more promising : None
+4.4 :Than a wild dedication of yourselves : None
+4.4 :To unpath'd waters, undream'd shores, most certain : None
+4.4 :To miseries enough; no hope to help you, : None
+4.4 :But as you shake off one to take another; : None
+4.4 :Nothing so certain as your anchors, who : None
+4.4 :Do their best office, if they can but stay you : None
+4.4 :Where you'll be loath to be: besides you know : None
+4.4 :Prosperity's the very bond of love, : None
+4.4 :Whose fresh complexion and whose heart together : None
+4.4 :Affliction alters. : None
+PERDITA
+4.4 :                  One of these is true: : None
+4.4 :I think affliction may subdue the cheek, : None
+4.4 :But not take in the mind. : None
+CAMILLO
+4.4 :Yea, say you so? : None
+4.4 :There shall not at your father's house these : None
+4.4 :seven years : None
+4.4 :Be born another such. : None
+FLORIZEL
+4.4 :My good Camillo, : None
+4.4 :She is as forward of her breeding as : None
+4.4 :She is i' the rear our birth. : None
+CAMILLO
+4.4 :I cannot say 'tis pity : None
+4.4 :She lacks instructions, for she seems a mistress : None
+4.4 :To most that teach. : None
+PERDITA
+4.4 :Your pardon, sir; for this : None
+4.4 :I'll blush you thanks. : None
+FLORIZEL
+4.4 :My prettiest Perdita! : None
+4.4 :But O, the thorns we stand upon! Camillo, : None
+4.4 :Preserver of my father, now of me, : None
+4.4 :The medicine of our house, how shall we do? : None
+4.4 :We are not furnish'd like Bohemia's son, : None
+4.4 :Nor shall appear in Sicilia. : None
+CAMILLO
+4.4 :My lord, : None
+4.4 :Fear none of this: I think you know my fortunes : None
+4.4 :Do all lie there: it shall be so my care : None
+4.4 :To have you royally appointed as if : None
+4.4 :The scene you play were mine. For instance, sir, : None
+4.4 :That you may know you shall not want, one word. : None
+They talk aside : ['aside - []'] : CAMILLO
+Re-enter AUTOLYCUS : ["Re-enter - ['AUTOLYCUS']"] : CAMILLO
+AUTOLYCUS
+4.4 :Ha, ha! what a fool Honesty is! and Trust, his : None
+4.4 :sworn brother, a very simple gentleman! I have sold : None
+4.4 :all my trumpery; not a counterfeit stone, not a : None
+4.4 :ribbon, glass, pomander, brooch, table-book, ballad, : None
+4.4 :knife, tape, glove, shoe-tie, bracelet, horn-ring, : None
+4.4 :to keep my pack from fasting: they throng who : None
+4.4 :should buy first, as if my trinkets had been : None
+4.4 :hallowed and brought a benediction to the buyer: : None
+4.4 :by which means I saw whose purse was best in : None
+4.4 :picture; and what I saw, to my good use I : None
+4.4 :remembered. My clown, who wants but something to : None
+4.4 :be a reasonable man, grew so in love with the : None
+4.4 :wenches' song, that he would not stir his pettitoes : None
+4.4 :till he had both tune and words; which so drew the : None
+4.4 :rest of the herd to me that all their other senses : None
+4.4 :stuck in ears: you might have pinched a placket, it : None
+4.4 :was senseless; 'twas nothing to geld a codpiece of a : None
+4.4 :purse; I could have filed keys off that hung in : None
+4.4 :chains: no hearing, no feeling, but my sir's song, : None
+4.4 :and admiring the nothing of it. So that in this : None
+4.4 :time of lethargy I picked and cut most of their : None
+4.4 :festival purses; and had not the old man come in : None
+4.4 :with a whoo-bub against his daughter and the king's : None
+4.4 :son and scared my choughs from the chaff, I had not : None
+4.4 :left a purse alive in the whole army. : None
+CAMILLO, FLORIZEL, and PERDITA come forward : ["None - ['CAMILLO', 'FLORIZEL', 'PERDITA']"] : AUTOLYCUS
+CAMILLO
+4.4 :Nay, but my letters, by this means being there : None
+4.4 :So soon as you arrive, shall clear that doubt. : None
+FLORIZEL
+4.4 :And those that you'll procure from King Leontes-- : None
+CAMILLO
+4.4 :Shall satisfy your father. : None
+PERDITA
+4.4 :Happy be you! : None
+4.4 :All that you speak shows fair. : None
+CAMILLO
+4.4 :Who have we here? : None
+Seeing AUTOLYCUS : ["TO - ['AUTOLYCUS']"] : CAMILLO
+4.4 :We'll make an instrument of this, omit : None
+4.4 :Nothing may give us aid. : None
+AUTOLYCUS
+4.4 :If they have overheard me now, why, hanging. : None
+CAMILLO
+4.4 :How now, good fellow! why shakest thou so? Fear : None
+4.4 :not, man; here's no harm intended to thee. : None
+AUTOLYCUS
+4.4 :I am a poor fellow, sir. : None
+CAMILLO
+4.4 :Why, be so still; here's nobody will steal that from : None
+4.4 :thee: yet for the outside of thy poverty we must : None
+4.4 :make an exchange; therefore discase thee instantly, : None
+4.4 :--thou must think there's a necessity in't,--and : None
+4.4 :change garments with this gentleman: though the : None
+4.4 :pennyworth on his side be the worst, yet hold thee, : None
+4.4 :there's some boot. : None
+AUTOLYCUS
+4.4 :I am a poor fellow, sir. : None
+Aside : ['Aside - []'] : AUTOLYCUS
+4.4 :I know ye well enough. : None
+CAMILLO
+4.4 :Nay, prithee, dispatch: the gentleman is half : None
+4.4 :flayed already. : None
+AUTOLYCUS
+4.4 :Are you in earnest, sir? : None
+Aside : ['Aside - []'] : AUTOLYCUS
+4.4 :I smell the trick on't. : None
+FLORIZEL
+4.4 :Dispatch, I prithee. : None
+AUTOLYCUS
+4.4 :Indeed, I have had earnest: but I cannot with : None
+4.4 :conscience take it. : None
+CAMILLO
+4.4 :Unbuckle, unbuckle. : None
+FLORIZEL and AUTOLYCUS exchange garments : ["TO - ['FLORIZEL', 'AUTOLYCUS']"] : CAMILLO
+4.4 :Fortunate mistress,--let my prophecy : None
+4.4 :Come home to ye!--you must retire yourself : None
+4.4 :Into some covert: take your sweetheart's hat : None
+4.4 :And pluck it o'er your brows, muffle your face, : None
+4.4 :Dismantle you, and, as you can, disliken : None
+4.4 :The truth of your own seeming; that you may-- : None
+4.4 :For I do fear eyes over--to shipboard : None
+4.4 :Get undescried. : None
+PERDITA
+4.4 :                  I see the play so lies : None
+4.4 :That I must bear a part. : None
+CAMILLO
+4.4 :No remedy. : None
+4.4 :Have you done there? : None
+FLORIZEL
+4.4 :Should I now meet my father, : None
+4.4 :He would not call me son. : None
+CAMILLO
+4.4 :Nay, you shall have no hat. : None
+Giving it to PERDITA : ["to - ['PERDITA']"] : CAMILLO
+4.4 :Come, lady, come. Farewell, my friend. : None
+AUTOLYCUS
+4.4 :Adieu, sir. : None
+FLORIZEL
+4.4 :O Perdita, what have we twain forgot! : None
+4.4 :Pray you, a word. : None
+CAMILLO
+4.4 :  What I do next, shall be to tell the king : Aside : ['Aside - []'] : CAMILLO
+4.4 :Of this escape and whither they are bound; : None
+4.4 :Wherein my hope is I shall so prevail : None
+4.4 :To force him after: in whose company : None
+4.4 :I shall review Sicilia, for whose sight : None
+4.4 :I have a woman's longing. : None
+FLORIZEL
+4.4 :Fortune speed us! : None
+4.4 :Thus we set on, Camillo, to the sea-side. : None
+CAMILLO
+4.4 :The swifter speed the better. : None
+Exeunt FLORIZEL, PERDITA, and CAMILLO : ["Exeunt - ['FLORIZEL', 'PERDITA', 'CAMILLO']"] : CAMILLO
+AUTOLYCUS
+4.4 :I understand the business, I hear it: to have an : None
+4.4 :open ear, a quick eye, and a nimble hand, is : None
+4.4 :necessary for a cut-purse; a good nose is requisite : None
+4.4 :also, to smell out work for the other senses. I see : None
+4.4 :this is the time that the unjust man doth thrive. : None
+4.4 :What an exchange had this been without boot! What : None
+4.4 :a boot is here with this exchange! Sure the gods do : None
+4.4 :this year connive at us, and we may do any thing : None
+4.4 :extempore. The prince himself is about a piece of : None
+4.4 :iniquity, stealing away from his father with his : None
+4.4 :clog at his heels: if I thought it were a piece of : None
+4.4 :honesty to acquaint the king withal, I would not : None
+4.4 :do't: I hold it the more knavery to conceal it; : None
+4.4 :and therein am I constant to my profession. : None
+Re-enter Clown and Shepherd : ["Re-enter - ['CLOWN', 'SHEPHERD']"] : AUTOLYCUS
+4.4 :Aside, aside; here is more matter for a hot brain: : None
+4.4 :every lane's end, every shop, church, session, : None
+4.4 :hanging, yields a careful man work. : None
+CLOWN
+4.4 :See, see; what a man you are now! : None
+4.4 :There is no other way but to tell the king : None
+4.4 :she's a changeling and none of your flesh and blood. : None
+SHEPHERD
+4.4 :Nay, but hear me. : None
+CLOWN
+4.4 :Nay, but hear me. : None
+SHEPHERD
+4.4 :Go to, then. : None
+CLOWN
+4.4 :She being none of your flesh and blood, your flesh : None
+4.4 :and blood has not offended the king; and so your : None
+4.4 :flesh and blood is not to be punished by him. Show : None
+4.4 :those things you found about her, those secret : None
+4.4 :things, all but what she has with her: this being : None
+4.4 :done, let the law go whistle: I warrant you. : None
+SHEPHERD
+4.4 :I will tell the king all, every word, yea, and his : None
+4.4 :son's pranks too; who, I may say, is no honest man, : None
+4.4 :neither to his father nor to me, to go about to make : None
+4.4 :me the king's brother-in-law. : None
+CLOWN
+4.4 :Indeed, brother-in-law was the farthest off you : None
+4.4 :could have been to him and then your blood had been : None
+4.4 :the dearer by I know how much an ounce. : None
+AUTOLYCUS
+4.4 :  Very wisely, puppies! : Aside : ['Aside - []'] : AUTOLYCUS
+SHEPHERD
+4.4 :Well, let us to the king: there is that in this : None
+4.4 :fardel will make him scratch his beard. : None
+AUTOLYCUS
+4.4 :  I know not what impediment this complaint : Aside : ['Aside - []'] : AUTOLYCUS
+4.4 :may be to the flight of my master. : None
+CLOWN
+4.4 :Pray heartily he be at palace. : None
+AUTOLYCUS
+4.4 :  Though I am not naturally honest, I am so : Aside : ['Aside - []'] : AUTOLYCUS
+4.4 :sometimes by chance: let me pocket up my pedlar's excrement. : None
+Takes off his false beard : ['None - []'] : AUTOLYCUS
+4.4 :How now, rustics! whither are you bound? : None
+SHEPHERD
+4.4 :To the palace, an it like your worship. : None
+AUTOLYCUS
+4.4 :Your affairs there, what, with whom, the condition : None
+4.4 :of that fardel, the place of your dwelling, your : None
+4.4 :names, your ages, of what having, breeding, and any : None
+4.4 :thing that is fitting to be known, discover. : None
+CLOWN
+4.4 :We are but plain fellows, sir. : None
+AUTOLYCUS
+4.4 :A lie; you are rough and hairy. Let me have no : None
+4.4 :lying: it becomes none but tradesmen, and they : None
+4.4 :often give us soldiers the lie: but we pay them for : None
+4.4 :it with stamped coin, not stabbing steel; therefore : None
+4.4 :they do not give us the lie. : None
+CLOWN
+4.4 :Your worship had like to have given us one, if you : None
+4.4 :had not taken yourself with the manner. : None
+SHEPHERD
+4.4 :Are you a courtier, an't like you, sir? : None
+AUTOLYCUS
+4.4 :Whether it like me or no, I am a courtier. Seest : None
+4.4 :thou not the air of the court in these enfoldings? : None
+4.4 :hath not my gait in it the measure of the court? : None
+4.4 :receives not thy nose court-odor from me? reflect I : None
+4.4 :not on thy baseness court-contempt? Thinkest thou, : None
+4.4 :for that I insinuate, or toaze from thee thy : None
+4.4 :business, I am therefore no courtier? I am courtier : None
+4.4 :cap-a-pe; and one that will either push on or pluck : None
+4.4 :back thy business there: whereupon I command thee to : None
+4.4 :open thy affair. : None
+SHEPHERD
+4.4 :My business, sir, is to the king. : None
+AUTOLYCUS
+4.4 :What advocate hast thou to him? : None
+SHEPHERD
+4.4 :I know not, an't like you. : None
+CLOWN
+4.4 :Advocate's the court-word for a pheasant: say you : None
+4.4 :have none. : None
+SHEPHERD
+4.4 :None, sir; I have no pheasant, cock nor hen. : None
+AUTOLYCUS
+4.4 :How blessed are we that are not simple men! : None
+4.4 :Yet nature might have made me as these are, : None
+4.4 :Therefore I will not disdain. : None
+CLOWN
+4.4 :This cannot be but a great courtier. : None
+SHEPHERD
+4.4 :His garments are rich, but he wears : None
+4.4 :them not handsomely. : None
+CLOWN
+4.4 :He seems to be the more noble in being fantastical: : None
+4.4 :a great man, I'll warrant; I know by the picking : None
+4.4 :on's teeth. : None
+AUTOLYCUS
+4.4 :The fardel there? what's i' the fardel? : None
+4.4 :Wherefore that box? : None
+SHEPHERD
+4.4 :Sir, there lies such secrets in this fardel and box, : None
+4.4 :which none must know but the king; and which he : None
+4.4 :shall know within this hour, if I may come to the : None
+4.4 :speech of him. : None
+AUTOLYCUS
+4.4 :Age, thou hast lost thy labour. : None
+SHEPHERD
+4.4 :Why, sir? : None
+AUTOLYCUS
+4.4 :The king is not at the palace; he is gone aboard a : None
+4.4 :new ship to purge melancholy and air himself: for, : None
+4.4 :if thou beest capable of things serious, thou must : None
+4.4 :know the king is full of grief. : None
+SHEPARD
+4.4 :So 'tis said, sir; about his son, that should have : None
+4.4 :married a shepherd's daughter. : None
+AUTOLYCUS
+4.4 :If that shepherd be not in hand-fast, let him fly: : None
+4.4 :the curses he shall have, the tortures he shall : None
+4.4 :feel, will break the back of man, the heart of monster. : None
+CLOWN
+4.4 :Think you so, sir? : None
+AUTOLYCUS
+4.4 :Not he alone shall suffer what wit can make heavy : None
+4.4 :and vengeance bitter; but those that are germane to : None
+4.4 :him, though removed fifty times, shall all come : None
+4.4 :under the hangman: which though it be great pity, : None
+4.4 :yet it is necessary. An old sheep-whistling rogue a : None
+4.4 :ram-tender, to offer to have his daughter come into : None
+4.4 :grace! Some say he shall be stoned; but that death : None
+4.4 :is too soft for him, say I	draw our throne into a : None
+4.4 :sheep-cote! all deaths are too few, the sharpest too easy. : None
+CLOWN
+4.4 :Has the old man e'er a son, sir, do you hear. an't : None
+4.4 :like you, sir? : None
+AUTOLYCUS
+4.4 :He has a son, who shall be flayed alive; then : None
+4.4 :'nointed over with honey, set on the head of a : None
+4.4 :wasp's nest; then stand till he be three quarters : None
+4.4 :and a dram dead; then recovered again with : None
+4.4 :aqua-vitae or some other hot infusion; then, raw as : None
+4.4 :he is, and in the hottest day prognostication : None
+4.4 :proclaims, shall be be set against a brick-wall, the : None
+4.4 :sun looking with a southward eye upon him, where he : None
+4.4 :is to behold him with flies blown to death. But what : None
+4.4 :talk we of these traitorly rascals, whose miseries : None
+4.4 :are to be smiled at, their offences being so : None
+4.4 :capital? Tell me, for you seem to be honest plain : None
+4.4 :men, what you have to the king: being something : None
+4.4 :gently considered, I'll bring you where he is : None
+4.4 :aboard, tender your persons to his presence, : None
+4.4 :whisper him in your behalfs; and if it be in man : None
+4.4 :besides the king to effect your suits, here is man : None
+4.4 :shall do it. : None
+CLOWN
+4.4 :He seems to be of great authority: close with him, : None
+4.4 :give him gold; and though authority be a stubborn : None
+4.4 :bear, yet he is oft led by the nose with gold: show : None
+4.4 :the inside of your purse to the outside of his hand, : None
+4.4 :and no more ado. Remember 'stoned,' and 'flayed alive.' : None
+SHEPHERD
+4.4 :An't please you, sir, to undertake the business for : None
+4.4 :us, here is that gold I have: I'll make it as much : None
+4.4 :more and leave this young man in pawn till I bring it you. : None
+AUTOLYCUS
+4.4 :After I have done what I promised? : None
+SHEPHERD
+4.4 :Ay, sir. : None
+AUTOLYCUS
+4.4 :Well, give me the moiety. Are you a party in this business? : None
+CLOWN
+4.4 :In some sort, sir: but though my case be a pitiful : None
+4.4 :one, I hope I shall not be flayed out of it. : None
+AUTOLYCUS
+4.4 :O, that's the case of the shepherd's son: hang him, : None
+4.4 :he'll be made an example. : None
+CLOWN
+4.4 :Comfort, good comfort! We must to the king and show : None
+4.4 :our strange sights: he must know 'tis none of your : None
+4.4 :daughter nor my sister; we are gone else. Sir, I : None
+4.4 :will give you as much as this old man does when the : None
+4.4 :business is performed, and remain, as he says, your : None
+4.4 :pawn till it be brought you. : None
+AUTOLYCUS
+4.4 :I will trust you. Walk before toward the sea-side; : None
+4.4 :go on the right hand: I will but look upon the : None
+4.4 :hedge and follow you. : None
+CLOWN
+4.4 :We are blest in this man, as I may say, even blest. : None
+SHEPHERD
+4.4 :Let's before as he bids us: he was provided to do us good. : None
+Exeunt Shepherd and Clown : ["Exeunt - ['SHEPHERD', 'CLOWN']"] : SHEPHERD
+AUTOLYCUS
+4.4 :If I had a mind to be honest, I see Fortune would : None
+4.4 :not suffer me: she drops booties in my mouth. I am : None
+4.4 :courted now with a double occasion, gold and a means : None
+4.4 :to do the prince my master good; which who knows how : None
+4.4 :that may turn back to my advancement? I will bring : None
+4.4 :these two moles, these blind ones, aboard him: if he : None
+4.4 :think it fit to shore them again and that the : None
+4.4 :complaint they have to the king concerns him : None
+4.4 :nothing, let him call me rogue for being so far : None
+4.4 :officious; for I am proof against that title and : None
+4.4 :what shame else belongs to't. To him will I present : None
+4.4 :them: there may be matter in it. : None
+Exit : ['Exit - []'] : AUTOLYCUS
+Act(act=5)
+Scene(scene=1)
+Enter LEONTES, CLEOMENES, DION, PAULINA, and Servants : ["Enter - ['LEONTES', 'CLEOMENES', 'DION', 'PAULINA', 'SERVANT']"] : AUTOLYCUS
+CLEOMENES
+5.1 :Sir, you have done enough, and have perform'd : None
+5.1 :A saint-like sorrow: no fault could you make, : None
+5.1 :Which you have not redeem'd; indeed, paid down : None
+5.1 :More penitence than done trespass: at the last, : None
+5.1 :Do as the heavens have done, forget your evil; : None
+5.1 :With them forgive yourself. : None
+LEONTES
+5.1 :Whilst I remember : None
+5.1 :Her and her virtues, I cannot forget : None
+5.1 :My blemishes in them, and so still think of : None
+5.1 :The wrong I did myself; which was so much, : None
+5.1 :That heirless it hath made my kingdom and : None
+5.1 :Destroy'd the sweet'st companion that e'er man : None
+5.1 :Bred his hopes out of. : None
+PAULINA
+5.1 :True, too true, my lord: : None
+5.1 :If, one by one, you wedded all the world, : None
+5.1 :Or from the all that are took something good, : None
+5.1 :To make a perfect woman, she you kill'd : None
+5.1 :Would be unparallel'd. : None
+LEONTES
+5.1 :I think so. Kill'd! : None
+5.1 :She I kill'd! I did so: but thou strikest me : None
+5.1 :Sorely, to say I did; it is as bitter : None
+5.1 :Upon thy tongue as in my thought: now, good now, : None
+5.1 :Say so but seldom. : None
+CLEOMENES
+5.1 :                  Not at all, good lady: : None
+5.1 :You might have spoken a thousand things that would : None
+5.1 :Have done the time more benefit and graced : None
+5.1 :Your kindness better. : None
+PAULINA
+5.1 :You are one of those : None
+5.1 :Would have him wed again. : None
+DION
+5.1 :If you would not so, : None
+5.1 :You pity not the state, nor the remembrance : None
+5.1 :Of his most sovereign name; consider little : None
+5.1 :What dangers, by his highness' fail of issue, : None
+5.1 :May drop upon his kingdom and devour : None
+5.1 :Incertain lookers on. What were more holy : None
+5.1 :Than to rejoice the former queen is well? : None
+5.1 :What holier than, for royalty's repair, : None
+5.1 :For present comfort and for future good, : None
+5.1 :To bless the bed of majesty again : None
+5.1 :With a sweet fellow to't? : None
+PAULINA
+5.1 :There is none worthy, : None
+5.1 :Respecting her that's gone. Besides, the gods : None
+5.1 :Will have fulfill'd their secret purposes; : None
+5.1 :For has not the divine Apollo said, : None
+5.1 :Is't not the tenor of his oracle, : None
+5.1 :That King Leontes shall not have an heir : None
+5.1 :Till his lost child be found? which that it shall, : None
+5.1 :Is all as monstrous to our human reason : None
+5.1 :As my Antigonus to break his grave : None
+5.1 :And come again to me; who, on my life, : None
+5.1 :Did perish with the infant. 'Tis your counsel : None
+5.1 :My lord should to the heavens be contrary, : None
+5.1 :Oppose against their wills. : None
+To LEONTES : ["To - ['LEONTES']"] : PAULINA
+5.1 :Care not for issue; : None
+5.1 :The crown will find an heir: great Alexander : None
+5.1 :Left his to the worthiest; so his successor : None
+5.1 :Was like to be the best. : None
+LEONTES
+5.1 :Good Paulina, : None
+5.1 :Who hast the memory of Hermione, : None
+5.1 :I know, in honour, O, that ever I : None
+5.1 :Had squared me to thy counsel! then, even now, : None
+5.1 :I might have look'd upon my queen's full eyes, : None
+5.1 :Have taken treasure from her lips-- : None
+PAULINA
+5.1 :And left them : None
+5.1 :More rich for what they yielded. : None
+LEONTES
+5.1 :Thou speak'st truth. : None
+5.1 :No more such wives; therefore, no wife: one worse, : None
+5.1 :And better used, would make her sainted spirit : None
+5.1 :Again possess her corpse, and on this stage, : None
+5.1 :Where we're offenders now, appear soul-vex'd, : None
+5.1 :And begin, 'Why to me?' : None
+PAULINA
+5.1 :Had she such power, : None
+5.1 :She had just cause. : None
+LEONTES
+5.1 :She had; and would incense me : None
+5.1 :To murder her I married. : None
+PAULINA
+5.1 :I should so. : None
+5.1 :Were I the ghost that walk'd, I'ld bid you mark : None
+5.1 :Her eye, and tell me for what dull part in't : None
+5.1 :You chose her; then I'ld shriek, that even your ears : None
+5.1 :Should rift to hear me; and the words that follow'd : None
+5.1 :Should be 'Remember mine.' : None
+LEONTES
+5.1 :Stars, stars, : None
+5.1 :And all eyes else dead coals! Fear thou no wife; : None
+5.1 :I'll have no wife, Paulina. : None
+PAULINA
+5.1 :Will you swear : None
+5.1 :Never to marry but by my free leave? : None
+LEONTES
+5.1 :Never, Paulina; so be blest my spirit! : None
+PAULINA
+5.1 :Then, good my lords, bear witness to his oath. : None
+CLEOMENES
+5.1 :You tempt him over-much. : None
+PAULINA
+5.1 :Unless another, : None
+5.1 :As like Hermione as is her picture, : None
+5.1 :Affront his eye. : None
+CLEOMENES
+5.1 :                  Good madam,-- : None
+PAULINA
+5.1 :I have done. : None
+5.1 :Yet, if my lord will marry,--if you will, sir, : None
+5.1 :No remedy, but you will,--give me the office : None
+5.1 :To choose you a queen: she shall not be so young : None
+5.1 :As was your former; but she shall be such : None
+5.1 :As, walk'd your first queen's ghost, : None
+5.1 :it should take joy : None
+5.1 :To see her in your arms. : None
+LEONTES
+5.1 :My true Paulina, : None
+5.1 :We shall not marry till thou bid'st us. : None
+PAULINA
+5.1 :That : None
+5.1 :Shall be when your first queen's again in breath; : None
+5.1 :Never till then. : None
+Enter a Gentleman : ["Enter - ['GENTLEMAN']"] : PAULINA
+GENTLEMAN
+5.1 :One that gives out himself Prince Florizel, : None
+5.1 :Son of Polixenes, with his princess, she : None
+5.1 :The fairest I have yet beheld, desires access : None
+5.1 :To your high presence. : None
+LEONTES
+5.1 :What with him? he comes not : None
+5.1 :Like to his father's greatness: his approach, : None
+5.1 :So out of circumstance and sudden, tells us : None
+5.1 :'Tis not a visitation framed, but forced : None
+5.1 :By need and accident. What train? : None
+GENTLEMAN
+5.1 :But few, : None
+5.1 :And those but mean. : None
+LEONTES
+5.1 :His princess, say you, with him? : None
+GENTLEMAN
+5.1 :Ay, the most peerless piece of earth, I think, : None
+5.1 :That e'er the sun shone bright on. : None
+PAULINA
+5.1 :O Hermione, : None
+5.1 :As every present time doth boast itself : None
+5.1 :Above a better gone, so must thy grave : None
+5.1 :Give way to what's seen now! Sir, you yourself : None
+5.1 :Have said and writ so, but your writing now : None
+5.1 :Is colder than that theme, 'She had not been, : None
+5.1 :Nor was not to be equall'd;'--thus your verse : None
+5.1 :Flow'd with her beauty once: 'tis shrewdly ebb'd, : None
+5.1 :To say you have seen a better. : None
+GENTLEMAN
+5.1 :Pardon, madam: : None
+5.1 :The one I have almost forgot,--your pardon,-- : None
+5.1 :The other, when she has obtain'd your eye, : None
+5.1 :Will have your tongue too. This is a creature, : None
+5.1 :Would she begin a sect, might quench the zeal : None
+5.1 :Of all professors else, make proselytes : None
+5.1 :Of who she but bid follow. : None
+PAULINA
+5.1 :How! not women? : None
+GENTLEMAN
+5.1 :Women will love her, that she is a woman : None
+5.1 :More worth than any man; men, that she is : None
+5.1 :The rarest of all women. : None
+LEONTES
+5.1 :Go, Cleomenes; : None
+5.1 :Yourself, assisted with your honour'd friends, : None
+5.1 :Bring them to our embracement. Still, 'tis strange : None
+Exeunt CLEOMENES and others : ["Exeunt - ['CLEOMENES']"] : LEONTES
+5.1 :He thus should steal upon us. : None
+PAULINA
+5.1 :Had our prince, : None
+5.1 :Jewel of children, seen this hour, he had pair'd : None
+5.1 :Well with this lord: there was not full a month : None
+5.1 :Between their births. : None
+LEONTES
+5.1 :Prithee, no more; cease; thou know'st : None
+5.1 :He dies to me again when talk'd of: sure, : None
+5.1 :When I shall see this gentleman, thy speeches : None
+5.1 :Will bring me to consider that which may : None
+5.1 :Unfurnish me of reason. They are come. : None
+Re-enter CLEOMENES and others, with FLORIZEL and PERDITA : ["Re-enter - ['CLEOMENES', 'FLORIZEL', 'PERDITA']"] : LEONTES
+5.1 :Your mother was most true to wedlock, prince; : None
+5.1 :For she did print your royal father off, : None
+5.1 :Conceiving you: were I but twenty-one, : None
+5.1 :Your father's image is so hit in you, : None
+5.1 :His very air, that I should call you brother, : None
+5.1 :As I did him, and speak of something wildly : None
+5.1 :By us perform'd before. Most dearly welcome! : None
+5.1 :And your fair princess,--goddess!--O, alas! : None
+5.1 :I lost a couple, that 'twixt heaven and earth : None
+5.1 :Might thus have stood begetting wonder as : None
+5.1 :You, gracious couple, do: and then I lost-- : None
+5.1 :All mine own folly--the society, : None
+5.1 :Amity too, of your brave father, whom, : None
+5.1 :Though bearing misery, I desire my life : None
+5.1 :Once more to look on him. : None
+FLORIZEL
+5.1 :By his command : None
+5.1 :Have I here touch'd Sicilia and from him : None
+5.1 :Give you all greetings that a king, at friend, : None
+5.1 :Can send his brother: and, but infirmity : None
+5.1 :Which waits upon worn times hath something seized : None
+5.1 :His wish'd ability, he had himself : None
+5.1 :The lands and waters 'twixt your throne and his : None
+5.1 :Measured to look upon you; whom he loves-- : None
+5.1 :He bade me say so--more than all the sceptres : None
+5.1 :And those that bear them living. : None
+LEONTES
+5.1 :O my brother, : None
+5.1 :Good gentleman! the wrongs I have done thee stir : None
+5.1 :Afresh within me, and these thy offices, : None
+5.1 :So rarely kind, are as interpreters : None
+5.1 :Of my behind-hand slackness. Welcome hither, : None
+5.1 :As is the spring to the earth. And hath he too : None
+5.1 :Exposed this paragon to the fearful usage, : None
+5.1 :At least ungentle, of the dreadful Neptune, : None
+5.1 :To greet a man not worth her pains, much less : None
+5.1 :The adventure of her person? : None
+FLORIZEL
+5.1 :Good my lord, : None
+5.1 :She came from Libya. : None
+LEONTES
+5.1 :Where the warlike Smalus, : None
+5.1 :That noble honour'd lord, is fear'd and loved? : None
+FLORIZEL
+5.1 :Most royal sir, from thence; from him, whose daughter : None
+5.1 :His tears proclaim'd his, parting with her: thence, : None
+5.1 :A prosperous south-wind friendly, we have cross'd, : None
+5.1 :To execute the charge my father gave me : None
+5.1 :For visiting your highness: my best train : None
+5.1 :I have from your Sicilian shores dismiss'd; : None
+5.1 :Who for Bohemia bend, to signify : None
+5.1 :Not only my success in Libya, sir, : None
+5.1 :But my arrival and my wife's in safety : None
+5.1 :Here where we are. : None
+LEONTES
+5.1 :                  The blessed gods : None
+5.1 :Purge all infection from our air whilst you : None
+5.1 :Do climate here! You have a holy father, : None
+5.1 :A graceful gentleman; against whose person, : None
+5.1 :So sacred as it is, I have done sin: : None
+5.1 :For which the heavens, taking angry note, : None
+5.1 :Have left me issueless; and your father's blest, : None
+5.1 :As he from heaven merits it, with you : None
+5.1 :Worthy his goodness. What might I have been, : None
+5.1 :Might I a son and daughter now have look'd on, : None
+5.1 :Such goodly things as you! : None
+Enter a Lord : ["Enter - ['LORD']"] : LEONTES
+LORD
+5.1 :Most noble sir, : None
+5.1 :That which I shall report will bear no credit, : None
+5.1 :Were not the proof so nigh. Please you, great sir, : None
+5.1 :Bohemia greets you from himself by me; : None
+5.1 :Desires you to attach his son, who has-- : None
+5.1 :His dignity and duty both cast off-- : None
+5.1 :Fled from his father, from his hopes, and with : None
+5.1 :A shepherd's daughter. : None
+LEONTES
+5.1 :Where's Bohemia? speak. : None
+LORD
+5.1 :Here in your city; I now came from him: : None
+5.1 :I speak amazedly; and it becomes : None
+5.1 :My marvel and my message. To your court : None
+5.1 :Whiles he was hastening, in the chase, it seems, : None
+5.1 :Of this fair couple, meets he on the way : None
+5.1 :The father of this seeming lady and : None
+5.1 :Her brother, having both their country quitted : None
+5.1 :With this young prince. : None
+FLORIZEL
+5.1 :Camillo has betray'd me; : None
+5.1 :Whose honour and whose honesty till now : None
+5.1 :Endured all weathers. : None
+LORD
+5.1 :Lay't so to his charge: : None
+5.1 :He's with the king your father. : None
+LEONTES
+5.1 :Who? Camillo? : None
+LORD
+5.1 :Camillo, sir; I spake with him; who now : None
+5.1 :Has these poor men in question. Never saw I : None
+5.1 :Wretches so quake: they kneel, they kiss the earth; : None
+5.1 :Forswear themselves as often as they speak: : None
+5.1 :Bohemia stops his ears, and threatens them : None
+5.1 :With divers deaths in death. : None
+PERDITA
+5.1 :O my poor father! : None
+5.1 :The heaven sets spies upon us, will not have : None
+5.1 :Our contract celebrated. : None
+LEONTES
+5.1 :You are married? : None
+FLORIZEL
+5.1 :We are not, sir, nor are we like to be; : None
+5.1 :The stars, I see, will kiss the valleys first: : None
+5.1 :The odds for high and low's alike. : None
+LEONTES
+5.1 :My lord, : None
+5.1 :Is this the daughter of a king? : None
+FLORIZEL
+5.1 :She is, : None
+5.1 :When once she is my wife. : None
+LEONTES
+5.1 :That 'once' I see by your good father's speed : None
+5.1 :Will come on very slowly. I am sorry, : None
+5.1 :Most sorry, you have broken from his liking : None
+5.1 :Where you were tied in duty, and as sorry : None
+5.1 :Your choice is not so rich in worth as beauty, : None
+5.1 :That you might well enjoy her. : None
+FLORIZEL
+5.1 :Dear, look up: : None
+5.1 :Though Fortune, visible an enemy, : None
+5.1 :Should chase us with my father, power no jot : None
+5.1 :Hath she to change our loves. Beseech you, sir, : None
+5.1 :Remember since you owed no more to time : None
+5.1 :Than I do now: with thought of such affections, : None
+5.1 :Step forth mine advocate; at your request : None
+5.1 :My father will grant precious things as trifles. : None
+LEONTES
+5.1 :Would he do so, I'ld beg your precious mistress, : None
+5.1 :Which he counts but a trifle. : None
+PAULINA
+5.1 :Sir, my liege, : None
+5.1 :Your eye hath too much youth in't: not a month : None
+5.1 :'Fore your queen died, she was more worth such gazes : None
+5.1 :Than what you look on now. : None
+LEONTES
+5.1 :I thought of her, : None
+5.1 :Even in these looks I made. : None
+To FLORIZEL : ["To - ['FLORIZEL']"] : LEONTES
+5.1 :But your petition : None
+5.1 :Is yet unanswer'd. I will to your father: : None
+5.1 :Your honour not o'erthrown by your desires, : None
+5.1 :I am friend to them and you: upon which errand : None
+5.1 :I now go toward him; therefore follow me : None
+5.1 :And mark what way I make: come, good my lord. : None
+Exeunt : ['Exeunt - []'] : LEONTES
+Scene(scene=2)
+Enter AUTOLYCUS and a Gentleman : ["Enter - ['AUTOLYCUS', 'GENTLEMAN']"] : LEONTES
+AUTOLYCUS
+5.2 :Beseech you, sir, were you present at this relation? : None
+FIRST GENTLEMAN
+5.2 :I was by at the opening of the fardel, heard the old : None
+5.2 :shepherd deliver the manner how he found it: : None
+5.2 :whereupon, after a little amazedness, we were all : None
+5.2 :commanded out of the chamber; only this methought I : None
+5.2 :heard the shepherd say, he found the child. : None
+AUTOLYCUS
+5.2 :I would most gladly know the issue of it. : None
+FIRST GENTLEMAN
+5.2 :I make a broken delivery of the business; but the : None
+5.2 :changes I perceived in the king and Camillo were : None
+5.2 :very notes of admiration: they seemed almost, with : None
+5.2 :staring on one another, to tear the cases of their : None
+5.2 :eyes; there was speech in their dumbness, language : None
+5.2 :in their very gesture; they looked as they had heard : None
+5.2 :of a world ransomed, or one destroyed: a notable : None
+5.2 :passion of wonder appeared in them; but the wisest : None
+5.2 :beholder, that knew no more but seeing, could not : None
+5.2 :say if the importance were joy or sorrow; but in the : None
+5.2 :extremity of the one, it must needs be. : None
+Enter another Gentleman : ["Enter - ['GENTLEMAN']"] : FIRST GENTLEMAN
+5.2 :Here comes a gentleman that haply knows more. : None
+5.2 :The news, Rogero? : None
+SECOND GENTLEMAN
+5.2 :Nothing but bonfires: the oracle is fulfilled; the : None
+5.2 :king's daughter is found: such a deal of wonder is : None
+5.2 :broken out within this hour that ballad-makers : None
+5.2 :cannot be able to express it. : None
+Enter a third Gentleman : ["Enter - ['THIRD GENTLEMAN']"] : SECOND GENTLEMAN
+5.2 :Here comes the Lady Paulina's steward: he can : None
+5.2 :deliver you more. How goes it now, sir? this news : None
+5.2 :which is called true is so like an old tale, that : None
+5.2 :the verity of it is in strong suspicion: has the king : None
+5.2 :found his heir? : None
+THIRD GENTLEMAN
+5.2 :Most true, if ever truth were pregnant by : None
+5.2 :circumstance: that which you hear you'll swear you : None
+5.2 :see, there is such unity in the proofs. The mantle : None
+5.2 :of Queen Hermione's, her jewel about the neck of it, : None
+5.2 :the letters of Antigonus found with it which they : None
+5.2 :know to be his character, the majesty of the : None
+5.2 :creature in resemblance of the mother, the affection : None
+5.2 :of nobleness which nature shows above her breeding, : None
+5.2 :and many other evidences proclaim her with all : None
+5.2 :certainty to be the king's daughter. Did you see : None
+5.2 :the meeting of the two kings? : None
+SECOND GENTLEMAN
+5.2 :No. : None
+THIRD GENTLEMAN
+5.2 :Then have you lost a sight, which was to be seen, : None
+5.2 :cannot be spoken of. There might you have beheld one : None
+5.2 :joy crown another, so and in such manner that it : None
+5.2 :seemed sorrow wept to take leave of them, for their : None
+5.2 :joy waded in tears. There was casting up of eyes, : None
+5.2 :holding up of hands, with countenances of such : None
+5.2 :distraction that they were to be known by garment, : None
+5.2 :not by favour. Our king, being ready to leap out of : None
+5.2 :himself for joy of his found daughter, as if that : None
+5.2 :joy were now become a loss, cries 'O, thy mother, : None
+5.2 :thy mother!' then asks Bohemia forgiveness; then : None
+5.2 :embraces his son-in-law; then again worries he his : None
+5.2 :daughter with clipping her; now he thanks the old : None
+5.2 :shepherd, which stands by like a weather-bitten : None
+5.2 :conduit of many kings' reigns. I never heard of such : None
+5.2 :another encounter, which lames report to follow it : None
+5.2 :and undoes description to do it. : None
+SECOND GENTLEMAN
+5.2 :What, pray you, became of Antigonus, that carried : None
+5.2 :hence the child? : None
+THIRD GENTLEMAN
+5.2 :Like an old tale still, which will have matter to : None
+5.2 :rehearse, though credit be asleep and not an ear : None
+5.2 :open. He was torn to pieces with a bear: this : None
+5.2 :avouches the shepherd's son; who has not only his : None
+5.2 :innocence, which seems much, to justify him, but a : None
+5.2 :handkerchief and rings of his that Paulina knows. : None
+FIRST GENTLEMAN
+5.2 :What became of his bark and his followers? : None
+THIRD GENTLEMAN
+5.2 :Wrecked the same instant of their master's death and : None
+5.2 :in the view of the shepherd: so that all the : None
+5.2 :instruments which aided to expose the child were : None
+5.2 :even then lost when it was found. But O, the noble : None
+5.2 :combat that 'twixt joy and sorrow was fought in : None
+5.2 :Paulina! She had one eye declined for the loss of : None
+5.2 :her husband, another elevated that the oracle was : None
+5.2 :fulfilled: she lifted the princess from the earth, : None
+5.2 :and so locks her in embracing, as if she would pin : None
+5.2 :her to her heart that she might no more be in danger : None
+5.2 :of losing. : None
+FIRST GENTLEMAN
+5.2 :The dignity of this act was worth the audience of : None
+5.2 :kings and princes; for by such was it acted. : None
+THIRD GENTLEMAN
+5.2 :One of the prettiest touches of all and that which : None
+5.2 :angled for mine eyes, caught the water though not : None
+5.2 :the fish, was when, at the relation of the queen's : None
+5.2 :death, with the manner how she came to't bravely : None
+5.2 :confessed and lamented by the king, how : None
+5.2 :attentiveness wounded his daughter; till, from one : None
+5.2 :sign of dolour to another, she did, with an 'Alas,' : None
+5.2 :I would fain say, bleed tears, for I am sure my : None
+5.2 :heart wept blood. Who was most marble there changed : None
+5.2 :colour; some swooned, all sorrowed: if all the world : None
+5.2 :could have seen 't, the woe had been universal. : None
+FIRST GENTLEMAN
+5.2 :Are they returned to the court? : None
+THIRD GENTLEMAN
+5.2 :No: the princess hearing of her mother's statue, : None
+5.2 :which is in the keeping of Paulina,--a piece many : None
+5.2 :years in doing and now newly performed by that rare : None
+5.2 :Italian master, Julio Romano, who, had he himself : None
+5.2 :eternity and could put breath into his work, would : None
+5.2 :beguile Nature of her custom, so perfectly he is her : None
+5.2 :ape: he so near to Hermione hath done Hermione that : None
+5.2 :they say one would speak to her and stand in hope of : None
+5.2 :answer: thither with all greediness of affection : None
+5.2 :are they gone, and there they intend to sup. : None
+SECOND GENTLEMAN
+5.2 :I thought she had some great matter there in hand; : None
+5.2 :for she hath privately twice or thrice a day, ever : None
+5.2 :since the death of Hermione, visited that removed : None
+5.2 :house. Shall we thither and with our company piece : None
+5.2 :the rejoicing? : None
+FIRST GENTLEMAN
+5.2 :Who would be thence that has the benefit of access? : None
+5.2 :every wink of an eye some new grace will be born: : None
+5.2 :our absence makes us unthrifty to our knowledge. : None
+5.2 :Let's along. : None
+Exeunt Gentlemen : ['Exeunt - []'] : FIRST GENTLEMAN
+AUTOLYCUS
+5.2 :Now, had I not the dash of my former life in me, : None
+5.2 :would preferment drop on my head. I brought the old : None
+5.2 :man and his son aboard the prince: told him I heard : None
+5.2 :them talk of a fardel and I know not what: but he : None
+5.2 :at that time, overfond of the shepherd's daughter, : None
+5.2 :so he then took her to be, who began to be much : None
+5.2 :sea-sick, and himself little better, extremity of : None
+5.2 :weather continuing, this mystery remained : None
+5.2 :undiscovered. But 'tis all one to me; for had I : None
+5.2 :been the finder out of this secret, it would not : None
+5.2 :have relished among my other discredits. : None
+Enter Shepherd and Clown : ["Enter - ['SHEPHERD', 'CLOWN']"] : AUTOLYCUS
+5.2 :Here come those I have done good to against my will, : None
+5.2 :and already appearing in the blossoms of their fortune. : None
+SHEPHERD
+5.2 :Come, boy; I am past moe children, but thy sons and : None
+5.2 :daughters will be all gentlemen born. : None
+CLOWN
+5.2 :You are well met, sir. You denied to fight with me : None
+5.2 :this other day, because I was no gentleman born. : None
+5.2 :See you these clothes? say you see them not and : None
+5.2 :think me still no gentleman born: you were best say : None
+5.2 :these robes are not gentlemen born: give me the : None
+5.2 :lie, do, and try whether I am not now a gentleman born. : None
+AUTOLYCUS
+5.2 :I know you are now, sir, a gentleman born. : None
+CLOWN
+5.2 :Ay, and have been so any time these four hours. : None
+SHEPHERD
+5.2 :And so have I, boy. : None
+CLOWN
+5.2 :So you have: but I was a gentleman born before my : None
+5.2 :father; for the king's son took me by the hand, and : None
+5.2 :called me brother; and then the two kings called my : None
+5.2 :father brother; and then the prince my brother and : None
+5.2 :the princess my sister called my father father; and : None
+5.2 :so we wept, and there was the first gentleman-like : None
+5.2 :tears that ever we shed. : None
+SHEPHERD
+5.2 :We may live, son, to shed many more. : None
+CLOWN
+5.2 :Ay; or else 'twere hard luck, being in so : None
+5.2 :preposterous estate as we are. : None
+AUTOLYCUS
+5.2 :I humbly beseech you, sir, to pardon me all the : None
+5.2 :faults I have committed to your worship and to give : None
+5.2 :me your good report to the prince my master. : None
+SHEPHERD
+5.2 :Prithee, son, do; for we must be gentle, now we are : None
+5.2 :gentlemen. : None
+CLOWN
+5.2 :Thou wilt amend thy life? : None
+AUTOLYCUS
+5.2 :Ay, an it like your good worship. : None
+CLOWN
+5.2 :Give me thy hand: I will swear to the prince thou : None
+5.2 :art as honest a true fellow as any is in Bohemia. : None
+SHEPHERD
+5.2 :You may say it, but not swear it. : None
+CLOWN
+5.2 :Not swear it, now I am a gentleman? Let boors and : None
+5.2 :franklins say it, I'll swear it. : None
+SHEPHERD
+5.2 :How if it be false, son? : None
+CLOWN
+5.2 :If it be ne'er so false, a true gentleman may swear : None
+5.2 :it in the behalf of his friend: and I'll swear to : None
+5.2 :the prince thou art a tall fellow of thy hands and : None
+5.2 :that thou wilt not be drunk; but I know thou art no : None
+5.2 :tall fellow of thy hands and that thou wilt be : None
+5.2 :drunk: but I'll swear it, and I would thou wouldst : None
+5.2 :be a tall fellow of thy hands. : None
+AUTOLYCUS
+5.2 :I will prove so, sir, to my power. : None
+CLOWN
+5.2 :Ay, by any means prove a tall fellow: if I do not : None
+5.2 :wonder how thou darest venture to be drunk, not : None
+5.2 :being a tall fellow, trust me not. Hark! the kings : None
+5.2 :and the princes, our kindred, are going to see the : None
+5.2 :queen's picture. Come, follow us: we'll be thy : None
+5.2 :good masters. : None
+Exeunt : ['Exeunt - []'] : CLOWN
+Scene(scene=3)
+Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, Lords, and Attendants : ["Enter - ['LEONTES', 'POLIXENES', 'FLORIZEL', 'PERDITA', 'CAMILLO', 'PAULINA', 'LORDS']"] : CLOWN
+LEONTES
+5.3 :O grave and good Paulina, the great comfort : None
+5.3 :That I have had of thee! : None
+PAULINA
+5.3 :What, sovereign sir, : None
+5.3 :I did not well I meant well. All my services : None
+5.3 :You have paid home: but that you have vouchsafed, : None
+5.3 :With your crown'd brother and these your contracted : None
+5.3 :Heirs of your kingdoms, my poor house to visit, : None
+5.3 :It is a surplus of your grace, which never : None
+5.3 :My life may last to answer. : None
+LEONTES
+5.3 :O Paulina, : None
+5.3 :We honour you with trouble: but we came : None
+5.3 :To see the statue of our queen: your gallery : None
+5.3 :Have we pass'd through, not without much content : None
+5.3 :In many singularities; but we saw not : None
+5.3 :That which my daughter came to look upon, : None
+5.3 :The statue of her mother. : None
+PAULINA
+5.3 :As she lived peerless, : None
+5.3 :So her dead likeness, I do well believe, : None
+5.3 :Excels whatever yet you look'd upon : None
+5.3 :Or hand of man hath done; therefore I keep it : None
+5.3 :Lonely, apart. But here it is: prepare : None
+5.3 :To see the life as lively mock'd as ever : None
+5.3 :Still sleep mock'd death: behold, and say 'tis well. : None
+PAULINA draws a curtain, and discovers HERMIONE standing like a statue : ["None - ['PAULINA', 'HERMIONE']"] : PAULINA
+5.3 :I like your silence, it the more shows off : None
+5.3 :Your wonder: but yet speak; first, you, my liege, : None
+5.3 :Comes it not something near? : None
+LEONTES
+5.3 :Her natural posture! : None
+5.3 :Chide me, dear stone, that I may say indeed : None
+5.3 :Thou art Hermione; or rather, thou art she : None
+5.3 :In thy not chiding, for she was as tender : None
+5.3 :As infancy and grace. But yet, Paulina, : None
+5.3 :Hermione was not so much wrinkled, nothing : None
+5.3 :So aged as this seems. : None
+POLIXENES
+5.3 :O, not by much. : None
+PAULINA
+5.3 :So much the more our carver's excellence; : None
+5.3 :Which lets go by some sixteen years and makes her : None
+5.3 :As she lived now. : None
+LEONTES
+5.3 :                  As now she might have done, : None
+5.3 :So much to my good comfort, as it is : None
+5.3 :Now piercing to my soul. O, thus she stood, : None
+5.3 :Even with such life of majesty, warm life, : None
+5.3 :As now it coldly stands, when first I woo'd her! : None
+5.3 :I am ashamed: does not the stone rebuke me : None
+5.3 :For being more stone than it? O royal piece, : None
+5.3 :There's magic in thy majesty, which has : None
+5.3 :My evils conjured to remembrance and : None
+5.3 :From thy admiring daughter took the spirits, : None
+5.3 :Standing like stone with thee. : None
+PERDITA
+5.3 :And give me leave, : None
+5.3 :And do not say 'tis superstition, that : None
+5.3 :I kneel and then implore her blessing. Lady, : None
+5.3 :Dear queen, that ended when I but began, : None
+5.3 :Give me that hand of yours to kiss. : None
+PAULINA
+5.3 :O, patience! : None
+5.3 :The statue is but newly fix'd, the colour's Not dry. : None
+CAMILLO
+5.3 :My lord, your sorrow was too sore laid on, : None
+5.3 :Which sixteen winters cannot blow away, : None
+5.3 :So many summers dry; scarce any joy : None
+5.3 :Did ever so long live; no sorrow : None
+5.3 :But kill'd itself much sooner. : None
+POLIXENES
+5.3 :Dear my brother, : None
+5.3 :Let him that was the cause of this have power : None
+5.3 :To take off so much grief from you as he : None
+5.3 :Will piece up in himself. : None
+PAULINA
+5.3 :Indeed, my lord, : None
+5.3 :If I had thought the sight of my poor image : None
+5.3 :Would thus have wrought you,--for the stone is mine-- : None
+5.3 :I'ld not have show'd it. : None
+LEONTES
+5.3 :Do not draw the curtain. : None
+PAULINA
+5.3 :No longer shall you gaze on't, lest your fancy : None
+5.3 :May think anon it moves. : None
+LEONTES
+5.3 :Let be, let be. : None
+5.3 :Would I were dead, but that, methinks, already-- : None
+5.3 :What was he that did make it? See, my lord, : None
+5.3 :Would you not deem it breathed? and that those veins : None
+5.3 :Did verily bear blood? : None
+POLIXENES
+5.3 :Masterly done: : None
+5.3 :The very life seems warm upon her lip. : None
+LEONTES
+5.3 :The fixture of her eye has motion in't, : None
+5.3 :As we are mock'd with art. : None
+PAULINA
+5.3 :I'll draw the curtain: : None
+5.3 :My lord's almost so far transported that : None
+5.3 :He'll think anon it lives. : None
+LEONTES
+5.3 :O sweet Paulina, : None
+5.3 :Make me to think so twenty years together! : None
+5.3 :No settled senses of the world can match : None
+5.3 :The pleasure of that madness. Let 't alone. : None
+PAULINA
+5.3 :I am sorry, sir, I have thus far stirr'd you: but : None
+5.3 :I could afflict you farther. : None
+LEONTES
+5.3 :Do, Paulina; : None
+5.3 :For this affliction has a taste as sweet : None
+5.3 :As any cordial comfort. Still, methinks, : None
+5.3 :There is an air comes from her: what fine chisel : None
+5.3 :Could ever yet cut breath? Let no man mock me, : None
+5.3 :For I will kiss her. : None
+PAULINA
+5.3 :Good my lord, forbear: : None
+5.3 :The ruddiness upon her lip is wet; : None
+5.3 :You'll mar it if you kiss it, stain your own : None
+5.3 :With oily painting. Shall I draw the curtain? : None
+LEONTES
+5.3 :No, not these twenty years. : None
+PERDITA
+5.3 :So long could I : None
+5.3 :Stand by, a looker on. : None
+PAULINA
+5.3 :Either forbear, : None
+5.3 :Quit presently the chapel, or resolve you : None
+5.3 :For more amazement. If you can behold it, : None
+5.3 :I'll make the statue move indeed, descend : None
+5.3 :And take you by the hand; but then you'll think-- : None
+5.3 :Which I protest against--I am assisted : None
+5.3 :By wicked powers. : None
+LEONTES
+5.3 :                  What you can make her do, : None
+5.3 :I am content to look on: what to speak, : None
+5.3 :I am content to hear; for 'tis as easy : None
+5.3 :To make her speak as move. : None
+PAULINA
+5.3 :It is required : None
+5.3 :You do awake your faith. Then all stand still; : None
+5.3 :On: those that think it is unlawful business : None
+5.3 :I am about, let them depart. : None
+LEONTES
+5.3 :Proceed: : None
+5.3 :No foot shall stir. : None
+PAULINA
+5.3 :Music, awake her; strike! : None
+Music : ['None - []'] : PAULINA
+5.3 :'Tis time; descend; be stone no more; approach; : None
+5.3 :Strike all that look upon with marvel. Come, : None
+5.3 :I'll fill your grave up: stir, nay, come away, : None
+5.3 :Bequeath to death your numbness, for from him : None
+5.3 :Dear life redeems you. You perceive she stirs: : None
+HERMIONE comes down : ["None - ['HERMIONE']"] : PAULINA
+5.3 :Start not; her actions shall be holy as : None
+5.3 :You hear my spell is lawful: do not shun her : None
+5.3 :Until you see her die again; for then : None
+5.3 :You kill her double. Nay, present your hand: : None
+5.3 :When she was young you woo'd her; now in age : None
+5.3 :Is she become the suitor? : None
+LEONTES
+5.3 :O, she's warm! : None
+5.3 :If this be magic, let it be an art : None
+5.3 :Lawful as eating. : None
+POLIXENES
+5.3 :                  She embraces him. : None
+CAMILLO
+5.3 :She hangs about his neck: : None
+5.3 :If she pertain to life let her speak too. : None
+POLIXENES
+5.3 :Ay, and make't manifest where she has lived, : None
+5.3 :Or how stolen from the dead. : None
+PAULINA
+5.3 :That she is living, : None
+5.3 :Were it but told you, should be hooted at : None
+5.3 :Like an old tale: but it appears she lives, : None
+5.3 :Though yet she speak not. Mark a little while. : None
+5.3 :Please you to interpose, fair madam: kneel : None
+5.3 :And pray your mother's blessing. Turn, good lady; : None
+5.3 :Our Perdita is found. : None
+HERMIONE
+5.3 :You gods, look down : None
+5.3 :And from your sacred vials pour your graces : None
+5.3 :Upon my daughter's head! Tell me, mine own. : None
+5.3 :Where hast thou been preserved? where lived? how found : None
+5.3 :Thy father's court? for thou shalt hear that I, : None
+5.3 :Knowing by Paulina that the oracle : None
+5.3 :Gave hope thou wast in being, have preserved : None
+5.3 :Myself to see the issue. : None
+PAULINA
+5.3 :There's time enough for that; : None
+5.3 :Lest they desire upon this push to trouble : None
+5.3 :Your joys with like relation. Go together, : None
+5.3 :You precious winners all; your exultation : None
+5.3 :Partake to every one. I, an old turtle, : None
+5.3 :Will wing me to some wither'd bough and there : None
+5.3 :My mate, that's never to be found again, : None
+5.3 :Lament till I am lost. : None
+LEONTES
+5.3 :O, peace, Paulina! : None
+5.3 :Thou shouldst a husband take by my consent, : None
+5.3 :As I by thine a wife: this is a match, : None
+5.3 :And made between's by vows. Thou hast found mine; : None
+5.3 :But how, is to be question'd; for I saw her, : None
+5.3 :As I thought, dead, and have in vain said many : None
+5.3 :A prayer upon her grave. I'll not seek far-- : None
+5.3 :For him, I partly know his mind--to find thee : None
+5.3 :An honourable husband. Come, Camillo, : None
+5.3 :And take her by the hand, whose worth and honesty : None
+5.3 :Is richly noted and here justified : None
+5.3 :By us, a pair of kings. Let's from this place. : None
+5.3 :What! look upon my brother: both your pardons, : None
+5.3 :That e'er I put between your holy looks : None
+5.3 :My ill suspicion. This is your son-in-law, : None
+5.3 :And son unto the king, who, heavens directing, : None
+5.3 :Is troth-plight to your daughter. Good Paulina, : None
+5.3 :Lead us from hence, where we may leisurely : None
+5.3 :Each one demand an answer to his part : None
+5.3 :Perform'd in this wide gap of time since first : None
+5.3 :We were dissever'd: hastily lead away. : None
+Exeunt : ['Exeunt - []'] : LEONTES

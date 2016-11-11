@@ -1,0 +1,3043 @@
+Act(act=1)
+Scene(scene=1)
+Enter a Master and a Boatswain : ["Enter - ['MASTER', 'BOATSWAIN']"] : None
+MASTER
+1.1 :Boatswain! : None
+BOATSWAIN
+1.1 :Here, master: what cheer? : None
+MASTER
+1.1 :Good, speak to the mariners: fall to't, yarely, : None
+1.1 :or we run ourselves aground: bestir, bestir. : None
+Exit : ['Exit - []'] : MASTER
+Enter Mariners : ["Enter - ['MARINERS']"] : MASTER
+BOATSWAIN
+1.1 :Heigh, my hearts! cheerly, cheerly, my hearts! : None
+1.1 :yare, yare! Take in the topsail. Tend to the : None
+1.1 :master's whistle. Blow, till thou burst thy wind, : None
+1.1 :if room enough! : None
+Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO, and others : ["Enter - ['ALONSO', 'SEBASTIAN', 'ANTONIO', 'FERDINAND', 'GONZALO']"] : BOATSWAIN
+ALONSO
+1.1 :Good boatswain, have care. Where's the master? : None
+1.1 :Play the men. : None
+BOATSWAIN
+1.1 :I pray now, keep below. : None
+ANTONIO
+1.1 :Where is the master, boatswain? : None
+BOATSWAIN
+1.1 :Do you not hear him? You mar our labour: keep your : None
+1.1 :cabins: you do assist the storm. : None
+GONZALO
+1.1 :Nay, good, be patient. : None
+BOATSWAIN
+1.1 :When the sea is. Hence! What cares these roarers : None
+1.1 :for the name of king? To cabin: silence! trouble us not. : None
+GONZALO
+1.1 :Good, yet remember whom thou hast aboard. : None
+BOATSWAIN
+1.1 :None that I more love than myself. You are a : None
+1.1 :counsellor; if you can command these elements to : None
+1.1 :silence, and work the peace of the present, we will : None
+1.1 :not hand a rope more; use your authority: if you : None
+1.1 :cannot, give thanks you have lived so long, and make : None
+1.1 :yourself ready in your cabin for the mischance of : None
+1.1 :the hour, if it so hap. Cheerly, good hearts! Out : None
+1.1 :of our way, I say. : None
+Exit : ['Exit - []'] : BOATSWAIN
+GONZALO
+1.1 :I have great comfort from this fellow: methinks he : None
+1.1 :hath no drowning mark upon him; his complexion is : None
+1.1 :perfect gallows. Stand fast, good Fate, to his : None
+1.1 :hanging: make the rope of his destiny our cable, : None
+1.1 :for our own doth little advantage. If he be not : None
+1.1 :born to be hanged, our case is miserable. : None
+Exeunt : ['Exeunt - []'] : GONZALO
+Re-enter Boatswain : ["Re-enter - ['BOATSWAIN']"] : GONZALO
+BOATSWAIN
+1.1 :Down with the topmast! yare! lower, lower! Bring : None
+1.1 :her to try with main-course. : None
+A cry within : ['None - []'] : BOATSWAIN
+1.1 :A plague upon this howling! they are louder than : None
+1.1 :the weather or our office. : None
+Re-enter SEBASTIAN, ANTONIO, and GONZALO : ["Re-enter - ['SEBASTIAN', 'ANTONIO', 'GONZALO']"] : BOATSWAIN
+1.1 :Yet again! what do you here? Shall we give o'er : None
+1.1 :and drown? Have you a mind to sink? : None
+SEBASTIAN
+1.1 :A pox o' your throat, you bawling, blasphemous, : None
+1.1 :incharitable dog! : None
+BOATSWAIN
+1.1 :Work you then. : None
+ANTONIO
+1.1 :Hang, cur! hang, you whoreson, insolent noisemaker! : None
+1.1 :We are less afraid to be drowned than thou art. : None
+GONZALO
+1.1 :I'll warrant him for drowning; though the ship were : None
+1.1 :no stronger than a nutshell and as leaky as an : None
+1.1 :unstanched wench. : None
+BOATSWAIN
+1.1 :Lay her a-hold, a-hold! set her two courses off to : None
+1.1 :sea again; lay her off. : None
+Enter Mariners wet : ["Enter - ['MARINERS']"] : BOATSWAIN
+MARINERS
+1.1 :All lost! to prayers, to prayers! all lost! : None
+BOATSWAIN
+1.1 :What, must our mouths be cold? : None
+GONZALO
+1.1 :The king and prince at prayers! let's assist them, : None
+1.1 :For our case is as theirs. : None
+SEBASTIAN
+1.1 :I'm out of patience. : None
+ANTONIO
+1.1 :We are merely cheated of our lives by drunkards: : None
+1.1 :This wide-chapp'd rascal--would thou mightst lie drowning : None
+1.1 :The washing of ten tides! : None
+GONZALO
+1.1 :He'll be hang'd yet, : None
+1.1 :Though every drop of water swear against it : None
+1.1 :And gape at widest to glut him. : None
+A confused noise within:   'Mercy on us!'--  'We split, we split!'--'Farewell, my wife and  children!'-- 'Farewell, brother!'--'We split, we split, we split!' : ['None - []'] : GONZALO
+ANTONIO
+1.1 :Let's all sink with the king. : None
+SEBASTIAN
+1.1 :Let's take leave of him. : None
+Exeunt ANTONIO and SEBASTIAN : ["Exeunt - ['ANTONIO', 'SEBASTIAN']"] : SEBASTIAN
+GONZALO
+1.1 :Now would I give a thousand furlongs of sea for an : None
+1.1 :acre of barren ground, long heath, brown furze, any : None
+1.1 :thing. The wills above be done! but I would fain : None
+1.1 :die a dry death. : None
+Exeunt : ['Exeunt - []'] : GONZALO
+Scene(scene=2)
+Enter PROSPERO and MIRANDA : ["Enter - ['PROSPERO', 'MIRANDA']"] : GONZALO
+MIRANDA
+1.2 :If by your art, my dearest father, you have : None
+1.2 :Put the wild waters in this roar, allay them. : None
+1.2 :The sky, it seems, would pour down stinking pitch, : None
+1.2 :But that the sea, mounting to the welkin's cheek, : None
+1.2 :Dashes the fire out. O, I have suffered : None
+1.2 :With those that I saw suffer: a brave vessel, : None
+1.2 :Who had, no doubt, some noble creature in her, : None
+1.2 :Dash'd all to pieces. O, the cry did knock : None
+1.2 :Against my very heart. Poor souls, they perish'd. : None
+1.2 :Had I been any god of power, I would : None
+1.2 :Have sunk the sea within the earth or ere : None
+1.2 :It should the good ship so have swallow'd and : None
+1.2 :The fraughting souls within her. : None
+PROSPERO
+1.2 :Be collected: : None
+1.2 :No more amazement: tell your piteous heart : None
+1.2 :There's no harm done. : None
+MIRANDA
+1.2 :O, woe the day! : None
+PROSPERO
+1.2 :No harm. : None
+1.2 :I have done nothing but in care of thee, : None
+1.2 :Of thee, my dear one, thee, my daughter, who : None
+1.2 :Art ignorant of what thou art, nought knowing : None
+1.2 :Of whence I am, nor that I am more better : None
+1.2 :Than Prospero, master of a full poor cell, : None
+1.2 :And thy no greater father. : None
+MIRANDA
+1.2 :More to know : None
+1.2 :Did never meddle with my thoughts. : None
+PROSPERO
+1.2 :'Tis time : None
+1.2 :I should inform thee farther. Lend thy hand, : None
+1.2 :And pluck my magic garment from me. So: : None
+Lays down his mantle : ['None - []'] : PROSPERO
+1.2 :Lie there, my art. Wipe thou thine eyes; have comfort. : None
+1.2 :The direful spectacle of the wreck, which touch'd : None
+1.2 :The very virtue of compassion in thee, : None
+1.2 :I have with such provision in mine art : None
+1.2 :So safely ordered that there is no soul-- : None
+1.2 :No, not so much perdition as an hair : None
+1.2 :Betid to any creature in the vessel : None
+1.2 :Which thou heard'st cry, which thou saw'st sink. Sit down; : None
+1.2 :For thou must now know farther. : None
+MIRANDA
+1.2 :You have often : None
+1.2 :Begun to tell me what I am, but stopp'd : None
+1.2 :And left me to a bootless inquisition, : None
+1.2 :Concluding 'Stay: not yet.' : None
+PROSPERO
+1.2 :The hour's now come; : None
+1.2 :The very minute bids thee ope thine ear; : None
+1.2 :Obey and be attentive. Canst thou remember : None
+1.2 :A time before we came unto this cell? : None
+1.2 :I do not think thou canst, for then thou wast not : None
+1.2 :Out three years old. : None
+MIRANDA
+1.2 :Certainly, sir, I can. : None
+PROSPERO
+1.2 :By what? by any other house or person? : None
+1.2 :Of any thing the image tell me that : None
+1.2 :Hath kept with thy remembrance. : None
+MIRANDA
+1.2 :'Tis far off : None
+1.2 :And rather like a dream than an assurance : None
+1.2 :That my remembrance warrants. Had I not : None
+1.2 :Four or five women once that tended me? : None
+PROSPERO
+1.2 :Thou hadst, and more, Miranda. But how is it : None
+1.2 :That this lives in thy mind? What seest thou else : None
+1.2 :In the dark backward and abysm of time? : None
+1.2 :If thou remember'st aught ere thou camest here, : None
+1.2 :How thou camest here thou mayst. : None
+MIRANDA
+1.2 :But that I do not. : None
+PROSPERO
+1.2 :Twelve year since, Miranda, twelve year since, : None
+1.2 :Thy father was the Duke of Milan and : None
+1.2 :A prince of power. : None
+MIRANDA
+1.2 :                  Sir, are not you my father? : None
+PROSPERO
+1.2 :Thy mother was a piece of virtue, and : None
+1.2 :She said thou wast my daughter; and thy father : None
+1.2 :Was Duke of Milan; and thou his only heir : None
+1.2 :And princess no worse issued. : None
+MIRANDA
+1.2 :O the heavens! : None
+1.2 :What foul play had we, that we came from thence? : None
+1.2 :Or blessed was't we did? : None
+PROSPERO
+1.2 :Both, both, my girl: : None
+1.2 :By foul play, as thou say'st, were we heaved thence, : None
+1.2 :But blessedly holp hither. : None
+MIRANDA
+1.2 :O, my heart bleeds : None
+1.2 :To think o' the teen that I have turn'd you to, : None
+1.2 :Which is from my remembrance! Please you, farther. : None
+PROSPERO
+1.2 :My brother and thy uncle, call'd Antonio-- : None
+1.2 :I pray thee, mark me--that a brother should : None
+1.2 :Be so perfidious!--he whom next thyself : None
+1.2 :Of all the world I loved and to him put : None
+1.2 :The manage of my state; as at that time : None
+1.2 :Through all the signories it was the first : None
+1.2 :And Prospero the prime duke, being so reputed : None
+1.2 :In dignity, and for the liberal arts : None
+1.2 :Without a parallel; those being all my study, : None
+1.2 :The government I cast upon my brother : None
+1.2 :And to my state grew stranger, being transported : None
+1.2 :And rapt in secret studies. Thy false uncle-- : None
+1.2 :Dost thou attend me? : None
+MIRANDA
+1.2 :Sir, most heedfully. : None
+PROSPERO
+1.2 :Being once perfected how to grant suits, : None
+1.2 :How to deny them, who to advance and who : None
+1.2 :To trash for over-topping, new created : None
+1.2 :The creatures that were mine, I say, or changed 'em, : None
+1.2 :Or else new form'd 'em; having both the key : None
+1.2 :Of officer and office, set all hearts i' the state : None
+1.2 :To what tune pleased his ear; that now he was : None
+1.2 :The ivy which had hid my princely trunk, : None
+1.2 :And suck'd my verdure out on't. Thou attend'st not. : None
+MIRANDA
+1.2 :O, good sir, I do. : None
+PROSPERO
+1.2 :                  I pray thee, mark me. : None
+1.2 :I, thus neglecting worldly ends, all dedicated : None
+1.2 :To closeness and the bettering of my mind : None
+1.2 :With that which, but by being so retired, : None
+1.2 :O'er-prized all popular rate, in my false brother : None
+1.2 :Awaked an evil nature; and my trust, : None
+1.2 :Like a good parent, did beget of him : None
+1.2 :A falsehood in its contrary as great : None
+1.2 :As my trust was; which had indeed no limit, : None
+1.2 :A confidence sans bound. He being thus lorded, : None
+1.2 :Not only with what my revenue yielded, : None
+1.2 :But what my power might else exact, like one : None
+1.2 :Who having into truth, by telling of it, : None
+1.2 :Made such a sinner of his memory, : None
+1.2 :To credit his own lie, he did believe : None
+1.2 :He was indeed the duke; out o' the substitution : None
+1.2 :And executing the outward face of royalty, : None
+1.2 :With all prerogative: hence his ambition growing-- : None
+1.2 :Dost thou hear? : None
+MIRANDA
+1.2 :                  Your tale, sir, would cure deafness. : None
+PROSPERO
+1.2 :To have no screen between this part he play'd : None
+1.2 :And him he play'd it for, he needs will be : None
+1.2 :Absolute Milan. Me, poor man, my library : None
+1.2 :Was dukedom large enough: of temporal royalties : None
+1.2 :He thinks me now incapable; confederates-- : None
+1.2 :So dry he was for sway--wi' the King of Naples : None
+1.2 :To give him annual tribute, do him homage, : None
+1.2 :Subject his coronet to his crown and bend : None
+1.2 :The dukedom yet unbow'd--alas, poor Milan!-- : None
+1.2 :To most ignoble stooping. : None
+MIRANDA
+1.2 :O the heavens! : None
+PROSPERO
+1.2 :Mark his condition and the event; then tell me : None
+1.2 :If this might be a brother. : None
+MIRANDA
+1.2 :I should sin : None
+1.2 :To think but nobly of my grandmother: : None
+1.2 :Good wombs have borne bad sons. : None
+PROSPERO
+1.2 :Now the condition. : None
+1.2 :The King of Naples, being an enemy : None
+1.2 :To me inveterate, hearkens my brother's suit; : None
+1.2 :Which was, that he, in lieu o' the premises : None
+1.2 :Of homage and I know not how much tribute, : None
+1.2 :Should presently extirpate me and mine : None
+1.2 :Out of the dukedom and confer fair Milan : None
+1.2 :With all the honours on my brother: whereon, : None
+1.2 :A treacherous army levied, one midnight : None
+1.2 :Fated to the purpose did Antonio open : None
+1.2 :The gates of Milan, and, i' the dead of darkness, : None
+1.2 :The ministers for the purpose hurried thence : None
+1.2 :Me and thy crying self. : None
+MIRANDA
+1.2 :Alack, for pity! : None
+1.2 :I, not remembering how I cried out then, : None
+1.2 :Will cry it o'er again: it is a hint : None
+1.2 :That wrings mine eyes to't. : None
+PROSPERO
+1.2 :Hear a little further : None
+1.2 :And then I'll bring thee to the present business : None
+1.2 :Which now's upon's; without the which this story : None
+1.2 :Were most impertinent. : None
+MIRANDA
+1.2 :Wherefore did they not : None
+1.2 :That hour destroy us? : None
+PROSPERO
+1.2 :Well demanded, wench: : None
+1.2 :My tale provokes that question. Dear, they durst not, : None
+1.2 :So dear the love my people bore me, nor set : None
+1.2 :A mark so bloody on the business, but : None
+1.2 :With colours fairer painted their foul ends. : None
+1.2 :In few, they hurried us aboard a bark, : None
+1.2 :Bore us some leagues to sea; where they prepared : None
+1.2 :A rotten carcass of a boat, not rigg'd, : None
+1.2 :Nor tackle, sail, nor mast; the very rats : None
+1.2 :Instinctively had quit it: there they hoist us, : None
+1.2 :To cry to the sea that roar'd to us, to sigh : None
+1.2 :To the winds whose pity, sighing back again, : None
+1.2 :Did us but loving wrong. : None
+MIRANDA
+1.2 :Alack, what trouble : None
+1.2 :Was I then to you! : None
+PROSPERO
+1.2 :                  O, a cherubim : None
+1.2 :Thou wast that did preserve me. Thou didst smile. : None
+1.2 :Infused with a fortitude from heaven, : None
+1.2 :When I have deck'd the sea with drops full salt, : None
+1.2 :Under my burthen groan'd; which raised in me : None
+1.2 :An undergoing stomach, to bear up : None
+1.2 :Against what should ensue. : None
+MIRANDA
+1.2 :How came we ashore? : None
+PROSPERO
+1.2 :By Providence divine. : None
+1.2 :Some food we had and some fresh water that : None
+1.2 :A noble Neapolitan, Gonzalo, : None
+1.2 :Out of his charity, being then appointed : None
+1.2 :Master of this design, did give us, with : None
+1.2 :Rich garments, linens, stuffs and necessaries, : None
+1.2 :Which since have steaded much; so, of his gentleness, : None
+1.2 :Knowing I loved my books, he furnish'd me : None
+1.2 :From mine own library with volumes that : None
+1.2 :I prize above my dukedom. : None
+MIRANDA
+1.2 :Would I might : None
+1.2 :But ever see that man! : None
+PROSPERO
+1.2 :Now I arise: : None
+Resumes his mantle : ['None - []'] : PROSPERO
+1.2 :Sit still, and hear the last of our sea-sorrow. : None
+1.2 :Here in this island we arrived; and here : None
+1.2 :Have I, thy schoolmaster, made thee more profit : None
+1.2 :Than other princesses can that have more time : None
+1.2 :For vainer hours and tutors not so careful. : None
+MIRANDA
+1.2 :Heavens thank you for't! And now, I pray you, sir, : None
+1.2 :For still 'tis beating in my mind, your reason : None
+1.2 :For raising this sea-storm? : None
+PROSPERO
+1.2 :Know thus far forth. : None
+1.2 :By accident most strange, bountiful Fortune, : None
+1.2 :Now my dear lady, hath mine enemies : None
+1.2 :Brought to this shore; and by my prescience : None
+1.2 :I find my zenith doth depend upon : None
+1.2 :A most auspicious star, whose influence : None
+1.2 :If now I court not but omit, my fortunes : None
+1.2 :Will ever after droop. Here cease more questions: : None
+1.2 :Thou art inclined to sleep; 'tis a good dulness, : None
+1.2 :And give it way: I know thou canst not choose. : None
+MIRANDA sleeps : ["None - ['MIRANDA']"] : PROSPERO
+1.2 :Come away, servant, come. I am ready now. : None
+1.2 :Approach, my Ariel, come. : None
+Enter ARIEL : ["Enter - ['ARIEL']"] : PROSPERO
+ARIEL
+1.2 :All hail, great master! grave sir, hail! I come : None
+1.2 :To answer thy best pleasure; be't to fly, : None
+1.2 :To swim, to dive into the fire, to ride : None
+1.2 :On the curl'd clouds, to thy strong bidding task : None
+1.2 :Ariel and all his quality. : None
+PROSPERO
+1.2 :Hast thou, spirit, : None
+1.2 :Perform'd to point the tempest that I bade thee? : None
+ARIEL
+1.2 :To every article. : None
+1.2 :I boarded the king's ship; now on the beak, : None
+1.2 :Now in the waist, the deck, in every cabin, : None
+1.2 :I flamed amazement: sometime I'ld divide, : None
+1.2 :And burn in many places; on the topmast, : None
+1.2 :The yards and bowsprit, would I flame distinctly, : None
+1.2 :Then meet and join. Jove's lightnings, the precursors : None
+1.2 :O' the dreadful thunder-claps, more momentary : None
+1.2 :And sight-outrunning were not; the fire and cracks : None
+1.2 :Of sulphurous roaring the most mighty Neptune : None
+1.2 :Seem to besiege and make his bold waves tremble, : None
+1.2 :Yea, his dread trident shake. : None
+PROSPERO
+1.2 :My brave spirit! : None
+1.2 :Who was so firm, so constant, that this coil : None
+1.2 :Would not infect his reason? : None
+ARIEL
+1.2 :Not a soul : None
+1.2 :But felt a fever of the mad and play'd : None
+1.2 :Some tricks of desperation. All but mariners : None
+1.2 :Plunged in the foaming brine and quit the vessel, : None
+1.2 :Then all afire with me: the king's son, Ferdinand, : None
+1.2 :With hair up-staring,--then like reeds, not hair,-- : None
+1.2 :Was the first man that leap'd; cried, 'Hell is empty : None
+1.2 :And all the devils are here.' : None
+PROSPERO
+1.2 :Why that's my spirit! : None
+1.2 :But was not this nigh shore? : None
+ARIEL
+1.2 :Close by, my master. : None
+PROSPERO
+1.2 :But are they, Ariel, safe? : None
+ARIEL
+1.2 :Not a hair perish'd; : None
+1.2 :On their sustaining garments not a blemish, : None
+1.2 :But fresher than before: and, as thou badest me, : None
+1.2 :In troops I have dispersed them 'bout the isle. : None
+1.2 :The king's son have I landed by himself; : None
+1.2 :Whom I left cooling of the air with sighs : None
+1.2 :In an odd angle of the isle and sitting, : None
+1.2 :His arms in this sad knot. : None
+PROSPERO
+1.2 :Of the king's ship : None
+1.2 :The mariners say how thou hast disposed : None
+1.2 :And all the rest o' the fleet. : None
+ARIEL
+1.2 :Safely in harbour : None
+1.2 :Is the king's ship; in the deep nook, where once : None
+1.2 :Thou call'dst me up at midnight to fetch dew : None
+1.2 :From the still-vex'd Bermoothes, there she's hid: : None
+1.2 :The mariners all under hatches stow'd; : None
+1.2 :Who, with a charm join'd to their suffer'd labour, : None
+1.2 :I have left asleep; and for the rest o' the fleet : None
+1.2 :Which I dispersed, they all have met again : None
+1.2 :And are upon the Mediterranean flote, : None
+1.2 :Bound sadly home for Naples, : None
+1.2 :Supposing that they saw the king's ship wreck'd : None
+1.2 :And his great person perish. : None
+PROSPERO
+1.2 :Ariel, thy charge : None
+1.2 :Exactly is perform'd: but there's more work. : None
+1.2 :What is the time o' the day? : None
+ARIEL
+1.2 :Past the mid season. : None
+PROSPERO
+1.2 :At least two glasses. The time 'twixt six and now : None
+1.2 :Must by us both be spent most preciously. : None
+ARIEL
+1.2 :Is there more toil? Since thou dost give me pains, : None
+1.2 :Let me remember thee what thou hast promised, : None
+1.2 :Which is not yet perform'd me. : None
+PROSPERO
+1.2 :How now? moody? : None
+1.2 :What is't thou canst demand? : None
+ARIEL
+1.2 :My liberty. : None
+PROSPERO
+1.2 :Before the time be out? no more! : None
+ARIEL
+1.2 :I prithee, : None
+1.2 :Remember I have done thee worthy service; : None
+1.2 :Told thee no lies, made thee no mistakings, served : None
+1.2 :Without or grudge or grumblings: thou didst promise : None
+1.2 :To bate me a full year. : None
+PROSPERO
+1.2 :Dost thou forget : None
+1.2 :From what a torment I did free thee? : None
+ARIEL
+1.2 :No. : None
+PROSPERO
+1.2 :Thou dost, and think'st it much to tread the ooze : None
+1.2 :Of the salt deep, : None
+1.2 :To run upon the sharp wind of the north, : None
+1.2 :To do me business in the veins o' the earth : None
+1.2 :When it is baked with frost. : None
+ARIEL
+1.2 :I do not, sir. : None
+PROSPERO
+1.2 :Thou liest, malignant thing! Hast thou forgot : None
+1.2 :The foul witch Sycorax, who with age and envy : None
+1.2 :Was grown into a hoop? hast thou forgot her? : None
+ARIEL
+1.2 :No, sir. : None
+PROSPERO
+1.2 :     Thou hast. Where was she born? speak; tell me. : None
+ARIEL
+1.2 :Sir, in Argier. : None
+PROSPERO
+1.2 :                  O, was she so? I must : None
+1.2 :Once in a month recount what thou hast been, : None
+1.2 :Which thou forget'st. This damn'd witch Sycorax, : None
+1.2 :For mischiefs manifold and sorceries terrible : None
+1.2 :To enter human hearing, from Argier, : None
+1.2 :Thou know'st, was banish'd: for one thing she did : None
+1.2 :They would not take her life. Is not this true? : None
+ARIEL
+1.2 :Ay, sir. : None
+PROSPERO
+1.2 :This blue-eyed hag was hither brought with child : None
+1.2 :And here was left by the sailors. Thou, my slave, : None
+1.2 :As thou report'st thyself, wast then her servant; : None
+1.2 :And, for thou wast a spirit too delicate : None
+1.2 :To act her earthy and abhorr'd commands, : None
+1.2 :Refusing her grand hests, she did confine thee, : None
+1.2 :By help of her more potent ministers : None
+1.2 :And in her most unmitigable rage, : None
+1.2 :Into a cloven pine; within which rift : None
+1.2 :Imprison'd thou didst painfully remain : None
+1.2 :A dozen years; within which space she died : None
+1.2 :And left thee there; where thou didst vent thy groans : None
+1.2 :As fast as mill-wheels strike. Then was this island-- : None
+1.2 :Save for the son that she did litter here, : None
+1.2 :A freckled whelp hag-born--not honour'd with : None
+1.2 :A human shape. : None
+ARIEL
+1.2 :                  Yes, Caliban her son. : None
+PROSPERO
+1.2 :Dull thing, I say so; he, that Caliban : None
+1.2 :Whom now I keep in service. Thou best know'st : None
+1.2 :What torment I did find thee in; thy groans : None
+1.2 :Did make wolves howl and penetrate the breasts : None
+1.2 :Of ever angry bears: it was a torment : None
+1.2 :To lay upon the damn'd, which Sycorax : None
+1.2 :Could not again undo: it was mine art, : None
+1.2 :When I arrived and heard thee, that made gape : None
+1.2 :The pine and let thee out. : None
+ARIEL
+1.2 :I thank thee, master. : None
+PROSPERO
+1.2 :If thou more murmur'st, I will rend an oak : None
+1.2 :And peg thee in his knotty entrails till : None
+1.2 :Thou hast howl'd away twelve winters. : None
+ARIEL
+1.2 :Pardon, master; : None
+1.2 :I will be correspondent to command : None
+1.2 :And do my spiriting gently. : None
+PROSPERO
+1.2 :Do so, and after two days : None
+1.2 :I will discharge thee. : None
+ARIEL
+1.2 :That's my noble master! : None
+1.2 :What shall I do? say what; what shall I do? : None
+PROSPERO
+1.2 :Go make thyself like a nymph o' the sea: be subject : None
+1.2 :To no sight but thine and mine, invisible : None
+1.2 :To every eyeball else. Go take this shape : None
+1.2 :And hither come in't: go, hence with diligence! : None
+Exit ARIEL : ["Exit - ['ARIEL']"] : PROSPERO
+1.2 :Awake, dear heart, awake! thou hast slept well; Awake! : None
+MIRANDA
+1.2 :     The strangeness of your story put : None
+1.2 :Heaviness in me. : None
+PROSPERO
+1.2 :                  Shake it off. Come on; : None
+1.2 :We'll visit Caliban my slave, who never : None
+1.2 :Yields us kind answer. : None
+MIRANDA
+1.2 :'Tis a villain, sir, : None
+1.2 :I do not love to look on. : None
+PROSPERO
+1.2 :But, as 'tis, : None
+1.2 :We cannot miss him: he does make our fire, : None
+1.2 :Fetch in our wood and serves in offices : None
+1.2 :That profit us. What, ho! slave! Caliban! : None
+1.2 :Thou earth, thou! speak. : None
+CALIBAN
+1.2 :  There's wood enough within. : Within : ['None - []'] : CALIBAN
+PROSPERO
+1.2 :Come forth, I say! there's other business for thee: : None
+1.2 :Come, thou tortoise! when? : None
+Re-enter ARIEL like a water-nymph : ["Re-enter - ['ARIEL']"] : PROSPERO
+1.2 :Fine apparition! My quaint Ariel, : None
+1.2 :Hark in thine ear. : None
+ARIEL
+1.2 :                  My lord it shall be done. : None
+Exit : ['Exit - []'] : ARIEL
+PROSPERO
+1.2 :Thou poisonous slave, got by the devil himself : None
+1.2 :Upon thy wicked dam, come forth! : None
+Enter CALIBAN : ["Enter - ['CALIBAN']"] : PROSPERO
+CALIBAN
+1.2 :As wicked dew as e'er my mother brush'd : None
+1.2 :With raven's feather from unwholesome fen : None
+1.2 :Drop on you both! a south-west blow on ye : None
+1.2 :And blister you all o'er! : None
+PROSPERO
+1.2 :For this, be sure, to-night thou shalt have cramps, : None
+1.2 :Side-stitches that shall pen thy breath up; urchins : None
+1.2 :Shall, for that vast of night that they may work, : None
+1.2 :All exercise on thee; thou shalt be pinch'd : None
+1.2 :As thick as honeycomb, each pinch more stinging : None
+1.2 :Than bees that made 'em. : None
+CALIBAN
+1.2 :I must eat my dinner. : None
+1.2 :This island's mine, by Sycorax my mother, : None
+1.2 :Which thou takest from me. When thou camest first, : None
+1.2 :Thou strokedst me and madest much of me, wouldst give me : None
+1.2 :Water with berries in't, and teach me how : None
+1.2 :To name the bigger light, and how the less, : None
+1.2 :That burn by day and night: and then I loved thee : None
+1.2 :And show'd thee all the qualities o' the isle, : None
+1.2 :The fresh springs, brine-pits, barren place and fertile: : None
+1.2 :Cursed be I that did so! All the charms : None
+1.2 :Of Sycorax, toads, beetles, bats, light on you! : None
+1.2 :For I am all the subjects that you have, : None
+1.2 :Which first was mine own king: and here you sty me : None
+1.2 :In this hard rock, whiles you do keep from me : None
+1.2 :The rest o' the island. : None
+PROSPERO
+1.2 :Thou most lying slave, : None
+1.2 :Whom stripes may move, not kindness! I have used thee, : None
+1.2 :Filth as thou art, with human care, and lodged thee : None
+1.2 :In mine own cell, till thou didst seek to violate : None
+1.2 :The honour of my child. : None
+CALIBAN
+1.2 :O ho, O ho! would't had been done! : None
+1.2 :Thou didst prevent me; I had peopled else : None
+1.2 :This isle with Calibans. : None
+PROSPERO
+1.2 :Abhorred slave, : None
+1.2 :Which any print of goodness wilt not take, : None
+1.2 :Being capable of all ill! I pitied thee, : None
+1.2 :Took pains to make thee speak, taught thee each hour : None
+1.2 :One thing or other: when thou didst not, savage, : None
+1.2 :Know thine own meaning, but wouldst gabble like : None
+1.2 :A thing most brutish, I endow'd thy purposes : None
+1.2 :With words that made them known. But thy vile race, : None
+1.2 :Though thou didst learn, had that in't which : None
+1.2 :good natures : None
+1.2 :Could not abide to be with; therefore wast thou : None
+1.2 :Deservedly confined into this rock, : None
+1.2 :Who hadst deserved more than a prison. : None
+CALIBAN
+1.2 :You taught me language; and my profit on't : None
+1.2 :Is, I know how to curse. The red plague rid you : None
+1.2 :For learning me your language! : None
+PROSPERO
+1.2 :Hag-seed, hence! : None
+1.2 :Fetch us in fuel; and be quick, thou'rt best, : None
+1.2 :To answer other business. Shrug'st thou, malice? : None
+1.2 :If thou neglect'st or dost unwillingly : None
+1.2 :What I command, I'll rack thee with old cramps, : None
+1.2 :Fill all thy bones with aches, make thee roar : None
+1.2 :That beasts shall tremble at thy din. : None
+CALIBAN
+1.2 :No, pray thee. : None
+Aside : ['Aside - []'] : CALIBAN
+1.2 :I must obey: his art is of such power, : None
+1.2 :It would control my dam's god, Setebos, : None
+1.2 :and make a vassal of him. : None
+PROSPERO
+1.2 :So, slave; hence! : None
+Exit CALIBAN : ["Exit - ['CALIBAN']"] : PROSPERO
+Re-enter ARIEL, invisible, playing and singing; FERDINAND following : ["Re-enter - ['ARIEL', 'FERDINAND']"] : PROSPERO
+1.2 :ARIEL'S song. : None
+1.2 :Come unto these yellow sands, : None
+1.2 :And then take hands: : None
+1.2 :Courtsied when you have and kiss'd : None
+1.2 :The wild waves whist, : None
+1.2 :Foot it featly here and there; : None
+1.2 :And, sweet sprites, the burthen bear. : None
+1.2 :Hark, hark! : None
+Burthen [dispersedly, within : ['None - []'] : PROSPERO
+1.2 :The watch-dogs bark! : None
+Burthen Bow-wow : ['None - []'] : PROSPERO
+1.2 :Hark, hark! I hear : None
+1.2 :The strain of strutting chanticleer : None
+1.2 :Cry, Cock-a-diddle-dow. : None
+FERDINAND
+1.2 :Where should this music be? i' the air or the earth? : None
+1.2 :It sounds no more: and sure, it waits upon : None
+1.2 :Some god o' the island. Sitting on a bank, : None
+1.2 :Weeping again the king my father's wreck, : None
+1.2 :This music crept by me upon the waters, : None
+1.2 :Allaying both their fury and my passion : None
+1.2 :With its sweet air: thence I have follow'd it, : None
+1.2 :Or it hath drawn me rather. But 'tis gone. : None
+1.2 :No, it begins again. : None
+ARIEL sings : ["None - ['ARIEL']"] : FERDINAND
+1.2 :Full fathom five thy father lies; : None
+1.2 :Of his bones are coral made; : None
+1.2 :Those are pearls that were his eyes: : None
+1.2 :Nothing of him that doth fade : None
+1.2 :But doth suffer a sea-change : None
+1.2 :Into something rich and strange. : None
+1.2 :Sea-nymphs hourly ring his knell : None
+Burthen Ding-dong : ['None - []'] : FERDINAND
+1.2 :Hark! now I hear them,--Ding-dong, bell. : None
+FERDINAND
+1.2 :The ditty does remember my drown'd father. : None
+1.2 :This is no mortal business, nor no sound : None
+1.2 :That the earth owes. I hear it now above me. : None
+PROSPERO
+1.2 :The fringed curtains of thine eye advance : None
+1.2 :And say what thou seest yond. : None
+MIRANDA
+1.2 :What is't? a spirit? : None
+1.2 :Lord, how it looks about! Believe me, sir, : None
+1.2 :It carries a brave form. But 'tis a spirit. : None
+PROSPERO
+1.2 :No, wench; it eats and sleeps and hath such senses : None
+1.2 :As we have, such. This gallant which thou seest : None
+1.2 :Was in the wreck; and, but he's something stain'd : None
+1.2 :With grief that's beauty's canker, thou mightst call him : None
+1.2 :A goodly person: he hath lost his fellows : None
+1.2 :And strays about to find 'em. : None
+MIRANDA
+1.2 :I might call him : None
+1.2 :A thing divine, for nothing natural : None
+1.2 :I ever saw so noble. : None
+PROSPERO
+1.2 : It goes on, I see, : Aside : ['Aside - []'] : PROSPERO
+1.2 :As my soul prompts it. Spirit, fine spirit! I'll free thee : None
+1.2 :Within two days for this. : None
+FERDINAND
+1.2 :Most sure, the goddess : None
+1.2 :On whom these airs attend! Vouchsafe my prayer : None
+1.2 :May know if you remain upon this island; : None
+1.2 :And that you will some good instruction give : None
+1.2 :How I may bear me here: my prime request, : None
+1.2 :Which I do last pronounce, is, O you wonder! : None
+1.2 :If you be maid or no? : None
+MIRANDA
+1.2 :No wonder, sir; : None
+1.2 :But certainly a maid. : None
+FERDINAND
+1.2 :My language! heavens! : None
+1.2 :I am the best of them that speak this speech, : None
+1.2 :Were I but where 'tis spoken. : None
+PROSPERO
+1.2 :How? the best? : None
+1.2 :What wert thou, if the King of Naples heard thee? : None
+FERDINAND
+1.2 :A single thing, as I am now, that wonders : None
+1.2 :To hear thee speak of Naples. He does hear me; : None
+1.2 :And that he does I weep: myself am Naples, : None
+1.2 :Who with mine eyes, never since at ebb, beheld : None
+1.2 :The king my father wreck'd. : None
+MIRANDA
+1.2 :Alack, for mercy! : None
+FERDINAND
+1.2 :Yes, faith, and all his lords; the Duke of Milan : None
+1.2 :And his brave son being twain. : None
+PROSPERO
+1.2 :	The Duke of Milan : Aside : ['Aside - []'] : PROSPERO
+1.2 :And his more braver daughter could control thee, : None
+1.2 :If now 'twere fit to do't. At the first sight : None
+1.2 :They have changed eyes. Delicate Ariel, : None
+1.2 :I'll set thee free for this. : None
+To FERDINAND : ["To - ['FERDINAND']"] : PROSPERO
+1.2 :A word, good sir; : None
+1.2 :I fear you have done yourself some wrong: a word. : None
+MIRANDA
+1.2 :Why speaks my father so ungently? This : None
+1.2 :Is the third man that e'er I saw, the first : None
+1.2 :That e'er I sigh'd for: pity move my father : None
+1.2 :To be inclined my way! : None
+FERDINAND
+1.2 :O, if a virgin, : None
+1.2 :And your affection not gone forth, I'll make you : None
+1.2 :The queen of Naples. : None
+PROSPERO
+1.2 :Soft, sir! one word more. : None
+Aside : ['Aside - []'] : PROSPERO
+1.2 :They are both in either's powers; but this swift business : None
+1.2 :I must uneasy make, lest too light winning : None
+1.2 :Make the prize light. : None
+To FERDINAND : ["To - ['FERDINAND']"] : PROSPERO
+1.2 :One word more; I charge thee : None
+1.2 :That thou attend me: thou dost here usurp : None
+1.2 :The name thou owest not; and hast put thyself : None
+1.2 :Upon this island as a spy, to win it : None
+1.2 :From me, the lord on't. : None
+FERDINAND
+1.2 :No, as I am a man. : None
+MIRANDA
+1.2 :There's nothing ill can dwell in such a temple: : None
+1.2 :If the ill spirit have so fair a house, : None
+1.2 :Good things will strive to dwell with't. : None
+PROSPERO
+1.2 :Follow me. : None
+1.2 :Speak not you for him; he's a traitor. Come; : None
+1.2 :I'll manacle thy neck and feet together: : None
+1.2 :Sea-water shalt thou drink; thy food shall be : None
+1.2 :The fresh-brook muscles, wither'd roots and husks : None
+1.2 :Wherein the acorn cradled. Follow. : None
+FERDINAND
+1.2 :No; : None
+1.2 :I will resist such entertainment till : None
+1.2 :Mine enemy has more power. : None
+Draws, and is charmed from moving : ['None - []'] : FERDINAND
+MIRANDA
+1.2 :O dear father, : None
+1.2 :Make not too rash a trial of him, for : None
+1.2 :He's gentle and not fearful. : None
+PROSPERO
+1.2 :What? I say, : None
+1.2 :My foot my tutor? Put thy sword up, traitor; : None
+1.2 :Who makest a show but darest not strike, thy conscience : None
+1.2 :Is so possess'd with guilt: come from thy ward, : None
+1.2 :For I can here disarm thee with this stick : None
+1.2 :And make thy weapon drop. : None
+MIRANDA
+1.2 :Beseech you, father. : None
+PROSPERO
+1.2 :Hence! hang not on my garments. : None
+MIRANDA
+1.2 :Sir, have pity; : None
+1.2 :I'll be his surety. : None
+PROSPERO
+1.2 :Silence! one word more : None
+1.2 :Shall make me chide thee, if not hate thee. What! : None
+1.2 :An advocate for an imposter! hush! : None
+1.2 :Thou think'st there is no more such shapes as he, : None
+1.2 :Having seen but him and Caliban: foolish wench! : None
+1.2 :To the most of men this is a Caliban : None
+1.2 :And they to him are angels. : None
+MIRANDA
+1.2 :My affections : None
+1.2 :Are then most humble; I have no ambition : None
+1.2 :To see a goodlier man. : None
+PROSPERO
+1.2 :Come on; obey: : None
+1.2 :Thy nerves are in their infancy again : None
+1.2 :And have no vigour in them. : None
+FERDINAND
+1.2 :So they are; : None
+1.2 :My spirits, as in a dream, are all bound up. : None
+1.2 :My father's loss, the weakness which I feel, : None
+1.2 :The wreck of all my friends, nor this man's threats, : None
+1.2 :To whom I am subdued, are but light to me, : None
+1.2 :Might I but through my prison once a day : None
+1.2 :Behold this maid: all corners else o' the earth : None
+1.2 :Let liberty make use of; space enough : None
+1.2 :Have I in such a prison. : None
+PROSPERO
+1.2 :                It works. : Aside : ['Aside - []'] : PROSPERO
+To FERDINAND : ["To - ['FERDINAND']"] : PROSPERO
+1.2 :Come on. : None
+1.2 :Thou hast done well, fine Ariel! : None
+To FERDINAND : ["To - ['FERDINAND']"] : PROSPERO
+1.2 :Follow me. : None
+To ARIEL : ["To - ['ARIEL']"] : PROSPERO
+1.2 :Hark what thou else shalt do me. : None
+MIRANDA
+1.2 :Be of comfort; : None
+1.2 :My father's of a better nature, sir, : None
+1.2 :Than he appears by speech: this is unwonted : None
+1.2 :Which now came from him. : None
+PROSPERO
+1.2 :Thou shalt be free : None
+1.2 :As mountain winds: but then exactly do : None
+1.2 :All points of my command. : None
+ARIEL
+1.2 :To the syllable. : None
+PROSPERO
+1.2 :Come, follow. Speak not for him. : None
+Exeunt : ['Exeunt - []'] : PROSPERO
+Act(act=2)
+Scene(scene=1)
+Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others : ["Enter - ['ALONSO', 'SEBASTIAN', 'ANTONIO', 'GONZALO', 'ADRIAN', 'FRANCISCO']"] : PROSPERO
+GONZALO
+2.1 :Beseech you, sir, be merry; you have cause, : None
+2.1 :So have we all, of joy; for our escape : None
+2.1 :Is much beyond our loss. Our hint of woe : None
+2.1 :Is common; every day some sailor's wife, : None
+2.1 :The masters of some merchant and the merchant : None
+2.1 :Have just our theme of woe; but for the miracle, : None
+2.1 :I mean our preservation, few in millions : None
+2.1 :Can speak like us: then wisely, good sir, weigh : None
+2.1 :Our sorrow with our comfort. : None
+ALONSO
+2.1 :Prithee, peace. : None
+SEBASTIAN
+2.1 :He receives comfort like cold porridge. : None
+ANTONIO
+2.1 :The visitor will not give him o'er so. : None
+SEBASTIAN
+2.1 :Look he's winding up the watch of his wit; : None
+2.1 :by and by it will strike. : None
+GONZALO
+2.1 :Sir,-- : None
+SEBASTIAN
+2.1 :One: tell. : None
+GONZALO
+2.1 :When every grief is entertain'd that's offer'd, : None
+2.1 :Comes to the entertainer-- : None
+SEBASTIAN
+2.1 :A dollar. : None
+GONZALO
+2.1 :Dolour comes to him, indeed: you : None
+2.1 :have spoken truer than you purposed. : None
+SEBASTIAN
+2.1 :You have taken it wiselier than I meant you should. : None
+GONZALO
+2.1 :Therefore, my lord,-- : None
+ANTONIO
+2.1 :Fie, what a spendthrift is he of his tongue! : None
+ALONSO
+2.1 :I prithee, spare. : None
+GONZALO
+2.1 :Well, I have done: but yet,-- : None
+SEBASTIAN
+2.1 :He will be talking. : None
+ANTONIO
+2.1 :Which, of he or Adrian, for a good : None
+2.1 :wager, first begins to crow? : None
+SEBASTIAN
+2.1 :The old cock. : None
+ANTONIO
+2.1 :The cockerel. : None
+SEBASTIAN
+2.1 :Done. The wager? : None
+ANTONIO
+2.1 :A laughter. : None
+SEBASTIAN
+2.1 :A match! : None
+ADRIAN
+2.1 :Though this island seem to be desert,-- : None
+SEBASTIAN
+2.1 :Ha, ha, ha! So, you're paid. : None
+ADRIAN
+2.1 :Uninhabitable and almost inaccessible,-- : None
+SEBASTIAN
+2.1 :Yet,-- : None
+ADRIAN
+2.1 :Yet,-- : None
+ANTONIO
+2.1 :He could not miss't. : None
+ADRIAN
+2.1 :It must needs be of subtle, tender and delicate : None
+2.1 :temperance. : None
+ANTONIO
+2.1 :Temperance was a delicate wench. : None
+SEBASTIAN
+2.1 :Ay, and a subtle; as he most learnedly delivered. : None
+ADRIAN
+2.1 :The air breathes upon us here most sweetly. : None
+SEBASTIAN
+2.1 :As if it had lungs and rotten ones. : None
+ANTONIO
+2.1 :Or as 'twere perfumed by a fen. : None
+GONZALO
+2.1 :Here is everything advantageous to life. : None
+ANTONIO
+2.1 :True; save means to live. : None
+SEBASTIAN
+2.1 :Of that there's none, or little. : None
+GONZALO
+2.1 :How lush and lusty the grass looks! how green! : None
+ANTONIO
+2.1 :The ground indeed is tawny. : None
+SEBASTIAN
+2.1 :With an eye of green in't. : None
+ANTONIO
+2.1 :He misses not much. : None
+SEBASTIAN
+2.1 :No; he doth but mistake the truth totally. : None
+GONZALO
+2.1 :But the rarity of it is,--which is indeed almost : None
+2.1 :beyond credit,-- : None
+SEBASTIAN
+2.1 :As many vouched rarities are. : None
+GONZALO
+2.1 :That our garments, being, as they were, drenched in : None
+2.1 :the sea, hold notwithstanding their freshness and : None
+2.1 :glosses, being rather new-dyed than stained with : None
+2.1 :salt water. : None
+ANTONIO
+2.1 :If but one of his pockets could speak, would it not : None
+2.1 :say he lies? : None
+SEBASTIAN
+2.1 :Ay, or very falsely pocket up his report : None
+GONZALO
+2.1 :Methinks our garments are now as fresh as when we : None
+2.1 :put them on first in Afric, at the marriage of : None
+2.1 :the king's fair daughter Claribel to the King of Tunis. : None
+SEBASTIAN
+2.1 :'Twas a sweet marriage, and we prosper well in our return. : None
+ADRIAN
+2.1 :Tunis was never graced before with such a paragon to : None
+2.1 :their queen. : None
+GONZALO
+2.1 :Not since widow Dido's time. : None
+ANTONIO
+2.1 :Widow! a pox o' that! How came that widow in? : None
+2.1 :widow Dido! : None
+SEBASTIAN
+2.1 :What if he had said 'widower AEneas' too? Good Lord, : None
+2.1 :how you take it! : None
+ADRIAN
+2.1 :'Widow Dido' said you? you make me study of that: : None
+2.1 :she was of Carthage, not of Tunis. : None
+GONZALO
+2.1 :This Tunis, sir, was Carthage. : None
+ADRIAN
+2.1 :Carthage? : None
+GONZALO
+2.1 :I assure you, Carthage. : None
+SEBASTIAN
+2.1 :His word is more than the miraculous harp; he hath : None
+2.1 :raised the wall and houses too. : None
+ANTONIO
+2.1 :What impossible matter will he make easy next? : None
+SEBASTIAN
+2.1 :I think he will carry this island home in his pocket : None
+2.1 :and give it his son for an apple. : None
+ANTONIO
+2.1 :And, sowing the kernels of it in the sea, bring : None
+2.1 :forth more islands. : None
+GONZALO
+2.1 :Ay. : None
+ANTONIO
+2.1 :Why, in good time. : None
+GONZALO
+2.1 :Sir, we were talking that our garments seem now : None
+2.1 :as fresh as when we were at Tunis at the marriage : None
+2.1 :of your daughter, who is now queen. : None
+ANTONIO
+2.1 :And the rarest that e'er came there. : None
+SEBASTIAN
+2.1 :Bate, I beseech you, widow Dido. : None
+ANTONIO
+2.1 :O, widow Dido! ay, widow Dido. : None
+GONZALO
+2.1 :Is not, sir, my doublet as fresh as the first day I : None
+2.1 :wore it? I mean, in a sort. : None
+ANTONIO
+2.1 :That sort was well fished for. : None
+GONZALO
+2.1 :When I wore it at your daughter's marriage? : None
+ALONSO
+2.1 :You cram these words into mine ears against : None
+2.1 :The stomach of my sense. Would I had never : None
+2.1 :Married my daughter there! for, coming thence, : None
+2.1 :My son is lost and, in my rate, she too, : None
+2.1 :Who is so far from Italy removed : None
+2.1 :I ne'er again shall see her. O thou mine heir : None
+2.1 :Of Naples and of Milan, what strange fish : None
+2.1 :Hath made his meal on thee? : None
+FRANCISCO
+2.1 :Sir, he may live: : None
+2.1 :I saw him beat the surges under him, : None
+2.1 :And ride upon their backs; he trod the water, : None
+2.1 :Whose enmity he flung aside, and breasted : None
+2.1 :The surge most swoln that met him; his bold head : None
+2.1 :'Bove the contentious waves he kept, and oar'd : None
+2.1 :Himself with his good arms in lusty stroke : None
+2.1 :To the shore, that o'er his wave-worn basis bow'd, : None
+2.1 :As stooping to relieve him: I not doubt : None
+2.1 :He came alive to land. : None
+ALONSO
+2.1 :No, no, he's gone. : None
+SEBASTIAN
+2.1 :Sir, you may thank yourself for this great loss, : None
+2.1 :That would not bless our Europe with your daughter, : None
+2.1 :But rather lose her to an African; : None
+2.1 :Where she at least is banish'd from your eye, : None
+2.1 :Who hath cause to wet the grief on't. : None
+ALONSO
+2.1 :Prithee, peace. : None
+SEBASTIAN
+2.1 :You were kneel'd to and importuned otherwise : None
+2.1 :By all of us, and the fair soul herself : None
+2.1 :Weigh'd between loathness and obedience, at : None
+2.1 :Which end o' the beam should bow. We have lost your : None
+2.1 :son, : None
+2.1 :I fear, for ever: Milan and Naples have : None
+2.1 :More widows in them of this business' making : None
+2.1 :Than we bring men to comfort them: : None
+2.1 :The fault's your own. : None
+ALONSO
+2.1 :So is the dear'st o' the loss. : None
+GONZALO
+2.1 :My lord Sebastian, : None
+2.1 :The truth you speak doth lack some gentleness : None
+2.1 :And time to speak it in: you rub the sore, : None
+2.1 :When you should bring the plaster. : None
+SEBASTIAN
+2.1 :Very well. : None
+ANTONIO
+2.1 :And most chirurgeonly. : None
+GONZALO
+2.1 :It is foul weather in us all, good sir, : None
+2.1 :When you are cloudy. : None
+SEBASTIAN
+2.1 :Foul weather? : None
+ANTONIO
+2.1 :Very foul. : None
+GONZALO
+2.1 :Had I plantation of this isle, my lord,-- : None
+ANTONIO
+2.1 :He'ld sow't with nettle-seed. : None
+SEBASTIAN
+2.1 :Or docks, or mallows. : None
+GONZALO
+2.1 :And were the king on't, what would I do? : None
+SEBASTIAN
+2.1 :'Scape being drunk for want of wine. : None
+GONZALO
+2.1 :I' the commonwealth I would by contraries : None
+2.1 :Execute all things; for no kind of traffic : None
+2.1 :Would I admit; no name of magistrate; : None
+2.1 :Letters should not be known; riches, poverty, : None
+2.1 :And use of service, none; contract, succession, : None
+2.1 :Bourn, bound of land, tilth, vineyard, none; : None
+2.1 :No use of metal, corn, or wine, or oil; : None
+2.1 :No occupation; all men idle, all; : None
+2.1 :And women too, but innocent and pure; : None
+2.1 :No sovereignty;-- : None
+SEBASTIAN
+2.1 :                  Yet he would be king on't. : None
+ANTONIO
+2.1 :The latter end of his commonwealth forgets the : None
+2.1 :beginning. : None
+GONZALO
+2.1 :All things in common nature should produce : None
+2.1 :Without sweat or endeavour: treason, felony, : None
+2.1 :Sword, pike, knife, gun, or need of any engine, : None
+2.1 :Would I not have; but nature should bring forth, : None
+2.1 :Of its own kind, all foison, all abundance, : None
+2.1 :To feed my innocent people. : None
+SEBASTIAN
+2.1 :No marrying 'mong his subjects? : None
+ANTONIO
+2.1 :None, man; all idle: whores and knaves. : None
+GONZALO
+2.1 :I would with such perfection govern, sir, : None
+2.1 :To excel the golden age. : None
+SEBASTIAN
+2.1 :God save his majesty! : None
+ANTONIO
+2.1 :Long live Gonzalo! : None
+GONZALO
+2.1 :                  And,--do you mark me, sir? : None
+ALONSO
+2.1 :Prithee, no more: thou dost talk nothing to me. : None
+GONZALO
+2.1 :I do well believe your highness; and : None
+2.1 :did it to minister occasion to these gentlemen, : None
+2.1 :who are of such sensible and nimble lungs that : None
+2.1 :they always use to laugh at nothing. : None
+ANTONIO
+2.1 :'Twas you we laughed at. : None
+GONZALO
+2.1 :Who in this kind of merry fooling am nothing : None
+2.1 :to you: so you may continue and laugh at : None
+2.1 :nothing still. : None
+ANTONIO
+2.1 :What a blow was there given! : None
+SEBASTIAN
+2.1 :An it had not fallen flat-long. : None
+GONZALO
+2.1 :You are gentlemen of brave metal; you would lift : None
+2.1 :the moon out of her sphere, if she would continue : None
+2.1 :in it five weeks without changing. : None
+Enter ARIEL, invisible, playing solemn music : ["Enter - ['ARIEL']"] : GONZALO
+SEBASTIAN
+2.1 :We would so, and then go a bat-fowling. : None
+ANTONIO
+2.1 :Nay, good my lord, be not angry. : None
+GONZALO
+2.1 :No, I warrant you; I will not adventure : None
+2.1 :my discretion so weakly. Will you laugh : None
+2.1 :me asleep, for I am very heavy? : None
+ANTONIO
+2.1 :Go sleep, and hear us. : None
+All sleep except ALONSO, SEBASTIAN, and ANTONIO : ["TO - ['ALONSO', 'SEBASTIAN', 'ANTONIO']"] : ANTONIO
+ALONSO
+2.1 :What, all so soon asleep! I wish mine eyes : None
+2.1 :Would, with themselves, shut up my thoughts: I find : None
+2.1 :They are inclined to do so. : None
+SEBASTIAN
+2.1 :Please you, sir, : None
+2.1 :Do not omit the heavy offer of it: : None
+2.1 :It seldom visits sorrow; when it doth, : None
+2.1 :It is a comforter. : None
+ANTONIO
+2.1 :                  We two, my lord, : None
+2.1 :Will guard your person while you take your rest, : None
+2.1 :And watch your safety. : None
+ALONSO
+2.1 :Thank you. Wondrous heavy. : None
+ALONSO sleeps. Exit ARIEL : ["None - ['ALONSO']", "Exit - ['ARIEL']"] : ALONSO
+SEBASTIAN
+2.1 :What a strange drowsiness possesses them! : None
+ANTONIO
+2.1 :It is the quality o' the climate. : None
+SEBASTIAN
+2.1 :Why : None
+2.1 :Doth it not then our eyelids sink? I find not : None
+2.1 :Myself disposed to sleep. : None
+ANTONIO
+2.1 :Nor I; my spirits are nimble. : None
+2.1 :They fell together all, as by consent; : None
+2.1 :They dropp'd, as by a thunder-stroke. What might, : None
+2.1 :Worthy Sebastian? O, what might?--No more:-- : None
+2.1 :And yet me thinks I see it in thy face, : None
+2.1 :What thou shouldst be: the occasion speaks thee, and : None
+2.1 :My strong imagination sees a crown : None
+2.1 :Dropping upon thy head. : None
+SEBASTIAN
+2.1 :What, art thou waking? : None
+ANTONIO
+2.1 :Do you not hear me speak? : None
+SEBASTIAN
+2.1 :I do; and surely : None
+2.1 :It is a sleepy language and thou speak'st : None
+2.1 :Out of thy sleep. What is it thou didst say? : None
+2.1 :This is a strange repose, to be asleep : None
+2.1 :With eyes wide open; standing, speaking, moving, : None
+2.1 :And yet so fast asleep. : None
+ANTONIO
+2.1 :Noble Sebastian, : None
+2.1 :Thou let'st thy fortune sleep--die, rather; wink'st : None
+2.1 :Whiles thou art waking. : None
+SEBASTIAN
+2.1 :Thou dost snore distinctly; : None
+2.1 :There's meaning in thy snores. : None
+ANTONIO
+2.1 :I am more serious than my custom: you : None
+2.1 :Must be so too, if heed me; which to do : None
+2.1 :Trebles thee o'er. : None
+SEBASTIAN
+2.1 :                  Well, I am standing water. : None
+ANTONIO
+2.1 :I'll teach you how to flow. : None
+SEBASTIAN
+2.1 :Do so: to ebb : None
+2.1 :Hereditary sloth instructs me. : None
+ANTONIO
+2.1 :O, : None
+2.1 :If you but knew how you the purpose cherish : None
+2.1 :Whiles thus you mock it! how, in stripping it, : None
+2.1 :You more invest it! Ebbing men, indeed, : None
+2.1 :Most often do so near the bottom run : None
+2.1 :By their own fear or sloth. : None
+SEBASTIAN
+2.1 :Prithee, say on: : None
+2.1 :The setting of thine eye and cheek proclaim : None
+2.1 :A matter from thee, and a birth indeed : None
+2.1 :Which throes thee much to yield. : None
+ANTONIO
+2.1 :Thus, sir: : None
+2.1 :Although this lord of weak remembrance, this, : None
+2.1 :Who shall be of as little memory : None
+2.1 :When he is earth'd, hath here almost persuade,-- : None
+2.1 :For he's a spirit of persuasion, only : None
+2.1 :Professes to persuade,--the king his son's alive, : None
+2.1 :'Tis as impossible that he's undrown'd : None
+2.1 :And he that sleeps here swims. : None
+SEBASTIAN
+2.1 :I have no hope : None
+2.1 :That he's undrown'd. : None
+ANTONIO
+2.1 :O, out of that 'no hope' : None
+2.1 :What great hope have you! no hope that way is : None
+2.1 :Another way so high a hope that even : None
+2.1 :Ambition cannot pierce a wink beyond, : None
+2.1 :But doubt discovery there. Will you grant with me : None
+2.1 :That Ferdinand is drown'd? : None
+SEBASTIAN
+2.1 :He's gone. : None
+ANTONIO
+2.1 :Then, tell me, : None
+2.1 :Who's the next heir of Naples? : None
+SEBASTIAN
+2.1 :Claribel. : None
+ANTONIO
+2.1 :She that is queen of Tunis; she that dwells : None
+2.1 :Ten leagues beyond man's life; she that from Naples : None
+2.1 :Can have no note, unless the sun were post-- : None
+2.1 :The man i' the moon's too slow--till new-born chins : None
+2.1 :Be rough and razorable; she that--from whom? : None
+2.1 :We all were sea-swallow'd, though some cast again, : None
+2.1 :And by that destiny to perform an act : None
+2.1 :Whereof what's past is prologue, what to come : None
+2.1 :In yours and my discharge. : None
+SEBASTIAN
+2.1 :What stuff is this! how say you? : None
+2.1 :'Tis true, my brother's daughter's queen of Tunis; : None
+2.1 :So is she heir of Naples; 'twixt which regions : None
+2.1 :There is some space. : None
+ANTONIO
+2.1 :A space whose every cubit : None
+2.1 :Seems to cry out, 'How shall that Claribel : None
+2.1 :Measure us back to Naples? Keep in Tunis, : None
+2.1 :And let Sebastian wake.' Say, this were death : None
+2.1 :That now hath seized them; why, they were no worse : None
+2.1 :Than now they are. There be that can rule Naples : None
+2.1 :As well as he that sleeps; lords that can prate : None
+2.1 :As amply and unnecessarily : None
+2.1 :As this Gonzalo; I myself could make : None
+2.1 :A chough of as deep chat. O, that you bore : None
+2.1 :The mind that I do! what a sleep were this : None
+2.1 :For your advancement! Do you understand me? : None
+SEBASTIAN
+2.1 :Methinks I do. : None
+ANTONIO
+2.1 :                  And how does your content : None
+2.1 :Tender your own good fortune? : None
+SEBASTIAN
+2.1 :I remember : None
+2.1 :You did supplant your brother Prospero. : None
+ANTONIO
+2.1 :True: : None
+2.1 :And look how well my garments sit upon me; : None
+2.1 :Much feater than before: my brother's servants : None
+2.1 :Were then my fellows; now they are my men. : None
+SEBASTIAN
+2.1 :But, for your conscience? : None
+ANTONIO
+2.1 :Ay, sir; where lies that? if 'twere a kibe, : None
+2.1 :'Twould put me to my slipper: but I feel not : None
+2.1 :This deity in my bosom: twenty consciences, : None
+2.1 :That stand 'twixt me and Milan, candied be they : None
+2.1 :And melt ere they molest! Here lies your brother, : None
+2.1 :No better than the earth he lies upon, : None
+2.1 :If he were that which now he's like, that's dead; : None
+2.1 :Whom I, with this obedient steel, three inches of it, : None
+2.1 :Can lay to bed for ever; whiles you, doing thus, : None
+2.1 :To the perpetual wink for aye might put : None
+2.1 :This ancient morsel, this Sir Prudence, who : None
+2.1 :Should not upbraid our course. For all the rest, : None
+2.1 :They'll take suggestion as a cat laps milk; : None
+2.1 :They'll tell the clock to any business that : None
+2.1 :We say befits the hour. : None
+SEBASTIAN
+2.1 :Thy case, dear friend, : None
+2.1 :Shall be my precedent; as thou got'st Milan, : None
+2.1 :I'll come by Naples. Draw thy sword: one stroke : None
+2.1 :Shall free thee from the tribute which thou payest; : None
+2.1 :And I the king shall love thee. : None
+ANTONIO
+2.1 :Draw together; : None
+2.1 :And when I rear my hand, do you the like, : None
+2.1 :To fall it on Gonzalo. : None
+SEBASTIAN
+2.1 :O, but one word. : None
+They talk apart : ['None - []'] : SEBASTIAN
+Re-enter ARIEL, invisible : ["Re-enter - ['ARIEL']"] : SEBASTIAN
+ARIEL
+2.1 :My master through his art foresees the danger : None
+2.1 :That you, his friend, are in; and sends me forth-- : None
+2.1 :For else his project dies--to keep them living. : None
+Sings in GONZALO's ear : ["None - ['GONZALO']"] : ARIEL
+2.1 :While you here do snoring lie, : None
+2.1 :Open-eyed conspiracy : None
+2.1 :His time doth take. : None
+2.1 :If of life you keep a care, : None
+2.1 :Shake off slumber, and beware: : None
+2.1 :Awake, awake! : None
+ANTONIO
+2.1 :Then let us both be sudden. : None
+GONZALO
+2.1 :Now, good angels : None
+2.1 :Preserve the king. : None
+They wake : ['None - []'] : GONZALO
+ALONSO
+2.1 :Why, how now? ho, awake! Why are you drawn? : None
+2.1 :Wherefore this ghastly looking? : None
+GONZALO
+2.1 :What's the matter? : None
+SEBASTIAN
+2.1 :Whiles we stood here securing your repose, : None
+2.1 :Even now, we heard a hollow burst of bellowing : None
+2.1 :Like bulls, or rather lions: did't not wake you? : None
+2.1 :It struck mine ear most terribly. : None
+ALONSO
+2.1 :I heard nothing. : None
+ANTONIO
+2.1 :O, 'twas a din to fright a monster's ear, : None
+2.1 :To make an earthquake! sure, it was the roar : None
+2.1 :Of a whole herd of lions. : None
+ALONSO
+2.1 :Heard you this, Gonzalo? : None
+GONZALO
+2.1 :Upon mine honour, sir, I heard a humming, : None
+2.1 :And that a strange one too, which did awake me: : None
+2.1 :I shaked you, sir, and cried: as mine eyes open'd, : None
+2.1 :I saw their weapons drawn: there was a noise, : None
+2.1 :That's verily. 'Tis best we stand upon our guard, : None
+2.1 :Or that we quit this place; let's draw our weapons. : None
+ALONSO
+2.1 :Lead off this ground; and let's make further search : None
+2.1 :For my poor son. : None
+GONZALO
+2.1 :Heavens keep him from these beasts! : None
+2.1 :For he is, sure, i' the island. : None
+ALONSO
+2.1 :Lead away. : None
+ARIEL
+2.1 :Prospero my lord shall know what I have done: : None
+2.1 :So, king, go safely on to seek thy son. : None
+Exeunt : ['Exeunt - []'] : ARIEL
+Scene(scene=2)
+Enter CALIBAN with a burden of wood. A noise of thunder heard : ["Enter - ['CALIBAN']", 'None - []'] : ARIEL
+CALIBAN
+2.2 :All the infections that the sun sucks up : None
+2.2 :From bogs, fens, flats, on Prosper fall and make him : None
+2.2 :By inch-meal a disease! His spirits hear me : None
+2.2 :And yet I needs must curse. But they'll nor pinch, : None
+2.2 :Fright me with urchin--shows, pitch me i' the mire, : None
+2.2 :Nor lead me, like a firebrand, in the dark : None
+2.2 :Out of my way, unless he bid 'em; but : None
+2.2 :For every trifle are they set upon me; : None
+2.2 :Sometime like apes that mow and chatter at me : None
+2.2 :And after bite me, then like hedgehogs which : None
+2.2 :Lie tumbling in my barefoot way and mount : None
+2.2 :Their pricks at my footfall; sometime am I : None
+2.2 :All wound with adders who with cloven tongues : None
+2.2 :Do hiss me into madness. : None
+Enter TRINCULO : ["Enter - ['TRINCULO']"] : CALIBAN
+2.2 :Lo, now, lo! : None
+2.2 :Here comes a spirit of his, and to torment me : None
+2.2 :For bringing wood in slowly. I'll fall flat; : None
+2.2 :Perchance he will not mind me. : None
+TRINCULO
+2.2 :Here's neither bush nor shrub, to bear off : None
+2.2 :any weather at all, and another storm brewing; : None
+2.2 :I hear it sing i' the wind: yond same black : None
+2.2 :cloud, yond huge one, looks like a foul : None
+2.2 :bombard that would shed his liquor. If it : None
+2.2 :should thunder as it did before, I know not : None
+2.2 :where to hide my head: yond same cloud cannot : None
+2.2 :choose but fall by pailfuls. What have we : None
+2.2 :here? a man or a fish? dead or alive? A fish: : None
+2.2 :he smells like a fish; a very ancient and fish- : None
+2.2 :like smell; a kind of not of the newest Poor- : None
+2.2 :John. A strange fish! Were I in England now, : None
+2.2 :as once I was, and had but this fish painted, : None
+2.2 :not a holiday fool there but would give a piece : None
+2.2 :of silver: there would this monster make a : None
+2.2 :man; any strange beast there makes a man: : None
+2.2 :when they will not give a doit to relieve a lame : None
+2.2 :beggar, they will lazy out ten to see a dead : None
+2.2 :Indian. Legged like a man and his fins like : None
+2.2 :arms! Warm o' my troth! I do now let loose : None
+2.2 :my opinion; hold it no longer: this is no fish, : None
+2.2 :but an islander, that hath lately suffered by a : None
+2.2 :thunderbolt. : None
+Thunder : ['None - []'] : TRINCULO
+2.2 :Alas, the storm is come again! my best way is to : None
+2.2 :creep under his gaberdine; there is no other : None
+2.2 :shelter hereabouts: misery acquaints a man with : None
+2.2 :strange bed-fellows. I will here shroud till the : None
+2.2 :dregs of the storm be past. : None
+Enter STEPHANO, singing: a bottle in his hand : ["Enter - ['STEPHANO']"] : TRINCULO
+STEPHANO
+2.2 :   I shall no more to sea, to sea, : None
+2.2 :Here shall I die ashore-- : None
+2.2 :This is a very scurvy tune to sing at a man's : None
+2.2 :funeral: well, here's my comfort. : None
+Drinks : ['None - []'] : STEPHANO
+Sings : ['None - []'] : STEPHANO
+2.2 :The master, the swabber, the boatswain and I, : None
+2.2 :The gunner and his mate : None
+2.2 :Loved Mall, Meg and Marian and Margery, : None
+2.2 :But none of us cared for Kate; : None
+2.2 :For she had a tongue with a tang, : None
+2.2 :Would cry to a sailor, Go hang! : None
+2.2 :She loved not the savour of tar nor of pitch, : None
+2.2 :Yet a tailor might scratch her where'er she did itch: : None
+2.2 :Then to sea, boys, and let her go hang! : None
+2.2 :This is a scurvy tune too: but here's my comfort. : None
+Drinks : ['None - []'] : STEPHANO
+CALIBAN
+2.2 :Do not torment me: Oh! : None
+STEPHANO
+2.2 :What's the matter? Have we devils here? Do you put : None
+2.2 :tricks upon's with savages and men of Ind, ha? I : None
+2.2 :have not scaped drowning to be afeard now of your : None
+2.2 :four legs; for it hath been said, As proper a man as : None
+2.2 :ever went on four legs cannot make him give ground; : None
+2.2 :and it shall be said so again while Stephano : None
+2.2 :breathes at's nostrils. : None
+CALIBAN
+2.2 :The spirit torments me; Oh! : None
+STEPHANO
+2.2 :This is some monster of the isle with four legs, who : None
+2.2 :hath got, as I take it, an ague. Where the devil : None
+2.2 :should he learn our language? I will give him some : None
+2.2 :relief, if it be but for that. if I can recover him : None
+2.2 :and keep him tame and get to Naples with him, he's a : None
+2.2 :present for any emperor that ever trod on neat's leather. : None
+CALIBAN
+2.2 :Do not torment me, prithee; I'll bring my wood home faster. : None
+STEPHANO
+2.2 :He's in his fit now and does not talk after the : None
+2.2 :wisest. He shall taste of my bottle: if he have : None
+2.2 :never drunk wine afore will go near to remove his : None
+2.2 :fit. If I can recover him and keep him tame, I will : None
+2.2 :not take too much for him; he shall pay for him that : None
+2.2 :hath him, and that soundly. : None
+CALIBAN
+2.2 :Thou dost me yet but little hurt; thou wilt anon, I : None
+2.2 :know it by thy trembling: now Prosper works upon thee. : None
+STEPHANO
+2.2 :Come on your ways; open your mouth; here is that : None
+2.2 :which will give language to you, cat: open your : None
+2.2 :mouth; this will shake your shaking, I can tell you, : None
+2.2 :and that soundly: you cannot tell who's your friend: : None
+2.2 :open your chaps again. : None
+TRINCULO
+2.2 :I should know that voice: it should be--but he is : None
+2.2 :drowned; and these are devils: O defend me! : None
+STEPHANO
+2.2 :Four legs and two voices: a most delicate monster! : None
+2.2 :His forward voice now is to speak well of his : None
+2.2 :friend; his backward voice is to utter foul speeches : None
+2.2 :and to detract. If all the wine in my bottle will : None
+2.2 :recover him, I will help his ague. Come. Amen! I : None
+2.2 :will pour some in thy other mouth. : None
+TRINCULO
+2.2 :Stephano! : None
+STEPHANO
+2.2 :Doth thy other mouth call me? Mercy, mercy! This is : None
+2.2 :a devil, and no monster: I will leave him; I have no : None
+2.2 :long spoon. : None
+TRINCULO
+2.2 :Stephano! If thou beest Stephano, touch me and : None
+2.2 :speak to me: for I am Trinculo--be not afeard--thy : None
+2.2 :good friend Trinculo. : None
+STEPHANO
+2.2 :If thou beest Trinculo, come forth: I'll pull thee : None
+2.2 :by the lesser legs: if any be Trinculo's legs, : None
+2.2 :these are they. Thou art very Trinculo indeed! How : None
+2.2 :camest thou to be the siege of this moon-calf? can : None
+2.2 :he vent Trinculos? : None
+TRINCULO
+2.2 :I took him to be killed with a thunder-stroke. But : None
+2.2 :art thou not drowned, Stephano? I hope now thou art : None
+2.2 :not drowned. Is the storm overblown? I hid me : None
+2.2 :under the dead moon-calf's gaberdine for fear of : None
+2.2 :the storm. And art thou living, Stephano? O : None
+2.2 :Stephano, two Neapolitans 'scaped! : None
+STEPHANO
+2.2 :Prithee, do not turn me about; my stomach is not constant. : None
+CALIBAN
+2.2 :  These be fine things, an if they be : Aside : ['Aside - []'] : CALIBAN
+2.2 :not sprites. : None
+2.2 :That's a brave god and bears celestial liquor. : None
+2.2 :I will kneel to him. : None
+STEPHANO
+2.2 :How didst thou 'scape? How camest thou hither? : None
+2.2 :swear by this bottle how thou camest hither. I : None
+2.2 :escaped upon a butt of sack which the sailors : None
+2.2 :heaved o'erboard, by this bottle; which I made of : None
+2.2 :the bark of a tree with mine own hands since I was : None
+2.2 :cast ashore. : None
+CALIBAN
+2.2 :I'll swear upon that bottle to be thy true subject; : None
+2.2 :for the liquor is not earthly. : None
+STEPHANO
+2.2 :Here; swear then how thou escapedst. : None
+TRINCULO
+2.2 :Swum ashore. man, like a duck: I can swim like a : None
+2.2 :duck, I'll be sworn. : None
+STEPHANO
+2.2 :Here, kiss the book. Though thou canst swim like a : None
+2.2 :duck, thou art made like a goose. : None
+TRINCULO
+2.2 :O Stephano. hast any more of this? : None
+STEPHANO
+2.2 :The whole butt, man: my cellar is in a rock by the : None
+2.2 :sea-side where my wine is hid. How now, moon-calf! : None
+2.2 :how does thine ague? : None
+CALIBAN
+2.2 :Hast thou not dropp'd from heaven? : None
+STEPHANO
+2.2 :Out o' the moon, I do assure thee: I was the man i' : None
+2.2 :the moon when time was. : None
+CALIBAN
+2.2 :I have seen thee in her and I do adore thee: : None
+2.2 :My mistress show'd me thee and thy dog and thy bush. : None
+STEPHANO
+2.2 :Come, swear to that; kiss the book: I will furnish : None
+2.2 :it anon with new contents swear. : None
+TRINCULO
+2.2 :By this good light, this is a very shallow monster! : None
+2.2 :I afeard of him! A very weak monster! The man i' : None
+2.2 :the moon! A most poor credulous monster! Well : None
+2.2 :drawn, monster, in good sooth! : None
+CALIBAN
+2.2 :I'll show thee every fertile inch o' th' island; : None
+2.2 :And I will kiss thy foot: I prithee, be my god. : None
+TRINCULO
+2.2 :By this light, a most perfidious and drunken : None
+2.2 :monster! when 's god's asleep, he'll rob his bottle. : None
+CALIBAN
+2.2 :I'll kiss thy foot; I'll swear myself thy subject. : None
+STEPHANO
+2.2 :Come on then; down, and swear. : None
+TRINCULO
+2.2 :I shall laugh myself to death at this puppy-headed : None
+2.2 :monster. A most scurvy monster! I could find in my : None
+2.2 :heart to beat him,-- : None
+STEPHANO
+2.2 :Come, kiss. : None
+TRINCULO
+2.2 :But that the poor monster's in drink: an abominable monster! : None
+CALIBAN
+2.2 :I'll show thee the best springs; I'll pluck thee berries; : None
+2.2 :I'll fish for thee and get thee wood enough. : None
+2.2 :A plague upon the tyrant that I serve! : None
+2.2 :I'll bear him no more sticks, but follow thee, : None
+2.2 :Thou wondrous man. : None
+TRINCULO
+2.2 :A most ridiculous monster, to make a wonder of a : None
+2.2 :Poor drunkard! : None
+CALIBAN
+2.2 :I prithee, let me bring thee where crabs grow; : None
+2.2 :And I with my long nails will dig thee pignuts; : None
+2.2 :Show thee a jay's nest and instruct thee how : None
+2.2 :To snare the nimble marmoset; I'll bring thee : None
+2.2 :To clustering filberts and sometimes I'll get thee : None
+2.2 :Young scamels from the rock. Wilt thou go with me? : None
+STEPHANO
+2.2 :I prithee now, lead the way without any more : None
+2.2 :talking. Trinculo, the king and all our company : None
+2.2 :else being drowned, we will inherit here: here; : None
+2.2 :bear my bottle: fellow Trinculo, we'll fill him by : None
+2.2 :and by again. : None
+CALIBAN
+2.2 : : Sings drunkenly : ['None - []'] : CALIBAN
+2.2 :Farewell master; farewell, farewell! : None
+TRINCULO
+2.2 :A howling monster: a drunken monster! : None
+CALIBAN
+2.2 :   No more dams I'll make for fish : None
+2.2 :Nor fetch in firing : None
+2.2 :At requiring; : None
+2.2 :Nor scrape trencher, nor wash dish : None
+2.2 :'Ban, 'Ban, Cacaliban : None
+2.2 :Has a new master: get a new man. : None
+2.2 :Freedom, hey-day! hey-day, freedom! freedom, : None
+2.2 :hey-day, freedom! : None
+STEPHANO
+2.2 :O brave monster! Lead the way. : None
+Exeunt : ['Exeunt - []'] : STEPHANO
+Act(act=3)
+Scene(scene=1)
+Enter FERDINAND, bearing a log : ["Enter - ['FERDINAND']"] : STEPHANO
+FERDINAND
+3.1 :There be some sports are painful, and their labour : None
+3.1 :Delight in them sets off: some kinds of baseness : None
+3.1 :Are nobly undergone and most poor matters : None
+3.1 :Point to rich ends. This my mean task : None
+3.1 :Would be as heavy to me as odious, but : None
+3.1 :The mistress which I serve quickens what's dead : None
+3.1 :And makes my labours pleasures: O, she is : None
+3.1 :Ten times more gentle than her father's crabbed, : None
+3.1 :And he's composed of harshness. I must remove : None
+3.1 :Some thousands of these logs and pile them up, : None
+3.1 :Upon a sore injunction: my sweet mistress : None
+3.1 :Weeps when she sees me work, and says, such baseness : None
+3.1 :Had never like executor. I forget: : None
+3.1 :But these sweet thoughts do even refresh my labours, : None
+3.1 :Most busy lest, when I do it. : None
+Enter MIRANDA; and PROSPERO at a distance, unseen : ["Enter - ['MIRANDA', 'PROSPERO']"] : FERDINAND
+MIRANDA
+3.1 :Alas, now, pray you, : None
+3.1 :Work not so hard: I would the lightning had : None
+3.1 :Burnt up those logs that you are enjoin'd to pile! : None
+3.1 :Pray, set it down and rest you: when this burns, : None
+3.1 :'Twill weep for having wearied you. My father : None
+3.1 :Is hard at study; pray now, rest yourself; : None
+3.1 :He's safe for these three hours. : None
+FERDINAND
+3.1 :O most dear mistress, : None
+3.1 :The sun will set before I shall discharge : None
+3.1 :What I must strive to do. : None
+MIRANDA
+3.1 :If you'll sit down, : None
+3.1 :I'll bear your logs the while: pray, give me that; : None
+3.1 :I'll carry it to the pile. : None
+FERDINAND
+3.1 :No, precious creature; : None
+3.1 :I had rather crack my sinews, break my back, : None
+3.1 :Than you should such dishonour undergo, : None
+3.1 :While I sit lazy by. : None
+MIRANDA
+3.1 :It would become me : None
+3.1 :As well as it does you: and I should do it : None
+3.1 :With much more ease; for my good will is to it, : None
+3.1 :And yours it is against. : None
+PROSPERO
+3.1 :Poor worm, thou art infected! : None
+3.1 :This visitation shows it. : None
+MIRANDA
+3.1 :You look wearily. : None
+FERDINAND
+3.1 :No, noble mistress;'tis fresh morning with me : None
+3.1 :When you are by at night. I do beseech you-- : None
+3.1 :Chiefly that I might set it in my prayers-- : None
+3.1 :What is your name? : None
+MIRANDA
+3.1 :                  Miranda.--O my father, : None
+3.1 :I have broke your hest to say so! : None
+FERDINAND
+3.1 :Admired Miranda! : None
+3.1 :Indeed the top of admiration! worth : None
+3.1 :What's dearest to the world! Full many a lady : None
+3.1 :I have eyed with best regard and many a time : None
+3.1 :The harmony of their tongues hath into bondage : None
+3.1 :Brought my too diligent ear: for several virtues : None
+3.1 :Have I liked several women; never any : None
+3.1 :With so fun soul, but some defect in her : None
+3.1 :Did quarrel with the noblest grace she owed : None
+3.1 :And put it to the foil: but you, O you, : None
+3.1 :So perfect and so peerless, are created : None
+3.1 :Of every creature's best! : None
+MIRANDA
+3.1 :I do not know : None
+3.1 :One of my sex; no woman's face remember, : None
+3.1 :Save, from my glass, mine own; nor have I seen : None
+3.1 :More that I may call men than you, good friend, : None
+3.1 :And my dear father: how features are abroad, : None
+3.1 :I am skilless of; but, by my modesty, : None
+3.1 :The jewel in my dower, I would not wish : None
+3.1 :Any companion in the world but you, : None
+3.1 :Nor can imagination form a shape, : None
+3.1 :Besides yourself, to like of. But I prattle : None
+3.1 :Something too wildly and my father's precepts : None
+3.1 :I therein do forget. : None
+FERDINAND
+3.1 :I am in my condition : None
+3.1 :A prince, Miranda; I do think, a king; : None
+3.1 :I would, not so!--and would no more endure : None
+3.1 :This wooden slavery than to suffer : None
+3.1 :The flesh-fly blow my mouth. Hear my soul speak: : None
+3.1 :The very instant that I saw you, did : None
+3.1 :My heart fly to your service; there resides, : None
+3.1 :To make me slave to it; and for your sake : None
+3.1 :Am I this patient log--man. : None
+MIRANDA
+3.1 :Do you love me? : None
+FERDINAND
+3.1 :O heaven, O earth, bear witness to this sound : None
+3.1 :And crown what I profess with kind event : None
+3.1 :If I speak true! if hollowly, invert : None
+3.1 :What best is boded me to mischief! I : None
+3.1 :Beyond all limit of what else i' the world : None
+3.1 :Do love, prize, honour you. : None
+MIRANDA
+3.1 :I am a fool : None
+3.1 :To weep at what I am glad of. : None
+PROSPERO
+3.1 :Fair encounter : None
+3.1 :Of two most rare affections! Heavens rain grace : None
+3.1 :On that which breeds between 'em! : None
+FERDINAND
+3.1 :Wherefore weep you? : None
+MIRANDA
+3.1 :At mine unworthiness that dare not offer : None
+3.1 :What I desire to give, and much less take : None
+3.1 :What I shall die to want. But this is trifling; : None
+3.1 :And all the more it seeks to hide itself, : None
+3.1 :The bigger bulk it shows. Hence, bashful cunning! : None
+3.1 :And prompt me, plain and holy innocence! : None
+3.1 :I am your wife, if you will marry me; : None
+3.1 :If not, I'll die your maid: to be your fellow : None
+3.1 :You may deny me; but I'll be your servant, : None
+3.1 :Whether you will or no. : None
+FERDINAND
+3.1 :My mistress, dearest; : None
+3.1 :And I thus humble ever. : None
+MIRANDA
+3.1 :My husband, then? : None
+FERDINAND
+3.1 :Ay, with a heart as willing : None
+3.1 :As bondage e'er of freedom: here's my hand. : None
+MIRANDA
+3.1 :And mine, with my heart in't; and now farewell : None
+3.1 :Till half an hour hence. : None
+FERDINAND
+3.1 :A thousand thousand! : None
+Exeunt FERDINAND and MIRANDA severally : ["Exeunt - ['FERDINAND', 'MIRANDA']"] : FERDINAND
+PROSPERO
+3.1 :So glad of this as they I cannot be, : None
+3.1 :Who are surprised withal; but my rejoicing : None
+3.1 :At nothing can be more. I'll to my book, : None
+3.1 :For yet ere supper-time must I perform : None
+3.1 :Much business appertaining. : None
+Exit : ['Exit - []'] : PROSPERO
+Scene(scene=2)
+Enter CALIBAN, STEPHANO, and TRINCULO : ["Enter - ['CALIBAN', 'STEPHANO', 'TRINCULO']"] : PROSPERO
+STEPHANO
+3.2 :Tell not me; when the butt is out, we will drink : None
+3.2 :water; not a drop before: therefore bear up, and : None
+3.2 :board 'em. Servant-monster, drink to me. : None
+TRINCULO
+3.2 :Servant-monster! the folly of this island! They : None
+3.2 :say there's but five upon this isle: we are three : None
+3.2 :of them; if th' other two be brained like us, the : None
+3.2 :state totters. : None
+STEPHANO
+3.2 :Drink, servant-monster, when I bid thee: thy eyes : None
+3.2 :are almost set in thy head. : None
+TRINCULO
+3.2 :Where should they be set else? he were a brave : None
+3.2 :monster indeed, if they were set in his tail. : None
+STEPHANO
+3.2 :My man-monster hath drown'd his tongue in sack: : None
+3.2 :for my part, the sea cannot drown me; I swam, ere I : None
+3.2 :could recover the shore, five and thirty leagues off : None
+3.2 :and on. By this light, thou shalt be my lieutenant, : None
+3.2 :monster, or my standard. : None
+TRINCULO
+3.2 :Your lieutenant, if you list; he's no standard. : None
+STEPHANO
+3.2 :We'll not run, Monsieur Monster. : None
+TRINCULO
+3.2 :Nor go neither; but you'll lie like dogs and yet say : None
+3.2 :nothing neither. : None
+STEPHANO
+3.2 :Moon-calf, speak once in thy life, if thou beest a : None
+3.2 :good moon-calf. : None
+CALIBAN
+3.2 :How does thy honour? Let me lick thy shoe. : None
+3.2 :I'll not serve him; he's not valiant. : None
+TRINCULO
+3.2 :Thou liest, most ignorant monster: I am in case to : None
+3.2 :justle a constable. Why, thou deboshed fish thou, : None
+3.2 :was there ever man a coward that hath drunk so much : None
+3.2 :sack as I to-day? Wilt thou tell a monstrous lie, : None
+3.2 :being but half a fish and half a monster? : None
+CALIBAN
+3.2 :Lo, how he mocks me! wilt thou let him, my lord? : None
+TRINCULO
+3.2 :'Lord' quoth he! That a monster should be such a natural! : None
+CALIBAN
+3.2 :Lo, lo, again! bite him to death, I prithee. : None
+STEPHANO
+3.2 :Trinculo, keep a good tongue in your head: if you : None
+3.2 :prove a mutineer,--the next tree! The poor monster's : None
+3.2 :my subject and he shall not suffer indignity. : None
+CALIBAN
+3.2 :I thank my noble lord. Wilt thou be pleased to : None
+3.2 :hearken once again to the suit I made to thee? : None
+STEPHANO
+3.2 :Marry, will I	kneel and repeat it; I will stand, : None
+3.2 :and so shall Trinculo. : None
+Enter ARIEL, invisible : ["Enter - ['ARIEL']"] : STEPHANO
+CALIBAN
+3.2 :As I told thee before, I am subject to a tyrant, a : None
+3.2 :sorcerer, that by his cunning hath cheated me of the island. : None
+ARIEL
+3.2 :Thou liest. : None
+CALIBAN
+3.2 :Thou liest, thou jesting monkey, thou: I would my : None
+3.2 :valiant master would destroy thee! I do not lie. : None
+STEPHANO
+3.2 :Trinculo, if you trouble him any more in's tale, by : None
+3.2 :this hand, I will supplant some of your teeth. : None
+TRINCULO
+3.2 :Why, I said nothing. : None
+STEPHANO
+3.2 :Mum, then, and no more. Proceed. : None
+CALIBAN
+3.2 :I say, by sorcery he got this isle; : None
+3.2 :From me he got it. if thy greatness will : None
+3.2 :Revenge it on him,--for I know thou darest, : None
+3.2 :But this thing dare not,-- : None
+STEPHANO
+3.2 :That's most certain. : None
+CALIBAN
+3.2 :Thou shalt be lord of it and I'll serve thee. : None
+STEPHANO
+3.2 :How now shall this be compassed? : None
+3.2 :Canst thou bring me to the party? : None
+CALIBAN
+3.2 :Yea, yea, my lord: I'll yield him thee asleep, : None
+3.2 :Where thou mayst knock a nail into his bead. : None
+ARIEL
+3.2 :Thou liest; thou canst not. : None
+CALIBAN
+3.2 :What a pied ninny's this! Thou scurvy patch! : None
+3.2 :I do beseech thy greatness, give him blows : None
+3.2 :And take his bottle from him: when that's gone : None
+3.2 :He shall drink nought but brine; for I'll not show him : None
+3.2 :Where the quick freshes are. : None
+STEPHANO
+3.2 :Trinculo, run into no further danger: : None
+3.2 :interrupt the monster one word further, and, : None
+3.2 :by this hand, I'll turn my mercy out o' doors : None
+3.2 :and make a stock-fish of thee. : None
+TRINCULO
+3.2 :Why, what did I? I did nothing. I'll go farther : None
+3.2 :off. : None
+STEPHANO
+3.2 :Didst thou not say he lied? : None
+ARIEL
+3.2 :Thou liest. : None
+STEPHANO
+3.2 :Do I so? take thou that. : None
+Beats TRINCULO : ["None - ['TRINCULO']"] : STEPHANO
+3.2 :As you like this, give me the lie another time. : None
+TRINCULO
+3.2 :I did not give the lie. Out o' your : None
+3.2 :wits and bearing too? A pox o' your bottle! : None
+3.2 :this can sack and drinking do. A murrain on : None
+3.2 :your monster, and the devil take your fingers! : None
+CALIBAN
+3.2 :Ha, ha, ha! : None
+STEPHANO
+3.2 :Now, forward with your tale. Prithee, stand farther : None
+3.2 :off. : None
+CALIBAN
+3.2 :Beat him enough: after a little time : None
+3.2 :I'll beat him too. : None
+STEPHANO
+3.2 :                  Stand farther. Come, proceed. : None
+CALIBAN
+3.2 :Why, as I told thee, 'tis a custom with him, : None
+3.2 :I' th' afternoon to sleep: there thou mayst brain him, : None
+3.2 :Having first seized his books, or with a log : None
+3.2 :Batter his skull, or paunch him with a stake, : None
+3.2 :Or cut his wezand with thy knife. Remember : None
+3.2 :First to possess his books; for without them : None
+3.2 :He's but a sot, as I am, nor hath not : None
+3.2 :One spirit to command: they all do hate him : None
+3.2 :As rootedly as I. Burn but his books. : None
+3.2 :He has brave utensils,--for so he calls them-- : None
+3.2 :Which when he has a house, he'll deck withal : None
+3.2 :And that most deeply to consider is : None
+3.2 :The beauty of his daughter; he himself : None
+3.2 :Calls her a nonpareil: I never saw a woman, : None
+3.2 :But only Sycorax my dam and she; : None
+3.2 :But she as far surpasseth Sycorax : None
+3.2 :As great'st does least. : None
+STEPHANO
+3.2 :Is it so brave a lass? : None
+CALIBAN
+3.2 :Ay, lord; she will become thy bed, I warrant. : None
+3.2 :And bring thee forth brave brood. : None
+STEPHANO
+3.2 :Monster, I will kill this man: his daughter and I : None
+3.2 :will be king and queen--save our graces!--and : None
+3.2 :Trinculo and thyself shall be viceroys. Dost thou : None
+3.2 :like the plot, Trinculo? : None
+TRINCULO
+3.2 :Excellent. : None
+STEPHANO
+3.2 :Give me thy hand: I am sorry I beat thee; but, : None
+3.2 :while thou livest, keep a good tongue in thy head. : None
+CALIBAN
+3.2 :Within this half hour will he be asleep: : None
+3.2 :Wilt thou destroy him then? : None
+STEPHANO
+3.2 :Ay, on mine honour. : None
+ARIEL
+3.2 :This will I tell my master. : None
+CALIBAN
+3.2 :Thou makest me merry; I am full of pleasure: : None
+3.2 :Let us be jocund: will you troll the catch : None
+3.2 :You taught me but while-ere? : None
+STEPHANO
+3.2 :At thy request, monster, I will do reason, any : None
+3.2 :reason. Come on, Trinculo, let us sing. : None
+Sings : ['None - []'] : STEPHANO
+3.2 :Flout 'em and scout 'em : None
+3.2 :And scout 'em and flout 'em : None
+3.2 :Thought is free. : None
+CALIBAN
+3.2 :That's not the tune. : None
+Ariel plays the tune on a tabour and pipe : ["None - ['ARIEL']"] : CALIBAN
+STEPHANO
+3.2 :What is this same? : None
+TRINCULO
+3.2 :This is the tune of our catch, played by the picture : None
+3.2 :of Nobody. : None
+STEPHANO
+3.2 :If thou beest a man, show thyself in thy likeness: : None
+3.2 :if thou beest a devil, take't as thou list. : None
+TRINCULO
+3.2 :O, forgive me my sins! : None
+STEPHANO
+3.2 :He that dies pays all debts: I defy thee. Mercy upon us! : None
+CALIBAN
+3.2 :Art thou afeard? : None
+STEPHANO
+3.2 :No, monster, not I. : None
+CALIBAN
+3.2 :Be not afeard; the isle is full of noises, : None
+3.2 :Sounds and sweet airs, that give delight and hurt not. : None
+3.2 :Sometimes a thousand twangling instruments : None
+3.2 :Will hum about mine ears, and sometime voices : None
+3.2 :That, if I then had waked after long sleep, : None
+3.2 :Will make me sleep again: and then, in dreaming, : None
+3.2 :The clouds methought would open and show riches : None
+3.2 :Ready to drop upon me that, when I waked, : None
+3.2 :I cried to dream again. : None
+STEPHANO
+3.2 :This will prove a brave kingdom to me, where I shall : None
+3.2 :have my music for nothing. : None
+CALIBAN
+3.2 :When Prospero is destroyed. : None
+STEPHANO
+3.2 :That shall be by and by: I remember the story. : None
+TRINCULO
+3.2 :The sound is going away; let's follow it, and : None
+3.2 :after do our work. : None
+STEPHANO
+3.2 :Lead, monster; we'll follow. I would I could see : None
+3.2 :this tabourer; he lays it on. : None
+TRINCULO
+3.2 :Wilt come? I'll follow, Stephano. : None
+Exeunt : ['Exeunt - []'] : TRINCULO
+Scene(scene=3)
+Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others : ["Enter - ['ALONSO', 'SEBASTIAN', 'ANTONIO', 'GONZALO', 'ADRIAN', 'FRANCISCO']"] : TRINCULO
+GONZALO
+3.3 :By'r lakin, I can go no further, sir; : None
+3.3 :My old bones ache: here's a maze trod indeed : None
+3.3 :Through forth-rights and meanders! By your patience, : None
+3.3 :I needs must rest me. : None
+ALONSO
+3.3 :Old lord, I cannot blame thee, : None
+3.3 :Who am myself attach'd with weariness, : None
+3.3 :To the dulling of my spirits: sit down, and rest. : None
+3.3 :Even here I will put off my hope and keep it : None
+3.3 :No longer for my flatterer: he is drown'd : None
+3.3 :Whom thus we stray to find, and the sea mocks : None
+3.3 :Our frustrate search on land. Well, let him go. : None
+ANTONIO
+3.3 :  I am right glad that he's so : Aside to SEBASTIAN : ["Aside - ['SEBASTIAN']"] : ANTONIO
+3.3 :out of hope. : None
+3.3 :Do not, for one repulse, forego the purpose : None
+3.3 :That you resolved to effect. : None
+SEBASTIAN
+3.3 :  The next advantage : Aside to ANTONIO : ["Aside - ['ANTONIO']"] : SEBASTIAN
+3.3 :Will we take throughly. : None
+ANTONIO
+3.3 :  Let it be to-night; : Aside to SEBASTIAN : ["Aside - ['SEBASTIAN']"] : ANTONIO
+3.3 :For, now they are oppress'd with travel, they : None
+3.3 :Will not, nor cannot, use such vigilance : None
+3.3 :As when they are fresh. : None
+SEBASTIAN
+3.3 :  I say, to-night: no more. : Aside to ANTONIO : ["Aside - ['ANTONIO']"] : SEBASTIAN
+Solemn and strange music : ['None - []'] : SEBASTIAN
+ALONSO
+3.3 :What harmony is this? My good friends, hark! : None
+GONZALO
+3.3 :Marvellous sweet music! : None
+Enter PROSPERO above, invisible. Enter several  strange Shapes, bringing in a banquet;  they dance about it with gentle actions of  salutation; and, inviting the King,  & c. to eat, they depart : ["Enter - ['PROSPERO']", 'Enter - []', 'to - []'] : GONZALO
+ALONSO
+3.3 :Give us kind keepers, heavens! What were these? : None
+SEBASTIAN
+3.3 :A living drollery. Now I will believe : None
+3.3 :That there are unicorns, that in Arabia : None
+3.3 :There is one tree, the phoenix' throne, one phoenix : None
+3.3 :At this hour reigning there. : None
+ANTONIO
+3.3 :I'll believe both; : None
+3.3 :And what does else want credit, come to me, : None
+3.3 :And I'll be sworn 'tis true: travellers ne'er did : None
+3.3 :lie, : None
+3.3 :Though fools at home condemn 'em. : None
+GONZALO
+3.3 :If in Naples : None
+3.3 :I should report this now, would they believe me? : None
+3.3 :If I should say, I saw such islanders-- : None
+3.3 :For, certes, these are people of the island-- : None
+3.3 :Who, though they are of monstrous shape, yet, note, : None
+3.3 :Their manners are more gentle-kind than of : None
+3.3 :Our human generation you shall find : None
+3.3 :Many, nay, almost any. : None
+PROSPERO
+3.3 :              Honest lord, : Aside : ['Aside - []'] : PROSPERO
+3.3 :Thou hast said well; for some of you there present : None
+3.3 :Are worse than devils. : None
+ALONSO
+3.3 :I cannot too much muse : None
+3.3 :Such shapes, such gesture and such sound, expressing, : None
+3.3 :Although they want the use of tongue, a kind : None
+3.3 :Of excellent dumb discourse. : None
+PROSPERO
+3.3 :	Praise in departing. : Aside : ['Aside - []'] : PROSPERO
+FRANCISCO
+3.3 :They vanish'd strangely. : None
+SEBASTIAN
+3.3 :No matter, since : None
+3.3 :They have left their viands behind; for we have stomachs. : None
+3.3 :Will't please you taste of what is here? : None
+ALONSO
+3.3 :Not I. : None
+GONZALO
+3.3 :Faith, sir, you need not fear. When we were boys, : None
+3.3 :Who would believe that there were mountaineers : None
+3.3 :Dew-lapp'd like bulls, whose throats had hanging at 'em : None
+3.3 :Wallets of flesh? or that there were such men : None
+3.3 :Whose heads stood in their breasts? which now we find : None
+3.3 :Each putter-out of five for one will bring us : None
+3.3 :Good warrant of. : None
+ALONSO
+3.3 :                  I will stand to and feed, : None
+3.3 :Although my last: no matter, since I feel : None
+3.3 :The best is past. Brother, my lord the duke, : None
+3.3 :Stand to and do as we. : None
+Thunder and lightning. Enter ARIEL, like a  harpy; claps his wings upon the table; and, with a quaint device, the banquet vanishes : ['None - []', "Enter - ['ARIEL']"] : ALONSO
+ARIEL
+3.3 :You are three men of sin, whom Destiny, : None
+3.3 :That hath to instrument this lower world : None
+3.3 :And what is in't, the never-surfeited sea : None
+3.3 :Hath caused to belch up you; and on this island : None
+3.3 :Where man doth not inhabit; you 'mongst men : None
+3.3 :Being most unfit to live. I have made you mad; : None
+3.3 :And even with such-like valour men hang and drown : None
+3.3 :Their proper selves. : None
+ALONSO, SEBASTIAN  & c. draw their swords : ["None - ['ALONSO', 'SEBASTIAN']", 'None - []'] : ARIEL
+3.3 :You fools! I and my fellows : None
+3.3 :Are ministers of Fate: the elements, : None
+3.3 :Of whom your swords are temper'd, may as well : None
+3.3 :Wound the loud winds, or with bemock'd-at stabs : None
+3.3 :Kill the still-closing waters, as diminish : None
+3.3 :One dowle that's in my plume: my fellow-ministers : None
+3.3 :Are like invulnerable. If you could hurt, : None
+3.3 :Your swords are now too massy for your strengths : None
+3.3 :And will not be uplifted. But remember-- : None
+3.3 :For that's my business to you--that you three : None
+3.3 :From Milan did supplant good Prospero; : None
+3.3 :Exposed unto the sea, which hath requit it, : None
+3.3 :Him and his innocent child: for which foul deed : None
+3.3 :The powers, delaying, not forgetting, have : None
+3.3 :Incensed the seas and shores, yea, all the creatures, : None
+3.3 :Against your peace. Thee of thy son, Alonso, : None
+3.3 :They have bereft; and do pronounce by me: : None
+3.3 :Lingering perdition, worse than any death : None
+3.3 :Can be at once, shall step by step attend : None
+3.3 :You and your ways; whose wraths to guard you from-- : None
+3.3 :Which here, in this most desolate isle, else falls : None
+3.3 :Upon your heads--is nothing but heart-sorrow : None
+3.3 :And a clear life ensuing. : None
+He vanishes in thunder; then, to soft music  enter the Shapes again, and dance, with mocks and mows, and carrying out the table : ['to - []'] : ARIEL
+PROSPERO
+3.3 :Bravely the figure of this harpy hast thou : None
+3.3 :Perform'd, my Ariel; a grace it had, devouring: : None
+3.3 :Of my instruction hast thou nothing bated : None
+3.3 :In what thou hadst to say: so, with good life : None
+3.3 :And observation strange, my meaner ministers : None
+3.3 :Their several kinds have done. My high charms work : None
+3.3 :And these mine enemies are all knit up : None
+3.3 :In their distractions; they now are in my power; : None
+3.3 :And in these fits I leave them, while I visit : None
+3.3 :Young Ferdinand, whom they suppose is drown'd, : None
+3.3 :And his and mine loved darling. : None
+Exit above : ['Exit - []'] : PROSPERO
+GONZALO
+3.3 :I' the name of something holy, sir, why stand you : None
+3.3 :In this strange stare? : None
+ALONSO
+3.3 :O, it is monstrous, monstrous: : None
+3.3 :Methought the billows spoke and told me of it; : None
+3.3 :The winds did sing it to me, and the thunder, : None
+3.3 :That deep and dreadful organ-pipe, pronounced : None
+3.3 :The name of Prosper: it did bass my trespass. : None
+3.3 :Therefore my son i' the ooze is bedded, and : None
+3.3 :I'll seek him deeper than e'er plummet sounded : None
+3.3 :And with him there lie mudded. : None
+Exit : ['Exit - []'] : ALONSO
+SEBASTIAN
+3.3 :But one fiend at a time, : None
+3.3 :I'll fight their legions o'er. : None
+ANTONIO
+3.3 :I'll be thy second. : None
+Exeunt SEBASTIAN, and ANTONIO : ["Exeunt - ['SEBASTIAN', 'ANTONIO']"] : ANTONIO
+GONZALO
+3.3 :All three of them are desperate: their great guilt, : None
+3.3 :Like poison given to work a great time after, : None
+3.3 :Now 'gins to bite the spirits. I do beseech you : None
+3.3 :That are of suppler joints, follow them swiftly : None
+3.3 :And hinder them from what this ecstasy : None
+3.3 :May now provoke them to. : None
+ADRIAN
+3.3 :Follow, I pray you. : None
+Exeunt : ['Exeunt - []'] : ADRIAN
+Act(act=4)
+Scene(scene=1)
+Enter PROSPERO, FERDINAND, and MIRANDA : ["Enter - ['PROSPERO', 'FERDINAND', 'MIRANDA']"] : ADRIAN
+PROSPERO
+4.1 :If I have too austerely punish'd you, : None
+4.1 :Your compensation makes amends, for I : None
+4.1 :Have given you here a third of mine own life, : None
+4.1 :Or that for which I live; who once again : None
+4.1 :I tender to thy hand: all thy vexations : None
+4.1 :Were but my trials of thy love and thou : None
+4.1 :Hast strangely stood the test here, afore Heaven, : None
+4.1 :I ratify this my rich gift. O Ferdinand, : None
+4.1 :Do not smile at me that I boast her off, : None
+4.1 :For thou shalt find she will outstrip all praise : None
+4.1 :And make it halt behind her. : None
+FERDINAND
+4.1 :I do believe it : None
+4.1 :Against an oracle. : None
+PROSPERO
+4.1 :Then, as my gift and thine own acquisition : None
+4.1 :Worthily purchased take my daughter: but : None
+4.1 :If thou dost break her virgin-knot before : None
+4.1 :All sanctimonious ceremonies may : None
+4.1 :With full and holy rite be minister'd, : None
+4.1 :No sweet aspersion shall the heavens let fall : None
+4.1 :To make this contract grow: but barren hate, : None
+4.1 :Sour-eyed disdain and discord shall bestrew : None
+4.1 :The union of your bed with weeds so loathly : None
+4.1 :That you shall hate it both: therefore take heed, : None
+4.1 :As Hymen's lamps shall light you. : None
+FERDINAND
+4.1 :As I hope : None
+4.1 :For quiet days, fair issue and long life, : None
+4.1 :With such love as 'tis now, the murkiest den, : None
+4.1 :The most opportune place, the strong'st suggestion. : None
+4.1 :Our worser genius can, shall never melt : None
+4.1 :Mine honour into lust, to take away : None
+4.1 :The edge of that day's celebration : None
+4.1 :When I shall think: or Phoebus' steeds are founder'd, : None
+4.1 :Or Night kept chain'd below. : None
+PROSPERO
+4.1 :Fairly spoke. : None
+4.1 :Sit then and talk with her; she is thine own. : None
+4.1 :What, Ariel! my industrious servant, Ariel! : None
+Enter ARIEL : ["Enter - ['ARIEL']"] : PROSPERO
+ARIEL
+4.1 :What would my potent master? here I am. : None
+PROSPERO
+4.1 :Thou and thy meaner fellows your last service : None
+4.1 :Did worthily perform; and I must use you : None
+4.1 :In such another trick. Go bring the rabble, : None
+4.1 :O'er whom I give thee power, here to this place: : None
+4.1 :Incite them to quick motion; for I must : None
+4.1 :Bestow upon the eyes of this young couple : None
+4.1 :Some vanity of mine art: it is my promise, : None
+4.1 :And they expect it from me. : None
+ARIEL
+4.1 :Presently? : None
+PROSPERO
+4.1 :Ay, with a twink. : None
+ARIEL
+4.1 :   Before you can say 'come' and 'go,' : None
+4.1 :And breathe twice and cry 'so, so,' : None
+4.1 :Each one, tripping on his toe, : None
+4.1 :Will be here with mop and mow. : None
+4.1 :Do you love me, master? no? : None
+PROSPERO
+4.1 :Dearly my delicate Ariel. Do not approach : None
+4.1 :Till thou dost hear me call. : None
+ARIEL
+4.1 :Well, I conceive. : None
+Exit : ['Exit - []'] : ARIEL
+PROSPERO
+4.1 :Look thou be true; do not give dalliance : None
+4.1 :Too much the rein: the strongest oaths are straw : None
+4.1 :To the fire i' the blood: be more abstemious, : None
+4.1 :Or else, good night your vow! : None
+FERDINAND
+4.1 :I warrant you sir; : None
+4.1 :The white cold virgin snow upon my heart : None
+4.1 :Abates the ardour of my liver. : None
+PROSPERO
+4.1 :Well. : None
+4.1 :Now come, my Ariel! bring a corollary, : None
+4.1 :Rather than want a spirit: appear and pertly! : None
+4.1 :No tongue! all eyes! be silent. : None
+Soft music : ['None - []'] : PROSPERO
+Enter IRIS : ["Enter - ['IRIS']"] : PROSPERO
+IRIS
+4.1 :Ceres, most bounteous lady, thy rich leas : None
+4.1 :Of wheat, rye, barley, vetches, oats and pease; : None
+4.1 :Thy turfy mountains, where live nibbling sheep, : None
+4.1 :And flat meads thatch'd with stover, them to keep; : None
+4.1 :Thy banks with pioned and twilled brims, : None
+4.1 :Which spongy April at thy hest betrims, : None
+4.1 :To make cold nymphs chaste crowns; and thy broom -groves, : None
+4.1 :Whose shadow the dismissed bachelor loves, : None
+4.1 :Being lass-lorn: thy pole-clipt vineyard; : None
+4.1 :And thy sea-marge, sterile and rocky-hard, : None
+4.1 :Where thou thyself dost air;--the queen o' the sky, : None
+4.1 :Whose watery arch and messenger am I, : None
+4.1 :Bids thee leave these, and with her sovereign grace, : None
+4.1 :Here on this grass-plot, in this very place, : None
+4.1 :To come and sport: her peacocks fly amain: : None
+4.1 :Approach, rich Ceres, her to entertain. : None
+Enter CERES : ["Enter - ['CERES']"] : IRIS
+CERES
+4.1 :Hail, many-colour'd messenger, that ne'er : None
+4.1 :Dost disobey the wife of Jupiter; : None
+4.1 :Who with thy saffron wings upon my flowers : None
+4.1 :Diffusest honey-drops, refreshing showers, : None
+4.1 :And with each end of thy blue bow dost crown : None
+4.1 :My bosky acres and my unshrubb'd down, : None
+4.1 :Rich scarf to my proud earth; why hath thy queen : None
+4.1 :Summon'd me hither, to this short-grass'd green? : None
+IRIS
+4.1 :A contract of true love to celebrate; : None
+4.1 :And some donation freely to estate : None
+4.1 :On the blest lovers. : None
+CERES
+4.1 :Tell me, heavenly bow, : None
+4.1 :If Venus or her son, as thou dost know, : None
+4.1 :Do now attend the queen? Since they did plot : None
+4.1 :The means that dusky Dis my daughter got, : None
+4.1 :Her and her blind boy's scandal'd company : None
+4.1 :I have forsworn. : None
+IRIS
+4.1 :                  Of her society : None
+4.1 :Be not afraid: I met her deity : None
+4.1 :Cutting the clouds towards Paphos and her son : None
+4.1 :Dove-drawn with her. Here thought they to have done : None
+4.1 :Some wanton charm upon this man and maid, : None
+4.1 :Whose vows are, that no bed-right shall be paid : None
+4.1 :Till Hymen's torch be lighted: but vain; : None
+4.1 :Mars's hot minion is returned again; : None
+4.1 :Her waspish-headed son has broke his arrows, : None
+4.1 :Swears he will shoot no more but play with sparrows : None
+4.1 :And be a boy right out. : None
+CERES
+4.1 :High'st queen of state, : None
+4.1 :Great Juno, comes; I know her by her gait. : None
+Enter JUNO : ["Enter - ['JUNO']"] : CERES
+JUNO
+4.1 :How does my bounteous sister? Go with me : None
+4.1 :To bless this twain, that they may prosperous be : None
+4.1 :And honour'd in their issue. : None
+They sing: : ['None - []'] : JUNO
+JUNO
+4.1 :   Honour, riches, marriage-blessing, : None
+4.1 :Long continuance, and increasing, : None
+4.1 :Hourly joys be still upon you! : None
+4.1 :Juno sings her blessings upon you. : None
+CERES
+4.1 :   Earth's increase, foison plenty, : None
+4.1 :Barns and garners never empty, : None
+4.1 :Vines and clustering bunches growing, : None
+4.1 :Plants with goodly burthen bowing; : None
+4.1 :Spring come to you at the farthest : None
+4.1 :In the very end of harvest! : None
+4.1 :Scarcity and want shall shun you; : None
+4.1 :Ceres' blessing so is on you. : None
+FERDINAND
+4.1 :This is a most majestic vision, and : None
+4.1 :Harmoniously charmingly. May I be bold : None
+4.1 :To think these spirits? : None
+PROSPERO
+4.1 :Spirits, which by mine art : None
+4.1 :I have from their confines call'd to enact : None
+4.1 :My present fancies. : None
+FERDINAND
+4.1 :Let me live here ever; : None
+4.1 :So rare a wonder'd father and a wife : None
+4.1 :Makes this place Paradise. : None
+Juno and Ceres whisper, and send Iris on employment : ["None - ['JUNO', 'CERES', 'IRIS']"] : FERDINAND
+PROSPERO
+4.1 :Sweet, now, silence! : None
+4.1 :Juno and Ceres whisper seriously; : None
+4.1 :There's something else to do: hush, and be mute, : None
+4.1 :Or else our spell is marr'd. : None
+IRIS
+4.1 :You nymphs, call'd Naiads, of the windring brooks, : None
+4.1 :With your sedged crowns and ever-harmless looks, : None
+4.1 :Leave your crisp channels and on this green land : None
+4.1 :Answer your summons; Juno does command: : None
+4.1 :Come, temperate nymphs, and help to celebrate : None
+4.1 :A contract of true love; be not too late. : None
+Enter certain Nymphs : ['Enter - []'] : IRIS
+4.1 :You sunburnt sicklemen, of August weary, : None
+4.1 :Come hither from the furrow and be merry: : None
+4.1 :Make holiday; your rye-straw hats put on : None
+4.1 :And these fresh nymphs encounter every one : None
+4.1 :In country footing. : None
+Enter certain Reapers, properly habited: they  join with the Nymphs in a graceful dance;  towards the end whereof PROSPERO starts  suddenly, and speaks; after which, to a  strange, hollow, and confused noise, they heavily vanish : ["Enter - ['PROSPERO']"] : IRIS
+PROSPERO
+4.1 :  I had forgot that foul conspiracy : Aside : ['Aside - []'] : PROSPERO
+4.1 :Of the beast Caliban and his confederates : None
+4.1 :Against my life: the minute of their plot : None
+4.1 :Is almost come. : None
+To the Spirits : ['To - []'] : PROSPERO
+4.1 :Well done! avoid; no more! : None
+FERDINAND
+4.1 :This is strange: your father's in some passion : None
+4.1 :That works him strongly. : None
+MIRANDA
+4.1 :Never till this day : None
+4.1 :Saw I him touch'd with anger so distemper'd. : None
+PROSPERO
+4.1 :You do look, my son, in a moved sort, : None
+4.1 :As if you were dismay'd: be cheerful, sir. : None
+4.1 :Our revels now are ended. These our actors, : None
+4.1 :As I foretold you, were all spirits and : None
+4.1 :Are melted into air, into thin air: : None
+4.1 :And, like the baseless fabric of this vision, : None
+4.1 :The cloud-capp'd towers, the gorgeous palaces, : None
+4.1 :The solemn temples, the great globe itself, : None
+4.1 :Ye all which it inherit, shall dissolve : None
+4.1 :And, like this insubstantial pageant faded, : None
+4.1 :Leave not a rack behind. We are such stuff : None
+4.1 :As dreams are made on, and our little life : None
+4.1 :Is rounded with a sleep. Sir, I am vex'd; : None
+4.1 :Bear with my weakness; my, brain is troubled: : None
+4.1 :Be not disturb'd with my infirmity: : None
+4.1 :If you be pleased, retire into my cell : None
+4.1 :And there repose: a turn or two I'll walk, : None
+4.1 :To still my beating mind. : None
+FERDINAND
+MIRANDA
+4.1 :We wish your peace. : None
+Exeunt : ['Exeunt - []'] : MIRANDA
+PROSPERO
+4.1 :Come with a thought I thank thee, Ariel: come. : None
+Enter ARIEL : ["Enter - ['ARIEL']"] : PROSPERO
+ARIEL
+4.1 :Thy thoughts I cleave to. What's thy pleasure? : None
+PROSPERO
+4.1 :Spirit, : None
+4.1 :We must prepare to meet with Caliban. : None
+ARIEL
+4.1 :Ay, my commander: when I presented Ceres, : None
+4.1 :I thought to have told thee of it, but I fear'd : None
+4.1 :Lest I might anger thee. : None
+PROSPERO
+4.1 :Say again, where didst thou leave these varlets? : None
+ARIEL
+4.1 :I told you, sir, they were red-hot with drinking; : None
+4.1 :So fun of valour that they smote the air : None
+4.1 :For breathing in their faces; beat the ground : None
+4.1 :For kissing of their feet; yet always bending : None
+4.1 :Towards their project. Then I beat my tabour; : None
+4.1 :At which, like unback'd colts, they prick'd : None
+4.1 :their ears, : None
+4.1 :Advanced their eyelids, lifted up their noses : None
+4.1 :As they smelt music: so I charm'd their ears : None
+4.1 :That calf-like they my lowing follow'd through : None
+4.1 :Tooth'd briers, sharp furzes, pricking goss and thorns, : None
+4.1 :Which entered their frail shins: at last I left them : None
+4.1 :I' the filthy-mantled pool beyond your cell, : None
+4.1 :There dancing up to the chins, that the foul lake : None
+4.1 :O'erstunk their feet. : None
+PROSPERO
+4.1 :This was well done, my bird. : None
+4.1 :Thy shape invisible retain thou still: : None
+4.1 :The trumpery in my house, go bring it hither, : None
+4.1 :For stale to catch these thieves. : None
+ARIEL
+4.1 :I go, I go. : None
+Exit : ['Exit - []'] : ARIEL
+PROSPERO
+4.1 :A devil, a born devil, on whose nature : None
+4.1 :Nurture can never stick; on whom my pains, : None
+4.1 :Humanely taken, all, all lost, quite lost; : None
+4.1 :And as with age his body uglier grows, : None
+4.1 :So his mind cankers. I will plague them all, : None
+4.1 :Even to roaring. : None
+Re-enter ARIEL, loaden with glistering apparel,  & c : ["Re-enter - ['ARIEL']"] : PROSPERO
+4.1 :Come, hang them on this line. : None
+PROSPERO and ARIEL remain invisible. Enter CALIBAN, STEPHANO, and TRINCULO, all wet : ["None - ['PROSPERO', 'ARIEL']", "Enter - ['CALIBAN', 'STEPHANO', 'TRINCULO']"] : PROSPERO
+CALIBAN
+4.1 :Pray you, tread softly, that the blind mole may not : None
+4.1 :Hear a foot fall: we now are near his cell. : None
+STEPHANO
+4.1 :Monster, your fairy, which you say is : None
+4.1 :a harmless fairy, has done little better than : None
+4.1 :played the Jack with us. : None
+TRINCULO
+4.1 :Monster, I do smell all horse-piss; at : None
+4.1 :which my nose is in great indignation. : None
+STEPHANO
+4.1 :So is mine. Do you hear, monster? If I should take : None
+4.1 :a displeasure against you, look you,-- : None
+TRINCULO
+4.1 :Thou wert but a lost monster. : None
+CALIBAN
+4.1 :Good my lord, give me thy favour still. : None
+4.1 :Be patient, for the prize I'll bring thee to : None
+4.1 :Shall hoodwink this mischance: therefore speak softly. : None
+4.1 :All's hush'd as midnight yet. : None
+TRINCULO
+4.1 :Ay, but to lose our bottles in the pool,-- : None
+STEPHANO
+4.1 :There is not only disgrace and dishonour in that, : None
+4.1 :monster, but an infinite loss. : None
+TRINCULO
+4.1 :That's more to me than my wetting: yet this is your : None
+4.1 :harmless fairy, monster. : None
+STEPHANO
+4.1 :I will fetch off my bottle, though I be o'er ears : None
+4.1 :for my labour. : None
+CALIBAN
+4.1 :Prithee, my king, be quiet. Seest thou here, : None
+4.1 :This is the mouth o' the cell: no noise, and enter. : None
+4.1 :Do that good mischief which may make this island : None
+4.1 :Thine own for ever, and I, thy Caliban, : None
+4.1 :For aye thy foot-licker. : None
+STEPHANO
+4.1 :Give me thy hand. I do begin to have bloody thoughts. : None
+TRINCULO
+4.1 :O king Stephano! O peer! O worthy Stephano! look : None
+4.1 :what a wardrobe here is for thee! : None
+CALIBAN
+4.1 :Let it alone, thou fool; it is but trash. : None
+TRINCULO
+4.1 :O, ho, monster! we know what belongs to a frippery. : None
+4.1 :O king Stephano! : None
+STEPHANO
+4.1 :Put off that gown, Trinculo; by this hand, I'll have : None
+4.1 :that gown. : None
+TRINCULO
+4.1 :Thy grace shall have it. : None
+CALIBAN
+4.1 :The dropsy drown this fool I what do you mean : None
+4.1 :To dote thus on such luggage? Let's alone : None
+4.1 :And do the murder first: if he awake, : None
+4.1 :From toe to crown he'll fill our skins with pinches, : None
+4.1 :Make us strange stuff. : None
+STEPHANO
+4.1 :Be you quiet, monster. Mistress line, : None
+4.1 :is not this my jerkin? Now is the jerkin under : None
+4.1 :the line: now, jerkin, you are like to lose your : None
+4.1 :hair and prove a bald jerkin. : None
+TRINCULO
+4.1 :Do, do: we steal by line and level, an't like your grace. : None
+STEPHANO
+4.1 :I thank thee for that jest; here's a garment for't: : None
+4.1 :wit shall not go unrewarded while I am king of this : None
+4.1 :country. 'Steal by line and level' is an excellent : None
+4.1 :pass of pate; there's another garment for't. : None
+TRINCULO
+4.1 :Monster, come, put some lime upon your fingers, and : None
+4.1 :away with the rest. : None
+CALIBAN
+4.1 :I will have none on't: we shall lose our time, : None
+4.1 :And all be turn'd to barnacles, or to apes : None
+4.1 :With foreheads villanous low. : None
+STEPHANO
+4.1 :Monster, lay-to your fingers: help to bear this : None
+4.1 :away where my hogshead of wine is, or I'll turn you : None
+4.1 :out of my kingdom: go to, carry this. : None
+TRINCULO
+4.1 :And this. : None
+STEPHANO
+4.1 :Ay, and this. : None
+A noise of hunters heard. Enter divers Spirits,  in shape of dogs and hounds, and hunt them about, PROSPERO and ARIEL setting them on : ['None - []', "Enter - ['PROSPERO', 'ARIEL']"] : STEPHANO
+PROSPERO
+4.1 :Hey, Mountain, hey! : None
+ARIEL
+4.1 :Silver I there it goes, Silver! : None
+PROSPERO
+4.1 :Fury, Fury! there, Tyrant, there! hark! hark! : None
+CALIBAN, STEPHANO, and TRINCULO, are driven out : ["None - ['CALIBAN', 'STEPHANO', 'TRINCULO']"] : PROSPERO
+4.1 :Go charge my goblins that they grind their joints : None
+4.1 :With dry convulsions, shorten up their sinews : None
+4.1 :With aged cramps, and more pinch-spotted make them : None
+4.1 :Than pard or cat o' mountain. : None
+ARIEL
+4.1 :Hark, they roar! : None
+PROSPERO
+4.1 :Let them be hunted soundly. At this hour : None
+4.1 :Lie at my mercy all mine enemies: : None
+4.1 :Shortly shall all my labours end, and thou : None
+4.1 :Shalt have the air at freedom: for a little : None
+4.1 :Follow, and do me service. : None
+Exeunt : ['Exeunt - []'] : PROSPERO
+Act(act=5)
+Scene(scene=1)
+Enter PROSPERO in his magic robes, and ARIEL : ["Enter - ['PROSPERO', 'ARIEL']"] : PROSPERO
+PROSPERO
+5.1 :Now does my project gather to a head: : None
+5.1 :My charms crack not; my spirits obey; and time : None
+5.1 :Goes upright with his carriage. How's the day? : None
+ARIEL
+5.1 :On the sixth hour; at which time, my lord, : None
+5.1 :You said our work should cease. : None
+PROSPERO
+5.1 :I did say so, : None
+5.1 :When first I raised the tempest. Say, my spirit, : None
+5.1 :How fares the king and's followers? : None
+ARIEL
+5.1 :Confined together : None
+5.1 :In the same fashion as you gave in charge, : None
+5.1 :Just as you left them; all prisoners, sir, : None
+5.1 :In the line-grove which weather-fends your cell; : None
+5.1 :They cannot budge till your release. The king, : None
+5.1 :His brother and yours, abide all three distracted : None
+5.1 :And the remainder mourning over them, : None
+5.1 :Brimful of sorrow and dismay; but chiefly : None
+5.1 :Him that you term'd, sir, 'The good old lord Gonzalo;' : None
+5.1 :His tears run down his beard, like winter's drops : None
+5.1 :From eaves of reeds. Your charm so strongly works 'em : None
+5.1 :That if you now beheld them, your affections : None
+5.1 :Would become tender. : None
+PROSPERO
+5.1 :Dost thou think so, spirit? : None
+ARIEL
+5.1 :Mine would, sir, were I human. : None
+PROSPERO
+5.1 :And mine shall. : None
+5.1 :Hast thou, which art but air, a touch, a feeling : None
+5.1 :Of their afflictions, and shall not myself, : None
+5.1 :One of their kind, that relish all as sharply, : None
+5.1 :Passion as they, be kindlier moved than thou art? : None
+5.1 :Though with their high wrongs I am struck to the quick, : None
+5.1 :Yet with my nobler reason 'gaitist my fury : None
+5.1 :Do I take part: the rarer action is : None
+5.1 :In virtue than in vengeance: they being penitent, : None
+5.1 :The sole drift of my purpose doth extend : None
+5.1 :Not a frown further. Go release them, Ariel: : None
+5.1 :My charms I'll break, their senses I'll restore, : None
+5.1 :And they shall be themselves. : None
+ARIEL
+5.1 :I'll fetch them, sir. : None
+Exit : ['Exit - []'] : ARIEL
+PROSPERO
+5.1 :Ye elves of hills, brooks, standing lakes and groves, : None
+5.1 :And ye that on the sands with printless foot : None
+5.1 :Do chase the ebbing Neptune and do fly him : None
+5.1 :When he comes back; you demi-puppets that : None
+5.1 :By moonshine do the green sour ringlets make, : None
+5.1 :Whereof the ewe not bites, and you whose pastime : None
+5.1 :Is to make midnight mushrooms, that rejoice : None
+5.1 :To hear the solemn curfew; by whose aid, : None
+5.1 :Weak masters though ye be, I have bedimm'd : None
+5.1 :The noontide sun, call'd forth the mutinous winds, : None
+5.1 :And 'twixt the green sea and the azured vault : None
+5.1 :Set roaring war: to the dread rattling thunder : None
+5.1 :Have I given fire and rifted Jove's stout oak : None
+5.1 :With his own bolt; the strong-based promontory : None
+5.1 :Have I made shake and by the spurs pluck'd up : None
+5.1 :The pine and cedar: graves at my command : None
+5.1 :Have waked their sleepers, oped, and let 'em forth : None
+5.1 :By my so potent art. But this rough magic : None
+5.1 :I here abjure, and, when I have required : None
+5.1 :Some heavenly music, which even now I do, : None
+5.1 :To work mine end upon their senses that : None
+5.1 :This airy charm is for, I'll break my staff, : None
+5.1 :Bury it certain fathoms in the earth, : None
+5.1 :And deeper than did ever plummet sound : None
+5.1 :I'll drown my book. : None
+Solemn music : ['None - []'] : PROSPERO
+Re-enter ARIEL before: then ALONSO, with a  frantic gesture, attended by GONZALO;  SEBASTIAN and ANTONIO in like manner,  attended by ADRIAN and FRANCISCO   they all  enter the circle which PROSPERO had made,  and there stand charmed; which PROSPERO observing, speaks: : ["Re-enter - ['ARIEL', 'ALONSO', 'GONZALO', 'SEBASTIAN', 'ANTONIO', 'ADRIAN', 'FRANCISCO', 'PROSPERO', 'PROSPERO']"] : PROSPERO
+5.1 :A solemn air and the best comforter : None
+5.1 :To an unsettled fancy cure thy brains, : None
+5.1 :Now useless, boil'd within thy skull! There stand, : None
+5.1 :For you are spell-stopp'd. : None
+5.1 :Holy Gonzalo, honourable man, : None
+5.1 :Mine eyes, even sociable to the show of thine, : None
+5.1 :Fall fellowly drops. The charm dissolves apace, : None
+5.1 :And as the morning steals upon the night, : None
+5.1 :Melting the darkness, so their rising senses : None
+5.1 :Begin to chase the ignorant fumes that mantle : None
+5.1 :Their clearer reason. O good Gonzalo, : None
+5.1 :My true preserver, and a loyal sir : None
+5.1 :To him you follow'st! I will pay thy graces : None
+5.1 :Home both in word and deed. Most cruelly : None
+5.1 :Didst thou, Alonso, use me and my daughter: : None
+5.1 :Thy brother was a furtherer in the act. : None
+5.1 :Thou art pinch'd fort now, Sebastian. Flesh and blood, : None
+5.1 :You, brother mine, that entertain'd ambition, : None
+5.1 :Expell'd remorse and nature; who, with Sebastian, : None
+5.1 :Whose inward pinches therefore are most strong, : None
+5.1 :Would here have kill'd your king; I do forgive thee, : None
+5.1 :Unnatural though thou art. Their understanding : None
+5.1 :Begins to swell, and the approaching tide : None
+5.1 :Will shortly fill the reasonable shore : None
+5.1 :That now lies foul and muddy. Not one of them : None
+5.1 :That yet looks on me, or would know me Ariel, : None
+5.1 :Fetch me the hat and rapier in my cell: : None
+5.1 :I will discase me, and myself present : None
+5.1 :As I was sometime Milan: quickly, spirit; : None
+5.1 :Thou shalt ere long be free. : None
+ARIEL sings and helps to attire him : ["to - ['ARIEL']"] : PROSPERO
+5.1 :Where the bee sucks. there suck I: : None
+5.1 :In a cowslip's bell I lie; : None
+5.1 :There I couch when owls do cry. : None
+5.1 :On the bat's back I do fly : None
+5.1 :After summer merrily. : None
+5.1 :Merrily, merrily shall I live now : None
+5.1 :Under the blossom that hangs on the bough. : None
+PROSPERO
+5.1 :Why, that's my dainty Ariel! I shall miss thee: : None
+5.1 :But yet thou shalt have freedom: so, so, so. : None
+5.1 :To the king's ship, invisible as thou art: : None
+5.1 :There shalt thou find the mariners asleep : None
+5.1 :Under the hatches; the master and the boatswain : None
+5.1 :Being awake, enforce them to this place, : None
+5.1 :And presently, I prithee. : None
+ARIEL
+5.1 :I drink the air before me, and return : None
+5.1 :Or ere your pulse twice beat. : None
+Exit : ['Exit - []'] : ARIEL
+GONZALO
+5.1 :All torment, trouble, wonder and amazement : None
+5.1 :Inhabits here: some heavenly power guide us : None
+5.1 :Out of this fearful country! : None
+PROSPERO
+5.1 :Behold, sir king, : None
+5.1 :The wronged Duke of Milan, Prospero: : None
+5.1 :For more assurance that a living prince : None
+5.1 :Does now speak to thee, I embrace thy body; : None
+5.1 :And to thee and thy company I bid : None
+5.1 :A hearty welcome. : None
+ALONSO
+5.1 :                  Whether thou best he or no, : None
+5.1 :Or some enchanted trifle to abuse me, : None
+5.1 :As late I have been, I not know: thy pulse : None
+5.1 :Beats as of flesh and blood; and, since I saw thee, : None
+5.1 :The affliction of my mind amends, with which, : None
+5.1 :I fear, a madness held me: this must crave, : None
+5.1 :An if this be at all, a most strange story. : None
+5.1 :Thy dukedom I resign and do entreat : None
+5.1 :Thou pardon me my wrongs. But how should Prospero : None
+5.1 :Be living and be here? : None
+PROSPERO
+5.1 :First, noble friend, : None
+5.1 :Let me embrace thine age, whose honour cannot : None
+5.1 :Be measured or confined. : None
+GONZALO
+5.1 :Whether this be : None
+5.1 :Or be not, I'll not swear. : None
+PROSPERO
+5.1 :You do yet taste : None
+5.1 :Some subtilties o' the isle, that will not let you : None
+5.1 :Believe things certain. Welcome, my friends all! : None
+Aside to SEBASTIAN and ANTONIO : ["Aside - ['SEBASTIAN', 'ANTONIO']"] : PROSPERO
+5.1 :But you, my brace of lords, were I so minded, : None
+5.1 :I here could pluck his highness' frown upon you : None
+5.1 :And justify you traitors: at this time : None
+5.1 :I will tell no tales. : None
+SEBASTIAN
+5.1 :  The devil speaks in him. : Aside : ['Aside - []'] : SEBASTIAN
+PROSPERO
+5.1 :No. : None
+5.1 :For you, most wicked sir, whom to call brother : None
+5.1 :Would even infect my mouth, I do forgive : None
+5.1 :Thy rankest fault; all of them; and require : None
+5.1 :My dukedom of thee, which perforce, I know, : None
+5.1 :Thou must restore. : None
+ALONSO
+5.1 :                  If thou be'st Prospero, : None
+5.1 :Give us particulars of thy preservation; : None
+5.1 :How thou hast met us here, who three hours since : None
+5.1 :Were wreck'd upon this shore; where I have lost-- : None
+5.1 :How sharp the point of this remembrance is!-- : None
+5.1 :My dear son Ferdinand. : None
+PROSPERO
+5.1 :I am woe for't, sir. : None
+ALONSO
+5.1 :Irreparable is the loss, and patience : None
+5.1 :Says it is past her cure. : None
+PROSPERO
+5.1 :I rather think : None
+5.1 :You have not sought her help, of whose soft grace : None
+5.1 :For the like loss I have her sovereign aid : None
+5.1 :And rest myself content. : None
+ALONSO
+5.1 :You the like loss! : None
+PROSPERO
+5.1 :As great to me as late; and, supportable : None
+5.1 :To make the dear loss, have I means much weaker : None
+5.1 :Than you may call to comfort you, for I : None
+5.1 :Have lost my daughter. : None
+ALONSO
+5.1 :A daughter? : None
+5.1 :O heavens, that they were living both in Naples, : None
+5.1 :The king and queen there! that they were, I wish : None
+5.1 :Myself were mudded in that oozy bed : None
+5.1 :Where my son lies. When did you lose your daughter? : None
+PROSPERO
+5.1 :In this last tempest. I perceive these lords : None
+5.1 :At this encounter do so much admire : None
+5.1 :That they devour their reason and scarce think : None
+5.1 :Their eyes do offices of truth, their words : None
+5.1 :Are natural breath: but, howsoe'er you have : None
+5.1 :Been justled from your senses, know for certain : None
+5.1 :That I am Prospero and that very duke : None
+5.1 :Which was thrust forth of Milan, who most strangely : None
+5.1 :Upon this shore, where you were wreck'd, was landed, : None
+5.1 :To be the lord on't. No more yet of this; : None
+5.1 :For 'tis a chronicle of day by day, : None
+5.1 :Not a relation for a breakfast nor : None
+5.1 :Befitting this first meeting. Welcome, sir; : None
+5.1 :This cell's my court: here have I few attendants : None
+5.1 :And subjects none abroad: pray you, look in. : None
+5.1 :My dukedom since you have given me again, : None
+5.1 :I will requite you with as good a thing; : None
+5.1 :At least bring forth a wonder, to content ye : None
+5.1 :As much as me my dukedom. : None
+Here PROSPERO discovers FERDINAND and MIRANDA playing at chess : ["None - ['PROSPERO', 'FERDINAND', 'MIRANDA']"] : PROSPERO
+MIRANDA
+5.1 :Sweet lord, you play me false. : None
+FERDINAND
+5.1 :No, my dear'st love, : None
+5.1 :I would not for the world. : None
+MIRANDA
+5.1 :Yes, for a score of kingdoms you should wrangle, : None
+5.1 :And I would call it, fair play. : None
+ALONSO
+5.1 :If this prove : None
+5.1 :A vision of the Island, one dear son : None
+5.1 :Shall I twice lose. : None
+SEBASTIAN
+5.1 :A most high miracle! : None
+FERDINAND
+5.1 :Though the seas threaten, they are merciful; : None
+5.1 :I have cursed them without cause. : None
+Kneels : ['None - []'] : FERDINAND
+ALONSO
+5.1 :Now all the blessings : None
+5.1 :Of a glad father compass thee about! : None
+5.1 :Arise, and say how thou camest here. : None
+MIRANDA
+5.1 :O, wonder! : None
+5.1 :How many goodly creatures are there here! : None
+5.1 :How beauteous mankind is! O brave new world, : None
+5.1 :That has such people in't! : None
+PROSPERO
+5.1 :'Tis new to thee. : None
+ALONSO
+5.1 :What is this maid with whom thou wast at play? : None
+5.1 :Your eld'st acquaintance cannot be three hours: : None
+5.1 :Is she the goddess that hath sever'd us, : None
+5.1 :And brought us thus together? : None
+FERDINAND
+5.1 :Sir, she is mortal; : None
+5.1 :But by immortal Providence she's mine: : None
+5.1 :I chose her when I could not ask my father : None
+5.1 :For his advice, nor thought I had one. She : None
+5.1 :Is daughter to this famous Duke of Milan, : None
+5.1 :Of whom so often I have heard renown, : None
+5.1 :But never saw before; of whom I have : None
+5.1 :Received a second life; and second father : None
+5.1 :This lady makes him to me. : None
+ALONSO
+5.1 :I am hers: : None
+5.1 :But, O, how oddly will it sound that I : None
+5.1 :Must ask my child forgiveness! : None
+PROSPERO
+5.1 :There, sir, stop: : None
+5.1 :Let us not burthen our remembrance with : None
+5.1 :A heaviness that's gone. : None
+GONZALO
+5.1 :I have inly wept, : None
+5.1 :Or should have spoke ere this. Look down, you god, : None
+5.1 :And on this couple drop a blessed crown! : None
+5.1 :For it is you that have chalk'd forth the way : None
+5.1 :Which brought us hither. : None
+ALONSO
+5.1 :I say, Amen, Gonzalo! : None
+GONZALO
+5.1 :Was Milan thrust from Milan, that his issue : None
+5.1 :Should become kings of Naples? O, rejoice : None
+5.1 :Beyond a common joy, and set it down : None
+5.1 :With gold on lasting pillars: In one voyage : None
+5.1 :Did Claribel her husband find at Tunis, : None
+5.1 :And Ferdinand, her brother, found a wife : None
+5.1 :Where he himself was lost, Prospero his dukedom : None
+5.1 :In a poor isle and all of us ourselves : None
+5.1 :When no man was his own. : None
+ALONSO
+5.1 :  Give me your hands: : To FERDINAND and MIRANDA : ["To - ['FERDINAND', 'MIRANDA']"] : ALONSO
+5.1 :Let grief and sorrow still embrace his heart : None
+5.1 :That doth not wish you joy! : None
+GONZALO
+5.1 :Be it so! Amen! : None
+Re-enter ARIEL, with the Master and Boatswain amazedly following : ["Re-enter - ['ARIEL', 'MASTER', 'BOATSWAIN']"] : GONZALO
+5.1 :O, look, sir, look, sir! here is more of us: : None
+5.1 :I prophesied, if a gallows were on land, : None
+5.1 :This fellow could not drown. Now, blasphemy, : None
+5.1 :That swear'st grace o'erboard, not an oath on shore? : None
+5.1 :Hast thou no mouth by land? What is the news? : None
+BOATSWAIN
+5.1 :The best news is, that we have safely found : None
+5.1 :Our king and company; the next, our ship-- : None
+5.1 :Which, but three glasses since, we gave out split-- : None
+5.1 :Is tight and yare and bravely rigg'd as when : None
+5.1 :We first put out to sea. : None
+ARIEL
+5.1 :  Sir, all this service : Aside to PROSPERO : ["Aside - ['PROSPERO']"] : ARIEL
+5.1 :Have I done since I went. : None
+PROSPERO
+5.1 :  My tricksy spirit! : Aside to ARIEL : ["Aside - ['ARIEL']"] : PROSPERO
+ALONSO
+5.1 :These are not natural events; they strengthen : None
+5.1 :From strange to stranger. Say, how came you hither? : None
+BOATSWAIN
+5.1 :If I did think, sir, I were well awake, : None
+5.1 :I'ld strive to tell you. We were dead of sleep, : None
+5.1 :And--how we know not--all clapp'd under hatches; : None
+5.1 :Where but even now with strange and several noises : None
+5.1 :Of roaring, shrieking, howling, jingling chains, : None
+5.1 :And more diversity of sounds, all horrible, : None
+5.1 :We were awaked; straightway, at liberty; : None
+5.1 :Where we, in all her trim, freshly beheld : None
+5.1 :Our royal, good and gallant ship, our master : None
+5.1 :Capering to eye her: on a trice, so please you, : None
+5.1 :Even in a dream, were we divided from them : None
+5.1 :And were brought moping hither. : None
+ARIEL
+5.1 :          Was't well done? : Aside to PROSPERO : ["Aside - ['PROSPERO']"] : ARIEL
+PROSPERO
+5.1 :  Bravely, my diligence. Thou shalt be free. : Aside to ARIEL : ["Aside - ['ARIEL']"] : PROSPERO
+ALONSO
+5.1 :This is as strange a maze as e'er men trod : None
+5.1 :And there is in this business more than nature : None
+5.1 :Was ever conduct of: some oracle : None
+5.1 :Must rectify our knowledge. : None
+PROSPERO
+5.1 :Sir, my liege, : None
+5.1 :Do not infest your mind with beating on : None
+5.1 :The strangeness of this business; at pick'd leisure : None
+5.1 :Which shall be shortly, single I'll resolve you, : None
+5.1 :Which to you shall seem probable, of every : None
+5.1 :These happen'd accidents; till when, be cheerful : None
+5.1 :And think of each thing well. : None
+Aside to ARIEL : ["Aside - ['ARIEL']"] : PROSPERO
+5.1 :Come hither, spirit: : None
+5.1 :Set Caliban and his companions free; : None
+5.1 :Untie the spell. : None
+Exit ARIEL : ["Exit - ['ARIEL']"] : PROSPERO
+5.1 :How fares my gracious sir? : None
+5.1 :There are yet missing of your company : None
+5.1 :Some few odd lads that you remember not. : None
+Re-enter ARIEL, driving in CALIBAN, STEPHANO and TRINCULO, in their stolen apparel : ["Re-enter - ['ARIEL', 'CALIBAN', 'STEPHANO', 'TRINCULO']"] : PROSPERO
+STEPHANO
+5.1 :Every man shift for all the rest, and : None
+5.1 :let no man take care for himself; for all is : None
+5.1 :but fortune. Coragio, bully-monster, coragio! : None
+TRINCULO
+5.1 :If these be true spies which I wear in my head, : None
+5.1 :here's a goodly sight. : None
+CALIBAN
+5.1 :O Setebos, these be brave spirits indeed! : None
+5.1 :How fine my master is! I am afraid : None
+5.1 :He will chastise me. : None
+SEBASTIAN
+5.1 :Ha, ha! : None
+5.1 :What things are these, my lord Antonio? : None
+5.1 :Will money buy 'em? : None
+ANTONIO
+5.1 :Very like; one of them : None
+5.1 :Is a plain fish, and, no doubt, marketable. : None
+PROSPERO
+5.1 :Mark but the badges of these men, my lords, : None
+5.1 :Then say if they be true. This mis-shapen knave, : None
+5.1 :His mother was a witch, and one so strong : None
+5.1 :That could control the moon, make flows and ebbs, : None
+5.1 :And deal in her command without her power. : None
+5.1 :These three have robb'd me; and this demi-devil-- : None
+5.1 :For he's a bastard one--had plotted with them : None
+5.1 :To take my life. Two of these fellows you : None
+5.1 :Must know and own; this thing of darkness! : None
+5.1 :Acknowledge mine. : None
+CALIBAN
+5.1 :                  I shall be pinch'd to death. : None
+ALONSO
+5.1 :Is not this Stephano, my drunken butler? : None
+SEBASTIAN
+5.1 :He is drunk now: where had he wine? : None
+ALONSO
+5.1 :And Trinculo is reeling ripe: where should they : None
+5.1 :Find this grand liquor that hath gilded 'em? : None
+5.1 :How camest thou in this pickle? : None
+TRINCULO
+5.1 :I have been in such a pickle since I : None
+5.1 :saw you last that, I fear me, will never out of : None
+5.1 :my bones: I shall not fear fly-blowing. : None
+SEBASTIAN
+5.1 :Why, how now, Stephano! : None
+STEPHANO
+5.1 :O, touch me not; I am not Stephano, but a cramp. : None
+PROSPERO
+5.1 :You'ld be king o' the isle, sirrah? : None
+STEPHANO
+5.1 :I should have been a sore one then. : None
+ALONSO
+5.1 :This is a strange thing as e'er I look'd on. : None
+Pointing to Caliban : ["to - ['CALIBAN']"] : ALONSO
+PROSPERO
+5.1 :He is as disproportion'd in his manners : None
+5.1 :As in his shape. Go, sirrah, to my cell; : None
+5.1 :Take with you your companions; as you look : None
+5.1 :To have my pardon, trim it handsomely. : None
+CALIBAN
+5.1 :Ay, that I will; and I'll be wise hereafter : None
+5.1 :And seek for grace. What a thrice-double ass : None
+5.1 :Was I, to take this drunkard for a god : None
+5.1 :And worship this dull fool! : None
+PROSPERO
+5.1 :Go to; away! : None
+ALONSO
+5.1 :Hence, and bestow your luggage where you found it. : None
+SEBASTIAN
+5.1 :Or stole it, rather. : None
+Exeunt CALIBAN, STEPHANO, and TRINCULO : ["Exeunt - ['CALIBAN', 'STEPHANO', 'TRINCULO']"] : SEBASTIAN
+PROSPERO
+5.1 :Sir, I invite your highness and your train : None
+5.1 :To my poor cell, where you shall take your rest : None
+5.1 :For this one night; which, part of it, I'll waste : None
+5.1 :With such discourse as, I not doubt, shall make it : None
+5.1 :Go quick away; the story of my life : None
+5.1 :And the particular accidents gone by : None
+5.1 :Since I came to this isle: and in the morn : None
+5.1 :I'll bring you to your ship and so to Naples, : None
+5.1 :Where I have hope to see the nuptial : None
+5.1 :Of these our dear-beloved solemnized; : None
+5.1 :And thence retire me to my Milan, where : None
+5.1 :Every third thought shall be my grave. : None
+ALONSO
+5.1 :I long : None
+5.1 :To hear the story of your life, which must : None
+5.1 :Take the ear strangely. : None
+PROSPERO
+5.1 :I'll deliver all; : None
+5.1 :And promise you calm seas, auspicious gales : None
+5.1 :And sail so expeditious that shall catch : None
+5.1 :Your royal fleet far off. : None
+Aside to ARIEL : ["Aside - ['ARIEL']"] : PROSPERO
+5.1 :My Ariel, chick, : None
+5.1 :That is thy charge: then to the elements : None
+5.1 :Be free, and fare thou well! Please you, draw near. : None
+Exeunt : ['Exeunt - []'] : PROSPERO
+5.1 :EPILOGUE : None
+5.1 :SPOKEN BY PROSPERO : None
+5.1 :Now my charms are all o'erthrown, : None
+5.1 :And what strength I have's mine own, : None
+5.1 :Which is most faint: now, 'tis true, : None
+5.1 :I must be here confined by you, : None
+5.1 :Or sent to Naples. Let me not, : None
+5.1 :Since I have my dukedom got : None
+5.1 :And pardon'd the deceiver, dwell : None
+5.1 :In this bare island by your spell; : None
+5.1 :But release me from my bands : None
+5.1 :With the help of your good hands: : None
+5.1 :Gentle breath of yours my sails : None
+5.1 :Must fill, or else my project fails, : None
+5.1 :Which was to please. Now I want : None
+5.1 :Spirits to enforce, art to enchant, : None
+5.1 :And my ending is despair, : None
+5.1 :Unless I be relieved by prayer, : None
+5.1 :Which pierces so that it assaults : None
+5.1 :Mercy itself and frees all faults. : None
+5.1 :As you from crimes would pardon'd be, : None
+5.1 :Let your indulgence set me free. : None

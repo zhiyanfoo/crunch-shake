@@ -1,0 +1,3700 @@
+Scene(scene=1)
+Enter Hostess and SLY : ["Enter - ['HOSTESS', 'SLY']"] : None
+SLY
+0.1 :I'll pheeze you, in faith. : None
+HOSTESS
+0.1 :A pair of stocks, you rogue! : None
+SLY
+0.1 :Ye are a baggage: the Slys are no rogues; look in : None
+0.1 :the chronicles; we came in with Richard Conqueror. : None
+0.1 :Therefore paucas pallabris; let the world slide: sessa! : None
+HOSTESS
+0.1 :You will not pay for the glasses you have burst? : None
+SLY
+0.1 :No, not a denier. Go by, Jeronimy: go to thy cold : None
+0.1 :bed, and warm thee. : None
+HOSTESS
+0.1 :I know my remedy; I must go fetch the : None
+0.1 :third--borough. : None
+Exit : ['Exit - []'] : HOSTESS
+SLY
+0.1 :Third, or fourth, or fifth borough, I'll answer him : None
+0.1 :by law: I'll not budge an inch, boy: let him come, : None
+0.1 :and kindly. : None
+Falls asleep : ["None - ['ALL']"] : SLY
+Horns winded. Enter a Lord from hunting, with his train : ['None - []', "Enter - ['LORD']"] : SLY
+LORD
+0.1 :Huntsman, I charge thee, tender well my hounds: : None
+0.1 :Brach Merriman, the poor cur is emboss'd; : None
+0.1 :And couple Clowder with the deep--mouth'd brach. : None
+0.1 :Saw'st thou not, boy, how Silver made it good : None
+0.1 :At the hedge-corner, in the coldest fault? : None
+0.1 :I would not lose the dog for twenty pound. : None
+FIRST HUNTSMAN
+0.1 :Why, Belman is as good as he, my lord; : None
+0.1 :He cried upon it at the merest loss : None
+0.1 :And twice to-day pick'd out the dullest scent: : None
+0.1 :Trust me, I take him for the better dog. : None
+LORD
+0.1 :Thou art a fool: if Echo were as fleet, : None
+0.1 :I would esteem him worth a dozen such. : None
+0.1 :But sup them well and look unto them all: : None
+0.1 :To-morrow I intend to hunt again. : None
+FIRST HUNTSMAN
+0.1 :I will, my lord. : None
+LORD
+0.1 :What's here? one dead, or drunk? See, doth he breathe? : None
+SECOND HUNTSMAN
+0.1 :He breathes, my lord. Were he not warm'd with ale, : None
+0.1 :This were a bed but cold to sleep so soundly. : None
+LORD
+0.1 :O monstrous beast! how like a swine he lies! : None
+0.1 :Grim death, how foul and loathsome is thine image! : None
+0.1 :Sirs, I will practise on this drunken man. : None
+0.1 :What think you, if he were convey'd to bed, : None
+0.1 :Wrapp'd in sweet clothes, rings put upon his fingers, : None
+0.1 :A most delicious banquet by his bed, : None
+0.1 :And brave attendants near him when he wakes, : None
+0.1 :Would not the beggar then forget himself? : None
+FIRST HUNTSMAN
+0.1 :Believe me, lord, I think he cannot choose. : None
+SECOND HUNTSMAN
+0.1 :It would seem strange unto him when he waked. : None
+LORD
+0.1 :Even as a flattering dream or worthless fancy. : None
+0.1 :Then take him up and manage well the jest: : None
+0.1 :Carry him gently to my fairest chamber : None
+0.1 :And hang it round with all my wanton pictures: : None
+0.1 :Balm his foul head in warm distilled waters : None
+0.1 :And burn sweet wood to make the lodging sweet: : None
+0.1 :Procure me music ready when he wakes, : None
+0.1 :To make a dulcet and a heavenly sound; : None
+0.1 :And if he chance to speak, be ready straight : None
+0.1 :And with a low submissive reverence : None
+0.1 :Say 'What is it your honour will command?' : None
+0.1 :Let one attend him with a silver basin : None
+0.1 :Full of rose-water and bestrew'd with flowers, : None
+0.1 :Another bear the ewer, the third a diaper, : None
+0.1 :And say 'Will't please your lordship cool your hands?' : None
+0.1 :Some one be ready with a costly suit : None
+0.1 :And ask him what apparel he will wear; : None
+0.1 :Another tell him of his hounds and horse, : None
+0.1 :And that his lady mourns at his disease: : None
+0.1 :Persuade him that he hath been lunatic; : None
+0.1 :And when he says he is, say that he dreams, : None
+0.1 :For he is nothing but a mighty lord. : None
+0.1 :This do and do it kindly, gentle sirs: : None
+0.1 :It will be pastime passing excellent, : None
+0.1 :If it be husbanded with modesty. : None
+FIRST HUNTSMAN
+0.1 :My lord, I warrant you we will play our part, : None
+0.1 :As he shall think by our true diligence : None
+0.1 :He is no less than what we say he is. : None
+LORD
+0.1 :Take him up gently and to bed with him; : None
+0.1 :And each one to his office when he wakes. : None
+Some bear out SLY. A trumpet sounds : ["None - ['SLY']", 'None - []'] : LORD
+0.1 :Sirrah, go see what trumpet 'tis that sounds: : None
+Exit Servingman : ['Exit - []'] : LORD
+0.1 :Belike, some noble gentleman that means, : None
+0.1 :Travelling some journey, to repose him here. : None
+Re-enter Servingman : ['Re-enter - []'] : LORD
+0.1 :How now! who is it? : None
+SERVANT
+0.1 :An't please your honour, players : None
+0.1 :That offer service to your lordship. : None
+LORD
+0.1 :Bid them come near. : None
+Enter Players : ["Enter - ['PLAYERS']"] : LORD
+0.1 :Now, fellows, you are welcome. : None
+PLAYERS
+0.1 :We thank your honour. : None
+LORD
+0.1 :Do you intend to stay with me tonight? : None
+A PLAYER
+0.1 :So please your lordship to accept our duty. : None
+LORD
+0.1 :With all my heart. This fellow I remember, : None
+0.1 :Since once he play'd a farmer's eldest son: : None
+0.1 :'Twas where you woo'd the gentlewoman so well: : None
+0.1 :I have forgot your name; but, sure, that part : None
+0.1 :Was aptly fitted and naturally perform'd. : None
+A PLAYER
+0.1 :I think 'twas Soto that your honour means. : None
+LORD
+0.1 :'Tis very true: thou didst it excellent. : None
+0.1 :Well, you are come to me in a happy time; : None
+0.1 :The rather for I have some sport in hand : None
+0.1 :Wherein your cunning can assist me much. : None
+0.1 :There is a lord will hear you play to-night: : None
+0.1 :But I am doubtful of your modesties; : None
+0.1 :Lest over-eyeing of his odd behavior,-- : None
+0.1 :For yet his honour never heard a play-- : None
+0.1 :You break into some merry passion : None
+0.1 :And so offend him; for I tell you, sirs, : None
+0.1 :If you should smile he grows impatient. : None
+A PLAYER
+0.1 :Fear not, my lord: we can contain ourselves, : None
+0.1 :Were he the veriest antic in the world. : None
+LORD
+0.1 :Go, sirrah, take them to the buttery, : None
+0.1 :And give them friendly welcome every one: : None
+0.1 :Let them want nothing that my house affords. : None
+Exit one with the Players : ["Exit - ['PLAYERS']"] : LORD
+0.1 :Sirrah, go you to Barthol'mew my page, : None
+0.1 :And see him dress'd in all suits like a lady: : None
+0.1 :That done, conduct him to the drunkard's chamber; : None
+0.1 :And call him 'madam,' do him obeisance. : None
+0.1 :Tell him from me, as he will win my love, : None
+0.1 :He bear himself with honourable action, : None
+0.1 :Such as he hath observed in noble ladies : None
+0.1 :Unto their lords, by them accomplished: : None
+0.1 :Such duty to the drunkard let him do : None
+0.1 :With soft low tongue and lowly courtesy, : None
+0.1 :And say 'What is't your honour will command, : None
+0.1 :Wherein your lady and your humble wife : None
+0.1 :May show her duty and make known her love?' : None
+0.1 :And then with kind embracements, tempting kisses, : None
+0.1 :And with declining head into his bosom, : None
+0.1 :Bid him shed tears, as being overjoy'd : None
+0.1 :To see her noble lord restored to health, : None
+0.1 :Who for this seven years hath esteem'd him : None
+0.1 :No better than a poor and loathsome beggar: : None
+0.1 :And if the boy have not a woman's gift : None
+0.1 :To rain a shower of commanded tears, : None
+0.1 :An onion will do well for such a shift, : None
+0.1 :Which in a napkin being close convey'd : None
+0.1 :Shall in despite enforce a watery eye. : None
+0.1 :See this dispatch'd with all the haste thou canst: : None
+0.1 :Anon I'll give thee more instructions. : None
+Exit a Servingman : ['Exit - []'] : LORD
+0.1 :I know the boy will well usurp the grace, : None
+0.1 :Voice, gait and action of a gentlewoman: : None
+0.1 :I long to hear him call the drunkard husband, : None
+0.1 :And how my men will stay themselves from laughter : None
+0.1 :When they do homage to this simple peasant. : None
+0.1 :I'll in to counsel them; haply my presence : None
+0.1 :May well abate the over-merry spleen : None
+0.1 :Which otherwise would grow into extremes. : None
+Exeunt : ['Exeunt - []'] : LORD
+Scene(scene=2)
+Enter aloft SLY, with Attendants; some with apparel, others with basin and ewer and appurtenances; and Lord : ["Enter - ['SLY', 'LORD']"] : LORD
+SLY
+0.2 :For God's sake, a pot of small ale. : None
+FIRST SERVANT
+0.2 :Will't please your lordship drink a cup of sack? : None
+SECOND SERVANT
+0.2 :Will't please your honour taste of these conserves? : None
+THIRD SERVANT
+0.2 :What raiment will your honour wear to-day? : None
+SLY
+0.2 :I am Christophero Sly; call not me 'honour' nor : None
+0.2 :'lordship:' I ne'er drank sack in my life; and if : None
+0.2 :you give me any conserves, give me conserves of : None
+0.2 :beef: ne'er ask me what raiment I'll wear; for I : None
+0.2 :have no more doublets than backs, no more stockings : None
+0.2 :than legs, nor no more shoes than feet; nay, : None
+0.2 :sometimes more feet than shoes, or such shoes as my : None
+0.2 :toes look through the over-leather. : None
+LORD
+0.2 :Heaven cease this idle humour in your honour! : None
+0.2 :O, that a mighty man of such descent, : None
+0.2 :Of such possessions and so high esteem, : None
+0.2 :Should be infused with so foul a spirit! : None
+SLY
+0.2 :What, would you make me mad? Am not I Christopher : None
+0.2 :Sly, old Sly's son of Burtonheath, by birth a : None
+0.2 :pedlar, by education a cardmaker, by transmutation a : None
+0.2 :bear-herd, and now by present profession a tinker? : None
+0.2 :Ask Marian Hacket, the fat ale-wife of Wincot, if : None
+0.2 :she know me not: if she say I am not fourteen pence : None
+0.2 :on the score for sheer ale, score me up for the : None
+0.2 :lyingest knave in Christendom. What! I am not : None
+0.2 :bestraught: here's-- : None
+THIRD SERVANT
+0.2 :O, this it is that makes your lady mourn! : None
+SECOND SERVANT
+0.2 :O, this is it that makes your servants droop! : None
+LORD
+0.2 :Hence comes it that your kindred shuns your house, : None
+0.2 :As beaten hence by your strange lunacy. : None
+0.2 :O noble lord, bethink thee of thy birth, : None
+0.2 :Call home thy ancient thoughts from banishment : None
+0.2 :And banish hence these abject lowly dreams. : None
+0.2 :Look how thy servants do attend on thee, : None
+0.2 :Each in his office ready at thy beck. : None
+0.2 :Wilt thou have music? hark! Apollo plays, : None
+Music : ['None - []'] : LORD
+0.2 :And twenty caged nightingales do sing: : None
+0.2 :Or wilt thou sleep? we'll have thee to a couch : None
+0.2 :Softer and sweeter than the lustful bed : None
+0.2 :On purpose trimm'd up for Semiramis. : None
+0.2 :Say thou wilt walk; we will bestrew the ground: : None
+0.2 :Or wilt thou ride? thy horses shall be trapp'd, : None
+0.2 :Their harness studded all with gold and pearl. : None
+0.2 :Dost thou love hawking? thou hast hawks will soar : None
+0.2 :Above the morning lark or wilt thou hunt? : None
+0.2 :Thy hounds shall make the welkin answer them : None
+0.2 :And fetch shrill echoes from the hollow earth. : None
+FIRST SERVANT
+0.2 :Say thou wilt course; thy greyhounds are as swift : None
+0.2 :As breathed stags, ay, fleeter than the roe. : None
+SECOND SERVANT
+0.2 :Dost thou love pictures? we will fetch thee straight : None
+0.2 :Adonis painted by a running brook, : None
+0.2 :And Cytherea all in sedges hid, : None
+0.2 :Which seem to move and wanton with her breath, : None
+0.2 :Even as the waving sedges play with wind. : None
+LORD
+0.2 :We'll show thee Io as she was a maid, : None
+0.2 :And how she was beguiled and surprised, : None
+0.2 :As lively painted as the deed was done. : None
+THIRD SERVANT
+0.2 :Or Daphne roaming through a thorny wood, : None
+0.2 :Scratching her legs that one shall swear she bleeds, : None
+0.2 :And at that sight shall sad Apollo weep, : None
+0.2 :So workmanly the blood and tears are drawn. : None
+LORD
+0.2 :Thou art a lord, and nothing but a lord: : None
+0.2 :Thou hast a lady far more beautiful : None
+0.2 :Than any woman in this waning age. : None
+FIRST SERVANT
+0.2 :And till the tears that she hath shed for thee : None
+0.2 :Like envious floods o'er-run her lovely face, : None
+0.2 :She was the fairest creature in the world; : None
+0.2 :And yet she is inferior to none. : None
+SLY
+0.2 :Am I a lord? and have I such a lady? : None
+0.2 :Or do I dream? or have I dream'd till now? : None
+0.2 :I do not sleep: I see, I hear, I speak; : None
+0.2 :I smell sweet savours and I feel soft things: : None
+0.2 :Upon my life, I am a lord indeed : None
+0.2 :And not a tinker nor Christophero Sly. : None
+0.2 :Well, bring our lady hither to our sight; : None
+0.2 :And once again, a pot o' the smallest ale. : None
+SECOND SERVANT
+0.2 :Will't please your mightiness to wash your hands? : None
+0.2 :O, how we joy to see your wit restored! : None
+0.2 :O, that once more you knew but what you are! : None
+0.2 :These fifteen years you have been in a dream; : None
+0.2 :Or when you waked, so waked as if you slept. : None
+SLY
+0.2 :These fifteen years! by my fay, a goodly nap. : None
+0.2 :But did I never speak of all that time? : None
+FIRST SERVANT
+0.2 :O, yes, my lord, but very idle words: : None
+0.2 :For though you lay here in this goodly chamber, : None
+0.2 :Yet would you say ye were beaten out of door; : None
+0.2 :And rail upon the hostess of the house; : None
+0.2 :And say you would present her at the leet, : None
+0.2 :Because she brought stone jugs and no seal'd quarts: : None
+0.2 :Sometimes you would call out for Cicely Hacket. : None
+SLY
+0.2 :Ay, the woman's maid of the house. : None
+THIRD SERVANT
+0.2 :Why, sir, you know no house nor no such maid, : None
+0.2 :Nor no such men as you have reckon'd up, : None
+0.2 :As Stephen Sly and did John Naps of Greece : None
+0.2 :And Peter Turph and Henry Pimpernell : None
+0.2 :And twenty more such names and men as these : None
+0.2 :Which never were nor no man ever saw. : None
+SLY
+0.2 :Now Lord be thanked for my good amends! : None
+ALL
+0.2 :Amen. : None
+SLY
+0.2 :I thank thee: thou shalt not lose by it. : None
+Enter the Page as a lady, with attendants : ["Enter - ['PAGE']"] : SLY
+PAGE
+0.2 :How fares my noble lord? : None
+SLY
+0.2 :Marry, I fare well for here is cheer enough. : None
+0.2 :Where is my wife? : None
+PAGE
+0.2 :Here, noble lord: what is thy will with her? : None
+SLY
+0.2 :Are you my wife and will not call me husband? : None
+0.2 :My men should call me 'lord:' I am your goodman. : None
+PAGE
+0.2 :My husband and my lord, my lord and husband; : None
+0.2 :I am your wife in all obedience. : None
+SLY
+0.2 :I know it well. What must I call her? : None
+LORD
+0.2 :Madam. : None
+SLY
+0.2 :Al'ce madam, or Joan madam? : None
+LORD
+0.2 :'Madam,' and nothing else: so lords : None
+0.2 :call ladies. : None
+SLY
+0.2 :Madam wife, they say that I have dream'd : None
+0.2 :And slept above some fifteen year or more. : None
+PAGE
+0.2 :Ay, and the time seems thirty unto me, : None
+0.2 :Being all this time abandon'd from your bed. : None
+SLY
+0.2 :'Tis much. Servants, leave me and her alone. : None
+0.2 :Madam, undress you and come now to bed. : None
+PAGE
+0.2 :Thrice noble lord, let me entreat of you : None
+0.2 :To pardon me yet for a night or two, : None
+0.2 :Or, if not so, until the sun be set: : None
+0.2 :For your physicians have expressly charged, : None
+0.2 :In peril to incur your former malady, : None
+0.2 :That I should yet absent me from your bed: : None
+0.2 :I hope this reason stands for my excuse. : None
+SLY
+0.2 :Ay, it stands so that I may hardly : None
+0.2 :tarry so long. But I would be loath to fall into : None
+0.2 :my dreams again: I will therefore tarry in : None
+0.2 :despite of the flesh and the blood. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : SLY
+MESSENGER
+0.2 :Your honour's players, heating your amendment, : None
+0.2 :Are come to play a pleasant comedy; : None
+0.2 :For so your doctors hold it very meet, : None
+0.2 :Seeing too much sadness hath congeal'd your blood, : None
+0.2 :And melancholy is the nurse of frenzy: : None
+0.2 :Therefore they thought it good you hear a play : None
+0.2 :And frame your mind to mirth and merriment, : None
+0.2 :Which bars a thousand harms and lengthens life. : None
+SLY
+0.2 :Marry, I will, let them play it. Is not a : None
+0.2 :comondy a Christmas gambold or a tumbling-trick? : None
+PAGE
+0.2 :No, my good lord; it is more pleasing stuff. : None
+SLY
+0.2 :What, household stuff? : None
+PAGE
+0.2 :It is a kind of history. : None
+SLY
+0.2 :Well, well see't. Come, madam wife, sit by my side : None
+0.2 :and let the world slip: we shall ne'er be younger. : None
+Flourish : ['None - []'] : SLY
+Act(act=1)
+Scene(scene=1)
+Enter LUCENTIO and his man TRANIO : ["Enter - ['LUCENTIO', 'TRANIO']"] : SLY
+LUCENTIO
+1.1 :Tranio, since for the great desire I had : None
+1.1 :To see fair Padua, nursery of arts, : None
+1.1 :I am arrived for fruitful Lombardy, : None
+1.1 :The pleasant garden of great Italy; : None
+1.1 :And by my father's love and leave am arm'd : None
+1.1 :With his good will and thy good company, : None
+1.1 :My trusty servant, well approved in all, : None
+1.1 :Here let us breathe and haply institute : None
+1.1 :A course of learning and ingenious studies. : None
+1.1 :Pisa renown'd for grave citizens : None
+1.1 :Gave me my being and my father first, : None
+1.1 :A merchant of great traffic through the world, : None
+1.1 :Vincetino come of Bentivolii. : None
+1.1 :Vincetino's son brought up in Florence : None
+1.1 :It shall become to serve all hopes conceived, : None
+1.1 :To deck his fortune with his virtuous deeds: : None
+1.1 :And therefore, Tranio, for the time I study, : None
+1.1 :Virtue and that part of philosophy : None
+1.1 :Will I apply that treats of happiness : None
+1.1 :By virtue specially to be achieved. : None
+1.1 :Tell me thy mind; for I have Pisa left : None
+1.1 :And am to Padua come, as he that leaves : None
+1.1 :A shallow plash to plunge him in the deep : None
+1.1 :And with satiety seeks to quench his thirst. : None
+TRANIO
+1.1 :Mi perdonato, gentle master mine, : None
+1.1 :I am in all affected as yourself; : None
+1.1 :Glad that you thus continue your resolve : None
+1.1 :To suck the sweets of sweet philosophy. : None
+1.1 :Only, good master, while we do admire : None
+1.1 :This virtue and this moral discipline, : None
+1.1 :Let's be no stoics nor no stocks, I pray; : None
+1.1 :Or so devote to Aristotle's cheques : None
+1.1 :As Ovid be an outcast quite abjured: : None
+1.1 :Balk logic with acquaintance that you have : None
+1.1 :And practise rhetoric in your common talk; : None
+1.1 :Music and poesy use to quicken you; : None
+1.1 :The mathematics and the metaphysics, : None
+1.1 :Fall to them as you find your stomach serves you; : None
+1.1 :No profit grows where is no pleasure ta'en: : None
+1.1 :In brief, sir, study what you most affect. : None
+LUCENTIO
+1.1 :Gramercies, Tranio, well dost thou advise. : None
+1.1 :If, Biondello, thou wert come ashore, : None
+1.1 :We could at once put us in readiness, : None
+1.1 :And take a lodging fit to entertain : None
+1.1 :Such friends as time in Padua shall beget. : None
+1.1 :But stay a while: what company is this? : None
+TRANIO
+1.1 :Master, some show to welcome us to town. : None
+Enter BAPTISTA, KATHARINA, BIANCA, GREMIO, and HORTENSIO. LUCENTIO and TRANIO stand by : ["Enter - ['BAPTISTA', 'KATHARINA', 'BIANCA', 'GREMIO', 'HORTENSIO']", "None - ['LUCENTIO', 'TRANIO']"] : TRANIO
+BAPTISTA
+1.1 :Gentlemen, importune me no farther, : None
+1.1 :For how I firmly am resolved you know; : None
+1.1 :That is, not bestow my youngest daughter : None
+1.1 :Before I have a husband for the elder: : None
+1.1 :If either of you both love Katharina, : None
+1.1 :Because I know you well and love you well, : None
+1.1 :Leave shall you have to court her at your pleasure. : None
+GREMIO
+1.1 :  To cart her rather: she's too rough for me. : Aside : ['Aside - []'] : GREMIO
+1.1 :There, There, Hortensio, will you any wife? : None
+KATHARINA
+1.1 :I pray you, sir, is it your will : None
+1.1 :To make a stale of me amongst these mates? : None
+HORTENSIO
+1.1 :Mates, maid! how mean you that? no mates for you, : None
+1.1 :Unless you were of gentler, milder mould. : None
+KATHARINA
+1.1 :I'faith, sir, you shall never need to fear: : None
+1.1 :I wis it is not half way to her heart; : None
+1.1 :But if it were, doubt not her care should be : None
+1.1 :To comb your noddle with a three-legg'd stool : None
+1.1 :And paint your face and use you like a fool. : None
+HORTENSIA
+1.1 :From all such devils, good Lord deliver us! : None
+GREMIO
+1.1 :And me too, good Lord! : None
+TRANIO
+1.1 :Hush, master! here's some good pastime toward: : None
+1.1 :That wench is stark mad or wonderful froward. : None
+LUCENTIO
+1.1 :But in the other's silence do I see : None
+1.1 :Maid's mild behavior and sobriety. : None
+1.1 :Peace, Tranio! : None
+TRANIO
+1.1 :Well said, master; mum! and gaze your fill. : None
+BAPTISTA
+1.1 :Gentlemen, that I may soon make good : None
+1.1 :What I have said, Bianca, get you in: : None
+1.1 :And let it not displease thee, good Bianca, : None
+1.1 :For I will love thee ne'er the less, my girl. : None
+KATHARINA
+1.1 :A pretty peat! it is best : None
+1.1 :Put finger in the eye, an she knew why. : None
+BIANCA
+1.1 :Sister, content you in my discontent. : None
+1.1 :Sir, to your pleasure humbly I subscribe: : None
+1.1 :My books and instruments shall be my company, : None
+1.1 :On them to took and practise by myself. : None
+LUCENTIO
+1.1 :Hark, Tranio! thou may'st hear Minerva speak. : None
+HORTENSIO
+1.1 :Signior Baptista, will you be so strange? : None
+1.1 :Sorry am I that our good will effects : None
+1.1 :Bianca's grief. : None
+GREMIO
+1.1 :                  Why will you mew her up, : None
+1.1 :Signior Baptista, for this fiend of hell, : None
+1.1 :And make her bear the penance of her tongue? : None
+BAPTISTA
+1.1 :Gentlemen, content ye; I am resolved: : None
+1.1 :Go in, Bianca: : None
+Exit BIANCA : ["Exit - ['BIANCA']"] : BAPTISTA
+1.1 :And for I know she taketh most delight : None
+1.1 :In music, instruments and poetry, : None
+1.1 :Schoolmasters will I keep within my house, : None
+1.1 :Fit to instruct her youth. If you, Hortensio, : None
+1.1 :Or Signior Gremio, you, know any such, : None
+1.1 :Prefer them hither; for to cunning men : None
+1.1 :I will be very kind, and liberal : None
+1.1 :To mine own children in good bringing up: : None
+1.1 :And so farewell. Katharina, you may stay; : None
+1.1 :For I have more to commune with Bianca. : None
+Exit : ['Exit - []'] : BAPTISTA
+KATHARINA
+1.1 :Why, and I trust I may go too, may I not? What, : None
+1.1 :shall I be appointed hours; as though, belike, I : None
+1.1 :knew not what to take and what to leave, ha? : None
+Exit : ['Exit - []'] : KATHARINA
+GREMIO
+1.1 :You may go to the devil's dam: your gifts are so : None
+1.1 :good, here's none will hold you. Their love is not : None
+1.1 :so great, Hortensio, but we may blow our nails : None
+1.1 :together, and fast it fairly out: our cakes dough on : None
+1.1 :both sides. Farewell: yet for the love I bear my : None
+1.1 :sweet Bianca, if I can by any means light on a fit : None
+1.1 :man to teach her that wherein she delights, I will : None
+1.1 :wish him to her father. : None
+HORTENSIO
+1.1 :So will I, Signior Gremio: but a word, I pray. : None
+1.1 :Though the nature of our quarrel yet never brooked : None
+1.1 :parle, know now, upon advice, it toucheth us both, : None
+1.1 :that we may yet again have access to our fair : None
+1.1 :mistress and be happy rivals in Bianco's love, to : None
+1.1 :labour and effect one thing specially. : None
+GREMIO
+1.1 :What's that, I pray? : None
+HORTENSIO
+1.1 :Marry, sir, to get a husband for her sister. : None
+GREMIO
+1.1 :A husband! a devil. : None
+HORTENSIO
+1.1 :I say, a husband. : None
+GREMIO
+1.1 :I say, a devil. Thinkest thou, Hortensio, though : None
+1.1 :her father be very rich, any man is so very a fool : None
+1.1 :to be married to hell? : None
+HORTENSIO
+1.1 :Tush, Gremio, though it pass your patience and mine : None
+1.1 :to endure her loud alarums, why, man, there be good : None
+1.1 :fellows in the world, an a man could light on them, : None
+1.1 :would take her with all faults, and money enough. : None
+GREMIO
+1.1 :I cannot tell; but I had as lief take her dowry with : None
+1.1 :this condition, to be whipped at the high cross : None
+1.1 :every morning. : None
+HORTENSIO
+1.1 :Faith, as you say, there's small choice in rotten : None
+1.1 :apples. But come; since this bar in law makes us : None
+1.1 :friends, it shall be so far forth friendly : None
+1.1 :maintained all by helping Baptista's eldest daughter : None
+1.1 :to a husband we set his youngest free for a husband, : None
+1.1 :and then have to't a fresh. Sweet Bianca! Happy man : None
+1.1 :be his dole! He that runs fastest gets the ring. : None
+1.1 :How say you, Signior Gremio? : None
+GREMIO
+1.1 :I am agreed; and would I had given him the best : None
+1.1 :horse in Padua to begin his wooing that would : None
+1.1 :thoroughly woo her, wed her and bed her and rid the : None
+1.1 :house of her! Come on. : None
+Exeunt GREMIO and HORTENSIO : ["Exeunt - ['GREMIO', 'HORTENSIO']"] : GREMIO
+TRANIO
+1.1 :I pray, sir, tell me, is it possible : None
+1.1 :That love should of a sudden take such hold? : None
+LUCENTIO
+1.1 :O Tranio, till I found it to be true, : None
+1.1 :I never thought it possible or likely; : None
+1.1 :But see, while idly I stood looking on, : None
+1.1 :I found the effect of love in idleness: : None
+1.1 :And now in plainness do confess to thee, : None
+1.1 :That art to me as secret and as dear : None
+1.1 :As Anna to the queen of Carthage was, : None
+1.1 :Tranio, I burn, I pine, I perish, Tranio, : None
+1.1 :If I achieve not this young modest girl. : None
+1.1 :Counsel me, Tranio, for I know thou canst; : None
+1.1 :Assist me, Tranio, for I know thou wilt. : None
+TRANIO
+1.1 :Master, it is no time to chide you now; : None
+1.1 :Affection is not rated from the heart: : None
+1.1 :If love have touch'd you, nought remains but so, : None
+1.1 :'Redime te captum quam queas minimo.' : None
+LUCENTIO
+1.1 :Gramercies, lad, go forward; this contents: : None
+1.1 :The rest will comfort, for thy counsel's sound. : None
+TRANIO
+1.1 :Master, you look'd so longly on the maid, : None
+1.1 :Perhaps you mark'd not what's the pith of all. : None
+LUCENTIO
+1.1 :O yes, I saw sweet beauty in her face, : None
+1.1 :Such as the daughter of Agenor had, : None
+1.1 :That made great Jove to humble him to her hand. : None
+1.1 :When with his knees he kiss'd the Cretan strand. : None
+TRANIO
+1.1 :Saw you no more? mark'd you not how her sister : None
+1.1 :Began to scold and raise up such a storm : None
+1.1 :That mortal ears might hardly endure the din? : None
+LUCENTIO
+1.1 :Tranio, I saw her coral lips to move : None
+1.1 :And with her breath she did perfume the air: : None
+1.1 :Sacred and sweet was all I saw in her. : None
+TRANIO
+1.1 :Nay, then, 'tis time to stir him from his trance. : None
+1.1 :I pray, awake, sir: if you love the maid, : None
+1.1 :Bend thoughts and wits to achieve her. Thus it stands: : None
+1.1 :Her eldest sister is so curst and shrewd : None
+1.1 :That till the father rid his hands of her, : None
+1.1 :Master, your love must live a maid at home; : None
+1.1 :And therefore has he closely mew'd her up, : None
+1.1 :Because she will not be annoy'd with suitors. : None
+LUCENTIO
+1.1 :Ah, Tranio, what a cruel father's he! : None
+1.1 :But art thou not advised, he took some care : None
+1.1 :To get her cunning schoolmasters to instruct her? : None
+TRANIO
+1.1 :Ay, marry, am I, sir; and now 'tis plotted. : None
+LUCENTIO
+1.1 :I have it, Tranio. : None
+TRANIO
+1.1 :                  Master, for my hand, : None
+1.1 :Both our inventions meet and jump in one. : None
+LUCENTIO
+1.1 :Tell me thine first. : None
+TRANIO
+1.1 :You will be schoolmaster : None
+1.1 :And undertake the teaching of the maid: : None
+1.1 :That's your device. : None
+LUCENTIO
+1.1 :It is: may it be done? : None
+TRANIO
+1.1 :Not possible; for who shall bear your part, : None
+1.1 :And be in Padua here Vincentio's son, : None
+1.1 :Keep house and ply his book, welcome his friends, : None
+1.1 :Visit his countrymen and banquet them? : None
+LUCENTIO
+1.1 :Basta; content thee, for I have it full. : None
+1.1 :We have not yet been seen in any house, : None
+1.1 :Nor can we lie distinguish'd by our faces : None
+1.1 :For man or master; then it follows thus; : None
+1.1 :Thou shalt be master, Tranio, in my stead, : None
+1.1 :Keep house and port and servants as I should: : None
+1.1 :I will some other be, some Florentine, : None
+1.1 :Some Neapolitan, or meaner man of Pisa. : None
+1.1 :'Tis hatch'd and shall be so: Tranio, at once : None
+1.1 :Uncase thee; take my colour'd hat and cloak: : None
+1.1 :When Biondello comes, he waits on thee; : None
+1.1 :But I will charm him first to keep his tongue. : None
+TRANIO
+1.1 :So had you need. : None
+1.1 :In brief, sir, sith it your pleasure is, : None
+1.1 :And I am tied to be obedient; : None
+1.1 :For so your father charged me at our parting, : None
+1.1 :'Be serviceable to my son,' quoth he, : None
+1.1 :Although I think 'twas in another sense; : None
+1.1 :I am content to be Lucentio, : None
+1.1 :Because so well I love Lucentio. : None
+LUCENTIO
+1.1 :Tranio, be so, because Lucentio loves: : None
+1.1 :And let me be a slave, to achieve that maid : None
+1.1 :Whose sudden sight hath thrall'd my wounded eye. : None
+1.1 :Here comes the rogue. : None
+Enter BIONDELLO : ["Enter - ['BIONDELLO']"] : LUCENTIO
+1.1 :Sirrah, where have you been? : None
+BIONDELLO
+1.1 :Where have I been! Nay, how now! where are you? : None
+1.1 :Master, has my fellow Tranio stolen your clothes? Or : None
+1.1 :you stolen his? or both? pray, what's the news? : None
+LUCENTIO
+1.1 :Sirrah, come hither: 'tis no time to jest, : None
+1.1 :And therefore frame your manners to the time. : None
+1.1 :Your fellow Tranio here, to save my life, : None
+1.1 :Puts my apparel and my countenance on, : None
+1.1 :And I for my escape have put on his; : None
+1.1 :For in a quarrel since I came ashore : None
+1.1 :I kill'd a man and fear I was descried: : None
+1.1 :Wait you on him, I charge you, as becomes, : None
+1.1 :While I make way from hence to save my life: : None
+1.1 :You understand me? : None
+BIONDELLO
+1.1 :                  I, sir! ne'er a whit. : None
+LUCENTIO
+1.1 :And not a jot of Tranio in your mouth: : None
+1.1 :Tranio is changed into Lucentio. : None
+BIONDELLO
+1.1 :The better for him: would I were so too! : None
+TRANIO
+1.1 :So could I, faith, boy, to have the next wish after, : None
+1.1 :That Lucentio indeed had Baptista's youngest daughter. : None
+1.1 :But, sirrah, not for my sake, but your master's, I advise : None
+1.1 :You use your manners discreetly in all kind of companies: : None
+1.1 :When I am alone, why, then I am Tranio; : None
+1.1 :But in all places else your master Lucentio. : None
+LUCENTIO
+1.1 :Tranio, let's go: one thing more rests, that : None
+1.1 :thyself execute, to make one among these wooers: if : None
+1.1 :thou ask me why, sufficeth, my reasons are both good : None
+1.1 :and weighty. : None
+Exeunt : ['Exeunt - []'] : LUCENTIO
+The presenters above speak : ['enter - []'] : LUCENTIO
+FIRST SERVANT
+1.1 :My lord, you nod; you do not mind the play. : None
+SLY
+1.1 :Yes, by Saint Anne, do I. A good matter, surely: : None
+1.1 :comes there any more of it? : None
+PAGE
+1.1 :My lord, 'tis but begun. : None
+SLY
+1.1 :'Tis a very excellent piece of work, madam lady: : None
+1.1 :would 'twere done! : None
+They sit and mark : ['None - []'] : SLY
+Scene(scene=2)
+Enter PETRUCHIO and his man GRUMIO : ["Enter - ['PETRUCHIO', 'GRUMIO']"] : SLY
+PETRUCHIO
+1.2 :Verona, for a while I take my leave, : None
+1.2 :To see my friends in Padua, but of all : None
+1.2 :My best beloved and approved friend, : None
+1.2 :Hortensio; and I trow this is his house. : None
+1.2 :Here, sirrah Grumio; knock, I say. : None
+GRUMIO
+1.2 :Knock, sir! whom should I knock? is there man has : None
+1.2 :rebused your worship? : None
+PETRUCHIO
+1.2 :Villain, I say, knock me here soundly. : None
+GRUMIO
+1.2 :Knock you here, sir! why, sir, what am I, sir, that : None
+1.2 :I should knock you here, sir? : None
+PETRUCHIO
+1.2 :Villain, I say, knock me at this gate : None
+1.2 :And rap me well, or I'll knock your knave's pate. : None
+GRUMIO
+1.2 :My master is grown quarrelsome. I should knock : None
+1.2 :you first, : None
+1.2 :And then I know after who comes by the worst. : None
+PETRUCHIO
+1.2 :Will it not be? : None
+1.2 :Faith, sirrah, an you'll not knock, I'll ring it; : None
+1.2 :I'll try how you can sol, fa, and sing it. : None
+He wrings him by the ears : ['None - []'] : PETRUCHIO
+GRUMIO
+1.2 :Help, masters, help! my master is mad. : None
+PETRUCHIO
+1.2 :Now, knock when I bid you, sirrah villain! : None
+Enter HORTENSIO : ["Enter - ['HORTENSIO']"] : PETRUCHIO
+HORTENSIO
+1.2 :How now! what's the matter? My old friend Grumio! : None
+1.2 :and my good friend Petruchio! How do you all at Verona? : None
+PETRUCHIO
+1.2 :Signior Hortensio, come you to part the fray? : None
+1.2 :'Con tutto il cuore, ben trovato,' may I say. : None
+HORTENSIO
+1.2 :'Alla nostra casa ben venuto, molto honorato signor : None
+1.2 :mio Petruchio.' Rise, Grumio, rise: we will compound : None
+1.2 :this quarrel. : None
+GRUMIO
+1.2 :Nay, 'tis no matter, sir, what he 'leges in Latin. : None
+1.2 :if this be not a lawful case for me to leave his : None
+1.2 :service, look you, sir, he bid me knock him and rap : None
+1.2 :him soundly, sir: well, was it fit for a servant to : None
+1.2 :use his master so, being perhaps, for aught I see, : None
+1.2 :two and thirty, a pip out? Whom would to God I had : None
+1.2 :well knock'd at first, Then had not Grumio come by the worst. : None
+PETRUCHIO
+1.2 :A senseless villain! Good Hortensio, : None
+1.2 :I bade the rascal knock upon your gate : None
+1.2 :And could not get him for my heart to do it. : None
+GRUMIO
+1.2 :Knock at the gate! O heavens! Spake you not these : None
+1.2 :words plain, 'Sirrah, knock me here, rap me here, : None
+1.2 :knock me well, and knock me soundly'? And come you : None
+1.2 :now with, 'knocking at the gate'? : None
+PETRUCHIO
+1.2 :Sirrah, be gone, or talk not, I advise you. : None
+HORTENSIO
+1.2 :Petruchio, patience; I am Grumio's pledge: : None
+1.2 :Why, this's a heavy chance 'twixt him and you, : None
+1.2 :Your ancient, trusty, pleasant servant Grumio. : None
+1.2 :And tell me now, sweet friend, what happy gale : None
+1.2 :Blows you to Padua here from old Verona? : None
+PETRUCHIO
+1.2 :Such wind as scatters young men through the world, : None
+1.2 :To seek their fortunes farther than at home : None
+1.2 :Where small experience grows. But in a few, : None
+1.2 :Signior Hortensio, thus it stands with me: : None
+1.2 :Antonio, my father, is deceased; : None
+1.2 :And I have thrust myself into this maze, : None
+1.2 :Haply to wive and thrive as best I may: : None
+1.2 :Crowns in my purse I have and goods at home, : None
+1.2 :And so am come abroad to see the world. : None
+HORTENSIO
+1.2 :Petruchio, shall I then come roundly to thee : None
+1.2 :And wish thee to a shrewd ill-favour'd wife? : None
+1.2 :Thou'ldst thank me but a little for my counsel: : None
+1.2 :And yet I'll promise thee she shall be rich : None
+1.2 :And very rich: but thou'rt too much my friend, : None
+1.2 :And I'll not wish thee to her. : None
+PETRUCHIO
+1.2 :Signior Hortensio, 'twixt such friends as we : None
+1.2 :Few words suffice; and therefore, if thou know : None
+1.2 :One rich enough to be Petruchio's wife, : None
+1.2 :As wealth is burden of my wooing dance, : None
+1.2 :Be she as foul as was Florentius' love, : None
+1.2 :As old as Sibyl and as curst and shrewd : None
+1.2 :As Socrates' Xanthippe, or a worse, : None
+1.2 :She moves me not, or not removes, at least, : None
+1.2 :Affection's edge in me, were she as rough : None
+1.2 :As are the swelling Adriatic seas: : None
+1.2 :I come to wive it wealthily in Padua; : None
+1.2 :If wealthily, then happily in Padua. : None
+GRUMIO
+1.2 :Nay, look you, sir, he tells you flatly what his : None
+1.2 :mind is: Why give him gold enough and marry him to : None
+1.2 :a puppet or an aglet-baby; or an old trot with ne'er : None
+1.2 :a tooth in her head, though she have as many diseases : None
+1.2 :as two and fifty horses: why, nothing comes amiss, : None
+1.2 :so money comes withal. : None
+HORTENSIO
+1.2 :Petruchio, since we are stepp'd thus far in, : None
+1.2 :I will continue that I broach'd in jest. : None
+1.2 :I can, Petruchio, help thee to a wife : None
+1.2 :With wealth enough and young and beauteous, : None
+1.2 :Brought up as best becomes a gentlewoman: : None
+1.2 :Her only fault, and that is faults enough, : None
+1.2 :Is that she is intolerable curst : None
+1.2 :And shrewd and froward, so beyond all measure : None
+1.2 :That, were my state far worser than it is, : None
+1.2 :I would not wed her for a mine of gold. : None
+PETRUCHIO
+1.2 :Hortensio, peace! thou know'st not gold's effect: : None
+1.2 :Tell me her father's name and 'tis enough; : None
+1.2 :For I will board her, though she chide as loud : None
+1.2 :As thunder when the clouds in autumn crack. : None
+HORTENSIO
+1.2 :Her father is Baptista Minola, : None
+1.2 :An affable and courteous gentleman: : None
+1.2 :Her name is Katharina Minola, : None
+1.2 :Renown'd in Padua for her scolding tongue. : None
+PETRUCHIO
+1.2 :I know her father, though I know not her; : None
+1.2 :And he knew my deceased father well. : None
+1.2 :I will not sleep, Hortensio, till I see her; : None
+1.2 :And therefore let me be thus bold with you : None
+1.2 :To give you over at this first encounter, : None
+1.2 :Unless you will accompany me thither. : None
+GRUMIO
+1.2 :I pray you, sir, let him go while the humour lasts. : None
+1.2 :O' my word, an she knew him as well as I do, she : None
+1.2 :would think scolding would do little good upon him: : None
+1.2 :she may perhaps call him half a score knaves or so: : None
+1.2 :why, that's nothing; an he begin once, he'll rail in : None
+1.2 :his rope-tricks. I'll tell you what sir, an she : None
+1.2 :stand him but a little, he will throw a figure in : None
+1.2 :her face and so disfigure her with it that she : None
+1.2 :shall have no more eyes to see withal than a cat. : None
+1.2 :You know him not, sir. : None
+HORTENSIO
+1.2 :Tarry, Petruchio, I must go with thee, : None
+1.2 :For in Baptista's keep my treasure is: : None
+1.2 :He hath the jewel of my life in hold, : None
+1.2 :His youngest daughter, beautiful Binaca, : None
+1.2 :And her withholds from me and other more, : None
+1.2 :Suitors to her and rivals in my love, : None
+1.2 :Supposing it a thing impossible, : None
+1.2 :For those defects I have before rehearsed, : None
+1.2 :That ever Katharina will be woo'd; : None
+1.2 :Therefore this order hath Baptista ta'en, : None
+1.2 :That none shall have access unto Bianca : None
+1.2 :Till Katharina the curst have got a husband. : None
+GRUMIO
+1.2 :Katharina the curst! : None
+1.2 :A title for a maid of all titles the worst. : None
+HORTENSIO
+1.2 :Now shall my friend Petruchio do me grace, : None
+1.2 :And offer me disguised in sober robes : None
+1.2 :To old Baptista as a schoolmaster : None
+1.2 :Well seen in music, to instruct Bianca; : None
+1.2 :That so I may, by this device, at least : None
+1.2 :Have leave and leisure to make love to her : None
+1.2 :And unsuspected court her by herself. : None
+GRUMIO
+1.2 :Here's no knavery! See, to beguile the old folks, : None
+1.2 :how the young folks lay their heads together! : None
+Enter GREMIO, and LUCENTIO disguised : ["Enter - ['GREMIO', 'LUCENTIO']"] : GRUMIO
+1.2 :Master, master, look about you: who goes there, ha? : None
+HORTENSIO
+1.2 :Peace, Grumio! it is the rival of my love. : None
+1.2 :Petruchio, stand by a while. : None
+GRUMIO
+1.2 :A proper stripling and an amorous! : None
+GREMIO
+1.2 :O, very well; I have perused the note. : None
+1.2 :Hark you, sir: I'll have them very fairly bound: : None
+1.2 :All books of love, see that at any hand; : None
+1.2 :And see you read no other lectures to her: : None
+1.2 :You understand me: over and beside : None
+1.2 :Signior Baptista's liberality, : None
+1.2 :I'll mend it with a largess. Take your paper too, : None
+1.2 :And let me have them very well perfumed : None
+1.2 :For she is sweeter than perfume itself : None
+1.2 :To whom they go to. What will you read to her? : None
+LUCENTIO
+1.2 :Whate'er I read to her, I'll plead for you : None
+1.2 :As for my patron, stand you so assured, : None
+1.2 :As firmly as yourself were still in place: : None
+1.2 :Yea, and perhaps with more successful words : None
+1.2 :Than you, unless you were a scholar, sir. : None
+GREMIO
+1.2 :O this learning, what a thing it is! : None
+GRUMIO
+1.2 :O this woodcock, what an ass it is! : None
+PETRUCHIO
+1.2 :Peace, sirrah! : None
+HORTENSIO
+1.2 :Grumio, mum! God save you, Signior Gremio. : None
+GREMIO
+1.2 :And you are well met, Signior Hortensio. : None
+1.2 :Trow you whither I am going? To Baptista Minola. : None
+1.2 :I promised to inquire carefully : None
+1.2 :About a schoolmaster for the fair Bianca: : None
+1.2 :And by good fortune I have lighted well : None
+1.2 :On this young man, for learning and behavior : None
+1.2 :Fit for her turn, well read in poetry : None
+1.2 :And other books, good ones, I warrant ye. : None
+HORTENSIO
+1.2 :'Tis well; and I have met a gentleman : None
+1.2 :Hath promised me to help me to another, : None
+1.2 :A fine musician to instruct our mistress; : None
+1.2 :So shall I no whit be behind in duty : None
+1.2 :To fair Bianca, so beloved of me. : None
+GREMIO
+1.2 :Beloved of me; and that my deeds shall prove. : None
+GRUMIO
+1.2 :And that his bags shall prove. : None
+HORTENSIO
+1.2 :Gremio, 'tis now no time to vent our love: : None
+1.2 :Listen to me, and if you speak me fair, : None
+1.2 :I'll tell you news indifferent good for either. : None
+1.2 :Here is a gentleman whom by chance I met, : None
+1.2 :Upon agreement from us to his liking, : None
+1.2 :Will undertake to woo curst Katharina, : None
+1.2 :Yea, and to marry her, if her dowry please. : None
+GREMIO
+1.2 :So said, so done, is well. : None
+1.2 :Hortensio, have you told him all her faults? : None
+PETRUCHIO
+1.2 :I know she is an irksome brawling scold: : None
+1.2 :If that be all, masters, I hear no harm. : None
+GREMIO
+1.2 :No, say'st me so, friend? What countryman? : None
+PETRUCHIO
+1.2 :Born in Verona, old Antonio's son: : None
+1.2 :My father dead, my fortune lives for me; : None
+1.2 :And I do hope good days and long to see. : None
+GREMIO
+1.2 :O sir, such a life, with such a wife, were strange! : None
+1.2 :But if you have a stomach, to't i' God's name: : None
+1.2 :You shall have me assisting you in all. : None
+1.2 :But will you woo this wild-cat? : None
+PETRUCHIO
+1.2 :Will I live? : None
+GRUMIO
+1.2 :Will he woo her? ay, or I'll hang her. : None
+PETRUCHIO
+1.2 :Why came I hither but to that intent? : None
+1.2 :Think you a little din can daunt mine ears? : None
+1.2 :Have I not in my time heard lions roar? : None
+1.2 :Have I not heard the sea puff'd up with winds : None
+1.2 :Rage like an angry boar chafed with sweat? : None
+1.2 :Have I not heard great ordnance in the field, : None
+1.2 :And heaven's artillery thunder in the skies? : None
+1.2 :Have I not in a pitched battle heard : None
+1.2 :Loud 'larums, neighing steeds, and trumpets' clang? : None
+1.2 :And do you tell me of a woman's tongue, : None
+1.2 :That gives not half so great a blow to hear : None
+1.2 :As will a chestnut in a farmer's fire? : None
+1.2 :Tush, tush! fear boys with bugs. : None
+GRUMIO
+1.2 :For he fears none. : None
+GREMIO
+1.2 :Hortensio, hark: : None
+1.2 :This gentleman is happily arrived, : None
+1.2 :My mind presumes, for his own good and ours. : None
+HORTENSIO
+1.2 :I promised we would be contributors : None
+1.2 :And bear his charging of wooing, whatsoe'er. : None
+GREMIO
+1.2 :And so we will, provided that he win her. : None
+GRUMIO
+1.2 :I would I were as sure of a good dinner. : None
+Enter TRANIO brave, and BIONDELLO : ["Enter - ['TRANIO', 'BIONDELLO']"] : GRUMIO
+TRANIO
+1.2 :Gentlemen, God save you. If I may be bold, : None
+1.2 :Tell me, I beseech you, which is the readiest way : None
+1.2 :To the house of Signior Baptista Minola? : None
+BIONDELLO
+1.2 :He that has the two fair daughters: is't he you mean? : None
+TRANIO
+1.2 :Even he, Biondello. : None
+GREMIO
+1.2 :Hark you, sir; you mean not her to-- : None
+TRANIO
+1.2 :Perhaps, him and her, sir: what have you to do? : None
+PETRUCHIO
+1.2 :Not her that chides, sir, at any hand, I pray. : None
+TRANIO
+1.2 :I love no chiders, sir. Biondello, let's away. : None
+LUCENTIO
+1.2 :Well begun, Tranio. : None
+HORTENSIO
+1.2 :Sir, a word ere you go; : None
+1.2 :Are you a suitor to the maid you talk of, yea or no? : None
+TRANIO
+1.2 :And if I be, sir, is it any offence? : None
+GREMIO
+1.2 :No; if without more words you will get you hence. : None
+TRANIO
+1.2 :Why, sir, I pray, are not the streets as free : None
+1.2 :For me as for you? : None
+GREMIO
+1.2 :                  But so is not she. : None
+TRANIO
+1.2 :For what reason, I beseech you? : None
+GREMIO
+1.2 :For this reason, if you'll know, : None
+1.2 :That she's the choice love of Signior Gremio. : None
+HORTENSIO
+1.2 :That she's the chosen of Signior Hortensio. : None
+TRANIO
+1.2 :Softly, my masters! if you be gentlemen, : None
+1.2 :Do me this right; hear me with patience. : None
+1.2 :Baptista is a noble gentleman, : None
+1.2 :To whom my father is not all unknown; : None
+1.2 :And were his daughter fairer than she is, : None
+1.2 :She may more suitors have and me for one. : None
+1.2 :Fair Leda's daughter had a thousand wooers; : None
+1.2 :Then well one more may fair Bianca have: : None
+1.2 :And so she shall; Lucentio shall make one, : None
+1.2 :Though Paris came in hope to speed alone. : None
+GREMIO
+1.2 :What! this gentleman will out-talk us all. : None
+LUCENTIO
+1.2 :Sir, give him head: I know he'll prove a jade. : None
+PETRUCHIO
+1.2 :Hortensio, to what end are all these words? : None
+HORTENSIO
+1.2 :Sir, let me be so bold as ask you, : None
+1.2 :Did you yet ever see Baptista's daughter? : None
+TRANIO
+1.2 :No, sir; but hear I do that he hath two, : None
+1.2 :The one as famous for a scolding tongue : None
+1.2 :As is the other for beauteous modesty. : None
+PETRUCHIO
+1.2 :Sir, sir, the first's for me; let her go by. : None
+GREMIO
+1.2 :Yea, leave that labour to great Hercules; : None
+1.2 :And let it be more than Alcides' twelve. : None
+PETRUCHIO
+1.2 :Sir, understand you this of me in sooth: : None
+1.2 :The younges t daughter whom you hearken for : None
+1.2 :Her father keeps from all access of suitors, : None
+1.2 :And will not promise her to any man : None
+1.2 :Until the elder sister first be wed: : None
+1.2 :The younger then is free and not before. : None
+TRANIO
+1.2 :If it be so, sir, that you are the man : None
+1.2 :Must stead us all and me amongst the rest, : None
+1.2 :And if you break the ice and do this feat, : None
+1.2 :Achieve the elder, set the younger free : None
+1.2 :For our access, whose hap shall be to have her : None
+1.2 :Will not so graceless be to be ingrate. : None
+HORTENSIO
+1.2 :Sir, you say well and well you do conceive; : None
+1.2 :And since you do profess to be a suitor, : None
+1.2 :You must, as we do, gratify this gentleman, : None
+1.2 :To whom we all rest generally beholding. : None
+TRANIO
+1.2 :Sir, I shall not be slack: in sign whereof, : None
+1.2 :Please ye we may contrive this afternoon, : None
+1.2 :And quaff carouses to our mistress' health, : None
+1.2 :And do as adversaries do in law, : None
+1.2 :Strive mightily, but eat and drink as friends. : None
+GRUMIO
+BIONDELLO
+1.2 :O excellent motion! Fellows, let's be gone. : None
+HORTENSIO
+1.2 :The motion's good indeed and be it so, : None
+1.2 :Petruchio, I shall be your ben venuto. : None
+Exeunt : ['Exeunt - []'] : HORTENSIO
+Act(act=2)
+Scene(scene=1)
+Enter KATHARINA and BIANCA : ["Enter - ['KATHARINA', 'BIANCA']"] : HORTENSIO
+BIANCA
+2.1 :Good sister, wrong me not, nor wrong yourself, : None
+2.1 :To make a bondmaid and a slave of me; : None
+2.1 :That I disdain: but for these other gawds, : None
+2.1 :Unbind my hands, I'll pull them off myself, : None
+2.1 :Yea, all my raiment, to my petticoat; : None
+2.1 :Or what you will command me will I do, : None
+2.1 :So well I know my duty to my elders. : None
+KATHARINA
+2.1 :Of all thy suitors, here I charge thee, tell : None
+2.1 :Whom thou lovest best: see thou dissemble not. : None
+BIANCA
+2.1 :Believe me, sister, of all the men alive : None
+2.1 :I never yet beheld that special face : None
+2.1 :Which I could fancy more than any other. : None
+KATHARINA
+2.1 :Minion, thou liest. Is't not Hortensio? : None
+BIANCA
+2.1 :If you affect him, sister, here I swear : None
+2.1 :I'll plead for you myself, but you shall have : None
+2.1 :him. : None
+KATHARINA
+2.1 :O then, belike, you fancy riches more: : None
+2.1 :You will have Gremio to keep you fair. : None
+BIANCA
+2.1 :Is it for him you do envy me so? : None
+2.1 :Nay then you jest, and now I well perceive : None
+2.1 :You have but jested with me all this while: : None
+2.1 :I prithee, sister Kate, untie my hands. : None
+KATHARINA
+2.1 :If that be jest, then all the rest was so. : None
+Strikes her : ['None - []'] : KATHARINA
+Enter BAPTISTA : ["Enter - ['BAPTISTA']"] : KATHARINA
+BAPTISTA
+2.1 :Why, how now, dame! whence grows this insolence? : None
+2.1 :Bianca, stand aside. Poor girl! she weeps. : None
+2.1 :Go ply thy needle; meddle not with her. : None
+2.1 :For shame, thou helding of a devilish spirit, : None
+2.1 :Why dost thou wrong her that did ne'er wrong thee? : None
+2.1 :When did she cross thee with a bitter word? : None
+KATHARINA
+2.1 :Her silence flouts me, and I'll be revenged. : None
+Flies after BIANCA : ["None - ['BIANCA']"] : KATHARINA
+BAPTISTA
+2.1 :What, in my sight? Bianca, get thee in. : None
+Exit BIANCA : ["Exit - ['BIANCA']"] : BAPTISTA
+KATHARINA
+2.1 :What, will you not suffer me? Nay, now I see : None
+2.1 :She is your treasure, she must have a husband; : None
+2.1 :I must dance bare-foot on her wedding day : None
+2.1 :And for your love to her lead apes in hell. : None
+2.1 :Talk not to me: I will go sit and weep : None
+2.1 :Till I can find occasion of revenge. : None
+Exit : ['Exit - []'] : KATHARINA
+BAPTISTA
+2.1 :Was ever gentleman thus grieved as I? : None
+2.1 :But who comes here? : None
+Enter GREMIO, LUCENTIO in the habit of a mean man;  PETRUCHIO, with HORTENSIO as a musician; and TRANIO, with BIONDELLO bearing a lute and books : ["Enter - ['GREMIO', 'LUCENTIO', 'PETRUCHIO', 'HORTENSIO', 'TRANIO', 'BIONDELLO']"] : BAPTISTA
+GREMIO
+2.1 :Good morrow, neighbour Baptista. : None
+BAPTISTA
+2.1 :Good morrow, neighbour Gremio. : None
+2.1 :God save you, gentlemen! : None
+PETRUCHIO
+2.1 :And you, good sir! Pray, have you not a daughter : None
+2.1 :Call'd Katharina, fair and virtuous? : None
+BAPTISTA
+2.1 :I have a daughter, sir, called Katharina. : None
+GREMIO
+2.1 :You are too blunt: go to it orderly. : None
+PETRUCHIO
+2.1 :You wrong me, Signior Gremio: give me leave. : None
+2.1 :I am a gentleman of Verona, sir, : None
+2.1 :That, hearing of her beauty and her wit, : None
+2.1 :Her affability and bashful modesty, : None
+2.1 :Her wondrous qualities and mild behavior, : None
+2.1 :Am bold to show myself a forward guest : None
+2.1 :Within your house, to make mine eye the witness : None
+2.1 :Of that report which I so oft have heard. : None
+2.1 :And, for an entrance to my entertainment, : None
+2.1 :I do present you with a man of mine, : None
+Presenting HORTENSIO : ["None - ['HORTENSIO']"] : PETRUCHIO
+2.1 :Cunning in music and the mathematics, : None
+2.1 :To instruct her fully in those sciences, : None
+2.1 :Whereof I know she is not ignorant: : None
+2.1 :Accept of him, or else you do me wrong: : None
+2.1 :His name is Licio, born in Mantua. : None
+BAPTISTA
+2.1 :You're welcome, sir; and he, for your good sake. : None
+2.1 :But for my daughter Katharina, this I know, : None
+2.1 :She is not for your turn, the more my grief. : None
+PETRUCHIO
+2.1 :I see you do not mean to part with her, : None
+2.1 :Or else you like not of my company. : None
+BAPTISTA
+2.1 :Mistake me not; I speak but as I find. : None
+2.1 :Whence are you, sir? what may I call your name? : None
+PETRUCHIO
+2.1 :Petruchio is my name; Antonio's son, : None
+2.1 :A man well known throughout all Italy. : None
+BAPTISTA
+2.1 :I know him well: you are welcome for his sake. : None
+GREMIO
+2.1 :Saving your tale, Petruchio, I pray, : None
+2.1 :Let us, that are poor petitioners, speak too: : None
+2.1 :Baccare! you are marvellous forward. : None
+PETRUCHIO
+2.1 :O, pardon me, Signior Gremio; I would fain be doing. : None
+GREMIO
+2.1 :I doubt it not, sir; but you will curse your : None
+2.1 :wooing. Neighbour, this is a gift very grateful, I am : None
+2.1 :sure of it. To express the like kindness, myself, : None
+2.1 :that have been more kindly beholding to you than : None
+2.1 :any, freely give unto you this young scholar, : None
+Presenting LUCENTIO : ["None - ['LUCENTIO']"] : GREMIO
+2.1 :that hath been long studying at Rheims; as cunning : None
+2.1 :in Greek, Latin, and other languages, as the other : None
+2.1 :in music and mathematics: his name is Cambio; pray, : None
+2.1 :accept his service. : None
+BAPTISTA
+2.1 :A thousand thanks, Signior Gremio. : None
+2.1 :Welcome, good Cambio. : None
+To TRANIO : ["To - ['TRANIO']"] : BAPTISTA
+2.1 :But, gentle sir, methinks you walk like a stranger: : None
+2.1 :may I be so bold to know the cause of your coming? : None
+TRANIO
+2.1 :Pardon me, sir, the boldness is mine own, : None
+2.1 :That, being a stranger in this city here, : None
+2.1 :Do make myself a suitor to your daughter, : None
+2.1 :Unto Bianca, fair and virtuous. : None
+2.1 :Nor is your firm resolve unknown to me, : None
+2.1 :In the preferment of the eldest sister. : None
+2.1 :This liberty is all that I request, : None
+2.1 :That, upon knowledge of my parentage, : None
+2.1 :I may have welcome 'mongst the rest that woo : None
+2.1 :And free access and favour as the rest: : None
+2.1 :And, toward the education of your daughters, : None
+2.1 :I here bestow a simple instrument, : None
+2.1 :And this small packet of Greek and Latin books: : None
+2.1 :If you accept them, then their worth is great. : None
+BAPTISTA
+2.1 :Lucentio is your name; of whence, I pray? : None
+TRANIO
+2.1 :Of Pisa, sir; son to Vincentio. : None
+BAPTISTA
+2.1 :A mighty man of Pisa; by report : None
+2.1 :I know him well: you are very welcome, sir, : None
+2.1 :Take you the lute, and you the set of books; : None
+2.1 :You shall go see your pupils presently. : None
+2.1 :Holla, within! : None
+Enter a Servant : ["Enter - ['SERVANT']"] : BAPTISTA
+2.1 :Sirrah, lead these gentlemen : None
+2.1 :To my daughters; and tell them both, : None
+2.1 :These are their tutors: bid them use them well. : None
+Exit Servant, with LUCENTIO and HORTENSIO, BIONDELLO following : ["Exit - ['SERVANT', 'LUCENTIO', 'HORTENSIO', 'BIONDELLO']"] : BAPTISTA
+2.1 :We will go walk a little in the orchard, : None
+2.1 :And then to dinner. You are passing welcome, : None
+2.1 :And so I pray you all to think yourselves. : None
+PETRUCHIO
+2.1 :Signior Baptista, my business asketh haste, : None
+2.1 :And every day I cannot come to woo. : None
+2.1 :You knew my father well, and in him me, : None
+2.1 :Left solely heir to all his lands and goods, : None
+2.1 :Which I have better'd rather than decreased: : None
+2.1 :Then tell me, if I get your daughter's love, : None
+2.1 :What dowry shall I have with her to wife? : None
+BAPTISTA
+2.1 :After my death the one half of my lands, : None
+2.1 :And in possession twenty thousand crowns. : None
+PETRUCHIO
+2.1 :And, for that dowry, I'll assure her of : None
+2.1 :Her widowhood, be it that she survive me, : None
+2.1 :In all my lands and leases whatsoever: : None
+2.1 :Let specialties be therefore drawn between us, : None
+2.1 :That covenants may be kept on either hand. : None
+BAPTISTA
+2.1 :Ay, when the special thing is well obtain'd, : None
+2.1 :That is, her love; for that is all in all. : None
+PETRUCHIO
+2.1 :Why, that is nothing: for I tell you, father, : None
+2.1 :I am as peremptory as she proud-minded; : None
+2.1 :And where two raging fires meet together : None
+2.1 :They do consume the thing that feeds their fury: : None
+2.1 :Though little fire grows great with little wind, : None
+2.1 :Yet extreme gusts will blow out fire and all: : None
+2.1 :So I to her and so she yields to me; : None
+2.1 :For I am rough and woo not like a babe. : None
+BAPTISTA
+2.1 :Well mayst thou woo, and happy be thy speed! : None
+2.1 :But be thou arm'd for some unhappy words. : None
+PETRUCHIO
+2.1 :Ay, to the proof; as mountains are for winds, : None
+2.1 :That shake not, though they blow perpetually. : None
+Re-enter HORTENSIO, with his head broke : ["Re-enter - ['HORTENSIO']"] : PETRUCHIO
+BAPTISTA
+2.1 :How now, my friend! why dost thou look so pale? : None
+HORTENSIO
+2.1 :For fear, I promise you, if I look pale. : None
+BAPTISTA
+2.1 :What, will my daughter prove a good musician? : None
+HORTENSIO
+2.1 :I think she'll sooner prove a soldier : None
+2.1 :Iron may hold with her, but never lutes. : None
+BAPTISTA
+2.1 :Why, then thou canst not break her to the lute? : None
+HORTENSIO
+2.1 :Why, no; for she hath broke the lute to me. : None
+2.1 :I did but tell her she mistook her frets, : None
+2.1 :And bow'd her hand to teach her fingering; : None
+2.1 :When, with a most impatient devilish spirit, : None
+2.1 :'Frets, call you these?' quoth she; 'I'll fume : None
+2.1 :with them:' : None
+2.1 :And, with that word, she struck me on the head, : None
+2.1 :And through the instrument my pate made way; : None
+2.1 :And there I stood amazed for a while, : None
+2.1 :As on a pillory, looking through the lute; : None
+2.1 :While she did call me rascal fiddler : None
+2.1 :And twangling Jack; with twenty such vile terms, : None
+2.1 :As had she studied to misuse me so. : None
+PETRUCHIO
+2.1 :Now, by the world, it is a lusty wench; : None
+2.1 :I love her ten times more than e'er I did: : None
+2.1 :O, how I long to have some chat with her! : None
+BAPTISTA
+2.1 :Well, go with me and be not so discomfited: : None
+2.1 :Proceed in practise with my younger daughter; : None
+2.1 :She's apt to learn and thankful for good turns. : None
+2.1 :Signior Petruchio, will you go with us, : None
+2.1 :Or shall I send my daughter Kate to you? : None
+PETRUCHIO
+2.1 :I pray you do. : None
+Exeunt all but PETRUCHIO : ["Exeunt - ['ALL', 'PETRUCHIO']"] : PETRUCHIO
+2.1 :I will attend her here, : None
+2.1 :And woo her with some spirit when she comes. : None
+2.1 :Say that she rail; why then I'll tell her plain : None
+2.1 :She sings as sweetly as a nightingale: : None
+2.1 :Say that she frown, I'll say she looks as clear : None
+2.1 :As morning roses newly wash'd with dew: : None
+2.1 :Say she be mute and will not speak a word; : None
+2.1 :Then I'll commend her volubility, : None
+2.1 :And say she uttereth piercing eloquence: : None
+2.1 :If she do bid me pack, I'll give her thanks, : None
+2.1 :As though she bid me stay by her a week: : None
+2.1 :If she deny to wed, I'll crave the day : None
+2.1 :When I shall ask the banns and when be married. : None
+2.1 :But here she comes; and now, Petruchio, speak. : None
+Enter KATHARINA : ["Enter - ['KATHARINA']"] : PETRUCHIO
+2.1 :Good morrow, Kate; for that's your name, I hear. : None
+KATHARINA
+2.1 :Well have you heard, but something hard of hearing: : None
+2.1 :They call me Katharina that do talk of me. : None
+PETRUCHIO
+2.1 :You lie, in faith; for you are call'd plain Kate, : None
+2.1 :And bonny Kate and sometimes Kate the curst; : None
+2.1 :But Kate, the prettiest Kate in Christendom : None
+2.1 :Kate of Kate Hall, my super-dainty Kate, : None
+2.1 :For dainties are all Kates, and therefore, Kate, : None
+2.1 :Take this of me, Kate of my consolation; : None
+2.1 :Hearing thy mildness praised in every town, : None
+2.1 :Thy virtues spoke of, and thy beauty sounded, : None
+2.1 :Yet not so deeply as to thee belongs, : None
+2.1 :Myself am moved to woo thee for my wife. : None
+KATHARINA
+2.1 :Moved! in good time: let him that moved you hither : None
+2.1 :Remove you hence: I knew you at the first : None
+2.1 :You were a moveable. : None
+PETRUCHIO
+2.1 :Why, what's a moveable? : None
+KATHARINA
+2.1 :A join'd-stool. : None
+PETRUCHIO
+2.1 :Thou hast hit it: come, sit on me. : None
+KATHARINA
+2.1 :Asses are made to bear, and so are you. : None
+PETRUCHIO
+2.1 :Women are made to bear, and so are you. : None
+KATHARINA
+2.1 :No such jade as you, if me you mean. : None
+PETRUCHIO
+2.1 :Alas! good Kate, I will not burden thee; : None
+2.1 :For, knowing thee to be but young and light-- : None
+KATHARINA
+2.1 :Too light for such a swain as you to catch; : None
+2.1 :And yet as heavy as my weight should be. : None
+PETRUCHIO
+2.1 :Should be! should--buzz! : None
+KATHARINA
+2.1 :Well ta'en, and like a buzzard. : None
+PETRUCHIO
+2.1 :O slow-wing'd turtle! shall a buzzard take thee? : None
+KATHARINA
+2.1 :Ay, for a turtle, as he takes a buzzard. : None
+PETRUCHIO
+2.1 :Come, come, you wasp; i' faith, you are too angry. : None
+KATHARINA
+2.1 :If I be waspish, best beware my sting. : None
+PETRUCHIO
+2.1 :My remedy is then, to pluck it out. : None
+KATHARINA
+2.1 :Ay, if the fool could find it where it lies, : None
+PETRUCHIO
+2.1 :Who knows not where a wasp does : None
+2.1 :wear his sting? In his tail. : None
+KATHARINA
+2.1 :In his tongue. : None
+PETRUCHIO
+2.1 :Whose tongue? : None
+KATHARINA
+2.1 :Yours, if you talk of tails: and so farewell. : None
+PETRUCHIO
+2.1 :What, with my tongue in your tail? nay, come again, : None
+2.1 :Good Kate; I am a gentleman. : None
+KATHARINA
+2.1 :That I'll try. : None
+She strikes him : ['None - []'] : KATHARINA
+PETRUCHIO
+2.1 :I swear I'll cuff you, if you strike again. : None
+KATHARINA
+2.1 :So may you lose your arms: : None
+2.1 :If you strike me, you are no gentleman; : None
+2.1 :And if no gentleman, why then no arms. : None
+PETRUCHIO
+2.1 :A herald, Kate? O, put me in thy books! : None
+KATHARINA
+2.1 :What is your crest? a coxcomb? : None
+PETRUCHIO
+2.1 :A combless cock, so Kate will be my hen. : None
+KATHARINA
+2.1 :No cock of mine; you crow too like a craven. : None
+PETRUCHIO
+2.1 :Nay, come, Kate, come; you must not look so sour. : None
+KATHARINA
+2.1 :It is my fashion, when I see a crab. : None
+PETRUCHIO
+2.1 :Why, here's no crab; and therefore look not sour. : None
+KATHARINA
+2.1 :There is, there is. : None
+PETRUCHIO
+2.1 :Then show it me. : None
+KATHARINA
+2.1 :Had I a glass, I would. : None
+PETRUCHIO
+2.1 :What, you mean my face? : None
+KATHARINA
+2.1 :Well aim'd of such a young one. : None
+PETRUCHIO
+2.1 :Now, by Saint George, I am too young for you. : None
+KATHARINA
+2.1 :Yet you are wither'd. : None
+PETRUCHIO
+2.1 :'Tis with cares. : None
+KATHARINA
+2.1 :I care not. : None
+PETRUCHIO
+2.1 :Nay, hear you, Kate: in sooth you scape not so. : None
+KATHARINA
+2.1 :I chafe you, if I tarry: let me go. : None
+PETRUCHIO
+2.1 :No, not a whit: I find you passing gentle. : None
+2.1 :'Twas told me you were rough and coy and sullen, : None
+2.1 :And now I find report a very liar; : None
+2.1 :For thou are pleasant, gamesome, passing courteous, : None
+2.1 :But slow in speech, yet sweet as spring-time flowers: : None
+2.1 :Thou canst not frown, thou canst not look askance, : None
+2.1 :Nor bite the lip, as angry wenches will, : None
+2.1 :Nor hast thou pleasure to be cross in talk, : None
+2.1 :But thou with mildness entertain'st thy wooers, : None
+2.1 :With gentle conference, soft and affable. : None
+2.1 :Why does the world report that Kate doth limp? : None
+2.1 :O slanderous world! Kate like the hazel-twig : None
+2.1 :Is straight and slender and as brown in hue : None
+2.1 :As hazel nuts and sweeter than the kernels. : None
+2.1 :O, let me see thee walk: thou dost not halt. : None
+KATHARINA
+2.1 :Go, fool, and whom thou keep'st command. : None
+PETRUCHIO
+2.1 :Did ever Dian so become a grove : None
+2.1 :As Kate this chamber with her princely gait? : None
+2.1 :O, be thou Dian, and let her be Kate; : None
+2.1 :And then let Kate be chaste and Dian sportful! : None
+KATHARINA
+2.1 :Where did you study all this goodly speech? : None
+PETRUCHIO
+2.1 :It is extempore, from my mother-wit. : None
+KATHARINA
+2.1 :A witty mother! witless else her son. : None
+PETRUCHIO
+2.1 :Am I not wise? : None
+KATHARINA
+2.1 :Yes; keep you warm. : None
+PETRUCHIO
+2.1 :Marry, so I mean, sweet Katharina, in thy bed: : None
+2.1 :And therefore, setting all this chat aside, : None
+2.1 :Thus in plain terms: your father hath consented : None
+2.1 :That you shall be my wife; your dowry 'greed on; : None
+2.1 :And, Will you, nill you, I will marry you. : None
+2.1 :Now, Kate, I am a husband for your turn; : None
+2.1 :For, by this light, whereby I see thy beauty, : None
+2.1 :Thy beauty, that doth make me like thee well, : None
+2.1 :Thou must be married to no man but me; : None
+2.1 :For I am he am born to tame you Kate, : None
+2.1 :And bring you from a wild Kate to a Kate : None
+2.1 :Conformable as other household Kates. : None
+2.1 :Here comes your father: never make denial; : None
+2.1 :I must and will have Katharina to my wife. : None
+Re-enter BAPTISTA, GREMIO, and TRANIO : ["Re-enter - ['BAPTISTA', 'GREMIO', 'TRANIO']"] : PETRUCHIO
+BAPTISTA
+2.1 :Now, Signior Petruchio, how speed you with my daughter? : None
+PETRUCHIO
+2.1 :How but well, sir? how but well? : None
+2.1 :It were impossible I should speed amiss. : None
+BAPTISTA
+2.1 :Why, how now, daughter Katharina! in your dumps? : None
+KATHARINA
+2.1 :Call you me daughter? now, I promise you : None
+2.1 :You have show'd a tender fatherly regard, : None
+2.1 :To wish me wed to one half lunatic; : None
+2.1 :A mad-cup ruffian and a swearing Jack, : None
+2.1 :That thinks with oaths to face the matter out. : None
+PETRUCHIO
+2.1 :Father, 'tis thus: yourself and all the world, : None
+2.1 :That talk'd of her, have talk'd amiss of her: : None
+2.1 :If she be curst, it is for policy, : None
+2.1 :For she's not froward, but modest as the dove; : None
+2.1 :She is not hot, but temperate as the morn; : None
+2.1 :For patience she will prove a second Grissel, : None
+2.1 :And Roman Lucrece for her chastity: : None
+2.1 :And to conclude, we have 'greed so well together, : None
+2.1 :That upon Sunday is the wedding-day. : None
+KATHARINA
+2.1 :I'll see thee hang'd on Sunday first. : None
+GREMIO
+2.1 :Hark, Petruchio; she says she'll see thee : None
+2.1 :hang'd first. : None
+TRANIO
+2.1 :Is this your speeding? nay, then, good night our part! : None
+PETRUCHIO
+2.1 :Be patient, gentlemen; I choose her for myself: : None
+2.1 :If she and I be pleased, what's that to you? : None
+2.1 :'Tis bargain'd 'twixt us twain, being alone, : None
+2.1 :That she shall still be curst in company. : None
+2.1 :I tell you, 'tis incredible to believe : None
+2.1 :How much she loves me: O, the kindest Kate! : None
+2.1 :She hung about my neck; and kiss on kiss : None
+2.1 :She vied so fast, protesting oath on oath, : None
+2.1 :That in a twink she won me to her love. : None
+2.1 :O, you are novices! 'tis a world to see, : None
+2.1 :How tame, when men and women are alone, : None
+2.1 :A meacock wretch can make the curstest shrew. : None
+2.1 :Give me thy hand, Kate: I will unto Venice, : None
+2.1 :To buy apparel 'gainst the wedding-day. : None
+2.1 :Provide the feast, father, and bid the guests; : None
+2.1 :I will be sure my Katharina shall be fine. : None
+BAPTISTA
+2.1 :I know not what to say: but give me your hands; : None
+2.1 :God send you joy, Petruchio! 'tis a match. : None
+GREMIO
+TRANIO
+2.1 :Amen, say we: we will be witnesses. : None
+PETRUCHIO
+2.1 :Father, and wife, and gentlemen, adieu; : None
+2.1 :I will to Venice; Sunday comes apace: : None
+2.1 :We will have rings and things and fine array; : None
+2.1 :And kiss me, Kate, we will be married o'Sunday. : None
+Exeunt PETRUCHIO and KATHARINA severally : ["Exeunt - ['PETRUCHIO', 'KATHARINA', 'ALL']"] : PETRUCHIO
+GREMIO
+2.1 :Was ever match clapp'd up so suddenly? : None
+BAPTISTA
+2.1 :Faith, gentlemen, now I play a merchant's part, : None
+2.1 :And venture madly on a desperate mart. : None
+TRANIO
+2.1 :'Twas a commodity lay fretting by you: : None
+2.1 :'Twill bring you gain, or perish on the seas. : None
+BAPTISTA
+2.1 :The gain I seek is, quiet in the match. : None
+GREMIO
+2.1 :No doubt but he hath got a quiet catch. : None
+2.1 :But now, Baptists, to your younger daughter: : None
+2.1 :Now is the day we long have looked for: : None
+2.1 :I am your neighbour, and was suitor first. : None
+TRANIO
+2.1 :And I am one that love Bianca more : None
+2.1 :Than words can witness, or your thoughts can guess. : None
+GREMIO
+2.1 :Youngling, thou canst not love so dear as I. : None
+TRANIO
+2.1 :Graybeard, thy love doth freeze. : None
+GREMIO
+2.1 :But thine doth fry. : None
+2.1 :Skipper, stand back: 'tis age that nourisheth. : None
+TRANIO
+2.1 :But youth in ladies' eyes that flourisheth. : None
+BAPTISTA
+2.1 :Content you, gentlemen: I will compound this strife: : None
+2.1 :'Tis deeds must win the prize; and he of both : None
+2.1 :That can assure my daughter greatest dower : None
+2.1 :Shall have my Bianca's love. : None
+2.1 :Say, Signior Gremio, What can you assure her? : None
+GREMIO
+2.1 :First, as you know, my house within the city : None
+2.1 :Is richly furnished with plate and gold; : None
+2.1 :Basins and ewers to lave her dainty hands; : None
+2.1 :My hangings all of Tyrian tapestry; : None
+2.1 :In ivory coffers I have stuff'd my crowns; : None
+2.1 :In cypress chests my arras counterpoints, : None
+2.1 :Costly apparel, tents, and canopies, : None
+2.1 :Fine linen, Turkey cushions boss'd with pearl, : None
+2.1 :Valance of Venice gold in needlework, : None
+2.1 :Pewter and brass and all things that belong : None
+2.1 :To house or housekeeping: then, at my farm : None
+2.1 :I have a hundred milch-kine to the pail, : None
+2.1 :Sixscore fat oxen standing in my stalls, : None
+2.1 :And all things answerable to this portion. : None
+2.1 :Myself am struck in years, I must confess; : None
+2.1 :And if I die to-morrow, this is hers, : None
+2.1 :If whilst I live she will be only mine. : None
+TRANIO
+2.1 :That 'only' came well in. Sir, list to me: : None
+2.1 :I am my father's heir and only son: : None
+2.1 :If I may have your daughter to my wife, : None
+2.1 :I'll leave her houses three or four as good, : None
+2.1 :Within rich Pisa walls, as any one : None
+2.1 :Old Signior Gremio has in Padua; : None
+2.1 :Besides two thousand ducats by the year : None
+2.1 :Of fruitful land, all which shall be her jointure. : None
+2.1 :What, have I pinch'd you, Signior Gremio? : None
+GREMIO
+2.1 :Two thousand ducats by the year of land! : None
+2.1 :My land amounts not to so much in all: : None
+2.1 :That she shall have; besides an argosy : None
+2.1 :That now is lying in Marseilles' road. : None
+2.1 :What, have I choked you with an argosy? : None
+TRANIO
+2.1 :Gremio, 'tis known my father hath no less : None
+2.1 :Than three great argosies; besides two galliases, : None
+2.1 :And twelve tight galleys: these I will assure her, : None
+2.1 :And twice as much, whate'er thou offer'st next. : None
+GREMIO
+2.1 :Nay, I have offer'd all, I have no more; : None
+2.1 :And she can have no more than all I have: : None
+2.1 :If you like me, she shall have me and mine. : None
+TRANIO
+2.1 :Why, then the maid is mine from all the world, : None
+2.1 :By your firm promise: Gremio is out-vied. : None
+BAPTISTA
+2.1 :I must confess your offer is the best; : None
+2.1 :And, let your father make her the assurance, : None
+2.1 :She is your own; else, you must pardon me, : None
+2.1 :if you should die before him, where's her dower? : None
+TRANIO
+2.1 :That's but a cavil: he is old, I young. : None
+GREMIO
+2.1 :And may not young men die, as well as old? : None
+BAPTISTA
+2.1 :Well, gentlemen, : None
+2.1 :I am thus resolved: on Sunday next you know : None
+2.1 :My daughter Katharina is to be married: : None
+2.1 :Now, on the Sunday following, shall Bianca : None
+2.1 :Be bride to you, if you this assurance; : None
+2.1 :If not, Signior Gremio: : None
+2.1 :And so, I take my leave, and thank you both. : None
+GREMIO
+2.1 :Adieu, good neighbour. : None
+Exit BAPTISTA : ["Exit - ['BAPTISTA']"] : GREMIO
+2.1 :Now I fear thee not: : None
+2.1 :Sirrah young gamester, your father were a fool : None
+2.1 :To give thee all, and in his waning age : None
+2.1 :Set foot under thy table: tut, a toy! : None
+2.1 :An old Italian fox is not so kind, my boy. : None
+Exit : ['Exit - []'] : GREMIO
+TRANIO
+2.1 :A vengeance on your crafty wither'd hide! : None
+2.1 :Yet I have faced it with a card of ten. : None
+2.1 :'Tis in my head to do my master good: : None
+2.1 :I see no reason but supposed Lucentio : None
+2.1 :Must get a father, call'd 'supposed Vincentio;' : None
+2.1 :And that's a wonder: fathers commonly : None
+2.1 :Do get their children; but in this case of wooing, : None
+2.1 :A child shall get a sire, if I fail not of my cunning. : None
+Exit : ['Exit - []'] : TRANIO
+Act(act=3)
+Scene(scene=1)
+Enter LUCENTIO, HORTENSIO, and BIANCA : ["Enter - ['LUCENTIO', 'HORTENSIO', 'BIANCA']"] : TRANIO
+LUCENTIO
+3.1 :Fiddler, forbear; you grow too forward, sir: : None
+3.1 :Have you so soon forgot the entertainment : None
+3.1 :Her sister Katharina welcomed you withal? : None
+HORTENSIO
+3.1 :But, wrangling pedant, this is : None
+3.1 :The patroness of heavenly harmony: : None
+3.1 :Then give me leave to have prerogative; : None
+3.1 :And when in music we have spent an hour, : None
+3.1 :Your lecture shall have leisure for as much. : None
+LUCENTIO
+3.1 :Preposterous ass, that never read so far : None
+3.1 :To know the cause why music was ordain'd! : None
+3.1 :Was it not to refresh the mind of man : None
+3.1 :After his studies or his usual pain? : None
+3.1 :Then give me leave to read philosophy, : None
+3.1 :And while I pause, serve in your harmony. : None
+HORTENSIO
+3.1 :Sirrah, I will not bear these braves of thine. : None
+BIANCA
+3.1 :Why, gentlemen, you do me double wrong, : None
+3.1 :To strive for that which resteth in my choice: : None
+3.1 :I am no breeching scholar in the schools; : None
+3.1 :I'll not be tied to hours nor 'pointed times, : None
+3.1 :But learn my lessons as I please myself. : None
+3.1 :And, to cut off all strife, here sit we down: : None
+3.1 :Take you your instrument, play you the whiles; : None
+3.1 :His lecture will be done ere you have tuned. : None
+HORTENSIO
+3.1 :You'll leave his lecture when I am in tune? : None
+LUCENTIO
+3.1 :That will be never: tune your instrument. : None
+BIANCA
+3.1 :Where left we last? : None
+LUCENTIO
+3.1 :Here, madam: : None
+3.1 :'Hic ibat Simois; hic est Sigeia tellus; : None
+3.1 :Hic steterat Priami regia celsa senis.' : None
+BIANCA
+3.1 :Construe them. : None
+LUCENTIO
+3.1 :'Hic ibat,' as I told you before, 'Simois,' I am : None
+3.1 :Lucentio, 'hic est,' son unto Vincentio of Pisa, : None
+3.1 :'Sigeia tellus,' disguised thus to get your love; : None
+3.1 :'Hic steterat,' and that Lucentio that comes : None
+3.1 :a-wooing, 'Priami,' is my man Tranio, 'regia,' : None
+3.1 :bearing my port, 'celsa senis,' that we might : None
+3.1 :beguile the old pantaloon. : None
+HORTENSIO
+3.1 :Madam, my instrument's in tune. : None
+BIANCA
+3.1 :Let's hear. O fie! the treble jars. : None
+LUCENTIO
+3.1 :Spit in the hole, man, and tune again. : None
+BIANCA
+3.1 :Now let me see if I can construe it: 'Hic ibat : None
+3.1 :Simois,' I know you not, 'hic est Sigeia tellus,' I : None
+3.1 :trust you not; 'Hic steterat Priami,' take heed : None
+3.1 :he hear us not, 'regia,' presume not, 'celsa senis,' : None
+3.1 :despair not. : None
+HORTENSIO
+3.1 :Madam, 'tis now in tune. : None
+LUCENTIO
+3.1 :All but the base. : None
+HORTENSIO
+3.1 :The base is right; 'tis the base knave that jars. : None
+Aside : ['Aside - []'] : HORTENSIO
+3.1 :How fiery and forward our pedant is! : None
+3.1 :Now, for my life, the knave doth court my love: : None
+3.1 :Pedascule, I'll watch you better yet. : None
+BIANCA
+3.1 :In time I may believe, yet I mistrust. : None
+LUCENTIO
+3.1 :Mistrust it not: for, sure, AEacides : None
+3.1 :Was Ajax, call'd so from his grandfather. : None
+BIANCA
+3.1 :I must believe my master; else, I promise you, : None
+3.1 :I should be arguing still upon that doubt: : None
+3.1 :But let it rest. Now, Licio, to you: : None
+3.1 :Good masters, take it not unkindly, pray, : None
+3.1 :That I have been thus pleasant with you both. : None
+HORTENSIO
+3.1 :You may go walk, and give me leave a while: : None
+3.1 :My lessons make no music in three parts. : None
+LUCENTIO
+3.1 :Are you so formal, sir? well, I must wait, : None
+Aside : ['Aside - []'] : LUCENTIO
+3.1 :And watch withal; for, but I be deceived, : None
+3.1 :Our fine musician groweth amorous. : None
+HORTENSIO
+3.1 :Madam, before you touch the instrument, : None
+3.1 :To learn the order of my fingering, : None
+3.1 :I must begin with rudiments of art; : None
+3.1 :To teach you gamut in a briefer sort, : None
+3.1 :More pleasant, pithy and effectual, : None
+3.1 :Than hath been taught by any of my trade: : None
+3.1 :And there it is in writing, fairly drawn. : None
+BIANCA
+3.1 :Why, I am past my gamut long ago. : None
+HORTENSIO
+3.1 :Yet read the gamut of Hortensio. : None
+BIANCA
+3.1 :  ''Gamut' I am, the ground of all accord, : Reads : ['Read - []'] : BIANCA
+3.1 :'A re,' to Plead Hortensio's passion; : None
+3.1 :'B mi,' Bianca, take him for thy lord, : None
+3.1 :'C fa ut,' that loves with all affection: : None
+3.1 :'D sol re,' one clef, two notes have I: : None
+3.1 :'E la mi,' show pity, or I die.' : None
+3.1 :Call you this gamut? tut, I like it not: : None
+3.1 :Old fashions please me best; I am not so nice, : None
+3.1 :To change true rules for old inventions. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : BIANCA
+SERVANT
+3.1 :Mistress, your father prays you leave your books : None
+3.1 :And help to dress your sister's chamber up: : None
+3.1 :You know to-morrow is the wedding-day. : None
+BIANCA
+3.1 :Farewell, sweet masters both; I must be gone. : None
+Exeunt BIANCA and Servant : ["Exeunt - ['BIANCA', 'SERVANT']"] : BIANCA
+LUCENTIO
+3.1 :Faith, mistress, then I have no cause to stay. : None
+Exit : ['Exit - []'] : LUCENTIO
+HORTENSIO
+3.1 :But I have cause to pry into this pedant: : None
+3.1 :Methinks he looks as though he were in love: : None
+3.1 :Yet if thy thoughts, Bianca, be so humble : None
+3.1 :To cast thy wandering eyes on every stale, : None
+3.1 :Seize thee that list: if once I find thee ranging, : None
+3.1 :Hortensio will be quit with thee by changing. : None
+Exit : ['Exit - []'] : HORTENSIO
+Scene(scene=2)
+Enter BAPTISTA, GREMIO, TRANIO, KATHARINA, BIANCA, LUCENTIO, and others, attendants : ["Enter - ['BAPTISTA', 'GREMIO', 'TRANIO', 'KATHARINA', 'BIANCA', 'LUCENTIO']"] : HORTENSIO
+BAPTISTA
+3.2 :  Signior Lucentio, this is the : To TRANIO : ["To - ['TRANIO']"] : BAPTISTA
+3.2 :'pointed day. : None
+3.2 :That Katharina and Petruchio should be married, : None
+3.2 :And yet we hear not of our son-in-law. : None
+3.2 :What will be said? what mockery will it be, : None
+3.2 :To want the bridegroom when the priest attends : None
+3.2 :To speak the ceremonial rites of marriage! : None
+3.2 :What says Lucentio to this shame of ours? : None
+KATHARINA
+3.2 :No shame but mine: I must, forsooth, be forced : None
+3.2 :To give my hand opposed against my heart : None
+3.2 :Unto a mad-brain rudesby full of spleen; : None
+3.2 :Who woo'd in haste and means to wed at leisure. : None
+3.2 :I told you, I, he was a frantic fool, : None
+3.2 :Hiding his bitter jests in blunt behavior: : None
+3.2 :And, to be noted for a merry man, : None
+3.2 :He'll woo a thousand, 'point the day of marriage, : None
+3.2 :Make feasts, invite friends, and proclaim the banns; : None
+3.2 :Yet never means to wed where he hath woo'd. : None
+3.2 :Now must the world point at poor Katharina, : None
+3.2 :And say, 'Lo, there is mad Petruchio's wife, : None
+3.2 :If it would please him come and marry her!' : None
+TRANIO
+3.2 :Patience, good Katharina, and Baptista too. : None
+3.2 :Upon my life, Petruchio means but well, : None
+3.2 :Whatever fortune stays him from his word: : None
+3.2 :Though he be blunt, I know him passing wise; : None
+3.2 :Though he be merry, yet withal he's honest. : None
+KATHARINA
+3.2 :Would Katharina had never seen him though! : None
+Exit weeping, followed by BIANCA and others : ["Exit - ['BIANCA']"] : KATHARINA
+BAPTISTA
+3.2 :Go, girl; I cannot blame thee now to weep; : None
+3.2 :For such an injury would vex a very saint, : None
+3.2 :Much more a shrew of thy impatient humour. : None
+Enter BIONDELLO : ["Enter - ['BIONDELLO']"] : BAPTISTA
+BIONDELLO
+3.2 :Master, master! news, old news, and such news as : None
+3.2 :you never heard of! : None
+BAPTISTA
+3.2 :Is it new and old too? how may that be? : None
+BIONDELLO
+3.2 :Why, is it not news, to hear of Petruchio's coming? : None
+BAPTISTA
+3.2 :Is he come? : None
+BIONDELLO
+3.2 :Why, no, sir. : None
+BAPTISTA
+3.2 :What then? : None
+BIONDELLO
+3.2 :He is coming. : None
+BAPTISTA
+3.2 :When will he be here? : None
+BIONDELLO
+3.2 :When he stands where I am and sees you there. : None
+TRANIO
+3.2 :But say, what to thine old news? : None
+BIONDELLO
+3.2 :Why, Petruchio is coming in a new hat and an old : None
+3.2 :jerkin, a pair of old breeches thrice turned, a pair : None
+3.2 :of boots that have been candle-cases, one buckled, : None
+3.2 :another laced, an old rusty sword ta'en out of the : None
+3.2 :town-armory, with a broken hilt, and chapeless; : None
+3.2 :with two broken points: his horse hipped with an : None
+3.2 :old mothy saddle and stirrups of no kindred; : None
+3.2 :besides, possessed with the glanders and like to mose : None
+3.2 :in the chine; troubled with the lampass, infected : None
+3.2 :with the fashions, full of wingdalls, sped with : None
+3.2 :spavins, rayed with yellows, past cure of the fives, : None
+3.2 :stark spoiled with the staggers, begnawn with the : None
+3.2 :bots, swayed in the back and shoulder-shotten; : None
+3.2 :near-legged before and with, a half-chequed bit : None
+3.2 :and a head-stall of sheeps leather which, being : None
+3.2 :restrained to keep him from stumbling, hath been : None
+3.2 :often burst and now repaired with knots; one girth : None
+3.2 :six time pieced and a woman's crupper of velure, : None
+3.2 :which hath two letters for her name fairly set down : None
+3.2 :in studs, and here and there pieced with packthread. : None
+BAPTISTA
+3.2 :Who comes with him? : None
+BIONDELLO
+3.2 :O, sir, his lackey, for all the world caparisoned : None
+3.2 :like the horse; with a linen stock on one leg and a : None
+3.2 :kersey boot-hose on the other, gartered with a red : None
+3.2 :and blue list; an old hat and 'the humour of forty : None
+3.2 :fancies' pricked in't for a feather: a monster, a : None
+3.2 :very monster in apparel, and not like a Christian : None
+3.2 :footboy or a gentleman's lackey. : None
+TRANIO
+3.2 :'Tis some odd humour pricks him to this fashion; : None
+3.2 :Yet oftentimes he goes but mean-apparell'd. : None
+BAPTISTA
+3.2 :I am glad he's come, howsoe'er he comes. : None
+BIONDELLO
+3.2 :Why, sir, he comes not. : None
+BAPTISTA
+3.2 :Didst thou not say he comes? : None
+BIONDELLO
+3.2 :Who? that Petruchio came? : None
+BAPTISTA
+3.2 :Ay, that Petruchio came. : None
+BIONDELLO
+3.2 :No, sir, I say his horse comes, with him on his back. : None
+BAPTISTA
+3.2 :Why, that's all one. : None
+BIONDELLO
+3.2 :   Nay, by Saint Jamy, : None
+3.2 :I hold you a penny, : None
+3.2 :A horse and a man : None
+3.2 :Is more than one, : None
+3.2 :And yet not many. : None
+Enter PETRUCHIO and GRUMIO : ["Enter - ['PETRUCHIO', 'GRUMIO']"] : BIONDELLO
+PETRUCHIO
+3.2 :Come, where be these gallants? who's at home? : None
+BAPTISTA
+3.2 :You are welcome, sir. : None
+PETRUCHIO
+3.2 :And yet I come not well. : None
+BAPTISTA
+3.2 :And yet you halt not. : None
+TRANIO
+3.2 :Not so well apparell'd : None
+3.2 :As I wish you were. : None
+PETRUCHIO
+3.2 :Were it better, I should rush in thus. : None
+3.2 :But where is Kate? where is my lovely bride? : None
+3.2 :How does my father? Gentles, methinks you frown: : None
+3.2 :And wherefore gaze this goodly company, : None
+3.2 :As if they saw some wondrous monument, : None
+3.2 :Some comet or unusual prodigy? : None
+BAPTISTA
+3.2 :Why, sir, you know this is your wedding-day: : None
+3.2 :First were we sad, fearing you would not come; : None
+3.2 :Now sadder, that you come so unprovided. : None
+3.2 :Fie, doff this habit, shame to your estate, : None
+3.2 :An eye-sore to our solemn festival! : None
+TRANIO
+3.2 :And tells us, what occasion of import : None
+3.2 :Hath all so long detain'd you from your wife, : None
+3.2 :And sent you hither so unlike yourself? : None
+PETRUCHIO
+3.2 :Tedious it were to tell, and harsh to hear: : None
+3.2 :Sufficeth I am come to keep my word, : None
+3.2 :Though in some part enforced to digress; : None
+3.2 :Which, at more leisure, I will so excuse : None
+3.2 :As you shall well be satisfied withal. : None
+3.2 :But where is Kate? I stay too long from her: : None
+3.2 :The morning wears, 'tis time we were at church. : None
+TRANIO
+3.2 :See not your bride in these unreverent robes: : None
+3.2 :Go to my chamber; Put on clothes of mine. : None
+PETRUCHIO
+3.2 :Not I, believe me: thus I'll visit her. : None
+BAPTISTA
+3.2 :But thus, I trust, you will not marry her. : None
+PETRUCHIO
+3.2 :Good sooth, even thus; therefore ha' done with words: : None
+3.2 :To me she's married, not unto my clothes: : None
+3.2 :Could I repair what she will wear in me, : None
+3.2 :As I can change these poor accoutrements, : None
+3.2 :'Twere well for Kate and better for myself. : None
+3.2 :But what a fool am I to chat with you, : None
+3.2 :When I should bid good morrow to my bride, : None
+3.2 :And seal the title with a lovely kiss! : None
+Exeunt PETRUCHIO and GRUMIO : ["Exeunt - ['PETRUCHIO', 'GRUMIO']"] : PETRUCHIO
+TRANIO
+3.2 :He hath some meaning in his mad attire: : None
+3.2 :We will persuade him, be it possible, : None
+3.2 :To put on better ere he go to church. : None
+BAPTISTA
+3.2 :I'll after him, and see the event of this. : None
+Exeunt BAPTISTA, GREMIO, and attendants : ["Exeunt - ['BAPTISTA', 'GREMIO']"] : BAPTISTA
+TRANIO
+3.2 :But to her love concerneth us to add : None
+3.2 :Her father's liking: which to bring to pass, : None
+3.2 :As I before unparted to your worship, : None
+3.2 :I am to get a man,--whate'er he be, : None
+3.2 :It skills not much. we'll fit him to our turn,-- : None
+3.2 :And he shall be Vincentio of Pisa; : None
+3.2 :And make assurance here in Padua : None
+3.2 :Of greater sums than I have promised. : None
+3.2 :So shall you quietly enjoy your hope, : None
+3.2 :And marry sweet Bianca with consent. : None
+LUCENTIO
+3.2 :Were it not that my fellow-school-master : None
+3.2 :Doth watch Bianca's steps so narrowly, : None
+3.2 :'Twere good, methinks, to steal our marriage; : None
+3.2 :Which once perform'd, let all the world say no, : None
+3.2 :I'll keep mine own, despite of all the world. : None
+TRANIO
+3.2 :That by degrees we mean to look into, : None
+3.2 :And watch our vantage in this business: : None
+3.2 :We'll over-reach the greybeard, Gremio, : None
+3.2 :The narrow-prying father, Minola, : None
+3.2 :The quaint musician, amorous Licio; : None
+3.2 :All for my master's sake, Lucentio. : None
+Re-enter GREMIO : ["Re-enter - ['GREMIO']"] : TRANIO
+3.2 :Signior Gremio, came you from the church? : None
+GREMIO
+3.2 :As willingly as e'er I came from school. : None
+TRANIO
+3.2 :And is the bride and bridegroom coming home? : None
+GREMIO
+3.2 :A bridegroom say you? 'tis a groom indeed, : None
+3.2 :A grumbling groom, and that the girl shall find. : None
+TRANIO
+3.2 :Curster than she? why, 'tis impossible. : None
+GREMIO
+3.2 :Why he's a devil, a devil, a very fiend. : None
+TRANIO
+3.2 :Why, she's a devil, a devil, the devil's dam. : None
+GREMIO
+3.2 :Tut, she's a lamb, a dove, a fool to him! : None
+3.2 :I'll tell you, Sir Lucentio: when the priest : None
+3.2 :Should ask, if Katharina should be his wife, : None
+3.2 :'Ay, by gogs-wouns,' quoth he; and swore so loud, : None
+3.2 :That, all-amazed, the priest let fall the book; : None
+3.2 :And, as he stoop'd again to take it up, : None
+3.2 :The mad-brain'd bridegroom took him such a cuff : None
+3.2 :That down fell priest and book and book and priest: : None
+3.2 :'Now take them up,' quoth he, 'if any list.' : None
+TRANIO
+3.2 :What said the wench when he rose again? : None
+GREMIO
+3.2 :Trembled and shook; for why, he stamp'd and swore, : None
+3.2 :As if the vicar meant to cozen him. : None
+3.2 :But after many ceremonies done, : None
+3.2 :He calls for wine: 'A health!' quoth he, as if : None
+3.2 :He had been aboard, carousing to his mates : None
+3.2 :After a storm; quaff'd off the muscadel : None
+3.2 :And threw the sops all in the sexton's face; : None
+3.2 :Having no other reason : None
+3.2 :But that his beard grew thin and hungerly : None
+3.2 :And seem'd to ask him sops as he was drinking. : None
+3.2 :This done, he took the bride about the neck : None
+3.2 :And kiss'd her lips with such a clamorous smack : None
+3.2 :That at the parting all the church did echo: : None
+3.2 :And I seeing this came thence for very shame; : None
+3.2 :And after me, I know, the rout is coming. : None
+3.2 :Such a mad marriage never was before: : None
+3.2 :Hark, hark! I hear the minstrels play. : None
+Music : ['None - []'] : GREMIO
+Re-enter PETRUCHIO, KATHARINA, BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and Train : ["Re-enter - ['PETRUCHIO', 'KATHARINA', 'BIANCA', 'BAPTISTA', 'HORTENSIO', 'GRUMIO']"] : GREMIO
+PETRUCHIO
+3.2 :Gentlemen and friends, I thank you for your pains: : None
+3.2 :I know you think to dine with me to-day, : None
+3.2 :And have prepared great store of wedding cheer; : None
+3.2 :But so it is, my haste doth call me hence, : None
+3.2 :And therefore here I mean to take my leave. : None
+BAPTISTA
+3.2 :Is't possible you will away to-night? : None
+PETRUCHIO
+3.2 :I must away to-day, before night come: : None
+3.2 :Make it no wonder; if you knew my business, : None
+3.2 :You would entreat me rather go than stay. : None
+3.2 :And, honest company, I thank you all, : None
+3.2 :That have beheld me give away myself : None
+3.2 :To this most patient, sweet and virtuous wife: : None
+3.2 :Dine with my father, drink a health to me; : None
+3.2 :For I must hence; and farewell to you all. : None
+TRANIO
+3.2 :Let us entreat you stay till after dinner. : None
+PETRUCHIO
+3.2 :It may not be. : None
+GREMIO
+3.2 :                  Let me entreat you. : None
+PETRUCHIO
+3.2 :It cannot be. : None
+KATHARINA
+3.2 :                  Let me entreat you. : None
+PETRUCHIO
+3.2 :I am content. : None
+KATHARINA
+3.2 :                  Are you content to stay? : None
+PETRUCHIO
+3.2 :I am content you shall entreat me stay; : None
+3.2 :But yet not stay, entreat me how you can. : None
+KATHARINA
+3.2 :Now, if you love me, stay. : None
+PETRUCHIO
+3.2 :Grumio, my horse. : None
+GRUMIO
+3.2 :Ay, sir, they be ready: the oats have eaten the horses. : None
+KATHARINA
+3.2 :Nay, then, : None
+3.2 :Do what thou canst, I will not go to-day; : None
+3.2 :No, nor to-morrow, not till I please myself. : None
+3.2 :The door is open, sir; there lies your way; : None
+3.2 :You may be jogging whiles your boots are green; : None
+3.2 :For me, I'll not be gone till I please myself: : None
+3.2 :'Tis like you'll prove a jolly surly groom, : None
+3.2 :That take it on you at the first so roundly. : None
+PETRUCHIO
+3.2 :O Kate, content thee; prithee, be not angry. : None
+KATHARINA
+3.2 :I will be angry: what hast thou to do? : None
+3.2 :Father, be quiet; he shall stay my leisure. : None
+GREMIO
+3.2 :Ay, marry, sir, now it begins to work. : None
+KATARINA
+3.2 :Gentlemen, forward to the bridal dinner: : None
+3.2 :I see a woman may be made a fool, : None
+3.2 :If she had not a spirit to resist. : None
+PETRUCHIO
+3.2 :They shall go forward, Kate, at thy command. : None
+3.2 :Obey the bride, you that attend on her; : None
+3.2 :Go to the feast, revel and domineer, : None
+3.2 :Carouse full measure to her maidenhead, : None
+3.2 :Be mad and merry, or go hang yourselves: : None
+3.2 :But for my bonny Kate, she must with me. : None
+3.2 :Nay, look not big, nor stamp, nor stare, nor fret; : None
+3.2 :I will be master of what is mine own: : None
+3.2 :She is my goods, my chattels; she is my house, : None
+3.2 :My household stuff, my field, my barn, : None
+3.2 :My horse, my ox, my ass, my any thing; : None
+3.2 :And here she stands, touch her whoever dare; : None
+3.2 :I'll bring mine action on the proudest he : None
+3.2 :That stops my way in Padua. Grumio, : None
+3.2 :Draw forth thy weapon, we are beset with thieves; : None
+3.2 :Rescue thy mistress, if thou be a man. : None
+3.2 :Fear not, sweet wench, they shall not touch : None
+3.2 :thee, Kate: : None
+3.2 :I'll buckler thee against a million. : None
+Exeunt PETRUCHIO, KATHARINA, and GRUMIO : ["Exeunt - ['PETRUCHIO', 'KATHARINA', 'GRUMIO']"] : PETRUCHIO
+BAPTISTA
+3.2 :Nay, let them go, a couple of quiet ones. : None
+GREMIO
+3.2 :Went they not quickly, I should die with laughing. : None
+TRANIO
+3.2 :Of all mad matches never was the like. : None
+LUCENTIO
+3.2 :Mistress, what's your opinion of your sister? : None
+BIANCA
+3.2 :That, being mad herself, she's madly mated. : None
+GREMIO
+3.2 :I warrant him, Petruchio is Kated. : None
+BAPTISTA
+3.2 :Neighbours and friends, though bride and : None
+3.2 :bridegroom wants : None
+3.2 :For to supply the places at the table, : None
+3.2 :You know there wants no junkets at the feast. : None
+3.2 :Lucentio, you shall supply the bridegroom's place: : None
+3.2 :And let Bianca take her sister's room. : None
+TRANIO
+3.2 :Shall sweet Bianca practise how to bride it? : None
+BAPTISTA
+3.2 :She shall, Lucentio. Come, gentlemen, let's go. : None
+Exeunt : ['Exeunt - []'] : BAPTISTA
+Act(act=4)
+Scene(scene=1)
+Enter GRUMIO : ["Enter - ['GRUMIO']"] : BAPTISTA
+GRUMIO
+4.1 :Fie, fie on all tired jades, on all mad masters, and : None
+4.1 :all foul ways! Was ever man so beaten? was ever : None
+4.1 :man so rayed? was ever man so weary? I am sent : None
+4.1 :before to make a fire, and they are coming after to : None
+4.1 :warm them. Now, were not I a little pot and soon : None
+4.1 :hot, my very lips might freeze to my teeth, my : None
+4.1 :tongue to the roof of my mouth, my heart in my : None
+4.1 :belly, ere I should come by a fire to thaw me: but : None
+4.1 :I, with blowing the fire, shall warm myself; for, : None
+4.1 :considering the weather, a taller man than I will : None
+4.1 :take cold. Holla, ho! Curtis. : None
+Enter CURTIS : ["Enter - ['CURTIS']"] : GRUMIO
+CURTIS
+4.1 :Who is that calls so coldly? : None
+GRUMIO
+4.1 :A piece of ice: if thou doubt it, thou mayst slide : None
+4.1 :from my shoulder to my heel with no greater a run : None
+4.1 :but my head and my neck. A fire good Curtis. : None
+CURTIS
+4.1 :Is my master and his wife coming, Grumio? : None
+GRUMIO
+4.1 :O, ay, Curtis, ay: and therefore fire, fire; cast : None
+4.1 :on no water. : None
+CURTIS
+4.1 :Is she so hot a shrew as she's reported? : None
+GRUMIO
+4.1 :She was, good Curtis, before this frost: but, thou : None
+4.1 :knowest, winter tames man, woman and beast; for it : None
+4.1 :hath tamed my old master and my new mistress and : None
+4.1 :myself, fellow Curtis. : None
+CURTIS
+4.1 :Away, you three-inch fool! I am no beast. : None
+GRUMIO
+4.1 :Am I but three inches? why, thy horn is a foot; and : None
+4.1 :so long am I at the least. But wilt thou make a : None
+4.1 :fire, or shall I complain on thee to our mistress, : None
+4.1 :whose hand, she being now at hand, thou shalt soon : None
+4.1 :feel, to thy cold comfort, for being slow in thy hot office? : None
+CURTIS
+4.1 :I prithee, good Grumio, tell me, how goes the world? : None
+GRUMIO
+4.1 :A cold world, Curtis, in every office but thine; and : None
+4.1 :therefore fire: do thy duty, and have thy duty; for : None
+4.1 :my master and mistress are almost frozen to death. : None
+CURTIS
+4.1 :There's fire ready; and therefore, good Grumio, the news. : None
+GRUMIO
+4.1 :Why, 'Jack, boy! ho! boy!' and as much news as : None
+4.1 :will thaw. : None
+CURTIS
+4.1 :Come, you are so full of cony-catching! : None
+GRUMIO
+4.1 :Why, therefore fire; for I have caught extreme cold. : None
+4.1 :Where's the cook? is supper ready, the house : None
+4.1 :trimmed, rushes strewed, cobwebs swept; the : None
+4.1 :serving-men in their new fustian, their white : None
+4.1 :stockings, and every officer his wedding-garment on? : None
+4.1 :Be the jacks fair within, the jills fair without, : None
+4.1 :the carpets laid, and every thing in order? : None
+CURTIS
+4.1 :All ready; and therefore, I pray thee, news. : None
+GRUMIO
+4.1 :First, know, my horse is tired; my master and : None
+4.1 :mistress fallen out. : None
+CURTIS
+4.1 :How? : None
+GRUMIO
+4.1 :Out of their saddles into the dirt; and thereby : None
+4.1 :hangs a tale. : None
+CURTIS
+4.1 :Let's ha't, good Grumio. : None
+GRUMIO
+4.1 :Lend thine ear. : None
+CURTIS
+4.1 :Here. : None
+GRUMIO
+4.1 :There. : None
+Strikes him : ['None - []'] : GRUMIO
+CURTIS
+4.1 :This is to feel a tale, not to hear a tale. : None
+GRUMIO
+4.1 :And therefore 'tis called a sensible tale: and this : None
+4.1 :cuff was but to knock at your ear, and beseech : None
+4.1 :listening. Now I begin: Imprimis, we came down a : None
+4.1 :foul hill, my master riding behind my mistress,-- : None
+CURTIS
+4.1 :Both of one horse? : None
+GRUMIO
+4.1 :What's that to thee? : None
+CURTIS
+4.1 :Why, a horse. : None
+GRUMIO
+4.1 :Tell thou the tale: but hadst thou not crossed me, : None
+4.1 :thou shouldst have heard how her horse fell and she : None
+4.1 :under her horse; thou shouldst have heard in how : None
+4.1 :miry a place, how she was bemoiled, how he left her : None
+4.1 :with the horse upon her, how he beat me because : None
+4.1 :her horse stumbled, how she waded through the dirt : None
+4.1 :to pluck him off me, how he swore, how she prayed, : None
+4.1 :that never prayed before, how I cried, how the : None
+4.1 :horses ran away, how her bridle was burst, how I : None
+4.1 :lost my crupper, with many things of worthy memory, : None
+4.1 :which now shall die in oblivion and thou return : None
+4.1 :unexperienced to thy grave. : None
+CURTIS
+4.1 :By this reckoning he is more shrew than she. : None
+GRUMIO
+4.1 :Ay; and that thou and the proudest of you all shall : None
+4.1 :find when he comes home. But what talk I of this? : None
+4.1 :Call forth Nathaniel, Joseph, Nicholas, Philip, : None
+4.1 :Walter, Sugarsop and the rest: let their heads be : None
+4.1 :sleekly combed their blue coats brushed and their : None
+4.1 :garters of an indifferent knit: let them curtsy : None
+4.1 :with their left legs and not presume to touch a hair : None
+4.1 :of my master's horse-tail till they kiss their : None
+4.1 :hands. Are they all ready? : None
+CURTIS
+4.1 :They are. : None
+GRUMIO
+4.1 :Call them forth. : None
+CURTIS
+4.1 :Do you hear, ho? you must meet my master to : None
+4.1 :countenance my mistress. : None
+GRUMIO
+4.1 :Why, she hath a face of her own. : None
+CURTIS
+4.1 :Who knows not that? : None
+GRUMIO
+4.1 :Thou, it seems, that calls for company to : None
+4.1 :countenance her. : None
+CURTIS
+4.1 :I call them forth to credit her. : None
+GRUMIO
+4.1 :Why, she comes to borrow nothing of them. : None
+Enter four or five Serving-men Servant : ["Enter - ['SERVANT']"] : GRUMIO
+NATHANIEL
+4.1 :Welcome home, Grumio! : None
+PHILIP
+4.1 :How now, Grumio! : None
+JOSEPH
+4.1 :What, Grumio! : None
+NICHOLAS
+4.1 :Fellow Grumio! : None
+NATHANIEL
+4.1 :How now, old lad? : None
+GRUMIO
+4.1 :Welcome, you;--how now, you;-- what, you;--fellow, : None
+4.1 :you;--and thus much for greeting. Now, my spruce : None
+4.1 :companions, is all ready, and all things neat? : None
+NATHANIEL
+4.1 :All things is ready. How near is our master? : None
+GRUMIO
+4.1 :E'en at hand, alighted by this; and therefore be : None
+4.1 :not--Cock's passion, silence! I hear my master. : None
+Enter PETRUCHIO and KATHARINA : ["Enter - ['PETRUCHIO', 'KATHARINA']"] : GRUMIO
+PETRUCHIO
+4.1 :Where be these knaves? What, no man at door : None
+4.1 :To hold my stirrup nor to take my horse! : None
+4.1 :Where is Nathaniel, Gregory, Philip? : None
+4.1 :ALL SERVING-MEN	Here, here, sir; here, sir. : None
+PETRUCHIO
+4.1 :Here, sir! here, sir! here, sir! here, sir! : None
+4.1 :You logger-headed and unpolish'd grooms! : None
+4.1 :What, no attendance? no regard? no duty? : None
+4.1 :Where is the foolish knave I sent before? : None
+GRUMIO
+4.1 :Here, sir; as foolish as I was before. : None
+PETRUCHIO
+4.1 :You peasant swain! you whoreson malt-horse drudge! : None
+4.1 :Did I not bid thee meet me in the park, : None
+4.1 :And bring along these rascal knaves with thee? : None
+GRUMIO
+4.1 :Nathaniel's coat, sir, was not fully made, : None
+4.1 :And Gabriel's pumps were all unpink'd i' the heel; : None
+4.1 :There was no link to colour Peter's hat, : None
+4.1 :And Walter's dagger was not come from sheathing: : None
+4.1 :There were none fine but Adam, Ralph, and Gregory; : None
+4.1 :The rest were ragged, old, and beggarly; : None
+4.1 :Yet, as they are, here are they come to meet you. : None
+PETRUCHIO
+4.1 :Go, rascals, go, and fetch my supper in. : None
+Exeunt Servants : ["Exeunt - ['SERVANT']"] : PETRUCHIO
+Singing : ['None - []'] : PETRUCHIO
+4.1 :Where is the life that late I led-- : None
+4.1 :Where are those--Sit down, Kate, and welcome.-- : None
+4.1 :Sound, sound, sound, sound! : None
+Re-enter Servants with supper : ["Re-enter - ['SERVANT']"] : PETRUCHIO
+4.1 :Why, when, I say? Nay, good sweet Kate, be merry. : None
+4.1 :Off with my boots, you rogues! you villains, when? : None
+Sings : ['None - []'] : PETRUCHIO
+4.1 :It was the friar of orders grey, : None
+4.1 :As he forth walked on his way:-- : None
+4.1 :Out, you rogue! you pluck my foot awry: : None
+4.1 :Take that, and mend the plucking off the other. : None
+Strikes him : ['None - []'] : PETRUCHIO
+4.1 :Be merry, Kate. Some water, here; what, ho! : None
+4.1 :Where's my spaniel Troilus? Sirrah, get you hence, : None
+4.1 :And bid my cousin Ferdinand come hither: : None
+4.1 :One, Kate, that you must kiss, and be acquainted with. : None
+4.1 :Where are my slippers? Shall I have some water? : None
+Enter one with water : ['Enter - []'] : PETRUCHIO
+4.1 :Come, Kate, and wash, and welcome heartily. : None
+4.1 :You whoreson villain! will you let it fall? : None
+Strikes him : ['None - []'] : PETRUCHIO
+KATHARINA
+4.1 :Patience, I pray you; 'twas a fault unwilling. : None
+PETRUCHIO
+4.1 :A whoreson beetle-headed, flap-ear'd knave! : None
+4.1 :Come, Kate, sit down; I know you have a stomach. : None
+4.1 :Will you give thanks, sweet Kate; or else shall I? : None
+4.1 :What's this? mutton? : None
+FIRST SERVANT
+4.1 :Ay. : None
+PETRUCHIO
+4.1 :Who brought it? : None
+PETER
+4.1 :I. : None
+PETRUCHIO
+4.1 :'Tis burnt; and so is all the meat. : None
+4.1 :What dogs are these! Where is the rascal cook? : None
+4.1 :How durst you, villains, bring it from the dresser, : None
+4.1 :And serve it thus to me that love it not? : None
+4.1 :Theretake it to you, trenchers, cups, and all; : None
+Throws the meat,  & c. about the stage : ['None - []', 'None - []'] : PETRUCHIO
+4.1 :You heedless joltheads and unmanner'd slaves! : None
+4.1 :What, do you grumble? I'll be with you straight. : None
+KATHARINA
+4.1 :I pray you, husband, be not so disquiet: : None
+4.1 :The meat was well, if you were so contented. : None
+PETRUCHIO
+4.1 :I tell thee, Kate, 'twas burnt and dried away; : None
+4.1 :And I expressly am forbid to touch it, : None
+4.1 :For it engenders choler, planteth anger; : None
+4.1 :And better 'twere that both of us did fast, : None
+4.1 :Since, of ourselves, ourselves are choleric, : None
+4.1 :Than feed it with such over-roasted flesh. : None
+4.1 :Be patient; to-morrow 't shall be mended, : None
+4.1 :And, for this night, we'll fast for company: : None
+4.1 :Come, I will bring thee to thy bridal chamber. : None
+Exeunt : ['Exeunt - []'] : PETRUCHIO
+Re-enter Servants severally : ["Re-enter - ['SERVANT', 'ALL']"] : PETRUCHIO
+NATHANIEL
+4.1 :Peter, didst ever see the like? : None
+PETER
+4.1 :He kills her in her own humour. : None
+Re-enter CURTIS : ["Re-enter - ['CURTIS']"] : PETER
+GRUMIO
+4.1 :Where is he? : None
+CURTIS
+4.1 :In her chamber, making a sermon of continency to her; : None
+4.1 :And rails, and swears, and rates, that she, poor soul, : None
+4.1 :Knows not which way to stand, to look, to speak, : None
+4.1 :And sits as one new-risen from a dream. : None
+4.1 :Away, away! for he is coming hither. : None
+Exeunt : ['Exeunt - []'] : CURTIS
+Re-enter PETRUCHIO : ["Re-enter - ['PETRUCHIO']"] : CURTIS
+PETRUCHIO
+4.1 :Thus have I politicly begun my reign, : None
+4.1 :And 'tis my hope to end successfully. : None
+4.1 :My falcon now is sharp and passing empty; : None
+4.1 :And till she stoop she must not be full-gorged, : None
+4.1 :For then she never looks upon her lure. : None
+4.1 :Another way I have to man my haggard, : None
+4.1 :To make her come and know her keeper's call, : None
+4.1 :That is, to watch her, as we watch these kites : None
+4.1 :That bate and beat and will not be obedient. : None
+4.1 :She eat no meat to-day, nor none shall eat; : None
+4.1 :Last night she slept not, nor to-night she shall not; : None
+4.1 :As with the meat, some undeserved fault : None
+4.1 :I'll find about the making of the bed; : None
+4.1 :And here I'll fling the pillow, there the bolster, : None
+4.1 :This way the coverlet, another way the sheets: : None
+4.1 :Ay, and amid this hurly I intend : None
+4.1 :That all is done in reverend care of her; : None
+4.1 :And in conclusion she shall watch all night: : None
+4.1 :And if she chance to nod I'll rail and brawl : None
+4.1 :And with the clamour keep her still awake. : None
+4.1 :This is a way to kill a wife with kindness; : None
+4.1 :And thus I'll curb her mad and headstrong humour. : None
+4.1 :He that knows better how to tame a shrew, : None
+4.1 :Now let him speak: 'tis charity to show. : None
+Exit : ['Exit - []'] : PETRUCHIO
+Scene(scene=2)
+Enter TRANIO and HORTENSIO : ["Enter - ['TRANIO', 'HORTENSIO']"] : PETRUCHIO
+TRANIO
+4.2 :Is't possible, friend Licio, that Mistress Bianca : None
+4.2 :Doth fancy any other but Lucentio? : None
+4.2 :I tell you, sir, she bears me fair in hand. : None
+HORTENSIO
+4.2 :Sir, to satisfy you in what I have said, : None
+4.2 :Stand by and mark the manner of his teaching. : None
+Enter BIANCA and LUCENTIO : ["Enter - ['BIANCA', 'LUCENTIO']"] : HORTENSIO
+LUCENTIO
+4.2 :Now, mistress, profit you in what you read? : None
+BIANCA
+4.2 :What, master, read you? first resolve me that. : None
+LUCENTIO
+4.2 :I read that I profess, the Art to Love. : None
+BIANCA
+4.2 :And may you prove, sir, master of your art! : None
+LUCENTIO
+4.2 :While you, sweet dear, prove mistress of my heart! : None
+HORTENSIO
+4.2 :Quick proceeders, marry! Now, tell me, I pray, : None
+4.2 :You that durst swear at your mistress Bianca : None
+4.2 :Loved none in the world so well as Lucentio. : None
+TRANIO
+4.2 :O despiteful love! unconstant womankind! : None
+4.2 :I tell thee, Licio, this is wonderful. : None
+HORTENSIO
+4.2 :Mistake no more: I am not Licio, : None
+4.2 :Nor a musician, as I seem to be; : None
+4.2 :But one that scorn to live in this disguise, : None
+4.2 :For such a one as leaves a gentleman, : None
+4.2 :And makes a god of such a cullion: : None
+4.2 :Know, sir, that I am call'd Hortensio. : None
+TRANIO
+4.2 :Signior Hortensio, I have often heard : None
+4.2 :Of your entire affection to Bianca; : None
+4.2 :And since mine eyes are witness of her lightness, : None
+4.2 :I will with you, if you be so contented, : None
+4.2 :Forswear Bianca and her love for ever. : None
+HORTENSIO
+4.2 :See, how they kiss and court! Signior Lucentio, : None
+4.2 :Here is my hand, and here I firmly vow : None
+4.2 :Never to woo her no more, but do forswear her, : None
+4.2 :As one unworthy all the former favours : None
+4.2 :That I have fondly flatter'd her withal. : None
+TRANIO
+4.2 :And here I take the unfeigned oath, : None
+4.2 :Never to marry with her though she would entreat: : None
+4.2 :Fie on her! see, how beastly she doth court him! : None
+HORTENSIO
+4.2 :Would all the world but he had quite forsworn! : None
+4.2 :For me, that I may surely keep mine oath, : None
+4.2 :I will be married to a wealthy widow, : None
+4.2 :Ere three days pass, which hath as long loved me : None
+4.2 :As I have loved this proud disdainful haggard. : None
+4.2 :And so farewell, Signior Lucentio. : None
+4.2 :Kindness in women, not their beauteous looks, : None
+4.2 :Shall win my love: and so I take my leave, : None
+4.2 :In resolution as I swore before. : None
+Exit : ['Exit - []'] : HORTENSIO
+TRANIO
+4.2 :Mistress Bianca, bless you with such grace : None
+4.2 :As 'longeth to a lover's blessed case! : None
+4.2 :Nay, I have ta'en you napping, gentle love, : None
+4.2 :And have forsworn you with Hortensio. : None
+BIANCA
+4.2 :Tranio, you jest: but have you both forsworn me? : None
+TRANIO
+4.2 :Mistress, we have. : None
+LUCENTIO
+4.2 :                  Then we are rid of Licio. : None
+TRANIO
+4.2 :I' faith, he'll have a lusty widow now, : None
+4.2 :That shall be wood and wedded in a day. : None
+BIANCA
+4.2 :God give him joy! : None
+TRANIO
+4.2 :Ay, and he'll tame her. : None
+BIANCA
+4.2 :He says so, Tranio. : None
+TRANIO
+4.2 :Faith, he is gone unto the taming-school. : None
+BIANCA
+4.2 :The taming-school! what, is there such a place? : None
+TRANIO
+4.2 :Ay, mistress, and Petruchio is the master; : None
+4.2 :That teacheth tricks eleven and twenty long, : None
+4.2 :To tame a shrew and charm her chattering tongue. : None
+Enter BIONDELLO : ["Enter - ['BIONDELLO']"] : TRANIO
+BIONDELLO
+4.2 :O master, master, I have watch'd so long : None
+4.2 :That I am dog-weary: but at last I spied : None
+4.2 :An ancient angel coming down the hill, : None
+4.2 :Will serve the turn. : None
+TRANIO
+4.2 :What is he, Biondello? : None
+BIONDELLO
+4.2 :Master, a mercatante, or a pedant, : None
+4.2 :I know not what; but format in apparel, : None
+4.2 :In gait and countenance surely like a father. : None
+LUCENTIO
+4.2 :And what of him, Tranio? : None
+TRANIO
+4.2 :If he be credulous and trust my tale, : None
+4.2 :I'll make him glad to seem Vincentio, : None
+4.2 :And give assurance to Baptista Minola, : None
+4.2 :As if he were the right Vincentio : None
+4.2 :Take in your love, and then let me alone. : None
+Exeunt LUCENTIO and BIANCA : ["Exeunt - ['LUCENTIO', 'BIANCA']"] : TRANIO
+Enter a Pedant : ["Enter - ['PEDANT']"] : TRANIO
+PEDANT
+4.2 :God save you, sir! : None
+TRANIO
+4.2 :                  And you, sir! you are welcome. : None
+4.2 :Travel you far on, or are you at the farthest? : None
+PEDANT
+4.2 :Sir, at the farthest for a week or two: : None
+4.2 :But then up farther, and as for as Rome; : None
+4.2 :And so to Tripoli, if God lend me life. : None
+TRANIO
+4.2 :What countryman, I pray? : None
+PEDANT
+4.2 :Of Mantua. : None
+TRANIO
+4.2 :Of Mantua, sir? marry, God forbid! : None
+4.2 :And come to Padua, careless of your life? : None
+PEDANT
+4.2 :My life, sir! how, I pray? for that goes hard. : None
+TRANIO
+4.2 :'Tis death for any one in Mantua : None
+4.2 :To come to Padua. Know you not the cause? : None
+4.2 :Your ships are stay'd at Venice, and the duke, : None
+4.2 :For private quarrel 'twixt your duke and him, : None
+4.2 :Hath publish'd and proclaim'd it openly: : None
+4.2 :'Tis, marvel, but that you are but newly come, : None
+4.2 :You might have heard it else proclaim'd about. : None
+PEDANT
+4.2 :Alas! sir, it is worse for me than so; : None
+4.2 :For I have bills for money by exchange : None
+4.2 :From Florence and must here deliver them. : None
+TRANIO
+4.2 :Well, sir, to do you courtesy, : None
+4.2 :This will I do, and this I will advise you: : None
+4.2 :First, tell me, have you ever been at Pisa? : None
+PEDANT
+4.2 :Ay, sir, in Pisa have I often been, : None
+4.2 :Pisa renowned for grave citizens. : None
+TRANIO
+4.2 :Among them know you one Vincentio? : None
+PEDANT
+4.2 :I know him not, but I have heard of him; : None
+4.2 :A merchant of incomparable wealth. : None
+TRANIO
+4.2 :He is my father, sir; and, sooth to say, : None
+4.2 :In countenance somewhat doth resemble you. : None
+BIONDELLO
+4.2 :  As much as an apple doth an oyster, : Aside : ['Aside - []'] : BIONDELLO
+4.2 :and all one. : None
+TRANIO
+4.2 :To save your life in this extremity, : None
+4.2 :This favour will I do you for his sake; : None
+4.2 :And think it not the worst of an your fortunes : None
+4.2 :That you are like to Sir Vincentio. : None
+4.2 :His name and credit shall you undertake, : None
+4.2 :And in my house you shall be friendly lodged: : None
+4.2 :Look that you take upon you as you should; : None
+4.2 :You understand me, sir: so shall you stay : None
+4.2 :Till you have done your business in the city: : None
+4.2 :If this be courtesy, sir, accept of it. : None
+PEDANT
+4.2 :O sir, I do; and will repute you ever : None
+4.2 :The patron of my life and liberty. : None
+TRANIO
+4.2 :Then go with me to make the matter good. : None
+4.2 :This, by the way, I let you understand; : None
+4.2 :my father is here look'd for every day, : None
+4.2 :To pass assurance of a dower in marriage : None
+4.2 :'Twixt me and one Baptista's daughter here: : None
+4.2 :In all these circumstances I'll instruct you: : None
+4.2 :Go with me to clothe you as becomes you. : None
+Exeunt : ['Exeunt - []'] : TRANIO
+Scene(scene=3)
+Enter KATHARINA and GRUMIO : ["Enter - ['KATHARINA', 'GRUMIO']"] : TRANIO
+GRUMIO
+4.3 :No, no, forsooth; I dare not for my life. : None
+KATHARINA
+4.3 :The more my wrong, the more his spite appears: : None
+4.3 :What, did he marry me to famish me? : None
+4.3 :Beggars, that come unto my father's door, : None
+4.3 :Upon entreaty have a present aims; : None
+4.3 :If not, elsewhere they meet with charity: : None
+4.3 :But I, who never knew how to entreat, : None
+4.3 :Nor never needed that I should entreat, : None
+4.3 :Am starved for meat, giddy for lack of sleep, : None
+4.3 :With oath kept waking and with brawling fed: : None
+4.3 :And that which spites me more than all these wants, : None
+4.3 :He does it under name of perfect love; : None
+4.3 :As who should say, if I should sleep or eat, : None
+4.3 :'Twere deadly sickness or else present death. : None
+4.3 :I prithee go and get me some repast; : None
+4.3 :I care not what, so it be wholesome food. : None
+GRUMIO
+4.3 :What say you to a neat's foot? : None
+KATHARINA
+4.3 :'Tis passing good: I prithee let me have it. : None
+GRUMIO
+4.3 :I fear it is too choleric a meat. : None
+4.3 :How say you to a fat tripe finely broil'd? : None
+KATHARINA
+4.3 :I like it well: good Grumio, fetch it me. : None
+GRUMIO
+4.3 :I cannot tell; I fear 'tis choleric. : None
+4.3 :What say you to a piece of beef and mustard? : None
+KATHARINA
+4.3 :A dish that I do love to feed upon. : None
+GRUMIO
+4.3 :Ay, but the mustard is too hot a little. : None
+KATHARINA
+4.3 :Why then, the beef, and let the mustard rest. : None
+GRUMIO
+4.3 :Nay then, I will not: you shall have the mustard, : None
+4.3 :Or else you get no beef of Grumio. : None
+KATHARINA
+4.3 :Then both, or one, or any thing thou wilt. : None
+GRUMIO
+4.3 :Why then, the mustard without the beef. : None
+KATHARINA
+4.3 :Go, get thee gone, thou false deluding slave, : None
+Beats him : ['None - []'] : KATHARINA
+4.3 :That feed'st me with the very name of meat: : None
+4.3 :Sorrow on thee and all the pack of you, : None
+4.3 :That triumph thus upon my misery! : None
+4.3 :Go, get thee gone, I say. : None
+Enter PETRUCHIO and HORTENSIO with meat : ["Enter - ['PETRUCHIO', 'HORTENSIO']"] : KATHARINA
+PETRUCHIO
+4.3 :How fares my Kate? What, sweeting, all amort? : None
+HORTENSIO
+4.3 :Mistress, what cheer? : None
+KATHARINA
+4.3 :Faith, as cold as can be. : None
+PETRUCHIO
+4.3 :Pluck up thy spirits; look cheerfully upon me. : None
+4.3 :Here love; thou see'st how diligent I am : None
+4.3 :To dress thy meat myself and bring it thee: : None
+4.3 :I am sure, sweet Kate, this kindness merits thanks. : None
+4.3 :What, not a word? Nay, then thou lovest it not; : None
+4.3 :And all my pains is sorted to no proof. : None
+4.3 :Here, take away this dish. : None
+KATHARINA
+4.3 :I pray you, let it stand. : None
+PETRUCHIO
+4.3 :The poorest service is repaid with thanks; : None
+4.3 :And so shall mine, before you touch the meat. : None
+KATHARINA
+4.3 :I thank you, sir. : None
+HORTENSIO
+4.3 :Signior Petruchio, fie! you are to blame. : None
+4.3 :Come, mistress Kate, I'll bear you company. : None
+PETRUCHIO
+4.3 :  Eat it up all, Hortensio, if thou lovest me. : Aside : ['Aside - []'] : PETRUCHIO
+4.3 :Much good do it unto thy gentle heart! : None
+4.3 :Kate, eat apace: and now, my honey love, : None
+4.3 :Will we return unto thy father's house : None
+4.3 :And revel it as bravely as the best, : None
+4.3 :With silken coats and caps and golden rings, : None
+4.3 :With ruffs and cuffs and fardingales and things; : None
+4.3 :With scarfs and fans and double change of bravery, : None
+4.3 :With amber bracelets, beads and all this knavery. : None
+4.3 :What, hast thou dined? The tailor stays thy leisure, : None
+4.3 :To deck thy body with his ruffling treasure. : None
+Enter Tailor : ["Enter - ['TAILOR']"] : PETRUCHIO
+4.3 :Come, tailor, let us see these ornaments; : None
+4.3 :Lay forth the gown. : None
+Enter Haberdasher : ["Enter - ['HABERDASHER']"] : PETRUCHIO
+4.3 :What news with you, sir? : None
+HABERDASHER
+4.3 :Here is the cap your worship did bespeak. : None
+PETRUCHIO
+4.3 :Why, this was moulded on a porringer; : None
+4.3 :A velvet dish: fie, fie! 'tis lewd and filthy: : None
+4.3 :Why, 'tis a cockle or a walnut-shell, : None
+4.3 :A knack, a toy, a trick, a baby's cap: : None
+4.3 :Away with it! come, let me have a bigger. : None
+KATHARINA
+4.3 :I'll have no bigger: this doth fit the time, : None
+4.3 :And gentlewomen wear such caps as these : None
+PETRUCHIO
+4.3 :When you are gentle, you shall have one too, : None
+4.3 :And not till then. : None
+HORTENSIO
+4.3 :  That will not be in haste. : Aside : ['Aside - []'] : HORTENSIO
+KATHARINA
+4.3 :Why, sir, I trust I may have leave to speak; : None
+4.3 :And speak I will; I am no child, no babe: : None
+4.3 :Your betters have endured me say my mind, : None
+4.3 :And if you cannot, best you stop your ears. : None
+4.3 :My tongue will tell the anger of my heart, : None
+4.3 :Or else my heart concealing it will break, : None
+4.3 :And rather than it shall, I will be free : None
+4.3 :Even to the uttermost, as I please, in words. : None
+PETRUCHIO
+4.3 :Why, thou say'st true; it is a paltry cap, : None
+4.3 :A custard-coffin, a bauble, a silken pie: : None
+4.3 :I love thee well, in that thou likest it not. : None
+KATHARINA
+4.3 :Love me or love me not, I like the cap; : None
+4.3 :And it I will have, or I will have none. : None
+Exit Haberdasher : ["Exit - ['HABERDASHER']"] : KATHARINA
+PETRUCHIO
+4.3 :Thy gown? why, ay: come, tailor, let us see't. : None
+4.3 :O mercy, God! what masquing stuff is here? : None
+4.3 :What's this? a sleeve? 'tis like a demi-cannon: : None
+4.3 :What, up and down, carved like an apple-tart? : None
+4.3 :Here's snip and nip and cut and slish and slash, : None
+4.3 :Like to a censer in a barber's shop: : None
+4.3 :Why, what, i' devil's name, tailor, call'st thou this? : None
+HORTENSIO
+4.3 :  I see she's like to have neither cap nor gown. : Aside : ['Aside - []'] : HORTENSIO
+TAILOR
+4.3 :You bid me make it orderly and well, : None
+4.3 :According to the fashion and the time. : None
+PETRUCHIO
+4.3 :Marry, and did; but if you be remember'd, : None
+4.3 :I did not bid you mar it to the time. : None
+4.3 :Go, hop me over every kennel home, : None
+4.3 :For you shall hop without my custom, sir: : None
+4.3 :I'll none of it: hence! make your best of it. : None
+KATHARINA
+4.3 :I never saw a better-fashion'd gown, : None
+4.3 :More quaint, more pleasing, nor more commendable: : None
+4.3 :Belike you mean to make a puppet of me. : None
+PETRUCHIO
+4.3 :Why, true; he means to make a puppet of thee. : None
+TAILOR
+4.3 :She says your worship means to make : None
+4.3 :a puppet of her. : None
+PETRUCHIO
+4.3 :O monstrous arrogance! Thou liest, thou thread, : None
+4.3 :thou thimble, : None
+4.3 :Thou yard, three-quarters, half-yard, quarter, nail! : None
+4.3 :Thou flea, thou nit, thou winter-cricket thou! : None
+4.3 :Braved in mine own house with a skein of thread? : None
+4.3 :Away, thou rag, thou quantity, thou remnant; : None
+4.3 :Or I shall so be-mete thee with thy yard : None
+4.3 :As thou shalt think on prating whilst thou livest! : None
+4.3 :I tell thee, I, that thou hast marr'd her gown. : None
+TAILOR
+4.3 :Your worship is deceived; the gown is made : None
+4.3 :Just as my master had direction: : None
+4.3 :Grumio gave order how it should be done. : None
+GRUMIO
+4.3 :I gave him no order; I gave him the stuff. : None
+TAILOR
+4.3 :But how did you desire it should be made? : None
+GRUMIO
+4.3 :Marry, sir, with needle and thread. : None
+TAILOR
+4.3 :But did you not request to have it cut? : None
+GRUMIO
+4.3 :Thou hast faced many things. : None
+TAILOR
+4.3 :I have. : None
+GRUMIO
+4.3 :Face not me: thou hast braved many men; brave not : None
+4.3 :me; I will neither be faced nor braved. I say unto : None
+4.3 :thee, I bid thy master cut out the gown; but I did : None
+4.3 :not bid him cut it to pieces: ergo, thou liest. : None
+TAILOR
+4.3 :Why, here is the note of the fashion to testify : None
+PETRUCHIO
+4.3 :Read it. : None
+GRUMIO
+4.3 :The note lies in's throat, if he say I said so. : None
+TAILOR
+4.3 :  'Imprimis, a loose-bodied gown:' : Reads : ['Read - []'] : TAILOR
+GRUMIO
+4.3 :Master, if ever I said loose-bodied gown, sew me in : None
+4.3 :the skirts of it, and beat me to death with a bottom : None
+4.3 :of brown thread: I said a gown. : None
+PETRUCHIO
+4.3 :Proceed. : None
+TAILOR
+4.3 :  'With a small compassed cape:' : Reads : ['Read - []'] : TAILOR
+GRUMIO
+4.3 :I confess the cape. : None
+TAILOR
+4.3 :  'With a trunk sleeve:' : Reads : ['Read - []'] : TAILOR
+GRUMIO
+4.3 :I confess two sleeves. : None
+TAILOR
+4.3 :  'The sleeves curiously cut.' : Reads : ['Read - []'] : TAILOR
+PETRUCHIO
+4.3 :Ay, there's the villany. : None
+GRUMIO
+4.3 :Error i' the bill, sir; error i' the bill. : None
+4.3 :I commanded the sleeves should be cut out and : None
+4.3 :sewed up again; and that I'll prove upon thee, : None
+4.3 :though thy little finger be armed in a thimble. : None
+TAILOR
+4.3 :This is true that I say: an I had thee : None
+4.3 :in place where, thou shouldst know it. : None
+GRUMIO
+4.3 :I am for thee straight: take thou the : None
+4.3 :bill, give me thy mete-yard, and spare not me. : None
+HORTENSIO
+4.3 :God-a-mercy, Grumio! then he shall have no odds. : None
+PETRUCHIO
+4.3 :Well, sir, in brief, the gown is not for me. : None
+GRUMIO
+4.3 :You are i' the right, sir: 'tis for my mistress. : None
+PETRUCHIO
+4.3 :Go, take it up unto thy master's use. : None
+GRUMIO
+4.3 :Villain, not for thy life: take up my mistress' : None
+4.3 :gown for thy master's use! : None
+PETRUCHIO
+4.3 :Why, sir, what's your conceit in that? : None
+GRUMIO
+4.3 :O, sir, the conceit is deeper than you think for: : None
+4.3 :Take up my mistress' gown to his master's use! : None
+4.3 :O, fie, fie, fie! : None
+PETRUCHIO
+4.3 :  Hortensio, say thou wilt see the tailor paid. : Aside : ['Aside - []'] : PETRUCHIO
+4.3 :Go take it hence; be gone, and say no more. : None
+HORTENSIO
+4.3 :Tailor, I'll pay thee for thy gown tomorrow: : None
+4.3 :Take no unkindness of his hasty words: : None
+4.3 :Away! I say; commend me to thy master. : None
+Exit Tailor : ["Exit - ['TAILOR']"] : HORTENSIO
+PETRUCHIO
+4.3 :Well, come, my Kate; we will unto your father's : None
+4.3 :Even in these honest mean habiliments: : None
+4.3 :Our purses shall be proud, our garments poor; : None
+4.3 :For 'tis the mind that makes the body rich; : None
+4.3 :And as the sun breaks through the darkest clouds, : None
+4.3 :So honour peereth in the meanest habit. : None
+4.3 :What is the jay more precious than the lark, : None
+4.3 :Because his fathers are more beautiful? : None
+4.3 :Or is the adder better than the eel, : None
+4.3 :Because his painted skin contents the eye? : None
+4.3 :O, no, good Kate; neither art thou the worse : None
+4.3 :For this poor furniture and mean array. : None
+4.3 :if thou account'st it shame. lay it on me; : None
+4.3 :And therefore frolic: we will hence forthwith, : None
+4.3 :To feast and sport us at thy father's house. : None
+4.3 :Go, call my men, and let us straight to him; : None
+4.3 :And bring our horses unto Long-lane end; : None
+4.3 :There will we mount, and thither walk on foot : None
+4.3 :Let's see; I think 'tis now some seven o'clock, : None
+4.3 :And well we may come there by dinner-time. : None
+KATHARINA
+4.3 :I dare assure you, sir, 'tis almost two; : None
+4.3 :And 'twill be supper-time ere you come there. : None
+PETRUCHIO
+4.3 :It shall be seven ere I go to horse: : None
+4.3 :Look, what I speak, or do, or think to do, : None
+4.3 :You are still crossing it. Sirs, let't alone: : None
+4.3 :I will not go to-day; and ere I do, : None
+4.3 :It shall be what o'clock I say it is. : None
+HORTENSIO
+4.3 :  Why, so this gallant will command the sun. : Aside : ['Aside - []'] : HORTENSIO
+Exeunt : ['Exeunt - []'] : HORTENSIO
+Scene(scene=4)
+Enter TRANIO, and the Pedant dressed like VINCENTIO : ["Enter - ['TRANIO', 'PEDANT', 'VINCENTIO']"] : HORTENSIO
+TRANIO
+4.4 :Sir, this is the house: please it you that I call? : None
+PEDANT
+4.4 :Ay, what else? and but I be deceived : None
+4.4 :Signior Baptista may remember me, : None
+4.4 :Near twenty years ago, in Genoa, : None
+4.4 :Where we were lodgers at the Pegasus. : None
+TRANIO
+4.4 :'Tis well; and hold your own, in any case, : None
+4.4 :With such austerity as 'longeth to a father. : None
+PEDANT
+4.4 :I warrant you. : None
+Enter BIONDELLO : ["Enter - ['BIONDELLO']"] : PEDANT
+4.4 :But, sir, here comes your boy; : None
+4.4 :'Twere good he were school'd. : None
+TRANIO
+4.4 :Fear you not him. Sirrah Biondello, : None
+4.4 :Now do your duty throughly, I advise you: : None
+4.4 :Imagine 'twere the right Vincentio. : None
+BIONDELLO
+4.4 :Tut, fear not me. : None
+TRANIO
+4.4 :But hast thou done thy errand to Baptista? : None
+BIONDELLO
+4.4 :I told him that your father was at Venice, : None
+4.4 :And that you look'd for him this day in Padua. : None
+TRANIO
+4.4 :Thou'rt a tall fellow: hold thee that to drink. : None
+4.4 :Here comes Baptista: set your countenance, sir. : None
+Enter BAPTISTA and LUCENTIO : ["Enter - ['BAPTISTA', 'LUCENTIO']"] : TRANIO
+4.4 :Signior Baptista, you are happily met. : None
+To the Pedant : ["To - ['PEDANT']"] : TRANIO
+4.4 :Sir, this is the gentleman I told you of: : None
+4.4 :I pray you stand good father to me now, : None
+4.4 :Give me Bianca for my patrimony. : None
+PEDANT
+4.4 :Soft son! : None
+4.4 :Sir, by your leave: having come to Padua : None
+4.4 :To gather in some debts, my son Lucentio : None
+4.4 :Made me acquainted with a weighty cause : None
+4.4 :Of love between your daughter and himself: : None
+4.4 :And, for the good report I hear of you : None
+4.4 :And for the love he beareth to your daughter : None
+4.4 :And she to him, to stay him not too long, : None
+4.4 :I am content, in a good father's care, : None
+4.4 :To have him match'd; and if you please to like : None
+4.4 :No worse than I, upon some agreement : None
+4.4 :Me shall you find ready and willing : None
+4.4 :With one consent to have her so bestow'd; : None
+4.4 :For curious I cannot be with you, : None
+4.4 :Signior Baptista, of whom I hear so well. : None
+BAPTISTA
+4.4 :Sir, pardon me in what I have to say: : None
+4.4 :Your plainness and your shortness please me well. : None
+4.4 :Right true it is, your son Lucentio here : None
+4.4 :Doth love my daughter and she loveth him, : None
+4.4 :Or both dissemble deeply their affections: : None
+4.4 :And therefore, if you say no more than this, : None
+4.4 :That like a father you will deal with him : None
+4.4 :And pass my daughter a sufficient dower, : None
+4.4 :The match is made, and all is done: : None
+4.4 :Your son shall have my daughter with consent. : None
+TRANIO
+4.4 :I thank you, sir. Where then do you know best : None
+4.4 :We be affied and such assurance ta'en : None
+4.4 :As shall with either part's agreement stand? : None
+BAPTISTA
+4.4 :Not in my house, Lucentio; for, you know, : None
+4.4 :Pitchers have ears, and I have many servants: : None
+4.4 :Besides, old Gremio is hearkening still; : None
+4.4 :And happily we might be interrupted. : None
+TRANIO
+4.4 :Then at my lodging, an it like you: : None
+4.4 :There doth my father lie; and there, this night, : None
+4.4 :We'll pass the business privately and well. : None
+4.4 :Send for your daughter by your servant here: : None
+4.4 :My boy shall fetch the scrivener presently. : None
+4.4 :The worst is this, that, at so slender warning, : None
+4.4 :You are like to have a thin and slender pittance. : None
+BAPTISTA
+4.4 :It likes me well. Biondello, hie you home, : None
+4.4 :And bid Bianca make her ready straight; : None
+4.4 :And, if you will, tell what hath happened, : None
+4.4 :Lucentio's father is arrived in Padua, : None
+4.4 :And how she's like to be Lucentio's wife. : None
+BIONDELLO
+4.4 :I pray the gods she may with all my heart! : None
+TRANIO
+4.4 :Dally not with the gods, but get thee gone. : None
+Exit BIONDELLO : ["Exit - ['BIONDELLO']"] : TRANIO
+4.4 :Signior Baptista, shall I lead the way? : None
+4.4 :Welcome! one mess is like to be your cheer: : None
+4.4 :Come, sir; we will better it in Pisa. : None
+BAPTISTA
+4.4 :I follow you. : None
+Exeunt TRANIO, Pedant, and BAPTISTA : ["Exeunt - ['TRANIO', 'PEDANT', 'BAPTISTA']"] : BAPTISTA
+Re-enter BIONDELLO : ["Re-enter - ['BIONDELLO']"] : BAPTISTA
+BIONDELLO
+4.4 :Cambio! : None
+LUCENTIO
+4.4 :What sayest thou, Biondello? : None
+BIONDELLO
+4.4 :You saw my master wink and laugh upon you? : None
+LUCENTIO
+4.4 :Biondello, what of that? : None
+BIONDELLO
+4.4 :Faith, nothing; but has left me here behind, to : None
+4.4 :expound the meaning or moral of his signs and tokens. : None
+LUCENTIO
+4.4 :I pray thee, moralize them. : None
+BIONDELLO
+4.4 :Then thus. Baptista is safe, talking with the : None
+4.4 :deceiving father of a deceitful son. : None
+LUCENTIO
+4.4 :And what of him? : None
+BIONDELLO
+4.4 :His daughter is to be brought by you to the supper. : None
+LUCENTIO
+4.4 :And then? : None
+BIONDELLO
+4.4 :The old priest of Saint Luke's church is at your : None
+4.4 :command at all hours. : None
+LUCENTIO
+4.4 :And what of all this? : None
+BIONDELLO
+4.4 :I cannot tell; expect they are busied about a : None
+4.4 :counterfeit assurance: take you assurance of her, : None
+4.4 :'cum privilegio ad imprimendum solum:' to the : None
+4.4 :church; take the priest, clerk, and some sufficient : None
+4.4 :honest witnesses: If this be not that you look for, : None
+4.4 :I have no more to say, But bid Bianca farewell for : None
+4.4 :ever and a day. : None
+LUCENTIO
+4.4 :Hearest thou, Biondello? : None
+BIONDELLO
+4.4 :I cannot tarry: I knew a wench married in an : None
+4.4 :afternoon as she went to the garden for parsley to : None
+4.4 :stuff a rabbit; and so may you, sir: and so, adieu, : None
+4.4 :sir. My master hath appointed me to go to Saint : None
+4.4 :Luke's, to bid the priest be ready to come against : None
+4.4 :you come with your appendix. : None
+Exit : ['Exit - []'] : BIONDELLO
+LUCENTIO
+4.4 :I may, and will, if she be so contented: : None
+4.4 :She will be pleased; then wherefore should I doubt? : None
+4.4 :Hap what hap may, I'll roundly go about her: : None
+4.4 :It shall go hard if Cambio go without her. : None
+Exit : ['Exit - []'] : LUCENTIO
+Scene(scene=5)
+Enter PETRUCHIO, KATHARINA, HORTENSIO, and Servants : ["Enter - ['PETRUCHIO', 'KATHARINA', 'HORTENSIO', 'SERVANT']"] : LUCENTIO
+PETRUCHIO
+4.5 :Come on, i' God's name; once more toward our father's. : None
+4.5 :Good Lord, how bright and goodly shines the moon! : None
+KATHARINA
+4.5 :The moon! the sun: it is not moonlight now. : None
+PETRUCHIO
+4.5 :I say it is the moon that shines so bright. : None
+KATHARINA
+4.5 :I know it is the sun that shines so bright. : None
+PETRUCHIO
+4.5 :Now, by my mother's son, and that's myself, : None
+4.5 :It shall be moon, or star, or what I list, : None
+4.5 :Or ere I journey to your father's house. : None
+4.5 :Go on, and fetch our horses back again. : None
+4.5 :Evermore cross'd and cross'd; nothing but cross'd! : None
+HORTENSIO
+4.5 :Say as he says, or we shall never go. : None
+KATHARINA
+4.5 :Forward, I pray, since we have come so far, : None
+4.5 :And be it moon, or sun, or what you please: : None
+4.5 :An if you please to call it a rush-candle, : None
+4.5 :Henceforth I vow it shall be so for me. : None
+PETRUCHIO
+4.5 :I say it is the moon. : None
+KATHARINA
+4.5 :I know it is the moon. : None
+PETRUCHIO
+4.5 :Nay, then you lie: it is the blessed sun. : None
+KATHARINA
+4.5 :Then, God be bless'd, it is the blessed sun: : None
+4.5 :But sun it is not, when you say it is not; : None
+4.5 :And the moon changes even as your mind. : None
+4.5 :What you will have it named, even that it is; : None
+4.5 :And so it shall be so for Katharina. : None
+HORTENSIO
+4.5 :Petruchio, go thy ways; the field is won. : None
+PETRUCHIO
+4.5 :Well, forward, forward! thus the bowl should run, : None
+4.5 :And not unluckily against the bias. : None
+4.5 :But, soft! company is coming here. : None
+Enter VINCENTIO : ["Enter - ['VINCENTIO']"] : PETRUCHIO
+To VINCENTIO : ["To - ['VINCENTIO']"] : PETRUCHIO
+4.5 :Good morrow, gentle mistress: where away? : None
+4.5 :Tell me, sweet Kate, and tell me truly too, : None
+4.5 :Hast thou beheld a fresher gentlewoman? : None
+4.5 :Such war of white and red within her cheeks! : None
+4.5 :What stars do spangle heaven with such beauty, : None
+4.5 :As those two eyes become that heavenly face? : None
+4.5 :Fair lovely maid, once more good day to thee. : None
+4.5 :Sweet Kate, embrace her for her beauty's sake. : None
+HORTENSIO
+4.5 :A' will make the man mad, to make a woman of him. : None
+KATHARINA
+4.5 :Young budding virgin, fair and fresh and sweet, : None
+4.5 :Whither away, or where is thy abode? : None
+4.5 :Happy the parents of so fair a child; : None
+4.5 :Happier the man, whom favourable stars : None
+4.5 :Allot thee for his lovely bed-fellow! : None
+PETRUCHIO
+4.5 :Why, how now, Kate! I hope thou art not mad: : None
+4.5 :This is a man, old, wrinkled, faded, wither'd, : None
+4.5 :And not a maiden, as thou say'st he is. : None
+KATHARINA
+4.5 :Pardon, old father, my mistaking eyes, : None
+4.5 :That have been so bedazzled with the sun : None
+4.5 :That everything I look on seemeth green: : None
+4.5 :Now I perceive thou art a reverend father; : None
+4.5 :Pardon, I pray thee, for my mad mistaking. : None
+PETRUCHIO
+4.5 :Do, good old grandsire; and withal make known : None
+4.5 :Which way thou travellest: if along with us, : None
+4.5 :We shall be joyful of thy company. : None
+VINCENTIO
+4.5 :Fair sir, and you my merry mistress, : None
+4.5 :That with your strange encounter much amazed me, : None
+4.5 :My name is call'd Vincentio; my dwelling Pisa; : None
+4.5 :And bound I am to Padua; there to visit : None
+4.5 :A son of mine, which long I have not seen. : None
+PETRUCHIO
+4.5 :What is his name? : None
+VINCENTIO
+4.5 :                  Lucentio, gentle sir. : None
+PETRUCHIO
+4.5 :Happily we met; the happier for thy son. : None
+4.5 :And now by law, as well as reverend age, : None
+4.5 :I may entitle thee my loving father: : None
+4.5 :The sister to my wife, this gentlewoman, : None
+4.5 :Thy son by this hath married. Wonder not, : None
+4.5 :Nor be grieved: she is of good esteem, : None
+4.5 :Her dowery wealthy, and of worthy birth; : None
+4.5 :Beside, so qualified as may beseem : None
+4.5 :The spouse of any noble gentleman. : None
+4.5 :Let me embrace with old Vincentio, : None
+4.5 :And wander we to see thy honest son, : None
+4.5 :Who will of thy arrival be full joyous. : None
+VINCENTIO
+4.5 :But is it true? or else is it your pleasure, : None
+4.5 :Like pleasant travellers, to break a jest : None
+4.5 :Upon the company you overtake? : None
+HORTENSIO
+4.5 :I do assure thee, father, so it is. : None
+PETRUCHIO
+4.5 :Come, go along, and see the truth hereof; : None
+4.5 :For our first merriment hath made thee jealous. : None
+Exeunt all but HORTENSIO : ["Exeunt - ['ALL', 'HORTENSIO']"] : PETRUCHIO
+HORTENSIO
+4.5 :Well, Petruchio, this has put me in heart. : None
+4.5 :Have to my widow! and if she be froward, : None
+4.5 :Then hast thou taught Hortensio to be untoward. : None
+Exit : ['Exit - []'] : HORTENSIO
+Act(act=5)
+Scene(scene=1)
+GREMIO discovered. Enter behind BIONDELLO, LUCENTIO, and BIANCA : ["None - ['GREMIO']", "Enter - ['BIONDELLO', 'LUCENTIO', 'BIANCA']"] : HORTENSIO
+BIONDELLO
+5.1 :Softly and swiftly, sir; for the priest is ready. : None
+LUCENTIO
+5.1 :I fly, Biondello: but they may chance to need thee : None
+5.1 :at home; therefore leave us. : None
+BIONDELLO
+5.1 :Nay, faith, I'll see the church o' your back; and : None
+5.1 :then come back to my master's as soon as I can. : None
+Exeunt LUCENTIO, BIANCA, and BIONDELLO : ["Exeunt - ['LUCENTIO', 'BIANCA', 'BIONDELLO']"] : BIONDELLO
+GREMIO
+5.1 :I marvel Cambio comes not all this while. : None
+Enter PETRUCHIO, KATHARINA, VINCENTIO, GRUMIO, with Attendants : ["Enter - ['PETRUCHIO', 'KATHARINA', 'VINCENTIO', 'GRUMIO']"] : GREMIO
+PETRUCHIO
+5.1 :Sir, here's the door, this is Lucentio's house: : None
+5.1 :My father's bears more toward the market-place; : None
+5.1 :Thither must I, and here I leave you, sir. : None
+VINCENTIO
+5.1 :You shall not choose but drink before you go: : None
+5.1 :I think I shall command your welcome here, : None
+5.1 :And, by all likelihood, some cheer is toward. : None
+Knocks : ['None - []'] : VINCENTIO
+GREMIO
+5.1 :They're busy within; you were best knock louder. : None
+Pedant looks out of the window : ["None - ['PEDANT']"] : GREMIO
+PEDANT
+5.1 :What's he that knocks as he would beat down the gate? : None
+VINCENTIO
+5.1 :Is Signior Lucentio within, sir? : None
+PEDANT
+5.1 :He's within, sir, but not to be spoken withal. : None
+VINCENTIO
+5.1 :What if a man bring him a hundred pound or two, to : None
+5.1 :make merry withal? : None
+PEDANT
+5.1 :Keep your hundred pounds to yourself: he shall : None
+5.1 :need none, so long as I live. : None
+PETRUCHIO
+5.1 :Nay, I told you your son was well beloved in Padua. : None
+5.1 :Do you hear, sir? To leave frivolous circumstances, : None
+5.1 :I pray you, tell Signior Lucentio that his father is : None
+5.1 :come from Pisa, and is here at the door to speak with him. : None
+PEDANT
+5.1 :Thou liest: his father is come from Padua and here : None
+5.1 :looking out at the window. : None
+VINCENTIO
+5.1 :Art thou his father? : None
+PEDANT
+5.1 :Ay, sir; so his mother says, if I may believe her. : None
+PETRUCHIO
+5.1 :  Why, how now, gentleman! why, this : To VINCENTIO : ["To - ['VINCENTIO']"] : PETRUCHIO
+5.1 :is flat knavery, to take upon you another man's name. : None
+PEDANT
+5.1 :Lay hands on the villain: I believe a' means to : None
+5.1 :cozen somebody in this city under my countenance. : None
+Re-enter BIONDELLO : ["Re-enter - ['BIONDELLO']"] : PEDANT
+BIONDELLO
+5.1 :I have seen them in the church together: God send : None
+5.1 :'em good shipping! But who is here? mine old : None
+5.1 :master Vincentio! now we are undone and brought to nothing. : None
+VINCENTIO
+5.1 : : Seeing BIONDELLO : ["None - ['BIONDELLO']"] : VINCENTIO
+5.1 :Come hither, crack-hemp. : None
+BIONDELLO
+5.1 :Hope I may choose, sir. : None
+VINCENTIO
+5.1 :Come hither, you rogue. What, have you forgot me? : None
+BIONDELLO
+5.1 :Forgot you! no, sir: I could not forget you, for I : None
+5.1 :never saw you before in all my life. : None
+VINCENTIO
+5.1 :What, you notorious villain, didst thou never see : None
+5.1 :thy master's father, Vincentio? : None
+BIONDELLO
+5.1 :What, my old worshipful old master? yes, marry, sir: : None
+5.1 :see where he looks out of the window. : None
+VINCENTIO
+5.1 :Is't so, indeed. : None
+Beats BIONDELLO : ["None - ['BIONDELLO']"] : VINCENTIO
+BIONDELLO
+5.1 :Help, help, help! here's a madman will murder me. : None
+Exit : ['Exit - []'] : BIONDELLO
+PEDANT
+5.1 :Help, son! help, Signior Baptista! : None
+Exit from above : ['Exit - []'] : PEDANT
+PETRUCHIO
+5.1 :Prithee, Kate, let's stand aside and see the end of : None
+5.1 :this controversy. : None
+They retire : ['None - []'] : PETRUCHIO
+Re-enter Pedant below; TRANIO, BAPTISTA, and Servants : ["Re-enter - ['PEDANT', 'TRANIO', 'BAPTISTA', 'SERVANT']"] : PETRUCHIO
+TRANIO
+5.1 :Sir, what are you that offer to beat my servant? : None
+VINCENTIO
+5.1 :What am I, sir! nay, what are you, sir? O immortal : None
+5.1 :gods! O fine villain! A silken doublet! a velvet : None
+5.1 :hose! a scarlet cloak! and a copatain hat! O, I : None
+5.1 :am undone! I am undone! while I play the good : None
+5.1 :husband at home, my son and my servant spend all at : None
+5.1 :the university. : None
+TRANIO
+5.1 :How now! what's the matter? : None
+BAPTISTA
+5.1 :What, is the man lunatic? : None
+TRANIO
+5.1 :Sir, you seem a sober ancient gentleman by your : None
+5.1 :habit, but your words show you a madman. Why, sir, : None
+5.1 :what 'cerns it you if I wear pearl and gold? I : None
+5.1 :thank my good father, I am able to maintain it. : None
+VINCENTIO
+5.1 :Thy father! O villain! he is a sailmaker in Bergamo. : None
+BAPTISTA
+5.1 :You mistake, sir, you mistake, sir. Pray, what do : None
+5.1 :you think is his name? : None
+VINCENTIO
+5.1 :His name! as if I knew not his name: I have brought : None
+5.1 :him up ever since he was three years old, and his : None
+5.1 :name is Tranio. : None
+PEDANT
+5.1 :Away, away, mad ass! his name is Lucentio and he is : None
+5.1 :mine only son, and heir to the lands of me, Signior Vincentio. : None
+VINCENTIO
+5.1 :Lucentio! O, he hath murdered his master! Lay hold : None
+5.1 :on him, I charge you, in the duke's name. O, my : None
+5.1 :son, my son! Tell me, thou villain, where is my son Lucentio? : None
+TRANIO
+5.1 :Call forth an officer. : None
+Enter one with an Officer : ['Enter - []'] : TRANIO
+5.1 :Carry this mad knave to the gaol. Father Baptista, : None
+5.1 :I charge you see that he be forthcoming. : None
+VINCENTIO
+5.1 :Carry me to the gaol! : None
+GREMIO
+5.1 :Stay, officer: he shall not go to prison. : None
+BAPTISTA
+5.1 :Talk not, Signior Gremio: I say he shall go to prison. : None
+GREMIO
+5.1 :Take heed, Signior Baptista, lest you be : None
+5.1 :cony-catched in this business: I dare swear this : None
+5.1 :is the right Vincentio. : None
+PEDANT
+5.1 :Swear, if thou darest. : None
+GREMIO
+5.1 :Nay, I dare not swear it. : None
+TRANIO
+5.1 :Then thou wert best say that I am not Lucentio. : None
+GREMIO
+5.1 :Yes, I know thee to be Signior Lucentio. : None
+BAPTISTA
+5.1 :Away with the dotard! to the gaol with him! : None
+VINCENTIO
+5.1 :Thus strangers may be hailed and abused: O : None
+5.1 :monstrous villain! : None
+Re-enter BIONDELLO, with LUCENTIO and BIANCA : ["Re-enter - ['BIONDELLO', 'LUCENTIO', 'BIANCA']"] : VINCENTIO
+BIONDELLO
+5.1 :O! we are spoiled and--yonder he is: deny him, : None
+5.1 :forswear him, or else we are all undone. : None
+LUCENTIO
+5.1 :  Pardon, sweet father. : Kneeling : ['None - []'] : LUCENTIO
+VINCENTIO
+5.1 :Lives my sweet son? : None
+Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be : ["Exeunt - ['BIONDELLO', 'TRANIO', 'PEDANT']"] : VINCENTIO
+BIANCA
+5.1 :Pardon, dear father. : None
+BAPTISTA
+5.1 :How hast thou offended? : None
+5.1 :Where is Lucentio? : None
+LUCENTIO
+5.1 :                  Here's Lucentio, : None
+5.1 :Right son to the right Vincentio; : None
+5.1 :That have by marriage made thy daughter mine, : None
+5.1 :While counterfeit supposes bleared thine eyne. : None
+GREMIO
+5.1 :Here's packing, with a witness to deceive us all! : None
+VINCENTIO
+5.1 :Where is that damned villain Tranio, : None
+5.1 :That faced and braved me in this matter so? : None
+BAPTISTA
+5.1 :Why, tell me, is not this my Cambio? : None
+BIANCA
+5.1 :Cambio is changed into Lucentio. : None
+LUCENTIO
+5.1 :Love wrought these miracles. Bianca's love : None
+5.1 :Made me exchange my state with Tranio, : None
+5.1 :While he did bear my countenance in the town; : None
+5.1 :And happily I have arrived at the last : None
+5.1 :Unto the wished haven of my bliss. : None
+5.1 :What Tranio did, myself enforced him to; : None
+5.1 :Then pardon him, sweet father, for my sake. : None
+VINCENTIO
+5.1 :I'll slit the villain's nose, that would have sent : None
+5.1 :me to the gaol. : None
+BAPTISTA
+5.1 :But do you hear, sir? have you married my daughter : None
+5.1 :without asking my good will? : None
+VINCENTIO
+5.1 :Fear not, Baptista; we will content you, go to: but : None
+5.1 :I will in, to be revenged for this villany. : None
+Exit : ['Exit - []'] : VINCENTIO
+BAPTISTA
+5.1 :And I, to sound the depth of this knavery. : None
+Exit : ['Exit - []'] : BAPTISTA
+LUCENTIO
+5.1 :Look not pale, Bianca; thy father will not frown. : None
+Exeunt LUCENTIO and BIANCA : ["Exeunt - ['LUCENTIO', 'BIANCA']"] : LUCENTIO
+GREMIO
+5.1 :My cake is dough; but I'll in among the rest, : None
+5.1 :Out of hope of all, but my share of the feast. : None
+Exit : ['Exit - []'] : GREMIO
+KATHARINA
+5.1 :Husband, let's follow, to see the end of this ado. : None
+PETRUCHIO
+5.1 :First kiss me, Kate, and we will. : None
+KATHARINA
+5.1 :What, in the midst of the street? : None
+PETRUCHIO
+5.1 :What, art thou ashamed of me? : None
+KATHARINA
+5.1 :No, sir, God forbid; but ashamed to kiss. : None
+PETRUCHIO
+5.1 :Why, then let's home again. Come, sirrah, let's away. : None
+KATHARINA
+5.1 :Nay, I will give thee a kiss: now pray thee, love, stay. : None
+PETRUCHIO
+5.1 :Is not this well? Come, my sweet Kate: : None
+5.1 :Better once than never, for never too late. : None
+Exeunt : ['Exeunt - []'] : PETRUCHIO
+Scene(scene=2)
+Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant,  LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO,  and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men with Tranio bringing in a banquet : ["Enter - ['BAPTISTA', 'VINCENTIO', 'GREMIO', 'PEDANT', 'LUCENTIO', 'BIANCA', 'PETRUCHIO', 'KATHARINA', 'HORTENSIO', 'WIDOW', 'TRANIO', 'BIONDELLO', 'GRUMIO', 'TRANIO']"] : PETRUCHIO
+LUCENTIO
+5.2 :At last, though long, our jarring notes agree: : None
+5.2 :And time it is, when raging war is done, : None
+5.2 :To smile at scapes and perils overblown. : None
+5.2 :My fair Bianca, bid my father welcome, : None
+5.2 :While I with self-same kindness welcome thine. : None
+5.2 :Brother Petruchio, sister Katharina, : None
+5.2 :And thou, Hortensio, with thy loving widow, : None
+5.2 :Feast with the best, and welcome to my house: : None
+5.2 :My banquet is to close our stomachs up, : None
+5.2 :After our great good cheer. Pray you, sit down; : None
+5.2 :For now we sit to chat as well as eat. : None
+PETRUCHIO
+5.2 :Nothing but sit and sit, and eat and eat! : None
+BAPTISTA
+5.2 :Padua affords this kindness, son Petruchio. : None
+PETRUCHIO
+5.2 :Padua affords nothing but what is kind. : None
+HORTENSIO
+5.2 :For both our sakes, I would that word were true. : None
+PETRUCHIO
+5.2 :Now, for my life, Hortensio fears his widow. : None
+WIDOW
+5.2 :Then never trust me, if I be afeard. : None
+PETRUCHIO
+5.2 :You are very sensible, and yet you miss my sense: : None
+5.2 :I mean, Hortensio is afeard of you. : None
+WIDOW
+5.2 :He that is giddy thinks the world turns round. : None
+PETRUCHIO
+5.2 :Roundly replied. : None
+KATHARINA
+5.2 :                  Mistress, how mean you that? : None
+WIDOW
+5.2 :Thus I conceive by him. : None
+PETRUCHIO
+5.2 :Conceives by me! How likes Hortensio that? : None
+HORTENSIO
+5.2 :My widow says, thus she conceives her tale. : None
+PETRUCHIO
+5.2 :Very well mended. Kiss him for that, good widow. : None
+KATHARINA
+5.2 :'He that is giddy thinks the world turns round:' : None
+5.2 :I pray you, tell me what you meant by that. : None
+WIDOW
+5.2 :Your husband, being troubled with a shrew, : None
+5.2 :Measures my husband's sorrow by his woe: : None
+5.2 :And now you know my meaning, : None
+KATHARINA
+5.2 :A very mean meaning. : None
+WIDOW
+5.2 :Right, I mean you. : None
+KATHARINA
+5.2 :And I am mean indeed, respecting you. : None
+PETRUCHIO
+5.2 :To her, Kate! : None
+HORTENSIO
+5.2 :To her, widow! : None
+PETRUCHIO
+5.2 :A hundred marks, my Kate does put her down. : None
+HORTENSIO
+5.2 :That's my office. : None
+PETRUCHIO
+5.2 :Spoke like an officer; ha' to thee, lad! : None
+Drinks to HORTENSIO : ["to - ['HORTENSIO']"] : PETRUCHIO
+BAPTISTA
+5.2 :How likes Gremio these quick-witted folks? : None
+GREMIO
+5.2 :Believe me, sir, they butt together well. : None
+BIANCA
+5.2 :Head, and butt! an hasty-witted body : None
+5.2 :Would say your head and butt were head and horn. : None
+VINCENTIO
+5.2 :Ay, mistress bride, hath that awaken'd you? : None
+BIANCA
+5.2 :Ay, but not frighted me; therefore I'll sleep again. : None
+PETRUCHIO
+5.2 :Nay, that you shall not: since you have begun, : None
+5.2 :Have at you for a bitter jest or two! : None
+BIANCA
+5.2 :Am I your bird? I mean to shift my bush; : None
+5.2 :And then pursue me as you draw your bow. : None
+5.2 :You are welcome all. : None
+Exeunt BIANCA, KATHARINA, and Widow : ["Exeunt - ['BIANCA', 'KATHARINA', 'WIDOW']"] : BIANCA
+PETRUCHIO
+5.2 :She hath prevented me. Here, Signior Tranio. : None
+5.2 :This bird you aim'd at, though you hit her not; : None
+5.2 :Therefore a health to all that shot and miss'd. : None
+TRANIO
+5.2 :O, sir, Lucentio slipp'd me like his greyhound, : None
+5.2 :Which runs himself and catches for his master. : None
+PETRUCHIO
+5.2 :A good swift simile, but something currish. : None
+TRANIO
+5.2 :'Tis well, sir, that you hunted for yourself: : None
+5.2 :'Tis thought your deer does hold you at a bay. : None
+BAPTISTA
+5.2 :O ho, Petruchio! Tranio hits you now. : None
+LUCENTIO
+5.2 :I thank thee for that gird, good Tranio. : None
+HORTENSIO
+5.2 :Confess, confess, hath he not hit you here? : None
+PETRUCHIO
+5.2 :A' has a little gall'd me, I confess; : None
+5.2 :And, as the jest did glance away from me, : None
+5.2 :'Tis ten to one it maim'd you two outright. : None
+BAPTISTA
+5.2 :Now, in good sadness, son Petruchio, : None
+5.2 :I think thou hast the veriest shrew of all. : None
+PETRUCHIO
+5.2 :Well, I say no: and therefore for assurance : None
+5.2 :Let's each one send unto his wife; : None
+5.2 :And he whose wife is most obedient : None
+5.2 :To come at first when he doth send for her, : None
+5.2 :Shall win the wager which we will propose. : None
+HORTENSIO
+5.2 :Content. What is the wager? : None
+LUCENTIO
+5.2 :Twenty crowns. : None
+PETRUCHIO
+5.2 :Twenty crowns! : None
+5.2 :I'll venture so much of my hawk or hound, : None
+5.2 :But twenty times so much upon my wife. : None
+LUCENTIO
+5.2 :A hundred then. : None
+HORTENSIO
+5.2 :                  Content. : None
+PETRUCHIO
+5.2 :A match! 'tis done. : None
+HORTENSIO
+5.2 :Who shall begin? : None
+LUCENTIO
+5.2 :                  That will I. : None
+5.2 :Go, Biondello, bid your mistress come to me. : None
+BIONDELLO
+5.2 :I go. : None
+Exit : ['Exit - []'] : BIONDELLO
+BAPTISTA
+5.2 :Son, I'll be your half, Bianca comes. : None
+LUCENTIO
+5.2 :I'll have no halves; I'll bear it all myself. : None
+Re-enter BIONDELLO : ["Re-enter - ['BIONDELLO']"] : LUCENTIO
+5.2 :How now! what news? : None
+BIONDELLO
+5.2 :Sir, my mistress sends you word : None
+5.2 :That she is busy and she cannot come. : None
+PETRUCHIO
+5.2 :How! she is busy and she cannot come! : None
+5.2 :Is that an answer? : None
+GREMIO
+5.2 :                  Ay, and a kind one too: : None
+5.2 :Pray God, sir, your wife send you not a worse. : None
+PETRUCHIO
+5.2 :I hope better. : None
+HORTENSIO
+5.2 :Sirrah Biondello, go and entreat my wife : None
+5.2 :To come to me forthwith. : None
+Exit BIONDELLO : ["Exit - ['BIONDELLO']"] : HORTENSIO
+PETRUCHIO
+5.2 :O, ho! entreat her! : None
+5.2 :Nay, then she must needs come. : None
+HORTENSIO
+5.2 :I am afraid, sir, : None
+5.2 :Do what you can, yours will not be entreated. : None
+Re-enter BIONDELLO : ["Re-enter - ['BIONDELLO']"] : HORTENSIO
+5.2 :Now, where's my wife? : None
+BIONDELLO
+5.2 :She says you have some goodly jest in hand: : None
+5.2 :She will not come: she bids you come to her. : None
+PETRUCHIO
+5.2 :Worse and worse; she will not come! O vile, : None
+5.2 :Intolerable, not to be endured! : None
+5.2 :Sirrah Grumio, go to your mistress; : None
+5.2 :Say, I command her to come to me. : None
+Exit GRUMIO : ["Exit - ['GRUMIO']"] : PETRUCHIO
+HORTENSIO
+5.2 :I know her answer. : None
+PETRUCHIO
+5.2 :                  What? : None
+HORTENSIO
+5.2 :She will not. : None
+PETRUCHIO
+5.2 :The fouler fortune mine, and there an end. : None
+BAPTISTA
+5.2 :Now, by my holidame, here comes Katharina! : None
+Re-enter KATARINA : ["Re-enter - ['KATARINA']"] : BAPTISTA
+KATHARINA
+5.2 :What is your will, sir, that you send for me? : None
+PETRUCHIO
+5.2 :Where is your sister, and Hortensio's wife? : None
+KATHARINA
+5.2 :They sit conferring by the parlor fire. : None
+PETRUCHIO
+5.2 :Go fetch them hither: if they deny to come. : None
+5.2 :Swinge me them soundly forth unto their husbands: : None
+5.2 :Away, I say, and bring them hither straight. : None
+Exit KATHARINA : ["Exit - ['KATHARINA']"] : PETRUCHIO
+LUCENTIO
+5.2 :Here is a wonder, if you talk of a wonder. : None
+HORTENSIO
+5.2 :And so it is: I wonder what it bodes. : None
+PETRUCHIO
+5.2 :Marry, peace it bodes, and love and quiet life, : None
+5.2 :And awful rule and right supremacy; : None
+5.2 :And, to be short, what not, that's sweet and happy? : None
+BAPTISTA
+5.2 :Now, fair befal thee, good Petruchio! : None
+5.2 :The wager thou hast won; and I will add : None
+5.2 :Unto their losses twenty thousand crowns; : None
+5.2 :Another dowry to another daughter, : None
+5.2 :For she is changed, as she had never been. : None
+PETRUCHIO
+5.2 :Nay, I will win my wager better yet : None
+5.2 :And show more sign of her obedience, : None
+5.2 :Her new-built virtue and obedience. : None
+5.2 :See where she comes and brings your froward wives : None
+5.2 :As prisoners to her womanly persuasion. : None
+Re-enter KATHARINA, with BIANCA and Widow : ["Re-enter - ['KATHARINA', 'BIANCA', 'WIDOW']"] : PETRUCHIO
+5.2 :Katharina, that cap of yours becomes you not: : None
+5.2 :Off with that bauble, throw it under-foot. : None
+WIDOW
+5.2 :Lord, let me never have a cause to sigh, : None
+5.2 :Till I be brought to such a silly pass! : None
+BIANCA
+5.2 :Fie! what a foolish duty call you this? : None
+LUCENTIO
+5.2 :I would your duty were as foolish too: : None
+5.2 :The wisdom of your duty, fair Bianca, : None
+5.2 :Hath cost me an hundred crowns since supper-time. : None
+BIANCA
+5.2 :The more fool you, for laying on my duty. : None
+PETRUCHIO
+5.2 :Katharina, I charge thee, tell these headstrong women : None
+5.2 :What duty they do owe their lords and husbands. : None
+WIDOW
+5.2 :Come, come, you're mocking: we will have no telling. : None
+PETRUCHIO
+5.2 :Come on, I say; and first begin with her. : None
+WIDOW
+5.2 :She shall not. : None
+PETRUCHIO
+5.2 :I say she shall: and first begin with her. : None
+KATHARINA
+5.2 :Fie, fie! unknit that threatening unkind brow, : None
+5.2 :And dart not scornful glances from those eyes, : None
+5.2 :To wound thy lord, thy king, thy governor: : None
+5.2 :It blots thy beauty as frosts do bite the meads, : None
+5.2 :Confounds thy fame as whirlwinds shake fair buds, : None
+5.2 :And in no sense is meet or amiable. : None
+5.2 :A woman moved is like a fountain troubled, : None
+5.2 :Muddy, ill-seeming, thick, bereft of beauty; : None
+5.2 :And while it is so, none so dry or thirsty : None
+5.2 :Will deign to sip or touch one drop of it. : None
+5.2 :Thy husband is thy lord, thy life, thy keeper, : None
+5.2 :Thy head, thy sovereign; one that cares for thee, : None
+5.2 :And for thy maintenance commits his body : None
+5.2 :To painful labour both by sea and land, : None
+5.2 :To watch the night in storms, the day in cold, : None
+5.2 :Whilst thou liest warm at home, secure and safe; : None
+5.2 :And craves no other tribute at thy hands : None
+5.2 :But love, fair looks and true obedience; : None
+5.2 :Too little payment for so great a debt. : None
+5.2 :Such duty as the subject owes the prince : None
+5.2 :Even such a woman oweth to her husband; : None
+5.2 :And when she is froward, peevish, sullen, sour, : None
+5.2 :And not obedient to his honest will, : None
+5.2 :What is she but a foul contending rebel : None
+5.2 :And graceless traitor to her loving lord? : None
+5.2 :I am ashamed that women are so simple : None
+5.2 :To offer war where they should kneel for peace; : None
+5.2 :Or seek for rule, supremacy and sway, : None
+5.2 :When they are bound to serve, love and obey. : None
+5.2 :Why are our bodies soft and weak and smooth, : None
+5.2 :Unapt to toil and trouble in the world, : None
+5.2 :But that our soft conditions and our hearts : None
+5.2 :Should well agree with our external parts? : None
+5.2 :Come, come, you froward and unable worms! : None
+5.2 :My mind hath been as big as one of yours, : None
+5.2 :My heart as great, my reason haply more, : None
+5.2 :To bandy word for word and frown for frown; : None
+5.2 :But now I see our lances are but straws, : None
+5.2 :Our strength as weak, our weakness past compare, : None
+5.2 :That seeming to be most which we indeed least are. : None
+5.2 :Then vail your stomachs, for it is no boot, : None
+5.2 :And place your hands below your husband's foot: : None
+5.2 :In token of which duty, if he please, : None
+5.2 :My hand is ready; may it do him ease. : None
+PETRUCHIO
+5.2 :Why, there's a wench! Come on, and kiss me, Kate. : None
+LUCENTIO
+5.2 :Well, go thy ways, old lad; for thou shalt ha't. : None
+VINCENTIO
+5.2 :'Tis a good hearing when children are toward. : None
+LUCENTIO
+5.2 :But a harsh hearing when women are froward. : None
+PETRUCHIO
+5.2 :Come, Kate, we'll to bed. : None
+5.2 :We three are married, but you two are sped. : None
+To LUCENTIO : ["To - ['LUCENTIO']"] : PETRUCHIO
+5.2 :'Twas I won the wager, though you hit the white; : None
+5.2 :And, being a winner, God give you good night! : None
+Exeunt PETRUCHIO and KATHARINA : ["Exeunt - ['PETRUCHIO', 'KATHARINA']"] : PETRUCHIO
+HORTENSIO
+5.2 :Now, go thy ways; thou hast tamed a curst shrew. : None
+LUCENTIO
+5.2 :'Tis a wonder, by your leave, she will be tamed so. : None
+Exeunt : ['Exeunt - []'] : LUCENTIO

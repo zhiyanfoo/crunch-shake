@@ -1,0 +1,2663 @@
+Act(act=1)
+Scene(scene=1)
+Enter DUKE SOLINUS, AEGEON, Gaoler, Officers, and other Attendants : ["Enter - ['DUKE SOLINUS', 'AEGEON', 'GAOLER', 'OFFICER']"] : None
+AEGEON
+1.1 :Proceed, Solinus, to procure my fall : None
+1.1 :And by the doom of death end woes and all. : None
+DUKE SOLINUS
+1.1 :Merchant of Syracuse, plead no more; : None
+1.1 :I am not partial to infringe our laws: : None
+1.1 :The enmity and discord which of late : None
+1.1 :Sprung from the rancorous outrage of your duke : None
+1.1 :To merchants, our well-dealing countrymen, : None
+1.1 :Who wanting guilders to redeem their lives : None
+1.1 :Have seal'd his rigorous statutes with their bloods, : None
+1.1 :Excludes all pity from our threatening looks. : None
+1.1 :For, since the mortal and intestine jars : None
+1.1 :'Twixt thy seditious countrymen and us, : None
+1.1 :It hath in solemn synods been decreed : None
+1.1 :Both by the Syracusians and ourselves, : None
+1.1 :To admit no traffic to our adverse towns Nay, more, : None
+1.1 :If any born at Ephesus be seen : None
+1.1 :At any Syracusian marts and fairs; : None
+1.1 :Again: if any Syracusian born : None
+1.1 :Come to the bay of Ephesus, he dies, : None
+1.1 :His goods confiscate to the duke's dispose, : None
+1.1 :Unless a thousand marks be levied, : None
+1.1 :To quit the penalty and to ransom him. : None
+1.1 :Thy substance, valued at the highest rate, : None
+1.1 :Cannot amount unto a hundred marks; : None
+1.1 :Therefore by law thou art condemned to die. : None
+AEGEON
+1.1 :Yet this my comfort: when your words are done, : None
+1.1 :My woes end likewise with the evening sun. : None
+DUKE SOLINUS
+1.1 :Well, Syracusian, say in brief the cause : None
+1.1 :Why thou departed'st from thy native home : None
+1.1 :And for what cause thou camest to Ephesus. : None
+AEGEON
+1.1 :A heavier task could not have been imposed : None
+1.1 :Than I to speak my griefs unspeakable: : None
+1.1 :Yet, that the world may witness that my end : None
+1.1 :Was wrought by nature, not by vile offence, : None
+1.1 :I'll utter what my sorrows give me leave. : None
+1.1 :In Syracusa was I born, and wed : None
+1.1 :Unto a woman, happy but for me, : None
+1.1 :And by me, had not our hap been bad. : None
+1.1 :With her I lived in joy; our wealth increased : None
+1.1 :By prosperous voyages I often made : None
+1.1 :To Epidamnum; till my factor's death : None
+1.1 :And the great care of goods at random left : None
+1.1 :Drew me from kind embracements of my spouse: : None
+1.1 :From whom my absence was not six months old : None
+1.1 :Before herself, almost at fainting under : None
+1.1 :The pleasing punishment that women bear, : None
+1.1 :Had made provision for her following me : None
+1.1 :And soon and safe arrived where I was. : None
+1.1 :There had she not been long, but she became : None
+1.1 :A joyful mother of two goodly sons; : None
+1.1 :And, which was strange, the one so like the other, : None
+1.1 :As could not be distinguish'd but by names. : None
+1.1 :That very hour, and in the self-same inn, : None
+1.1 :A meaner woman was delivered : None
+1.1 :Of such a burden, male twins, both alike: : None
+1.1 :Those,--for their parents were exceeding poor,-- : None
+1.1 :I bought and brought up to attend my sons. : None
+1.1 :My wife, not meanly proud of two such boys, : None
+1.1 :Made daily motions for our home return: : None
+1.1 :Unwilling I agreed. Alas! too soon, : None
+1.1 :We came aboard. : None
+1.1 :A league from Epidamnum had we sail'd, : None
+1.1 :Before the always wind-obeying deep : None
+1.1 :Gave any tragic instance of our harm: : None
+1.1 :But longer did we not retain much hope; : None
+1.1 :For what obscured light the heavens did grant : None
+1.1 :Did but convey unto our fearful minds : None
+1.1 :A doubtful warrant of immediate death; : None
+1.1 :Which though myself would gladly have embraced, : None
+1.1 :Yet the incessant weepings of my wife, : None
+1.1 :Weeping before for what she saw must come, : None
+1.1 :And piteous plainings of the pretty babes, : None
+1.1 :That mourn'd for fashion, ignorant what to fear, : None
+1.1 :Forced me to seek delays for them and me. : None
+1.1 :And this it was, for other means was none: : None
+1.1 :The sailors sought for safety by our boat, : None
+1.1 :And left the ship, then sinking-ripe, to us: : None
+1.1 :My wife, more careful for the latter-born, : None
+1.1 :Had fasten'd him unto a small spare mast, : None
+1.1 :Such as seafaring men provide for storms; : None
+1.1 :To him one of the other twins was bound, : None
+1.1 :Whilst I had been like heedful of the other: : None
+1.1 :The children thus disposed, my wife and I, : None
+1.1 :Fixing our eyes on whom our care was fix'd, : None
+1.1 :Fasten'd ourselves at either end the mast; : None
+1.1 :And floating straight, obedient to the stream, : None
+1.1 :Was carried towards Corinth, as we thought. : None
+1.1 :At length the sun, gazing upon the earth, : None
+1.1 :Dispersed those vapours that offended us; : None
+1.1 :And by the benefit of his wished light, : None
+1.1 :The seas wax'd calm, and we discovered : None
+1.1 :Two ships from far making amain to us, : None
+1.1 :Of Corinth that, of Epidaurus this: : None
+1.1 :But ere they came,--O, let me say no more! : None
+1.1 :Gather the sequel by that went before. : None
+DUKE SOLINUS
+1.1 :Nay, forward, old man; do not break off so; : None
+1.1 :For we may pity, though not pardon thee. : None
+AEGEON
+1.1 :O, had the gods done so, I had not now : None
+1.1 :Worthily term'd them merciless to us! : None
+1.1 :For, ere the ships could meet by twice five leagues, : None
+1.1 :We were encounterd by a mighty rock; : None
+1.1 :Which being violently borne upon, : None
+1.1 :Our helpful ship was splitted in the midst; : None
+1.1 :So that, in this unjust divorce of us, : None
+1.1 :Fortune had left to both of us alike : None
+1.1 :What to delight in, what to sorrow for. : None
+1.1 :Her part, poor soul! seeming as burdened : None
+1.1 :With lesser weight but not with lesser woe, : None
+1.1 :Was carried with more speed before the wind; : None
+1.1 :And in our sight they three were taken up : None
+1.1 :By fishermen of Corinth, as we thought. : None
+1.1 :At length, another ship had seized on us; : None
+1.1 :And, knowing whom it was their hap to save, : None
+1.1 :Gave healthful welcome to their shipwreck'd guests; : None
+1.1 :And would have reft the fishers of their prey, : None
+1.1 :Had not their bark been very slow of sail; : None
+1.1 :And therefore homeward did they bend their course. : None
+1.1 :Thus have you heard me sever'd from my bliss; : None
+1.1 :That by misfortunes was my life prolong'd, : None
+1.1 :To tell sad stories of my own mishaps. : None
+DUKE SOLINUS
+1.1 :And for the sake of them thou sorrowest for, : None
+1.1 :Do me the favour to dilate at full : None
+1.1 :What hath befall'n of them and thee till now. : None
+AEGEON
+1.1 :My youngest boy, and yet my eldest care, : None
+1.1 :At eighteen years became inquisitive : None
+1.1 :After his brother: and importuned me : None
+1.1 :That his attendant--so his case was like, : None
+1.1 :Reft of his brother, but retain'd his name-- : None
+1.1 :Might bear him company in the quest of him: : None
+1.1 :Whom whilst I labour'd of a love to see, : None
+1.1 :I hazarded the loss of whom I loved. : None
+1.1 :Five summers have I spent in furthest Greece, : None
+1.1 :Roaming clean through the bounds of Asia, : None
+1.1 :And, coasting homeward, came to Ephesus; : None
+1.1 :Hopeless to find, yet loath to leave unsought : None
+1.1 :Or that or any place that harbours men. : None
+1.1 :But here must end the story of my life; : None
+1.1 :And happy were I in my timely death, : None
+1.1 :Could all my travels warrant me they live. : None
+DUKE SOLINUS
+1.1 :Hapless AEgeon, whom the fates have mark'd : None
+1.1 :To bear the extremity of dire mishap! : None
+1.1 :Now, trust me, were it not against our laws, : None
+1.1 :Against my crown, my oath, my dignity, : None
+1.1 :Which princes, would they, may not disannul, : None
+1.1 :My soul would sue as advocate for thee. : None
+1.1 :But, though thou art adjudged to the death : None
+1.1 :And passed sentence may not be recall'd : None
+1.1 :But to our honour's great disparagement, : None
+1.1 :Yet I will favour thee in what I can. : None
+1.1 :Therefore, merchant, I'll limit thee this day : None
+1.1 :To seek thy life by beneficial help: : None
+1.1 :Try all the friends thou hast in Ephesus; : None
+1.1 :Beg thou, or borrow, to make up the sum, : None
+1.1 :And live; if no, then thou art doom'd to die. : None
+1.1 :Gaoler, take him to thy custody. : None
+GAOLER
+1.1 :I will, my lord. : None
+AEGEON
+1.1 :Hopeless and helpless doth AEgeon wend, : None
+1.1 :But to procrastinate his lifeless end. : None
+Exeunt : ['Exeunt - []'] : AEGEON
+Scene(scene=2)
+Enter ANTIPHOLUS of Syracuse, DROMIO of Syracuse, and First Merchant : ["Enter - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE', 'FIRST MERCHANT']"] : AEGEON
+FIRST MERCHANT
+1.2 :Therefore give out you are of Epidamnum, : None
+1.2 :Lest that your goods too soon be confiscate. : None
+1.2 :This very day a Syracusian merchant : None
+1.2 :Is apprehended for arrival here; : None
+1.2 :And not being able to buy out his life : None
+1.2 :According to the statute of the town, : None
+1.2 :Dies ere the weary sun set in the west. : None
+1.2 :There is your money that I had to keep. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Go bear it to the Centaur, where we host, : None
+1.2 :And stay there, Dromio, till I come to thee. : None
+1.2 :Within this hour it will be dinner-time: : None
+1.2 :Till that, I'll view the manners of the town, : None
+1.2 :Peruse the traders, gaze upon the buildings, : None
+1.2 :And then return and sleep within mine inn, : None
+1.2 :For with long travel I am stiff and weary. : None
+1.2 :Get thee away. : None
+DROMIO OF SYRACUSE
+1.2 :Many a man would take you at your word, : None
+1.2 :And go indeed, having so good a mean. : None
+Exit : ['Exit - []'] : DROMIO OF SYRACUSE
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :A trusty villain, sir, that very oft, : None
+1.2 :When I am dull with care and melancholy, : None
+1.2 :Lightens my humour with his merry jests. : None
+1.2 :What, will you walk with me about the town, : None
+1.2 :And then go to my inn and dine with me? : None
+FIRST MERCHANT
+1.2 :I am invited, sir, to certain merchants, : None
+1.2 :Of whom I hope to make much benefit; : None
+1.2 :I crave your pardon. Soon at five o'clock, : None
+1.2 :Please you, I'll meet with you upon the mart : None
+1.2 :And afterward consort you till bed-time: : None
+1.2 :My present business calls me from you now. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Farewell till then: I will go lose myself : None
+1.2 :And wander up and down to view the city. : None
+FIRST MERCHANT
+1.2 :Sir, I commend you to your own content. : None
+Exit : ['Exit - []'] : FIRST MERCHANT
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :He that commends me to mine own content : None
+1.2 :Commends me to the thing I cannot get. : None
+1.2 :I to the world am like a drop of water : None
+1.2 :That in the ocean seeks another drop, : None
+1.2 :Who, falling there to find his fellow forth, : None
+1.2 :Unseen, inquisitive, confounds himself: : None
+1.2 :So I, to find a mother and a brother, : None
+1.2 :In quest of them, unhappy, lose myself. : None
+Enter DROMIO of Ephesus : ["Enter - ['DROMIO OF EPHESUS']"] : OF SYRACUSE
+1.2 :Here comes the almanac of my true date. : None
+1.2 :What now? how chance thou art return'd so soon? : None
+DROMIO OF EPHESUS
+1.2 :Return'd so soon! rather approach'd too late: : None
+1.2 :The capon burns, the pig falls from the spit, : None
+1.2 :The clock hath strucken twelve upon the bell; : None
+1.2 :My mistress made it one upon my cheek: : None
+1.2 :She is so hot because the meat is cold; : None
+1.2 :The meat is cold because you come not home; : None
+1.2 :You come not home because you have no stomach; : None
+1.2 :You have no stomach having broke your fast; : None
+1.2 :But we that know what 'tis to fast and pray : None
+1.2 :Are penitent for your default to-day. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Stop in your wind, sir: tell me this, I pray: : None
+1.2 :Where have you left the money that I gave you? : None
+DROMIO OF EPHESUS
+1.2 :O,--sixpence, that I had o' Wednesday last : None
+1.2 :To pay the saddler for my mistress' crupper? : None
+1.2 :The saddler had it, sir; I kept it not. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :I am not in a sportive humour now: : None
+1.2 :Tell me, and dally not, where is the money? : None
+1.2 :We being strangers here, how darest thou trust : None
+1.2 :So great a charge from thine own custody? : None
+DROMIO OF EPHESUS
+1.2 :I pray you, air, as you sit at dinner: : None
+1.2 :I from my mistress come to you in post; : None
+1.2 :If I return, I shall be post indeed, : None
+1.2 :For she will score your fault upon my pate. : None
+1.2 :Methinks your maw, like mine, should be your clock, : None
+1.2 :And strike you home without a messenger. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Come, Dromio, come, these jests are out of season; : None
+1.2 :Reserve them till a merrier hour than this. : None
+1.2 :Where is the gold I gave in charge to thee? : None
+DROMIO OF EPHESUS
+1.2 :To me, sir? why, you gave no gold to me. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Come on, sir knave, have done your foolishness, : None
+1.2 :And tell me how thou hast disposed thy charge. : None
+DROMIO OF EPHESUS
+1.2 :My charge was but to fetch you from the mart : None
+1.2 :Home to your house, the Phoenix, sir, to dinner: : None
+1.2 :My mistress and her sister stays for you. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :In what safe place you have bestow'd my money, : None
+1.2 :Or I shall break that merry sconce of yours : None
+1.2 :That stands on tricks when I am undisposed: : None
+1.2 :Where is the thousand marks thou hadst of me? : None
+DROMIO OF EPHESUS
+1.2 :I have some marks of yours upon my pate, : None
+1.2 :Some of my mistress' marks upon my shoulders, : None
+1.2 :But not a thousand marks between you both. : None
+1.2 :If I should pay your worship those again, : None
+1.2 :Perchance you will not bear them patiently. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Thy mistress' marks? what mistress, slave, hast thou? : None
+DROMIO OF EPHESUS
+1.2 :Your worship's wife, my mistress at the Phoenix; : None
+1.2 :She that doth fast till you come home to dinner, : None
+1.2 :And prays that you will hie you home to dinner. : None
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :What, wilt thou flout me thus unto my face, : None
+1.2 :Being forbid? There, take you that, sir knave. : None
+DROMIO OF EPHESUS
+1.2 :What mean you, sir? for God's sake, hold your hands! : None
+1.2 :Nay, and you will not, sir, I'll take my heels. : None
+Exit : ['Exit - []'] : DROMIO OF EPHESUS
+1.2 :ANTIPHOLUS : None
+OF SYRACUSE
+1.2 :Upon my life, by some device or other : None
+1.2 :The villain is o'er-raught of all my money. : None
+1.2 :They say this town is full of cozenage, : None
+1.2 :As, nimble jugglers that deceive the eye, : None
+1.2 :Dark-working sorcerers that change the mind, : None
+1.2 :Soul-killing witches that deform the body, : None
+1.2 :Disguised cheaters, prating mountebanks, : None
+1.2 :And many such-like liberties of sin: : None
+1.2 :If it prove so, I will be gone the sooner. : None
+1.2 :I'll to the Centaur, to go seek this slave: : None
+1.2 :I greatly fear my money is not safe. : None
+Exit : ['Exit - []'] : OF SYRACUSE
+Act(act=2)
+Scene(scene=1)
+Enter ADRIANA and LUCIANA : ["Enter - ['ADRIANA', 'LUCIANA']"] : OF SYRACUSE
+ADRIANA
+2.1 :Neither my husband nor the slave return'd, : None
+2.1 :That in such haste I sent to seek his master! : None
+2.1 :Sure, Luciana, it is two o'clock. : None
+LUCIANA
+2.1 :Perhaps some merchant hath invited him, : None
+2.1 :And from the mart he's somewhere gone to dinner. : None
+2.1 :Good sister, let us dine and never fret: : None
+2.1 :A man is master of his liberty: : None
+2.1 :Time is their master, and, when they see time, : None
+2.1 :They'll go or come: if so, be patient, sister. : None
+ADRIANA
+2.1 :Why should their liberty than ours be more? : None
+LUCIANA
+2.1 :Because their business still lies out o' door. : None
+ADRIANA
+2.1 :Look, when I serve him so, he takes it ill. : None
+LUCIANA
+2.1 :O, know he is the bridle of your will. : None
+ADRIANA
+2.1 :There's none but asses will be bridled so. : None
+LUCIANA
+2.1 :Why, headstrong liberty is lash'd with woe. : None
+2.1 :There's nothing situate under heaven's eye : None
+2.1 :But hath his bound, in earth, in sea, in sky: : None
+2.1 :The beasts, the fishes, and the winged fowls, : None
+2.1 :Are their males' subjects and at their controls: : None
+2.1 :Men, more divine, the masters of all these, : None
+2.1 :Lords of the wide world and wild watery seas, : None
+2.1 :Indued with intellectual sense and souls, : None
+2.1 :Of more preeminence than fish and fowls, : None
+2.1 :Are masters to their females, and their lords: : None
+2.1 :Then let your will attend on their accords. : None
+ADRIANA
+2.1 :This servitude makes you to keep unwed. : None
+LUCIANA
+2.1 :Not this, but troubles of the marriage-bed. : None
+ADRIANA
+2.1 :But, were you wedded, you would bear some sway. : None
+LUCIANA
+2.1 :Ere I learn love, I'll practise to obey. : None
+ADRIANA
+2.1 :How if your husband start some other where? : None
+LUCIANA
+2.1 :Till he come home again, I would forbear. : None
+ADRIANA
+2.1 :Patience unmoved! no marvel though she pause; : None
+2.1 :They can be meek that have no other cause. : None
+2.1 :A wretched soul, bruised with adversity, : None
+2.1 :We bid be quiet when we hear it cry; : None
+2.1 :But were we burdened with like weight of pain, : None
+2.1 :As much or more would we ourselves complain: : None
+2.1 :So thou, that hast no unkind mate to grieve thee, : None
+2.1 :With urging helpless patience wouldst relieve me, : None
+2.1 :But, if thou live to see like right bereft, : None
+2.1 :This fool-begg'd patience in thee will be left. : None
+LUCIANA
+2.1 :Well, I will marry one day, but to try. : None
+2.1 :Here comes your man; now is your husband nigh. : None
+Enter DROMIO of Ephesus : ["Enter - ['DROMIO OF EPHESUS']"] : LUCIANA
+ADRIANA
+2.1 :Say, is your tardy master now at hand? : None
+DROMIO OF EPHESUS
+2.1 :Nay, he's at two hands with me, and that my two ears : None
+2.1 :can witness. : None
+ADRIANA
+2.1 :Say, didst thou speak with him? know'st thou his mind? : None
+DROMIO OF EPHESUS
+2.1 :Ay, ay, he told his mind upon mine ear: : None
+2.1 :Beshrew his hand, I scarce could understand it. : None
+LUCIANA
+2.1 :Spake he so doubtfully, thou couldst not feel his meaning? : None
+DROMIO OF EPHESUS
+2.1 :Nay, he struck so plainly, I could too well feel his : None
+2.1 :blows; and withal so doubtfully that I could scarce : None
+2.1 :understand them. : None
+ADRIANA
+2.1 :But say, I prithee, is he coming home? It seems he : None
+2.1 :hath great care to please his wife. : None
+DROMIO OF EPHESUS
+2.1 :Why, mistress, sure my master is horn-mad. : None
+ADRIANA
+2.1 :Horn-mad, thou villain! : None
+DROMIO OF EPHESUS
+2.1 :I mean not cuckold-mad; : None
+2.1 :But, sure, he is stark mad. : None
+2.1 :When I desired him to come home to dinner, : None
+2.1 :He ask'd me for a thousand marks in gold: : None
+2.1 :''Tis dinner-time,' quoth I; 'My gold!' quoth he; : None
+2.1 :'Your meat doth burn,' quoth I; 'My gold!' quoth he: : None
+2.1 :'Will you come home?' quoth I; 'My gold!' quoth he. : None
+2.1 :'Where is the thousand marks I gave thee, villain?' : None
+2.1 :'The pig,' quoth I, 'is burn'd;' 'My gold!' quoth he: : None
+2.1 :'My mistress, sir' quoth I; 'Hang up thy mistress! : None
+2.1 :I know not thy mistress; out on thy mistress!' : None
+LUCIANA
+2.1 :Quoth who? : None
+DROMIO OF EPHESUS
+2.1 :Quoth my master: : None
+2.1 :'I know,' quoth he, 'no house, no wife, no mistress.' : None
+2.1 :So that my errand, due unto my tongue, : None
+2.1 :I thank him, I bare home upon my shoulders; : None
+2.1 :For, in conclusion, he did beat me there. : None
+ADRIANA
+2.1 :Go back again, thou slave, and fetch him home. : None
+DROMIO OF EPHESUS
+2.1 :Go back again, and be new beaten home? : None
+2.1 :For God's sake, send some other messenger. : None
+ADRIANA
+2.1 :Back, slave, or I will break thy pate across. : None
+DROMIO OF EPHESUS
+2.1 :And he will bless that cross with other beating: : None
+2.1 :Between you I shall have a holy head. : None
+ADRIANA
+2.1 :Hence, prating peasant! fetch thy master home. : None
+DROMIO OF EPHESUS
+2.1 :Am I so round with you as you with me, : None
+2.1 :That like a football you do spurn me thus? : None
+2.1 :You spurn me hence, and he will spurn me hither: : None
+2.1 :If I last in this service, you must case me in leather. : None
+Exit : ['Exit - []'] : DROMIO OF EPHESUS
+LUCIANA
+2.1 :Fie, how impatience loureth in your face! : None
+ADRIANA
+2.1 :His company must do his minions grace, : None
+2.1 :Whilst I at home starve for a merry look. : None
+2.1 :Hath homely age the alluring beauty took : None
+2.1 :From my poor cheek? then he hath wasted it: : None
+2.1 :Are my discourses dull? barren my wit? : None
+2.1 :If voluble and sharp discourse be marr'd, : None
+2.1 :Unkindness blunts it more than marble hard: : None
+2.1 :Do their gay vestments his affections bait? : None
+2.1 :That's not my fault: he's master of my state: : None
+2.1 :What ruins are in me that can be found, : None
+2.1 :By him not ruin'd? then is he the ground : None
+2.1 :Of my defeatures. My decayed fair : None
+2.1 :A sunny look of his would soon repair : None
+2.1 :But, too unruly deer, he breaks the pale : None
+2.1 :And feeds from home; poor I am but his stale. : None
+LUCIANA
+2.1 :Self-harming jealousy! fie, beat it hence! : None
+ADRIANA
+2.1 :Unfeeling fools can with such wrongs dispense. : None
+2.1 :I know his eye doth homage otherwhere, : None
+2.1 :Or else what lets it but he would be here? : None
+2.1 :Sister, you know he promised me a chain; : None
+2.1 :Would that alone, alone he would detain, : None
+2.1 :So he would keep fair quarter with his bed! : None
+2.1 :I see the jewel best enamelled : None
+2.1 :Will lose his beauty; yet the gold bides still, : None
+2.1 :That others touch, and often touching will : None
+2.1 :Wear gold: and no man that hath a name, : None
+2.1 :By falsehood and corruption doth it shame. : None
+2.1 :Since that my beauty cannot please his eye, : None
+2.1 :I'll weep what's left away, and weeping die. : None
+LUCIANA
+2.1 :How many fond fools serve mad jealousy! : None
+Exeunt : ['Exeunt - []'] : LUCIANA
+Scene(scene=2)
+Enter ANTIPHOLUS of Syracuse : ["Enter - ['ANTIPHOLUS', 'OF SYRACUSE']"] : LUCIANA
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :The gold I gave to Dromio is laid up : None
+2.2 :Safe at the Centaur; and the heedful slave : None
+2.2 :Is wander'd forth, in care to seek me out : None
+2.2 :By computation and mine host's report. : None
+2.2 :I could not speak with Dromio since at first : None
+2.2 :I sent him from the mart. See, here he comes. : None
+Enter DROMIO of Syracuse : ["Enter - ['DROMIO OF SYRACUSE']"] : OF SYRACUSE
+2.2 :How now sir! is your merry humour alter'd? : None
+2.2 :As you love strokes, so jest with me again. : None
+2.2 :You know no Centaur? you received no gold? : None
+2.2 :Your mistress sent to have me home to dinner? : None
+2.2 :My house was at the Phoenix? Wast thou mad, : None
+2.2 :That thus so madly thou didst answer me? : None
+DROMIO OF SYRACUSE
+2.2 :What answer, sir? when spake I such a word? : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Even now, even here, not half an hour since. : None
+DROMIO OF SYRACUSE
+2.2 :I did not see you since you sent me hence, : None
+2.2 :Home to the Centaur, with the gold you gave me. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Villain, thou didst deny the gold's receipt, : None
+2.2 :And told'st me of a mistress and a dinner; : None
+2.2 :For which, I hope, thou felt'st I was displeased. : None
+DROMIO OF SYRACUSE
+2.2 :I am glad to see you in this merry vein: : None
+2.2 :What means this jest? I pray you, master, tell me. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Yea, dost thou jeer and flout me in the teeth? : None
+2.2 :Think'st thou I jest? Hold, take thou that, and that. : None
+Beating him : ['None - []'] : OF SYRACUSE
+DROMIO OF SYRACUSE
+2.2 :Hold, sir, for God's sake! now your jest is earnest: : None
+2.2 :Upon what bargain do you give it me? : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Because that I familiarly sometimes : None
+2.2 :Do use you for my fool and chat with you, : None
+2.2 :Your sauciness will jest upon my love : None
+2.2 :And make a common of my serious hours. : None
+2.2 :When the sun shines let foolish gnats make sport, : None
+2.2 :But creep in crannies when he hides his beams. : None
+2.2 :If you will jest with me, know my aspect, : None
+2.2 :And fashion your demeanor to my looks, : None
+2.2 :Or I will beat this method in your sconce. : None
+DROMIO OF SYRACUSE
+2.2 :Sconce call you it? so you would leave battering, I : None
+2.2 :had rather have it a head: an you use these blows : None
+2.2 :long, I must get a sconce for my head and ensconce : None
+2.2 :it too; or else I shall seek my wit in my shoulders. : None
+2.2 :But, I pray, sir why am I beaten? : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Dost thou not know? : None
+DROMIO OF SYRACUSE
+2.2 :Nothing, sir, but that I am beaten. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Shall I tell you why? : None
+DROMIO OF SYRACUSE
+2.2 :Ay, sir, and wherefore; for they say every why hath : None
+2.2 :a wherefore. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Why, first,--for flouting me; and then, wherefore-- : None
+2.2 :For urging it the second time to me. : None
+DROMIO OF SYRACUSE
+2.2 :Was there ever any man thus beaten out of season, : None
+2.2 :When in the why and the wherefore is neither rhyme : None
+2.2 :nor reason? : None
+2.2 :Well, sir, I thank you. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Thank me, sir, for what? : None
+DROMIO OF SYRACUSE
+2.2 :Marry, sir, for this something that you gave me for nothing. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :I'll make you amends next, to give you nothing for : None
+2.2 :something. But say, sir, is it dinner-time? : None
+DROMIO OF SYRACUSE
+2.2 :No, sir; I think the meat wants that I have. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :In good time, sir; what's that? : None
+DROMIO OF SYRACUSE
+2.2 :Basting. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Well, sir, then 'twill be dry. : None
+DROMIO OF SYRACUSE
+2.2 :If it be, sir, I pray you, eat none of it. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Your reason? : None
+DROMIO OF SYRACUSE
+2.2 :Lest it make you choleric and purchase me another : None
+2.2 :dry basting. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Well, sir, learn to jest in good time: there's a : None
+2.2 :time for all things. : None
+DROMIO OF SYRACUSE
+2.2 :I durst have denied that, before you were so choleric. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :By what rule, sir? : None
+DROMIO OF SYRACUSE
+2.2 :Marry, sir, by a rule as plain as the plain bald : None
+2.2 :pate of father Time himself. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Let's hear it. : None
+DROMIO OF SYRACUSE
+2.2 :There's no time for a man to recover his hair that : None
+2.2 :grows bald by nature. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :May he not do it by fine and recovery? : None
+DROMIO OF SYRACUSE
+2.2 :Yes, to pay a fine for a periwig and recover the : None
+2.2 :lost hair of another man. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Why is Time such a niggard of hair, being, as it is, : None
+2.2 :so plentiful an excrement? : None
+DROMIO OF SYRACUSE
+2.2 :Because it is a blessing that he bestows on beasts; : None
+2.2 :and what he hath scanted men in hair he hath given them in wit. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Why, but there's many a man hath more hair than wit. : None
+DROMIO OF SYRACUSE
+2.2 :Not a man of those but he hath the wit to lose his hair. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Why, thou didst conclude hairy men plain dealers without wit. : None
+DROMIO OF SYRACUSE
+2.2 :The plainer dealer, the sooner lost: yet he loseth : None
+2.2 :it in a kind of jollity. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :For what reason? : None
+DROMIO OF SYRACUSE
+2.2 :For two; and sound ones too. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Nay, not sound, I pray you. : None
+DROMIO OF SYRACUSE
+2.2 :Sure ones, then. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Nay, not sure, in a thing falsing. : None
+DROMIO OF SYRACUSE
+2.2 :Certain ones then. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Name them. : None
+DROMIO OF SYRACUSE
+2.2 :The one, to save the money that he spends in : None
+2.2 :trimming; the other, that at dinner they should not : None
+2.2 :drop in his porridge. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :You would all this time have proved there is no : None
+2.2 :time for all things. : None
+DROMIO OF SYRACUSE
+2.2 :Marry, and did, sir; namely, no time to recover hair : None
+2.2 :lost by nature. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :But your reason was not substantial, why there is no : None
+2.2 :time to recover. : None
+DROMIO OF SYRACUSE
+2.2 :Thus I mend it: Time himself is bald and therefore : None
+2.2 :to the world's end will have bald followers. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :I knew 'twould be a bald conclusion: : None
+2.2 :But, soft! who wafts us yonder? : None
+Enter ADRIANA and LUCIANA : ["Enter - ['ADRIANA', 'LUCIANA']"] : OF SYRACUSE
+ADRIANA
+2.2 :Ay, ay, Antipholus, look strange and frown: : None
+2.2 :Some other mistress hath thy sweet aspects; : None
+2.2 :I am not Adriana nor thy wife. : None
+2.2 :The time was once when thou unurged wouldst vow : None
+2.2 :That never words were music to thine ear, : None
+2.2 :That never object pleasing in thine eye, : None
+2.2 :That never touch well welcome to thy hand, : None
+2.2 :That never meat sweet-savor'd in thy taste, : None
+2.2 :Unless I spake, or look'd, or touch'd, or carved to thee. : None
+2.2 :How comes it now, my husband, O, how comes it, : None
+2.2 :That thou art thus estranged from thyself? : None
+2.2 :Thyself I call it, being strange to me, : None
+2.2 :That, undividable, incorporate, : None
+2.2 :Am better than thy dear self's better part. : None
+2.2 :Ah, do not tear away thyself from me! : None
+2.2 :For know, my love, as easy mayest thou fall : None
+2.2 :A drop of water in the breaking gulf, : None
+2.2 :And take unmingled that same drop again, : None
+2.2 :Without addition or diminishing, : None
+2.2 :As take from me thyself and not me too. : None
+2.2 :How dearly would it touch me to the quick, : None
+2.2 :Shouldst thou but hear I were licentious : None
+2.2 :And that this body, consecrate to thee, : None
+2.2 :By ruffian lust should be contaminate! : None
+2.2 :Wouldst thou not spit at me and spurn at me : None
+2.2 :And hurl the name of husband in my face : None
+2.2 :And tear the stain'd skin off my harlot-brow : None
+2.2 :And from my false hand cut the wedding-ring : None
+2.2 :And break it with a deep-divorcing vow? : None
+2.2 :I know thou canst; and therefore see thou do it. : None
+2.2 :I am possess'd with an adulterate blot; : None
+2.2 :My blood is mingled with the crime of lust: : None
+2.2 :For if we too be one and thou play false, : None
+2.2 :I do digest the poison of thy flesh, : None
+2.2 :Being strumpeted by thy contagion. : None
+2.2 :Keep then far league and truce with thy true bed; : None
+2.2 :I live unstain'd, thou undishonoured. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Plead you to me, fair dame? I know you not: : None
+2.2 :In Ephesus I am but two hours old, : None
+2.2 :As strange unto your town as to your talk; : None
+2.2 :Who, every word by all my wit being scann'd, : None
+2.2 :Want wit in all one word to understand. : None
+LUCIANA
+2.2 :Fie, brother! how the world is changed with you! : None
+2.2 :When were you wont to use my sister thus? : None
+2.2 :She sent for you by Dromio home to dinner. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :By Dromio? : None
+DROMIO OF SYRACUSE
+2.2 :By me? : None
+ADRIANA
+2.2 :By thee; and this thou didst return from him, : None
+2.2 :That he did buffet thee, and, in his blows, : None
+2.2 :Denied my house for his, me for his wife. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Did you converse, sir, with this gentlewoman? : None
+2.2 :What is the course and drift of your compact? : None
+DROMIO OF SYRACUSE
+2.2 :I, sir? I never saw her till this time. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Villain, thou liest; for even her very words : None
+2.2 :Didst thou deliver to me on the mart. : None
+DROMIO OF SYRACUSE
+2.2 :I never spake with her in all my life. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :How can she thus then call us by our names, : None
+2.2 :Unless it be by inspiration. : None
+ADRIANA
+2.2 :How ill agrees it with your gravity : None
+2.2 :To counterfeit thus grossly with your slave, : None
+2.2 :Abetting him to thwart me in my mood! : None
+2.2 :Be it my wrong you are from me exempt, : None
+2.2 :But wrong not that wrong with a more contempt. : None
+2.2 :Come, I will fasten on this sleeve of thine: : None
+2.2 :Thou art an elm, my husband, I a vine, : None
+2.2 :Whose weakness, married to thy stronger state, : None
+2.2 :Makes me with thy strength to communicate: : None
+2.2 :If aught possess thee from me, it is dross, : None
+2.2 :Usurping ivy, brier, or idle moss; : None
+2.2 :Who, all for want of pruning, with intrusion : None
+2.2 :Infect thy sap and live on thy confusion. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :To me she speaks; she moves me for her theme: : None
+2.2 :What, was I married to her in my dream? : None
+2.2 :Or sleep I now and think I hear all this? : None
+2.2 :What error drives our eyes and ears amiss? : None
+2.2 :Until I know this sure uncertainty, : None
+2.2 :I'll entertain the offer'd fallacy. : None
+LUCIANA
+2.2 :Dromio, go bid the servants spread for dinner. : None
+DROMIO OF SYRACUSE
+2.2 :O, for my beads! I cross me for a sinner. : None
+2.2 :This is the fairy land: O spite of spites! : None
+2.2 :We talk with goblins, owls and sprites: : None
+2.2 :If we obey them not, this will ensue, : None
+2.2 :They'll suck our breath, or pinch us black and blue. : None
+LUCIANA
+2.2 :Why pratest thou to thyself and answer'st not? : None
+2.2 :Dromio, thou drone, thou snail, thou slug, thou sot! : None
+DROMIO OF SYRACUSE
+2.2 :I am transformed, master, am I not? : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :I think thou art in mind, and so am I. : None
+DROMIO OF SYRACUSE
+2.2 :Nay, master, both in mind and in my shape. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Thou hast thine own form. : None
+DROMIO OF SYRACUSE
+2.2 :No, I am an ape. : None
+LUCIANA
+2.2 :If thou art changed to aught, 'tis to an ass. : None
+DROMIO OF SYRACUSE
+2.2 :'Tis true; she rides me and I long for grass. : None
+2.2 :'Tis so, I am an ass; else it could never be : None
+2.2 :But I should know her as well as she knows me. : None
+ADRIANA
+2.2 :Come, come, no longer will I be a fool, : None
+2.2 :To put the finger in the eye and weep, : None
+2.2 :Whilst man and master laugh my woes to scorn. : None
+2.2 :Come, sir, to dinner. Dromio, keep the gate. : None
+2.2 :Husband, I'll dine above with you to-day : None
+2.2 :And shrive you of a thousand idle pranks. : None
+2.2 :Sirrah, if any ask you for your master, : None
+2.2 :Say he dines forth, and let no creature enter. : None
+2.2 :Come, sister. Dromio, play the porter well. : None
+2.2 :ANTIPHOLUS : None
+OF SYRACUSE
+2.2 :Am I in earth, in heaven, or in hell? : None
+2.2 :Sleeping or waking? mad or well-advised? : None
+2.2 :Known unto these, and to myself disguised! : None
+2.2 :I'll say as they say and persever so, : None
+2.2 :And in this mist at all adventures go. : None
+DROMIO OF SYRACUSE
+2.2 :Master, shall I be porter at the gate? : None
+ADRIANA
+2.2 :Ay; and let none enter, lest I break your pate. : None
+LUCIANA
+2.2 :Come, come, Antipholus, we dine too late. : None
+Exeunt : ['Exeunt - []'] : LUCIANA
+Act(act=3)
+Scene(scene=1)
+Enter ANTIPHOLUS of Ephesus, DROMIO of Ephesus, ANGELO, and BALTHAZAR : ["Enter - ['ANTIPHOLUS', 'OF EPHESUS', 'DROMIO OF EPHESUS', 'ANGELO', 'BALTHAZAR']"] : LUCIANA
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Good Signior Angelo, you must excuse us all; : None
+3.1 :My wife is shrewish when I keep not hours: : None
+3.1 :Say that I linger'd with you at your shop : None
+3.1 :To see the making of her carcanet, : None
+3.1 :And that to-morrow you will bring it home. : None
+3.1 :But here's a villain that would face me down : None
+3.1 :He met me on the mart, and that I beat him, : None
+3.1 :And charged him with a thousand marks in gold, : None
+3.1 :And that I did deny my wife and house. : None
+3.1 :Thou drunkard, thou, what didst thou mean by this? : None
+DROMIO OF EPHESUS
+3.1 :Say what you will, sir, but I know what I know; : None
+3.1 :That you beat me at the mart, I have your hand to show: : None
+3.1 :If the skin were parchment, and the blows you gave were ink, : None
+3.1 :Your own handwriting would tell you what I think. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :I think thou art an ass. : None
+DROMIO OF EPHESUS
+3.1 :Marry, so it doth appear : None
+3.1 :By the wrongs I suffer and the blows I bear. : None
+3.1 :I should kick, being kick'd; and, being at that pass, : None
+3.1 :You would keep from my heels and beware of an ass. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :You're sad, Signior Balthazar: pray God our cheer : None
+3.1 :May answer my good will and your good welcome here. : None
+BALTHAZAR
+3.1 :I hold your dainties cheap, sir, and your : None
+3.1 :welcome dear. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :O, Signior Balthazar, either at flesh or fish, : None
+3.1 :A table full of welcome make scarce one dainty dish. : None
+BALTHAZAR
+3.1 :Good meat, sir, is common; that every churl affords. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :And welcome more common; for that's nothing but words. : None
+BALTHAZAR
+3.1 :Small cheer and great welcome makes a merry feast. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Ay, to a niggardly host, and more sparing guest: : None
+3.1 :But though my cates be mean, take them in good part; : None
+3.1 :Better cheer may you have, but not with better heart. : None
+3.1 :But, soft! my door is lock'd. Go bid them let us in. : None
+DROMIO OF EPHESUS
+3.1 :Maud, Bridget, Marian, Cicel, Gillian, Ginn! : None
+DROMIO OF SYRACUSE
+3.1 :  Mome, malt-horse, capon, coxcomb, : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :idiot, patch! : None
+3.1 :Either get thee from the door, or sit down at the hatch. : None
+3.1 :Dost thou conjure for wenches, that thou call'st : None
+3.1 :for such store, : None
+3.1 :When one is one too many? Go, get thee from the door. : None
+DROMIO OF EPHESUS
+3.1 :What patch is made our porter? My master stays in : None
+3.1 :the street. : None
+DROMIO OF SYRACUSE
+3.1 :  Let him walk from whence he came, lest he : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :catch cold on's feet. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Who talks within there? ho, open the door! : None
+DROMIO OF SYRACUSE
+3.1 :  Right, sir; I'll tell you when, an you tell : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :me wherefore. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Wherefore? for my dinner: I have not dined to-day. : None
+DROMIO OF SYRACUSE
+3.1 :  Nor to-day here you must not; come again : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :when you may. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :What art thou that keepest me out from the house I owe? : None
+DROMIO OF SYRACUSE
+3.1 :  The porter for this time, sir, and my name : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :is Dromio. : None
+DROMIO OF EPHESUS
+3.1 :O villain! thou hast stolen both mine office and my name. : None
+3.1 :The one ne'er got me credit, the other mickle blame. : None
+3.1 :If thou hadst been Dromio to-day in my place, : None
+3.1 :Thou wouldst have changed thy face for a name or thy : None
+3.1 :name for an ass. : None
+LUCE
+3.1 :  What a coil is there, Dromio? who are those : Within : ['None - []'] : LUCE
+3.1 :at the gate? : None
+DROMIO OF EPHESUS
+3.1 :Let my master in, Luce. : None
+LUCE
+3.1 :  Faith, no; he comes too late; : Within : ['None - []'] : LUCE
+3.1 :And so tell your master. : None
+DROMIO OF EPHESUS
+3.1 :O Lord, I must laugh! : None
+3.1 :Have at you with a proverb--Shall I set in my staff? : None
+LUCE
+3.1 :  Have at you with another; that's--When? : Within : ['None - []'] : LUCE
+3.1 :can you tell? : None
+DROMIO OF SYRACUSE
+3.1 :  If thy name be call'd Luce--Luce, thou hast : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :answered him well. : None
+ANTIPHOLUS
+3.1 :Do you hear, you minion? you'll let us in, I hope? : None
+3.1 :OF EPHESUS : None
+LUCE
+3.1 :  I thought to have asked you. : Within : ['None - []'] : LUCE
+DROMIO OF SYRACUSE
+3.1 :  And you said no. : Within : ['None - []'] : DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+3.1 :So, come, help: well struck! there was blow for blow. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Thou baggage, let me in. : None
+LUCE
+3.1 :  Can you tell for whose sake? : Within : ['None - []'] : LUCE
+DROMIO OF EPHESUS
+3.1 :Master, knock the door hard. : None
+LUCE
+3.1 :  Let him knock till it ache. : Within : ['None - []'] : LUCE
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :You'll cry for this, minion, if I beat the door down. : None
+LUCE
+3.1 :  What needs all that, and a pair of stocks in the town? : Within : ['None - []'] : LUCE
+ADRIANA
+3.1 :  Who is that at the door that keeps all : Within : ['None - []'] : ADRIANA
+3.1 :this noise? : None
+DROMIO OF SYRACUSE
+3.1 :  By my troth, your town is troubled with : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :unruly boys. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Are you there, wife? you might have come before. : None
+ADRIANA
+3.1 :  Your wife, sir knave! go get you from the door. : Within : ['None - []'] : ADRIANA
+DROMIO OF EPHESUS
+3.1 :If you went in pain, master, this 'knave' would go sore. : None
+ANGELO
+3.1 :Here is neither cheer, sir, nor welcome: we would : None
+3.1 :fain have either. : None
+BALTHAZAR
+3.1 :In debating which was best, we shall part with neither. : None
+DROMIO OF EPHESUS
+3.1 :They stand at the door, master; bid them welcome hither. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :There is something in the wind, that we cannot get in. : None
+DROMIO OF EPHESUS
+3.1 :You would say so, master, if your garments were thin. : None
+3.1 :Your cake there is warm within; you stand here in the cold: : None
+3.1 :It would make a man mad as a buck, to be so bought and sold. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Go fetch me something: I'll break ope the gate. : None
+DROMIO OF SYRACUSE
+3.1 :  Break any breaking here, and I'll break your : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :knave's pate. : None
+DROMIO OF EPHESUS
+3.1 :A man may break a word with you, sir, and words are but wind, : None
+3.1 :Ay, and break it in your face, so he break it not behind. : None
+DROMIO OF SYRACUSE
+3.1 :  It seems thou want'st breaking: out upon : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :thee, hind! : None
+DROMIO OF EPHESUS
+3.1 :Here's too much 'out upon thee!' I pray thee, : None
+3.1 :let me in. : None
+DROMIO OF SYRACUSE
+3.1 :  Ay, when fowls have no feathers and fish have no fin. : Within : ['None - []'] : DROMIO OF SYRACUSE
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Well, I'll break in: go borrow me a crow. : None
+DROMIO OF EPHESUS
+3.1 :A crow without feather? Master, mean you so? : None
+3.1 :For a fish without a fin, there's a fowl without a feather; : None
+3.1 :If a crow help us in, sirrah, we'll pluck a crow together. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Go get thee gone; fetch me an iron crow. : None
+BALTHAZAR
+3.1 :Have patience, sir; O, let it not be so! : None
+3.1 :Herein you war against your reputation : None
+3.1 :And draw within the compass of suspect : None
+3.1 :The unviolated honour of your wife. : None
+3.1 :Once this,--your long experience of her wisdom, : None
+3.1 :Her sober virtue, years and modesty, : None
+3.1 :Plead on her part some cause to you unknown: : None
+3.1 :And doubt not, sir, but she will well excuse : None
+3.1 :Why at this time the doors are made against you. : None
+3.1 :Be ruled by me: depart in patience, : None
+3.1 :And let us to the Tiger all to dinner, : None
+3.1 :And about evening come yourself alone : None
+3.1 :To know the reason of this strange restraint. : None
+3.1 :If by strong hand you offer to break in : None
+3.1 :Now in the stirring passage of the day, : None
+3.1 :A vulgar comment will be made of it, : None
+3.1 :And that supposed by the common rout : None
+3.1 :Against your yet ungalled estimation : None
+3.1 :That may with foul intrusion enter in : None
+3.1 :And dwell upon your grave when you are dead; : None
+3.1 :For slander lives upon succession, : None
+3.1 :For ever housed where it gets possession. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :You have prevailed: I will depart in quiet, : None
+3.1 :And, in despite of mirth, mean to be merry. : None
+3.1 :I know a wench of excellent discourse, : None
+3.1 :Pretty and witty; wild, and yet, too, gentle: : None
+3.1 :There will we dine. This woman that I mean, : None
+3.1 :My wife--but, I protest, without desert-- : None
+3.1 :Hath oftentimes upbraided me withal: : None
+3.1 :To her will we to dinner. : None
+To Angelo : ["To - ['ANGELO']"] : OF EPHESUS
+3.1 :Get you home : None
+3.1 :And fetch the chain; by this I know 'tis made: : None
+3.1 :Bring it, I pray you, to the Porpentine; : None
+3.1 :For there's the house: that chain will I bestow-- : None
+3.1 :Be it for nothing but to spite my wife-- : None
+3.1 :Upon mine hostess there: good sir, make haste. : None
+3.1 :Since mine own doors refuse to entertain me, : None
+3.1 :I'll knock elsewhere, to see if they'll disdain me. : None
+ANGELO
+3.1 :I'll meet you at that place some hour hence. : None
+3.1 :ANTIPHOLUS : None
+OF EPHESUS
+3.1 :Do so. This jest shall cost me some expense. : None
+Exeunt : ['Exeunt - []'] : OF EPHESUS
+Scene(scene=2)
+Enter LUCIANA and ANTIPHOLUS of Syracuse : ["Enter - ['LUCIANA', 'ANTIPHOLUS', 'OF SYRACUSE']"] : OF EPHESUS
+LUCIANA
+3.2 :And may it be that you have quite forgot : None
+3.2 :A husband's office? shall, Antipholus. : None
+3.2 :Even in the spring of love, thy love-springs rot? : None
+3.2 :Shall love, in building, grow so ruinous? : None
+3.2 :If you did wed my sister for her wealth, : None
+3.2 :Then for her wealth's sake use her with more kindness: : None
+3.2 :Or if you like elsewhere, do it by stealth; : None
+3.2 :Muffle your false love with some show of blindness: : None
+3.2 :Let not my sister read it in your eye; : None
+3.2 :Be not thy tongue thy own shame's orator; : None
+3.2 :Look sweet, be fair, become disloyalty; : None
+3.2 :Apparel vice like virtue's harbinger; : None
+3.2 :Bear a fair presence, though your heart be tainted; : None
+3.2 :Teach sin the carriage of a holy saint; : None
+3.2 :Be secret-false: what need she be acquainted? : None
+3.2 :What simple thief brags of his own attaint? : None
+3.2 :'Tis double wrong, to truant with your bed : None
+3.2 :And let her read it in thy looks at board: : None
+3.2 :Shame hath a bastard fame, well managed; : None
+3.2 :Ill d eeds are doubled with an evil word. : None
+3.2 :Alas, poor women! make us but believe, : None
+3.2 :Being compact of credit, that you love us; : None
+3.2 :Though others have the arm, show us the sleeve; : None
+3.2 :We in your motion turn and you may move us. : None
+3.2 :Then, gentle brother, get you in again; : None
+3.2 :Comfort my sister, cheer her, call her wife: : None
+3.2 :'Tis holy sport to be a little vain, : None
+3.2 :When the sweet breath of flattery conquers strife. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Sweet mistress--what your name is else, I know not, : None
+3.2 :Nor by what wonder you do hit of mine,-- : None
+3.2 :Less in your knowledge and your grace you show not : None
+3.2 :Than our earth's wonder, more than earth divine. : None
+3.2 :Teach me, dear creature, how to think and speak; : None
+3.2 :Lay open to my earthy-gross conceit, : None
+3.2 :Smother'd in errors, feeble, shallow, weak, : None
+3.2 :The folded meaning of your words' deceit. : None
+3.2 :Against my soul's pure truth why labour you : None
+3.2 :To make it wander in an unknown field? : None
+3.2 :Are you a god? would you create me new? : None
+3.2 :Transform me then, and to your power I'll yield. : None
+3.2 :But if that I am I, then well I know : None
+3.2 :Your weeping sister is no wife of mine, : None
+3.2 :Nor to her bed no homage do I owe : None
+3.2 :Far more, far more to you do I decline. : None
+3.2 :O, train me not, sweet mermaid, with thy note, : None
+3.2 :To drown me in thy sister's flood of tears: : None
+3.2 :Sing, siren, for thyself and I will dote: : None
+3.2 :Spread o'er the silver waves thy golden hairs, : None
+3.2 :And as a bed I'll take them and there lie, : None
+3.2 :And in that glorious supposition think : None
+3.2 :He gains by death that hath such means to die: : None
+3.2 :Let Love, being light, be drowned if she sink! : None
+LUCIANA
+3.2 :What, are you mad, that you do reason so? : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Not mad, but mated; how, I do not know. : None
+LUCIANA
+3.2 :It is a fault that springeth from your eye. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :For gazing on your beams, fair sun, being by. : None
+LUCIANA
+3.2 :Gaze where you should, and that will clear your sight. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :As good to wink, sweet love, as look on night. : None
+LUCIANA
+3.2 :Why call you me love? call my sister so. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Thy sister's sister. : None
+LUCIANA
+3.2 :That's my sister. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :No; : None
+3.2 :It is thyself, mine own self's better part, : None
+3.2 :Mine eye's clear eye, my dear heart's dearer heart, : None
+3.2 :My food, my fortune and my sweet hope's aim, : None
+3.2 :My sole earth's heaven and my heaven's claim. : None
+LUCIANA
+3.2 :All this my sister is, or else should be. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Call thyself sister, sweet, for I am thee. : None
+3.2 :Thee will I love and with thee lead my life: : None
+3.2 :Thou hast no husband yet nor I no wife. : None
+3.2 :Give me thy hand. : None
+LUCIANA
+3.2 :                  O, soft, air! hold you still: : None
+3.2 :I'll fetch my sister, to get her good will. : None
+Exit : ['Exit - []'] : LUCIANA
+Enter DROMIO of Syracuse : ["Enter - ['DROMIO OF SYRACUSE']"] : LUCIANA
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Why, how now, Dromio! where runn'st thou so fast? : None
+DROMIO OF SYRACUSE
+3.2 :Do you know me, sir? am I Dromio? am I your man? : None
+3.2 :am I myself? : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Thou art Dromio, thou art my man, thou art thyself. : None
+DROMIO OF SYRACUSE
+3.2 :I am an ass, I am a woman's man and besides myself. : None
+ANTIPHOLUS
+3.2 :What woman's man? and how besides thyself? besides thyself? : None
+DROMIO OF SYRACUSE
+3.2 :Marry, sir, besides myself, I am due to a woman; one : None
+3.2 :that claims me, one that haunts me, one that will have me. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What claim lays she to thee? : None
+DROMIO OF SYRACUSE
+3.2 :Marry sir, such claim as you would lay to your : None
+3.2 :horse; and she would have me as a beast: not that, I : None
+3.2 :being a beast, she would have me; but that she, : None
+3.2 :being a very beastly creature, lays claim to me. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What is she? : None
+DROMIO OF SYRACUSE
+3.2 :A very reverent body; ay, such a one as a man may : None
+3.2 :not speak of without he say 'Sir-reverence.' I have : None
+3.2 :but lean luck in the match, and yet is she a : None
+3.2 :wondrous fat marriage. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :How dost thou mean a fat marriage? : None
+DROMIO OF SYRACUSE
+3.2 :Marry, sir, she's the kitchen wench and all grease; : None
+3.2 :and I know not what use to put her to but to make a : None
+3.2 :lamp of her and run from her by her own light. I : None
+3.2 :warrant, her rags and the tallow in them will burn a : None
+3.2 :Poland winter: if she lives till doomsday, : None
+3.2 :she'll burn a week longer than the whole world. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What complexion is she of? : None
+DROMIO OF SYRACUSE
+3.2 :Swart, like my shoe, but her face nothing half so : None
+3.2 :clean kept: for why, she sweats; a man may go over : None
+3.2 :shoes in the grime of it. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :That's a fault that water will mend. : None
+DROMIO OF SYRACUSE
+3.2 :No, sir, 'tis in grain; Noah's flood could not do it. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What's her name? : None
+DROMIO OF SYRACUSE
+3.2 :Nell, sir; but her name and three quarters, that's : None
+3.2 :an ell and three quarters, will not measure her from : None
+3.2 :hip to hip. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Then she bears some breadth? : None
+DROMIO OF SYRACUSE
+3.2 :No longer from head to foot than from hip to hip: : None
+3.2 :she is spherical, like a globe; I could find out : None
+3.2 :countries in her. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :In what part of her body stands Ireland? : None
+DROMIO OF SYRACUSE
+3.2 :Marry, in her buttocks: I found it out by the bogs. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where Scotland? : None
+DROMIO OF SYRACUSE
+3.2 :I found it by the barrenness; hard in the palm of the hand. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where France? : None
+DROMIO OF SYRACUSE
+3.2 :In her forehead; armed and reverted, making war : None
+3.2 :against her heir. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where England? : None
+DROMIO OF SYRACUSE
+3.2 :I looked for the chalky cliffs, but I could find no : None
+3.2 :whiteness in them; but I guess it stood in her chin, : None
+3.2 :by the salt rheum that ran between France and it. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where Spain? : None
+DROMIO OF SYRACUSE
+3.2 :Faith, I saw it not; but I felt it hot in her breath. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where America, the Indies? : None
+DROMIO OF SYRACUSE
+3.2 :Oh, sir, upon her nose all o'er embellished with : None
+3.2 :rubies, carbuncles, sapphires, declining their rich : None
+3.2 :aspect to the hot breath of Spain; who sent whole : None
+3.2 :armadoes of caracks to be ballast at her nose. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Where stood Belgia, the Netherlands? : None
+DROMIO OF SYRACUSE
+3.2 :Oh, sir, I did not look so low. To conclude, this : None
+3.2 :drudge, or diviner, laid claim to me, call'd me : None
+3.2 :Dromio; swore I was assured to her; told me what : None
+3.2 :privy marks I had about me, as, the mark of my : None
+3.2 :shoulder, the mole in my neck, the great wart on my : None
+3.2 :left arm, that I amazed ran from her as a witch: : None
+3.2 :And, I think, if my breast had not been made of : None
+3.2 :faith and my heart of steel, : None
+3.2 :She had transform'd me to a curtal dog and made : None
+3.2 :me turn i' the wheel. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Go hie thee presently, post to the road: : None
+3.2 :An if the wind blow any way from shore, : None
+3.2 :I will not harbour in this town to-night: : None
+3.2 :If any bark put forth, come to the mart, : None
+3.2 :Where I will walk till thou return to me. : None
+3.2 :If every one knows us and we know none, : None
+3.2 :'Tis time, I think, to trudge, pack and be gone. : None
+DROMIO OF SYRACUSE
+3.2 :As from a bear a man would run for life, : None
+3.2 :So fly I from her that would be my wife. : None
+Exit : ['Exit - []'] : DROMIO OF SYRACUSE
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :There's none but witches do inhabit here; : None
+3.2 :And therefore 'tis high time that I were hence. : None
+3.2 :She that doth call me husband, even my soul : None
+3.2 :Doth for a wife abhor. But her fair sister, : None
+3.2 :Possess'd with such a gentle sovereign grace, : None
+3.2 :Of such enchanting presence and discourse, : None
+3.2 :Hath almost made me traitor to myself: : None
+3.2 :But, lest myself be guilty to self-wrong, : None
+3.2 :I'll stop mine ears against the mermaid's song. : None
+Enter ANGELO with the chain : ["Enter - ['ANGELO']"] : OF SYRACUSE
+ANGELO
+3.2 :Master Antipholus,-- : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Ay, that's my name. : None
+ANGELO
+3.2 :I know it well, sir, lo, here is the chain. : None
+3.2 :I thought to have ta'en you at the Porpentine: : None
+3.2 :The chain unfinish'd made me stay thus long. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What is your will that I shall do with this? : None
+ANGELO
+3.2 :What please yourself, sir: I have made it for you. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :Made it for me, sir! I bespoke it not. : None
+ANGELO
+3.2 :Not once, nor twice, but twenty times you have. : None
+3.2 :Go home with it and please your wife withal; : None
+3.2 :And soon at supper-time I'll visit you : None
+3.2 :And then receive my money for the chain. : None
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :I pray you, sir, receive the money now, : None
+3.2 :For fear you ne'er see chain nor money more. : None
+ANGELO
+3.2 :You are a merry man, sir: fare you well. : None
+Exit : ['Exit - []'] : ANGELO
+3.2 :ANTIPHOLUS : None
+OF SYRACUSE
+3.2 :What I should think of this, I cannot tell: : None
+3.2 :But this I think, there's no man is so vain : None
+3.2 :That would refuse so fair an offer'd chain. : None
+3.2 :I see a man here needs not live by shifts, : None
+3.2 :When in the streets he meets such golden gifts. : None
+3.2 :I'll to the mart, and there for Dromio stay : None
+3.2 :If any ship put out, then straight away. : None
+Exit : ['Exit - []'] : OF SYRACUSE
+Act(act=4)
+Scene(scene=1)
+Enter Second Merchant, ANGELO, and an Officer : ["Enter - ['SECOND MERCHANT', 'ANGELO', 'OFFICER']"] : OF SYRACUSE
+SECOND MERCHANT
+4.1 :You know since Pentecost the sum is due, : None
+4.1 :And since I have not much importuned you; : None
+4.1 :Nor now I had not, but that I am bound : None
+4.1 :To Persia, and want guilders for my voyage: : None
+4.1 :Therefore make present satisfaction, : None
+4.1 :Or I'll attach you by this officer. : None
+ANGELO
+4.1 :Even just the sum that I do owe to you : None
+4.1 :Is growing to me by Antipholus, : None
+4.1 :And in the instant that I met with you : None
+4.1 :He had of me a chain: at five o'clock : None
+4.1 :I shall receive the money for the same. : None
+4.1 :Pleaseth you walk with me down to his house, : None
+4.1 :I will discharge my bond and thank you too. : None
+Enter ANTIPHOLUS of Ephesus and DROMIO of Ephesus from the courtezan's : ["Enter - ['ANTIPHOLUS', 'OF EPHESUS', 'DROMIO OF EPHESUS', 'COURTEZAN']"] : ANGELO
+OFFICER
+4.1 :That labour may you save: see where he comes. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :While I go to the goldsmith's house, go thou : None
+4.1 :And buy a rope's end: that will I bestow : None
+4.1 :Among my wife and her confederates, : None
+4.1 :For locking me out of my doors by day. : None
+4.1 :But, soft! I see the goldsmith. Get thee gone; : None
+4.1 :Buy thou a rope and bring it home to me. : None
+DROMIO OF EPHESUS
+4.1 :I buy a thousand pound a year: I buy a rope. : None
+Exit : ['Exit - []'] : DROMIO OF EPHESUS
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :A man is well holp up that trusts to you: : None
+4.1 :I promised your presence and the chain; : None
+4.1 :But neither chain nor goldsmith came to me. : None
+4.1 :Belike you thought our love would last too long, : None
+4.1 :If it were chain'd together, and therefore came not. : None
+ANGELO
+4.1 :Saving your merry humour, here's the note : None
+4.1 :How much your chain weighs to the utmost carat, : None
+4.1 :The fineness of the gold and chargeful fashion. : None
+4.1 :Which doth amount to three odd ducats more : None
+4.1 :Than I stand debted to this gentleman: : None
+4.1 :I pray you, see him presently discharged, : None
+4.1 :For he is bound to sea and stays but for it. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :I am not furnish'd with the present money; : None
+4.1 :Besides, I have some business in the town. : None
+4.1 :Good signior, take the stranger to my house : None
+4.1 :And with you take the chain and bid my wife : None
+4.1 :Disburse the sum on the receipt thereof: : None
+4.1 :Perchance I will be there as soon as you. : None
+ANGELO
+4.1 :Then you will bring the chain to her yourself? : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :No; bear it with you, lest I come not time enough. : None
+ANGELO
+4.1 :Well, sir, I will. Have you the chain about you? : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :An if I have not, sir, I hope you have; : None
+4.1 :Or else you may return without your money. : None
+ANGELO
+4.1 :Nay, come, I pray you, sir, give me the chain: : None
+4.1 :Both wind and tide stays for this gentleman, : None
+4.1 :And I, to blame, have held him here too long. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :Good Lord! you use this dalliance to excuse : None
+4.1 :Your breach of promise to the Porpentine. : None
+4.1 :I should have chid you for not bringing it, : None
+4.1 :But, like a shrew, you first begin to brawl. : None
+SECOND MERCHANT
+4.1 :The hour steals on; I pray you, sir, dispatch. : None
+ANGELO
+4.1 :You hear how he importunes me;--the chain! : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :Why, give it to my wife and fetch your money. : None
+ANGELO
+4.1 :Come, come, you know I gave it you even now. : None
+4.1 :Either send the chain or send me by some token. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :Fie, now you run this humour out of breath, : None
+4.1 :where's the chain? I pray you, let me see it. : None
+SECOND MERCHANT
+4.1 :My business cannot brook this dalliance. : None
+4.1 :Good sir, say whether you'll answer me or no: : None
+4.1 :If not, I'll leave him to the officer. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :I answer you! what should I answer you? : None
+ANGELO
+4.1 :The money that you owe me for the chain. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :I owe you none till I receive the chain. : None
+ANGELO
+4.1 :You know I gave it you half an hour since. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :You gave me none: you wrong me much to say so. : None
+ANGELO
+4.1 :You wrong me more, sir, in denying it: : None
+4.1 :Consider how it stands upon my credit. : None
+SECOND MERCHANT
+4.1 :Well, officer, arrest him at my suit. : None
+OFFICER
+4.1 :I do; and charge you in the duke's name to obey me. : None
+ANGELO
+4.1 :This touches me in reputation. : None
+4.1 :Either consent to pay this sum for me : None
+4.1 :Or I attach you by this officer. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :Consent to pay thee that I never had! : None
+4.1 :Arrest me, foolish fellow, if thou darest. : None
+ANGELO
+4.1 :Here is thy fee; arrest him, officer, : None
+4.1 :I would not spare my brother in this case, : None
+4.1 :If he should scorn me so apparently. : None
+OFFICER
+4.1 :I do arrest you, sir: you hear the suit. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :I do obey thee till I give thee bail. : None
+4.1 :But, sirrah, you shall buy this sport as dear : None
+4.1 :As all the metal in your shop will answer. : None
+ANGELO
+4.1 :Sir, sir, I will have law in Ephesus, : None
+4.1 :To your notorious shame; I doubt it not. : None
+Enter DROMIO of Syracuse, from the bay : ["Enter - ['DROMIO OF SYRACUSE']"] : ANGELO
+DROMIO OF SYRACUSE
+4.1 :Master, there is a bark of Epidamnum : None
+4.1 :That stays but till her owner comes aboard, : None
+4.1 :And then, sir, she bears away. Our fraughtage, sir, : None
+4.1 :I have convey'd aboard; and I have bought : None
+4.1 :The oil, the balsamum and aqua-vitae. : None
+4.1 :The ship is in her trim; the merry wind : None
+4.1 :Blows fair from land: they stay for nought at all : None
+4.1 :But for their owner, master, and yourself. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :How now! a madman! Why, thou peevish sheep, : None
+4.1 :What ship of Epidamnum stays for me? : None
+DROMIO OF SYRACUSE
+4.1 :A ship you sent me to, to hire waftage. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :Thou drunken slave, I sent thee for a rope; : None
+4.1 :And told thee to what purpose and what end. : None
+DROMIO OF SYRACUSE
+4.1 :You sent me for a rope's end as soon: : None
+4.1 :You sent me to the bay, sir, for a bark. : None
+4.1 :ANTIPHOLUS : None
+OF EPHESUS
+4.1 :I will debate this matter at more leisure : None
+4.1 :And teach your ears to list me with more heed. : None
+4.1 :To Adriana, villain, hie thee straight: : None
+4.1 :Give her this key, and tell her, in the desk : None
+4.1 :That's cover'd o'er with Turkish tapestry, : None
+4.1 :There is a purse of ducats; let her send it: : None
+4.1 :Tell her I am arrested in the street : None
+4.1 :And that shall bail me; hie thee, slave, be gone! : None
+4.1 :On, officer, to prison till it come. : None
+Exeunt Second Merchant, Angelo, Officer, and Antipholus of Ephesus : ["Exeunt - ['SECOND MERCHANT', 'ANGELO', 'OFFICER', 'ANTIPHOLUS', 'OF EPHESUS']"] : OF EPHESUS
+DROMIO OF SYRACUSE
+4.1 :To Adriana! that is where we dined, : None
+4.1 :Where Dowsabel did claim me for her husband: : None
+4.1 :She is too big, I hope, for me to compass. : None
+4.1 :Thither I must, although against my will, : None
+4.1 :For servants must their masters' minds fulfil. : None
+Exit : ['Exit - []'] : DROMIO OF SYRACUSE
+Scene(scene=2)
+Enter ADRIANA and LUCIANA : ["Enter - ['ADRIANA', 'LUCIANA']"] : DROMIO OF SYRACUSE
+ADRIANA
+4.2 :Ah, Luciana, did he tempt thee so? : None
+4.2 :Mightst thou perceive austerely in his eye : None
+4.2 :That he did plead in earnest? yea or no? : None
+4.2 :Look'd he or red or pale, or sad or merrily? : None
+4.2 :What observation madest thou in this case : None
+4.2 :Of his heart's meteors tilting in his face? : None
+LUCIANA
+4.2 :First he denied you had in him no right. : None
+ADRIANA
+4.2 :He meant he did me none; the more my spite. : None
+LUCIANA
+4.2 :Then swore he that he was a stranger here. : None
+ADRIANA
+4.2 :And true he swore, though yet forsworn he were. : None
+LUCIANA
+4.2 :Then pleaded I for you. : None
+ADRIANA
+4.2 :And what said he? : None
+LUCIANA
+4.2 :That love I begg'd for you he begg'd of me. : None
+ADRIANA
+4.2 :With what persuasion did he tempt thy love? : None
+LUCIANA
+4.2 :With words that in an honest suit might move. : None
+4.2 :First he did praise my beauty, then my speech. : None
+ADRIANA
+4.2 :Didst speak him fair? : None
+LUCIANA
+4.2 :Have patience, I beseech. : None
+ADRIANA
+4.2 :I cannot, nor I will not, hold me still; : None
+4.2 :My tongue, though not my heart, shall have his will. : None
+4.2 :He is deformed, crooked, old and sere, : None
+4.2 :Ill-faced, worse bodied, shapeless everywhere; : None
+4.2 :Vicious, ungentle, foolish, blunt, unkind; : None
+4.2 :Stigmatical in making, worse in mind. : None
+LUCIANA
+4.2 :Who would be jealous then of such a one? : None
+4.2 :No evil lost is wail'd when it is gone. : None
+ADRIANA
+4.2 :Ah, but I think him better than I say, : None
+4.2 :And yet would herein others' eyes were worse. : None
+4.2 :Far from her nest the lapwing cries away: : None
+4.2 :My heart prays for him, though my tongue do curse. : None
+Enter DROMIO of Syracuse : ["Enter - ['DROMIO OF SYRACUSE']"] : ADRIANA
+DROMIO OF SYRACUSE
+4.2 :Here! go; the desk, the purse! sweet, now, make haste. : None
+LUCIANA
+4.2 :How hast thou lost thy breath? : None
+DROMIO OF SYRACUSE
+4.2 :By running fast. : None
+ADRIANA
+4.2 :Where is thy master, Dromio? is he well? : None
+DROMIO OF SYRACUSE
+4.2 :No, he's in Tartar limbo, worse than hell. : None
+4.2 :A devil in an everlasting garment hath him; : None
+4.2 :One whose hard heart is button'd up with steel; : None
+4.2 :A fiend, a fury, pitiless and rough; : None
+4.2 :A wolf, nay, worse, a fellow all in buff; : None
+4.2 :A back-friend, a shoulder-clapper, one that : None
+4.2 :countermands : None
+4.2 :The passages of alleys, creeks and narrow lands; : None
+4.2 :A hound that runs counter and yet draws dryfoot well; : None
+4.2 :One that before the judgement carries poor souls to hell. : None
+ADRIANA
+4.2 :Why, man, what is the matter? : None
+DROMIO OF SYRACUSE
+4.2 :I do not know the matter: he is 'rested on the case. : None
+ADRIANA
+4.2 :What, is he arrested? Tell me at whose suit. : None
+DROMIO OF SYRACUSE
+4.2 :I know not at whose suit he is arrested well; : None
+4.2 :But he's in a suit of buff which 'rested him, that can I tell. : None
+4.2 :Will you send him, mistress, redemption, the money in his desk? : None
+ADRIANA
+4.2 :Go fetch it, sister. : None
+Exit Luciana : ["Exit - ['LUCIANA']"] : ADRIANA
+4.2 :This I wonder at, : None
+4.2 :That he, unknown to me, should be in debt. : None
+4.2 :Tell me, was he arrested on a band? : None
+DROMIO OF SYRACUSE
+4.2 :Not on a band, but on a stronger thing; : None
+4.2 :A chain, a chain! Do you not hear it ring? : None
+ADRIANA
+4.2 :What, the chain? : None
+DROMIO OF SYRACUSE
+4.2 :No, no, the bell: 'tis time that I were gone: : None
+4.2 :It was two ere I left him, and now the clock : None
+4.2 :strikes one. : None
+ADRIANA
+4.2 :The hours come back! that did I never hear. : None
+DROMIO OF SYRACUSE
+4.2 :O, yes; if any hour meet a sergeant, a' turns back for : None
+4.2 :very fear. : None
+ADRIANA
+4.2 :As if Time were in debt! how fondly dost thou reason! : None
+DROMIO OF SYRACUSE
+4.2 :Time is a very bankrupt, and owes more than he's : None
+4.2 :worth, to season. : None
+4.2 :Nay, he's a thief too: have you not heard men say : None
+4.2 :That Time comes stealing on by night and day? : None
+4.2 :If Time be in debt and theft, and a sergeant in the way, : None
+4.2 :Hath he not reason to turn back an hour in a day? : None
+Re-enter LUCIANA with a purse : ["Re-enter - ['LUCIANA']"] : DROMIO OF SYRACUSE
+ADRIANA
+4.2 :Go, Dromio; there's the money, bear it straight; : None
+4.2 :And bring thy master home immediately. : None
+4.2 :Come, sister: I am press'd down with conceit-- : None
+4.2 :Conceit, my comfort and my injury. : None
+Exeunt : ['Exeunt - []'] : ADRIANA
+Scene(scene=3)
+Enter ANTIPHOLUS of Syracuse : ["Enter - ['ANTIPHOLUS', 'OF SYRACUSE']"] : ADRIANA
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :There's not a man I meet but doth salute me : None
+4.3 :As if I were their well-acquainted friend; : None
+4.3 :And every one doth call me by my name. : None
+4.3 :Some tender money to me; some invite me; : None
+4.3 :Some other give me thanks for kindnesses; : None
+4.3 :Some offer me commodities to buy: : None
+4.3 :Even now a tailor call'd me in his shop : None
+4.3 :And show'd me silks that he had bought for me, : None
+4.3 :And therewithal took measure of my body. : None
+4.3 :Sure, these are but imaginary wiles : None
+4.3 :And Lapland sorcerers inhabit here. : None
+Enter DROMIO OF SYRACUSE : ["Enter - ['DROMIO OF SYRACUSE']"] : OF SYRACUSE
+DROMIO OF SYRACUSE
+4.3 :Master, here's the gold you sent me for. What, have : None
+4.3 :you got the picture of old Adam new-apparelled? : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :What gold is this? what Adam dost thou mean? : None
+DROMIO OF SYRACUSE
+4.3 :Not that Adam that kept the Paradise but that Adam : None
+4.3 :that keeps the prison: he that goes in the calf's : None
+4.3 :skin that was killed for the Prodigal; he that came : None
+4.3 :behind you, sir, like an evil angel, and bid you : None
+4.3 :forsake your liberty. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :I understand thee not. : None
+DROMIO OF SYRACUSE
+4.3 :No? why, 'tis a plain case: he that went, like a : None
+4.3 :bass-viol, in a case of leather; the man, sir, : None
+4.3 :that, when gentlemen are tired, gives them a sob : None
+4.3 :and 'rests them; he, sir, that takes pity on decayed : None
+4.3 :men and gives them suits of durance; he that sets up : None
+4.3 :his rest to do more exploits with his mace than a : None
+4.3 :morris-pike. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :What, thou meanest an officer? : None
+DROMIO OF SYRACUSE
+4.3 :Ay, sir, the sergeant of the band, he that brings : None
+4.3 :any man to answer it that breaks his band; one that : None
+4.3 :thinks a man always going to bed, and says, 'God : None
+4.3 :give you good rest!' : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :Well, sir, there rest in your foolery. Is there any : None
+DROMIO OF SYRACUSE
+4.3 :Why, sir, I brought you word an hour since that the : None
+4.3 :bark Expedition put forth to-night; and then were : None
+4.3 :you hindered by the sergeant, to tarry for the hoy : None
+4.3 :Delay. Here are the angels that you sent for to : None
+4.3 :deliver you. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :The fellow is distract, and so am I; : None
+4.3 :And here we wander in illusions: : None
+4.3 :Some blessed power deliver us from hence! : None
+Enter a Courtezan : ["Enter - ['COURTEZAN']"] : OF SYRACUSE
+COURTEZAN
+4.3 :Well met, well met, Master Antipholus. : None
+4.3 :I see, sir, you have found the goldsmith now: : None
+4.3 :Is that the chain you promised me to-day? : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :Satan, avoid! I charge thee, tempt me not. : None
+DROMIO OF SYRACUSE
+4.3 :Master, is this Mistress Satan? : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :It is the devil. : None
+DROMIO OF SYRACUSE
+4.3 :Nay, she is worse, she is the devil's dam; and here : None
+4.3 :she comes in the habit of a light wench: and thereof : None
+4.3 :comes that the wenches say 'God damn me;' that's as : None
+4.3 :much to say 'God make me a light wench.' It is : None
+4.3 :written, they appear to men like angels of light: : None
+4.3 :light is an effect of fire, and fire will burn; : None
+4.3 :ergo, light wenches will burn. Come not near her. : None
+COURTEZAN
+4.3 :Your man and you are marvellous merry, sir. : None
+4.3 :Will you go with me? We'll mend our dinner here? : None
+DROMIO OF SYRACUSE
+4.3 :Master, if you do, expect spoon-meat; or bespeak a : None
+4.3 :long spoon. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :Why, Dromio? : None
+DROMIO OF SYRACUSE
+4.3 :Marry, he must have a long spoon that must eat with : None
+4.3 :the devil. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :Avoid then, fiend! what tell'st thou me of supping? : None
+4.3 :Thou art, as you are all, a sorceress: : None
+4.3 :I conjure thee to leave me and be gone. : None
+COURTEZAN
+4.3 :Give me the ring of mine you had at dinner, : None
+4.3 :Or, for my diamond, the chain you promised, : None
+4.3 :And I'll be gone, sir, and not trouble you. : None
+DROMIO OF SYRACUSE
+4.3 :Some devils ask but the parings of one's nail, : None
+4.3 :A rush, a hair, a drop of blood, a pin, : None
+4.3 :A nut, a cherry-stone; : None
+4.3 :But she, more covetous, would have a chain. : None
+4.3 :Master, be wise: an if you give it her, : None
+4.3 :The devil will shake her chain and fright us with it. : None
+COURTEZAN
+4.3 :I pray you, sir, my ring, or else the chain: : None
+4.3 :I hope you do not mean to cheat me so. : None
+4.3 :ANTIPHOLUS : None
+OF SYRACUSE
+4.3 :Avaunt, thou witch! Come, Dromio, let us go. : None
+DROMIO OF SYRACUSE
+4.3 :'Fly pride,' says the peacock: mistress, that you know. : None
+Exeunt Antipholus of Syracuse and Dromio of Syracuse : ["Exeunt - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : DROMIO OF SYRACUSE
+COURTEZAN
+4.3 :Now, out of doubt Antipholus is mad, : None
+4.3 :Else would he never so demean himself. : None
+4.3 :A ring he hath of mine worth forty ducats, : None
+4.3 :And for the same he promised me a chain: : None
+4.3 :Both one and other he denies me now. : None
+4.3 :The reason that I gather he is mad, : None
+4.3 :Besides this present instance of his rage, : None
+4.3 :Is a mad tale he told to-day at dinner, : None
+4.3 :Of his own doors being shut against his entrance. : None
+4.3 :Belike his wife, acquainted with his fits, : None
+4.3 :On purpose shut the doors against his way. : None
+4.3 :My way is now to hie home to his house, : None
+4.3 :And tell his wife that, being lunatic, : None
+4.3 :He rush'd into my house and took perforce : None
+4.3 :My ring away. This course I fittest choose; : None
+4.3 :For forty ducats is too much to lose. : None
+Exit : ['Exit - []'] : COURTEZAN
+Scene(scene=4)
+Enter ANTIPHOLUS of Ephesus and the Officer : ["Enter - ['ANTIPHOLUS', 'OF EPHESUS', 'OFFICER']"] : COURTEZAN
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Fear me not, man; I will not break away: : None
+4.4 :I'll give thee, ere I leave thee, so much money, : None
+4.4 :To warrant thee, as I am 'rested for. : None
+4.4 :My wife is in a wayward mood to-day, : None
+4.4 :And will not lightly trust the messenger : None
+4.4 :That I should be attach'd in Ephesus, : None
+4.4 :I tell you, 'twill sound harshly in her ears. : None
+Enter DROMIO of Ephesus with a rope's-end : ["Enter - ['DROMIO OF EPHESUS']"] : OF EPHESUS
+4.4 :Here comes my man; I think he brings the money. : None
+4.4 :How now, sir! have you that I sent you for? : None
+DROMIO OF EPHESUS
+4.4 :Here's that, I warrant you, will pay them all. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :But where's the money? : None
+DROMIO OF EPHESUS
+4.4 :Why, sir, I gave the money for the rope. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Five hundred ducats, villain, for a rope? : None
+DROMIO OF EPHESUS
+4.4 :I'll serve you, sir, five hundred at the rate. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :To what end did I bid thee hie thee home? : None
+DROMIO OF EPHESUS
+4.4 :To a rope's-end, sir; and to that end am I returned. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :And to that end, sir, I will welcome you. : None
+Beating him : ['None - []'] : OF EPHESUS
+OFFICER
+4.4 :Good sir, be patient. : None
+DROMIO OF EPHESUS
+4.4 :Nay, 'tis for me to be patient; I am in adversity. : None
+OFFICER
+4.4 :Good, now, hold thy tongue. : None
+DROMIO OF EPHESUS
+4.4 :Nay, rather persuade him to hold his hands. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Thou whoreson, senseless villain! : None
+DROMIO OF EPHESUS
+4.4 :I would I were senseless, sir, that I might not feel : None
+4.4 :your blows. : None
+ANTIPHOLUS
+4.4 :Thou art sensible in nothing but blows, and so is an : None
+4.4 :ass. : None
+DROMIO OF EPHESUS
+4.4 :I am an ass, indeed; you may prove it by my long : None
+4.4 :ears. I have served him from the hour of my : None
+4.4 :nativity to this instant, and have nothing at his : None
+4.4 :hands for my service but blows. When I am cold, he : None
+4.4 :heats me with beating; when I am warm, he cools me : None
+4.4 :with beating; I am waked with it when I sleep; : None
+4.4 :raised with it when I sit; driven out of doors with : None
+4.4 :it when I go from home; welcomed home with it when : None
+4.4 :I return; nay, I bear it on my shoulders, as a : None
+4.4 :beggar wont her brat; and, I think when he hath : None
+4.4 :lamed me, I shall beg with it from door to door. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Come, go along; my wife is coming yonder. : None
+Enter ADRIANA, LUCIANA, the Courtezan, and PINCH : ["Enter - ['ADRIANA', 'LUCIANA', 'COURTEZAN', 'PINCH']"] : OF EPHESUS
+DROMIO OF EPHESUS
+4.4 :Mistress, 'respice finem,' respect your end; or : None
+4.4 :rather, the prophecy like the parrot, 'beware the : None
+4.4 :rope's-end.' : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Wilt thou still talk? : None
+Beating him : ['None - []'] : OF EPHESUS
+COURTEZAN
+4.4 :How say you now? is not your husband mad? : None
+ADRIANA
+4.4 :His incivility confirms no less. : None
+4.4 :Good Doctor Pinch, you are a conjurer; : None
+4.4 :Establish him in his true sense again, : None
+4.4 :And I will please you what you will demand. : None
+LUCIANA
+4.4 :Alas, how fiery and how sharp he looks! : None
+COURTEZAN
+4.4 :Mark how he trembles in his ecstasy! : None
+PINCH
+4.4 :Give me your hand and let me feel your pulse. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :There is my hand, and let it feel your ear. : None
+Striking him : ['None - []'] : OF EPHESUS
+PINCH
+4.4 :I charge thee, Satan, housed within this man, : None
+4.4 :To yield possession to my holy prayers : None
+4.4 :And to thy state of darkness hie thee straight: : None
+4.4 :I conjure thee by all the saints in heaven! : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Peace, doting wizard, peace! I am not mad. : None
+ADRIANA
+4.4 :O, that thou wert not, poor distressed soul! : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :You minion, you, are these your customers? : None
+4.4 :Did this companion with the saffron face : None
+4.4 :Revel and feast it at my house to-day, : None
+4.4 :Whilst upon me the guilty doors were shut : None
+4.4 :And I denied to enter in my house? : None
+ADRIANA
+4.4 :O husband, God doth know you dined at home; : None
+4.4 :Where would you had remain'd until this time, : None
+4.4 :Free from these slanders and this open shame! : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Dined at home! Thou villain, what sayest thou? : None
+DROMIO OF EPHESUS
+4.4 :Sir, sooth to say, you did not dine at home. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Were not my doors lock'd up and I shut out? : None
+DROMIO OF EPHESUS
+4.4 :Perdie, your doors were lock'd and you shut out. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :And did not she herself revile me there? : None
+DROMIO OF EPHESUS
+4.4 :Sans fable, she herself reviled you there. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Did not her kitchen-maid rail, taunt, and scorn me? : None
+DROMIO OF EPHESUS
+4.4 :Certes, she did; the kitchen-vestal scorn'd you. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :And did not I in rage depart from thence? : None
+DROMIO OF EPHESUS
+4.4 :In verity you did; my bones bear witness, : None
+4.4 :That since have felt the vigour of his rage. : None
+ADRIANA
+4.4 :Is't good to soothe him in these contraries? : None
+PINCH
+4.4 :It is no shame: the fellow finds his vein, : None
+4.4 :And yielding to him humours well his frenzy. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Thou hast suborn'd the goldsmith to arrest me. : None
+ADRIANA
+4.4 :Alas, I sent you money to redeem you, : None
+4.4 :By Dromio here, who came in haste for it. : None
+DROMIO OF EPHESUS
+4.4 :Money by me! heart and goodwill you might; : None
+4.4 :But surely master, not a rag of money. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Went'st not thou to her for a purse of ducats? : None
+ADRIANA
+4.4 :He came to me and I deliver'd it. : None
+LUCIANA
+4.4 :And I am witness with her that she did. : None
+DROMIO OF EPHESUS
+4.4 :God and the rope-maker bear me witness : None
+4.4 :That I was sent for nothing but a rope! : None
+PINCH
+4.4 :Mistress, both man and master is possess'd; : None
+4.4 :I know it by their pale and deadly looks: : None
+4.4 :They must be bound and laid in some dark room. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Say, wherefore didst thou lock me forth to-day? : None
+4.4 :And why dost thou deny the bag of gold? : None
+ADRIANA
+4.4 :I did not, gentle husband, lock thee forth. : None
+DROMIO OF EPHESUS
+4.4 :And, gentle master, I received no gold; : None
+4.4 :But I confess, sir, that we were lock'd out. : None
+ADRIANA
+4.4 :Dissembling villain, thou speak'st false in both. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Dissembling harlot, thou art false in all; : None
+4.4 :And art confederate with a damned pack : None
+4.4 :To make a loathsome abject scorn of me: : None
+4.4 :But with these nails I'll pluck out these false eyes : None
+4.4 :That would behold in me this shameful sport. : None
+Enter three or four, and offer to bind him. He strives : ['Enter - []', 'None - []'] : OF EPHESUS
+ADRIANA
+4.4 :O, bind him, bind him! let him not come near me. : None
+PINCH
+4.4 :More company! The fiend is strong within him. : None
+LUCIANA
+4.4 :Ay me, poor man, how pale and wan he looks! : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :What, will you murder me? Thou gaoler, thou, : None
+4.4 :I am thy prisoner: wilt thou suffer them : None
+4.4 :To make a rescue? : None
+OFFICER
+4.4 :                  Masters, let him go : None
+4.4 :He is my prisoner, and you shall not have him. : None
+PINCH
+4.4 :Go bind this man, for he is frantic too. : None
+They offer to bind Dromio of Ephesus : ["to - ['DROMIO OF EPHESUS']"] : PINCH
+ADRIANA
+4.4 :What wilt thou do, thou peevish officer? : None
+4.4 :Hast thou delight to see a wretched man : None
+4.4 :Do outrage and displeasure to himself? : None
+OFFICER
+4.4 :He is my prisoner: if I let him go, : None
+4.4 :The debt he owes will be required of me. : None
+ADRIANA
+4.4 :I will discharge thee ere I go from thee: : None
+4.4 :Bear me forthwith unto his creditor, : None
+4.4 :And, knowing how the debt grows, I will pay it. : None
+4.4 :Good master doctor, see him safe convey'd : None
+4.4 :Home to my house. O most unhappy day! : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :O most unhappy strumpet! : None
+DROMIO OF EPHESUS
+4.4 :Master, I am here entered in bond for you. : None
+4.4 :ANTIPHOLUS : None
+OF EPHESUS
+4.4 :Out on thee, villain! wherefore dost thou mad me? : None
+DROMIO OF EPHESUS
+4.4 :Will you be bound for nothing? be mad, good master: : None
+4.4 :cry 'The devil!' : None
+LUCIANA
+4.4 :God help, poor souls, how idly do they talk! : None
+ADRIANA
+4.4 :Go bear him hence. Sister, go you with me. : None
+Exeunt all but Adriana, Luciana, Officer and Courtezan : ["Exeunt - ['ADRIANA', 'LUCIANA', 'OFFICER', 'COURTEZAN']"] : ADRIANA
+4.4 :Say now, whose suit is he arrested at? : None
+OFFICER
+4.4 :One Angelo, a goldsmith: do you know him? : None
+ADRIANA
+4.4 :I know the man. What is the sum he owes? : None
+OFFICER
+4.4 :Two hundred ducats. : None
+ADRIANA
+4.4 :Say, how grows it due? : None
+OFFICER
+4.4 :Due for a chain your husband had of him. : None
+ADRIANA
+4.4 :He did bespeak a chain for me, but had it not. : None
+COURTEZAN
+4.4 :When as your husband all in rage to-day : None
+4.4 :Came to my house and took away my ring-- : None
+4.4 :The ring I saw upon his finger now-- : None
+4.4 :Straight after did I meet him with a chain. : None
+ADRIANA
+4.4 :It may be so, but I did never see it. : None
+4.4 :Come, gaoler, bring me where the goldsmith is: : None
+4.4 :I long to know the truth hereof at large. : None
+Enter ANTIPHOLUS of Syracuse with his rapier drawn, and DROMIO of Syracuse : ["Enter - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : ADRIANA
+LUCIANA
+4.4 :God, for thy mercy! they are loose again. : None
+ADRIANA
+4.4 :And come with naked swords. : None
+4.4 :Let's call more help to have them bound again. : None
+OFFICER
+4.4 :Away! they'll kill us. : None
+Exeunt all but Antipholus of Syracuse and Dromio of Syracuse : ["Exeunt - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : OFFICER
+4.4 :ANTIPHOLUS : None
+OF SYRACUSE
+4.4 :I see these witches are afraid of swords. : None
+DROMIO OF SYRACUSE
+4.4 :She that would be your wife now ran from you. : None
+4.4 :ANTIPHOLUS : None
+OF SYRACUSE
+4.4 :Come to the Centaur; fetch our stuff from thence: : None
+4.4 :I long that we were safe and sound aboard. : None
+DROMIO OF SYRACUSE
+4.4 :Faith, stay here this night; they will surely do us : None
+4.4 :no harm: you saw they speak us fair, give us gold: : None
+4.4 :methinks they are such a gentle nation that, but for : None
+4.4 :the mountain of mad flesh that claims marriage of : None
+4.4 :me, I could find in my heart to stay here still and : None
+4.4 :turn witch. : None
+4.4 :ANTIPHOLUS : None
+OF SYRACUSE
+4.4 :I will not stay to-night for all the town; : None
+4.4 :Therefore away, to get our stuff aboard. : None
+Exeunt : ['Exeunt - []'] : OF SYRACUSE
+Act(act=5)
+Scene(scene=1)
+Enter Second Merchant and ANGELO : ["Enter - ['SECOND MERCHANT', 'ANGELO']"] : OF SYRACUSE
+ANGELO
+5.1 :I am sorry, sir, that I have hinder'd you; : None
+5.1 :But, I protest, he had the chain of me, : None
+5.1 :Though most dishonestly he doth deny it. : None
+SECOND MERCHANT
+5.1 :How is the man esteemed here in the city? : None
+ANGELO
+5.1 :Of very reverend reputation, sir, : None
+5.1 :Of credit infinite, highly beloved, : None
+5.1 :Second to none that lives here in the city: : None
+5.1 :His word might bear my wealth at any time. : None
+SECOND MERCHANT
+5.1 :Speak softly; yonder, as I think, he walks. : None
+Enter ANTIPHOLUS of Syracuse and DROMIO of Syracuse : ["Enter - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : SECOND MERCHANT
+ANGELO
+5.1 :'Tis so; and that self chain about his neck : None
+5.1 :Which he forswore most monstrously to have. : None
+5.1 :Good sir, draw near to me, I'll speak to him. : None
+5.1 :Signior Antipholus, I wonder much : None
+5.1 :That you would put me to this shame and trouble; : None
+5.1 :And, not without some scandal to yourself, : None
+5.1 :With circumstance and oaths so to deny : None
+5.1 :This chain which now you wear so openly: : None
+5.1 :Beside the charge, the shame, imprisonment, : None
+5.1 :You have done wrong to this my honest friend, : None
+5.1 :Who, but for staying on our controversy, : None
+5.1 :Had hoisted sail and put to sea to-day: : None
+5.1 :This chain you had of me; can you deny it? : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :I think I had; I never did deny it. : None
+SECOND MERCHANT
+5.1 :Yes, that you did, sir, and forswore it too. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :Who heard me to deny it or forswear it? : None
+SECOND MERCHANT
+5.1 :These ears of mine, thou know'st did hear thee. : None
+5.1 :Fie on thee, wretch! 'tis pity that thou livest : None
+5.1 :To walk where any honest man resort. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :Thou art a villain to impeach me thus: : None
+5.1 :I'll prove mine honour and mine honesty : None
+5.1 :Against thee presently, if thou darest stand. : None
+SECOND MERCHANT
+5.1 :I dare, and do defy thee for a villain. : None
+They draw : ['None - []'] : SECOND MERCHANT
+Enter ADRIANA, LUCIANA, the Courtezan, and others : ["Enter - ['ADRIANA', 'LUCIANA', 'COURTEZAN']"] : SECOND MERCHANT
+ADRIANA
+5.1 :Hold, hurt him not, for God's sake! he is mad. : None
+5.1 :Some get within him, take his sword away: : None
+5.1 :Bind Dromio too, and bear them to my house. : None
+DROMIO OF SYRACUSE
+5.1 :Run, master, run; for God's sake, take a house! : None
+5.1 :This is some priory. In, or we are spoil'd! : None
+Exeunt Antipholus of Syracuse and Dromio of Syracuse to the Priory : ["Exeunt - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : DROMIO OF SYRACUSE
+Enter the Lady Abbess, AEMILIA : ['Enter - []'] : DROMIO OF SYRACUSE
+AEMELIA
+5.1 :Be quiet, people. Wherefore throng you hither? : None
+ADRIANA
+5.1 :To fetch my poor distracted husband hence. : None
+5.1 :Let us come in, that we may bind him fast : None
+5.1 :And bear him home for his recovery. : None
+ANGELO
+5.1 :I knew he was not in his perfect wits. : None
+SECOND MERCHANT
+5.1 :I am sorry now that I did draw on him. : None
+AEMELIA
+5.1 :How long hath this possession held the man? : None
+ADRIANA
+5.1 :This week he hath been heavy, sour, sad, : None
+5.1 :And much different from the man he was; : None
+5.1 :But till this afternoon his passion : None
+5.1 :Ne'er brake into extremity of rage. : None
+AEMELIA
+5.1 :Hath he not lost much wealth by wreck of sea? : None
+5.1 :Buried some dear friend? Hath not else his eye : None
+5.1 :Stray'd his affection in unlawful love? : None
+5.1 :A sin prevailing much in youthful men, : None
+5.1 :Who give their eyes the liberty of gazing. : None
+5.1 :Which of these sorrows is he subject to? : None
+ADRIANA
+5.1 :To none of these, except it be the last; : None
+5.1 :Namely, some love that drew him oft from home. : None
+AEMELIA
+5.1 :You should for that have reprehended him. : None
+ADRIANA
+5.1 :Why, so I did. : None
+AEMELIA
+5.1 :                  Ay, but not rough enough. : None
+ADRIANA
+5.1 :As roughly as my modesty would let me. : None
+AEMELIA
+5.1 :Haply, in private. : None
+ADRIANA
+5.1 :And in assemblies too. : None
+AEMELIA
+5.1 :Ay, but not enough. : None
+ADRIANA
+5.1 :It was the copy of our conference: : None
+5.1 :In bed he slept not for my urging it; : None
+5.1 :At board he fed not for my urging it; : None
+5.1 :Alone, it was the subject of my theme; : None
+5.1 :In company I often glanced it; : None
+5.1 :Still did I tell him it was vile and bad. : None
+AEMELIA
+5.1 :And thereof came it that the man was mad. : None
+5.1 :The venom clamours of a jealous woman : None
+5.1 :Poisons more deadly than a mad dog's tooth. : None
+5.1 :It seems his sleeps were hinder'd by thy railing, : None
+5.1 :And therefore comes it that his head is light. : None
+5.1 :Thou say'st his meat was sauced with thy upbraidings: : None
+5.1 :Unquiet meals make ill digestions; : None
+5.1 :Thereof the raging fire of fever bred; : None
+5.1 :And what's a fever but a fit of madness? : None
+5.1 :Thou say'st his sports were hinderd by thy brawls: : None
+5.1 :Sweet recreation barr'd, what doth ensue : None
+5.1 :But moody and dull melancholy, : None
+5.1 :Kinsman to grim and comfortless despair, : None
+5.1 :And at her heels a huge infectious troop : None
+5.1 :Of pale distemperatures and foes to life? : None
+5.1 :In food, in sport and life-preserving rest : None
+5.1 :To be disturb'd, would mad or man or beast: : None
+5.1 :The consequence is then thy jealous fits : None
+5.1 :Have scared thy husband from the use of wits. : None
+LUCIANA
+5.1 :She never reprehended him but mildly, : None
+5.1 :When he demean'd himself rough, rude and wildly. : None
+5.1 :Why bear you these rebukes and answer not? : None
+ADRIANA
+5.1 :She did betray me to my own reproof. : None
+5.1 :Good people enter and lay hold on him. : None
+AEMELIA
+5.1 :No, not a creature enters in my house. : None
+ADRIANA
+5.1 :Then let your servants bring my husband forth. : None
+AEMELIA
+5.1 :Neither: he took this place for sanctuary, : None
+5.1 :And it shall privilege him from your hands : None
+5.1 :Till I have brought him to his wits again, : None
+5.1 :Or lose my labour in assaying it. : None
+ADRIANA
+5.1 :I will attend my husband, be his nurse, : None
+5.1 :Diet his sickness, for it is my office, : None
+5.1 :And will have no attorney but myself; : None
+5.1 :And therefore let me have him home with me. : None
+AEMELIA
+5.1 :Be patient; for I will not let him stir : None
+5.1 :Till I have used the approved means I have, : None
+5.1 :With wholesome syrups, drugs and holy prayers, : None
+5.1 :To make of him a formal man again: : None
+5.1 :It is a branch and parcel of mine oath, : None
+5.1 :A charitable duty of my order. : None
+5.1 :Therefore depart and leave him here with me. : None
+ADRIANA
+5.1 :I will not hence and leave my husband here: : None
+5.1 :And ill it doth beseem your holiness : None
+5.1 :To separate the husband and the wife. : None
+AEMELIA
+5.1 :Be quiet and depart: thou shalt not have him. : None
+Exit : ['Exit - []'] : AEMELIA
+LUCIANA
+5.1 :Complain unto the duke of this indignity. : None
+ADRIANA
+5.1 :Come, go: I will fall prostrate at his feet : None
+5.1 :And never rise until my tears and prayers : None
+5.1 :Have won his grace to come in person hither : None
+5.1 :And take perforce my husband from the abbess. : None
+SECOND MERCHANT
+5.1 :By this, I think, the dial points at five: : None
+5.1 :Anon, I'm sure, the duke himself in person : None
+5.1 :Comes this way to the melancholy vale, : None
+5.1 :The place of death and sorry execution, : None
+5.1 :Behind the ditches of the abbey here. : None
+ANGELO
+5.1 :Upon what cause? : None
+SECOND MERCHANT
+5.1 :To see a reverend Syracusian merchant, : None
+5.1 :Who put unluckily into this bay : None
+5.1 :Against the laws and statutes of this town, : None
+5.1 :Beheaded publicly for his offence. : None
+ANGELO
+5.1 :See where they come: we will behold his death. : None
+LUCIANA
+5.1 :Kneel to the duke before he pass the abbey. : None
+Enter DUKE SOLINUS, attended; AEGEON bareheaded; with the Headsman and other Officers : ["Enter - ['DUKE SOLINUS', 'AEGEON', 'OFFICER']"] : LUCIANA
+DUKE SOLINUS
+5.1 :Yet once again proclaim it publicly, : None
+5.1 :If any friend will pay the sum for him, : None
+5.1 :He shall not die; so much we tender him. : None
+ADRIANA
+5.1 :Justice, most sacred duke, against the abbess! : None
+DUKE SOLINUS
+5.1 :She is a virtuous and a reverend lady: : None
+5.1 :It cannot be that she hath done thee wrong. : None
+ADRIANA
+5.1 :May it please your grace, Antipholus, my husband, : None
+5.1 :Whom I made lord of me and all I had, : None
+5.1 :At your important letters,--this ill day : None
+5.1 :A most outrageous fit of madness took him; : None
+5.1 :That desperately he hurried through the street, : None
+5.1 :With him his bondman, all as mad as he-- : None
+5.1 :Doing displeasure to the citizens : None
+5.1 :By rushing in their houses, bearing thence : None
+5.1 :Rings, jewels, any thing his rage did like. : None
+5.1 :Once did I get him bound and sent him home, : None
+5.1 :Whilst to take order for the wrongs I went, : None
+5.1 :That here and there his fury had committed. : None
+5.1 :Anon, I wot not by what strong escape, : None
+5.1 :He broke from those that had the guard of him; : None
+5.1 :And with his mad attendant and himself, : None
+5.1 :Each one with ireful passion, with drawn swords, : None
+5.1 :Met us again and madly bent on us, : None
+5.1 :Chased us away; till, raising of more aid, : None
+5.1 :We came again to bind them. Then they fled : None
+5.1 :Into this abbey, whither we pursued them: : None
+5.1 :And here the abbess shuts the gates on us : None
+5.1 :And will not suffer us to fetch him out, : None
+5.1 :Nor send him forth that we may bear him hence. : None
+5.1 :Therefore, most gracious duke, with thy command : None
+5.1 :Let him be brought forth and borne hence for help. : None
+DUKE SOLINUS
+5.1 :Long since thy husband served me in my wars, : None
+5.1 :And I to thee engaged a prince's word, : None
+5.1 :When thou didst make him master of thy bed, : None
+5.1 :To do him all the grace and good I could. : None
+5.1 :Go, some of you, knock at the abbey-gate : None
+5.1 :And bid the lady abbess come to me. : None
+5.1 :I will determine this before I stir. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : DUKE SOLINUS
+SERVANT
+5.1 :O mistress, mistress, shift and save yourself! : None
+5.1 :My master and his man are both broke loose, : None
+5.1 :Beaten the maids a-row and bound the doctor : None
+5.1 :Whose beard they have singed off with brands of fire; : None
+5.1 :And ever, as it blazed, they threw on him : None
+5.1 :Great pails of puddled mire to quench the hair: : None
+5.1 :My master preaches patience to him and the while : None
+5.1 :His man with scissors nicks him like a fool, : None
+5.1 :And sure, unless you send some present help, : None
+5.1 :Between them they will kill the conjurer. : None
+ADRIANA
+5.1 :Peace, fool! thy master and his man are here, : None
+5.1 :And that is false thou dost report to us. : None
+SERVANT
+5.1 :Mistress, upon my life, I tell you true; : None
+5.1 :I have not breathed almost since I did see it. : None
+5.1 :He cries for you, and vows, if he can take you, : None
+5.1 :To scorch your face and to disfigure you. : None
+Cry within : ['None - []'] : SERVANT
+5.1 :Hark, hark! I hear him, mistress. fly, be gone! : None
+DUKE SOLINUS
+5.1 :Come, stand by me; fear nothing. Guard with halberds! : None
+ADRIANA
+5.1 :Ay me, it is my husband! Witness you, : None
+5.1 :That he is borne about invisible: : None
+5.1 :Even now we housed him in the abbey here; : None
+5.1 :And now he's there, past thought of human reason. : None
+Enter ANTIPHOLUS of Ephesus and DROMIO of Ephesus : ["Enter - ['ANTIPHOLUS', 'OF EPHESUS', 'DROMIO OF EPHESUS']"] : ADRIANA
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :Justice, most gracious duke, O, grant me justice! : None
+5.1 :Even for the service that long since I did thee, : None
+5.1 :When I bestrid thee in the wars and took : None
+5.1 :Deep scars to save thy life; even for the blood : None
+5.1 :That then I lost for thee, now grant me justice. : None
+AEGEON
+5.1 :Unless the fear of death doth make me dote, : None
+5.1 :I see my son Antipholus and Dromio. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :Justice, sweet prince, against that woman there! : None
+5.1 :She whom thou gavest to me to be my wife, : None
+5.1 :That hath abused and dishonour'd me : None
+5.1 :Even in the strength and height of injury! : None
+5.1 :Beyond imagination is the wrong : None
+5.1 :That she this day hath shameless thrown on me. : None
+DUKE SOLINUS
+5.1 :Discover how, and thou shalt find me just. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :This day, great duke, she shut the doors upon me, : None
+5.1 :While she with harlots feasted in my house. : None
+DUKE SOLINUS
+5.1 :A grievous fault! Say, woman, didst thou so? : None
+ADRIANA
+5.1 :No, my good lord: myself, he and my sister : None
+5.1 :To-day did dine together. So befall my soul : None
+5.1 :As this is false he burdens me withal! : None
+LUCIANA
+5.1 :Ne'er may I look on day, nor sleep on night, : None
+5.1 :But she tells to your highness simple truth! : None
+ANGELO
+5.1 :O perjured woman! They are both forsworn: : None
+5.1 :In this the madman justly chargeth them. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :My liege, I am advised what I say, : None
+5.1 :Neither disturbed with the effect of wine, : None
+5.1 :Nor heady-rash, provoked with raging ire, : None
+5.1 :Albeit my wrongs might make one wiser mad. : None
+5.1 :This woman lock'd me out this day from dinner: : None
+5.1 :That goldsmith there, were he not pack'd with her, : None
+5.1 :Could witness it, for he was with me then; : None
+5.1 :Who parted with me to go fetch a chain, : None
+5.1 :Promising to bring it to the Porpentine, : None
+5.1 :Where Balthazar and I did dine together. : None
+5.1 :Our dinner done, and he not coming thither, : None
+5.1 :I went to seek him: in the street I met him : None
+5.1 :And in his company that gentleman. : None
+5.1 :There did this perjured goldsmith swear me down : None
+5.1 :That I this day of him received the chain, : None
+5.1 :Which, God he knows, I saw not: for the which : None
+5.1 :He did arrest me with an officer. : None
+5.1 :I did obey, and sent my peasant home : None
+5.1 :For certain ducats: he with none return'd : None
+5.1 :Then fairly I bespoke the officer : None
+5.1 :To go in person with me to my house. : None
+5.1 :By the way we met : None
+5.1 :My wife, her sister, and a rabble more : None
+5.1 :Of vile confederates. Along with them : None
+5.1 :They brought one Pinch, a hungry lean-faced villain, : None
+5.1 :A mere anatomy, a mountebank, : None
+5.1 :A threadbare juggler and a fortune-teller, : None
+5.1 :A needy, hollow-eyed, sharp-looking wretch, : None
+5.1 :A dead-looking man: this pernicious slave, : None
+5.1 :Forsooth, took on him as a conjurer, : None
+5.1 :And, gazing in mine eyes, feeling my pulse, : None
+5.1 :And with no face, as 'twere, outfacing me, : None
+5.1 :Cries out, I was possess'd. Then all together : None
+5.1 :They fell upon me, bound me, bore me thence : None
+5.1 :And in a dark and dankish vault at home : None
+5.1 :There left me and my man, both bound together; : None
+5.1 :Till, gnawing with my teeth my bonds in sunder, : None
+5.1 :I gain'd my freedom, and immediately : None
+5.1 :Ran hither to your grace; whom I beseech : None
+5.1 :To give me ample satisfaction : None
+5.1 :For these deep shames and great indignities. : None
+ANGELO
+5.1 :My lord, in truth, thus far I witness with him, : None
+5.1 :That he dined not at home, but was lock'd out. : None
+DUKE SOLINUS
+5.1 :But had he such a chain of thee or no? : None
+ANGELO
+5.1 :He had, my lord: and when he ran in here, : None
+5.1 :These people saw the chain about his neck. : None
+SECOND MERCHANT
+5.1 :Besides, I will be sworn these ears of mine : None
+5.1 :Heard you confess you had the chain of him : None
+5.1 :After you first forswore it on the mart: : None
+5.1 :And thereupon I drew my sword on you; : None
+5.1 :And then you fled into this abbey here, : None
+5.1 :From whence, I think, you are come by miracle. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :I never came within these abbey-walls, : None
+5.1 :Nor ever didst thou draw thy sword on me: : None
+5.1 :I never saw the chain, so help me Heaven! : None
+5.1 :And this is false you burden me withal. : None
+DUKE SOLINUS
+5.1 :Why, what an intricate impeach is this! : None
+5.1 :I think you all have drunk of Circe's cup. : None
+5.1 :If here you housed him, here he would have been; : None
+5.1 :If he were mad, he would not plead so coldly: : None
+5.1 :You say he dined at home; the goldsmith here : None
+5.1 :Denies that saying. Sirrah, what say you? : None
+DROMIO OF EPHESUS
+5.1 :Sir, he dined with her there, at the Porpentine. : None
+COURTEZAN
+5.1 :He did, and from my finger snatch'd that ring. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :'Tis true, my liege; this ring I had of her. : None
+DUKE SOLINUS
+5.1 :Saw'st thou him enter at the abbey here? : None
+COURTEZAN
+5.1 :As sure, my liege, as I do see your grace. : None
+DUKE SOLINUS
+5.1 :Why, this is strange. Go call the abbess hither. : None
+5.1 :I think you are all mated or stark mad. : None
+Exit one to Abbess : ['Exit - []'] : DUKE SOLINUS
+AEGEON
+5.1 :Most mighty duke, vouchsafe me speak a word: : None
+5.1 :Haply I see a friend will save my life : None
+5.1 :And pay the sum that may deliver me. : None
+DUKE SOLINUS
+5.1 :Speak freely, Syracusian, what thou wilt. : None
+AEGEON
+5.1 :Is not your name, sir, call'd Antipholus? : None
+5.1 :And is not that your bondman, Dromio? : None
+DROMIO OF EPHESUS
+5.1 :Within this hour I was his bondman sir, : None
+5.1 :But he, I thank him, gnaw'd in two my cords: : None
+5.1 :Now am I Dromio and his man unbound. : None
+AEGEON
+5.1 :I am sure you both of you remember me. : None
+DROMIO OF EPHESUS
+5.1 :Ourselves we do remember, sir, by you; : None
+5.1 :For lately we were bound, as you are now : None
+5.1 :You are not Pinch's patient, are you, sir? : None
+AEGEON
+5.1 :Why look you strange on me? you know me well. : None
+ANTIPHOLUS
+5.1 :I never saw you in my life till now. : None
+AEGEON
+5.1 :O, grief hath changed me since you saw me last, : None
+5.1 :And careful hours with time's deformed hand : None
+5.1 :Have written strange defeatures in my face: : None
+5.1 :But tell me yet, dost thou not know my voice? : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :Neither. : None
+AEGEON
+5.1 :Dromio, nor thou? : None
+DROMIO OF EPHESUS
+5.1 :                  No, trust me, sir, nor I. : None
+AEGEON
+5.1 :I am sure thou dost. : None
+DROMIO OF EPHESUS
+5.1 :Ay, sir, but I am sure I do not; and whatsoever a : None
+5.1 :man denies, you are now bound to believe him. : None
+AEGEON
+5.1 :Not know my voice! O time's extremity, : None
+5.1 :Hast thou so crack'd and splitted my poor tongue : None
+5.1 :In seven short years, that here my only son : None
+5.1 :Knows not my feeble key of untuned cares? : None
+5.1 :Though now this grained face of mine be hid : None
+5.1 :In sap-consuming winter's drizzled snow, : None
+5.1 :And all the conduits of my blood froze up, : None
+5.1 :Yet hath my night of life some memory, : None
+5.1 :My wasting lamps some fading glimmer left, : None
+5.1 :My dull deaf ears a little use to hear: : None
+5.1 :All these old witnesses--I cannot err-- : None
+5.1 :Tell me thou art my son Antipholus. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :I never saw my father in my life. : None
+AEGEON
+5.1 :But seven years since, in Syracusa, boy, : None
+5.1 :Thou know'st we parted: but perhaps, my son, : None
+5.1 :Thou shamest to acknowledge me in misery. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :The duke and all that know me in the city : None
+5.1 :Can witness with me that it is not so : None
+5.1 :I ne'er saw Syracusa in my life. : None
+DUKE SOLINUS
+5.1 :I tell thee, Syracusian, twenty years : None
+5.1 :Have I been patron to Antipholus, : None
+5.1 :During which time he ne'er saw Syracusa: : None
+5.1 :I see thy age and dangers make thee dote. : None
+Re-enter AEMILIA, with ANTIPHOLUS of Syracuse and DROMIO of Syracuse : ["Re-enter - ['ANTIPHOLUS', 'OF SYRACUSE', 'DROMIO OF SYRACUSE']"] : DUKE SOLINUS
+AEMELIA
+5.1 :Most mighty duke, behold a man much wrong'd. : None
+All gather to see them : ['to - []'] : AEMELIA
+ADRIANA
+5.1 :I see two husbands, or mine eyes deceive me. : None
+DUKE SOLINUS
+5.1 :One of these men is Genius to the other; : None
+5.1 :And so of these. Which is the natural man, : None
+5.1 :And which the spirit? who deciphers them? : None
+DROMIO OF SYRACUSE
+5.1 :I, sir, am Dromio; command him away. : None
+DROMIO OF EPHESUS
+5.1 :I, sir, am Dromio; pray, let me stay. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :AEgeon art thou not? or else his ghost? : None
+DROMIO OF SYRACUSE
+5.1 :O, my old master! who hath bound him here? : None
+AEMELIA
+5.1 :Whoever bound him, I will loose his bonds : None
+5.1 :And gain a husband by his liberty. : None
+5.1 :Speak, old AEgeon, if thou be'st the man : None
+5.1 :That hadst a wife once call'd AEmilia : None
+5.1 :That bore thee at a burden two fair sons: : None
+5.1 :O, if thou be'st the same AEgeon, speak, : None
+5.1 :And speak unto the same AEmilia! : None
+AEGEON
+5.1 :If I dream not, thou art AEmilia: : None
+5.1 :If thou art she, tell me where is that son : None
+5.1 :That floated with thee on the fatal raft? : None
+AEMELIA
+5.1 :By men of Epidamnum he and I : None
+5.1 :And the twin Dromio all were taken up; : None
+5.1 :But by and by rude fishermen of Corinth : None
+5.1 :By force took Dromio and my son from them : None
+5.1 :And me they left with those of Epidamnum. : None
+5.1 :What then became of them I cannot tell : None
+5.1 :I to this fortune that you see me in. : None
+DUKE SOLINUS
+5.1 :Why, here begins his morning story right; : None
+5.1 :These two Antipholuses, these two so like, : None
+5.1 :And these two Dromios, one in semblance,-- : None
+5.1 :Besides her urging of her wreck at sea,-- : None
+5.1 :These are the parents to these children, : None
+5.1 :Which accidentally are met together. : None
+5.1 :Antipholus, thou camest from Corinth first? : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :No, sir, not I; I came from Syracuse. : None
+DUKE SOLINUS
+5.1 :Stay, stand apart; I know not which is which. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :I came from Corinth, my most gracious lord,-- : None
+DROMIO OF EPHESUS
+5.1 :And I with him. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :Brought to this town by that most famous warrior, : None
+5.1 :Duke Menaphon, your most renowned uncle. : None
+ADRIANA
+5.1 :Which of you two did dine with me to-day? : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :I, gentle mistress. : None
+ADRIANA
+5.1 :And are not you my husband? : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :No; I say nay to that. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :And so do I; yet did she call me so: : None
+5.1 :And this fair gentlewoman, her sister here, : None
+5.1 :Did call me brother. : None
+To Luciana : ["To - ['LUCIANA']"] : OF SYRACUSE
+5.1 :What I told you then, : None
+5.1 :I hope I shall have leisure to make good; : None
+5.1 :If this be not a dream I see and hear. : None
+ANGELO
+5.1 :That is the chain, sir, which you had of me. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :I think it be, sir; I deny it not. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :And you, sir, for this chain arrested me. : None
+ANGELO
+5.1 :I think I did, sir; I deny it not. : None
+ADRIANA
+5.1 :I sent you money, sir, to be your bail, : None
+5.1 :By Dromio; but I think he brought it not. : None
+DROMIO OF EPHESUS
+5.1 :No, none by me. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :This purse of ducats I received from you, : None
+5.1 :And Dromio, my man, did bring them me. : None
+5.1 :I see we still did meet each other's man, : None
+5.1 :And I was ta'en for him, and he for me, : None
+5.1 :And thereupon these errors are arose. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :These ducats pawn I for my father here. : None
+DUKE SOLINUS
+5.1 :It shall not need; thy father hath his life. : None
+COURTEZAN
+5.1 :Sir, I must have that diamond from you. : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :There, take it; and much thanks for my good cheer. : None
+AEMELIA
+5.1 :Renowned duke, vouchsafe to take the pains : None
+5.1 :To go with us into the abbey here : None
+5.1 :And hear at large discoursed all our fortunes: : None
+5.1 :And all that are assembled in this place, : None
+5.1 :That by this sympathized one day's error : None
+5.1 :Have suffer'd wrong, go keep us company, : None
+5.1 :And we shall make full satisfaction. : None
+5.1 :Thirty-three years have I but gone in travail : None
+5.1 :Of you, my sons; and till this present hour : None
+5.1 :My heavy burden ne'er delivered. : None
+5.1 :The duke, my husband and my children both, : None
+5.1 :And you the calendars of their nativity, : None
+5.1 :Go to a gossips' feast and go with me; : None
+5.1 :After so long grief, such festivity! : None
+DUKE SOLINUS
+5.1 :With all my heart, I'll gossip at this feast. : None
+Exeunt all but Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse and Dromio of Ephesus : ["Exeunt - ['ANTIPHOLUS', 'OF SYRACUSE', 'ANTIPHOLUS', 'OF EPHESUS', 'DROMIO OF SYRACUSE', 'DROMIO OF EPHESUS']"] : DUKE SOLINUS
+DROMIO OF SYRACUSE
+5.1 :Master, shall I fetch your stuff from shipboard? : None
+5.1 :ANTIPHOLUS : None
+OF EPHESUS
+5.1 :Dromio, what stuff of mine hast thou embark'd? : None
+DROMIO OF SYRACUSE
+5.1 :Your goods that lay at host, sir, in the Centaur. : None
+5.1 :ANTIPHOLUS : None
+OF SYRACUSE
+5.1 :He speaks to me. I am your master, Dromio: : None
+5.1 :Come, go with us; we'll look to that anon: : None
+5.1 :Embrace thy brother there; rejoice with him. : None
+Exeunt Antipholus of Syracuse and Antipholus of Ephesus : ["Exeunt - ['ANTIPHOLUS', 'OF SYRACUSE', 'ANTIPHOLUS', 'OF EPHESUS']"] : OF SYRACUSE
+DROMIO OF SYRACUSE
+5.1 :There is a fat friend at your master's house, : None
+5.1 :That kitchen'd me for you to-day at dinner: : None
+5.1 :She now shall be my sister, not my wife. : None
+DROMIO OF EPHESUS
+5.1 :Methinks you are my glass, and not my brother: : None
+5.1 :I see by you I am a sweet-faced youth. : None
+5.1 :Will you walk in to see their gossiping? : None
+DROMIO OF SYRACUSE
+5.1 :Not I, sir; you are my elder. : None
+DROMIO OF EPHESUS
+5.1 :That's a question: how shall we try it? : None
+DROMIO OF SYRACUSE
+5.1 :We'll draw cuts for the senior: till then lead thou first. : None
+DROMIO OF EPHESUS
+5.1 :Nay, then, thus: : None
+5.1 :We came into the world like brother and brother; : None
+5.1 :And now let's go hand in hand, not one before another. : None
+Exeunt : ['Exeunt - []'] : DROMIO OF EPHESUS

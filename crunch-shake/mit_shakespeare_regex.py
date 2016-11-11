@@ -33,7 +33,7 @@ SCENE_MATCHER
 <h3>SCENE I. Rousillon. The COUNT's palace.</h3>
 """
 
-DIALOGUE_PATTERN = r'^<a name="?(?P<act>\d)\.(?P<scene>\d)\.\d+"?>' \
+DIALOGUE_PATTERN = r'^<a name="?(?P<act>\d+)\.(?P<scene>\d+)\.\d+"?>' \
     '(\[(?P<instruction>.*)\])?(?P<dialogue>.*)</a><br>'
 DIALOGUE_MATCHER = re.compile(DIALOGUE_PATTERN, re.IGNORECASE)
 

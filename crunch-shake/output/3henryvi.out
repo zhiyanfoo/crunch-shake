@@ -1,0 +1,3951 @@
+Act(act=1)
+Scene(scene=1)
+Alarum. Enter YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK, and Soldiers : ['None - []', "Enter - ['YORK', 'EDWARD', 'RICHARD', 'NORFOLK', 'MONTAGUE', 'WARWICK', 'SOLDIER']"] : None
+WARWICK
+1.1 :I wonder how the king escaped our hands. : None
+YORK
+1.1 :While we pursued the horsemen of the north, : None
+1.1 :He slily stole away and left his men: : None
+1.1 :Whereat the great Lord of Northumberland, : None
+1.1 :Whose warlike ears could never brook retreat, : None
+1.1 :Cheer'd up the drooping army; and himself, : None
+1.1 :Lord Clifford and Lord Stafford, all abreast, : None
+1.1 :Charged our main battle's front, and breaking in : None
+1.1 :Were by the swords of common soldiers slain. : None
+EDWARD
+1.1 :Lord Stafford's father, Duke of Buckingham, : None
+1.1 :Is either slain or wounded dangerously; : None
+1.1 :I cleft his beaver with a downright blow: : None
+1.1 :That this is true, father, behold his blood. : None
+MONTAGUE
+1.1 :And, brother, here's the Earl of Wiltshire's blood, : None
+1.1 :Whom I encounter'd as the battles join'd. : None
+RICHARD
+1.1 :Speak thou for me and tell them what I did. : None
+Throwing down SOMERSET's head : ["None - ['SOMERSET']"] : RICHARD
+YORK
+1.1 :Richard hath best deserved of all my sons. : None
+1.1 :But is your grace dead, my Lord of Somerset? : None
+NORFOLK
+1.1 :Such hope have all the line of John of Gaunt! : None
+RICHARD
+1.1 :Thus do I hope to shake King Henry's head. : None
+WARWICK
+1.1 :And so do I. Victorious Prince of York, : None
+1.1 :Before I see thee seated in that throne : None
+1.1 :Which now the house of Lancaster usurps, : None
+1.1 :I vow by heaven these eyes shall never close. : None
+1.1 :This is the palace of the fearful king, : None
+1.1 :And this the regal seat: possess it, York; : None
+1.1 :For this is thine and not King Henry's heirs' : None
+YORK
+1.1 :Assist me, then, sweet Warwick, and I will; : None
+1.1 :For hither we have broken in by force. : None
+NORFOLK
+1.1 :We'll all assist you; he that flies shall die. : None
+YORK
+1.1 :Thanks, gentle Norfolk: stay by me, my lords; : None
+1.1 :And, soldiers, stay and lodge by me this night. : None
+They go up : ['None - []'] : YORK
+WARWICK
+1.1 :And when the king comes, offer no violence, : None
+1.1 :Unless he seek to thrust you out perforce. : None
+YORK
+1.1 :The queen this day here holds her parliament, : None
+1.1 :But little thinks we shall be of her council: : None
+1.1 :By words or blows here let us win our right. : None
+RICHARD
+1.1 :Arm'd as we are, let's stay within this house. : None
+WARWICK
+1.1 :The bloody parliament shall this be call'd, : None
+1.1 :Unless Plantagenet, Duke of York, be king, : None
+1.1 :And bashful Henry deposed, whose cowardice : None
+1.1 :Hath made us by-words to our enemies. : None
+YORK
+1.1 :Then leave me not, my lords; be resolute; : None
+1.1 :I mean to take possession of my right. : None
+WARWICK
+1.1 :Neither the king, nor he that loves him best, : None
+1.1 :The proudest he that holds up Lancaster, : None
+1.1 :Dares stir a wing, if Warwick shake his bells. : None
+1.1 :I'll plant Plantagenet, root him up who dares: : None
+1.1 :Resolve thee, Richard; claim the English crown. : None
+Flourish. Enter KING HENRY VI, CLIFFORD, NORTHUMBERLAND, WESTMORELAND, EXETER, and the rest : ['None - []', "Enter - ['KING HENRY VI', 'CLIFFORD', 'NORTHUMBERLAND', 'WESTMORELAND', 'EXETER']"] : WARWICK
+KING HENRY VI
+1.1 :My lords, look where the sturdy rebel sits, : None
+1.1 :Even in the chair of state: belike he means, : None
+1.1 :Back'd by the power of Warwick, that false peer, : None
+1.1 :To aspire unto the crown and reign as king. : None
+1.1 :Earl of Northumberland, he slew thy father. : None
+1.1 :And thine, Lord Clifford; and you both have vow'd revenge : None
+1.1 :On him, his sons, his favourites and his friends. : None
+NORTHUMBERLAND
+1.1 :If I be not, heavens be revenged on me! : None
+CLIFFORD
+1.1 :The hope thereof makes Clifford mourn in steel. : None
+WESTMORELAND
+1.1 :What, shall we suffer this? let's pluck him down: : None
+1.1 :My heart for anger burns; I cannot brook it. : None
+KING HENRY VI
+1.1 :Be patient, gentle Earl of Westmoreland. : None
+CLIFFORD
+1.1 :Patience is for poltroons, such as he: : None
+1.1 :He durst not sit there, had your father lived. : None
+1.1 :My gracious lord, here in the parliament : None
+1.1 :Let us assail the family of York. : None
+NORTHUMBERLAND
+1.1 :Well hast thou spoken, cousin: be it so. : None
+KING HENRY VI
+1.1 :Ah, know you not the city favours them, : None
+1.1 :And they have troops of soldiers at their beck? : None
+EXETER
+1.1 :But when the duke is slain, they'll quickly fly. : None
+KING HENRY VI
+1.1 :Far be the thought of this from Henry's heart, : None
+1.1 :To make a shambles of the parliament-house! : None
+1.1 :Cousin of Exeter, frowns, words and threats : None
+1.1 :Shall be the war that Henry means to use. : None
+1.1 :Thou factious Duke of York, descend my throne, : None
+1.1 :and kneel for grace and mercy at my feet; : None
+1.1 :I am thy sovereign. : None
+YORK
+1.1 :I am thine. : None
+EXETER
+1.1 :For shame, come down: he made thee Duke of York. : None
+YORK
+1.1 :'Twas my inheritance, as the earldom was. : None
+EXETER
+1.1 :Thy father was a traitor to the crown. : None
+WARWICK
+1.1 :Exeter, thou art a traitor to the crown : None
+1.1 :In following this usurping Henry. : None
+CLIFFORD
+1.1 :Whom should he follow but his natural king? : None
+WARWICK
+1.1 :True, Clifford; and that's Richard Duke of York. : None
+KING HENRY VI
+1.1 :And shall I stand, and thou sit in my throne? : None
+YORK
+1.1 :It must and shall be so: content thyself. : None
+WARWICK
+1.1 :Be Duke of Lancaster; let him be king. : None
+WESTMORELAND
+1.1 :He is both king and Duke of Lancaster; : None
+1.1 :And that the Lord of Westmoreland shall maintain. : None
+WARWICK
+1.1 :And Warwick shall disprove it. You forget : None
+1.1 :That we are those which chased you from the field : None
+1.1 :And slew your fathers, and with colours spread : None
+1.1 :March'd through the city to the palace gates. : None
+NORTHUMBERLAND
+1.1 :Yes, Warwick, I remember it to my grief; : None
+1.1 :And, by his soul, thou and thy house shall rue it. : None
+WESTMORELAND
+1.1 :Plantagenet, of thee and these thy sons, : None
+1.1 :Thy kinsman and thy friends, I'll have more lives : None
+1.1 :Than drops of blood were in my father's veins. : None
+CLIFFORD
+1.1 :Urge it no more; lest that, instead of words, : None
+1.1 :I send thee, Warwick, such a messenger : None
+1.1 :As shall revenge his death before I stir. : None
+WARWICK
+1.1 :Poor Clifford! how I scorn his worthless threats! : None
+YORK
+1.1 :Will you we show our title to the crown? : None
+1.1 :If not, our swords shall plead it in the field. : None
+KING HENRY VI
+1.1 :What title hast thou, traitor, to the crown? : None
+1.1 :Thy father was, as thou art, Duke of York; : None
+1.1 :Thy grandfather, Roger Mortimer, Earl of March: : None
+1.1 :I am the son of Henry the Fifth, : None
+1.1 :Who made the Dauphin and the French to stoop : None
+1.1 :And seized upon their towns and provinces. : None
+WARWICK
+1.1 :Talk not of France, sith thou hast lost it all. : None
+KING HENRY VI
+1.1 :The lord protector lost it, and not I: : None
+1.1 :When I was crown'd I was but nine months old. : None
+RICHARD
+1.1 :You are old enough now, and yet, methinks, you lose. : None
+1.1 :Father, tear the crown from the usurper's head. : None
+EDWARD
+1.1 :Sweet father, do so; set it on your head. : None
+MONTAGUE
+1.1 :Good brother, as thou lovest and honourest arms, : None
+1.1 :Let's fight it out and not stand cavilling thus. : None
+RICHARD
+1.1 :Sound drums and trumpets, and the king will fly. : None
+YORK
+1.1 :Sons, peace! : None
+KING HENRY VI
+1.1 :Peace, thou! and give King Henry leave to speak. : None
+WARWICK
+1.1 :Plantagenet shall speak first: hear him, lords; : None
+1.1 :And be you silent and attentive too, : None
+1.1 :For he that interrupts him shall not live. : None
+KING HENRY VI
+1.1 :Think'st thou that I will leave my kingly throne, : None
+1.1 :Wherein my grandsire and my father sat? : None
+1.1 :No: first shall war unpeople this my realm; : None
+1.1 :Ay, and their colours, often borne in France, : None
+1.1 :And now in England to our heart's great sorrow, : None
+1.1 :Shall be my winding-sheet. Why faint you, lords? : None
+1.1 :My title's good, and better far than his. : None
+WARWICK
+1.1 :Prove it, Henry, and thou shalt be king. : None
+KING HENRY VI
+1.1 :Henry the Fourth by conquest got the crown. : None
+YORK
+1.1 :'Twas by rebellion against his king. : None
+KING HENRY VI
+1.1 :  I know not what to say; my title's weak.-- : Aside : ['Aside - []'] : KING HENRY VI
+1.1 :Tell me, may not a king adopt an heir? : None
+YORK
+1.1 :What then? : None
+KING HENRY VI
+1.1 :An if he may, then am I lawful king; : None
+1.1 :For Richard, in the view of many lords, : None
+1.1 :Resign'd the crown to Henry the Fourth, : None
+1.1 :Whose heir my father was, and I am his. : None
+YORK
+1.1 :He rose against him, being his sovereign, : None
+1.1 :And made him to resign his crown perforce. : None
+WARWICK
+1.1 :Suppose, my lords, he did it unconstrain'd, : None
+1.1 :Think you 'twere prejudicial to his crown? : None
+EXETER
+1.1 :No; for he could not so resign his crown : None
+1.1 :But that the next heir should succeed and reign. : None
+KING HENRY VI
+1.1 :Art thou against us, Duke of Exeter? : None
+EXETER
+1.1 :His is the right, and therefore pardon me. : None
+YORK
+1.1 :Why whisper you, my lords, and answer not? : None
+EXETER
+1.1 :My conscience tells me he is lawful king. : None
+KING HENRY VI
+1.1 :  All will revolt from me, and turn to him. : Aside : ['Aside - []'] : KING HENRY VI
+NORTHUMBERLAND
+1.1 :Plantagenet, for all the claim thou lay'st, : None
+1.1 :Think not that Henry shall be so deposed. : None
+WARWICK
+1.1 :Deposed he shall be, in despite of all. : None
+NORTHUMBERLAND
+1.1 :Thou art deceived: 'tis not thy southern power, : None
+1.1 :Of Essex, Norfolk, Suffolk, nor of Kent, : None
+1.1 :Which makes thee thus presumptuous and proud, : None
+1.1 :Can set the duke up in despite of me. : None
+CLIFFORD
+1.1 :King Henry, be thy title right or wrong, : None
+1.1 :Lord Clifford vows to fight in thy defence: : None
+1.1 :May that ground gape and swallow me alive, : None
+1.1 :Where I shall kneel to him that slew my father! : None
+KING HENRY VI
+1.1 :O Clifford, how thy words revive my heart! : None
+YORK
+1.1 :Henry of Lancaster, resign thy crown. : None
+1.1 :What mutter you, or what conspire you, lords? : None
+WARWICK
+1.1 :Do right unto this princely Duke of York, : None
+1.1 :Or I will fill the house with armed men, : None
+1.1 :And over the chair of state, where now he sits, : None
+1.1 :Write up his title with usurping blood. : None
+He stamps with his foot and the soldiers show themselves : ["None - ['SOLDIER']"] : WARWICK
+KING HENRY VI
+1.1 :My Lord of Warwick, hear me but one word: : None
+1.1 :Let me for this my life-time reign as king. : None
+YORK
+1.1 :Confirm the crown to me and to mine heirs, : None
+1.1 :And thou shalt reign in quiet while thou livest. : None
+KING HENRY VI
+1.1 :I am content: Richard Plantagenet, : None
+1.1 :Enjoy the kingdom after my decease. : None
+CLIFFORD
+1.1 :What wrong is this unto the prince your son! : None
+WARWICK
+1.1 :What good is this to England and himself! : None
+WESTMORELAND
+1.1 :Base, fearful and despairing Henry! : None
+CLIFFORD
+1.1 :How hast thou injured both thyself and us! : None
+WESTMORELAND
+1.1 :I cannot stay to hear these articles. : None
+NORTHUMBERLAND
+1.1 :Nor I. : None
+CLIFFORD
+1.1 :Come, cousin, let us tell the queen these news. : None
+WESTMORELAND
+1.1 :Farewell, faint-hearted and degenerate king, : None
+1.1 :In whose cold blood no spark of honour bides. : None
+NORTHUMBERLAND
+1.1 :Be thou a prey unto the house of York, : None
+1.1 :And die in bands for this unmanly deed! : None
+CLIFFORD
+1.1 :In dreadful war mayst thou be overcome, : None
+1.1 :Or live in peace abandon'd and despised! : None
+Exeunt NORTHUMBERLAND, CLIFFORD, and WESTMORELAND : ["Exeunt - ['NORTHUMBERLAND', 'CLIFFORD', 'WESTMORELAND']"] : CLIFFORD
+WARWICK
+1.1 :Turn this way, Henry, and regard them not. : None
+EXETER
+1.1 :They seek revenge and therefore will not yield. : None
+KING HENRY VI
+1.1 :Ah, Exeter! : None
+WARWICK
+1.1 :          Why should you sigh, my lord? : None
+KING HENRY VI
+1.1 :Not for myself, Lord Warwick, but my son, : None
+1.1 :Whom I unnaturally shall disinherit. : None
+1.1 :But be it as it may: I here entail : None
+1.1 :The crown to thee and to thine heirs for ever; : None
+1.1 :Conditionally, that here thou take an oath : None
+1.1 :To cease this civil war, and, whilst I live, : None
+1.1 :To honour me as thy king and sovereign, : None
+1.1 :And neither by treason nor hostility : None
+1.1 :To seek to put me down and reign thyself. : None
+YORK
+1.1 :This oath I willingly take and will perform. : None
+WARWICK
+1.1 :Long live King Henry! Plantagenet embrace him. : None
+KING HENRY VI
+1.1 :And long live thou and these thy forward sons! : None
+YORK
+1.1 :Now York and Lancaster are reconciled. : None
+EXETER
+1.1 :Accursed be he that seeks to make them foes! : None
+Sennet. Here they come down : ['None - []', 'None - []'] : EXETER
+YORK
+1.1 :Farewell, my gracious lord; I'll to my castle. : None
+WARWICK
+1.1 :And I'll keep London with my soldiers. : None
+NORFOLK
+1.1 :And I to Norfolk with my followers. : None
+MONTAGUE
+1.1 :And I unto the sea from whence I came. : None
+Exeunt YORK, EDWARD, EDMUND, GEORGE, RICHARD,  WARWICK, NORFOLK, MONTAGUE, their Soldiers, and Attendants : ["Exeunt - ['YORK', 'EDWARD', 'GEORGE', 'RICHARD', 'WARWICK', 'NORFOLK', 'MONTAGUE', 'SOLDIER']"] : MONTAGUE
+KING HENRY VI
+1.1 :And I, with grief and sorrow, to the court. : None
+Enter QUEEN MARGARET and PRINCE EDWARD : ["Enter - ['QUEEN MARGARET', 'PRINCE EDWARD']"] : KING HENRY VI
+EXETER
+1.1 :Here comes the queen, whose looks bewray her anger: : None
+1.1 :I'll steal away. : None
+KING HENRY VI
+1.1 :                  Exeter, so will I. : None
+QUEEN MARGARET
+1.1 :Nay, go not from me; I will follow thee. : None
+KING HENRY VI
+1.1 :Be patient, gentle queen, and I will stay. : None
+QUEEN MARGARET
+1.1 :Who can be patient in such extremes? : None
+1.1 :Ah, wretched man! would I had died a maid : None
+1.1 :And never seen thee, never borne thee son, : None
+1.1 :Seeing thou hast proved so unnatural a father : None
+1.1 :Hath he deserved to lose his birthright thus? : None
+1.1 :Hadst thou but loved him half so well as I, : None
+1.1 :Or felt that pain which I did for him once, : None
+1.1 :Or nourish'd him as I did with my blood, : None
+1.1 :Thou wouldst have left thy dearest heart-blood there, : None
+1.1 :Rather than have that savage duke thine heir : None
+1.1 :And disinherited thine only son. : None
+PRINCE EDWARD
+1.1 :Father, you cannot disinherit me: : None
+1.1 :If you be king, why should not I succeed? : None
+KING HENRY VI
+1.1 :Pardon me, Margaret; pardon me, sweet son: : None
+1.1 :The Earl of Warwick and the duke enforced me. : None
+QUEEN MARGARET
+1.1 :Enforced thee! art thou king, and wilt be forced? : None
+1.1 :I shame to hear thee speak. Ah, timorous wretch! : None
+1.1 :Thou hast undone thyself, thy son and me; : None
+1.1 :And given unto the house of York such head : None
+1.1 :As thou shalt reign but by their sufferance. : None
+1.1 :To entail him and his heirs unto the crown, : None
+1.1 :What is it, but to make thy sepulchre : None
+1.1 :And creep into it far before thy time? : None
+1.1 :Warwick is chancellor and the lord of Calais; : None
+1.1 :Stern Falconbridge commands the narrow seas; : None
+1.1 :The duke is made protector of the realm; : None
+1.1 :And yet shalt thou be safe? such safety finds : None
+1.1 :The trembling lamb environed with wolves. : None
+1.1 :Had I been there, which am a silly woman, : None
+1.1 :The soldiers should have toss'd me on their pikes : None
+1.1 :Before I would have granted to that act. : None
+1.1 :But thou preferr'st thy life before thine honour: : None
+1.1 :And seeing thou dost, I here divorce myself : None
+1.1 :Both from thy table, Henry, and thy bed, : None
+1.1 :Until that act of parliament be repeal'd : None
+1.1 :Whereby my son is disinherited. : None
+1.1 :The northern lords that have forsworn thy colours : None
+1.1 :Will follow mine, if once they see them spread; : None
+1.1 :And spread they shall be, to thy foul disgrace : None
+1.1 :And utter ruin of the house of York. : None
+1.1 :Thus do I leave thee. Come, son, let's away; : None
+1.1 :Our army is ready; come, we'll after them. : None
+KING HENRY VI
+1.1 :Stay, gentle Margaret, and hear me speak. : None
+QUEEN MARGARET
+1.1 :Thou hast spoke too much already: get thee gone. : None
+KING HENRY VI
+1.1 :Gentle son Edward, thou wilt stay with me? : None
+QUEEN MARGARET
+1.1 :Ay, to be murder'd by his enemies. : None
+PRINCE EDWARD
+1.1 :When I return with victory from the field : None
+1.1 :I'll see your grace: till then I'll follow her. : None
+QUEEN MARGARET
+1.1 :Come, son, away; we may not linger thus. : None
+Exeunt QUEEN MARGARET and PRINCE EDWARD : ["Exeunt - ['QUEEN MARGARET', 'PRINCE EDWARD']"] : QUEEN MARGARET
+KING HENRY VI
+1.1 :Poor queen! how love to me and to her son : None
+1.1 :Hath made her break out into terms of rage! : None
+1.1 :Revenged may she be on that hateful duke, : None
+1.1 :Whose haughty spirit, winged with desire, : None
+1.1 :Will cost my crown, and like an empty eagle : None
+1.1 :Tire on the flesh of me and of my son! : None
+1.1 :The loss of those three lords torments my heart: : None
+1.1 :I'll write unto them and entreat them fair. : None
+1.1 :Come, cousin you shall be the messenger. : None
+EXETER
+1.1 :And I, I hope, shall reconcile them all. : None
+Exeunt : ['Exeunt - []'] : EXETER
+Scene(scene=2)
+Enter RICHARD, EDWARD, and MONTAGUE : ["Enter - ['RICHARD', 'EDWARD', 'MONTAGUE']"] : EXETER
+RICHARD
+1.2 :Brother, though I be youngest, give me leave. : None
+EDWARD
+1.2 :No, I can better play the orator. : None
+MONTAGUE
+1.2 :But I have reasons strong and forcible. : None
+Enter YORK : ["Enter - ['YORK']"] : MONTAGUE
+YORK
+1.2 :Why, how now, sons and brother! at a strife? : None
+1.2 :What is your quarrel? how began it first? : None
+EDWARD
+1.2 :No quarrel, but a slight contention. : None
+YORK
+1.2 :About what? : None
+RICHARD
+1.2 :About that which concerns your grace and us; : None
+1.2 :The crown of England, father, which is yours. : None
+YORK
+1.2 :Mine boy? not till King Henry be dead. : None
+RICHARD
+1.2 :Your right depends not on his life or death. : None
+EDWARD
+1.2 :Now you are heir, therefore enjoy it now: : None
+1.2 :By giving the house of Lancaster leave to breathe, : None
+1.2 :It will outrun you, father, in the end. : None
+YORK
+1.2 :I took an oath that he should quietly reign. : None
+EDWARD
+1.2 :But for a kingdom any oath may be broken: : None
+1.2 :I would break a thousand oaths to reign one year. : None
+RICHARD
+1.2 :No; God forbid your grace should be forsworn. : None
+YORK
+1.2 :I shall be, if I claim by open war. : None
+RICHARD
+1.2 :I'll prove the contrary, if you'll hear me speak. : None
+YORK
+1.2 :Thou canst not, son; it is impossible. : None
+RICHARD
+1.2 :An oath is of no moment, being not took : None
+1.2 :Before a true and lawful magistrate, : None
+1.2 :That hath authority over him that swears: : None
+1.2 :Henry had none, but did usurp the place; : None
+1.2 :Then, seeing 'twas he that made you to depose, : None
+1.2 :Your oath, my lord, is vain and frivolous. : None
+1.2 :Therefore, to arms! And, father, do but think : None
+1.2 :How sweet a thing it is to wear a crown; : None
+1.2 :Within whose circuit is Elysium : None
+1.2 :And all that poets feign of bliss and joy. : None
+1.2 :Why do we finger thus? I cannot rest : None
+1.2 :Until the white rose that I wear be dyed : None
+1.2 :Even in the lukewarm blood of Henry's heart. : None
+YORK
+1.2 :Richard, enough; I will be king, or die. : None
+1.2 :Brother, thou shalt to London presently, : None
+1.2 :And whet on Warwick to this enterprise. : None
+1.2 :Thou, Richard, shalt to the Duke of Norfolk, : None
+1.2 :And tell him privily of our intent. : None
+1.2 :You Edward, shall unto my Lord Cobham, : None
+1.2 :With whom the Kentishmen will willingly rise: : None
+1.2 :In them I trust; for they are soldiers, : None
+1.2 :Witty, courteous, liberal, full of spirit. : None
+1.2 :While you are thus employ'd, what resteth more, : None
+1.2 :But that I seek occasion how to rise, : None
+1.2 :And yet the king not privy to my drift, : None
+1.2 :Nor any of the house of Lancaster? : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : YORK
+1.2 :But, stay: what news? Why comest thou in such post? : None
+MESSENGER
+1.2 :The queen with all the northern earls and lords : None
+1.2 :Intend here to besiege you in your castle: : None
+1.2 :She is hard by with twenty thousand men; : None
+1.2 :And therefore fortify your hold, my lord. : None
+YORK
+1.2 :Ay, with my sword. What! think'st thou that we fear them? : None
+1.2 :Edward and Richard, you shall stay with me; : None
+1.2 :My brother Montague shall post to London: : None
+1.2 :Let noble Warwick, Cobham, and the rest, : None
+1.2 :Whom we have left protectors of the king, : None
+1.2 :With powerful policy strengthen themselves, : None
+1.2 :And trust not simple Henry nor his oaths. : None
+MONTAGUE
+1.2 :Brother, I go; I'll win them, fear it not: : None
+1.2 :And thus most humbly I do take my leave. : None
+Exit : ['Exit - []'] : MONTAGUE
+Enter JOHN MORTIMER and HUGH MORTIMER : ["Enter - ['JOHN MORTIMER']"] : MONTAGUE
+1.2 :Sir John and Sir Hugh Mortimer, mine uncles, : None
+1.2 :You are come to Sandal in a happy hour; : None
+1.2 :The army of the queen mean to besiege us. : None
+JOHN MORTIMER
+1.2 :She shall not need; we'll meet her in the field. : None
+YORK
+1.2 :What, with five thousand men? : None
+RICHARD
+1.2 :Ay, with five hundred, father, for a need: : None
+1.2 :A woman's general; what should we fear? : None
+A march afar off : ['None - []'] : RICHARD
+EDWARD
+1.2 :I hear their drums: let's set our men in order, : None
+1.2 :And issue forth and bid them battle straight. : None
+YORK
+1.2 :Five men to twenty! though the odds be great, : None
+1.2 :I doubt not, uncle, of our victory. : None
+1.2 :Many a battle have I won in France, : None
+1.2 :When as the enemy hath been ten to one: : None
+1.2 :Why should I not now have the like success? : None
+Alarum. Exeunt : ['None - []', 'Exeunt - []'] : YORK
+Scene(scene=3)
+Alarums. Enter RUTLAND and his Tutor : ['None - []', "Enter - ['RUTLAND', 'TUTOR']"] : YORK
+RUTLAND
+1.3 :Ah, whither shall I fly to 'scape their hands? : None
+1.3 :Ah, tutor, look where bloody Clifford comes! : None
+Enter CLIFFORD and Soldiers : ["Enter - ['CLIFFORD', 'SOLDIER']"] : RUTLAND
+CLIFFORD
+1.3 :Chaplain, away! thy priesthood saves thy life. : None
+1.3 :As for the brat of this accursed duke, : None
+1.3 :Whose father slew my father, he shall die. : None
+TUTOR
+1.3 :And I, my lord, will bear him company. : None
+CLIFFORD
+1.3 :Soldiers, away with him! : None
+TUTOR
+1.3 :Ah, Clifford, murder not this innocent child, : None
+1.3 :Lest thou be hated both of God and man! : None
+Exit, dragged off by Soldiers : ["Exit - ['SOLDIER']"] : TUTOR
+CLIFFORD
+1.3 :How now! is he dead already? or is it fear : None
+1.3 :That makes him close his eyes? I'll open them. : None
+RUTLAND
+1.3 :So looks the pent-up lion o'er the wretch : None
+1.3 :That trembles under his devouring paws; : None
+1.3 :And so he walks, insulting o'er his prey, : None
+1.3 :And so he comes, to rend his limbs asunder. : None
+1.3 :Ah, gentle Clifford, kill me with thy sword, : None
+1.3 :And not with such a cruel threatening look. : None
+1.3 :Sweet Clifford, hear me speak before I die. : None
+1.3 :I am too mean a subject for thy wrath: : None
+1.3 :Be thou revenged on men, and let me live. : None
+CLIFFORD
+1.3 :In vain thou speak'st, poor boy; my father's blood : None
+1.3 :Hath stopp'd the passage where thy words should enter. : None
+RUTLAND
+1.3 :Then let my father's blood open it again: : None
+1.3 :He is a man, and, Clifford, cope with him. : None
+CLIFFORD
+1.3 :Had thy brethren here, their lives and thine : None
+1.3 :Were not revenge sufficient for me; : None
+1.3 :No, if I digg'd up thy forefathers' graves : None
+1.3 :And hung their rotten coffins up in chains, : None
+1.3 :It could not slake mine ire, nor ease my heart. : None
+1.3 :The sight of any of the house of York : None
+1.3 :Is as a fury to torment my soul; : None
+1.3 :And till I root out their accursed line : None
+1.3 :And leave not one alive, I live in hell. : None
+1.3 :Therefore-- : None
+Lifting his hand : ['None - []'] : CLIFFORD
+RUTLAND
+1.3 :O, let me pray before I take my death! : None
+1.3 :To thee I pray; sweet Clifford, pity me! : None
+CLIFFORD
+1.3 :Such pity as my rapier's point affords. : None
+RUTLAND
+1.3 :I never did thee harm: why wilt thou slay me? : None
+CLIFFORD
+1.3 :Thy father hath. : None
+RUTLAND
+1.3 :                  But 'twas ere I was born. : None
+1.3 :Thou hast one son; for his sake pity me, : None
+1.3 :Lest in revenge thereof, sith God is just, : None
+1.3 :He be as miserably slain as I. : None
+1.3 :Ah, let me live in prison all my days; : None
+1.3 :And when I give occasion of offence, : None
+1.3 :Then let me die, for now thou hast no cause. : None
+CLIFFORD
+1.3 :No cause! : None
+1.3 :Thy father slew my father; therefore, die. : None
+Stabs him : ['None - []'] : CLIFFORD
+RUTLAND
+1.3 :Di faciant laudis summa sit ista tuae! : None
+Dies : ['None - []'] : RUTLAND
+CLIFFORD
+1.3 :Plantagenet! I come, Plantagenet! : None
+1.3 :And this thy son's blood cleaving to my blade : None
+1.3 :Shall rust upon my weapon, till thy blood, : None
+1.3 :Congeal'd with this, do make me wipe off both. : None
+Exit : ['Exit - []'] : CLIFFORD
+Scene(scene=4)
+Alarum. Enter YORK : ['None - []', "Enter - ['YORK']"] : CLIFFORD
+YORK
+1.4 :The army of the queen hath got the field: : None
+1.4 :My uncles both are slain in rescuing me; : None
+1.4 :And all my followers to the eager foe : None
+1.4 :Turn back and fly, like ships before the wind : None
+1.4 :Or lambs pursued by hunger-starved wolves. : None
+1.4 :My sons, God knows what hath bechanced them: : None
+1.4 :But this I know, they have demean'd themselves : None
+1.4 :Like men born to renown by life or death. : None
+1.4 :Three times did Richard make a lane to me. : None
+1.4 :And thrice cried 'Courage, father! fight it out!' : None
+1.4 :And full as oft came Edward to my side, : None
+1.4 :With purple falchion, painted to the hilt : None
+1.4 :In blood of those that had encounter'd him: : None
+1.4 :And when the hardiest warriors did retire, : None
+1.4 :Richard cried 'Charge! and give no foot of ground!' : None
+1.4 :And cried 'A crown, or else a glorious tomb! : None
+1.4 :A sceptre, or an earthly sepulchre!' : None
+1.4 :With this, we charged again: but, out, alas! : None
+1.4 :We bodged again; as I have seen a swan : None
+1.4 :With bootless labour swim against the tide : None
+1.4 :And spend her strength with over-matching waves. : None
+A short alarum within : ['None - []'] : YORK
+1.4 :Ah, hark! the fatal followers do pursue; : None
+1.4 :And I am faint and cannot fly their fury: : None
+1.4 :And were I strong, I would not shun their fury: : None
+1.4 :The sands are number'd that make up my life; : None
+1.4 :Here must I stay, and here my life must end. : None
+Enter QUEEN MARGARET, CLIFFORD, NORTHUMBERLAND, PRINCE EDWARD, and Soldiers : ["Enter - ['QUEEN MARGARET', 'CLIFFORD', 'NORTHUMBERLAND', 'PRINCE EDWARD', 'SOLDIER']"] : YORK
+1.4 :Come, bloody Clifford, rough Northumberland, : None
+1.4 :I dare your quenchless fury to more rage: : None
+1.4 :I am your butt, and I abide your shot. : None
+NORTHUMBERLAND
+1.4 :Yield to our mercy, proud Plantagenet. : None
+CLIFFORD
+1.4 :Ay, to such mercy as his ruthless arm, : None
+1.4 :With downright payment, show'd unto my father. : None
+1.4 :Now Phaethon hath tumbled from his car, : None
+1.4 :And made an evening at the noontide prick. : None
+YORK
+1.4 :My ashes, as the phoenix, may bring forth : None
+1.4 :A bird that will revenge upon you all: : None
+1.4 :And in that hope I throw mine eyes to heaven, : None
+1.4 :Scorning whate'er you can afflict me with. : None
+1.4 :Why come you not? what! multitudes, and fear? : None
+CLIFFORD
+1.4 :So cowards fight when they can fly no further; : None
+1.4 :So doves do peck the falcon's piercing talons; : None
+1.4 :So desperate thieves, all hopeless of their lives, : None
+1.4 :Breathe out invectives 'gainst the officers. : None
+YORK
+1.4 :O Clifford, but bethink thee once again, : None
+1.4 :And in thy thought o'er-run my former time; : None
+1.4 :And, if though canst for blushing, view this face, : None
+1.4 :And bite thy tongue, that slanders him with cowardice : None
+1.4 :Whose frown hath made thee faint and fly ere this! : None
+CLIFFORD
+1.4 :I will not bandy with thee word for word, : None
+1.4 :But buckle with thee blows, twice two for one. : None
+QUEEN MARGARET
+1.4 :Hold, valiant Clifford! for a thousand causes : None
+1.4 :I would prolong awhile the traitor's life. : None
+1.4 :Wrath makes him deaf: speak thou, Northumberland. : None
+NORTHUMBERLAND
+1.4 :Hold, Clifford! do not honour him so much : None
+1.4 :To prick thy finger, though to wound his heart: : None
+1.4 :What valour were it, when a cur doth grin, : None
+1.4 :For one to thrust his hand between his teeth, : None
+1.4 :When he might spurn him with his foot away? : None
+1.4 :It is war's prize to take all vantages; : None
+1.4 :And ten to one is no impeach of valour. : None
+They lay hands on YORK, who struggles : ["None - ['YORK']"] : NORTHUMBERLAND
+CLIFFORD
+1.4 :Ay, ay, so strives the woodcock with the gin. : None
+NORTHUMBERLAND
+1.4 :So doth the cony struggle in the net. : None
+YORK
+1.4 :So triumph thieves upon their conquer'd booty; : None
+1.4 :So true men yield, with robbers so o'ermatch'd. : None
+NORTHUMBERLAND
+1.4 :What would your grace have done unto him now? : None
+QUEEN MARGARET
+1.4 :Brave warriors, Clifford and Northumberland, : None
+1.4 :Come, make him stand upon this molehill here, : None
+1.4 :That raught at mountains with outstretched arms, : None
+1.4 :Yet parted but the shadow with his hand. : None
+1.4 :What! was it you that would be England's king? : None
+1.4 :Was't you that revell'd in our parliament, : None
+1.4 :And made a preachment of your high descent? : None
+1.4 :Where are your mess of sons to back you now? : None
+1.4 :The wanton Edward, and the lusty George? : None
+1.4 :And where's that valiant crook-back prodigy, : None
+1.4 :Dicky your boy, that with his grumbling voice : None
+1.4 :Was wont to cheer his dad in mutinies? : None
+1.4 :Or, with the rest, where is your darling Rutland? : None
+1.4 :Look, York: I stain'd this napkin with the blood : None
+1.4 :That valiant Clifford, with his rapier's point, : None
+1.4 :Made issue from the bosom of the boy; : None
+1.4 :And if thine eyes can water for his death, : None
+1.4 :I give thee this to dry thy cheeks withal. : None
+1.4 :Alas poor York! but that I hate thee deadly, : None
+1.4 :I should lament thy miserable state. : None
+1.4 :I prithee, grieve, to make me merry, York. : None
+1.4 :What, hath thy fiery heart so parch'd thine entrails : None
+1.4 :That not a tear can fall for Rutland's death? : None
+1.4 :Why art thou patient, man? thou shouldst be mad; : None
+1.4 :And I, to make thee mad, do mock thee thus. : None
+1.4 :Stamp, rave, and fret, that I may sing and dance. : None
+1.4 :Thou wouldst be fee'd, I see, to make me sport: : None
+1.4 :York cannot speak, unless he wear a crown. : None
+1.4 :A crown for York! and, lords, bow low to him: : None
+1.4 :Hold you his hands, whilst I do set it on. : None
+Putting a paper crown on his head : ['None - []'] : QUEEN MARGARET
+1.4 :Ay, marry, sir, now looks he like a king! : None
+1.4 :Ay, this is he that took King Henry's chair, : None
+1.4 :And this is he was his adopted heir. : None
+1.4 :But how is it that great Plantagenet : None
+1.4 :Is crown'd so soon, and broke his solemn oath? : None
+1.4 :As I bethink me, you should not be king : None
+1.4 :Till our King Henry had shook hands with death. : None
+1.4 :And will you pale your head in Henry's glory, : None
+1.4 :And rob his temples of the diadem, : None
+1.4 :Now in his life, against your holy oath? : None
+1.4 :O, 'tis a fault too too unpardonable! : None
+1.4 :Off with the crown, and with the crown his head; : None
+1.4 :And, whilst we breathe, take time to do him dead. : None
+CLIFFORD
+1.4 :That is my office, for my father's sake. : None
+QUEEN MARGARET
+1.4 :Nay, stay; lets hear the orisons he makes. : None
+YORK
+1.4 :She-wolf of France, but worse than wolves of France, : None
+1.4 :Whose tongue more poisons than the adder's tooth! : None
+1.4 :How ill-beseeming is it in thy sex : None
+1.4 :To triumph, like an Amazonian trull, : None
+1.4 :Upon their woes whom fortune captivates! : None
+1.4 :But that thy face is, vizard-like, unchanging, : None
+1.4 :Made impudent with use of evil deeds, : None
+1.4 :I would assay, proud queen, to make thee blush. : None
+1.4 :To tell thee whence thou camest, of whom derived, : None
+1.4 :Were shame enough to shame thee, wert thou not shameless. : None
+1.4 :Thy father bears the type of King of Naples, : None
+1.4 :Of both the Sicils and Jerusalem, : None
+1.4 :Yet not so wealthy as an English yeoman. : None
+1.4 :Hath that poor monarch taught thee to insult? : None
+1.4 :It needs not, nor it boots thee not, proud queen, : None
+1.4 :Unless the adage must be verified, : None
+1.4 :That beggars mounted run their horse to death. : None
+1.4 :'Tis beauty that doth oft make women proud; : None
+1.4 :But, God he knows, thy share thereof is small: : None
+1.4 :'Tis virtue that doth make them most admired; : None
+1.4 :The contrary doth make thee wonder'd at: : None
+1.4 :'Tis government that makes them seem divine; : None
+1.4 :The want thereof makes thee abominable: : None
+1.4 :Thou art as opposite to every good : None
+1.4 :As the Antipodes are unto us, : None
+1.4 :Or as the south to the septentrion. : None
+1.4 :O tiger's heart wrapt in a woman's hide! : None
+1.4 :How couldst thou drain the life-blood of the child, : None
+1.4 :To bid the father wipe his eyes withal, : None
+1.4 :And yet be seen to bear a woman's face? : None
+1.4 :Women are soft, mild, pitiful and flexible; : None
+1.4 :Thou stern, obdurate, flinty, rough, remorseless. : None
+1.4 :Bids't thou me rage? why, now thou hast thy wish: : None
+1.4 :Wouldst have me weep? why, now thou hast thy will: : None
+1.4 :For raging wind blows up incessant showers, : None
+1.4 :And when the rage allays, the rain begins. : None
+1.4 :These tears are my sweet Rutland's obsequies: : None
+1.4 :And every drop cries vengeance for his death, : None
+1.4 :'Gainst thee, fell Clifford, and thee, false : None
+1.4 :Frenchwoman. : None
+NORTHUMBERLAND
+1.4 :Beshrew me, but his passion moves me so : None
+1.4 :That hardly can I cheque my eyes from tears. : None
+YORK
+1.4 :That face of his the hungry cannibals : None
+1.4 :Would not have touch'd, would not have stain'd with blood: : None
+1.4 :But you are more inhuman, more inexorable, : None
+1.4 :O, ten times more, than tigers of Hyrcania. : None
+1.4 :See, ruthless queen, a hapless father's tears: : None
+1.4 :This cloth thou dip'dst in blood of my sweet boy, : None
+1.4 :And I with tears do wash the blood away. : None
+1.4 :Keep thou the napkin, and go boast of this: : None
+1.4 :And if thou tell'st the heavy story right, : None
+1.4 :Upon my soul, the hearers will shed tears; : None
+1.4 :Yea even my foes will shed fast-falling tears, : None
+1.4 :And say 'Alas, it was a piteous deed!' : None
+1.4 :There, take the crown, and, with the crown, my curse; : None
+1.4 :And in thy need such comfort come to thee : None
+1.4 :As now I reap at thy too cruel hand! : None
+1.4 :Hard-hearted Clifford, take me from the world: : None
+1.4 :My soul to heaven, my blood upon your heads! : None
+NORTHUMBERLAND
+1.4 :Had he been slaughter-man to all my kin, : None
+1.4 :I should not for my life but weep with him. : None
+1.4 :To see how inly sorrow gripes his soul. : None
+QUEEN MARGARET
+1.4 :What, weeping-ripe, my Lord Northumberland? : None
+1.4 :Think but upon the wrong he did us all, : None
+1.4 :And that will quickly dry thy melting tears. : None
+CLIFFORD
+1.4 :Here's for my oath, here's for my father's death. : None
+Stabbing him : ['None - []'] : CLIFFORD
+QUEEN MARGARET
+1.4 :And here's to right our gentle-hearted king. : None
+Stabbing him : ['None - []'] : QUEEN MARGARET
+YORK
+1.4 :Open Thy gate of mercy, gracious God! : None
+1.4 :My soul flies through these wounds to seek out Thee. : None
+Dies : ['None - []'] : YORK
+QUEEN MARGARET
+1.4 :Off with his head, and set it on York gates; : None
+1.4 :So York may overlook the town of York. : None
+Flourish. Exeunt : ['None - []', 'Exeunt - []'] : QUEEN MARGARET
+Act(act=2)
+Scene(scene=1)
+A march. Enter EDWARD, RICHARD, and their power : ['None - []', "Enter - ['EDWARD', 'RICHARD']"] : QUEEN MARGARET
+EDWARD
+2.1 :I wonder how our princely father 'scaped, : None
+2.1 :Or whether he be 'scaped away or no : None
+2.1 :From Clifford's and Northumberland's pursuit: : None
+2.1 :Had he been ta'en, we should have heard the news; : None
+2.1 :Had he been slain, we should have heard the news; : None
+2.1 :Or had he 'scaped, methinks we should have heard : None
+2.1 :The happy tidings of his good escape. : None
+2.1 :How fares my brother? why is he so sad? : None
+RICHARD
+2.1 :I cannot joy, until I be resolved : None
+2.1 :Where our right valiant father is become. : None
+2.1 :I saw him in the battle range about; : None
+2.1 :And watch'd him how he singled Clifford forth. : None
+2.1 :Methought he bore him in the thickest troop : None
+2.1 :As doth a lion in a herd of neat; : None
+2.1 :Or as a bear, encompass'd round with dogs, : None
+2.1 :Who having pinch'd a few and made them cry, : None
+2.1 :The rest stand all aloof, and bark at him. : None
+2.1 :So fared our father with his enemies; : None
+2.1 :So fled his enemies my warlike father: : None
+2.1 :Methinks, 'tis prize enough to be his son. : None
+2.1 :See how the morning opes her golden gates, : None
+2.1 :And takes her farewell of the glorious sun! : None
+2.1 :How well resembles it the prime of youth, : None
+2.1 :Trimm'd like a younker prancing to his love! : None
+EDWARD
+2.1 :Dazzle mine eyes, or do I see three suns? : None
+RICHARD
+2.1 :Three glorious suns, each one a perfect sun; : None
+2.1 :Not separated with the racking clouds, : None
+2.1 :But sever'd in a pale clear-shining sky. : None
+2.1 :See, see! they join, embrace, and seem to kiss, : None
+2.1 :As if they vow'd some league inviolable: : None
+2.1 :Now are they but one lamp, one light, one sun. : None
+2.1 :In this the heaven figures some event. : None
+EDWARD
+2.1 :'Tis wondrous strange, the like yet never heard of. : None
+2.1 :I think it cites us, brother, to the field, : None
+2.1 :That we, the sons of brave Plantagenet, : None
+2.1 :Each one already blazing by our meeds, : None
+2.1 :Should notwithstanding join our lights together : None
+2.1 :And over-shine the earth as this the world. : None
+2.1 :Whate'er it bodes, henceforward will I bear : None
+2.1 :Upon my target three fair-shining suns. : None
+RICHARD
+2.1 :Nay, bear three daughters: by your leave I speak it, : None
+2.1 :You love the breeder better than the male. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : RICHARD
+2.1 :But what art thou, whose heavy looks foretell : None
+2.1 :Some dreadful story hanging on thy tongue? : None
+MESSENGER
+2.1 :Ah, one that was a woful looker-on : None
+2.1 :When as the noble Duke of York was slain, : None
+2.1 :Your princely father and my loving lord! : None
+EDWARD
+2.1 :O, speak no more, for I have heard too much. : None
+RICHARD
+2.1 :Say how he died, for I will hear it all. : None
+MESSENGER
+2.1 :Environed he was with many foes, : None
+2.1 :And stood against them, as the hope of Troy : None
+2.1 :Against the Greeks that would have enter'd Troy. : None
+2.1 :But Hercules himself must yield to odds; : None
+2.1 :And many strokes, though with a little axe, : None
+2.1 :Hew down and fell the hardest-timber'd oak. : None
+2.1 :By many hands your father was subdued; : None
+2.1 :But only slaughter'd by the ireful arm : None
+2.1 :Of unrelenting Clifford and the queen, : None
+2.1 :Who crown'd the gracious duke in high despite, : None
+2.1 :Laugh'd in his face; and when with grief he wept, : None
+2.1 :The ruthless queen gave him to dry his cheeks : None
+2.1 :A napkin steeped in the harmless blood : None
+2.1 :Of sweet young Rutland, by rough Clifford slain: : None
+2.1 :And after many scorns, many foul taunts, : None
+2.1 :They took his head, and on the gates of York : None
+2.1 :They set the same; and there it doth remain, : None
+2.1 :The saddest spectacle that e'er I view'd. : None
+EDWARD
+2.1 :Sweet Duke of York, our prop to lean upon, : None
+2.1 :Now thou art gone, we have no staff, no stay. : None
+2.1 :O Clifford, boisterous Clifford! thou hast slain : None
+2.1 :The flower of Europe for his chivalry; : None
+2.1 :And treacherously hast thou vanquish'd him, : None
+2.1 :For hand to hand he would have vanquish'd thee. : None
+2.1 :Now my soul's palace is become a prison: : None
+2.1 :Ah, would she break from hence, that this my body : None
+2.1 :Might in the ground be closed up in rest! : None
+2.1 :For never henceforth shall I joy again, : None
+2.1 :Never, O never shall I see more joy! : None
+RICHARD
+2.1 : I cannot weep; for all my body's moisture : None
+2.1 :Scarce serves to quench my furnace-burning heart: : None
+2.1 :Nor can my tongue unload my heart's great burthen; : None
+2.1 :For selfsame wind that I should speak withal : None
+2.1 :Is kindling coals that fires all my breast, : None
+2.1 :And burns me up with flames that tears would quench. : None
+2.1 :To weep is to make less the depth of grief: : None
+2.1 :Tears then for babes; blows and revenge for me : None
+2.1 :Richard, I bear thy name; I'll venge thy death, : None
+2.1 :Or die renowned by attempting it. : None
+EDWARD
+2.1 :His name that valiant duke hath left with thee; : None
+2.1 :His dukedom and his chair with me is left. : None
+RICHARD
+2.1 :Nay, if thou be that princely eagle's bird, : None
+2.1 :Show thy descent by gazing 'gainst the sun: : None
+2.1 :For chair and dukedom, throne and kingdom say; : None
+2.1 :Either that is thine, or else thou wert not his. : None
+March. Enter WARWICK, MONTAGUE, and their army : ['None - []', "Enter - ['WARWICK', 'MONTAGUE']"] : RICHARD
+WARWICK
+2.1 :How now, fair lords! What fare? what news abroad? : None
+RICHARD
+2.1 :Great Lord of Warwick, if we should recount : None
+2.1 :Our baleful news, and at each word's deliverance : None
+2.1 :Stab poniards in our flesh till all were told, : None
+2.1 :The words would add more anguish than the wounds. : None
+2.1 :O valiant lord, the Duke of York is slain! : None
+EDWARD
+2.1 :O Warwick, Warwick! that Plantagenet, : None
+2.1 :Which held three dearly as his soul's redemption, : None
+2.1 :Is by the stern Lord Clifford done to death. : None
+WARWICK
+2.1 :Ten days ago I drown'd these news in tears; : None
+2.1 :And now, to add more measure to your woes, : None
+2.1 :I come to tell you things sith then befall'n. : None
+2.1 :After the bloody fray at Wakefield fought, : None
+2.1 :Where your brave father breathed his latest gasp, : None
+2.1 :Tidings, as swiftly as the posts could run, : None
+2.1 :Were brought me of your loss and his depart. : None
+2.1 :I, then in London keeper of the king, : None
+2.1 :Muster'd my soldiers, gather'd flocks of friends, : None
+2.1 :And very well appointed, as I thought, : None
+2.1 :March'd toward Saint Alban's to intercept the queen, : None
+2.1 :Bearing the king in my behalf along; : None
+2.1 :For by my scouts I was advertised : None
+2.1 :That she was coming with a full intent : None
+2.1 :To dash our late decree in parliament : None
+2.1 :Touching King Henry's oath and your succession. : None
+2.1 :Short tale to make, we at Saint Alban's met : None
+2.1 :Our battles join'd, and both sides fiercely fought: : None
+2.1 :But whether 'twas the coldness of the king, : None
+2.1 :Who look'd full gently on his warlike queen, : None
+2.1 :That robb'd my soldiers of their heated spleen; : None
+2.1 :Or whether 'twas report of her success; : None
+2.1 :Or more than common fear of Clifford's rigour, : None
+2.1 :Who thunders to his captives blood and death, : None
+2.1 :I cannot judge: but to conclude with truth, : None
+2.1 :Their weapons like to lightning came and went; : None
+2.1 :Our soldiers', like the night-owl's lazy flight, : None
+2.1 :Or like an idle thresher with a flail, : None
+2.1 :Fell gently down, as if they struck their friends. : None
+2.1 :I cheer'd them up with justice of our cause, : None
+2.1 :With promise of high pay and great rewards: : None
+2.1 :But all in vain; they had no heart to fight, : None
+2.1 :And we in them no hope to win the day; : None
+2.1 :So that we fled; the king unto the queen; : None
+2.1 :Lord George your brother, Norfolk and myself, : None
+2.1 :In haste, post-haste, are come to join with you: : None
+2.1 :For in the marches here we heard you were, : None
+2.1 :Making another head to fight again. : None
+EDWARD
+2.1 :Where is the Duke of Norfolk, gentle Warwick? : None
+2.1 :And when came George from Burgundy to England? : None
+WARWICK
+2.1 :Some six miles off the duke is with the soldiers; : None
+2.1 :And for your brother, he was lately sent : None
+2.1 :From your kind aunt, Duchess of Burgundy, : None
+2.1 :With aid of soldiers to this needful war. : None
+RICHARD
+2.1 :'Twas odds, belike, when valiant Warwick fled: : None
+2.1 :Oft have I heard his praises in pursuit, : None
+2.1 :But ne'er till now his scandal of retire. : None
+WARWICK
+2.1 :Nor now my scandal, Richard, dost thou hear; : None
+2.1 :For thou shalt know this strong right hand of mine : None
+2.1 :Can pluck the diadem from faint Henry's head, : None
+2.1 :And wring the awful sceptre from his fist, : None
+2.1 :Were he as famous and as bold in war : None
+2.1 :As he is famed for mildness, peace, and prayer. : None
+RICHARD
+2.1 :I know it well, Lord Warwick; blame me not: : None
+2.1 :'Tis love I bear thy glories makes me speak. : None
+2.1 :But in this troublous time what's to be done? : None
+2.1 :Shall we go throw away our coats of steel, : None
+2.1 :And wrap our bodies in black mourning gowns, : None
+2.1 :Numbering our Ave-Maries with our beads? : None
+2.1 :Or shall we on the helmets of our foes : None
+2.1 :Tell our devotion with revengeful arms? : None
+2.1 :If for the last, say ay, and to it, lords. : None
+WARWICK
+2.1 :Why, therefore Warwick came to seek you out; : None
+2.1 :And therefore comes my brother Montague. : None
+2.1 :Attend me, lords. The proud insulting queen, : None
+2.1 :With Clifford and the haught Northumberland, : None
+2.1 :And of their feather many more proud birds, : None
+2.1 :Have wrought the easy-melting king like wax. : None
+2.1 :He swore consent to your succession, : None
+2.1 :His oath enrolled in the parliament; : None
+2.1 :And now to London all the crew are gone, : None
+2.1 :To frustrate both his oath and what beside : None
+2.1 :May make against the house of Lancaster. : None
+2.1 :Their power, I think, is thirty thousand strong: : None
+2.1 :Now, if the help of Norfolk and myself, : None
+2.1 :With all the friends that thou, brave Earl of March, : None
+2.1 :Amongst the loving Welshmen canst procure, : None
+2.1 :Will but amount to five and twenty thousand, : None
+2.1 :Why, Via! to London will we march amain, : None
+2.1 :And once again bestride our foaming steeds, : None
+2.1 :And once again cry 'Charge upon our foes!' : None
+2.1 :But never once again turn back and fly. : None
+RICHARD
+2.1 :Ay, now methinks I hear great Warwick speak: : None
+2.1 :Ne'er may he live to see a sunshine day, : None
+2.1 :That cries 'Retire,' if Warwick bid him stay. : None
+EDWARD
+2.1 :Lord Warwick, on thy shoulder will I lean; : None
+2.1 :And when thou fail'st--as God forbid the hour!-- : None
+2.1 :Must Edward fall, which peril heaven forfend! : None
+WARWICK
+2.1 :No longer Earl of March, but Duke of York: : None
+2.1 :The next degree is England's royal throne; : None
+2.1 :For King of England shalt thou be proclaim'd : None
+2.1 :In every borough as we pass along; : None
+2.1 :And he that throws not up his cap for joy : None
+2.1 :Shall for the fault make forfeit of his head. : None
+2.1 :King Edward, valiant Richard, Montague, : None
+2.1 :Stay we no longer, dreaming of renown, : None
+2.1 :But sound the trumpets, and about our task. : None
+RICHARD
+2.1 :Then, Clifford, were thy heart as hard as steel, : None
+2.1 :As thou hast shown it flinty by thy deeds, : None
+2.1 :I come to pierce it, or to give thee mine. : None
+EDWARD
+2.1 :Then strike up drums: God and Saint George for us! : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : EDWARD
+WARWICK
+2.1 :How now! what news? : None
+MESSENGER
+2.1 :The Duke of Norfolk sends you word by me, : None
+2.1 :The queen is coming with a puissant host; : None
+2.1 :And craves your company for speedy counsel. : None
+WARWICK
+2.1 :Why then it sorts, brave warriors, let's away. : None
+Exeunt : ['Exeunt - []'] : WARWICK
+Scene(scene=2)
+Flourish. Enter KING HENRY VI, QUEEN MARGARET,  PRINCE EDWARD, CLIFFORD, and NORTHUMBERLAND, with drum and trumpets : ['None - []', "Enter - ['KING HENRY VI', 'QUEEN MARGARET', 'PRINCE EDWARD', 'CLIFFORD', 'NORTHUMBERLAND']"] : WARWICK
+QUEEN MARGARET
+2.2 :Welcome, my lord, to this brave town of York. : None
+2.2 :Yonder's the head of that arch-enemy : None
+2.2 :That sought to be encompass'd with your crown: : None
+2.2 :Doth not the object cheer your heart, my lord? : None
+KING HENRY VI
+2.2 :Ay, as the rocks cheer them that fear their wreck: : None
+2.2 :To see this sight, it irks my very soul. : None
+2.2 :Withhold revenge, dear God! 'tis not my fault, : None
+2.2 :Nor wittingly have I infringed my vow. : None
+CLIFFORD
+2.2 :My gracious liege, this too much lenity : None
+2.2 :And harmful pity must be laid aside. : None
+2.2 :To whom do lions cast their gentle looks? : None
+2.2 :Not to the beast that would usurp their den. : None
+2.2 :Whose hand is that the forest bear doth lick? : None
+2.2 :Not his that spoils her young before her face. : None
+2.2 :Who 'scapes the lurking serpent's mortal sting? : None
+2.2 :Not he that sets his foot upon her back. : None
+2.2 :The smallest worm will turn being trodden on, : None
+2.2 :And doves will peck in safeguard of their brood. : None
+2.2 :Ambitious York doth level at thy crown, : None
+2.2 :Thou smiling while he knit his angry brows: : None
+2.2 :He, but a duke, would have his son a king, : None
+2.2 :And raise his issue, like a loving sire; : None
+2.2 :Thou, being a king, blest with a goodly son, : None
+2.2 :Didst yield consent to disinherit him, : None
+2.2 :Which argued thee a most unloving father. : None
+2.2 :Unreasonable creatures feed their young; : None
+2.2 :And though man's face be fearful to their eyes, : None
+2.2 :Yet, in protection of their tender ones, : None
+2.2 :Who hath not seen them, even with those wings : None
+2.2 :Which sometime they have used with fearful flight, : None
+2.2 :Make war with him that climb'd unto their nest, : None
+2.2 :Offer their own lives in their young's defence? : None
+2.2 :For shame, my liege, make them your precedent! : None
+2.2 :Were it not pity that this goodly boy : None
+2.2 :Should lose his birthright by his father's fault, : None
+2.2 :And long hereafter say unto his child, : None
+2.2 :'What my great-grandfather and his grandsire got : None
+2.2 :My careless father fondly gave away'? : None
+2.2 :Ah, what a shame were this! Look on the boy; : None
+2.2 :And let his manly face, which promiseth : None
+2.2 :Successful fortune, steel thy melting heart : None
+2.2 :To hold thine own and leave thine own with him. : None
+KING HENRY VI
+2.2 :Full well hath Clifford play'd the orator, : None
+2.2 :Inferring arguments of mighty force. : None
+2.2 :But, Clifford, tell me, didst thou never hear : None
+2.2 :That things ill-got had ever bad success? : None
+2.2 :And happy always was it for that son : None
+2.2 :Whose father for his hoarding went to hell? : None
+2.2 :I'll leave my son my virtuous deeds behind; : None
+2.2 :And would my father had left me no more! : None
+2.2 :For all the rest is held at such a rate : None
+2.2 :As brings a thousand-fold more care to keep : None
+2.2 :Than in possession and jot of pleasure. : None
+2.2 :Ah, cousin York! would thy best friends did know : None
+2.2 :How it doth grieve me that thy head is here! : None
+QUEEN MARGARET
+2.2 :My lord, cheer up your spirits: our foes are nigh, : None
+2.2 :And this soft courage makes your followers faint. : None
+2.2 :You promised knighthood to our forward son: : None
+2.2 :Unsheathe your sword, and dub him presently. : None
+2.2 :Edward, kneel down. : None
+KING HENRY VI
+2.2 :Edward Plantagenet, arise a knight; : None
+2.2 :And learn this lesson, draw thy sword in right. : None
+PRINCE
+2.2 :My gracious father, by your kingly leave, : None
+2.2 :I'll draw it as apparent to the crown, : None
+2.2 :And in that quarrel use it to the death. : None
+CLIFFORD
+2.2 :Why, that is spoken like a toward prince. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : CLIFFORD
+MESSENGER
+2.2 :Royal commanders, be in readiness: : None
+2.2 :For with a band of thirty thousand men : None
+2.2 :Comes Warwick, backing of the Duke of York; : None
+2.2 :And in the towns, as they do march along, : None
+2.2 :Proclaims him king, and many fly to him: : None
+2.2 :Darraign your battle, for they are at hand. : None
+CLIFFORD
+2.2 :I would your highness would depart the field: : None
+2.2 :The queen hath best success when you are absent. : None
+QUEEN MARGARET
+2.2 :Ay, good my lord, and leave us to our fortune. : None
+KING HENRY VI
+2.2 :Why, that's my fortune too; therefore I'll stay. : None
+NORTHUMBERLAND
+2.2 :Be it with resolution then to fight. : None
+PRINCE EDWARD
+2.2 :My royal father, cheer these noble lords : None
+2.2 :And hearten those that fight in your defence: : None
+2.2 :Unsheathe your sword, good father; cry 'Saint George!' : None
+March. Enter EDWARD, GEORGE, RICHARD, WARWICK, NORFOLK, MONTAGUE, and Soldiers : ['None - []', "Enter - ['EDWARD', 'GEORGE', 'RICHARD', 'WARWICK', 'NORFOLK', 'MONTAGUE', 'SOLDIER']"] : PRINCE EDWARD
+EDWARD
+2.2 :Now, perjured Henry! wilt thou kneel for grace, : None
+2.2 :And set thy diadem upon my head; : None
+2.2 :Or bide the mortal fortune of the field? : None
+QUEEN MARGARET
+2.2 :Go, rate thy minions, proud insulting boy! : None
+2.2 :Becomes it thee to be thus bold in terms : None
+2.2 :Before thy sovereign and thy lawful king? : None
+EDWARD
+2.2 :I am his king, and he should bow his knee; : None
+2.2 :I was adopted heir by his consent: : None
+2.2 :Since when, his oath is broke; for, as I hear, : None
+2.2 :You, that are king, though he do wear the crown, : None
+2.2 :Have caused him, by new act of parliament, : None
+2.2 :To blot out me, and put his own son in. : None
+CLIFFORD
+2.2 :And reason too: : None
+2.2 :Who should succeed the father but the son? : None
+RICHARD
+2.2 :Are you there, butcher? O, I cannot speak! : None
+CLIFFORD
+2.2 :Ay, crook-back, here I stand to answer thee, : None
+2.2 :Or any he the proudest of thy sort. : None
+RICHARD
+2.2 :'Twas you that kill'd young Rutland, was it not? : None
+CLIFFORD
+2.2 :Ay, and old York, and yet not satisfied. : None
+RICHARD
+2.2 :For God's sake, lords, give signal to the fight. : None
+WARWICK
+2.2 :What say'st thou, Henry, wilt thou yield the crown? : None
+QUEEN MARGARET
+2.2 :Why, how now, long-tongued Warwick! dare you speak? : None
+2.2 :When you and I met at Saint Alban's last, : None
+2.2 :Your legs did better service than your hands. : None
+WARWICK
+2.2 :Then 'twas my turn to fly, and now 'tis thine. : None
+CLIFFORD
+2.2 :You said so much before, and yet you fled. : None
+WARWICK
+2.2 :'Twas not your valour, Clifford, drove me thence. : None
+NORTHUMBERLAND
+2.2 :No, nor your manhood that durst make you stay. : None
+RICHARD
+2.2 :Northumberland, I hold thee reverently. : None
+2.2 :Break off the parley; for scarce I can refrain : None
+2.2 :The execution of my big-swoln heart : None
+2.2 :Upon that Clifford, that cruel child-killer. : None
+CLIFFORD
+2.2 :I slew thy father, call'st thou him a child? : None
+RICHARD
+2.2 :Ay, like a dastard and a treacherous coward, : None
+2.2 :As thou didst kill our tender brother Rutland; : None
+2.2 :But ere sunset I'll make thee curse the deed. : None
+KING HENRY VI
+2.2 :Have done with words, my lords, and hear me speak. : None
+QUEEN MARGARET
+2.2 :Defy them then, or else hold close thy lips. : None
+KING HENRY VI
+2.2 :I prithee, give no limits to my tongue: : None
+2.2 :I am a king, and privileged to speak. : None
+CLIFFORD
+2.2 :My liege, the wound that bred this meeting here : None
+2.2 :Cannot be cured by words; therefore be still. : None
+RICHARD
+2.2 :Then, executioner, unsheathe thy sword: : None
+2.2 :By him that made us all, I am resolved : None
+2.2 :that Clifford's manhood lies upon his tongue. : None
+EDWARD
+2.2 :Say, Henry, shall I have my right, or no? : None
+2.2 :A thousand men have broke their fasts to-day, : None
+2.2 :That ne'er shall dine unless thou yield the crown. : None
+WARWICK
+2.2 :If thou deny, their blood upon thy head; : None
+2.2 :For York in justice puts his armour on. : None
+PRINCE EDWARD
+2.2 :If that be right which Warwick says is right, : None
+2.2 :There is no wrong, but every thing is right. : None
+RICHARD
+2.2 :Whoever got thee, there thy mother stands; : None
+2.2 :For, well I wot, thou hast thy mother's tongue. : None
+QUEEN MARGARET
+2.2 :But thou art neither like thy sire nor dam; : None
+2.2 :But like a foul mis-shapen stigmatic, : None
+2.2 :Mark'd by the destinies to be avoided, : None
+2.2 :As venom toads, or lizards' dreadful stings. : None
+RICHARD
+2.2 :Iron of Naples hid with English gilt, : None
+2.2 :Whose father bears the title of a king,-- : None
+2.2 :As if a channel should be call'd the sea,-- : None
+2.2 :Shamest thou not, knowing whence thou art extraught, : None
+2.2 :To let thy tongue detect thy base-born heart? : None
+EDWARD
+2.2 :A wisp of straw were worth a thousand crowns, : None
+2.2 :To make this shameless callet know herself. : None
+2.2 :Helen of Greece was fairer far than thou, : None
+2.2 :Although thy husband may be Menelaus; : None
+2.2 :And ne'er was Agamemnon's brother wrong'd : None
+2.2 :By that false woman, as this king by thee. : None
+2.2 :His father revell'd in the heart of France, : None
+2.2 :And tamed the king, and made the dauphin stoop; : None
+2.2 :And had he match'd according to his state, : None
+2.2 :He might have kept that glory to this day; : None
+2.2 :But when he took a beggar to his bed, : None
+2.2 :And graced thy poor sire with his bridal-day, : None
+2.2 :Even then that sunshine brew'd a shower for him, : None
+2.2 :That wash'd his father's fortunes forth of France, : None
+2.2 :And heap'd sedition on his crown at home. : None
+2.2 :For what hath broach'd this tumult but thy pride? : None
+2.2 :Hadst thou been meek, our title still had slept; : None
+2.2 :And we, in pity of the gentle king, : None
+2.2 :Had slipp'd our claim until another age. : None
+GEORGE
+2.2 :But when we saw our sunshine made thy spring, : None
+2.2 :And that thy summer bred us no increase, : None
+2.2 :We set the axe to thy usurping root; : None
+2.2 :And though the edge hath something hit ourselves, : None
+2.2 :Yet, know thou, since we have begun to strike, : None
+2.2 :We'll never leave till we have hewn thee down, : None
+2.2 :Or bathed thy growing with our heated bloods. : None
+EDWARD
+2.2 :And, in this resolution, I defy thee; : None
+2.2 :Not willing any longer conference, : None
+2.2 :Since thou deniest the gentle king to speak. : None
+2.2 :Sound trumpets! let our bloody colours wave! : None
+2.2 :And either victory, or else a grave. : None
+QUEEN MARGARET
+2.2 :Stay, Edward. : None
+EDWARD
+2.2 :No, wrangling woman, we'll no longer stay: : None
+2.2 :These words will cost ten thousand lives this day. : None
+Exeunt : ['Exeunt - []'] : EDWARD
+Scene(scene=3)
+2.3 :Yorkshire. : None
+Alarum. Excursions. Enter WARWICK : ['None - []', 'None - []', "Enter - ['WARWICK']"] : EDWARD
+WARWICK
+2.3 :Forspent with toil, as runners with a race, : None
+2.3 :I lay me down a little while to breathe; : None
+2.3 :For strokes received, and many blows repaid, : None
+2.3 :Have robb'd my strong-knit sinews of their strength, : None
+2.3 :And spite of spite needs must I rest awhile. : None
+Enter EDWARD, running : ["Enter - ['EDWARD']"] : WARWICK
+EDWARD
+2.3 :Smile, gentle heaven! or strike, ungentle death! : None
+2.3 :For this world frowns, and Edward's sun is clouded. : None
+WARWICK
+2.3 :How now, my lord! what hap? what hope of good? : None
+Enter GEORGE : ["Enter - ['GEORGE']"] : WARWICK
+GEORGE
+2.3 :Our hap is loss, our hope but sad despair; : None
+2.3 :Our ranks are broke, and ruin follows us: : None
+2.3 :What counsel give you? whither shall we fly? : None
+EDWARD
+2.3 :Bootless is flight, they follow us with wings; : None
+2.3 :And weak we are and cannot shun pursuit. : None
+Enter RICHARD : ["Enter - ['RICHARD']"] : EDWARD
+RICHARD
+2.3 :Ah, Warwick, why hast thou withdrawn thyself? : None
+2.3 :Thy brother's blood the thirsty earth hath drunk, : None
+2.3 :Broach'd with the steely point of Clifford's lance; : None
+2.3 :And in the very pangs of death he cried, : None
+2.3 :Like to a dismal clangour heard from far, : None
+2.3 :'Warwick, revenge! brother, revenge my death!' : None
+2.3 :So, underneath the belly of their steeds, : None
+2.3 :That stain'd their fetlocks in his smoking blood, : None
+2.3 :The noble gentleman gave up the ghost. : None
+WARWICK
+2.3 :Then let the earth be drunken with our blood: : None
+2.3 :I'll kill my horse, because I will not fly. : None
+2.3 :Why stand we like soft-hearted women here, : None
+2.3 :Wailing our losses, whiles the foe doth rage; : None
+2.3 :And look upon, as if the tragedy : None
+2.3 :Were play'd in jest by counterfeiting actors? : None
+2.3 :Here on my knee I vow to God above, : None
+2.3 :I'll never pause again, never stand still, : None
+2.3 :Till either death hath closed these eyes of mine : None
+2.3 :Or fortune given me measure of revenge. : None
+EDWARD
+2.3 :O Warwick, I do bend my knee with thine; : None
+2.3 :And in this vow do chain my soul to thine! : None
+2.3 :And, ere my knee rise from the earth's cold face, : None
+2.3 :I throw my hands, mine eyes, my heart to thee, : None
+2.3 :Thou setter up and plucker down of kings, : None
+2.3 :Beseeching thee, if with they will it stands : None
+2.3 :That to my foes this body must be prey, : None
+2.3 :Yet that thy brazen gates of heaven may ope, : None
+2.3 :And give sweet passage to my sinful soul! : None
+2.3 :Now, lords, take leave until we meet again, : None
+2.3 :Where'er it be, in heaven or in earth. : None
+RICHARD
+2.3 :Brother, give me thy hand; and, gentle Warwick, : None
+2.3 :Let me embrace thee in my weary arms: : None
+2.3 :I, that did never weep, now melt with woe : None
+2.3 :That winter should cut off our spring-time so. : None
+WARWICK
+2.3 :Away, away! Once more, sweet lords farewell. : None
+GEORGE
+2.3 :Yet let us all together to our troops, : None
+2.3 :And give them leave to fly that will not stay; : None
+2.3 :And call them pillars that will stand to us; : None
+2.3 :And, if we thrive, promise them such rewards : None
+2.3 :As victors wear at the Olympian games: : None
+2.3 :This may plant courage in their quailing breasts; : None
+2.3 :For yet is hope of life and victory. : None
+2.3 :Forslow no longer, make we hence amain. : None
+Exeunt : ['Exeunt - []'] : GEORGE
+Scene(scene=4)
+Excursions. Enter RICHARD and CLIFFORD : ['None - []', "Enter - ['RICHARD', 'CLIFFORD']"] : GEORGE
+RICHARD
+2.4 :Now, Clifford, I have singled thee alone: : None
+2.4 :Suppose this arm is for the Duke of York, : None
+2.4 :And this for Rutland; both bound to revenge, : None
+2.4 :Wert thou environ'd with a brazen wall. : None
+CLIFFORD
+2.4 :Now, Richard, I am with thee here alone: : None
+2.4 :This is the hand that stabb'd thy father York; : None
+2.4 :And this the hand that slew thy brother Rutland; : None
+2.4 :And here's the heart that triumphs in their death : None
+2.4 :And cheers these hands that slew thy sire and brother : None
+2.4 :To execute the like upon thyself; : None
+2.4 :And so, have at thee! : None
+They fight. WARWICK comes; CLIFFORD flies : ['None - []', "None - ['WARWICK', 'CLIFFORD']"] : CLIFFORD
+RICHARD
+2.4 :Nay Warwick, single out some other chase; : None
+2.4 :For I myself will hunt this wolf to death. : None
+Exeunt : ['Exeunt - []'] : RICHARD
+Scene(scene=5)
+Alarum. Enter KING HENRY VI alone : ['None - []', "Enter - ['KING HENRY VI']"] : RICHARD
+KING HENRY VI
+2.5 :This battle fares like to the morning's war, : None
+2.5 :When dying clouds contend with growing light, : None
+2.5 :What time the shepherd, blowing of his nails, : None
+2.5 :Can neither call it perfect day nor night. : None
+2.5 :Now sways it this way, like a mighty sea : None
+2.5 :Forced by the tide to combat with the wind; : None
+2.5 :Now sways it that way, like the selfsame sea : None
+2.5 :Forced to retire by fury of the wind: : None
+2.5 :Sometime the flood prevails, and then the wind; : None
+2.5 :Now one the better, then another best; : None
+2.5 :Both tugging to be victors, breast to breast, : None
+2.5 :Yet neither conqueror nor conquered: : None
+2.5 :So is the equal of this fell war. : None
+2.5 :Here on this molehill will I sit me down. : None
+2.5 :To whom God will, there be the victory! : None
+2.5 :For Margaret my queen, and Clifford too, : None
+2.5 :Have chid me from the battle; swearing both : None
+2.5 :They prosper best of all when I am thence. : None
+2.5 :Would I were dead! if God's good will were so; : None
+2.5 :For what is in this world but grief and woe? : None
+2.5 :O God! methinks it were a happy life, : None
+2.5 :To be no better than a homely swain; : None
+2.5 :To sit upon a hill, as I do now, : None
+2.5 :To carve out dials quaintly, point by point, : None
+2.5 :Thereby to see the minutes how they run, : None
+2.5 :How many make the hour full complete; : None
+2.5 :How many hours bring about the day; : None
+2.5 :How many days will finish up the year; : None
+2.5 :How many years a mortal man may live. : None
+2.5 :When this is known, then to divide the times: : None
+2.5 :So many hours must I tend my flock; : None
+2.5 :So many hours must I take my rest; : None
+2.5 :So many hours must I contemplate; : None
+2.5 :So many hours must I sport myself; : None
+2.5 :So many days my ewes have been with young; : None
+2.5 :So many weeks ere the poor fools will ean: : None
+2.5 :So many years ere I shall shear the fleece: : None
+2.5 :So minutes, hours, days, months, and years, : None
+2.5 :Pass'd over to the end they were created, : None
+2.5 :Would bring white hairs unto a quiet grave. : None
+2.5 :Ah, what a life were this! how sweet! how lovely! : None
+2.5 :Gives not the hawthorn-bush a sweeter shade : None
+2.5 :To shepherds looking on their silly sheep, : None
+2.5 :Than doth a rich embroider'd canopy : None
+2.5 :To kings that fear their subjects' treachery? : None
+2.5 :O, yes, it doth; a thousand-fold it doth. : None
+2.5 :And to conclude, the shepherd's homely curds, : None
+2.5 :His cold thin drink out of his leather bottle. : None
+2.5 :His wonted sleep under a fresh tree's shade, : None
+2.5 :All which secure and sweetly he enjoys, : None
+2.5 :Is far beyond a prince's delicates, : None
+2.5 :His viands sparkling in a golden cup, : None
+2.5 :His body couched in a curious bed, : None
+2.5 :When care, mistrust, and treason waits on him. : None
+Alarum. Enter a Son that has killed his father, dragging in the dead body : ['None - []', "Enter - ['SON', 'FATHER']"] : KING HENRY VI
+SON
+2.5 :Ill blows the wind that profits nobody. : None
+2.5 :This man, whom hand to hand I slew in fight, : None
+2.5 :May be possessed with some store of crowns; : None
+2.5 :And I, that haply take them from him now, : None
+2.5 :May yet ere night yield both my life and them : None
+2.5 :To some man else, as this dead man doth me. : None
+2.5 :Who's this? O God! it is my father's face, : None
+2.5 :Whom in this conflict I unwares have kill'd. : None
+2.5 :O heavy times, begetting such events! : None
+2.5 :From London by the king was I press'd forth; : None
+2.5 :My father, being the Earl of Warwick's man, : None
+2.5 :Came on the part of York, press'd by his master; : None
+2.5 :And I, who at his hands received my life, him : None
+2.5 :Have by my hands of life bereaved him. : None
+2.5 :Pardon me, God, I knew not what I did! : None
+2.5 :And pardon, father, for I knew not thee! : None
+2.5 :My tears shall wipe away these bloody marks; : None
+2.5 :And no more words till they have flow'd their fill. : None
+KING HENRY VI
+2.5 :O piteous spectacle! O bloody times! : None
+2.5 :Whiles lions war and battle for their dens, : None
+2.5 :Poor harmless lambs abide their enmity. : None
+2.5 :Weep, wretched man, I'll aid thee tear for tear; : None
+2.5 :And let our hearts and eyes, like civil war, : None
+2.5 :Be blind with tears, and break o'ercharged with grief. : None
+Enter a Father that has killed his son, bringing in the body : ["Enter - ['FATHER', 'SON']"] : KING HENRY VI
+FATHER
+2.5 :Thou that so stoutly hast resisted me, : None
+2.5 :Give me thy gold, if thou hast any gold: : None
+2.5 :For I have bought it with an hundred blows. : None
+2.5 :But let me see: is this our foeman's face? : None
+2.5 :Ah, no, no, no, it is mine only son! : None
+2.5 :Ah, boy, if any life be left in thee, : None
+2.5 :Throw up thine eye! see, see what showers arise, : None
+2.5 :Blown with the windy tempest of my heart, : None
+2.5 :Upon thy words, that kill mine eye and heart! : None
+2.5 :O, pity, God, this miserable age! : None
+2.5 :What stratagems, how fell, how butcherly, : None
+2.5 :Erroneous, mutinous and unnatural, : None
+2.5 :This deadly quarrel daily doth beget! : None
+2.5 :O boy, thy father gave thee life too soon, : None
+2.5 :And hath bereft thee of thy life too late! : None
+KING HENRY VI
+2.5 :Woe above woe! grief more than common grief! : None
+2.5 :O that my death would stay these ruthful deeds! : None
+2.5 :O pity, pity, gentle heaven, pity! : None
+2.5 :The red rose and the white are on his face, : None
+2.5 :The fatal colours of our striving houses: : None
+2.5 :The one his purple blood right well resembles; : None
+2.5 :The other his pale cheeks, methinks, presenteth: : None
+2.5 :Wither one rose, and let the other flourish; : None
+2.5 :If you contend, a thousand lives must wither. : None
+SON
+2.5 :How will my mother for a father's death : None
+2.5 :Take on with me and ne'er be satisfied! : None
+FATHER
+2.5 :How will my wife for slaughter of my son : None
+2.5 :Shed seas of tears and ne'er be satisfied! : None
+KING HENRY VI
+2.5 :How will the country for these woful chances : None
+2.5 :Misthink the king and not be satisfied! : None
+SON
+2.5 :Was ever son so rued a father's death? : None
+FATHER
+2.5 :Was ever father so bemoan'd his son? : None
+KING HENRY VI
+2.5 :Was ever king so grieved for subjects' woe? : None
+2.5 :Much is your sorrow; mine ten times so much. : None
+SON
+2.5 :I'll bear thee hence, where I may weep my fill. : None
+Exit with the body : ['Exit - []'] : SON
+FATHER
+2.5 :These arms of mine shall be thy winding-sheet; : None
+2.5 :My heart, sweet boy, shall be thy sepulchre, : None
+2.5 :For from my heart thine image ne'er shall go; : None
+2.5 :My sighing breast shall be thy funeral bell; : None
+2.5 :And so obsequious will thy father be, : None
+2.5 :Even for the loss of thee, having no more, : None
+2.5 :As Priam was for all his valiant sons. : None
+2.5 :I'll bear thee hence; and let them fight that will, : None
+2.5 :For I have murdered where I should not kill. : None
+Exit with the body : ['Exit - []'] : FATHER
+KING HENRY VI
+2.5 :Sad-hearted men, much overgone with care, : None
+2.5 :Here sits a king more woful than you are. : None
+Alarums: excursions. Enter QUEEN MARGARET, PRINCE EDWARD, and EXETER : ['None - []', "Enter - ['QUEEN MARGARET', 'PRINCE EDWARD', 'EXETER']"] : KING HENRY VI
+PRINCE EDWARD
+2.5 :Fly, father, fly! for all your friends are fled, : None
+2.5 :And Warwick rages like a chafed bull: : None
+2.5 :Away! for death doth hold us in pursuit. : None
+QUEEN MARGARET
+2.5 :Mount you, my lord; towards Berwick post amain: : None
+2.5 :Edward and Richard, like a brace of greyhounds : None
+2.5 :Having the fearful flying hare in sight, : None
+2.5 :With fiery eyes sparkling for very wrath, : None
+2.5 :And bloody steel grasp'd in their ireful hands, : None
+2.5 :Are at our backs; and therefore hence amain. : None
+EXETER
+2.5 :Away! for vengeance comes along with them: : None
+2.5 :Nay, stay not to expostulate, make speed; : None
+2.5 :Or else come after: I'll away before. : None
+KING HENRY VI
+2.5 :Nay, take me with thee, good sweet Exeter: : None
+2.5 :Not that I fear to stay, but love to go : None
+2.5 :Whither the queen intends. Forward; away! : None
+Exeunt : ['Exeunt - []'] : KING HENRY VI
+Scene(scene=6)
+A loud alarum. Enter CLIFFORD, wounded : ['None - []', "Enter - ['CLIFFORD']"] : KING HENRY VI
+CLIFFORD
+2.6 :Here burns my candle out; ay, here it dies, : None
+2.6 :Which, whiles it lasted, gave King Henry light. : None
+2.6 :O Lancaster, I fear thy overthrow : None
+2.6 :More than my body's parting with my soul! : None
+2.6 :My love and fear glued many friends to thee; : None
+2.6 :And, now I fall, thy tough commixture melts. : None
+2.6 :Impairing Henry, strengthening misproud York, : None
+2.6 :The common people swarm like summer flies; : None
+2.6 :And whither fly the gnats but to the sun? : None
+2.6 :And who shines now but Henry's enemies? : None
+2.6 :O Phoebus, hadst thou never given consent : None
+2.6 :That Phaethon should cheque thy fiery steeds, : None
+2.6 :Thy burning car never had scorch'd the earth! : None
+2.6 :And, Henry, hadst thou sway'd as kings should do, : None
+2.6 :Or as thy father and his father did, : None
+2.6 :Giving no ground unto the house of York, : None
+2.6 :They never then had sprung like summer flies; : None
+2.6 :I and ten thousand in this luckless realm : None
+2.6 :Had left no mourning widows for our death; : None
+2.6 :And thou this day hadst kept thy chair in peace. : None
+2.6 :For what doth cherish weeds but gentle air? : None
+2.6 :And what makes robbers bold but too much lenity? : None
+2.6 :Bootless are plaints, and cureless are my wounds; : None
+2.6 :No way to fly, nor strength to hold out flight: : None
+2.6 :The foe is merciless, and will not pity; : None
+2.6 :For at their hands I have deserved no pity. : None
+2.6 :The air hath got into my deadly wounds, : None
+2.6 :And much effuse of blood doth make me faint. : None
+2.6 :Come, York and Richard, Warwick and the rest; : None
+2.6 :I stabb'd your fathers' bosoms, split my breast. : None
+He faints : ['None - []'] : CLIFFORD
+Alarum and retreat. Enter EDWARD, GEORGE, RICHARD, MONTAGUE, WARWICK, and Soldiers : ['None - []', "Enter - ['EDWARD', 'GEORGE', 'RICHARD', 'MONTAGUE', 'WARWICK', 'SOLDIER']"] : CLIFFORD
+EDWARD
+2.6 :Now breathe we, lords: good fortune bids us pause, : None
+2.6 :And smooth the frowns of war with peaceful looks. : None
+2.6 :Some troops pursue the bloody-minded queen, : None
+2.6 :That led calm Henry, though he were a king, : None
+2.6 :As doth a sail, fill'd with a fretting gust, : None
+2.6 :Command an argosy to stem the waves. : None
+2.6 :But think you, lords, that Clifford fled with them? : None
+WARWICK
+2.6 :No, 'tis impossible he should escape, : None
+2.6 :For, though before his face I speak the words : None
+2.6 :Your brother Richard mark'd him for the grave: : None
+2.6 :And wheresoe'er he is, he's surely dead. : None
+CLIFFORD groans, and dies : ["None - ['CLIFFORD']"] : WARWICK
+EDWARD
+2.6 :Whose soul is that which takes her heavy leave? : None
+RICHARD
+2.6 :A deadly groan, like life and death's departing. : None
+EDWARD
+2.6 :See who it is: and, now the battle's ended, : None
+2.6 :If friend or foe, let him be gently used. : None
+RICHARD
+2.6 :Revoke that doom of mercy, for 'tis Clifford; : None
+2.6 :Who not contented that he lopp'd the branch : None
+2.6 :In hewing Rutland when his leaves put forth, : None
+2.6 :But set his murdering knife unto the root : None
+2.6 :From whence that tender spray did sweetly spring, : None
+2.6 :I mean our princely father, Duke of York. : None
+WARWICK
+2.6 :From off the gates of York fetch down the head, : None
+2.6 :Your father's head, which Clifford placed there; : None
+2.6 :Instead whereof let this supply the room: : None
+2.6 :Measure for measure must be answered. : None
+EDWARD
+2.6 :Bring forth that fatal screech-owl to our house, : None
+2.6 :That nothing sung but death to us and ours: : None
+2.6 :Now death shall stop his dismal threatening sound, : None
+2.6 :And his ill-boding tongue no more shall speak. : None
+WARWICK
+2.6 :I think his understanding is bereft. : None
+2.6 :Speak, Clifford, dost thou know who speaks to thee? : None
+2.6 :Dark cloudy death o'ershades his beams of life, : None
+2.6 :And he nor sees nor hears us what we say. : None
+RICHARD
+2.6 :O, would he did! and so perhaps he doth: : None
+2.6 :'Tis but his policy to counterfeit, : None
+2.6 :Because he would avoid such bitter taunts : None
+2.6 :Which in the time of death he gave our father. : None
+GEORGE
+2.6 :If so thou think'st, vex him with eager words. : None
+RICHARD
+2.6 :Clifford, ask mercy and obtain no grace. : None
+EDWARD
+2.6 :Clifford, repent in bootless penitence. : None
+WARWICK
+2.6 :Clifford, devise excuses for thy faults. : None
+GEORGE
+2.6 :While we devise fell tortures for thy faults. : None
+RICHARD
+2.6 :Thou didst love York, and I am son to York. : None
+EDWARD
+2.6 :Thou pitied'st Rutland; I will pity thee. : None
+GEORGE
+2.6 :Where's Captain Margaret, to fence you now? : None
+WARWICK
+2.6 :They mock thee, Clifford: swear as thou wast wont. : None
+RICHARD
+2.6 :What, not an oath? nay, then the world goes hard : None
+2.6 :When Clifford cannot spare his friends an oath. : None
+2.6 :I know by that he's dead; and, by my soul, : None
+2.6 :If this right hand would buy two hour's life, : None
+2.6 :That I in all despite might rail at him, : None
+2.6 :This hand should chop it off, and with the : None
+2.6 :issuing blood : None
+2.6 :Stifle the villain whose unstanched thirst : None
+2.6 :York and young Rutland could not satisfy. : None
+WARWICK
+2.6 :Ay, but he's dead: off with the traitor's head, : None
+2.6 :And rear it in the place your father's stands. : None
+2.6 :And now to London with triumphant march, : None
+2.6 :There to be crowned England's royal king: : None
+2.6 :From whence shall Warwick cut the sea to France, : None
+2.6 :And ask the Lady Bona for thy queen: : None
+2.6 :So shalt thou sinew both these lands together; : None
+2.6 :And, having France thy friend, thou shalt not dread : None
+2.6 :The scatter'd foe that hopes to rise again; : None
+2.6 :For though they cannot greatly sting to hurt, : None
+2.6 :Yet look to have them buzz to offend thine ears. : None
+2.6 :First will I see the coronation; : None
+2.6 :And then to Brittany I'll cross the sea, : None
+2.6 :To effect this marriage, so it please my lord. : None
+EDWARD
+2.6 :Even as thou wilt, sweet Warwick, let it be; : None
+2.6 :For in thy shoulder do I build my seat, : None
+2.6 :And never will I undertake the thing : None
+2.6 :Wherein thy counsel and consent is wanting. : None
+2.6 :Richard, I will create thee Duke of Gloucester, : None
+2.6 :And George, of Clarence: Warwick, as ourself, : None
+2.6 :Shall do and undo as him pleaseth best. : None
+RICHARD
+2.6 :Let me be Duke of Clarence, George of Gloucester; : None
+2.6 :For Gloucester's dukedom is too ominous. : None
+WARWICK
+2.6 :Tut, that's a foolish observation: : None
+2.6 :Richard, be Duke of Gloucester. Now to London, : None
+2.6 :To see these honours in possession. : None
+Exeunt : ['Exeunt - []'] : WARWICK
+Act(act=3)
+Scene(scene=1)
+Enter two Keepers, with cross-bows in their hands : ['Enter - []'] : WARWICK
+FIRST KEEPER
+3.1 :Under this thick-grown brake we'll shroud ourselves; : None
+3.1 :For through this laund anon the deer will come; : None
+3.1 :And in this covert will we make our stand, : None
+3.1 :Culling the principal of all the deer. : None
+SECOND KEEPER
+3.1 :I'll stay above the hill, so both may shoot. : None
+FIRST KEEPER
+3.1 :That cannot be; the noise of thy cross-bow : None
+3.1 :Will scare the herd, and so my shoot is lost. : None
+3.1 :Here stand we both, and aim we at the best: : None
+3.1 :And, for the time shall not seem tedious, : None
+3.1 :I'll tell thee what befell me on a day : None
+3.1 :In this self-place where now we mean to stand. : None
+SECOND KEEPER
+3.1 :Here comes a man; let's stay till he be past. : None
+Enter KING HENRY VI, disguised, with a prayerbook : ["Enter - ['KING HENRY VI']"] : SECOND KEEPER
+KING HENRY VI
+3.1 :From Scotland am I stol'n, even of pure love, : None
+3.1 :To greet mine own land with my wishful sight. : None
+3.1 :No, Harry, Harry, 'tis no land of thine; : None
+3.1 :Thy place is fill'd, thy sceptre wrung from thee, : None
+3.1 :Thy balm wash'd off wherewith thou wast anointed: : None
+3.1 :No bending knee will call thee Caesar now, : None
+3.1 :No humble suitors press to speak for right, : None
+3.1 :No, not a man comes for redress of thee; : None
+3.1 :For how can I help them, and not myself? : None
+FIRST KEEPER
+3.1 :Ay, here's a deer whose skin's a keeper's fee: : None
+3.1 :This is the quondam king; let's seize upon him. : None
+KING HENRY VI
+3.1 :Let me embrace thee, sour adversity, : None
+3.1 :For wise men say it is the wisest course. : None
+SECOND KEEPER
+3.1 :Why linger we? let us lay hands upon him. : None
+FIRST KEEPER
+3.1 :Forbear awhile; we'll hear a little more. : None
+KING HENRY VI
+3.1 :My queen and son are gone to France for aid; : None
+3.1 :And, as I hear, the great commanding Warwick : None
+3.1 :Is thither gone, to crave the French king's sister : None
+3.1 :To wife for Edward: if this news be true, : None
+3.1 :Poor queen and son, your labour is but lost; : None
+3.1 :For Warwick is a subtle orator, : None
+3.1 :And Lewis a prince soon won with moving words. : None
+3.1 :By this account then Margaret may win him; : None
+3.1 :For she's a woman to be pitied much: : None
+3.1 :Her sighs will make a battery in his breast; : None
+3.1 :Her tears will pierce into a marble heart; : None
+3.1 :The tiger will be mild whiles she doth mourn; : None
+3.1 :And Nero will be tainted with remorse, : None
+3.1 :To hear and see her plaints, her brinish tears. : None
+3.1 :Ay, but she's come to beg, Warwick to give; : None
+3.1 :She, on his left side, craving aid for Henry, : None
+3.1 :He, on his right, asking a wife for Edward. : None
+3.1 :She weeps, and says her Henry is deposed; : None
+3.1 :He smiles, and says his Edward is install'd; : None
+3.1 :That she, poor wretch, for grief can speak no more; : None
+3.1 :Whiles Warwick tells his title, smooths the wrong, : None
+3.1 :Inferreth arguments of mighty strength, : None
+3.1 :And in conclusion wins the king from her, : None
+3.1 :With promise of his sister, and what else, : None
+3.1 :To strengthen and support King Edward's place. : None
+3.1 :O Margaret, thus 'twill be; and thou, poor soul, : None
+3.1 :Art then forsaken, as thou went'st forlorn! : None
+SECOND KEEPER
+3.1 :Say, what art thou that talk'st of kings and queens? : None
+KING HENRY VI
+3.1 :More than I seem, and less than I was born to: : None
+3.1 :A man at least, for less I should not be; : None
+3.1 :And men may talk of kings, and why not I? : None
+SECOND KEEPER
+3.1 :Ay, but thou talk'st as if thou wert a king. : None
+KING HENRY VI
+3.1 :Why, so I am, in mind; and that's enough. : None
+SECOND KEEPER
+3.1 :But, if thou be a king, where is thy crown? : None
+KING HENRY VI
+3.1 :My crown is in my heart, not on my head; : None
+3.1 :Not decked with diamonds and Indian stones, : None
+3.1 :Nor to be seen: my crown is called content: : None
+3.1 :A crown it is that seldom kings enjoy. : None
+SECOND KEEPER
+3.1 :Well, if you be a king crown'd with content, : None
+3.1 :Your crown content and you must be contented : None
+3.1 :To go along with us; for as we think, : None
+3.1 :You are the king King Edward hath deposed; : None
+3.1 :And we his subjects sworn in all allegiance : None
+3.1 :Will apprehend you as his enemy. : None
+KING HENRY VI
+3.1 :But did you never swear, and break an oath? : None
+SECOND KEEPER
+3.1 :No, never such an oath; nor will not now. : None
+KING HENRY VI
+3.1 :Where did you dwell when I was King of England? : None
+SECOND KEEPER
+3.1 :Here in this country, where we now remain. : None
+KING HENRY VI
+3.1 :I was anointed king at nine months old; : None
+3.1 :My father and my grandfather were kings, : None
+3.1 :And you were sworn true subjects unto me: : None
+3.1 :And tell me, then, have you not broke your oaths? : None
+FIRST KEEPER
+3.1 :No; : None
+3.1 :For we were subjects but while you were king. : None
+KING HENRY VI
+3.1 :Why, am I dead? do I not breathe a man? : None
+3.1 :Ah, simple men, you know not what you swear! : None
+3.1 :Look, as I blow this feather from my face, : None
+3.1 :And as the air blows it to me again, : None
+3.1 :Obeying with my wind when I do blow, : None
+3.1 :And yielding to another when it blows, : None
+3.1 :Commanded always by the greater gust; : None
+3.1 :Such is the lightness of you common men. : None
+3.1 :But do not break your oaths; for of that sin : None
+3.1 :My mild entreaty shall not make you guilty. : None
+3.1 :Go where you will, the king shall be commanded; : None
+3.1 :And be you kings, command, and I'll obey. : None
+FIRST KEEPER
+3.1 :We are true subjects to the king, King Edward. : None
+KING HENRY VI
+3.1 :So would you be again to Henry, : None
+3.1 :If he were seated as King Edward is. : None
+FIRST KEEPER
+3.1 :We charge you, in God's name, and the king's, : None
+3.1 :To go with us unto the officers. : None
+KING HENRY VI
+3.1 :In God's name, lead; your king's name be obey'd: : None
+3.1 :And what God will, that let your king perform; : None
+3.1 :And what he will, I humbly yield unto. : None
+Exeunt : ['Exeunt - []'] : KING HENRY VI
+Scene(scene=2)
+Enter KING EDWARD IV, GLOUCESTER, CLARENCE, and LADY GREY : ["Enter - ['KING EDWARD IV', 'GLOUCESTER', 'CLARENCE', 'LADY GREY']"] : KING HENRY VI
+KING EDWARD IV
+3.2 :Brother of Gloucester, at Saint Alban's field : None
+3.2 :This lady's husband, Sir Richard Grey, was slain, : None
+3.2 :His lands then seized on by the conqueror: : None
+3.2 :Her suit is now to repossess those lands; : None
+3.2 :Which we in justice cannot well deny, : None
+3.2 :Because in quarrel of the house of York : None
+3.2 :The worthy gentleman did lose his life. : None
+GLOUCESTER
+3.2 :Your highness shall do well to grant her suit; : None
+3.2 :It were dishonour to deny it her. : None
+KING EDWARD IV
+3.2 :It were no less; but yet I'll make a pause. : None
+GLOUCESTER
+3.2 :  Yea, is it so? : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :I see the lady hath a thing to grant, : None
+3.2 :Before the king will grant her humble suit. : None
+CLARENCE
+3.2 :  He knows the game: how true : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :he keeps the wind! : None
+GLOUCESTER
+3.2 :  Silence! : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+KING EDWARD IV
+3.2 :Widow, we will consider of your suit; : None
+3.2 :And come some other time to know our mind. : None
+LADY GREY
+3.2 :Right gracious lord, I cannot brook delay: : None
+3.2 :May it please your highness to resolve me now; : None
+3.2 :And what your pleasure is, shall satisfy me. : None
+GLOUCESTER
+3.2 :  Ay, widow? then I'll warrant : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :you all your lands, : None
+3.2 :An if what pleases him shall pleasure you. : None
+3.2 :Fight closer, or, good faith, you'll catch a blow. : None
+CLARENCE
+3.2 :  I fear her not, unless she : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :chance to fall. : None
+GLOUCESTER
+3.2 : God forbid that! for he'll : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :take vantages. : None
+KING EDWARD IV
+3.2 :How many children hast thou, widow? tell me. : None
+CLARENCE
+3.2 :  I think he means to beg a : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :child of her. : None
+GLOUCESTER
+3.2 :  Nay, whip me then: he'll rather : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :give her two. : None
+LADY GREY
+3.2 :Three, my most gracious lord. : None
+GLOUCESTER
+3.2 :  You shall have four, if you'll : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :be ruled by him. : None
+KING EDWARD IV
+3.2 :'Twere pity they should lose their father's lands. : None
+LADY GREY
+3.2 :Be pitiful, dread lord, and grant it then. : None
+KING EDWARD IV
+3.2 :Lords, give us leave: I'll try this widow's wit. : None
+GLOUCESTER
+3.2 :  Ay, good leave have you; for : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :you will have leave, : None
+3.2 :Till youth take leave and leave you to the crutch. : None
+GLOUCESTER and CLARENCE retire : ["None - ['GLOUCESTER', 'CLARENCE']"] : GLOUCESTER
+KING EDWARD IV
+3.2 :Now tell me, madam, do you love your children? : None
+LADY GREY
+3.2 :Ay, full as dearly as I love myself. : None
+KING EDWARD IV
+3.2 :And would you not do much to do them good? : None
+LADY GREY
+3.2 :To do them good, I would sustain some harm. : None
+KING EDWARD IV
+3.2 :Then get your husband's lands, to do them good. : None
+LADY GREY
+3.2 :Therefore I came unto your majesty. : None
+KING EDWARD IV
+3.2 :I'll tell you how these lands are to be got. : None
+LADY GREY
+3.2 :So shall you bind me to your highness' service. : None
+KING EDWARD IV
+3.2 :What service wilt thou do me, if I give them? : None
+LADY GREY
+3.2 :What you command, that rests in me to do. : None
+KING EDWARD IV
+3.2 :But you will take exceptions to my boon. : None
+LADY GREY
+3.2 :No, gracious lord, except I cannot do it. : None
+KING EDWARD IV
+3.2 :Ay, but thou canst do what I mean to ask. : None
+LADY GREY
+3.2 :Why, then I will do what your grace commands. : None
+GLOUCESTER
+3.2 :  He plies her hard; and much rain : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :wears the marble. : None
+CLARENCE
+3.2 :  As red as fire! nay, then : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :her wax must melt. : None
+LADY GREY
+3.2 :Why stops my lord, shall I not hear my task? : None
+KING EDWARD IV
+3.2 :An easy task; 'tis but to love a king. : None
+LADY GREY
+3.2 :That's soon perform'd, because I am a subject. : None
+KING EDWARD IV
+3.2 :Why, then, thy husband's lands I freely give thee. : None
+LADY GREY
+3.2 :I take my leave with many thousand thanks. : None
+GLOUCESTER
+3.2 :  The match is made; she seals it : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :with a curtsy. : None
+KING EDWARD IV
+3.2 :But stay thee, 'tis the fruits of love I mean. : None
+LADY GREY
+3.2 :The fruits of love I mean, my loving liege. : None
+KING EDWARD IV
+3.2 :Ay, but, I fear me, in another sense. : None
+3.2 :What love, think'st thou, I sue so much to get? : None
+LADY GREY
+3.2 :My love till death, my humble thanks, my prayers; : None
+3.2 :That love which virtue begs and virtue grants. : None
+KING EDWARD IV
+3.2 :No, by my troth, I did not mean such love. : None
+LADY GREY
+3.2 :Why, then you mean not as I thought you did. : None
+KING EDWARD IV
+3.2 :But now you partly may perceive my mind. : None
+LADY GREY
+3.2 :My mind will never grant what I perceive : None
+3.2 :Your highness aims at, if I aim aright. : None
+KING EDWARD IV
+3.2 :To tell thee plain, I aim to lie with thee. : None
+LADY GREY
+3.2 :To tell you plain, I had rather lie in prison. : None
+KING EDWARD IV
+3.2 :Why, then thou shalt not have thy husband's lands. : None
+LADY GREY
+3.2 :Why, then mine honesty shall be my dower; : None
+3.2 :For by that loss I will not purchase them. : None
+KING EDWARD IV
+3.2 :Therein thou wrong'st thy children mightily. : None
+LADY GREY
+3.2 :Herein your highness wrongs both them and me. : None
+3.2 :But, mighty lord, this merry inclination : None
+3.2 :Accords not with the sadness of my suit: : None
+3.2 :Please you dismiss me either with 'ay' or 'no.' : None
+KING EDWARD IV
+3.2 :Ay, if thou wilt say 'ay' to my request; : None
+3.2 :No if thou dost say 'no' to my demand. : None
+LADY GREY
+3.2 :Then, no, my lord. My suit is at an end. : None
+GLOUCESTER
+3.2 :  The widow likes him not, she : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :knits her brows. : None
+CLARENCE
+3.2 :  He is the bluntest wooer in : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :Christendom. : None
+KING EDWARD IV
+3.2 :  Her looks do argue her replete with modesty; : Aside : ['Aside - []'] : KING EDWARD IV
+3.2 :Her words do show her wit incomparable; : None
+3.2 :All her perfections challenge sovereignty: : None
+3.2 :One way or other, she is for a king; : None
+3.2 :And she shall be my love, or else my queen.-- : None
+3.2 :Say that King Edward take thee for his queen? : None
+LADY GREY
+3.2 :'Tis better said than done, my gracious lord: : None
+3.2 :I am a subject fit to jest withal, : None
+3.2 :But far unfit to be a sovereign. : None
+KING EDWARD IV
+3.2 :Sweet widow, by my state I swear to thee : None
+3.2 :I speak no more than what my soul intends; : None
+3.2 :And that is, to enjoy thee for my love. : None
+LADY GREY
+3.2 :And that is more than I will yield unto: : None
+3.2 :I know I am too mean to be your queen, : None
+3.2 :And yet too good to be your concubine. : None
+KING EDWARD IV
+3.2 :You cavil, widow: I did mean, my queen. : None
+LADY GREY
+3.2 :'Twill grieve your grace my sons should call you father. : None
+KING EDWARD IV
+3.2 :No more than when my daughters call thee mother. : None
+3.2 :Thou art a widow, and thou hast some children; : None
+3.2 :And, by God's mother, I, being but a bachelor, : None
+3.2 :Have other some: why, 'tis a happy thing : None
+3.2 :To be the father unto many sons. : None
+3.2 :Answer no more, for thou shalt be my queen. : None
+GLOUCESTER
+3.2 :  The ghostly father now hath done : Aside to CLARENCE : ["Aside - ['CLARENCE']"] : GLOUCESTER
+3.2 :his shrift. : None
+CLARENCE
+3.2 :  When he was made a shriver, : Aside to GLOUCESTER : ["Aside - ['GLOUCESTER']"] : CLARENCE
+3.2 :'twas for shift. : None
+KING EDWARD IV
+3.2 :Brothers, you muse what chat we two have had. : None
+GLOUCESTER
+3.2 :The widow likes it not, for she looks very sad. : None
+KING EDWARD IV
+3.2 :You'll think it strange if I should marry her. : None
+CLARENCE
+3.2 :To whom, my lord? : None
+KING EDWARD IV
+3.2 :                  Why, Clarence, to myself. : None
+GLOUCESTER
+3.2 :That would be ten days' wonder at the least. : None
+CLARENCE
+3.2 :That's a day longer than a wonder lasts. : None
+GLOUCESTER
+3.2 :By so much is the wonder in extremes. : None
+KING EDWARD IV
+3.2 :Well, jest on, brothers: I can tell you both : None
+3.2 :Her suit is granted for her husband's lands. : None
+Enter a Nobleman : ["Enter - ['NOBLEMAN']"] : KING EDWARD IV
+NOBLEMAN
+3.2 :My gracious lord, Henry your foe is taken, : None
+3.2 :And brought your prisoner to your palace gate. : None
+KING EDWARD IV
+3.2 :See that he be convey'd unto the Tower: : None
+3.2 :And go we, brothers, to the man that took him, : None
+3.2 :To question of his apprehension. : None
+3.2 :Widow, go you along. Lords, use her honourably. : None
+Exeunt all but GLOUCESTER : ["Exeunt - ['ALL', 'GLOUCESTER']"] : KING EDWARD IV
+GLOUCESTER
+3.2 :Ay, Edward will use women honourably. : None
+3.2 :Would he were wasted, marrow, bones and all, : None
+3.2 :That from his loins no hopeful branch may spring, : None
+3.2 :To cross me from the golden time I look for! : None
+3.2 :And yet, between my soul's desire and me-- : None
+3.2 :The lustful Edward's title buried-- : None
+3.2 :Is Clarence, Henry, and his son young Edward, : None
+3.2 :And all the unlook'd for issue of their bodies, : None
+3.2 :To take their rooms, ere I can place myself: : None
+3.2 :A cold premeditation for my purpose! : None
+3.2 :Why, then, I do but dream on sovereignty; : None
+3.2 :Like one that stands upon a promontory, : None
+3.2 :And spies a far-off shore where he would tread, : None
+3.2 :Wishing his foot were equal with his eye, : None
+3.2 :And chides the sea that sunders him from thence, : None
+3.2 :Saying, he'll lade it dry to have his way: : None
+3.2 :So do I wish the crown, being so far off; : None
+3.2 :And so I chide the means that keeps me from it; : None
+3.2 :And so I say, I'll cut the causes off, : None
+3.2 :Flattering me with impossibilities. : None
+3.2 :My eye's too quick, my heart o'erweens too much, : None
+3.2 :Unless my hand and strength could equal them. : None
+3.2 :Well, say there is no kingdom then for Richard; : None
+3.2 :What other pleasure can the world afford? : None
+3.2 :I'll make my heaven in a lady's lap, : None
+3.2 :And deck my body in gay ornaments, : None
+3.2 :And witch sweet ladies with my words and looks. : None
+3.2 :O miserable thought! and more unlikely : None
+3.2 :Than to accomplish twenty golden crowns! : None
+3.2 :Why, love forswore me in my  mother's womb: : None
+3.2 :And, for I should not deal in her soft laws, : None
+3.2 :She did corrupt frail nature with some bribe, : None
+3.2 :To shrink mine arm up like a wither'd shrub; : None
+3.2 :To make an envious mountain on my back, : None
+3.2 :Where sits deformity to mock my body; : None
+3.2 :To shape my legs of an unequal size; : None
+3.2 :To disproportion me in every part, : None
+3.2 :Like to a chaos, or an unlick'd bear-whelp : None
+3.2 :That carries no impression like the dam. : None
+3.2 :And am I then a man to be beloved? : None
+3.2 :O monstrous fault, to harbour such a thought! : None
+3.2 :Then, since this earth affords no joy to me, : None
+3.2 :But to command, to cheque, to o'erbear such : None
+3.2 :As are of better person than myself, : None
+3.2 :I'll make my heaven to dream upon the crown, : None
+3.2 :And, whiles I live, to account this world but hell, : None
+3.2 :Until my mis-shaped trunk that bears this head : None
+3.2 :Be round impaled with a glorious crown. : None
+3.2 :And yet I know not how to get the crown, : None
+3.2 :For many lives stand between me and home: : None
+3.2 :And I,--like one lost in a thorny wood, : None
+3.2 :That rends the thorns and is rent with the thorns, : None
+3.2 :Seeking a way and straying from the way; : None
+3.2 :Not knowing how to find the open air, : None
+3.2 :But toiling desperately to find it out,-- : None
+3.2 :Torment myself to catch the English crown: : None
+3.2 :And from that torment I will free myself, : None
+3.2 :Or hew my way out with a bloody axe. : None
+3.2 :Why, I can smile, and murder whiles I smile, : None
+3.2 :And cry 'Content' to that which grieves my heart, : None
+3.2 :And wet my cheeks with artificial tears, : None
+3.2 :And frame my face to all occasions. : None
+3.2 :I'll drown more sailors than the mermaid shall; : None
+3.2 :I'll slay more gazers than the basilisk; : None
+3.2 :I'll play the orator as well as Nestor, : None
+3.2 :Deceive more slily than Ulysses could, : None
+3.2 :And, like a Sinon, take another Troy. : None
+3.2 :I can add colours to the chameleon, : None
+3.2 :Change shapes with Proteus for advantages, : None
+3.2 :And set the murderous Machiavel to school. : None
+3.2 :Can I do this, and cannot get a crown? : None
+3.2 :Tut, were it farther off, I'll pluck it down. : None
+Exit : ['Exit - []'] : GLOUCESTER
+Scene(scene=3)
+Flourish. Enter KING LEWIS XI, his sister BONA,  his Admiral, called BOURBON, PRINCE EDWARD, QUEEN  MARGARET, and OXFORD. KING LEWIS XI sits, and riseth up again : ['None - []', "Enter - ['KING LEWIS XI', 'BONA', 'ALL', 'PRINCE EDWARD', 'OXFORD']", "None - ['KING LEWIS XI']"] : GLOUCESTER
+KING LEWIS XI
+3.3 :Fair Queen of England, worthy Margaret, : None
+3.3 :Sit down with us: it ill befits thy state : None
+3.3 :And birth, that thou shouldst stand while Lewis doth sit. : None
+QUEEN MARGARET
+3.3 :No, mighty King of France: now Margaret : None
+3.3 :Must strike her sail and learn awhile to serve : None
+3.3 :Where kings command. I was, I must confess, : None
+3.3 :Great Albion's queen in former golden days: : None
+3.3 :But now mischance hath trod my title down, : None
+3.3 :And with dishonour laid me on the ground; : None
+3.3 :Where I must take like seat unto my fortune, : None
+3.3 :And to my humble seat conform myself. : None
+KING LEWIS XI
+3.3 :Why, say, fair queen, whence springs this deep despair? : None
+QUEEN MARGARET
+3.3 :From such a cause as fills mine eyes with tears : None
+3.3 :And stops my tongue, while heart is drown'd in cares. : None
+KING LEWIS XI
+3.3 :Whate'er it be, be thou still like thyself, : None
+3.3 :And sit thee by our side: : None
+Seats her by him : ['None - []'] : KING LEWIS XI
+3.3 :Yield not thy neck : None
+3.3 :To fortune's yoke, but let thy dauntless mind : None
+3.3 :Still ride in triumph over all mischance. : None
+3.3 :Be plain, Queen Margaret, and tell thy grief; : None
+3.3 :It shall be eased, if France can yield relief. : None
+QUEEN MARGARET
+3.3 :Those gracious words revive my drooping thoughts : None
+3.3 :And give my tongue-tied sorrows leave to speak. : None
+3.3 :Now, therefore, be it known to noble Lewis, : None
+3.3 :That Henry, sole possessor of my love, : None
+3.3 :Is of a king become a banish'd man, : None
+3.3 :And forced to live in Scotland a forlorn; : None
+3.3 :While proud ambitious Edward Duke of York : None
+3.3 :Usurps the regal title and the seat : None
+3.3 :Of England's true-anointed lawful king. : None
+3.3 :This is the cause that I, poor Margaret, : None
+3.3 :With this my son, Prince Edward, Henry's heir, : None
+3.3 :Am come to crave thy just and lawful aid; : None
+3.3 :And if thou fail us, all our hope is done: : None
+3.3 :Scotland hath will to help, but cannot help; : None
+3.3 :Our people and our peers are both misled, : None
+3.3 :Our treasures seized, our soldiers put to flight, : None
+3.3 :And, as thou seest, ourselves in heavy plight. : None
+KING LEWIS XI
+3.3 :Renowned queen, with patience calm the storm, : None
+3.3 :While we bethink a means to break it off. : None
+QUEEN MARGARET
+3.3 :The more we stay, the stronger grows our foe. : None
+KING LEWIS XI
+3.3 :The more I stay, the more I'll succor thee. : None
+QUEEN MARGARET
+3.3 :O, but impatience waiteth on true sorrow. : None
+3.3 :And see where comes the breeder of my sorrow! : None
+Enter WARWICK : ["Enter - ['WARWICK']"] : QUEEN MARGARET
+KING LEWIS XI
+3.3 :What's he approacheth boldly to our presence? : None
+QUEEN MARGARET
+3.3 :Our Earl of Warwick, Edward's greatest friend. : None
+KING LEWIS XI
+3.3 :Welcome, brave Warwick! What brings thee to France? : None
+He descends. She ariseth : ['None - []', 'None - []'] : KING LEWIS XI
+QUEEN MARGARET
+3.3 :Ay, now begins a second storm to rise; : None
+3.3 :For this is he that moves both wind and tide. : None
+WARWICK
+3.3 :From worthy Edward, King of Albion, : None
+3.3 :My lord and sovereign, and thy vowed friend, : None
+3.3 :I come, in kindness and unfeigned love, : None
+3.3 :First, to do greetings to thy royal person; : None
+3.3 :And then to crave a league of amity; : None
+3.3 :And lastly, to confirm that amity : None
+3.3 :With a nuptial knot, if thou vouchsafe to grant : None
+3.3 :That virtuous Lady Bona, thy fair sister, : None
+3.3 :To England's king in lawful marriage. : None
+QUEEN MARGARET
+3.3 :  If that go forward, Henry's hope is done. : Aside : ['Aside - []'] : QUEEN MARGARET
+WARWICK
+3.3 :  And, gracious madam, in our king's behalf, : To BONA : ["To - ['BONA']"] : WARWICK
+3.3 :I am commanded, with your leave and favour, : None
+3.3 :Humbly to kiss your hand, and with my tongue : None
+3.3 :To tell the passion of my sovereign's heart; : None
+3.3 :Where fame, late entering at his heedful ears, : None
+3.3 :Hath placed thy beauty's image and thy virtue. : None
+QUEEN MARGARET
+3.3 :King Lewis and Lady Bona, hear me speak, : None
+3.3 :Before you answer Warwick. His demand : None
+3.3 :Springs not from Edward's well-meant honest love, : None
+3.3 :But from deceit bred by necessity; : None
+3.3 :For how can tyrants safely govern home, : None
+3.3 :Unless abroad they purchase great alliance? : None
+3.3 :To prove him tyrant this reason may suffice, : None
+3.3 :That Henry liveth still: but were he dead, : None
+3.3 :Yet here Prince Edward stands, King Henry's son. : None
+3.3 :Look, therefore, Lewis, that by this league and marriage : None
+3.3 :Thou draw not on thy danger and dishonour; : None
+3.3 :For though usurpers sway the rule awhile, : None
+3.3 :Yet heavens are just, and time suppresseth wrongs. : None
+WARWICK
+3.3 :Injurious Margaret! : None
+PRINCE EDWARD
+3.3 :And why not queen? : None
+WARWICK
+3.3 :Because thy father Henry did usurp; : None
+3.3 :And thou no more are prince than she is queen. : None
+OXFORD
+3.3 :Then Warwick disannuls great John of Gaunt, : None
+3.3 :Which did subdue the greatest part of Spain; : None
+3.3 :And, after John of Gaunt, Henry the Fourth, : None
+3.3 :Whose wisdom was a mirror to the wisest; : None
+3.3 :And, after that wise prince, Henry the Fifth, : None
+3.3 :Who by his prowess conquered all France: : None
+3.3 :From these our Henry lineally descends. : None
+WARWICK
+3.3 :Oxford, how haps it, in this smooth discourse, : None
+3.3 :You told not how Henry the Sixth hath lost : None
+3.3 :All that which Henry Fifth had gotten? : None
+3.3 :Methinks these peers of France should smile at that. : None
+3.3 :But for the rest, you tell a pedigree : None
+3.3 :Of threescore and two years; a silly time : None
+3.3 :To make prescription for a kingdom's worth. : None
+OXFORD
+3.3 :Why, Warwick, canst thou speak against thy liege, : None
+3.3 :Whom thou obeyed'st thirty and six years, : None
+3.3 :And not bewray thy treason with a blush? : None
+WARWICK
+3.3 :Can Oxford, that did ever fence the right, : None
+3.3 :Now buckler falsehood with a pedigree? : None
+3.3 :For shame! leave Henry, and call Edward king. : None
+OXFORD
+3.3 :Call him my king by whose injurious doom : None
+3.3 :My elder brother, the Lord Aubrey Vere, : None
+3.3 :Was done to death? and more than so, my father, : None
+3.3 :Even in the downfall of his mellow'd years, : None
+3.3 :When nature brought him to the door of death? : None
+3.3 :No, Warwick, no; while life upholds this arm, : None
+3.3 :This arm upholds the house of Lancaster. : None
+WARWICK
+3.3 :And I the house of York. : None
+KING LEWIS XI
+3.3 :Queen Margaret, Prince Edward, and Oxford, : None
+3.3 :Vouchsafe, at our request, to stand aside, : None
+3.3 :While I use further conference with Warwick. : None
+They stand aloof : ['None - []'] : KING LEWIS XI
+QUEEN MARGARET
+3.3 :Heavens grant that Warwick's words bewitch him not! : None
+KING LEWIS XI
+3.3 :Now Warwick, tell me, even upon thy conscience, : None
+3.3 :Is Edward your true king? for I were loath : None
+3.3 :To link with him that were not lawful chosen. : None
+WARWICK
+3.3 :Thereon I pawn my credit and mine honour. : None
+KING LEWIS XI
+3.3 :But is he gracious in the people's eye? : None
+WARWICK
+3.3 :The more that Henry was unfortunate. : None
+KING LEWIS XI
+3.3 :Then further, all dissembling set aside, : None
+3.3 :Tell me for truth the measure of his love : None
+3.3 :Unto our sister Bona. : None
+WARWICK
+3.3 :Such it seems : None
+3.3 :As may beseem a monarch like himself. : None
+3.3 :Myself have often heard him say and swear : None
+3.3 :That this his love was an eternal plant, : None
+3.3 :Whereof the root was fix'd in virtue's ground, : None
+3.3 :The leaves and fruit maintain'd with beauty's sun, : None
+3.3 :Exempt from envy, but not from disdain, : None
+3.3 :Unless the Lady Bona quit his pain. : None
+KING LEWIS XI
+3.3 :Now, sister, let us hear your firm resolve. : None
+BONA
+3.3 :Your grant, or your denial, shall be mine: : None
+To WARWICK : ["To - ['WARWICK']"] : BONA
+3.3 :Yet I confess that often ere this day, : None
+3.3 :When I have heard your king's desert recounted, : None
+3.3 :Mine ear hath tempted judgment to desire. : None
+KING LEWIS XI
+3.3 :Then, Warwick, thus: our sister shall be Edward's; : None
+3.3 :And now forthwith shall articles be drawn : None
+3.3 :Touching the jointure that your king must make, : None
+3.3 :Which with her dowry shall be counterpoised. : None
+3.3 :Draw near, Queen Margaret, and be a witness : None
+3.3 :That Bona shall be wife to the English king. : None
+PRINCE EDWARD
+3.3 :To Edward, but not to the English king. : None
+QUEEN MARGARET
+3.3 :Deceitful Warwick! it was thy device : None
+3.3 :By this alliance to make void my suit: : None
+3.3 :Before thy coming Lewis was Henry's friend. : None
+KING LEWIS XI
+3.3 :And still is friend to him and Margaret: : None
+3.3 :But if your title to the crown be weak, : None
+3.3 :As may appear by Edward's good success, : None
+3.3 :Then 'tis but reason that I be released : None
+3.3 :From giving aid which late I promised. : None
+3.3 :Yet shall you have all kindness at my hand : None
+3.3 :That your estate requires and mine can yield. : None
+WARWICK
+3.3 :Henry now lives in Scotland at his ease, : None
+3.3 :Where having nothing, nothing can he lose. : None
+3.3 :And as for you yourself, our quondam queen, : None
+3.3 :You have a father able to maintain you; : None
+3.3 :And better 'twere you troubled him than France. : None
+QUEEN MARGARET
+3.3 :Peace, impudent and shameless Warwick, peace, : None
+3.3 :Proud setter up and puller down of kings! : None
+3.3 :I will not hence, till, with my talk and tears, : None
+3.3 :Both full of truth, I make King Lewis behold : None
+3.3 :Thy sly conveyance and thy lord's false love; : None
+3.3 :For both of you are birds of selfsame feather. : None
+Post blows a horn within : ["None - ['POST']"] : QUEEN MARGARET
+KING LEWIS XI
+3.3 :Warwick, this is some post to us or thee. : None
+Enter a Post : ["Enter - ['POST']"] : KING LEWIS XI
+POST
+3.3 :  My lord ambassador, these letters are for you, : To WARWICK : ["To - ['WARWICK']"] : POST
+3.3 :Sent from your brother, Marquess Montague: : None
+To KING LEWIS XI : ["To - ['KING LEWIS XI']"] : POST
+3.3 :These from our king unto your majesty: : None
+To QUEEN MARGARET : ["To - ['QUEEN MARGARET']"] : POST
+3.3 :And, madam, these for you; from whom I know not. : None
+They all read their letters : ["read - ['ALL']"] : POST
+OXFORD
+3.3 :I like it well that our fair queen and mistress : None
+3.3 :Smiles at her news, while Warwick frowns at his. : None
+PRINCE EDWARD
+3.3 :Nay, mark how Lewis stamps, as he were nettled: : None
+3.3 :I hope all's for the best. : None
+KING LEWIS XI
+3.3 :Warwick, what are thy news? and yours, fair queen? : None
+QUEEN MARGARET
+3.3 :Mine, such as fill my heart with unhoped joys. : None
+WARWICK
+3.3 :Mine, full of sorrow and heart's discontent. : None
+KING LEWIS XI
+3.3 :What! has your king married the Lady Grey! : None
+3.3 :And now, to soothe your forgery and his, : None
+3.3 :Sends me a paper to persuade me patience? : None
+3.3 :Is this the alliance that he seeks with France? : None
+3.3 :Dare he presume to scorn us in this manner? : None
+QUEEN MARGARET
+3.3 :I told your majesty as much before: : None
+3.3 :This proveth Edward's love and Warwick's honesty. : None
+WARWICK
+3.3 :King Lewis, I here protest, in sight of heaven, : None
+3.3 :And by the hope I have of heavenly bliss, : None
+3.3 :That I am clear from this misdeed of Edward's, : None
+3.3 :No more my king, for he dishonours me, : None
+3.3 :But most himself, if he could see his shame. : None
+3.3 :Did I forget that by the house of York : None
+3.3 :My father came untimely to his death? : None
+3.3 :Did I let pass the abuse done to my niece? : None
+3.3 :Did I impale him with the regal crown? : None
+3.3 :Did I put Henry from his native right? : None
+3.3 :And am I guerdon'd at the last with shame? : None
+3.3 :Shame on himself! for my desert is honour: : None
+3.3 :And to repair my honour lost for him, : None
+3.3 :I here renounce him and return to Henry. : None
+3.3 :My noble queen, let former grudges pass, : None
+3.3 :And henceforth I am thy true servitor: : None
+3.3 :I will revenge his wrong to Lady Bona, : None
+3.3 :And replant Henry in his former state. : None
+QUEEN MARGARET
+3.3 :Warwick, these words have turn'd my hate to love; : None
+3.3 :And I forgive and quite forget old faults, : None
+3.3 :And joy that thou becomest King Henry's friend. : None
+WARWICK
+3.3 :So much his friend, ay, his unfeigned friend, : None
+3.3 :That, if King Lewis vouchsafe to furnish us : None
+3.3 :With some few bands of chosen soldiers, : None
+3.3 :I'll undertake to land them on our coast : None
+3.3 :And force the tyrant from his seat by war. : None
+3.3 :'Tis not his new-made bride shall succor him: : None
+3.3 :And as for Clarence, as my letters tell me, : None
+3.3 :He's very likely now to fall from him, : None
+3.3 :For matching more for wanton lust than honour, : None
+3.3 :Or than for strength and safety of our country. : None
+BONA
+3.3 :Dear brother, how shall Bona be revenged : None
+3.3 :But by thy help to this distressed queen? : None
+QUEEN MARGARET
+3.3 :Renowned prince, how shall poor Henry live, : None
+3.3 :Unless thou rescue him from foul despair? : None
+BONA
+3.3 :My quarrel and this English queen's are one. : None
+WARWICK
+3.3 :And mine, fair lady Bona, joins with yours. : None
+KING LEWIS XI
+3.3 :And mine with hers, and thine, and Margaret's. : None
+3.3 :Therefore at last I firmly am resolved : None
+3.3 :You shall have aid. : None
+QUEEN MARGARET
+3.3 :Let me give humble thanks for all at once. : None
+KING LEWIS XI
+3.3 :Then, England's messenger, return in post, : None
+3.3 :And tell false Edward, thy supposed king, : None
+3.3 :That Lewis of France is sending over masquers : None
+3.3 :To revel it with him and his new bride: : None
+3.3 :Thou seest what's past, go fear thy king withal. : None
+BONA
+3.3 :Tell him, in hope he'll prove a widower shortly, : None
+3.3 :I'll wear the willow garland for his sake. : None
+QUEEN MARGARET
+3.3 :Tell him, my mourning weeds are laid aside, : None
+3.3 :And I am ready to put armour on. : None
+WARWICK
+3.3 :Tell him from me that he hath done me wrong, : None
+3.3 :And therefore I'll uncrown him ere't be long. : None
+3.3 :There's thy reward: be gone. : None
+Exit Post : ["Exit - ['POST']"] : WARWICK
+KING LEWIS XI
+3.3 :But, Warwick, : None
+3.3 :Thou and Oxford, with five thousand men, : None
+3.3 :Shall cross the seas, and bid false Edward battle; : None
+3.3 :And, as occasion serves, this noble queen : None
+3.3 :And prince shall follow with a fresh supply. : None
+3.3 :Yet, ere thou go, but answer me one doubt, : None
+3.3 :What pledge have we of thy firm loyalty? : None
+WARWICK
+3.3 :This shall assure my constant loyalty, : None
+3.3 :That if our queen and this young prince agree, : None
+3.3 :I'll join mine eldest daughter and my joy : None
+3.3 :To him forthwith in holy wedlock bands. : None
+QUEEN MARGARET
+3.3 :Yes, I agree, and thank you for your motion. : None
+3.3 :Son Edward, she is fair and virtuous, : None
+3.3 :Therefore delay not, give thy hand to Warwick; : None
+3.3 :And, with thy hand, thy faith irrevocable, : None
+3.3 :That only Warwick's daughter shall be thine. : None
+PRINCE EDWARD
+3.3 :Yes, I accept her, for she well deserves it; : None
+3.3 :And here, to pledge my vow, I give my hand. : None
+He gives his hand to WARWICK : ["to - ['WARWICK']"] : PRINCE EDWARD
+KING LEWIS XI
+3.3 :Why stay we now? These soldiers shall be levied, : None
+3.3 :And thou, Lord Bourbon, our high admiral, : None
+3.3 :Shalt waft them over with our royal fleet. : None
+3.3 :I long till Edward fall by war's mischance, : None
+3.3 :For mocking marriage with a dame of France. : None
+Exeunt all but WARWICK : ["Exeunt - ['ALL', 'WARWICK']"] : KING LEWIS XI
+WARWICK
+3.3 :I came from Edward as ambassador, : None
+3.3 :But I return his sworn and mortal foe: : None
+3.3 :Matter of marriage was the charge he gave me, : None
+3.3 :But dreadful war shall answer his demand. : None
+3.3 :Had he none else to make a stale but me? : None
+3.3 :Then none but I shall turn his jest to sorrow. : None
+3.3 :I was the chief that raised him to the crown, : None
+3.3 :And I'll be chief to bring him down again: : None
+3.3 :Not that I pity Henry's misery, : None
+3.3 :But seek revenge on Edward's mockery. : None
+Exit : ['Exit - []'] : WARWICK
+Act(act=4)
+Scene(scene=1)
+Enter GLOUCESTER, CLARENCE, SOMERSET, and MONTAGUE : ["Enter - ['GLOUCESTER', 'CLARENCE', 'SOMERSET', 'MONTAGUE']"] : WARWICK
+GLOUCESTER
+4.1 :Now tell me, brother Clarence, what think you : None
+4.1 :Of this new marriage with the Lady Grey? : None
+4.1 :Hath not our brother made a worthy choice? : None
+CLARENCE
+4.1 :Alas, you know, 'tis far from hence to France; : None
+4.1 :How could he stay till Warwick made return? : None
+SOMERSET
+4.1 :My lords, forbear this talk; here comes the king. : None
+GLOUCESTER
+4.1 :And his well-chosen bride. : None
+CLARENCE
+4.1 :I mind to tell him plainly what I think. : None
+Flourish. Enter KING EDWARD IV, attended; QUEEN ELIZABETH, PEMBROKE, STAFFORD, HASTINGS, and others : ['None - []', "Enter - ['KING EDWARD IV', 'QUEEN ELIZABETH', 'HASTINGS']"] : CLARENCE
+KING EDWARD IV
+4.1 :Now, brother of Clarence, how like you our choice, : None
+4.1 :That you stand pensive, as half malcontent? : None
+CLARENCE
+4.1 :As well as Lewis of France, or the Earl of Warwick, : None
+4.1 :Which are so weak of courage and in judgment : None
+4.1 :That they'll take no offence at our abuse. : None
+KING EDWARD IV
+4.1 :Suppose they take offence without a cause, : None
+4.1 :They are but Lewis and Warwick: I am Edward, : None
+4.1 :Your king and Warwick's, and must have my will. : None
+GLOUCESTER
+4.1 :And shall have your will, because our king: : None
+4.1 :Yet hasty marriage seldom proveth well. : None
+KING EDWARD IV
+4.1 :Yea, brother Richard, are you offended too? : None
+GLOUCESTER
+4.1 :Not I: : None
+4.1 :No, God forbid that I should wish them sever'd : None
+4.1 :Whom God hath join'd together; ay, and 'twere pity : None
+4.1 :To sunder them that yoke so well together. : None
+KING EDWARD IV
+4.1 :Setting your scorns and your mislike aside, : None
+4.1 :Tell me some reason why the Lady Grey : None
+4.1 :Should not become my wife and England's queen. : None
+4.1 :And you too, Somerset and Montague, : None
+4.1 :Speak freely what you think. : None
+CLARENCE
+4.1 :Then this is mine opinion: that King Lewis : None
+4.1 :Becomes your enemy, for mocking him : None
+4.1 :About the marriage of the Lady Bona. : None
+GLOUCESTER
+4.1 :And Warwick, doing what you gave in charge, : None
+4.1 :Is now dishonoured by this new marriage. : None
+KING EDWARD IV
+4.1 :What if both Lewis and Warwick be appeased : None
+4.1 :By such invention as I can devise? : None
+MONTAGUE
+4.1 :Yet, to have join'd with France in such alliance : None
+4.1 :Would more have strengthen'd this our commonwealth : None
+4.1 :'Gainst foreign storms than any home-bred marriage. : None
+HASTINGS
+4.1 :Why, knows not Montague that of itself : None
+4.1 :England is safe, if true within itself? : None
+MONTAGUE
+4.1 :But the safer when 'tis back'd with France. : None
+HASTINGS
+4.1 :'Tis better using France than trusting France: : None
+4.1 :Let us be back'd with God and with the seas : None
+4.1 :Which He hath given for fence impregnable, : None
+4.1 :And with their helps only defend ourselves; : None
+4.1 :In them and in ourselves our safety lies. : None
+CLARENCE
+4.1 :For this one speech Lord Hastings well deserves : None
+4.1 :To have the heir of the Lord Hungerford. : None
+KING EDWARD IV
+4.1 :Ay, what of that? it was my will and grant; : None
+4.1 :And for this once my will shall stand for law. : None
+GLOUCESTER
+4.1 :And yet methinks your grace hath not done well, : None
+4.1 :To give the heir and daughter of Lord Scales : None
+4.1 :Unto the brother of your loving bride; : None
+4.1 :She better would have fitted me or Clarence: : None
+4.1 :But in your bride you bury brotherhood. : None
+CLARENCE
+4.1 :Or else you would not have bestow'd the heir : None
+4.1 :Of the Lord Bonville on your new wife's son, : None
+4.1 :And leave your brothers to go speed elsewhere. : None
+KING EDWARD IV
+4.1 :Alas, poor Clarence! is it for a wife : None
+4.1 :That thou art malcontent? I will provide thee. : None
+CLARENCE
+4.1 :In choosing for yourself, you show'd your judgment, : None
+4.1 :Which being shallow, you give me leave : None
+4.1 :To play the broker in mine own behalf; : None
+4.1 :And to that end I shortly mind to leave you. : None
+KING EDWARD IV
+4.1 :Leave me, or tarry, Edward will be king, : None
+4.1 :And not be tied unto his brother's will. : None
+QUEEN ELIZABETH
+4.1 :My lords, before it pleased his majesty : None
+4.1 :To raise my state to title of a queen, : None
+4.1 :Do me but right, and you must all confess : None
+4.1 :That I was not ignoble of descent; : None
+4.1 :And meaner than myself have had like fortune. : None
+4.1 :But as this title honours me and mine, : None
+4.1 :So your dislike, to whom I would be pleasing, : None
+4.1 :Doth cloud my joys with danger and with sorrow. : None
+KING EDWARD IV
+4.1 :My love, forbear to fawn upon their frowns: : None
+4.1 :What danger or what sorrow can befall thee, : None
+4.1 :So long as Edward is thy constant friend, : None
+4.1 :And their true sovereign, whom they must obey? : None
+4.1 :Nay, whom they shall obey, and love thee too, : None
+4.1 :Unless they seek for hatred at my hands; : None
+4.1 :Which if they do, yet will I keep thee safe, : None
+4.1 :And they shall feel the vengeance of my wrath. : None
+GLOUCESTER
+4.1 :  I hear, yet say not much, but think the more. : Aside : ['Aside - []'] : GLOUCESTER
+Enter a Post : ["Enter - ['POST']"] : GLOUCESTER
+KING EDWARD IV
+4.1 :Now, messenger, what letters or what news : None
+4.1 :From France? : None
+POST
+4.1 :My sovereign liege, no letters; and few words, : None
+4.1 :But such as I, without your special pardon, : None
+4.1 :Dare not relate. : None
+KING EDWARD IV
+4.1 :Go to, we pardon thee: therefore, in brief, : None
+4.1 :Tell me their words as near as thou canst guess them. : None
+4.1 :What answer makes King Lewis unto our letters? : None
+POST
+4.1 :At my depart, these were his very words: : None
+4.1 :'Go tell false Edward, thy supposed king, : None
+4.1 :That Lewis of France is sending over masquers : None
+4.1 :To revel it with him and his new bride.' : None
+KING EDWARD IV
+4.1 :Is Lewis so brave? belike he thinks me Henry. : None
+4.1 :But what said Lady Bona to my marriage? : None
+POST
+4.1 :These were her words, utter'd with mad disdain: : None
+4.1 :'Tell him, in hope he'll prove a widower shortly, : None
+4.1 :I'll wear the willow garland for his sake.' : None
+KING EDWARD IV
+4.1 :I blame not her, she could say little less; : None
+4.1 :She had the wrong. But what said Henry's queen? : None
+4.1 :For I have heard that she was there in place. : None
+POST
+4.1 :'Tell him,' quoth she, 'my mourning weeds are done, : None
+4.1 :And I am ready to put armour on.' : None
+KING EDWARD IV
+4.1 :Belike she minds to play the Amazon. : None
+4.1 :But what said Warwick to these injuries? : None
+POST
+4.1 :He, more incensed against your majesty : None
+4.1 :Than all the rest, discharged me with these words: : None
+4.1 :'Tell him from me that he hath done me wrong, : None
+4.1 :And therefore I'll uncrown him ere't be long.' : None
+KING EDWARD IV
+4.1 :Ha! durst the traitor breathe out so proud words? : None
+4.1 :Well I will arm me, being thus forewarn'd: : None
+4.1 :They shall have wars and pay for their presumption. : None
+4.1 :But say, is Warwick friends with Margaret? : None
+POST
+4.1 :Ay, gracious sovereign; they are so link'd in : None
+4.1 :friendship : None
+4.1 :That young Prince Edward marries Warwick's daughter. : None
+CLARENCE
+4.1 :Belike the elder; Clarence will have the younger. : None
+4.1 :Now, brother king, farewell, and sit you fast, : None
+4.1 :For I will hence to Warwick's other daughter; : None
+4.1 :That, though I want a kingdom, yet in marriage : None
+4.1 :I may not prove inferior to yourself. : None
+4.1 :You that love me and Warwick, follow me. : None
+Exit CLARENCE, and SOMERSET follows : ["Exit - ['CLARENCE', 'SOMERSET']"] : CLARENCE
+GLOUCESTER
+4.1 :  Not I: : Aside : ['Aside - []'] : GLOUCESTER
+4.1 :My thoughts aim at a further matter; I : None
+4.1 :Stay not for the love of Edward, but the crown. : None
+KING EDWARD IV
+4.1 :Clarence and Somerset both gone to Warwick! : None
+4.1 :Yet am I arm'd against the worst can happen; : None
+4.1 :And haste is needful in this desperate case. : None
+4.1 :Pembroke and Stafford, you in our behalf : None
+4.1 :Go levy men, and make prepare for war; : None
+4.1 :They are already, or quickly will be landed: : None
+4.1 :Myself in person will straight follow you. : None
+Exeunt PEMBROKE and STAFFORD : ['Exeunt - []'] : KING EDWARD IV
+4.1 :But, ere I go, Hastings and Montague, : None
+4.1 :Resolve my doubt. You twain, of all the rest, : None
+4.1 :Are near to Warwick by blood and by alliance: : None
+4.1 :Tell me if you love Warwick more than me? : None
+4.1 :If it be so, then both depart to him; : None
+4.1 :I rather wish you foes than hollow friends: : None
+4.1 :But if you mind to hold your true obedience, : None
+4.1 :Give me assurance with some friendly vow, : None
+4.1 :That I may never have you in suspect. : None
+MONTAGUE
+4.1 :So God help Montague as he proves true! : None
+HASTINGS
+4.1 :And Hastings as he favours Edward's cause! : None
+KING EDWARD IV
+4.1 :Now, brother Richard, will you stand by us? : None
+GLOUCESTER
+4.1 :Ay, in despite of all that shall withstand you. : None
+KING EDWARD IV
+4.1 :Why, so! then am I sure of victory. : None
+4.1 :Now therefore let us hence; and lose no hour, : None
+4.1 :Till we meet Warwick with his foreign power. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV
+Scene(scene=2)
+Enter WARWICK and OXFORD, with French soldiers : ["Enter - ['WARWICK', 'OXFORD', 'SOLDIER']"] : KING EDWARD IV
+WARWICK
+4.2 :Trust me, my lord, all hitherto goes well; : None
+4.2 :The common people by numbers swarm to us. : None
+Enter CLARENCE and SOMERSET : ["Enter - ['CLARENCE', 'SOMERSET']"] : WARWICK
+4.2 :But see where Somerset and Clarence come! : None
+4.2 :Speak suddenly, my lords, are we all friends? : None
+CLARENCE
+4.2 :Fear not that, my lord. : None
+WARWICK
+4.2 :Then, gentle Clarence, welcome unto Warwick; : None
+4.2 :And welcome, Somerset: I hold it cowardice : None
+4.2 :To rest mistrustful where a noble heart : None
+4.2 :Hath pawn'd an open hand in sign of love; : None
+4.2 :Else might I think that Clarence, Edward's brother, : None
+4.2 :Were but a feigned friend to our proceedings: : None
+4.2 :But welcome, sweet Clarence; my daughter shall be thine. : None
+4.2 :And now what rests but, in night's coverture, : None
+4.2 :Thy brother being carelessly encamp'd, : None
+4.2 :His soldiers lurking in the towns about, : None
+4.2 :And but attended by a simple guard, : None
+4.2 :We may surprise and take him at our pleasure? : None
+4.2 :Our scouts have found the adventure very easy: : None
+4.2 :That as Ulysses and stout Diomede : None
+4.2 :With sleight and manhood stole to Rhesus' tents, : None
+4.2 :And brought from thence the Thracian fatal steeds, : None
+4.2 :So we, well cover'd with the night's black mantle, : None
+4.2 :At unawares may beat down Edward's guard : None
+4.2 :And seize himself; I say not, slaughter him, : None
+4.2 :For I intend but only to surprise him. : None
+4.2 :You that will follow me to this attempt, : None
+4.2 :Applaud the name of Henry with your leader. : None
+They all cry, 'Henry!' : ["None - ['ALL']"] : WARWICK
+4.2 :Why, then, let's on our way in silent sort: : None
+4.2 :For Warwick and his friends, God and Saint George! : None
+Exeunt : ['Exeunt - []'] : WARWICK
+Scene(scene=3)
+Enter three Watchmen, to guard KING EDWARD IV's tent : ["Enter - ['KING EDWARD IV']"] : WARWICK
+FIRST WATCHMAN
+4.3 :Come on, my masters, each man take his stand: : None
+4.3 :The king by this is set him down to sleep. : None
+SECOND WATCHMAN
+4.3 :What, will he not to bed? : None
+FIRST WATCHMAN
+4.3 :Why, no; for he hath made a solemn vow : None
+4.3 :Never to lie and take his natural rest : None
+4.3 :Till Warwick or himself be quite suppress'd. : None
+SECOND WATCHMAN
+4.3 :To-morrow then belike shall be the day, : None
+4.3 :If Warwick be so near as men report. : None
+THIRD WATCHMAN
+4.3 :But say, I pray, what nobleman is that : None
+4.3 :That with the king here resteth in his tent? : None
+FIRST WATCHMAN
+4.3 :'Tis the Lord Hastings, the king's chiefest friend. : None
+THIRD WATCHMAN
+4.3 :O, is it so? But why commands the king : None
+4.3 :That his chief followers lodge in towns about him, : None
+4.3 :While he himself keeps in the cold field? : None
+SECOND WATCHMAN
+4.3 :'Tis the more honour, because more dangerous. : None
+THIRD WATCHMAN
+4.3 :Ay, but give me worship and quietness; : None
+4.3 :I like it better than a dangerous honour. : None
+4.3 :If Warwick knew in what estate he stands, : None
+4.3 :'Tis to be doubted he would waken him. : None
+FIRST WATCHMAN
+4.3 :Unless our halberds did shut up his passage. : None
+SECOND WATCHMAN
+4.3 :Ay, wherefore else guard we his royal tent, : None
+4.3 :But to defend his person from night-foes? : None
+Enter WARWICK, CLARENCE, OXFORD, SOMERSET, and French soldiers, silent all : ["Enter - ['WARWICK', 'CLARENCE', 'OXFORD', 'SOMERSET', 'SOLDIER', 'ALL']"] : SECOND WATCHMAN
+WARWICK
+4.3 :This is his tent; and see where stand his guard. : None
+4.3 :Courage, my masters! honour now or never! : None
+4.3 :But follow me, and Edward shall be ours. : None
+FIRST WATCHMAN
+4.3 :Who goes there? : None
+SECOND WATCHMAN
+4.3 :Stay, or thou diest! : None
+WARWICK and the rest cry all, 'Warwick! Warwick!'  and set upon the Guard, who fly, crying, 'Arm! arm!' WARWICK and the rest following them : ["None - ['WARWICK', 'ALL', 'WARWICK', 'WARWICK', 'WARWICK']"] : SECOND WATCHMAN
+The drum playing and trumpet sounding, reenter  WARWICK, SOMERSET, and the rest, bringing KING  EDWARD IV out in his gown, sitting in a chair. RICHARD and HASTINGS fly over the stage : ["enter - ['WARWICK', 'SOMERSET', 'EDWARD']", "None - ['RICHARD', 'HASTINGS']"] : SECOND WATCHMAN
+SOMERSET
+4.3 :What are they that fly there? : None
+WARWICK
+4.3 :Richard and Hastings: let them go; here is The duke. : None
+KING EDWARD IV
+4.3 :        The duke! Why, Warwick, when we parted, : None
+4.3 :Thou call'dst me king. : None
+WARWICK
+4.3 :Ay, but the case is alter'd: : None
+4.3 :When you disgraced me in my embassade, : None
+4.3 :Then I degraded you from being king, : None
+4.3 :And come now to create you Duke of York. : None
+4.3 :Alas! how should you govern any kingdom, : None
+4.3 :That know not how to use ambassadors, : None
+4.3 :Nor how to be contented with one wife, : None
+4.3 :Nor how to use your brothers brotherly, : None
+4.3 :Nor how to study for the people's welfare, : None
+4.3 :Nor how to shroud yourself from enemies? : None
+KING EDWARD IV
+4.3 :Yea, brother of Clarence, are thou here too? : None
+4.3 :Nay, then I see that Edward needs must down. : None
+4.3 :Yet, Warwick, in despite of all mischance, : None
+4.3 :Of thee thyself and all thy complices, : None
+4.3 :Edward will always bear himself as king: : None
+4.3 :Though fortune's malice overthrow my state, : None
+4.3 :My mind exceeds the compass of her wheel. : None
+WARWICK
+4.3 :Then, for his mind, be Edward England's king: : None
+Takes off his crown : ['None - []'] : WARWICK
+4.3 :But Henry now shall wear the English crown, : None
+4.3 :And be true king indeed, thou but the shadow. : None
+4.3 :My Lord of Somerset, at my request, : None
+4.3 :See that forthwith Duke Edward be convey'd : None
+4.3 :Unto my brother, Archbishop of York. : None
+4.3 :When I have fought with Pembroke and his fellows, : None
+4.3 :I'll follow you, and tell what answer : None
+4.3 :Lewis and the Lady Bona send to him. : None
+4.3 :Now, for a while farewell, good Duke of York. : None
+They lead him out forcibly : ['None - []'] : WARWICK
+KING EDWARD IV
+4.3 :What fates impose, that men must needs abide; : None
+4.3 :It boots not to resist both wind and tide. : None
+Exit, guarded : ['Exit - []'] : KING EDWARD IV
+OXFORD
+4.3 :What now remains, my lords, for us to do : None
+4.3 :But march to London with our soldiers? : None
+WARWICK
+4.3 :Ay, that's the first thing that we have to do; : None
+4.3 :To free King Henry from imprisonment : None
+4.3 :And see him seated in the regal throne. : None
+Exeunt : ['Exeunt - []'] : WARWICK
+Scene(scene=4)
+Enter QUEEN ELIZABETH and RIVERS : ["Enter - ['QUEEN ELIZABETH', 'RIVERS']"] : WARWICK
+RIVERS
+4.4 :Madam, what makes you in this sudden change? : None
+QUEEN ELIZABETH
+4.4 :Why brother Rivers, are you yet to learn : None
+4.4 :What late misfortune is befall'n King Edward? : None
+RIVERS
+4.4 :What! loss of some pitch'd battle against Warwick? : None
+QUEEN ELIZABETH
+4.4 :No, but the loss of his own royal person. : None
+RIVERS
+4.4 :Then is my sovereign slain? : None
+QUEEN ELIZABETH
+4.4 :Ay, almost slain, for he is taken prisoner, : None
+4.4 :Either betray'd by falsehood of his guard : None
+4.4 :Or by his foe surprised at unawares: : None
+4.4 :And, as I further have to understand, : None
+4.4 :Is new committed to the Bishop of York, : None
+4.4 :Fell Warwick's brother and by that our foe. : None
+RIVERS
+4.4 :These news I must confess are full of grief; : None
+4.4 :Yet, gracious madam, bear it as you may: : None
+4.4 :Warwick may lose, that now hath won the day. : None
+QUEEN ELIZABETH
+4.4 :Till then fair hope must hinder life's decay. : None
+4.4 :And I the rather wean me from despair : None
+4.4 :For love of Edward's offspring in my womb: : None
+4.4 :This is it that makes me bridle passion : None
+4.4 :And bear with mildness my misfortune's cross; : None
+4.4 :Ay, ay, for this I draw in many a tear : None
+4.4 :And stop the rising of blood-sucking sighs, : None
+4.4 :Lest with my sighs or tears I blast or drown : None
+4.4 :King Edward's fruit, true heir to the English crown. : None
+RIVERS
+4.4 :But, madam, where is Warwick then become? : None
+QUEEN ELIZABETH
+4.4 :I am inform'd that he comes towards London, : None
+4.4 :To set the crown once more on Henry's head: : None
+4.4 :Guess thou the rest; King Edward's friends must down, : None
+4.4 :But, to prevent the tyrant's violence,-- : None
+4.4 :For trust not him that hath once broken faith,-- : None
+4.4 :I'll hence forthwith unto the sanctuary, : None
+4.4 :To save at least the heir of Edward's right: : None
+4.4 :There shall I rest secure from force and fraud. : None
+4.4 :Come, therefore, let us fly while we may fly: : None
+4.4 :If Warwick take us we are sure to die. : None
+Exeunt : ['Exeunt - []'] : QUEEN ELIZABETH
+Scene(scene=5)
+Enter GLOUCESTER, HASTINGS, and STANLEY : ["Enter - ['GLOUCESTER', 'HASTINGS']"] : QUEEN ELIZABETH
+GLOUCESTER
+4.5 :Now, my Lord Hastings and Sir William Stanley, : None
+4.5 :Leave off to wonder why I drew you hither, : None
+4.5 :Into this chiefest thicket of the park. : None
+4.5 :Thus stands the case: you know our king, my brother, : None
+4.5 :Is prisoner to the bishop here, at whose hands : None
+4.5 :He hath good usage and great liberty, : None
+4.5 :And, often but attended with weak guard, : None
+4.5 :Comes hunting this way to disport himself. : None
+4.5 :I have advertised him by secret means : None
+4.5 :That if about this hour he make his way : None
+4.5 :Under the colour of his usual game, : None
+4.5 :He shall here find his friends with horse and men : None
+4.5 :To set him free from his captivity. : None
+Enter KING EDWARD IV and a Huntsman with him : ["Enter - ['KING EDWARD IV', 'HUNTSMAN']"] : GLOUCESTER
+HUNTSMAN
+4.5 :This way, my lord; for this way lies the game. : None
+KING EDWARD IV
+4.5 :Nay, this way, man: see where the huntsmen stand. : None
+4.5 :Now, brother of Gloucester, Lord Hastings, and the rest, : None
+4.5 :Stand you thus close, to steal the bishop's deer? : None
+GLOUCESTER
+4.5 :Brother, the time and case requireth haste: : None
+4.5 :Your horse stands ready at the park-corner. : None
+KING EDWARD IV
+4.5 :But whither shall we then? : None
+HASTINGS
+4.5 :To Lynn, my lord, : None
+4.5 :And ship from thence to Flanders. : None
+GLOUCESTER
+4.5 :Well guess'd, believe me; for that was my meaning. : None
+KING EDWARD IV
+4.5 :Stanley, I will requite thy forwardness. : None
+GLOUCESTER
+4.5 :But wherefore stay we? 'tis no time to talk. : None
+KING EDWARD IV
+4.5 :Huntsman, what say'st thou? wilt thou go along? : None
+HUNTSMAN
+4.5 :Better do so than tarry and be hang'd. : None
+GLOUCESTER
+4.5 :Come then, away; let's ha' no more ado. : None
+KING EDWARD IV
+4.5 :Bishop, farewell: shield thee from Warwick's frown; : None
+4.5 :And pray that I may repossess the crown. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV
+Scene(scene=6)
+Flourish. Enter KING HENRY VI, CLARENCE, WARWICK,  SOMERSET, HENRY OF RICHMOND, OXFORD, MONTAGUE, and Lieutenant of the Tower : ['None - []', "Enter - ['KING HENRY VI', 'CLARENCE', 'WARWICK', 'SOMERSET', 'OXFORD', 'MONTAGUE', 'LIEUTENANT']"] : KING EDWARD IV
+KING HENRY VI
+4.6 :Master lieutenant, now that God and friends : None
+4.6 :Have shaken Edward from the regal seat, : None
+4.6 :And turn'd my captive state to liberty, : None
+4.6 :My fear to hope, my sorrows unto joys, : None
+4.6 :At our enlargement what are thy due fees? : None
+LIEUTENANT
+4.6 :Subjects may challenge nothing of their sovereigns; : None
+4.6 :But if an humble prayer may prevail, : None
+4.6 :I then crave pardon of your majesty. : None
+KING HENRY VI
+4.6 :For what, lieutenant? for well using me? : None
+4.6 :Nay, be thou sure I'll well requite thy kindness, : None
+4.6 :For that it made my imprisonment a pleasure; : None
+4.6 :Ay, such a pleasure as incaged birds : None
+4.6 :Conceive when after many moody thoughts : None
+4.6 :At last by notes of household harmony : None
+4.6 :They quite forget their loss of liberty. : None
+4.6 :But, Warwick, after God, thou set'st me free, : None
+4.6 :And chiefly therefore I thank God and thee; : None
+4.6 :He was the author, thou the instrument. : None
+4.6 :Therefore, that I may conquer fortune's spite : None
+4.6 :By living low, where fortune cannot hurt me, : None
+4.6 :And that the people of this blessed land : None
+4.6 :May not be punish'd with my thwarting stars, : None
+4.6 :Warwick, although my head still wear the crown, : None
+4.6 :I here resign my government to thee, : None
+4.6 :For thou art fortunate in all thy deeds. : None
+WARWICK
+4.6 :Your grace hath still been famed for virtuous; : None
+4.6 :And now may seem as wise as virtuous, : None
+4.6 :By spying and avoiding fortune's malice, : None
+4.6 :For few men rightly temper with the stars: : None
+4.6 :Yet in this one thing let me blame your grace, : None
+4.6 :For choosing me when Clarence is in place. : None
+CLARENCE
+4.6 :No, Warwick, thou art worthy of the sway, : None
+4.6 :To whom the heavens in thy nativity : None
+4.6 :Adjudged an olive branch and laurel crown, : None
+4.6 :As likely to be blest in peace and war; : None
+4.6 :And therefore I yield thee my free consent. : None
+WARWICK
+4.6 :And I choose Clarence only for protector. : None
+KING HENRY VI
+4.6 :Warwick and Clarence give me both your hands: : None
+4.6 :Now join your hands, and with your hands your hearts, : None
+4.6 :That no dissension hinder government: : None
+4.6 :I make you both protectors of this land, : None
+4.6 :While I myself will lead a private life : None
+4.6 :And in devotion spend my latter days, : None
+4.6 :To sin's rebuke and my Creator's praise. : None
+WARWICK
+4.6 :What answers Clarence to his sovereign's will? : None
+CLARENCE
+4.6 :That he consents, if Warwick yield consent; : None
+4.6 :For on thy fortune I repose myself. : None
+WARWICK
+4.6 :Why, then, though loath, yet must I be content: : None
+4.6 :We'll yoke together, like a double shadow : None
+4.6 :To Henry's body, and supply his place; : None
+4.6 :I mean, in bearing weight of government, : None
+4.6 :While he enjoys the honour and his ease. : None
+4.6 :And, Clarence, now then it is more than needful : None
+4.6 :Forthwith that Edward be pronounced a traitor, : None
+4.6 :And all his lands and goods be confiscate. : None
+CLARENCE
+4.6 :What else? and that succession be determined. : None
+WARWICK
+4.6 :Ay, therein Clarence shall not want his part. : None
+KING HENRY VI
+4.6 :But, with the first of all your chief affairs, : None
+4.6 :Let me entreat, for I command no more, : None
+4.6 :That Margaret your queen and my son Edward : None
+4.6 :Be sent for, to return from France with speed; : None
+4.6 :For, till I see them here, by doubtful fear : None
+4.6 :My joy of liberty is half eclipsed. : None
+CLARENCE
+4.6 :It shall be done, my sovereign, with all speed. : None
+KING HENRY VI
+4.6 :My Lord of Somerset, what youth is that, : None
+4.6 :Of whom you seem to have so tender care? : None
+SOMERSET
+4.6 :My liege, it is young Henry, earl of Richmond. : None
+KING HENRY VI
+4.6 :Come hither, England's hope. : None
+Lays his hand on his head : ['None - []'] : KING HENRY VI
+4.6 :If secret powers : None
+4.6 :Suggest but truth to my divining thoughts, : None
+4.6 :This pretty lad will prove our country's bliss. : None
+4.6 :His looks are full of peaceful majesty, : None
+4.6 :His head by nature framed to wear a crown, : None
+4.6 :His hand to wield a sceptre, and himself : None
+4.6 :Likely in time to bless a regal throne. : None
+4.6 :Make much of him, my lords, for this is he : None
+4.6 :Must help you more than you are hurt by me. : None
+Enter a Post : ["Enter - ['POST']"] : KING HENRY VI
+WARWICK
+4.6 :What news, my friend? : None
+POST
+4.6 :That Edward is escaped from your brother, : None
+4.6 :And fled, as he hears since, to Burgundy. : None
+WARWICK
+4.6 :Unsavoury news! but how made he escape? : None
+POST
+4.6 :He was convey'd by Richard Duke of Gloucester : None
+4.6 :And the Lord Hastings, who attended him : None
+4.6 :In secret ambush on the forest side : None
+4.6 :And from the bishop's huntsmen rescued him; : None
+4.6 :For hunting was his daily exercise. : None
+WARWICK
+4.6 :My brother was too careless of his charge. : None
+4.6 :But let us hence, my sovereign, to provide : None
+4.6 :A salve for any sore that may betide. : None
+Exeunt all but SOMERSET, HENRY OF RICHMOND, and OXFORD : ["Exeunt - ['ALL', 'SOMERSET', 'OXFORD']"] : WARWICK
+SOMERSET
+4.6 :My lord, I like not of this flight of Edward's; : None
+4.6 :For doubtless Burgundy will yield him help, : None
+4.6 :And we shall have more wars before 't be long. : None
+4.6 :As Henry's late presaging prophecy : None
+4.6 :Did glad my heart with hope of this young Richmond, : None
+4.6 :So doth my heart misgive me, in these conflicts : None
+4.6 :What may befall him, to his harm and ours: : None
+4.6 :Therefore, Lord Oxford, to prevent the worst, : None
+4.6 :Forthwith we'll send him hence to Brittany, : None
+4.6 :Till storms be past of civil enmity. : None
+OXFORD
+4.6 :Ay, for if Edward repossess the crown, : None
+4.6 :'Tis like that Richmond with the rest shall down. : None
+SOMERSET
+4.6 :It shall be so; he shall to Brittany. : None
+4.6 :Come, therefore, let's about it speedily. : None
+Exeunt : ['Exeunt - []'] : SOMERSET
+Scene(scene=7)
+Flourish. Enter KING EDWARD IV, GLOUCESTER, HASTINGS, and Soldiers : ['None - []', "Enter - ['KING EDWARD IV', 'GLOUCESTER', 'HASTINGS', 'SOLDIER']"] : SOMERSET
+KING EDWARD IV
+4.7 :Now, brother Richard, Lord Hastings, and the rest, : None
+4.7 :Yet thus far fortune maketh us amends, : None
+4.7 :And says that once more I shall interchange : None
+4.7 :My waned state for Henry's regal crown. : None
+4.7 :Well have we pass'd and now repass'd the seas : None
+4.7 :And brought desired help from Burgundy: : None
+4.7 :What then remains, we being thus arrived : None
+4.7 :From Ravenspurgh haven before the gates of York, : None
+4.7 :But that we enter, as into our dukedom? : None
+GLOUCESTER
+4.7 :The gates made fast! Brother, I like not this; : None
+4.7 :For many men that stumble at the threshold : None
+4.7 :Are well foretold that danger lurks within. : None
+KING EDWARD IV
+4.7 :Tush, man, abodements must not now affright us: : None
+4.7 :By fair or foul means we must enter in, : None
+4.7 :For hither will our friends repair to us. : None
+HASTINGS
+4.7 :My liege, I'll knock once more to summon them. : None
+Enter, on the walls, the Mayor of York, and his Brethren : ["Enter - ['ALL', 'MAYOR', 'YORK']"] : HASTINGS
+MAYOR
+4.7 :My lords, we were forewarned of your coming, : None
+4.7 :And shut the gates for safety of ourselves; : None
+4.7 :For now we owe allegiance unto Henry. : None
+KING EDWARD IV
+4.7 :But, master mayor, if Henry be your king, : None
+4.7 :Yet Edward at the least is Duke of York. : None
+MAYOR
+4.7 :True, my good lord; I know you for no less. : None
+KING EDWARD IV
+4.7 :Why, and I challenge nothing but my dukedom, : None
+4.7 :As being well content with that alone. : None
+GLOUCESTER
+4.7 :  But when the fox hath once got in his nose, : Aside : ['Aside - []'] : GLOUCESTER
+4.7 :He'll soon find means to make the body follow. : None
+HASTINGS
+4.7 :Why, master mayor, why stand you in a doubt? : None
+4.7 :Open the gates; we are King Henry's friends. : None
+MAYOR
+4.7 :Ay, say you so? the gates shall then be open'd. : None
+They descend : ['None - []'] : MAYOR
+GLOUCESTER
+4.7 :A wise stout captain, and soon persuaded! : None
+HASTINGS
+4.7 :The good old man would fain that all were well, : None
+4.7 :So 'twere not 'long of him; but being enter'd, : None
+4.7 :I doubt not, I, but we shall soon persuade : None
+4.7 :Both him and all his brothers unto reason. : None
+Enter the Mayor and two Aldermen, below : ["Enter - ['MAYOR']"] : HASTINGS
+KING EDWARD IV
+4.7 :So, master mayor: these gates must not be shut : None
+4.7 :But in the night or in the time of war. : None
+4.7 :What! fear not, man, but yield me up the keys; : None
+Takes his keys : ['None - []'] : KING EDWARD IV
+4.7 :For Edward will defend the town and thee, : None
+4.7 :And all those friends that deign to follow me. : None
+March. Enter MONTGOMERY, with drum and soldiers : ['None - []', "Enter - ['SOLDIER']"] : KING EDWARD IV
+GLOUCESTER
+4.7 :Brother, this is Sir John Montgomery, : None
+4.7 :Our trusty friend, unless I be deceived. : None
+KING EDWARD IV
+4.7 :Welcome, Sir John! But why come you in arms? : None
+MONTAGUE
+4.7 :To help King Edward in his time of storm, : None
+4.7 :As every loyal subject ought to do. : None
+KING EDWARD IV
+4.7 :Thanks, good Montgomery; but we now forget : None
+4.7 :Our title to the crown and only claim : None
+4.7 :Our dukedom till God please to send the rest. : None
+MONTAGUE
+4.7 :Then fare you well, for I will hence again: : None
+4.7 :I came to serve a king and not a duke. : None
+4.7 :Drummer, strike up, and let us march away. : None
+The drum begins to march : ['to - []'] : MONTAGUE
+KING EDWARD IV
+4.7 :Nay, stay, Sir John, awhi le, and we'll debate : None
+4.7 :By what safe means the crown may be recover'd. : None
+MONTAGUE
+4.7 :What talk you of debating? in few words, : None
+4.7 :If you'll not here proclaim yourself our king, : None
+4.7 :I'll leave you to your fortune and be gone : None
+4.7 :To keep them back that come to succor you: : None
+4.7 :Why shall we fight, if you pretend no title? : None
+GLOUCESTER
+4.7 :Why, brother, wherefore stand you on nice points? : None
+KING EDWARD IV
+4.7 :When we grow stronger, then we'll make our claim: : None
+4.7 :Till then, 'tis wisdom to conceal our meaning. : None
+HASTINGS
+4.7 :Away with scrupulous wit! now arms must rule. : None
+GLOUCESTER
+4.7 :And fearless minds climb soonest unto crowns. : None
+4.7 :Brother, we will proclaim you out of hand: : None
+4.7 :The bruit thereof will bring you many friends. : None
+KING EDWARD IV
+4.7 :Then be it as you will; for 'tis my right, : None
+4.7 :And Henry but usurps the diadem. : None
+MONTAGUE
+4.7 :Ay, now my sovereign speaketh like himself; : None
+4.7 :And now will I be Edward's champion. : None
+HASTINGS
+4.7 :Sound trumpet; Edward shall be here proclaim'd: : None
+4.7 :Come, fellow-soldier, make thou proclamation. : None
+Flourish : ['None - []'] : HASTINGS
+SOLDIER
+4.7 :Edward the Fourth, by the grace of God, king of : None
+4.7 :England and France, and lord of Ireland,  & c. : None
+MONTAGUE
+4.7 :And whosoe'er gainsays King Edward's right, : None
+4.7 :By this I challenge him to single fight. : None
+Throws down his gauntlet : ['None - []'] : MONTAGUE
+ALL
+4.7 :Long live Edward the Fourth! : None
+KING EDWARD IV
+4.7 :Thanks, brave Montgomery; and thanks unto you all: : None
+4.7 :If fortune serve me, I'll requite this kindness. : None
+4.7 :Now, for this night, let's harbour here in York; : None
+4.7 :And when the morning sun shall raise his car : None
+4.7 :Above the border of this horizon, : None
+4.7 :We'll forward towards Warwick and his mates; : None
+4.7 :For well I wot that Henry is no soldier. : None
+4.7 :Ah, froward Clarence! how evil it beseems thee : None
+4.7 :To flatter Henry and forsake thy brother! : None
+4.7 :Yet, as we may, we'll meet both thee and Warwick. : None
+4.7 :Come on, brave soldiers: doubt not of the day, : None
+4.7 :And, that once gotten, doubt not of large pay. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV
+Scene(scene=8)
+Flourish. Enter KING HENRY VI, WARWICK, MONTAGUE, CLARENCE, EXETER, and OXFORD : ['None - []', "Enter - ['KING HENRY VI', 'WARWICK', 'MONTAGUE', 'CLARENCE', 'EXETER', 'OXFORD']"] : KING EDWARD IV
+WARWICK
+4.8 :What counsel, lords? Edward from Belgia, : None
+4.8 :With hasty Germans and blunt Hollanders, : None
+4.8 :Hath pass'd in safety through the narrow seas, : None
+4.8 :And with his troops doth march amain to London; : None
+4.8 :And many giddy people flock to him. : None
+KING HENRY VI
+4.8 :Let's levy men, and beat him back again. : None
+CLARENCE
+4.8 :A little fire is quickly trodden out; : None
+4.8 :Which, being suffer'd, rivers cannot quench. : None
+WARWICK
+4.8 :In Warwickshire I have true-hearted friends, : None
+4.8 :Not mutinous in peace, yet bold in war; : None
+4.8 :Those will I muster up: and thou, son Clarence, : None
+4.8 :Shalt stir up in Suffolk, Norfolk, and in Kent, : None
+4.8 :The knights and gentlemen to come with thee: : None
+4.8 :Thou, brother Montague, in Buckingham, : None
+4.8 :Northampton and in Leicestershire, shalt find : None
+4.8 :Men well inclined to hear what thou command'st: : None
+4.8 :And thou, brave Oxford, wondrous well beloved, : None
+4.8 :In Oxfordshire shalt muster up thy friends. : None
+4.8 :My sovereign, with the loving citizens, : None
+4.8 :Like to his island girt in with the ocean, : None
+4.8 :Or modest Dian circled with her nymphs, : None
+4.8 :Shall rest in London till we come to him. : None
+4.8 :Fair lords, take leave and stand not to reply. : None
+4.8 :Farewell, my sovereign. : None
+KING HENRY VI
+4.8 :Farewell, my Hector, and my Troy's true hope. : None
+CLARENCE
+4.8 :In sign of truth, I kiss your highness' hand. : None
+KING HENRY VI
+4.8 :Well-minded Clarence, be thou fortunate! : None
+MONTAGUE
+4.8 :Comfort, my lord; and so I take my leave. : None
+OXFORD
+4.8 :And thus I seal my truth, and bid adieu. : None
+KING HENRY VI
+4.8 :Sweet Oxford, and my loving Montague, : None
+4.8 :And all at once, once more a happy farewell. : None
+WARWICK
+4.8 :Farewell, sweet lords: let's meet at Coventry. : None
+Exeunt all but KING HENRY VI and EXETER : ["Exeunt - ['ALL', 'KING HENRY VI', 'EXETER']"] : WARWICK
+KING HENRY VI
+4.8 :Here at the palace I will rest awhile. : None
+4.8 :Cousin of Exeter, what thinks your lordship? : None
+4.8 :Methinks the power that Edward hath in field : None
+4.8 :Should not be able to encounter mine. : None
+EXETER
+4.8 :The doubt is that he will seduce the rest. : None
+KING HENRY VI
+4.8 :That's not my fear; my meed hath got me fame: : None
+4.8 :I have not stopp'd mine ears to their demands, : None
+4.8 :Nor posted off their suits with slow delays; : None
+4.8 :My pity hath been balm to heal their wounds, : None
+4.8 :My mildness hath allay'd their swelling griefs, : None
+4.8 :My mercy dried their water-flowing tears; : None
+4.8 :I have not been desirous of their wealth, : None
+4.8 :Nor much oppress'd them with great subsidies. : None
+4.8 :Nor forward of revenge, though they much err'd: : None
+4.8 :Then why should they love Edward more than me? : None
+4.8 :No, Exeter, these graces challenge grace: : None
+4.8 :And when the lion fawns upon the lamb, : None
+4.8 :The lamb will never cease to follow him. : None
+Shout within. 'A Lancaster! A Lancaster!' : ['None - []', 'None - []'] : KING HENRY VI
+EXETER
+4.8 :Hark, hark, my lord! what shouts are these? : None
+Enter KING EDWARD IV, GLOUCESTER, and soldiers : ["Enter - ['KING EDWARD IV', 'GLOUCESTER', 'SOLDIER']"] : EXETER
+KING EDWARD IV
+4.8 :Seize on the shame-faced Henry, bear him hence; : None
+4.8 :And once again proclaim us King of England. : None
+4.8 :You are the fount that makes small brooks to flow: : None
+4.8 :Now stops thy spring; my sea sha$l suck them dry, : None
+4.8 :And swell so much the higher by their ebb. : None
+4.8 :Hence with him to the Tower; let him not speak. : None
+Exeunt some with KING HENRY VI : ["Exeunt - ['KING HENRY VI']"] : KING EDWARD IV
+4.8 :And, lords, towards Coventry bend we our course : None
+4.8 :Where peremptory Warwick now remains: : None
+4.8 :The sun shines hot; and, if we use delay, : None
+4.8 :Cold biting winter mars our hoped-for hay. : None
+GLOUCESTER
+4.8 :Away betimes, before his forces join, : None
+4.8 :And take the great-grown traitor unawares: : None
+4.8 :Brave warriors, march amain towards Coventry. : None
+Exeunt : ['Exeunt - []'] : GLOUCESTER
+Act(act=5)
+Scene(scene=1)
+Enter WARWICK, the Mayor of Coventry, two Messengers, and others upon the walls : ["Enter - ['WARWICK', 'MAYOR', 'MESSENGER', 'ALL']"] : GLOUCESTER
+WARWICK
+5.1 :Where is the post that came from valiant Oxford? : None
+5.1 :How far hence is thy lord, mine honest fellow? : None
+FIRST MESSENGER
+5.1 :By this at Dunsmore, marching hitherward. : None
+WARWICK
+5.1 :How far off is our brother Montague? : None
+5.1 :Where is the post that came from Montague? : None
+SECOND MESSENGER
+5.1 :By this at Daintry, with a puissant troop. : None
+Enter SIR JOHN SOMERVILLE : ['Enter - []'] : SECOND MESSENGER
+WARWICK
+5.1 :Say, Somerville, what says my loving son? : None
+5.1 :And, by thy guess, how nigh is Clarence now? : None
+SOMERSET
+5.1 :At Southam I did leave him with his forces, : None
+5.1 :And do expect him here some two hours hence. : None
+Drum heard : ['None - []'] : SOMERSET
+WARWICK
+5.1 :Then Clarence is at hand, I hear his drum. : None
+SOMERSET
+5.1 :It is not his, my lord; here Southam lies: : None
+5.1 :The drum your honour hears marcheth from Warwick. : None
+WARWICK
+5.1 :Who should that be? belike, unlook'd-for friends. : None
+SOMERSET
+5.1 :They are at hand, and you shall quickly know. : None
+March: flourish. Enter KING EDWARD IV, GLOUCESTER, and soldiers : ['None - []', "Enter - ['KING EDWARD IV', 'GLOUCESTER', 'SOLDIER']"] : SOMERSET
+KING EDWARD IV
+5.1 :Go, trumpet, to the walls, and sound a parle. : None
+GLOUCESTER
+5.1 :See how the surly Warwick mans the wall! : None
+WARWICK
+5.1 :O unbid spite! is sportful Edward come? : None
+5.1 :Where slept our scouts, or how are they seduced, : None
+5.1 :That we could hear no news of his repair? : None
+KING EDWARD IV
+5.1 :Now, Warwick, wilt thou ope the city gates, : None
+5.1 :Speak gentle words and humbly bend thy knee, : None
+5.1 :Call Edward king and at his hands beg mercy? : None
+5.1 :And he shall pardon thee these outrages. : None
+WARWICK
+5.1 :Nay, rather, wilt thou draw thy forces hence, : None
+5.1 :Confess who set thee up and pluck'd thee own, : None
+5.1 :Call Warwick patron and be penitent? : None
+5.1 :And thou shalt still remain the Duke of York. : None
+GLOUCESTER
+5.1 :I thought, at least, he would have said the king; : None
+5.1 :Or did he make the jest against his will? : None
+WARWICK
+5.1 :Is not a dukedom, sir, a goodly gift? : None
+GLOUCESTER
+5.1 :Ay, by my faith, for a poor earl to give: : None
+5.1 :I'll do thee service for so good a gift. : None
+WARWICK
+5.1 :'Twas I that gave the kingdom to thy brother. : None
+KING EDWARD IV
+5.1 :Why then 'tis mine, if but by Warwick's gift. : None
+WARWICK
+5.1 :Thou art no Atlas for so great a weight: : None
+5.1 :And weakling, Warwick takes his gift again; : None
+5.1 :And Henry is my king, Warwick his subject. : None
+KING EDWARD IV
+5.1 :But Warwick's king is Edward's prisoner: : None
+5.1 :And, gallant Warwick, do but answer this: : None
+5.1 :What is the body when the head is off? : None
+GLOUCESTER
+5.1 :Alas, that Warwick had no more forecast, : None
+5.1 :But, whiles he thought to steal the single ten, : None
+5.1 :The king was slily finger'd from the deck! : None
+5.1 :You left poor Henry at the Bishop's palace, : None
+5.1 :And, ten to one, you'll meet him in the Tower. : None
+EDWARD
+5.1 :'Tis even so; yet you are Warwick still. : None
+GLOUCESTER
+5.1 :Come, Warwick, take the time; kneel down, kneel down: : None
+5.1 :Nay, when? strike now, or else the iron cools. : None
+WARWICK
+5.1 :I had rather chop this hand off at a blow, : None
+5.1 :And with the other fling it at thy face, : None
+5.1 :Than bear so low a sail, to strike to thee. : None
+KING EDWARD IV
+5.1 :Sail how thou canst, have wind and tide thy friend, : None
+5.1 :This hand, fast wound about thy coal-black hair : None
+5.1 :Shall, whiles thy head is warm and new cut off, : None
+5.1 :Write in the dust this sentence with thy blood, : None
+5.1 :'Wind-changing Warwick now can change no more.' : None
+Enter OXFORD, with drum and colours : ["Enter - ['OXFORD']"] : KING EDWARD IV
+WARWICK
+5.1 :O cheerful colours! see where Oxford comes! : None
+OXFORD
+5.1 :Oxford, Oxford, for Lancaster! : None
+He and his forces enter the city : ['enter - []'] : OXFORD
+GLOUCESTER
+5.1 :The gates are open, let us enter too. : None
+KING EDWARD IV
+5.1 :So other foes may set upon our backs. : None
+5.1 :Stand we in good array; for they no doubt : None
+5.1 :Will issue out again and bid us battle: : None
+5.1 :If not, the city being but of small defence, : None
+5.1 :We'll quickly rouse the traitors in the same. : None
+WARWICK
+5.1 :O, welcome, Oxford! for we want thy help. : None
+Enter MONTAGUE with drum and colours : ["Enter - ['MONTAGUE']"] : WARWICK
+MONTAGUE
+5.1 :Montague, Montague, for Lancaster! : None
+He and his forces enter the city : ['enter - []'] : MONTAGUE
+GLOUCESTER
+5.1 :Thou and thy brother both shall buy this treason : None
+5.1 :Even with the dearest blood your bodies bear. : None
+KING EDWARD IV
+5.1 :The harder match'd, the greater victory: : None
+5.1 :My mind presageth happy gain and conquest. : None
+Enter SOMERSET, with drum and colours : ["Enter - ['SOMERSET']"] : KING EDWARD IV
+SOMERSET
+5.1 :Somerset, Somerset, for Lancaster! : None
+He and his forces enter the city : ['enter - []'] : SOMERSET
+GLOUCESTER
+5.1 :Two of thy name, both Dukes of Somerset, : None
+5.1 :Have sold their lives unto the house of York; : None
+5.1 :And thou shalt be the third if this sword hold. : None
+Enter CLARENCE, with drum and colours : ["Enter - ['CLARENCE']"] : GLOUCESTER
+WARWICK
+5.1 :And lo, where George of Clarence sweeps along, : None
+5.1 :Of force enough to bid his brother battle; : None
+5.1 :With whom an upright zeal to right prevails : None
+5.1 :More than the nature of a brother's love! : None
+5.1 :Come, Clarence, come; thou wilt, if Warwick call. : None
+CLARENCE
+5.1 :Father of Warwick, know you what this means? : None
+Taking his red rose out of his hat : ['None - []'] : CLARENCE
+5.1 :Look here, I throw my infamy at thee : None
+5.1 :I will not ruinate my father's house, : None
+5.1 :Who gave his blood to lime the stones together, : None
+5.1 :And set up Lancaster. Why, trow'st thou, Warwick, : None
+5.1 :That Clarence is so harsh, so blunt, unnatural, : None
+5.1 :To bend the fatal instruments of war : None
+5.1 :Against his brother and his lawful king? : None
+5.1 :Perhaps thou wilt object my holy oath: : None
+5.1 :To keep that oath were more impiety : None
+5.1 :Than Jephthah's, when he sacrificed his daughter. : None
+5.1 :I am so sorry for my trespass made : None
+5.1 :That, to deserve well at my brother's hands, : None
+5.1 :I here proclaim myself thy mortal foe, : None
+5.1 :With resolution, wheresoe'er I meet thee-- : None
+5.1 :As I will meet thee, if thou stir abroad-- : None
+5.1 :To plague thee for thy foul misleading me. : None
+5.1 :And so, proud-hearted Warwick, I defy thee, : None
+5.1 :And to my brother turn my blushing cheeks. : None
+5.1 :Pardon me, Edward, I will make amends: : None
+5.1 :And, Richard, do not frown upon my faults, : None
+5.1 :For I will henceforth be no more unconstant. : None
+KING EDWARD IV
+5.1 :Now welcome more, and ten times more beloved, : None
+5.1 :Than if thou never hadst deserved our hate. : None
+GLOUCESTER
+5.1 :Welcome, good Clarence; this is brotherlike. : None
+WARWICK
+5.1 :O passing traitor, perjured and unjust! : None
+KING EDWARD IV
+5.1 :What, Warwick, wilt thou leave the town and fight? : None
+5.1 :Or shall we beat the stones about thine ears? : None
+WARWICK
+5.1 :Alas, I am not coop'd here for defence! : None
+5.1 :I will away towards Barnet presently, : None
+5.1 :And bid thee battle, Edward, if thou darest. : None
+KING EDWARD IV
+5.1 :Yes, Warwick, Edward dares, and leads the way. : None
+5.1 :Lords, to the field; Saint George and victory! : None
+Exeunt King Edward and his company. March. Warwick and his company follow : ["Exeunt - ['EDWARD']", 'None - []', "None - ['WARWICK']"] : KING EDWARD IV
+Scene(scene=2)
+Alarum and excursions. Enter KING EDWARD IV, bringing forth WARWICK wounded : ['None - []', "Enter - ['KING EDWARD IV', 'WARWICK']"] : KING EDWARD IV
+KING EDWARD IV
+5.2 :So, lie thou there: die thou, and die our fear; : None
+5.2 :For Warwick was a bug that fear'd us all. : None
+5.2 :Now, Montague, sit fast; I seek for thee, : None
+5.2 :That Warwick's bones may keep thine company. : None
+Exit : ['Exit - []'] : KING EDWARD IV
+WARWICK
+5.2 :Ah, who is nigh? come to me, friend or foe, : None
+5.2 :And tell me who is victor, York or Warwick? : None
+5.2 :Why ask I that? my mangled body shows, : None
+5.2 :My blood, my want of strength, my sick heart shows. : None
+5.2 :That I must yield my body to the earth : None
+5.2 :And, by my fall, the conquest to my foe. : None
+5.2 :Thus yields the cedar to the axe's edge, : None
+5.2 :Whose arms gave shelter to the princely eagle, : None
+5.2 :Under whose shade the ramping lion slept, : None
+5.2 :Whose top-branch overpeer'd Jove's spreading tree : None
+5.2 :And kept low shrubs from winter's powerful wind. : None
+5.2 :These eyes, that now are dimm'd with death's black veil, : None
+5.2 :Have been as piercing as the mid-day sun, : None
+5.2 :To search the secret treasons of the world: : None
+5.2 :The wrinkles in my brows, now filled with blood, : None
+5.2 :Were liken'd oft to kingly sepulchres; : None
+5.2 :For who lived king, but I could dig his grave? : None
+5.2 :And who durst mine when Warwick bent his brow? : None
+5.2 :Lo, now my glory smear'd in dust and blood! : None
+5.2 :My parks, my walks, my manors that I had. : None
+5.2 :Even now forsake me, and of all my lands : None
+5.2 :Is nothing left me but my body's length. : None
+5.2 :Why, what is pomp, rule, reign, but earth and dust? : None
+5.2 :And, live we how we can, yet die we must. : None
+Enter OXFORD and SOMERSET : ["Enter - ['OXFORD', 'SOMERSET']"] : WARWICK
+SOMERSET
+5.2 :Ah, Warwick, Warwick! wert thou as we are. : None
+5.2 :We might recover all our loss again; : None
+5.2 :The queen from France hath brought a puissant power: : None
+5.2 :Even now we heard the news: ah, could'st thou fly! : None
+WARWICK
+5.2 :Why, then I would not fly. Ah, Montague, : None
+5.2 :If thou be there, sweet brother, take my hand. : None
+5.2 :And with thy lips keep in my soul awhile! : None
+5.2 :Thou lovest me not; for, brother, if thou didst, : None
+5.2 :Thy tears would wash this cold congealed blood : None
+5.2 :That glues my lips and will not let me speak. : None
+5.2 :Come quickly, Montague, or I am dead. : None
+SOMERSET
+5.2 :Ah, Warwick! Montague hath breathed his last; : None
+5.2 :And to the latest gasp cried out for Warwick, : None
+5.2 :And said 'Commend me to my valiant brother.' : None
+5.2 :And more he would have said, and more he spoke, : None
+5.2 :Which sounded like a clamour in a vault, : None
+5.2 :That mought not be distinguished; but at last : None
+5.2 :I well might hear, delivered with a groan, : None
+5.2 :'O, farewell, Warwick!' : None
+WARWICK
+5.2 :Sweet rest his soul! Fly, lords, and save yourselves; : None
+5.2 :For Warwick bids you all farewell to meet in heaven. : None
+Dies : ['None - []'] : WARWICK
+OXFORD
+5.2 :Away, away, to meet the queen's great power! : None
+Here they bear away his body. Exeunt : ['None - []', 'Exeunt - []'] : OXFORD
+Scene(scene=3)
+Flourish. Enter KING EDWARD IV in triumph; with GLOUCESTER, CLARENCE, and the rest : ['None - []', "Enter - ['KING EDWARD IV', 'GLOUCESTER', 'CLARENCE']"] : OXFORD
+KING EDWARD IV
+5.3 :Thus far our fortune keeps an upward course, : None
+5.3 :And we are graced with wreaths of victory. : None
+5.3 :But, in the midst of this bright-shining day, : None
+5.3 :I spy a black, suspicious, threatening cloud, : None
+5.3 :That will encounter with our glorious sun, : None
+5.3 :Ere he attain his easeful western bed: : None
+5.3 :I mean, my lords, those powers that the queen : None
+5.3 :Hath raised in Gallia have arrived our coast : None
+5.3 :And, as we hear, march on to fight with us. : None
+CLARENCE
+5.3 :A little gale will soon disperse that cloud : None
+5.3 :And blow it to the source from whence it came: : None
+5.3 :The very beams will dry those vapours up, : None
+5.3 :For every cloud engenders not a storm. : None
+GLOUCESTER
+5.3 :The queen is valued thirty thousand strong, : None
+5.3 :And Somerset, with Oxford fled to her: : None
+5.3 :If she have time to breathe be well assured : None
+5.3 :Her faction will be full as strong as ours. : None
+KING EDWARD IV
+5.3 :We are advertised by our loving friends : None
+5.3 :That they do hold their course toward Tewksbury: : None
+5.3 :We, having now the best at Barnet field, : None
+5.3 :Will thither straight, for willingness rids way; : None
+5.3 :And, as we march, our strength will be augmented : None
+5.3 :In every county as we go along. : None
+5.3 :Strike up the drum; cry 'Courage!' and away. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV
+Scene(scene=4)
+March. Enter QUEEN MARGARET, PRINCE EDWARD, SOMERSET, OXFORD, and soldiers : ['None - []', "Enter - ['QUEEN MARGARET', 'PRINCE EDWARD', 'SOMERSET', 'OXFORD', 'SOLDIER']"] : KING EDWARD IV
+QUEEN MARGARET
+5.4 :Great lords, wise men ne'er sit and wail their loss, : None
+5.4 :But cheerly seek how to redress their harms. : None
+5.4 :What though the mast be now blown overboard, : None
+5.4 :The cable broke, the holding-anchor lost, : None
+5.4 :And half our sailors swallow'd in the flood? : None
+5.4 :Yet lives our pilot still. Is't meet that he : None
+5.4 :Should leave the helm and like a fearful lad : None
+5.4 :With tearful eyes add water to the sea : None
+5.4 :And give more strength to that which hath too much, : None
+5.4 :Whiles, in his moan, the ship splits on the rock, : None
+5.4 :Which industry and courage might have saved? : None
+5.4 :Ah, what a shame! ah, what a fault were this! : None
+5.4 :Say Warwick was our anchor; what of that? : None
+5.4 :And Montague our topmost; what of him? : None
+5.4 :Our slaughter'd friends the tackles; what of these? : None
+5.4 :Why, is not Oxford here another anchor? : None
+5.4 :And Somerset another goodly mast? : None
+5.4 :The friends of France our shrouds and tacklings? : None
+5.4 :And, though unskilful, why not Ned and I : None
+5.4 :For once allow'd the skilful pilot's charge? : None
+5.4 :We will not from the helm to sit and weep, : None
+5.4 :But keep our course, though the rough wind say no, : None
+5.4 :From shelves and rocks that threaten us with wreck. : None
+5.4 :As good to chide the waves as speak them fair. : None
+5.4 :And what is Edward but ruthless sea? : None
+5.4 :What Clarence but a quicksand of deceit? : None
+5.4 :And Richard but a ragged fatal rock? : None
+5.4 :All these the enemies to our poor bark. : None
+5.4 :Say you can swim; alas, 'tis but a while! : None
+5.4 :Tread on the sand; why, there you quickly sink: : None
+5.4 :Bestride the rock; the tide will wash you off, : None
+5.4 :Or else you famish; that's a threefold death. : None
+5.4 :This speak I, lords, to let you understand, : None
+5.4 :If case some one of you would fly from us, : None
+5.4 :That there's no hoped-for mercy with the brothers : None
+5.4 :More than with ruthless waves, with sands and rocks. : None
+5.4 :Why, courage then! what cannot be avoided : None
+5.4 :'Twere childish weakness to lament or fear. : None
+PRINCE EDWARD
+5.4 :Methinks a woman of this valiant spirit : None
+5.4 :Should, if a coward heard her speak these words, : None
+5.4 :Infuse his breast with magnanimity : None
+5.4 :And make him, naked, foil a man at arms. : None
+5.4 :I speak not this as doubting any here : None
+5.4 :For did I but suspect a fearful man : None
+5.4 :He should have leave to go away betimes, : None
+5.4 :Lest in our need he might infect another : None
+5.4 :And make him of like spirit to himself. : None
+5.4 :If any such be here--as God forbid!-- : None
+5.4 :Let him depart before we need his help. : None
+OXFORD
+5.4 :Women and children of so high a courage, : None
+5.4 :And warriors faint! why, 'twere perpetual shame. : None
+5.4 :O brave young prince! thy famous grandfather : None
+5.4 :Doth live again in thee: long mayst thou live : None
+5.4 :To bear his image and renew his glories! : None
+SOMERSET
+5.4 :And he that will not fight for such a hope. : None
+5.4 :Go home to bed, and like the owl by day, : None
+5.4 :If he arise, be mock'd and wonder'd at. : None
+QUEEN MARGARET
+5.4 :Thanks, gentle Somerset; sweet Oxford, thanks. : None
+PRINCE EDWARD
+5.4 :And take his thanks that yet hath nothing else. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : PRINCE EDWARD
+MESSENGER
+5.4 :Prepare you, lords, for Edward is at hand. : None
+5.4 :Ready to fight; therefore be resolute. : None
+OXFORD
+5.4 : I thought no less: it is his policy : None
+5.4 :To haste thus fast, to find us unprovided. : None
+SOMERSET
+5.4 :But he's deceived; we are in readiness. : None
+QUEEN MARGARET
+5.4 :This cheers my heart, to see your forwardness. : None
+OXFORD
+5.4 :Here pitch our battle; hence we will not budge. : None
+Flourish and march. Enter KING EDWARD IV, GLOUCESTER, CLARENCE, and soldiers : ['None - []', "Enter - ['KING EDWARD IV', 'GLOUCESTER', 'CLARENCE', 'SOLDIER']"] : OXFORD
+KING EDWARD IV
+5.4 :Brave followers, yonder stands the thorny wood, : None
+5.4 :Which, by the heavens' assistance and your strength, : None
+5.4 :Must by the roots be hewn up yet ere night. : None
+5.4 :I need not add more fuel to your fire, : None
+5.4 :For well I wot ye blaze to burn them out : None
+5.4 :Give signal to the fight, and to it, lords! : None
+QUEEN MARGARET
+5.4 :Lords, knights, and gentlemen, what I should say : None
+5.4 :My tears gainsay; for every word I speak, : None
+5.4 :Ye see, I drink the water of mine eyes. : None
+5.4 :Therefore, no more but this: Henry, your sovereign, : None
+5.4 :Is prisoner to the foe; his state usurp'd, : None
+5.4 :His realm a slaughter-house, his subjects slain, : None
+5.4 :His statutes cancell'd and his treasure spent; : None
+5.4 :And yonder is the wolf that makes this spoil. : None
+5.4 :You fight in justice: then, in God's name, lords, : None
+5.4 :Be valiant and give signal to the fight. : None
+Alarum. Retreat. Excursions. Exeunt : ['None - []', 'None - []', 'None - []', 'Exeunt - []'] : QUEEN MARGARET
+Scene(scene=5)
+Flourish. Enter KING EDWARD IV, GLOUCESTER, CLARENCE,  and soldiers; with QUEEN MARGARET, OXFORD, and SOMERSET, prisoners : ['None - []', "Enter - ['KING EDWARD IV', 'GLOUCESTER', 'CLARENCE', 'SOLDIER', 'QUEEN MARGARET', 'OXFORD', 'SOMERSET', 'SON']"] : QUEEN MARGARET
+KING EDWARD IV
+5.5 :Now here a period of tumultuous broils. : None
+5.5 :Away with Oxford to Hames Castle straight: : None
+5.5 :For Somerset, off with his guilty head. : None
+5.5 :Go, bear them hence; I will not hear them speak. : None
+OXFORD
+5.5 :For my part, I'll not trouble thee with words. : None
+SOMERSET
+5.5 :Nor I, but stoop with patience to my fortune. : None
+Exeunt Oxford and Somerset, guarded : ["Exeunt - ['OXFORD', 'SOMERSET']"] : SOMERSET
+QUEEN MARGARET
+5.5 :So part we sadly in this troublous world, : None
+5.5 :To meet with joy in sweet Jerusalem. : None
+KING EDWARD IV
+5.5 :Is proclamation made, that who finds Edward : None
+5.5 :Shall have a high reward, and he his life? : None
+GLOUCESTER
+5.5 :It is: and lo, where youthful Edward comes! : None
+Enter soldiers, with PRINCE EDWARD : ["Enter - ['SOLDIER', 'PRINCE EDWARD']"] : GLOUCESTER
+KING EDWARD IV
+5.5 :Bring forth the gallant, let us hear him speak. : None
+5.5 :What! can so young a thorn begin to prick? : None
+5.5 :Edward, what satisfaction canst thou make : None
+5.5 :For bearing arms, for stirring up my subjects, : None
+5.5 :And all the trouble thou hast turn'd me to? : None
+PRINCE EDWARD
+5.5 :Speak like a subject, proud ambitious York! : None
+5.5 :Suppose that I am now my father's mouth; : None
+5.5 :Resign thy chair, and where I stand kneel thou, : None
+5.5 :Whilst I propose the selfsame words to thee, : None
+5.5 :Which traitor, thou wouldst have me answer to. : None
+QUEEN MARGARET
+5.5 :Ah, that thy father had been so resolved! : None
+GLOUCESTER
+5.5 :That you might still have worn the petticoat, : None
+5.5 :And ne'er have stol'n the breech from Lancaster. : None
+PRINCE EDWARD
+5.5 :Let AEsop fable in a winter's night; : None
+5.5 :His currish riddles sort not with this place. : None
+GLOUCESTER
+5.5 :By heaven, brat, I'll plague ye for that word. : None
+QUEEN MARGARET
+5.5 :Ay, thou wast born to be a plague to men. : None
+GLOUCESTER
+5.5 :For God's sake, take away this captive scold. : None
+PRINCE EDWARD
+5.5 :Nay, take away this scolding crookback rather. : None
+KING EDWARD IV
+5.5 :Peace, wilful boy, or I will charm your tongue. : None
+CLARENCE
+5.5 :Untutor'd lad, thou art too malapert. : None
+PRINCE EDWARD
+5.5 :I know my duty; you are all undutiful: : None
+5.5 :Lascivious Edward, and thou perjured George, : None
+5.5 :And thou mis-shapen Dick, I tell ye all : None
+5.5 :I am your better, traitors as ye are: : None
+5.5 :And thou usurp'st my father's right and mine. : None
+KING EDWARD IV
+5.5 :Take that, thou likeness of this railer here. : None
+Stabs him : ['None - []'] : KING EDWARD IV
+GLOUCESTER
+5.5 :Sprawl'st thou? take that, to end thy agony. : None
+Stabs him : ['None - []'] : GLOUCESTER
+CLARENCE
+5.5 :And there's for twitting me with perjury. : None
+Stabs him : ['None - []'] : CLARENCE
+QUEEN MARGARET
+5.5 :O, kill me too! : None
+GLOUCESTER
+5.5 :Marry, and shall. : None
+Offers to kill her : ['to - []'] : GLOUCESTER
+KING EDWARD IV
+5.5 :Hold, Richard, hold; for we have done too much. : None
+GLOUCESTER
+5.5 :Why should she live, to fill the world with words? : None
+KING EDWARD IV
+5.5 :What, doth she swoon? use means for her recovery. : None
+GLOUCESTER
+5.5 :Clarence, excuse me to the king my brother; : None
+5.5 :I'll hence to London on a serious matter: : None
+5.5 :Ere ye come there, be sure to hear some news. : None
+CLARENCE
+5.5 :What? what? : None
+GLOUCESTER
+5.5 :The Tower, the Tower. : None
+Exit : ['Exit - []'] : GLOUCESTER
+QUEEN MARGARET
+5.5 :O Ned, sweet Ned! speak to thy mother, boy! : None
+5.5 :Canst thou not speak? O traitors! murderers! : None
+5.5 :They that stabb'd Caesar shed no blood at all, : None
+5.5 :Did not offend, nor were not worthy blame, : None
+5.5 :If this foul deed were by to equal it: : None
+5.5 :He was a man; this, in respect, a child: : None
+5.5 :And men ne'er spend their fury on a child. : None
+5.5 :What's worse than murderer, that I may name it? : None
+5.5 :No, no, my heart will burst, and if I speak: : None
+5.5 :And I will speak, that so my heart may burst. : None
+5.5 :Butchers and villains! bloody cannibals! : None
+5.5 :How sweet a plant have you untimely cropp'd! : None
+5.5 :You have no children, butchers! if you had, : None
+5.5 :The thought of them would have stirr'd up remorse: : None
+5.5 :But if you ever chance to have a child, : None
+5.5 :Look in his youth to have him so cut off : None
+5.5 :As, deathmen, you have rid this sweet young prince! : None
+KING EDWARD IV
+5.5 :Away with her; go, bear her hence perforce. : None
+QUEEN MARGARET
+5.5 :Nay, never bear me hence, dispatch me here, : None
+5.5 :Here sheathe thy sword, I'll pardon thee my death: : None
+5.5 :What, wilt thou not? then, Clarence, do it thou. : None
+CLARENCE
+5.5 :By heaven, I will not do thee so much ease. : None
+QUEEN MARGARET
+5.5 :Good Clarence, do; sweet Clarence, do thou do it. : None
+CLARENCE
+5.5 :Didst thou not hear me swear I would not do it? : None
+QUEEN MARGARET
+5.5 :Ay, but thou usest to forswear thyself: : None
+5.5 :'Twas sin before, but now 'tis charity. : None
+5.5 :What, wilt thou not? Where is that devil's butcher, : None
+5.5 :Hard-favour'd Richard? Richard, where art thou? : None
+5.5 :Thou art not here: murder is thy alms-deed; : None
+5.5 :Petitioners for blood thou ne'er put'st back. : None
+KING EDWARD IV
+5.5 :Away, I say; I charge ye, bear her hence. : None
+QUEEN MARGARET
+5.5 :So come to you and yours, as to this Prince! : None
+Exit, led out forcibly : ['Exit - []'] : QUEEN MARGARET
+KING EDWARD IV
+5.5 :Where's Richard gone? : None
+CLARENCE
+5.5 :To London, all in post; and, as I guess, : None
+5.5 :To make a bloody supper in the Tower. : None
+KING EDWARD IV
+5.5 :He's sudden, if a thing comes in his head. : None
+5.5 :Now march we hence: discharge the common sort : None
+5.5 :With pay and thanks, and let's away to London : None
+5.5 :And see our gentle queen how well she fares: : None
+5.5 :By this, I hope, she hath a son for me. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV
+Scene(scene=6)
+Enter KING HENRY VI and GLOUCESTER, with the Lieutenant, on the walls : ["Enter - ['KING HENRY VI', 'GLOUCESTER', 'LIEUTENANT', 'ALL']"] : KING EDWARD IV
+GLOUCESTER
+5.6 :Good day, my lord. What, at your book so hard? : None
+KING HENRY VI
+5.6 :Ay, my good lord:--my lord, I should say rather; : None
+5.6 :'Tis sin to flatter; 'good' was little better: : None
+5.6 :'Good Gloucester' and 'good devil' were alike, : None
+5.6 :And both preposterous; therefore, not 'good lord.' : None
+GLOUCESTER
+5.6 :Sirrah, leave us to ourselves: we must confer. : None
+Exit Lieutenant : ["Exit - ['LIEUTENANT']"] : GLOUCESTER
+KING HENRY VI
+5.6 :So flies the reckless shepherd from the wolf; : None
+5.6 :So first the harmless sheep doth yield his fleece : None
+5.6 :And next his throat unto the butcher's knife. : None
+5.6 :What scene of death hath Roscius now to act? : None
+GLOUCESTER
+5.6 :Suspicion always haunts the guilty mind; : None
+5.6 :The thief doth fear each bush an officer. : None
+KING HENRY VI
+5.6 :The bird that hath been limed in a bush, : None
+5.6 :With trembling wings misdoubteth every bush; : None
+5.6 :And I, the hapless male to one sweet bird, : None
+5.6 :Have now the fatal object in my eye : None
+5.6 :Where my poor young was limed, was caught and kill'd. : None
+GLOUCESTER
+5.6 :Why, what a peevish fool was that of Crete, : None
+5.6 :That taught his son the office of a fowl! : None
+5.6 :An yet, for all his wings, the fool was drown'd. : None
+KING HENRY VI
+5.6 :I, Daedalus; my poor boy, Icarus; : None
+5.6 :Thy father, Minos, that denied our course; : None
+5.6 :The sun that sear'd the wings of my sweet boy : None
+5.6 :Thy brother Edward, and thyself the sea : None
+5.6 :Whose envious gulf did swallow up his life. : None
+5.6 :Ah, kill me with thy weapon, not with words! : None
+5.6 :My breast can better brook thy dagger's point : None
+5.6 :Than can my ears that tragic history. : None
+5.6 :But wherefore dost thou come? is't for my life? : None
+GLOUCESTER
+5.6 :Think'st thou I am an executioner? : None
+KING HENRY VI
+5.6 :A persecutor, I am sure, thou art: : None
+5.6 :If murdering innocents be executing, : None
+5.6 :Why, then thou art an executioner. : None
+GLOUCESTER
+5.6 :Thy son I kill'd for his presumption. : None
+KING HENRY VI
+5.6 :Hadst thou been kill'd when first thou didst presume, : None
+5.6 :Thou hadst not lived to kill a son of mine. : None
+5.6 :And thus I prophesy, that many a thousand, : None
+5.6 :Which now mistrust no parcel of my fear, : None
+5.6 :And many an old man's sigh and many a widow's, : None
+5.6 :And many an orphan's water-standing eye-- : None
+5.6 :Men for their sons, wives for their husbands, : None
+5.6 :And orphans for their parents timeless death-- : None
+5.6 :Shall rue the hour that ever thou wast born. : None
+5.6 :The owl shriek'd at thy birth,--an evil sign; : None
+5.6 :The night-crow cried, aboding luckless time; : None
+5.6 :Dogs howl'd, and hideous tempest shook down trees; : None
+5.6 :The raven rook'd her on the chimney's top, : None
+5.6 :And chattering pies in dismal discords sung. : None
+5.6 :Thy mother felt more than a mother's pain, : None
+5.6 :And, yet brought forth less than a mother's hope, : None
+5.6 :To wit, an indigested and deformed lump, : None
+5.6 :Not like the fruit of such a goodly tree. : None
+5.6 :Teeth hadst thou in thy head when thou wast born, : None
+5.6 :To signify thou camest to bite the world: : None
+5.6 :And, if the rest be true which I have heard, : None
+5.6 :Thou camest-- : None
+GLOUCESTER
+5.6 :I'll hear no more: die, prophet in thy speech: : None
+Stabs him : ['None - []'] : GLOUCESTER
+5.6 :For this amongst the rest, was I ordain'd. : None
+KING HENRY VI
+5.6 :Ay, and for much more slaughter after this. : None
+5.6 :God forgive my sins, and pardon thee! : None
+Dies : ['None - []'] : KING HENRY VI
+GLOUCESTER
+5.6 :What, will the aspiring blood of Lancaster : None
+5.6 :Sink in the ground? I thought it would have mounted. : None
+5.6 :See how my sword weeps for the poor king's death! : None
+5.6 :O, may such purple tears be alway shed : None
+5.6 :From those that wish the downfall of our house! : None
+5.6 :If any spark of life be yet remaining, : None
+5.6 :Down, down to hell; and say I sent thee thither: : None
+Stabs him again : ['None - []'] : GLOUCESTER
+5.6 :I, that have neither pity, love, nor fear. : None
+5.6 :Indeed, 'tis true that Henry told me of; : None
+5.6 :For I have often heard my mother say : None
+5.6 :I came into the world with my legs forward: : None
+5.6 :Had I not reason, think ye, to make haste, : None
+5.6 :And seek their ruin that usurp'd our right? : None
+5.6 :The midwife wonder'd and the women cried : None
+5.6 :'O, Jesus bless us, he is born with teeth!' : None
+5.6 :And so I was; which plainly signified : None
+5.6 :That I should snarl and bite and play the dog. : None
+5.6 :Then, since the heavens have shaped my body so, : None
+5.6 :Let hell make crook'd my mind to answer it. : None
+5.6 :I have no brother, I am like no brother; : None
+5.6 :And this word 'love,' which graybeards call divine, : None
+5.6 :Be resident in men like one another : None
+5.6 :And not in me: I am myself alone. : None
+5.6 :Clarence, beware; thou keep'st me from the light: : None
+5.6 :But I will sort a pitchy day for thee; : None
+5.6 :For I will buz abroad such prophecies : None
+5.6 :That Edward shall be fearful of his life, : None
+5.6 :And then, to purge his fear, I'll be thy death. : None
+5.6 :King Henry and the prince his son are gone: : None
+5.6 :Clarence, thy turn is next, and then the rest, : None
+5.6 :Counting myself but bad till I be best. : None
+5.6 :I'll throw thy body in another room : None
+5.6 :And triumph, Henry, in thy day of doom. : None
+Exit, with the body : ['Exit - []'] : GLOUCESTER
+Scene(scene=7)
+Flourish. Enter KING EDWARD IV, QUEEN ELIZABETH,  CLARENCE, GLOUCESTER, HASTINGS, a Nurse with the young Prince, and Attendants : ['None - []', "Enter - ['KING EDWARD IV', 'QUEEN ELIZABETH', 'CLARENCE', 'GLOUCESTER', 'HASTINGS', 'PRINCE']"] : GLOUCESTER
+KING EDWARD IV
+5.7 :Once more we sit in England's royal throne, : None
+5.7 :Re-purchased with the blood of enemies. : None
+5.7 :What valiant foemen, like to autumn's corn, : None
+5.7 :Have we mow'd down, in tops of all their pride! : None
+5.7 :Three Dukes of Somerset, threefold renown'd : None
+5.7 :For hardy and undoubted champions; : None
+5.7 :Two Cliffords, as the father and the son, : None
+5.7 :And two Northumberlands; two braver men : None
+5.7 :Ne'er spurr'd their coursers at the trumpet's sound; : None
+5.7 :With them, the two brave bears, Warwick and Montague, : None
+5.7 :That in their chains fetter'd the kingly lion : None
+5.7 :And made the forest tremble when they roar'd. : None
+5.7 :Thus have we swept suspicion from our seat : None
+5.7 :And made our footstool of security. : None
+5.7 :Come hither, Bess, and let me kiss my boy. : None
+5.7 :Young Ned, for thee, thine uncles and myself : None
+5.7 :Have in our armours watch'd the winter's night, : None
+5.7 :Went all afoot in summer's scalding heat, : None
+5.7 :That thou mightst repossess the crown in peace; : None
+5.7 :And of our labours thou shalt reap the gain. : None
+GLOUCESTER
+5.7 :  I'll blast his harvest, if your head were laid; : Aside : ['Aside - []'] : GLOUCESTER
+5.7 :For yet I am not look'd on in the world. : None
+5.7 :This shoulder was ordain'd so thick to heave; : None
+5.7 :And heave it shall some weight, or break my back: : None
+5.7 :Work thou the way,--and thou shalt execute. : None
+KING EDWARD IV
+5.7 :Clarence and Gloucester, love my lovely queen; : None
+5.7 :And kiss your princely nephew, brothers both. : None
+CLARENCE
+5.7 :The duty that I owe unto your majesty : None
+5.7 :I seal upon the lips of this sweet babe. : None
+QUEEN ELIZABETH
+5.7 :Thanks, noble Clarence; worthy brother, thanks. : None
+GLOUCESTER
+5.7 :And, that I love the tree from whence thou sprang'st, : None
+5.7 :Witness the loving kiss I give the fruit. : None
+Aside : ['Aside - []'] : GLOUCESTER
+5.7 :And cried 'all hail!' when as he meant all harm. : None
+KING EDWARD IV
+5.7 :Now am I seated as my soul delights, : None
+5.7 :Having my country's peace and brothers' loves. : None
+CLARENCE
+5.7 :What will your grace have done with Margaret? : None
+5.7 :Reignier, her father, to the king of France : None
+5.7 :Hath pawn'd the Sicils and Jerusalem, : None
+5.7 :And hither have they sent it for her ransom. : None
+KING EDWARD IV
+5.7 :Away with her, and waft her hence to France. : None
+5.7 :And now what rests but that we spend the time : None
+5.7 :With stately triumphs, mirthful comic shows, : None
+5.7 :Such as befits the pleasure of the court? : None
+5.7 :Sound drums and trumpets! farewell sour annoy! : None
+5.7 :For here, I hope, begins our lasting joy. : None
+Exeunt : ['Exeunt - []'] : KING EDWARD IV

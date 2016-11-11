@@ -1,0 +1,3236 @@
+Act(act=1)
+Scene(scene=1)
+Thunder and lightning. Enter three Witches : ['None - []', 'Enter - []'] : None
+FIRST WITCH
+1.1 :When shall we three meet again : None
+1.1 :In thunder, lightning, or in rain? : None
+SECOND WITCH
+1.1 :When the hurlyburly's done, : None
+1.1 :When the battle's lost and won. : None
+THIRD WITCH
+1.1 :That will be ere the set of sun. : None
+FIRST WITCH
+1.1 :Where the place? : None
+SECOND WITCH
+1.1 :                  Upon the heath. : None
+THIRD WITCH
+1.1 :There to meet with Macbeth. : None
+FIRST WITCH
+1.1 :I come, Graymalkin! : None
+SECOND WITCH
+1.1 :Paddock calls. : None
+THIRD WITCH
+1.1 :Anon. : None
+ALL
+1.1 :Fair is foul, and foul is fair: : None
+1.1 :Hover through the fog and filthy air. : None
+Exeunt : ['Exeunt - []'] : ALL
+Scene(scene=2)
+Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, with Attendants, meeting a bleeding Sergeant : ['None - []', "Enter - ['DUNCAN', 'MALCOLM', 'DONALBAIN', 'LENNOX', 'ATTENDANT', 'SERGEANT']"] : ALL
+DUNCAN
+1.2 :What bloody man is that? He can report, : None
+1.2 :As seemeth by his plight, of the revolt : None
+1.2 :The newest state. : None
+MALCOLM
+1.2 :                  This is the sergeant : None
+1.2 :Who like a good and hardy soldier fought : None
+1.2 :'Gainst my captivity. Hail, brave friend! : None
+1.2 :Say to the king the knowledge of the broil : None
+1.2 :As thou didst leave it. : None
+SERGEANT
+1.2 :Doubtful it stood; : None
+1.2 :As two spent swimmers, that do cling together : None
+1.2 :And choke their art. The merciless Macdonwald-- : None
+1.2 :Worthy to be a rebel, for to that : None
+1.2 :The multiplying villanies of nature : None
+1.2 :Do swarm upon him--from the western isles : None
+1.2 :Of kerns and gallowglasses is supplied; : None
+1.2 :And fortune, on his damned quarrel smiling, : None
+1.2 :Show'd like a rebel's whore: but all's too weak: : None
+1.2 :For brave Macbeth--well he deserves that name-- : None
+1.2 :Disdaining fortune, with his brandish'd steel, : None
+1.2 :Which smoked with bloody execution, : None
+1.2 :Like valour's minion carved out his passage : None
+1.2 :Till he faced the slave; : None
+1.2 :Which ne'er shook hands, nor bade farewell to him, : None
+1.2 :Till he unseam'd him from the nave to the chaps, : None
+1.2 :And fix'd his head upon our battlements. : None
+DUNCAN
+1.2 :O valiant cousin! worthy gentleman! : None
+SERGEANT
+1.2 :As whence the sun 'gins his reflection : None
+1.2 :Shipwrecking storms and direful thunders break, : None
+1.2 :So from that spring whence comfort seem'd to come : None
+1.2 :Discomfort swells. Mark, king of Scotland, mark: : None
+1.2 :No sooner justice had with valour arm'd : None
+1.2 :Compell'd these skipping kerns to trust their heels, : None
+1.2 :But the Norweyan lord surveying vantage, : None
+1.2 :With furbish'd arms and new supplies of men : None
+1.2 :Began a fresh assault. : None
+DUNCAN
+1.2 :Dismay'd not this : None
+1.2 :Our captains, Macbeth and Banquo? : None
+SERGEANT
+1.2 :Yes; : None
+1.2 :As sparrows eagles, or the hare the lion. : None
+1.2 :If I say sooth, I must report they were : None
+1.2 :As cannons overcharged with double cracks, so they : None
+1.2 :Doubly redoubled strokes upon the foe: : None
+1.2 :Except they meant to bathe in reeking wounds, : None
+1.2 :Or memorise another Golgotha, : None
+1.2 :I cannot tell. : None
+1.2 :But I am faint, my gashes cry for help. : None
+DUNCAN
+1.2 :So well thy words become thee as thy wounds; : None
+1.2 :They smack of honour both. Go get him surgeons. : None
+Exit Sergeant, attended : ["Exit - ['SERGEANT']"] : DUNCAN
+1.2 :Who comes here? : None
+Enter ROSS : ["Enter - ['ROSS']"] : DUNCAN
+MALCOLM
+1.2 :                  The worthy thane of Ross. : None
+LENNOX
+1.2 :What a haste looks through his eyes! So should he look : None
+1.2 :That seems to speak things strange. : None
+ROSS
+1.2 :God save the king! : None
+DUNCAN
+1.2 :Whence camest thou, worthy thane? : None
+ROSS
+1.2 :From Fife, great king; : None
+1.2 :Where the Norweyan banners flout the sky : None
+1.2 :And fan our people cold. Norway himself, : None
+1.2 :With terrible numbers, : None
+1.2 :Assisted by that most disloyal traitor : None
+1.2 :The thane of Cawdor, began a dismal conflict; : None
+1.2 :Till that Bellona's bridegroom, lapp'd in proof, : None
+1.2 :Confronted him with self-comparisons, : None
+1.2 :Point against point rebellious, arm 'gainst arm. : None
+1.2 :Curbing his lavish spirit: and, to conclude, : None
+1.2 :The victory fell on us. : None
+DUNCAN
+1.2 :Great happiness! : None
+ROSS
+1.2 :That now : None
+1.2 :Sweno, the Norways' king, craves composition: : None
+1.2 :Nor would we deign him burial of his men : None
+1.2 :Till he disbursed at Saint Colme's inch : None
+1.2 :Ten thousand dollars to our general use. : None
+DUNCAN
+1.2 :No more that thane of Cawdor shall deceive : None
+1.2 :Our bosom interest: go pronounce his present death, : None
+1.2 :And with his former title greet Macbeth. : None
+ROSS
+1.2 :I'll see it done. : None
+DUNCAN
+1.2 :What he hath lost noble Macbeth hath won. : None
+Exeunt : ['Exeunt - []'] : DUNCAN
+Scene(scene=3)
+Thunder. Enter the three Witches : ['None - []', 'Enter - []'] : DUNCAN
+FIRST WITCH
+1.3 :Where hast thou been, sister? : None
+SECOND WITCH
+1.3 :Killing swine. : None
+THIRD WITCH
+1.3 :Sister, where thou? : None
+FIRST WITCH
+1.3 :A sailor's wife had chestnuts in her lap, : None
+1.3 :And munch'd, and munch'd, and munch'd:-- : None
+1.3 :'Give me,' quoth I: : None
+1.3 :'Aroint thee, witch!' the rump-fed ronyon cries. : None
+1.3 :Her husband's to Aleppo gone, master o' the Tiger: : None
+1.3 :But in a sieve I'll thither sail, : None
+1.3 :And, like a rat without a tail, : None
+1.3 :I'll do, I'll do, and I'll do. : None
+SECOND WITCH
+1.3 :I'll give thee a wind. : None
+FIRST WITCH
+1.3 :Thou'rt kind. : None
+THIRD WITCH
+1.3 :And I another. : None
+FIRST WITCH
+1.3 :I myself have all the other, : None
+1.3 :And the very ports they blow, : None
+1.3 :All the quarters that they know : None
+1.3 :I' the shipman's card. : None
+1.3 :I will drain him dry as hay: : None
+1.3 :Sleep shall neither night nor day : None
+1.3 :Hang upon his pent-house lid; : None
+1.3 :He shall live a man forbid: : None
+1.3 :Weary se'nnights nine times nine : None
+1.3 :Shall he dwindle, peak and pine: : None
+1.3 :Though his bark cannot be lost, : None
+1.3 :Yet it shall be tempest-tost. : None
+1.3 :Look what I have. : None
+SECOND WITCH
+1.3 :Show me, show me. : None
+FIRST WITCH
+1.3 :Here I have a pilot's thumb, : None
+1.3 :Wreck'd as homeward he did come. : None
+Drum within : ['None - []'] : FIRST WITCH
+THIRD WITCH
+1.3 :A drum, a drum! : None
+1.3 :Macbeth doth come. : None
+ALL
+1.3 :The weird sisters, hand in hand, : None
+1.3 :Posters of the sea and land, : None
+1.3 :Thus do go about, about: : None
+1.3 :Thrice to thine and thrice to mine : None
+1.3 :And thrice again, to make up nine. : None
+1.3 :Peace! the charm's wound up. : None
+Enter MACBETH and BANQUO : ["Enter - ['MACBETH', 'BANQUO']"] : ALL
+MACBETH
+1.3 :So foul and fair a day I have not seen. : None
+BANQUO
+1.3 :How far is't call'd to Forres? What are these : None
+1.3 :So wither'd and so wild in their attire, : None
+1.3 :That look not like the inhabitants o' the earth, : None
+1.3 :And yet are on't? Live you? or are you aught : None
+1.3 :That man may question? You seem to understand me, : None
+1.3 :By each at once her chappy finger laying : None
+1.3 :Upon her skinny lips: you should be women, : None
+1.3 :And yet your beards forbid me to interpret : None
+1.3 :That you are so. : None
+MACBETH
+1.3 :                  Speak, if you can: what are you? : None
+FIRST WITCH
+1.3 :All hail, Macbeth! hail to thee, thane of Glamis! : None
+SECOND WITCH
+1.3 :All hail, Macbeth, hail to thee, thane of Cawdor! : None
+THIRD WITCH
+1.3 :All hail, Macbeth, thou shalt be king hereafter! : None
+BANQUO
+1.3 :Good sir, why do you start; and seem to fear : None
+1.3 :Things that do sound so fair? I' the name of truth, : None
+1.3 :Are ye fantastical, or that indeed : None
+1.3 :Which outwardly ye show? My noble partner : None
+1.3 :You greet with present grace and great prediction : None
+1.3 :Of noble having and of royal hope, : None
+1.3 :That he seems rapt withal: to me you speak not. : None
+1.3 :If you can look into the seeds of time, : None
+1.3 :And say which grain will grow and which will not, : None
+1.3 :Speak then to me, who neither beg nor fear : None
+1.3 :Your favours nor your hate. : None
+FIRST WITCH
+1.3 :Hail! : None
+SECOND WITCH
+1.3 :Hail! : None
+THIRD WITCH
+1.3 :Hail! : None
+FIRST WITCH
+1.3 :Lesser than Macbeth, and greater. : None
+SECOND WITCH
+1.3 :Not so happy, yet much happier. : None
+THIRD WITCH
+1.3 :Thou shalt get kings, though thou be none: : None
+1.3 :So all hail, Macbeth and Banquo! : None
+FIRST WITCH
+1.3 :Banquo and Macbeth, all hail! : None
+MACBETH
+1.3 :Stay, you imperfect speakers, tell me more: : None
+1.3 :By Sinel's death I know I am thane of Glamis; : None
+1.3 :But how of Cawdor? the thane of Cawdor lives, : None
+1.3 :A prosperous gentleman; and to be king : None
+1.3 :Stands not within the prospect of belief, : None
+1.3 :No more than to be Cawdor. Say from whence : None
+1.3 :You owe this strange intelligence? or why : None
+1.3 :Upon this blasted heath you stop our way : None
+1.3 :With such prophetic greeting? Speak, I charge you. : None
+Witches vanish : ['None - []'] : MACBETH
+BANQUO
+1.3 :The earth hath bubbles, as the water has, : None
+1.3 :And these are of them. Whither are they vanish'd? : None
+MACBETH
+1.3 :Into the air; and what seem'd corporal melted : None
+1.3 :As breath into the wind. Would they had stay'd! : None
+BANQUO
+1.3 :Were such things here as we do speak about? : None
+1.3 :Or have we eaten on the insane root : None
+1.3 :That takes the reason prisoner? : None
+MACBETH
+1.3 :Your children shall be kings. : None
+BANQUO
+1.3 :You shall be king. : None
+MACBETH
+1.3 :And thane of Cawdor too: went it not so? : None
+BANQUO
+1.3 :To the selfsame tune and words. Who's here? : None
+Enter ROSS and ANGUS : ["Enter - ['ROSS', 'ANGUS']"] : BANQUO
+ROSS
+1.3 :The king hath happily received, Macbeth, : None
+1.3 :The news of thy success; and when he reads : None
+1.3 :Thy personal venture in the rebels' fight, : None
+1.3 :His wonders and his praises do contend : None
+1.3 :Which should be thine or his: silenced with that, : None
+1.3 :In viewing o'er the rest o' the selfsame day, : None
+1.3 :He finds thee in the stout Norweyan ranks, : None
+1.3 :Nothing afeard of what thyself didst make, : None
+1.3 :Strange images of death. As thick as hail : None
+1.3 :Came post with post; and every one did bear : None
+1.3 :Thy praises in his kingdom's great defence, : None
+1.3 :And pour'd them down before him. : None
+ANGUS
+1.3 :We are sent : None
+1.3 :To give thee from our royal master thanks; : None
+1.3 :Only to herald thee into his sight, : None
+1.3 :Not pay thee. : None
+ROSS
+1.3 :And, for an earnest of a greater honour, : None
+1.3 :He bade me, from him, call thee thane of Cawdor: : None
+1.3 :In which addition, hail, most worthy thane! : None
+1.3 :For it is thine. : None
+BANQUO
+1.3 :                  What, can the devil speak true? : None
+MACBETH
+1.3 :The thane of Cawdor lives: why do you dress me : None
+1.3 :In borrow'd robes? : None
+ANGUS
+1.3 :                  Who was the thane lives yet; : None
+1.3 :But under heavy judgment bears that life : None
+1.3 :Which he deserves to lose. Whether he was combined : None
+1.3 :With those of Norway, or did line the rebel : None
+1.3 :With hidden help and vantage, or that with both : None
+1.3 :He labour'd in his country's wreck, I know not; : None
+1.3 :But treasons capital, confess'd and proved, : None
+1.3 :Have overthrown him. : None
+MACBETH
+1.3 :  Glamis, and thane of Cawdor! : Aside : ['Aside - []'] : MACBETH
+1.3 :The greatest is behind. : None
+To ROSS and ANGUS : ["To - ['ROSS', 'ANGUS']"] : MACBETH
+1.3 :Thanks for your pains. : None
+To BANQUO : ["To - ['BANQUO']"] : MACBETH
+1.3 :Do you not hope your children shall be kings, : None
+1.3 :When those that gave the thane of Cawdor to me : None
+1.3 :Promised no less to them? : None
+BANQUO
+1.3 :That trusted home : None
+1.3 :Might yet enkindle you unto the crown, : None
+1.3 :Besides the thane of Cawdor. But 'tis strange: : None
+1.3 :And oftentimes, to win us to our harm, : None
+1.3 :The instruments of darkness tell us truths, : None
+1.3 :Win us with honest trifles, to betray's : None
+1.3 :In deepest consequence. : None
+1.3 :Cousins, a word, I pray you. : None
+MACBETH
+1.3 :	Two truths are told, : Aside : ['Aside - []'] : MACBETH
+1.3 :As happy prologues to the swelling act : None
+1.3 :Of the imperial theme.--I thank you, gentlemen. : None
+Aside : ['Aside - []'] : MACBETH
+1.3 :Cannot be ill, cannot be good: if ill, : None
+1.3 :Why hath it given me earnest of success, : None
+1.3 :Commencing in a truth? I am thane of Cawdor: : None
+1.3 :If good, why do I yield to that suggestion : None
+1.3 :Whose horrid image doth unfix my hair : None
+1.3 :And make my seated heart knock at my ribs, : None
+1.3 :Against the use of nature? Present fears : None
+1.3 :Are less than horrible imaginings: : None
+1.3 :My thought, whose murder yet is but fantastical, : None
+1.3 :Shakes so my single state of man that function : None
+1.3 :Is smother'd in surmise, and nothing is : None
+1.3 :But what is not. : None
+BANQUO
+1.3 :                  Look, how our partner's rapt. : None
+MACBETH
+1.3 :  If chance will have me king, why, chance may crown me, : Aside : ['Aside - []'] : MACBETH
+1.3 :Without my stir. : None
+BANQUO
+1.3 :                  New horrors come upon him, : None
+1.3 :Like our strange garments, cleave not to their mould : None
+1.3 :But with the aid of use. : None
+MACBETH
+1.3 :                Come what come may, : Aside : ['Aside - []'] : MACBETH
+1.3 :Time and the hour runs through the roughest day. : None
+BANQUO
+1.3 :Worthy Macbeth, we stay upon your leisure. : None
+MACBETH
+1.3 :Give me your favour: my dull brain was wrought : None
+1.3 :With things forgotten. Kind gentlemen, your pains : None
+1.3 :Are register'd where every day I turn : None
+1.3 :The leaf to read them. Let us toward the king. : None
+1.3 :Think upon what hath chanced, and, at more time, : None
+1.3 :The interim having weigh'd it, let us speak : None
+1.3 :Our free hearts each to other. : None
+BANQUO
+1.3 :Very gladly. : None
+MACBETH
+1.3 :Till then, enough. Come, friends. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=4)
+Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, and Attendants : ['None - []', "Enter - ['DUNCAN', 'MALCOLM', 'DONALBAIN', 'LENNOX', 'ATTENDANT']"] : MACBETH
+DUNCAN
+1.4 :Is execution done on Cawdor? Are not : None
+1.4 :Those in commission yet return'd? : None
+MALCOLM
+1.4 :My liege, : None
+1.4 :They are not yet come back. But I have spoke : None
+1.4 :With one that saw him die: who did report : None
+1.4 :That very frankly he confess'd his treasons, : None
+1.4 :Implored your highness' pardon and set forth : None
+1.4 :A deep repentance: nothing in his life : None
+1.4 :Became him like the leaving it; he died : None
+1.4 :As one that had been studied in his death : None
+1.4 :To throw away the dearest thing he owed, : None
+1.4 :As 'twere a careless trifle. : None
+DUNCAN
+1.4 :There's no art : None
+1.4 :To find the mind's construction in the face: : None
+1.4 :He was a gentleman on whom I built : None
+1.4 :An absolute trust. : None
+Enter MACBETH, BANQUO, ROSS, and ANGUS : ["Enter - ['MACBETH', 'BANQUO', 'ROSS', 'ANGUS']"] : DUNCAN
+1.4 :O worthiest cousin! : None
+1.4 :The sin of my ingratitude even now : None
+1.4 :Was heavy on me: thou art so far before : None
+1.4 :That swiftest wing of recompense is slow : None
+1.4 :To overtake thee. Would thou hadst less deserved, : None
+1.4 :That the proportion both of thanks and payment : None
+1.4 :Might have been mine! only I have left to say, : None
+1.4 :More is thy due than more than all can pay. : None
+MACBETH
+1.4 :The service and the loyalty I owe, : None
+1.4 :In doing it, pays itself. Your highness' part : None
+1.4 :Is to receive our duties; and our duties : None
+1.4 :Are to your throne and state children and servants, : None
+1.4 :Which do but what they should, by doing every thing : None
+1.4 :Safe toward your love and honour. : None
+DUNCAN
+1.4 :Welcome hither: : None
+1.4 :I have begun to plant thee, and will labour : None
+1.4 :To make thee full of growing. Noble Banquo, : None
+1.4 :That hast no less deserved, nor must be known : None
+1.4 :No less to have done so, let me enfold thee : None
+1.4 :And hold thee to my heart. : None
+BANQUO
+1.4 :There if I grow, : None
+1.4 :The harvest is your own. : None
+DUNCAN
+1.4 :My plenteous joys, : None
+1.4 :Wanton in fulness, seek to hide themselves : None
+1.4 :In drops of sorrow. Sons, kinsmen, thanes, : None
+1.4 :And you whose places are the nearest, know : None
+1.4 :We will establish our estate upon : None
+1.4 :Our eldest, Malcolm, whom we name hereafter : None
+1.4 :The Prince of Cumberland; which honour must : None
+1.4 :Not unaccompanied invest him only, : None
+1.4 :But signs of nobleness, like stars, shall shine : None
+1.4 :On all deservers. From hence to Inverness, : None
+1.4 :And bind us further to you. : None
+MACBETH
+1.4 :The rest is labour, which is not used for you: : None
+1.4 :I'll be myself the harbinger and make joyful : None
+1.4 :The hearing of my wife with your approach; : None
+1.4 :So humbly take my leave. : None
+DUNCAN
+1.4 :My worthy Cawdor! : None
+MACBETH
+1.4 :  The Prince of Cumberland! that is a step : Aside : ['Aside - []'] : MACBETH
+1.4 :On which I must fall down, or else o'erleap, : None
+1.4 :For in my way it lies. Stars, hide your fires; : None
+1.4 :Let not light see my black and deep desires: : None
+1.4 :The eye wink at the hand; yet let that be, : None
+1.4 :Which the eye fears, when it is done, to see. : None
+Exit : ['Exit - []'] : MACBETH
+DUNCAN
+1.4 :True, worthy Banquo; he is full so valiant, : None
+1.4 :And in his commendations I am fed; : None
+1.4 :It is a banquet to me. Let's after him, : None
+1.4 :Whose care is gone before to bid us welcome: : None
+1.4 :It is a peerless kinsman. : None
+Flourish. Exeunt : ['None - []', 'Exeunt - []'] : DUNCAN
+Scene(scene=5)
+Enter LADY MACBETH, reading a letter : ["Enter - ['LADY MACBETH']"] : DUNCAN
+LADY MACBETH
+1.5 :'They met me in the day of success: and I have : None
+1.5 :learned by the perfectest report, they have more in : None
+1.5 :them than mortal knowledge. When I burned in desire : None
+1.5 :to question them further, they made themselves air, : None
+1.5 :into which they vanished. Whiles I stood rapt in : None
+1.5 :the wonder of it, came missives from the king, who : None
+1.5 :all-hailed me 'Thane of Cawdor;' by which title, : None
+1.5 :before, these weird sisters saluted me, and referred : None
+1.5 :me to the coming on of time, with 'Hail, king that : None
+1.5 :shalt be!' This have I thought good to deliver : None
+1.5 :thee, my dearest partner of greatness, that thou : None
+1.5 :mightst not lose the dues of rejoicing, by being : None
+1.5 :ignorant of what greatness is promised thee. Lay it : None
+1.5 :to thy heart, and farewell.' : None
+1.5 :Glamis thou art, and Cawdor; and shalt be : None
+1.5 :What thou art promised: yet do I fear thy nature; : None
+1.5 :It is too full o' the milk of human kindness : None
+1.5 :To catch the nearest way: thou wouldst be great; : None
+1.5 :Art not without ambition, but without : None
+1.5 :The illness should attend it: what thou wouldst highly, : None
+1.5 :That wouldst thou holily; wouldst not play false, : None
+1.5 :And yet wouldst wrongly win: thou'ldst have, great Glamis, : None
+1.5 :That which cries 'Thus thou must do, if thou have it; : None
+1.5 :And that which rather thou dost fear to do : None
+1.5 :Than wishest should be undone.' Hie thee hither, : None
+1.5 :That I may pour my spirits in thine ear; : None
+1.5 :And chastise with the valour of my tongue : None
+1.5 :All that impedes thee from the golden round, : None
+1.5 :Which fate and metaphysical aid doth seem : None
+1.5 :To have thee crown'd withal. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : LADY MACBETH
+1.5 :What is your tidings? : None
+MESSENGER
+1.5 :The king comes here to-night. : None
+LADY MACBETH
+1.5 :Thou'rt mad to say it: : None
+1.5 :Is not thy master with him? who, were't so, : None
+1.5 :Would have inform'd for preparation. : None
+MESSENGER
+1.5 :So please you, it is true: our thane is coming: : None
+1.5 :One of my fellows had the speed of him, : None
+1.5 :Who, almost dead for breath, had scarcely more : None
+1.5 :Than would make up his message. : None
+LADY MACBETH
+1.5 :Give him tending; : None
+1.5 :He brings great news. : None
+Exit Messenger : ["Exit - ['MESSENGER']"] : LADY MACBETH
+1.5 :The raven himself is hoarse : None
+1.5 :That croaks the fatal entrance of Duncan : None
+1.5 :Under my battlements. Come, you spirits : None
+1.5 :That tend on mortal thoughts, unsex me here, : None
+1.5 :And fill me from the crown to the toe top-full : None
+1.5 :Of direst cruelty! make thick my blood; : None
+1.5 :Stop up the access and passage to remorse, : None
+1.5 :That no compunctious visitings of nature : None
+1.5 :Shake my fell purpose, nor keep peace between : None
+1.5 :The effect and it! Come to my woman's breasts, : None
+1.5 :And take my milk for gall, you murdering ministers, : None
+1.5 :Wherever in your sightless substances : None
+1.5 :You wait on nature's mischief! Come, thick night, : None
+1.5 :And pall thee in the dunnest smoke of hell, : None
+1.5 :That my keen knife see not the wound it makes, : None
+1.5 :Nor heaven peep through the blanket of the dark, : None
+1.5 :To cry 'Hold, hold!' : None
+Enter MACBETH : ["Enter - ['MACBETH']"] : LADY MACBETH
+1.5 :Great Glamis! worthy Cawdor! : None
+1.5 :Greater than both, by the all-hail hereafter! : None
+1.5 :Thy letters have transported me beyond : None
+1.5 :This ignorant present, and I feel now : None
+1.5 :The future in the instant. : None
+MACBETH
+1.5 :My dearest love, : None
+1.5 :Duncan comes here to-night. : None
+LADY MACBETH
+1.5 :And when goes hence? : None
+MACBETH
+1.5 :To-morrow, as he purposes. : None
+LADY MACBETH
+1.5 :O, never : None
+1.5 :Shall sun that morrow see! : None
+1.5 :Your face, my thane, is as a book where men : None
+1.5 :May read strange matters. To beguile the time, : None
+1.5 :Look like the time; bear welcome in your eye, : None
+1.5 :Your hand, your tongue: look like the innocent flower, : None
+1.5 :But be the serpent under't. He that's coming : None
+1.5 :Must be provided for: and you shall put : None
+1.5 :This night's great business into my dispatch; : None
+1.5 :Which shall to all our nights and days to come : None
+1.5 :Give solely sovereign sway and masterdom. : None
+MACBETH
+1.5 :We will speak further. : None
+LADY MACBETH
+1.5 :Only look up clear; : None
+1.5 :To alter favour ever is to fear: : None
+1.5 :Leave all the rest to me. : None
+Exeunt : ['Exeunt - []'] : LADY MACBETH
+Scene(scene=6)
+Hautboys and torches. Enter DUNCAN, MALCOLM,  DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS, and Attendants : ['to - []', "Enter - ['DUNCAN', 'MALCOLM', 'DONALBAIN', 'BANQUO', 'LENNOX', 'MACDUFF', 'ROSS', 'ANGUS', 'ATTENDANT']"] : LADY MACBETH
+DUNCAN
+1.6 :This castle hath a pleasant seat; the air : None
+1.6 :Nimbly and sweetly recommends itself : None
+1.6 :Unto our gentle senses. : None
+BANQUO
+1.6 :This guest of summer, : None
+1.6 :The temple-haunting martlet, does approve, : None
+1.6 :By his loved mansionry, that the heaven's breath : None
+1.6 :Smells wooingly here: no jutty, frieze, : None
+1.6 :Buttress, nor coign of vantage, but this bird : None
+1.6 :Hath made his pendent bed and procreant cradle: : None
+1.6 :Where they most breed and haunt, I have observed, : None
+1.6 :The air is delicate. : None
+Enter LADY MACBETH : ["Enter - ['LADY MACBETH']"] : BANQUO
+DUNCAN
+1.6 :See, see, our honour'd hostess! : None
+1.6 :The love that follows us sometime is our trouble, : None
+1.6 :Which still we thank as love. Herein I teach you : None
+1.6 :How you shall bid God 'ild us for your pains, : None
+1.6 :And thank us for your trouble. : None
+LADY MACBETH
+1.6 :All our service : None
+1.6 :In every point twice done and then done double : None
+1.6 :Were poor and single business to contend : None
+1.6 :Against those honours deep and broad wherewith : None
+1.6 :Your majesty loads our house: for those of old, : None
+1.6 :And the late dignities heap'd up to them, : None
+1.6 :We rest your hermits. : None
+DUNCAN
+1.6 :Where's the thane of Cawdor? : None
+1.6 :We coursed him at the heels, and had a purpose : None
+1.6 :To be his purveyor: but he rides well; : None
+1.6 :And his great love, sharp as his spur, hath holp him : None
+1.6 :To his home before us. Fair and noble hostess, : None
+1.6 :We are your guest to-night. : None
+LADY MACBETH
+1.6 :Your servants ever : None
+1.6 :Have theirs, themselves and what is theirs, in compt, : None
+1.6 :To make their audit at your highness' pleasure, : None
+1.6 :Still to return your own. : None
+DUNCAN
+1.6 :Give me your hand; : None
+1.6 :Conduct me to mine host: we love him highly, : None
+1.6 :And shall continue our graces towards him. : None
+1.6 :By your leave, hostess. : None
+Exeunt : ['Exeunt - []'] : DUNCAN
+Scene(scene=7)
+Hautboys and torches. Enter a Sewer, and divers  Servants with dishes and service, and pass over the stage. Then enter MACBETH : ['to - []', "Enter - ['SERVANT']", "enter - ['MACBETH']"] : DUNCAN
+MACBETH
+1.7 :If it were done when 'tis done, then 'twere well : None
+1.7 :It were done quickly: if the assassination : None
+1.7 :Could trammel up the consequence, and catch : None
+1.7 :With his surcease success; that but this blow : None
+1.7 :Might be the be-all and the end-all here, : None
+1.7 :But here, upon this bank and shoal of time, : None
+1.7 :We'ld jump the life to come. But in these cases : None
+1.7 :We still have judgment here; that we but teach : None
+1.7 :Bloody instructions, which, being taught, return : None
+1.7 :To plague the inventor: this even-handed justice : None
+1.7 :Commends the ingredients of our poison'd chalice : None
+1.7 :To our own lips. He's here in double trust; : None
+1.7 :First, as I am his kinsman and his subject, : None
+1.7 :Strong both against the deed; then, as his host, : None
+1.7 :Who should against his murderer shut the door, : None
+1.7 :Not bear the knife myself. Besides, this Duncan : None
+1.7 :Hath borne his faculties so meek, hath been : None
+1.7 :So clear in his great office, that his virtues : None
+1.7 :Will plead like angels, trumpet-tongued, against : None
+1.7 :The deep damnation of his taking-off; : None
+1.7 :And pity, like a naked new-born babe, : None
+1.7 :Striding the blast, or heaven's cherubim, horsed : None
+1.7 :Upon the sightless couriers of the air, : None
+1.7 :Shall blow the horrid deed in every eye, : None
+1.7 :That tears shall drown the wind. I have no spur : None
+1.7 :To prick the sides of my intent, but only : None
+1.7 :Vaulting ambition, which o'erleaps itself : None
+1.7 :And falls on the other. : None
+Enter LADY MACBETH : ["Enter - ['LADY MACBETH']"] : MACBETH
+1.7 :How now! what news? : None
+LADY MACBETH
+1.7 :He has almost supp'd: why have you left the chamber? : None
+MACBETH
+1.7 :Hath he ask'd for me? : None
+LADY MACBETH
+1.7 :Know you not he has? : None
+MACBETH
+1.7 :We will proceed no further in this business: : None
+1.7 :He hath honour'd me of late; and I have bought : None
+1.7 :Golden opinions from all sorts of people, : None
+1.7 :Which would be worn now in their newest gloss, : None
+1.7 :Not cast aside so soon. : None
+LADY MACBETH
+1.7 :Was the hope drunk : None
+1.7 :Wherein you dress'd yourself? hath it slept since? : None
+1.7 :And wakes it now, to look so green and pale : None
+1.7 :At what it did so freely? From this time : None
+1.7 :Such I account thy love. Art thou afeard : None
+1.7 :To be the same in thine own act and valour : None
+1.7 :As thou art in desire? Wouldst thou have that : None
+1.7 :Which thou esteem'st the ornament of life, : None
+1.7 :And live a coward in thine own esteem, : None
+1.7 :Letting 'I dare not' wait upon 'I would,' : None
+1.7 :Like the poor cat i' the adage? : None
+MACBETH
+1.7 :Prithee, peace: : None
+1.7 :I dare do all that may become a man; : None
+1.7 :Who dares do more is none. : None
+LADY MACBETH
+1.7 :What beast was't, then, : None
+1.7 :That made you break this enterprise to me? : None
+1.7 :When you durst do it, then you were a man; : None
+1.7 :And, to be more than what you were, you would : None
+1.7 :Be so much more the man. Nor time nor place : None
+1.7 :Did then adhere, and yet you would make both: : None
+1.7 :They have made themselves, and that their fitness now : None
+1.7 :Does unmake you. I have given suck, and know : None
+1.7 :How tender 'tis to love the babe that milks me: : None
+1.7 :I would, while it was smiling in my face, : None
+1.7 :Have pluck'd my nipple from his boneless gums, : None
+1.7 :And dash'd the brains out, had I so sworn as you : None
+1.7 :Have done to this. : None
+MACBETH
+1.7 :                  If we should fail? : None
+LADY MACBETH
+1.7 :We fail! : None
+1.7 :But screw your courage to the sticking-place, : None
+1.7 :And we'll not fail. When Duncan is asleep-- : None
+1.7 :Whereto the rather shall his day's hard journey : None
+1.7 :Soundly invite him--his two chamberlains : None
+1.7 :Will I with wine and wassail so convince : None
+1.7 :That memory, the warder of the brain, : None
+1.7 :Shall be a fume, and the receipt of reason : None
+1.7 :A limbeck only: when in swinish sleep : None
+1.7 :Their drenched natures lie as in a death, : None
+1.7 :What cannot you and I perform upon : None
+1.7 :The unguarded Duncan? what not put upon : None
+1.7 :His spongy officers, who shall bear the guilt : None
+1.7 :Of our great quell? : None
+MACBETH
+1.7 :Bring forth men-children only; : None
+1.7 :For thy undaunted mettle should compose : None
+1.7 :Nothing but males. Will it not be received, : None
+1.7 :When we have mark'd with blood those sleepy two : None
+1.7 :Of his own chamber and used their very daggers, : None
+1.7 :That they have done't? : None
+LADY MACBETH
+1.7 :Who dares receive it other, : None
+1.7 :As we shall make our griefs and clamour roar : None
+1.7 :Upon his death? : None
+MACBETH
+1.7 :                  I am settled, and bend up : None
+1.7 :Each corporal agent to this terrible feat. : None
+1.7 :Away, and mock the time with fairest show: : None
+1.7 :False face must hide what the false heart doth know. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Act(act=2)
+Scene(scene=1)
+Enter BANQUO, and FLEANCE bearing a torch before him : ["Enter - ['BANQUO', 'FLEANCE']"] : MACBETH
+BANQUO
+2.1 :How goes the night, boy? : None
+FLEANCE
+2.1 :The moon is down; I have not heard the clock. : None
+BANQUO
+2.1 :And she goes down at twelve. : None
+FLEANCE
+2.1 :I take't, 'tis later, sir. : None
+BANQUO
+2.1 :Hold, take my sword. There's husbandry in heaven; : None
+2.1 :Their candles are all out. Take thee that too. : None
+2.1 :A heavy summons lies like lead upon me, : None
+2.1 :And yet I would not sleep: merciful powers, : None
+2.1 :Restrain in me the cursed thoughts that nature : None
+2.1 :Gives way to in repose! : None
+Enter MACBETH, and a Servant with a torch : ["Enter - ['MACBETH', 'SERVANT']"] : BANQUO
+2.1 :Give me my sword. : None
+2.1 :Who's there? : None
+MACBETH
+2.1 :A friend. : None
+BANQUO
+2.1 :What, sir, not yet at rest? The king's a-bed: : None
+2.1 :He hath been in unusual pleasure, and : None
+2.1 :Sent forth great largess to your offices. : None
+2.1 :This diamond he greets your wife withal, : None
+2.1 :By the name of most kind hostess; and shut up : None
+2.1 :In measureless content. : None
+MACBETH
+2.1 :Being unprepared, : None
+2.1 :Our will became the servant to defect; : None
+2.1 :Which else should free have wrought. : None
+BANQUO
+2.1 :All's well. : None
+2.1 :I dreamt last night of the three weird sisters: : None
+2.1 :To you they have show'd some truth. : None
+MACBETH
+2.1 :I think not of them: : None
+2.1 :Yet, when we can entreat an hour to serve, : None
+2.1 :We would spend it in some words upon that business, : None
+2.1 :If you would grant the time. : None
+BANQUO
+2.1 :At your kind'st leisure. : None
+MACBETH
+2.1 :If you shall cleave to my consent, when 'tis, : None
+2.1 :It shall make honour for you. : None
+BANQUO
+2.1 :So I lose none : None
+2.1 :In seeking to augment it, but still keep : None
+2.1 :My bosom franchised and allegiance clear, : None
+2.1 :I shall be counsell'd. : None
+MACBETH
+2.1 :Good repose the while! : None
+BANQUO
+2.1 :Thanks, sir: the like to you! : None
+Exeunt BANQUO and FLEANCE : ["Exeunt - ['BANQUO', 'FLEANCE']"] : BANQUO
+MACBETH
+2.1 :Go bid thy mistress, when my drink is ready, : None
+2.1 :She strike upon the bell. Get thee to bed. : None
+Exit Servant : ["Exit - ['SERVANT']"] : MACBETH
+2.1 :Is this a dagger which I see before me, : None
+2.1 :The handle toward my hand? Come, let me clutch thee. : None
+2.1 :I have thee not, and yet I see thee still. : None
+2.1 :Art thou not, fatal vision, sensible : None
+2.1 :To feeling as to sight? or art thou but : None
+2.1 :A dagger of the mind, a false creation, : None
+2.1 :Proceeding from the heat-oppressed brain? : None
+2.1 :I see thee yet, in form as palpable : None
+2.1 :As this which now I draw. : None
+2.1 :Thou marshall'st me the way that I was going; : None
+2.1 :And such an instrument I was to use. : None
+2.1 :Mine eyes are made the fools o' the other senses, : None
+2.1 :Or else worth all the rest; I see thee still, : None
+2.1 :And on thy blade and dudgeon gouts of blood, : None
+2.1 :Which was not so before. There's no such thing: : None
+2.1 :It is the bloody business which informs : None
+2.1 :Thus to mine eyes. Now o'er the one halfworld : None
+2.1 :Nature seems dead, and wicked dreams abuse : None
+2.1 :The curtain'd sleep; witchcraft celebrates : None
+2.1 :Pale Hecate's offerings, and wither'd murder, : None
+2.1 :Alarum'd by his sentinel, the wolf, : None
+2.1 :Whose howl's his watch, thus with his stealthy pace. : None
+2.1 :With Tarquin's ravishing strides, towards his design : None
+2.1 :Moves like a ghost. Thou sure and firm-set earth, : None
+2.1 :Hear not my steps, which way they walk, for fear : None
+2.1 :Thy very stones prate of my whereabout, : None
+2.1 :And take the present horror from the time, : None
+2.1 :Which now suits with it. Whiles I threat, he lives: : None
+2.1 :Words to the heat of deeds too cold breath gives. : None
+A bell rings : ['None - []'] : MACBETH
+2.1 :I go, and it is done; the bell invites me. : None
+2.1 :Hear it not, Duncan; for it is a knell : None
+2.1 :That summons thee to heaven or to hell. : None
+Exit : ['Exit - []'] : MACBETH
+Scene(scene=2)
+Enter LADY MACBETH : ["Enter - ['LADY MACBETH']"] : MACBETH
+LADY MACBETH
+2.2 :That which hath made them drunk hath made me bold; : None
+2.2 :What hath quench'd them hath given me fire. : None
+2.2 :Hark! Peace! : None
+2.2 :It was the owl that shriek'd, the fatal bellman, : None
+2.2 :Which gives the stern'st good-night. He is about it: : None
+2.2 :The doors are open; and the surfeited grooms : None
+2.2 :Do mock their charge with snores: I have drugg'd : None
+2.2 :their possets, : None
+2.2 :That death and nature do contend about them, : None
+2.2 :Whether they live or die. : None
+MACBETH
+2.2 :  Who's there? what, ho! : Within : ['None - []'] : MACBETH
+LADY MACBETH
+2.2 :Alack, I am afraid they have awaked, : None
+2.2 :And 'tis not done. The attempt and not the deed : None
+2.2 :Confounds us. Hark! I laid their daggers ready; : None
+2.2 :He could not miss 'em. Had he not resembled : None
+2.2 :My father as he slept, I had done't. : None
+Enter MACBETH : ["Enter - ['MACBETH']"] : LADY MACBETH
+2.2 :My husband! : None
+MACBETH
+2.2 :I have done the deed. Didst thou not hear a noise? : None
+LADY MACBETH
+2.2 :I heard the owl scream and the crickets cry. : None
+2.2 :Did not you speak? : None
+MACBETH
+2.2 :                  When? : None
+LADY MACBETH
+2.2 :Now. : None
+MACBETH
+2.2 :As I descended? : None
+LADY MACBETH
+2.2 :Ay. : None
+MACBETH
+2.2 :Hark! : None
+2.2 :Who lies i' the second chamber? : None
+LADY MACBETH
+2.2 :Donalbain. : None
+MACBETH
+2.2 :This is a sorry sight. : None
+Looking on his hands : ['None - []'] : MACBETH
+LADY MACBETH
+2.2 :A foolish thought, to say a sorry sight. : None
+MACBETH
+2.2 :There's one did laugh in's sleep, and one cried : None
+2.2 :'Murder!' : None
+2.2 :That they did wake each other: I stood and heard them: : None
+2.2 :But they did say their prayers, and address'd them : None
+2.2 :Again to sleep. : None
+LADY MACBETH
+2.2 :                  There are two lodged together. : None
+MACBETH
+2.2 :One cried 'God bless us!' and 'Amen' the other; : None
+2.2 :As they had seen me with these hangman's hands. : None
+2.2 :Listening their fear, I could not say 'Amen,' : None
+2.2 :When they did say 'God bless us!' : None
+LADY MACBETH
+2.2 :Consider it not so deeply. : None
+MACBETH
+2.2 :But wherefore could not I pronounce 'Amen'? : None
+2.2 :I had most need of blessing, and 'Amen' : None
+2.2 :Stuck in my throat. : None
+LADY MACBETH
+2.2 :These deeds must not be thought : None
+2.2 :After these ways; so, it will make us mad. : None
+MACBETH
+2.2 :Methought I heard a voice cry 'Sleep no more! : None
+2.2 :Macbeth does murder sleep', the innocent sleep, : None
+2.2 :Sleep that knits up the ravell'd sleeve of care, : None
+2.2 :The death of each day's life, sore labour's bath, : None
+2.2 :Balm of hurt minds, great nature's second course, : None
+2.2 :Chief nourisher in life's feast,-- : None
+LADY MACBETH
+2.2 :What do you mean? : None
+MACBETH
+2.2 :Still it cried 'Sleep no more!' to all the house: : None
+2.2 :'Glamis hath murder'd sleep, and therefore Cawdor : None
+2.2 :Shall sleep no more; Macbeth shall sleep no more.' : None
+LADY MACBETH
+2.2 :Who was it that thus cried? Why, worthy thane, : None
+2.2 :You do unbend your noble strength, to think : None
+2.2 :So brainsickly of things. Go get some water, : None
+2.2 :And wash this filthy witness from your hand. : None
+2.2 :Why did you bring these daggers from the place? : None
+2.2 :They must lie there: go carry them; and smear : None
+2.2 :The sleepy grooms with blood. : None
+MACBETH
+2.2 :I'll go no more: : None
+2.2 :I am afraid to think what I have done; : None
+2.2 :Look on't again I dare not. : None
+LADY MACBETH
+2.2 :Infirm of purpose! : None
+2.2 :Give me the daggers: the sleeping and the dead : None
+2.2 :Are but as pictures: 'tis the eye of childhood : None
+2.2 :That fears a painted devil. If he do bleed, : None
+2.2 :I'll gild the faces of the grooms withal; : None
+2.2 :For it must seem their guilt. : None
+Exit. Knocking within : ['Exit - []', 'None - []'] : LADY MACBETH
+MACBETH
+2.2 :Whence is that knocking? : None
+2.2 :How is't with me, when every noise appals me? : None
+2.2 :What hands are here? ha! they pluck out mine eyes. : None
+2.2 :Will all great Neptune's ocean wash this blood : None
+2.2 :Clean from my hand? No, this my hand will rather : None
+2.2 :The multitudinous seas in incarnadine, : None
+2.2 :Making the green one red. : None
+Re-enter LADY MACBETH : ["Re-enter - ['LADY MACBETH']"] : MACBETH
+LADY MACBETH
+2.2 :My hands are of your colour; but I shame : None
+2.2 :To wear a heart so white. : None
+Knocking within : ['None - []'] : LADY MACBETH
+2.2 :I hear a knocking : None
+2.2 :At the south entry: retire we to our chamber; : None
+2.2 :A little water clears us of this deed: : None
+2.2 :How easy is it, then! Your constancy : None
+2.2 :Hath left you unattended. : None
+Knocking within : ['None - []'] : LADY MACBETH
+2.2 :Hark! more knocking. : None
+2.2 :Get on your nightgown, lest occasion call us, : None
+2.2 :And show us to be watchers. Be not lost : None
+2.2 :So poorly in your thoughts. : None
+MACBETH
+2.2 :To know my deed, 'twere best not know myself. : None
+Knocking within : ['None - []'] : MACBETH
+2.2 :Wake Duncan with thy knocking! I would thou couldst! : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=3)
+Knocking within. Enter a Porter : ['None - []', "Enter - ['PORTER']"] : MACBETH
+PORTER
+2.3 :Here's a knocking indeed! If a : None
+2.3 :man were porter of hell-gate, he should have : None
+2.3 :old turning the key. : None
+Knocking within : ['None - []'] : PORTER
+2.3 :Knock, : None
+2.3 :knock, knock! Who's there, i' the name of : None
+2.3 :Beelzebub? Here's a farmer, that hanged : None
+2.3 :himself on the expectation of plenty: come in : None
+2.3 :time; have napkins enow about you; here : None
+2.3 :you'll sweat for't. : None
+Knocking within : ['None - []'] : PORTER
+2.3 :Knock, : None
+2.3 :knock! Who's there, in the other devil's : None
+2.3 :name? Faith, here's an equivocator, that could : None
+2.3 :swear in both the scales against either scale; : None
+2.3 :who committed treason enough for God's sake, : None
+2.3 :yet could not equivocate to heaven: O, come : None
+2.3 :in, equivocator. : None
+Knocking within : ['None - []'] : PORTER
+2.3 :Knock, : None
+2.3 :knock, knock! Who's there? Faith, here's an : None
+2.3 :English tailor come hither, for stealing out of : None
+2.3 :a French hose: come in, tailor; here you may : None
+2.3 :roast your goose. : None
+Knocking within : ['None - []'] : PORTER
+2.3 :Knock, : None
+2.3 :knock; never at quiet! What are you? But : None
+2.3 :this place is too cold for hell. I'll devil-porter : None
+2.3 :it no further: I had thought to have let in : None
+2.3 :some of all professions that go the primrose : None
+2.3 :way to the everlasting bonfire. : None
+Knocking within : ['None - []'] : PORTER
+2.3 :Anon, anon! I pray you, remember the porter. : None
+Opens the gate : ['None - []'] : PORTER
+Enter MACDUFF and LENNOX : ["Enter - ['MACDUFF', 'LENNOX']"] : PORTER
+MACDUFF
+2.3 :Was it so late, friend, ere you went to bed, : None
+2.3 :That you do lie so late? : None
+PORTER
+2.3 :'Faith sir, we were carousing till the : None
+2.3 :second cock: and drink, sir, is a great : None
+2.3 :provoker of three things. : None
+MACDUFF
+2.3 :What three things does drink especially provoke? : None
+PORTER
+2.3 :Marry, sir, nose-painting, sleep, and : None
+2.3 :urine. Lechery, sir, it provokes, and unprovokes; : None
+2.3 :it provokes the desire, but it takes : None
+2.3 :away the performance: therefore, much drink : None
+2.3 :may be said to be an equivocator with lechery: : None
+2.3 :it makes him, and it mars him; it sets : None
+2.3 :him on, and it takes him off; it persuades him, : None
+2.3 :and disheartens him; makes him stand to, and : None
+2.3 :not stand to; in conclusion, equivocates him : None
+2.3 :in a sleep, and, giving him the lie, leaves him. : None
+MACDUFF
+2.3 :I believe drink gave thee the lie last night. : None
+PORTER
+2.3 :That it did, sir, i' the very throat on : None
+2.3 :me: but I requited him for his lie; and, I : None
+2.3 :think, being too strong for him, though he took : None
+2.3 :up my legs sometime, yet I made a shift to cast : None
+2.3 :him. : None
+MACDUFF
+2.3 :Is thy master stirring? : None
+Enter MACBETH : ["Enter - ['MACBETH']"] : MACDUFF
+2.3 :Our knocking has awaked him; here he comes. : None
+LENNOX
+2.3 :Good morrow, noble sir. : None
+MACBETH
+2.3 :Good morrow, both. : None
+MACDUFF
+2.3 :Is the king stirring, worthy thane? : None
+MACBETH
+2.3 :Not yet. : None
+MACDUFF
+2.3 :He did command me to call timely on him: : None
+2.3 :I have almost slipp'd the hour. : None
+MACBETH
+2.3 :I'll bring you to him. : None
+MACDUFF
+2.3 :I know this is a joyful trouble to you; : None
+2.3 :But yet 'tis one. : None
+MACBETH
+2.3 :The labour we delight in physics pain. : None
+2.3 :This is the door. : None
+MACDUFF
+2.3 :                  I'll make so bold to call, : None
+2.3 :For 'tis my limited service. : None
+Exit : ['Exit - []'] : MACDUFF
+LENNOX
+2.3 :Goes the king hence to-day? : None
+MACBETH
+2.3 :He does: he did appoint so. : None
+LENNOX
+2.3 :The night has been unruly: where we lay, : None
+2.3 :Our chimneys were blown down; and, as they say, : None
+2.3 :Lamentings heard i' the air; strange screams of death, : None
+2.3 :And prophesying with accents terrible : None
+2.3 :Of dire combustion and confused events : None
+2.3 :New hatch'd to the woeful time: the obscure bird : None
+2.3 :Clamour'd the livelong night: some say, the earth : None
+2.3 :Was feverous and did shake. : None
+MACBETH
+2.3 :'Twas a rough night. : None
+LENNOX
+2.3 :My young remembrance cannot parallel : None
+2.3 :A fellow to it. : None
+Re-enter MACDUFF : ["Re-enter - ['MACDUFF']"] : LENNOX
+MACDUFF
+2.3 :O horror, horror, horror! Tongue nor heart : None
+2.3 :Cannot conceive nor name thee! : None
+MACBETH
+LENNOX
+2.3 :What's the matter. : None
+MACDUFF
+2.3 :Confusion now hath made his masterpiece! : None
+2.3 :Most sacrilegious murder hath broke ope : None
+2.3 :The Lord's anointed temple, and stole thence : None
+2.3 :The life o' the building! : None
+MACBETH
+2.3 :What is 't you say? the life? : None
+LENNOX
+2.3 :Mean you his majesty? : None
+MACDUFF
+2.3 :Approach the chamber, and destroy your sight : None
+2.3 :With a new Gorgon: do not bid me speak; : None
+2.3 :See, and then speak yourselves. : None
+Exeunt MACBETH and LENNOX : ["Exeunt - ['MACBETH', 'LENNOX']"] : MACDUFF
+2.3 :Awake, awake! : None
+2.3 :Ring the alarum-bell. Murder and treason! : None
+2.3 :Banquo and Donalbain! Malcolm! awake! : None
+2.3 :Shake off this downy sleep, death's counterfeit, : None
+2.3 :And look on death itself! up, up, and see : None
+2.3 :The great doom's image! Malcolm! Banquo! : None
+2.3 :As from your graves rise up, and walk like sprites, : None
+2.3 :To countenance this horror! Ring the bell. : None
+Bell rings : ['None - []'] : MACDUFF
+Enter LADY MACBETH : ["Enter - ['LADY MACBETH']"] : MACDUFF
+LADY MACBETH
+2.3 :What's the business, : None
+2.3 :That such a hideous trumpet calls to parley : None
+2.3 :The sleepers of the house? speak, speak! : None
+MACDUFF
+2.3 :O gentle lady, : None
+2.3 :'Tis not for you to hear what I can speak: : None
+2.3 :The repetition, in a woman's ear, : None
+2.3 :Would murder as it fell. : None
+Enter BANQUO : ["Enter - ['BANQUO']"] : MACDUFF
+2.3 :O Banquo, Banquo, : None
+2.3 :Our royal master 's murder'd! : None
+LADY MACBETH
+2.3 :Woe, alas! : None
+2.3 :What, in our house? : None
+BANQUO
+2.3 :Too cruel any where. : None
+2.3 :Dear Duff, I prithee, contradict thyself, : None
+2.3 :And say it is not so. : None
+Re-enter MACBETH and LENNOX, with ROSS : ["Re-enter - ['MACBETH', 'LENNOX', 'ROSS']"] : BANQUO
+MACBETH
+2.3 :Had I but died an hour before this chance, : None
+2.3 :I had lived a blessed time; for, from this instant, : None
+2.3 :There 's nothing serious in mortality: : None
+2.3 :All is but toys: renown and grace is dead; : None
+2.3 :The wine of life is drawn, and the mere lees : None
+2.3 :Is left this vault to brag of. : None
+Enter MALCOLM and DONALBAIN : ["Enter - ['MALCOLM', 'DONALBAIN']"] : MACBETH
+DONALBAIN
+2.3 :What is amiss? : None
+MACBETH
+2.3 :                  You are, and do not know't: : None
+2.3 :The spring, the head, the fountain of your blood : None
+2.3 :Is stopp'd; the very source of it is stopp'd. : None
+MACDUFF
+2.3 :Your royal father 's murder'd. : None
+MALCOLM
+2.3 :O, by whom? : None
+LENNOX
+2.3 :Those of his chamber, as it seem'd, had done 't: : None
+2.3 :Their hands and faces were an badged with blood; : None
+2.3 :So were their daggers, which unwiped we found : None
+2.3 :Upon their pillows: : None
+2.3 :They stared, and were distracted; no man's life : None
+2.3 :Was to be trusted with them. : None
+MACBETH
+2.3 :O, yet I do repent me of my fury, : None
+2.3 :That I did kill them. : None
+MACDUFF
+2.3 :Wherefore did you so? : None
+MACBETH
+2.3 :Who can be wise, amazed, temperate and furious, : None
+2.3 :Loyal and neutral, in a moment? No man: : None
+2.3 :The expedition my violent love : None
+2.3 :Outrun the pauser, reason. Here lay Duncan, : None
+2.3 :His silver skin laced with his golden blood; : None
+2.3 :And his gash'd stabs look'd like a breach in nature : None
+2.3 :For ruin's wasteful entrance: there, the murderers, : None
+2.3 :Steep'd in the colours of their trade, their daggers : None
+2.3 :Unmannerly breech'd with gore: who could refrain, : None
+2.3 :That had a heart to love, and in that heart : None
+2.3 :Courage to make 's love kno wn? : None
+LADY MACBETH
+2.3 :Help me hence, ho! : None
+MACDUFF
+2.3 :Look to the lady. : None
+MALCOLM
+2.3 :  Why do we hold our tongues, : Aside to DONALBAIN : ["Aside - ['DONALBAIN']"] : MALCOLM
+2.3 :That most may claim this argument for ours? : None
+DONALBAIN
+2.3 :  What should be spoken here, : Aside to MALCOLM : ["Aside - ['MALCOLM']"] : DONALBAIN
+2.3 :where our fate, : None
+2.3 :Hid in an auger-hole, may rush, and seize us? : None
+2.3 :Let 's away; : None
+2.3 :Our tears are not yet brew'd. : None
+MALCOLM
+2.3 :        Nor our strong sorrow : Aside to DONALBAIN : ["Aside - ['DONALBAIN']"] : MALCOLM
+2.3 :Upon the foot of motion. : None
+BANQUO
+2.3 :Look to the lady: : None
+LADY MACBETH is carried out : ["None - ['LADY MACBETH']"] : BANQUO
+2.3 :And when we have our naked frailties hid, : None
+2.3 :That suffer in exposure, let us meet, : None
+2.3 :And question this most bloody piece of work, : None
+2.3 :To know it further. Fears and scruples shake us: : None
+2.3 :In the great hand of God I stand; and thence : None
+2.3 :Against the undivulged pretence I fight : None
+2.3 :Of treasonous malice. : None
+MACDUFF
+2.3 :And so do I. : None
+ALL
+2.3 :So all. : None
+MACBETH
+2.3 :Let's briefly put on manly readiness, : None
+2.3 :And meet i' the hall together. : None
+ALL
+2.3 :Well contented. : None
+Exeunt all but Malcolm and Donalbain. : ["Exeunt - ['ALL', 'MALCOLM', 'DONALBAIN']", 'None - []'] : ALL
+MALCOLM
+2.3 :What will you do? Let's not consort with them: : None
+2.3 :To show an unfelt sorrow is an office : None
+2.3 :Which the false man does easy. I'll to England. : None
+DONALBAIN
+2.3 :To Ireland, I; our separated fortune : None
+2.3 :Shall keep us both the safer: where we are, : None
+2.3 :There's daggers in men's smiles: the near in blood, : None
+2.3 :The nearer bloody. : None
+MALCOLM
+2.3 :                  This murderous shaft that's shot : None
+2.3 :Hath not yet lighted, and our safest way : None
+2.3 :Is to avoid the aim. Therefore, to horse; : None
+2.3 :And let us not be dainty of leave-taking, : None
+2.3 :But shift away: there's warrant in that theft : None
+2.3 :Which steals itself, when there's no mercy left. : None
+Exeunt : ['Exeunt - []'] : MALCOLM
+Scene(scene=4)
+Enter ROSS and an old Man : ["Enter - ['ROSS', 'OLD MAN']"] : MALCOLM
+OLD MAN
+2.4 :Threescore and ten I can remember well: : None
+2.4 :Within the volume of which time I have seen : None
+2.4 :Hours dreadful and things strange; but this sore night : None
+2.4 :Hath trifled former knowings. : None
+ROSS
+2.4 :Ah, good father, : None
+2.4 :Thou seest, the heavens, as troubled with man's act, : None
+2.4 :Threaten his bloody stage: by the clock, 'tis day, : None
+2.4 :And yet dark night strangles the travelling lamp: : None
+2.4 :Is't night's predominance, or the day's shame, : None
+2.4 :That darkness does the face of earth entomb, : None
+2.4 :When living light should kiss it? : None
+OLD MAN
+2.4 :'Tis unnatural, : None
+2.4 :Even like the deed that's done. On Tuesday last, : None
+2.4 :A falcon, towering in her pride of place, : None
+2.4 :Was by a mousing owl hawk'd at and kill'd. : None
+ROSS
+2.4 :And Duncan's horses--a thing most strange and certain-- : None
+2.4 :Beauteous and swift, the minions of their race, : None
+2.4 :Turn'd wild in nature, broke their stalls, flung out, : None
+2.4 :Contending 'gainst obedience, as they would make : None
+2.4 :War with mankind. : None
+OLD MAN
+2.4 :'Tis said they eat each other. : None
+ROSS
+2.4 :They did so, to the amazement of mine eyes : None
+2.4 :That look'd upon't. Here comes the good Macduff. : None
+Enter MACDUFF : ["Enter - ['MACDUFF']"] : ROSS
+2.4 :How goes the world, sir, now? : None
+MACDUFF
+2.4 :Why, see you not? : None
+ROSS
+2.4 :Is't known who did this more than bloody deed? : None
+MACDUFF
+2.4 :Those that Macbeth hath slain. : None
+ROSS
+2.4 :Alas, the day! : None
+2.4 :What good could they pretend? : None
+MACDUFF
+2.4 :They were suborn'd: : None
+2.4 :Malcolm and Donalbain, the king's two sons, : None
+2.4 :Are stol'n away and fled; which puts upon them : None
+2.4 :Suspicion of the deed. : None
+ROSS
+2.4 :'Gainst nature still! : None
+2.4 :Thriftless ambition, that wilt ravin up : None
+2.4 :Thine own life's means! Then 'tis most like : None
+2.4 :The sovereignty will fall upon Macbeth. : None
+MACDUFF
+2.4 :He is already named, and gone to Scone : None
+2.4 :To be invested. : None
+ROSS
+2.4 :                  Where is Duncan's body? : None
+MACDUFF
+2.4 :Carried to Colmekill, : None
+2.4 :The sacred storehouse of his predecessors, : None
+2.4 :And guardian of their bones. : None
+ROSS
+2.4 :Will you to Scone? : None
+MACDUFF
+2.4 :No, cousin, I'll to Fife. : None
+ROSS
+2.4 :Well, I will thither. : None
+MACDUFF
+2.4 :Well, may you see things well done there: adieu! : None
+2.4 :Lest our old robes sit easier than our new! : None
+ROSS
+2.4 :Farewell, father. : None
+OLD MAN
+2.4 :God's benison go with you; and with those : None
+2.4 :That would make good of bad, and friends of foes! : None
+Exeunt : ['Exeunt - []'] : OLD MAN
+Act(act=3)
+Scene(scene=1)
+Enter BANQUO : ["Enter - ['BANQUO']"] : OLD MAN
+BANQUO
+3.1 :Thou hast it now: king, Cawdor, Glamis, all, : None
+3.1 :As the weird women promised, and, I fear, : None
+3.1 :Thou play'dst most foully for't: yet it was said : None
+3.1 :It should not stand in thy posterity, : None
+3.1 :But that myself should be the root and father : None
+3.1 :Of many kings. If there come truth from them-- : None
+3.1 :As upon thee, Macbeth, their speeches shine-- : None
+3.1 :Why, by the verities on thee made good, : None
+3.1 :May they not be my oracles as well, : None
+3.1 :And set me up in hope? But hush! no more. : None
+Sennet sounded. Enter MACBETH, as king, LADY  MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants : ['None - []', "Enter - ['MACBETH', 'MACBETH', 'LENNOX', 'ROSS', 'LORDS', 'ATTENDANT']"] : BANQUO
+MACBETH
+3.1 :Here's our chief guest. : None
+LADY MACBETH
+3.1 :If he had been forgotten, : None
+3.1 :It had been as a gap in our great feast, : None
+3.1 :And all-thing unbecoming. : None
+MACBETH
+3.1 :To-night we hold a solemn supper sir, : None
+3.1 :And I'll request your presence. : None
+BANQUO
+3.1 :Let your highness : None
+3.1 :Command upon me; to the which my duties : None
+3.1 :Are with a most indissoluble tie : None
+3.1 :For ever knit. : None
+MACBETH
+3.1 :                  Ride you this afternoon? : None
+BANQUO
+3.1 :Ay, my good lord. : None
+MACBETH
+3.1 :We should have else desired your good advice, : None
+3.1 :Which still hath been both grave and prosperous, : None
+3.1 :In this day's council; but we'll take to-morrow. : None
+3.1 :Is't far you ride? : None
+BANQUO
+3.1 :As far, my lord, as will fill up the time : None
+3.1 :'Twixt this and supper: go not my horse the better, : None
+3.1 :I must become a borrower of the night : None
+3.1 :For a dark hour or twain. : None
+MACBETH
+3.1 :Fail not our feast. : None
+BANQUO
+3.1 :My lord, I will not. : None
+MACBETH
+3.1 :We hear, our bloody cousins are bestow'd : None
+3.1 :In England and in Ireland, not confessing : None
+3.1 :Their cruel parricide, filling their hearers : None
+3.1 :With strange invention: but of that to-morrow, : None
+3.1 :When therewithal we shall have cause of state : None
+3.1 :Craving us jointly. Hie you to horse: adieu, : None
+3.1 :Till you return at night. Goes Fleance with you? : None
+BANQUO
+3.1 :Ay, my good lord: our time does call upon 's. : None
+MACBETH
+3.1 :I wish your horses swift and sure of foot; : None
+3.1 :And so I do commend you to their backs. Farewell. : None
+Exit BANQUO : ["Exit - ['BANQUO']"] : MACBETH
+3.1 :Let every man be master of his time : None
+3.1 :Till seven at night: to make society : None
+3.1 :The sweeter welcome, we will keep ourself : None
+3.1 :Till supper-time alone: while then, God be with you! : None
+Exeunt all but MACBETH, and an attendant : ["Exeunt - ['ALL', 'MACBETH', 'ATTENDANT']"] : MACBETH
+3.1 :Sirrah, a word with you: attend those men : None
+3.1 :Our pleasure? : None
+ATTENDANT
+3.1 :They are, my lord, without the palace gate. : None
+MACBETH
+3.1 :Bring them before us. : None
+Exit Attendant : ["Exit - ['ATTENDANT']"] : MACBETH
+3.1 :To be thus is nothing; : None
+3.1 :But to be safely thus.--Our fears in Banquo : None
+3.1 :Stick deep; and in his royalty of nature : None
+3.1 :Reigns that which would be fear'd: 'tis much he dares; : None
+3.1 :And, to that dauntless temper of his mind, : None
+3.1 :He hath a wisdom that doth guide his valour : None
+3.1 :To act in safety. There is none but he : None
+3.1 :Whose being I do fear: and, under him, : None
+3.1 :My Genius is rebuked; as, it is said, : None
+3.1 :Mark Antony's was by Caesar. He chid the sisters : None
+3.1 :When first they put the name of king upon me, : None
+3.1 :And bade them speak to him: then prophet-like : None
+3.1 :They hail'd him father to a line of kings: : None
+3.1 :Upon my head they placed a fruitless crown, : None
+3.1 :And put a barren sceptre in my gripe, : None
+3.1 :Thence to be wrench'd with an unlineal hand, : None
+3.1 :No son of mine succeeding. If 't be so, : None
+3.1 :For Banquo's issue have I filed my mind; : None
+3.1 :For them the gracious Duncan have I murder'd; : None
+3.1 :Put rancours in the vessel of my peace : None
+3.1 :Only for them; and mine eternal jewel : None
+3.1 :Given to the common enemy of man, : None
+3.1 :To make them kings, the seed of Banquo kings! : None
+3.1 :Rather than so, come fate into the list. : None
+3.1 :And champion me to the utterance! Who's there! : None
+Re-enter Attendant, with two Murderers : ["Re-enter - ['ATTENDANT']"] : MACBETH
+3.1 :Now go to the door, and stay there till we call. : None
+Exit Attendant : ["Exit - ['ATTENDANT']"] : MACBETH
+3.1 :Was it not yesterday we spoke together? : None
+FIRST MURDERER
+3.1 :It was, so please your highness. : None
+MACBETH
+3.1 :Well then, now : None
+3.1 :Have you consider'd of my speeches? Know : None
+3.1 :That it was he in the times past which held you : None
+3.1 :So under fortune, which you thought had been : None
+3.1 :Our innocent self: this I made good to you : None
+3.1 :In our last conference, pass'd in probation with you, : None
+3.1 :How you were borne in hand, how cross'd, : None
+3.1 :the instruments, : None
+3.1 :Who wrought with them, and all things else that might : None
+3.1 :To half a soul and to a notion crazed : None
+3.1 :Say 'Thus did Banquo.' : None
+FIRST MURDERER
+3.1 :You made it known to us. : None
+MACBETH
+3.1 :I did so, and went further, which is now : None
+3.1 :Our point of second meeting. Do you find : None
+3.1 :Your patience so predominant in your nature : None
+3.1 :That you can let this go? Are you so gospell'd : None
+3.1 :To pray for this good man and for his issue, : None
+3.1 :Whose heavy hand hath bow'd you to the grave : None
+3.1 :And beggar'd yours for ever? : None
+FIRST MURDERER
+3.1 :We are men, my liege. : None
+MACBETH
+3.1 :Ay, in the catalogue ye go for men; : None
+3.1 :As hounds and greyhounds, mongrels, spaniels, curs, : None
+3.1 :Shoughs, water-rugs and demi-wolves, are clept : None
+3.1 :All by the name of dogs: the valued file : None
+3.1 :Distinguishes the swift, the slow, the subtle, : None
+3.1 :The housekeeper, the hunter, every one : None
+3.1 :According to the gift which bounteous nature : None
+3.1 :Hath in him closed; whereby he does receive : None
+3.1 :Particular addition. from the bill : None
+3.1 :That writes them all alike: and so of men. : None
+3.1 :Now, if you have a station in the file, : None
+3.1 :Not i' the worst rank of manhood, say 't; : None
+3.1 :And I will put that business in your bosoms, : None
+3.1 :Whose execution takes your enemy off, : None
+3.1 :Grapples you to the heart and love of us, : None
+3.1 :Who wear our health but sickly in his life, : None
+3.1 :Which in his death were perfect. : None
+SECOND MURDERER
+3.1 :I am one, my liege, : None
+3.1 :Whom the vile blows and buffets of the world : None
+3.1 :Have so incensed that I am reckless what : None
+3.1 :I do to spite the world. : None
+FIRST MURDERER
+3.1 :And I another : None
+3.1 :So weary with disasters, tugg'd with fortune, : None
+3.1 :That I would set my lie on any chance, : None
+3.1 :To mend it, or be rid on't. : None
+MACBETH
+3.1 :Both of you : None
+3.1 :Know Banquo was your enemy. : None
+BOTH MURDERERS
+3.1 :True, my lord. : None
+MACBETH
+3.1 :So is he mine; and in such bloody distance, : None
+3.1 :That every minute of his being thrusts : None
+3.1 :Against my near'st of life: and though I could : None
+3.1 :With barefaced power sweep him from my sight : None
+3.1 :And bid my will avouch it, yet I must not, : None
+3.1 :For certain friends that are both his and mine, : None
+3.1 :Whose loves I may not drop, but wail his fall : None
+3.1 :Who I myself struck down; and thence it is, : None
+3.1 :That I to your assistance do make love, : None
+3.1 :Masking the business from the common eye : None
+3.1 :For sundry weighty reasons. : None
+SECOND MURDERER
+3.1 :We shall, my lord, : None
+3.1 :Perform what you command us. : None
+FIRST MURDERER
+3.1 :Though our lives-- : None
+MACBETH
+3.1 :Your spirits shine through you. Within this hour at most : None
+3.1 :I will advise you where to plant yourselves; : None
+3.1 :Acquaint you with the perfect spy o' the time, : None
+3.1 :The moment on't; for't must be done to-night, : None
+3.1 :And something from the palace; always thought : None
+3.1 :That I require a clearness: and with him-- : None
+3.1 :To leave no rubs nor botches in the work-- : None
+3.1 :Fleance his son, that keeps him company, : None
+3.1 :Whose absence is no less material to me : None
+3.1 :Than is his father's, must embrace the fate : None
+3.1 :Of that dark hour. Resolve yourselves apart: : None
+3.1 :I'll come to you anon. : None
+BOTH MURDERERS
+3.1 :We are resolved, my lord. : None
+MACBETH
+3.1 :I'll call upon you straight: abide within. : None
+Exeunt Murderers : ['Exeunt - []'] : MACBETH
+3.1 :It is concluded. Banquo, thy soul's flight, : None
+3.1 :If it find heaven, must find it out to-night. : None
+Exit : ['Exit - []'] : MACBETH
+Scene(scene=2)
+Enter LADY MACBETH and a Servant : ["Enter - ['LADY MACBETH', 'SERVANT']"] : MACBETH
+LADY MACBETH
+3.2 :Is Banquo gone from court? : None
+SERVANT
+3.2 :Ay, madam, but returns again to-night. : None
+LADY MACBETH
+3.2 :Say to the king, I would attend his leisure : None
+3.2 :For a few words. : None
+SERVANT
+3.2 :                  Madam, I will. : None
+Exit : ['Exit - []'] : SERVANT
+LADY MACBETH
+3.2 :Nought's had, all's spent, : None
+3.2 :Where our desire is got without content: : None
+3.2 :'Tis safer to be that which we destroy : None
+3.2 :Than by destruction dwell in doubtful joy. : None
+Enter MACBETH : ["Enter - ['MACBETH']"] : LADY MACBETH
+3.2 :How now, my lord! why do you keep alone, : None
+3.2 :Of sorriest fancies your companions making, : None
+3.2 :Using those thoughts which should indeed have died : None
+3.2 :With them they think on? Things without all remedy : None
+3.2 :Should be without regard: what's done is done. : None
+MACBETH
+3.2 :We have scotch'd the snake, not kill'd it: : None
+3.2 :She'll close and be herself, whilst our poor malice : None
+3.2 :Remains in danger of her former tooth. : None
+3.2 :But let the frame of things disjoint, both the : None
+3.2 :worlds suffer, : None
+3.2 :Ere we will eat our meal in fear and sleep : None
+3.2 :In the affliction of these terrible dreams : None
+3.2 :That shake us nightly: better be with the dead, : None
+3.2 :Whom we, to gain our peace, have sent to peace, : None
+3.2 :Than on the torture of the mind to lie : None
+3.2 :In restless ecstasy. Duncan is in his grave; : None
+3.2 :After life's fitful fever he sleeps well; : None
+3.2 :Treason has done his worst: nor steel, nor poison, : None
+3.2 :Malice domestic, foreign levy, nothing, : None
+3.2 :Can touch him further. : None
+LADY MACBETH
+3.2 :Come on; : None
+3.2 :Gentle my lord, sleek o'er your rugged looks; : None
+3.2 :Be bright and jovial among your guests to-night. : None
+MACBETH
+3.2 :So shall I, love; and so, I pray, be you: : None
+3.2 :Let your remembrance apply to Banquo; : None
+3.2 :Present him eminence, both with eye and tongue: : None
+3.2 :Unsafe the while, that we : None
+3.2 :Must lave our honours in these flattering streams, : None
+3.2 :And make our faces vizards to our hearts, : None
+3.2 :Disguising what they are. : None
+LADY MACBETH
+3.2 :You must leave this. : None
+MACBETH
+3.2 :O, full of scorpions is my mind, dear wife! : None
+3.2 :Thou know'st that Banquo, and his Fleance, lives. : None
+LADY MACBETH
+3.2 :But in them nature's copy's not eterne. : None
+MACBETH
+3.2 :There's comfort yet; they are assailable; : None
+3.2 :Then be thou jocund: ere the bat hath flown : None
+3.2 :His cloister'd flight, ere to black Hecate's summons : None
+3.2 :The shard-borne beetle with his drowsy hums : None
+3.2 :Hath rung night's yawning peal, there shall be done : None
+3.2 :A deed of dreadful note. : None
+LADY MACBETH
+3.2 :What's to be done? : None
+MACBETH
+3.2 :Be innocent of the knowledge, dearest chuck, : None
+3.2 :Till thou applaud the deed. Come, seeling night, : None
+3.2 :Scarf up the tender eye of pitiful day; : None
+3.2 :And with thy bloody and invisible hand : None
+3.2 :Cancel and tear to pieces that great bond : None
+3.2 :Which keeps me pale! Light thickens; and the crow : None
+3.2 :Makes wing to the rooky wood: : None
+3.2 :Good things of day begin to droop and drowse; : None
+3.2 :While night's black agents to their preys do rouse. : None
+3.2 :Thou marvell'st at my words: but hold thee still; : None
+3.2 :Things bad begun make strong themselves by ill. : None
+3.2 :So, prithee, go with me. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=3)
+Enter three Murderers : ['Enter - []'] : MACBETH
+FIRST MURDERER
+3.3 :But who did bid thee join with us? : None
+THIRD MURDERER
+3.3 :Macbeth. : None
+SECOND MURDERER
+3.3 :He needs not our mistrust, since he delivers : None
+3.3 :Our offices and what we have to do : None
+3.3 :To the direction just. : None
+FIRST MURDERER
+3.3 :Then stand with us. : None
+3.3 :The west yet glimmers with some streaks of day: : None
+3.3 :Now spurs the lated traveller apace : None
+3.3 :To gain the timely inn; and near approaches : None
+3.3 :The subject of our watch. : None
+THIRD MURDERER
+3.3 :Hark! I hear horses. : None
+BANQUO
+3.3 :  Give us a light there, ho! : Within : ['None - []'] : BANQUO
+SECOND MURDERER
+3.3 :Then 'tis he: the rest : None
+3.3 :That are within the note of expectation : None
+3.3 :Already are i' the court. : None
+FIRST MURDERER
+3.3 :His horses go about. : None
+THIRD MURDERER
+3.3 :Almost a mile: but he does usually, : None
+3.3 :So all men do, from hence to the palace gate : None
+3.3 :Make it their walk. : None
+SECOND MURDERER
+3.3 :A light, a light! : None
+Enter BANQUO, and FLEANCE with a torch : ["Enter - ['BANQUO', 'FLEANCE']"] : SECOND MURDERER
+THIRD MURDERER
+3.3 :'Tis he. : None
+FIRST MURDERER
+3.3 :Stand to't. : None
+BANQUO
+3.3 :It will be rain to-night. : None
+FIRST MURDERER
+3.3 :Let it come down. : None
+They set upon BANQUO : ["None - ['BANQUO']"] : FIRST MURDERER
+BANQUO
+3.3 :O, treachery! Fly, good Fleance, fly, fly, fly! : None
+3.3 :Thou mayst revenge. O slave! : None
+Dies. FLEANCE escapes : ['None - []', "None - ['FLEANCE']"] : BANQUO
+THIRD MURDERER
+3.3 :Who did strike out the light? : None
+FIRST MURDERER
+3.3 :Wast not the way? : None
+THIRD MURDERER
+3.3 :There's but one down; the son is fled. : None
+SECOND MURDERER
+3.3 :We have lost : None
+3.3 :Best half of our affair. : None
+FIRST MURDERER
+3.3 :Well, let's away, and say how much is done. : None
+Exeunt : ['Exeunt - []'] : FIRST MURDERER
+Scene(scene=4)
+A banquet prepared. Enter MACBETH, LADY MACBETH, ROSS, LENNOX, Lords, and Attendants : ['None - []', "Enter - ['MACBETH', 'LADY MACBETH', 'ROSS', 'LENNOX', 'LORDS', 'ATTENDANT']"] : FIRST MURDERER
+MACBETH
+3.4 :You know your own degrees; sit down: at first : None
+3.4 :And last the hearty welcome. : None
+LORDS
+3.4 :Thanks to your majesty. : None
+MACBETH
+3.4 :Ourself will mingle with society, : None
+3.4 :And play the humble host. : None
+3.4 :Our hostess keeps her state, but in best time : None
+3.4 :We will require her welcome. : None
+LADY MACBETH
+3.4 :Pronounce it for me, sir, to all our friends; : None
+3.4 :For my heart speaks they are welcome. : None
+First Murderer appears at the door : ["None - ['FIRST MURDERER']"] : LADY MACBETH
+MACBETH
+3.4 :See, they encounter thee with their hearts' thanks. : None
+3.4 :Both sides are even: here I'll sit i' the midst: : None
+3.4 :Be large in mirth; anon we'll drink a measure : None
+3.4 :The table round. : None
+Approaching the door : ['None - []'] : MACBETH
+3.4 :There's blood on thy face. : None
+FIRST MURDERER
+3.4 :'Tis Banquo's then. : None
+MACBETH
+3.4 :'Tis better thee without than he within. : None
+3.4 :Is he dispatch'd? : None
+FIRST MURDERER
+3.4 :My lord, his throat is cut; that I did for him. : None
+MACBETH
+3.4 :Thou art the best o' the cut-throats: yet he's good : None
+3.4 :That did the like for Fleance: if thou didst it, : None
+3.4 :Thou art the nonpareil. : None
+FIRST MURDERER
+3.4 :Most royal sir, : None
+3.4 :Fleance is 'scaped. : None
+MACBETH
+3.4 :Then comes my fit again: I had else been perfect, : None
+3.4 :Whole as the marble, founded as the rock, : None
+3.4 :As broad and general as the casing air: : None
+3.4 :But now I am cabin'd, cribb'd, confined, bound in : None
+3.4 :To saucy doubts and fears. But Banquo's safe? : None
+FIRST MURDERER
+3.4 :Ay, my good lord: safe in a ditch he bides, : None
+3.4 :With twenty trenched gashes on his head; : None
+3.4 :The least a death to nature. : None
+MACBETH
+3.4 :Thanks for that: : None
+3.4 :There the grown serpent lies; the worm that's fled : None
+3.4 :Hath nature that in time will venom breed, : None
+3.4 :No teeth for the present. Get thee gone: to-morrow : None
+3.4 :We'll hear, ourselves, again. : None
+Exit Murderer : ['Exit - []'] : MACBETH
+LADY MACBETH
+3.4 :My royal lord, : None
+3.4 :You do not give the cheer: the feast is sold : None
+3.4 :That is not often vouch'd, while 'tis a-making, : None
+3.4 :'Tis given with welcome: to feed were best at home; : None
+3.4 :From thence the sauce to meat is ceremony; : None
+3.4 :Meeting were bare without it. : None
+MACBETH
+3.4 :Sweet remembrancer! : None
+3.4 :Now, good digestion wait on appetite, : None
+3.4 :And health on both! : None
+LENNOX
+3.4 :May't please your highness sit. : None
+The GHOST OF BANQUO enters, and sits in MACBETH's place : ["enter - ['BANQUO', 'MACBETH']"] : LENNOX
+MACBETH
+3.4 :Here had we now our country's honour roof'd, : None
+3.4 :Were the graced person of our Banquo present; : None
+3.4 :Who may I rather challenge for unkindness : None
+3.4 :Than pity for mischance! : None
+ROSS
+3.4 :His absence, sir, : None
+3.4 :Lays blame upon his promise. Please't your highness : None
+3.4 :To grace us with your royal company. : None
+MACBETH
+3.4 :The table's full. : None
+LENNOX
+3.4 :                  Here is a place reserved, sir. : None
+MACBETH
+3.4 :Where? : None
+LENNOX
+3.4 :Here, my good lord. What is't that moves your highness? : None
+MACBETH
+3.4 :Which of you have done this? : None
+LORDS
+3.4 :What, my good lord? : None
+MACBETH
+3.4 :Thou canst not say I did it: never shake : None
+3.4 :Thy gory locks at me. : None
+ROSS
+3.4 :Gentlemen, rise: his highness is not well. : None
+LADY MACBETH
+3.4 :Sit, worthy friends: my lord is often thus, : None
+3.4 :And hath been from his youth: pray you, keep seat; : None
+3.4 :The fit is momentary; upon a thought : None
+3.4 :He will again be well: if much you note him, : None
+3.4 :You shall offend him and extend his passion: : None
+3.4 :Feed, and regard him not. Are you a man? : None
+MACBETH
+3.4 :Ay, and a bold one, that dare look on that : None
+3.4 :Which might appal the devil. : None
+LADY MACBETH
+3.4 :O proper stuff! : None
+3.4 :This is the very painting of your fear: : None
+3.4 :This is the air-drawn dagger which, you said, : None
+3.4 :Led you to Duncan. O, these flaws and starts, : None
+3.4 :Impostors to true fear, would well become : None
+3.4 :A woman's story at a winter's fire, : None
+3.4 :Authorized by her grandam. Shame itself! : None
+3.4 :Why do you make such faces? When all's done, : None
+3.4 :You look but on a stool. : None
+MACBETH
+3.4 :Prithee, see there! behold! look! lo! : None
+3.4 :how say you? : None
+3.4 :Why, what care I? If thou canst nod, speak too. : None
+3.4 :If charnel-houses and our graves must send : None
+3.4 :Those that we bury back, our monuments : None
+3.4 :Shall be the maws of kites. : None
+GHOST OF BANQUO vanishes : ["None - ['BANQUO']"] : MACBETH
+LADY MACBETH
+3.4 :What, quite unmann'd in folly? : None
+MACBETH
+3.4 :If I stand here, I saw him. : None
+LADY MACBETH
+3.4 :Fie, for shame! : None
+MACBETH
+3.4 :Blood hath been shed ere now, i' the olden time, : None
+3.4 :Ere human statute purged the gentle weal; : None
+3.4 :Ay, and since too, murders have been perform'd : None
+3.4 :Too terrible for the ear: the times have been, : None
+3.4 :That, when the brains were out, the man would die, : None
+3.4 :And there an end; but now they rise again, : None
+3.4 :With twenty mortal murders on their crowns, : None
+3.4 :And push us from our stools: this is more strange : None
+3.4 :Than such a murder is. : None
+LADY MACBETH
+3.4 :My worthy lord, : None
+3.4 :Your noble friends do lack you. : None
+MACBETH
+3.4 :I do forget. : None
+3.4 :Do not muse at me, my most worthy friends, : None
+3.4 :I have a strange infirmity, which is nothing : None
+3.4 :To those that know me. Come, love and health to all; : None
+3.4 :Then I'll sit down. Give me some wine; fill full. : None
+3.4 :I drink to the general joy o' the whole table, : None
+3.4 :And to our dear friend Banquo, whom we miss; : None
+3.4 :Would he were here! to all, and him, we thirst, : None
+3.4 :And all to all. : None
+LORDS
+3.4 :                  Our duties, and the pledge. : None
+Re-enter GHOST OF BANQUO : ["Re-enter - ['BANQUO']"] : LORDS
+MACBETH
+3.4 :Avaunt! and quit my sight! let the earth hide thee! : None
+3.4 :Thy bones are marrowless, thy blood is cold; : None
+3.4 :Thou hast no speculation in those eyes : None
+3.4 :Which thou dost glare with! : None
+LADY MACBETH
+3.4 :Think of this, good peers, : None
+3.4 :But as a thing of custom: 'tis no other; : None
+3.4 :Only it spoils the pleasure of the time. : None
+MACBETH
+3.4 :What man dare, I dare: : None
+3.4 :Approach thou like the rugged Russian bear, : None
+3.4 :The arm'd rhinoceros, or the Hyrcan tiger; : None
+3.4 :Take any shape but that, and my firm nerves : None
+3.4 :Shall never tremble: or be alive again, : None
+3.4 :And dare me to the desert with thy sword; : None
+3.4 :If trembling I inhabit then, protest me : None
+3.4 :The baby of a girl. Hence, horrible shadow! : None
+3.4 :Unreal mockery, hence! : None
+GHOST OF BANQUO vanishes : ["None - ['BANQUO']"] : MACBETH
+3.4 :Why, so: being gone, : None
+3.4 :I am a man again. Pray you, sit still. : None
+LADY MACBETH
+3.4 :You have displaced the mirth, broke the good meeting, : None
+3.4 :With most admired disorder. : None
+MACBETH
+3.4 :Can such things be, : None
+3.4 :And overcome us like a summer's cloud, : None
+3.4 :Without our special wonder? You make me strange : None
+3.4 :Even to the disposition that I owe, : None
+3.4 :When now I think you can behold such sights, : None
+3.4 :And keep the natural ruby of your cheeks, : None
+3.4 :When mine is blanched with fear. : None
+ROSS
+3.4 :What sights, my lord? : None
+LADY MACBETH
+3.4 :I pray you, speak not; he grows worse and worse; : None
+3.4 :Question enrages him. At once, good night: : None
+3.4 :Stand not upon the order of your going, : None
+3.4 :But go at once. : None
+LENNOX
+3.4 :                  Good night; and better health : None
+3.4 :Attend his majesty! : None
+LADY MACBETH
+3.4 :A kind good night to all! : None
+Exeunt all but MACBETH and LADY MACBETH : ["Exeunt - ['ALL', 'MACBETH', 'LADY MACBETH']"] : LADY MACBETH
+MACBETH
+3.4 :It will have blood; they say, blood will have blood: : None
+3.4 :Stones have been known to move and trees to speak; : None
+3.4 :Augurs and understood relations have : None
+3.4 :By magot-pies and choughs and rooks brought forth : None
+3.4 :The secret'st man of blood. What is the night? : None
+LADY MACBETH
+3.4 :Almost at odds with morning, which is which. : None
+MACBETH
+3.4 :How say'st thou, that Macduff denies his person : None
+3.4 :At our great bidding? : None
+LADY MACBETH
+3.4 :Did you send to him, sir? : None
+MACBETH
+3.4 :I hear it by the way; but I will send: : None
+3.4 :There's not a one of them but in his house : None
+3.4 :I keep a servant fee'd. I will to-morrow, : None
+3.4 :And betimes I will, to the weird sisters: : None
+3.4 :More shall they speak; for now I am bent to know, : None
+3.4 :By the worst means, the worst. For mine own good, : None
+3.4 :All causes shall give way: I am in blood : None
+3.4 :Stepp'd in so far that, should I wade no more, : None
+3.4 :Returning were as tedious as go o'er: : None
+3.4 :Strange things I have in head, that will to hand; : None
+3.4 :Which must be acted ere they may be scann'd. : None
+LADY MACBETH
+3.4 :You lack the season of all natures, sleep. : None
+MACBETH
+3.4 :Come, we'll to sleep. My strange and self-abuse : None
+3.4 :Is the initiate fear that wants hard use: : None
+3.4 :We are yet but young in deed. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=5)
+Thunder. Enter the three Witches meeting HECATE : ['None - []', "Enter - ['HECATE']"] : MACBETH
+FIRST WITCH
+3.5 :Why, how now, Hecate! you look angerly. : None
+HECATE
+3.5 :Have I not reason, beldams as you are, : None
+3.5 :Saucy and overbold? How did you dare : None
+3.5 :To trade and traffic with Macbeth : None
+3.5 :In riddles and affairs of death; : None
+3.5 :And I, the mistress of your charms, : None
+3.5 :The close contriver of all harms, : None
+3.5 :Was never call'd to bear my part, : None
+3.5 :Or show the glory of our art? : None
+3.5 :And, which is worse, all you have done : None
+3.5 :Hath been but for a wayward son, : None
+3.5 :Spiteful and wrathful, who, as others do, : None
+3.5 :Loves for his own ends, not for you. : None
+3.5 :But make amends now: get you gone, : None
+3.5 :And at the pit of Acheron : None
+3.5 :Meet me i' the morning: thither he : None
+3.5 :Will come to know his destiny: : None
+3.5 :Your vessels and your spells provide, : None
+3.5 :Your charms and every thing beside. : None
+3.5 :I am for the air; this night I'll spend : None
+3.5 :Unto a dismal and a fatal end: : None
+3.5 :Great business must be wrought ere noon: : None
+3.5 :Upon the corner of the moon : None
+3.5 :There hangs a vaporous drop profound; : None
+3.5 :I'll catch it ere it come to ground: : None
+3.5 :And that distill'd by magic sleights : None
+3.5 :Shall raise such artificial sprites : None
+3.5 :As by the strength of their illusion : None
+3.5 :Shall draw him on to his confusion: : None
+3.5 :He shall spurn fate, scorn death, and bear : None
+3.5 :He hopes 'bove wisdom, grace and fear: : None
+3.5 :And you all know, security : None
+3.5 :Is mortals' chiefest enemy. : None
+Music and a song within: 'Come away, come away,'  & c : ["None - ['SON']"] : HECATE
+3.5 :Hark! I am call'd; my little spirit, see, : None
+3.5 :Sits in a foggy cloud, and stays for me. : None
+Exit : ['Exit - []'] : HECATE
+FIRST WITCH
+3.5 :Come, let's make haste; she'll soon be back again. : None
+Exeunt : ['Exeunt - []'] : FIRST WITCH
+Scene(scene=6)
+Enter LENNOX and another Lord : ["Enter - ['LENNOX', 'LORD']"] : FIRST WITCH
+LENNOX
+3.6 :My former speeches have but hit your thoughts, : None
+3.6 :Which can interpret further: only, I say, : None
+3.6 :Things have been strangely borne. The : None
+3.6 :gracious Duncan : None
+3.6 :Was pitied of Macbeth: marry, he was dead: : None
+3.6 :And the right-valiant Banquo walk'd too late; : None
+3.6 :Whom, you may say, if't please you, Fleance kill'd, : None
+3.6 :For Fleance fled: men must not walk too late. : None
+3.6 :Who cannot want the thought how monstrous : None
+3.6 :It was for Malcolm and for Donalbain : None
+3.6 :To kill their gracious father? damned fact! : None
+3.6 :How it did grieve Macbeth! did he not straight : None
+3.6 :In pious rage the two delinquents tear, : None
+3.6 :That were the slaves of drink and thralls of sleep? : None
+3.6 :Was not that nobly done? Ay, and wisely too; : None
+3.6 :For 'twould have anger'd any heart alive : None
+3.6 :To hear the men deny't. So that, I say, : None
+3.6 :He has borne all things well: and I do think : None
+3.6 :That had he Duncan's sons under his key-- : None
+3.6 :As, an't please heaven, he shall not--they : None
+3.6 :should find : None
+3.6 :What 'twere to kill a father; so should Fleance. : None
+3.6 :But, peace! for from broad words and 'cause he fail'd : None
+3.6 :His presence at the tyrant's feast, I hear : None
+3.6 :Macduff lives in disgrace: sir, can you tell : None
+3.6 :Where he bestows himself? : None
+LORD
+3.6 :The son of Duncan, : None
+3.6 :From whom this tyrant holds the due of birth : None
+3.6 :Lives in the English court, and is received : None
+3.6 :Of the most pious Edward with such grace : None
+3.6 :That the malevolence of fortune nothing : None
+3.6 :Takes from his high respect: thither Macduff : None
+3.6 :Is gone to pray the holy king, upon his aid : None
+3.6 :To wake Northumberland and warlike Siward: : None
+3.6 :That, by the help of these--with Him above : None
+3.6 :To ratify the work--we may again : None
+3.6 :Give to our tables meat, sleep to our nights, : None
+3.6 :Free from our feasts and banquets bloody knives, : None
+3.6 :Do faithful homage and receive free honours: : None
+3.6 :All which we pine for now: and this report : None
+3.6 :Hath so exasperate the king that he : None
+3.6 :Prepares for some attempt of war. : None
+LENNOX
+3.6 :Sent he to Macduff? : None
+LORD
+3.6 :He did: and with an absolute 'Sir, not I,' : None
+3.6 :The cloudy messenger turns me his back, : None
+3.6 :And hums, as who should say 'You'll rue the time : None
+3.6 :That clogs me with this answer.' : None
+LENNOX
+3.6 :And that well might : None
+3.6 :Advise him to a caution, to hold what distance : None
+3.6 :His wisdom can provide. Some holy angel : None
+3.6 :Fly to the court of England and unfold : None
+3.6 :His message ere he come, that a swift blessing : None
+3.6 :May soon return to this our suffering country : None
+3.6 :Under a hand accursed! : None
+LORD
+3.6 :I'll send my prayers with him. : None
+Exeunt : ['Exeunt - []'] : LORD
+Act(act=4)
+Scene(scene=1)
+Thunder. Enter the three Witches : ['None - []', 'Enter - []'] : LORD
+FIRST WITCH
+4.1 :Thrice the brinded cat hath mew'd. : None
+SECOND WITCH
+4.1 :Thrice and once the hedge-pig whined. : None
+THIRD WITCH
+4.1 :Harpier cries 'Tis time, 'tis time. : None
+FIRST WITCH
+4.1 :Round about the cauldron go; : None
+4.1 :In the poison'd entrails throw. : None
+4.1 :Toad, that under cold stone : None
+4.1 :Days and nights has thirty-one : None
+4.1 :Swelter'd venom sleeping got, : None
+4.1 :Boil thou first i' the charmed pot. : None
+ALL
+4.1 :Double, double toil and trouble; : None
+4.1 :Fire burn, and cauldron bubble. : None
+SECOND WITCH
+4.1 :Fillet of a fenny snake, : None
+4.1 :In the cauldron boil and bake; : None
+4.1 :Eye of newt and toe of frog, : None
+4.1 :Wool of bat and tongue of dog, : None
+4.1 :Adder's fork and blind-worm's sting, : None
+4.1 :Lizard's leg and owlet's wing, : None
+4.1 :For a charm of powerful trouble, : None
+4.1 :Like a hell-broth boil and bubble. : None
+ALL
+4.1 :Double, double toil and trouble; : None
+4.1 :Fire burn and cauldron bubble. : None
+THIRD WITCH
+4.1 :Scale of dragon, tooth of wolf, : None
+4.1 :Witches' mummy, maw and gulf : None
+4.1 :Of the ravin'd salt-sea shark, : None
+4.1 :Root of hemlock digg'd i' the dark, : None
+4.1 :Liver of blaspheming Jew, : None
+4.1 :Gall of goat, and slips of yew : None
+4.1 :Silver'd in the moon's eclipse, : None
+4.1 :Nose of Turk and Tartar's lips, : None
+4.1 :Finger of birth-strangled babe : None
+4.1 :Ditch-deliver'd by a drab, : None
+4.1 :Make the gruel thick and slab: : None
+4.1 :Add thereto a tiger's chaudron, : None
+4.1 :For the ingredients of our cauldron. : None
+ALL
+4.1 :Double, double toil and trouble; : None
+4.1 :Fire burn and cauldron bubble. : None
+SECOND WITCH
+4.1 :Cool it with a baboon's blood, : None
+4.1 :Then the charm is firm and good. : None
+Enter HECATE to the other three Witches : ["Enter - ['HECATE']"] : SECOND WITCH
+HECATE
+4.1 :O well done! I commend your pains; : None
+4.1 :And every one shall share i' the gains; : None
+4.1 :And now about the cauldron sing, : None
+4.1 :Live elves and fairies in a ring, : None
+4.1 :Enchanting all that you put in. : None
+Music and a song: 'Black spirits,'  & c : ["None - ['SON']"] : HECATE
+HECATE retires : ["None - ['HECATE']"] : HECATE
+SECOND WITCH
+4.1 :By the pricking of my thumbs, : None
+4.1 :Something wicked this way comes. : None
+4.1 :Open, locks, : None
+4.1 :Whoever knocks! : None
+Enter MACBETH : ["Enter - ['MACBETH']"] : SECOND WITCH
+MACBETH
+4.1 :How now, you secret, black, and midnight hags! : None
+4.1 :What is't you do? : None
+ALL
+4.1 :                  A deed without a name. : None
+MACBETH
+4.1 :I conjure you, by that which you profess, : None
+4.1 :Howe'er you come to know it, answer me: : None
+4.1 :Though you untie the winds and let them fight : None
+4.1 :Against the churches; though the yesty waves : None
+4.1 :Confound and swallow navigation up; : None
+4.1 :Though bladed corn be lodged and trees blown down; : None
+4.1 :Though castles topple on their warders' heads; : None
+4.1 :Though palaces and pyramids do slope : None
+4.1 :Their heads to their foundations; though the treasure : None
+4.1 :Of nature's germens tumble all together, : None
+4.1 :Even till destruction sicken; answer me : None
+4.1 :To what I ask you. : None
+FIRST WITCH
+4.1 :                  Speak. : None
+SECOND WITCH
+4.1 :Demand. : None
+THIRD WITCH
+4.1 :We'll answer. : None
+FIRST WITCH
+4.1 :Say, if thou'dst rather hear it from our mouths, : None
+4.1 :Or from our masters? : None
+MACBETH
+4.1 :Call 'em; let me see 'em. : None
+FIRST WITCH
+4.1 :Pour in sow's blood, that hath eaten : None
+4.1 :Her nine farrow; grease that's sweaten : None
+4.1 :From the murderer's gibbet throw : None
+4.1 :Into the flame. : None
+ALL
+4.1 :                  Come, high or low; : None
+4.1 :Thyself and office deftly show! : None
+Thunder. First Apparition: an armed Head : ['None - []', "None - ['FIRST APPARITION']"] : ALL
+MACBETH
+4.1 :Tell me, thou unknown power,-- : None
+FIRST WITCH
+4.1 :He knows thy thought: : None
+4.1 :Hear his speech, but say thou nought. : None
+FIRST APPARITION
+4.1 :Macbeth! Macbeth! Macbeth! beware Macduff; : None
+4.1 :Beware the thane of Fife. Dismiss me. Enough. : None
+Descends : ['None - []'] : FIRST APPARITION
+MACBETH
+4.1 :Whate'er thou art, for thy good caution, thanks; : None
+4.1 :Thou hast harp'd my fear aright: but one : None
+4.1 :word more,-- : None
+FIRST WITCH
+4.1 :He will not be commanded: here's another, : None
+4.1 :More potent than the first. : None
+Thunder. Second Apparition: A bloody Child : ['None - []', "None - ['SECOND APPARITION']"] : FIRST WITCH
+SECOND APPARITION
+4.1 :Macbeth! Macbeth! Macbeth! : None
+MACBETH
+4.1 :Had I three ears, I'ld hear thee. : None
+SECOND APPARITION
+4.1 :Be bloody, bold, and resolute; laugh to scorn : None
+4.1 :The power of man, for none of woman born : None
+4.1 :Shall harm Macbeth. : None
+Descends : ['None - []'] : SECOND APPARITION
+MACBETH
+4.1 :Then live, Macduff: what need I fear of thee? : None
+4.1 :But yet I'll make assurance double sure, : None
+4.1 :And take a bond of fate: thou shalt not live; : None
+4.1 :That I may tell pale-hearted fear it lies, : None
+4.1 :And sleep in spite of thunder. : None
+Thunder. Third Apparition: a Child crowned, with a tree in his hand : ['None - []', "None - ['THIRD APPARITION']"] : MACBETH
+4.1 :What is this : None
+4.1 :That rises like the issue of a king, : None
+4.1 :And wears upon his baby-brow the round : None
+4.1 :And top of sovereignty? : None
+ALL
+4.1 :Listen, but speak not to't. : None
+THIRD APPARITION
+4.1 :Be lion-mettled, proud; and take no care : None
+4.1 :Who chafes, who frets, or where conspirers are: : None
+4.1 :Macbeth shall never vanquish'd be until : None
+4.1 :Great Birnam wood to high Dunsinane hill : None
+4.1 :Shall come against him. : None
+Descends : ['None - []'] : THIRD APPARITION
+MACBETH
+4.1 :That will never be : None
+4.1 :Who can impress the forest, bid the tree : None
+4.1 :Unfix his earth-bound root? Sweet bodements! good! : None
+4.1 :Rebellion's head, rise never till the wood : None
+4.1 :Of Birnam rise, and our high-placed Macbeth : None
+4.1 :Shall live the lease of nature, pay his breath : None
+4.1 :To time and mortal custom. Yet my heart : None
+4.1 :Throbs to know one thing: tell me, if your art : None
+4.1 :Can tell so much: shall Banquo's issue ever : None
+4.1 :Reign in this kingdom? : None
+ALL
+4.1 :Seek to know no more. : None
+MACBETH
+4.1 :I will be satisfied: deny me this, : None
+4.1 :And an eternal curse fall on you! Let me know. : None
+4.1 :Why sinks that cauldron? and what noise is this? : None
+Hautboys : ['None - []'] : MACBETH
+FIRST WITCH
+4.1 :Show! : None
+SECOND WITCH
+4.1 :Show! : None
+THIRD WITCH
+4.1 :Show! : None
+ALL
+4.1 :Show his eyes, and grieve his heart; : None
+4.1 :Come like shadows, so depart! : None
+A show of Eight Kings, the last with a glass in his hand; GHOST OF BANQUO following : ["None - ['BANQUO']"] : ALL
+MACBETH
+4.1 :Thou art too like the spirit of Banquo: down! : None
+4.1 :Thy crown does sear mine eye-balls. And thy hair, : None
+4.1 :Thou other gold-bound brow, is like the first. : None
+4.1 :A third is like the former. Filthy hags! : None
+4.1 :Why do you show me this? A fourth! Start, eyes! : None
+4.1 :What, will the line stretch out to the crack of doom? : None
+4.1 :Another yet! A seventh! I'll see no more: : None
+4.1 :And yet the eighth appears, who bears a glass : None
+4.1 :Which shows me many more; and some I see : None
+4.1 :That two-fold balls and treble scepters carry: : None
+4.1 :Horrible sight! Now, I see, 'tis true; : None
+4.1 :For the blood-bolter'd Banquo smiles upon me, : None
+4.1 :And points at them for his. : None
+Apparitions vanish : ['None - []'] : MACBETH
+4.1 :What, is this so? : None
+FIRST WITCH
+4.1 :Ay, sir, all this is so: but why : None
+4.1 :Stands Macbeth thus amazedly? : None
+4.1 :Come, sisters, cheer we up his sprites, : None
+4.1 :And show the best of our delights: : None
+4.1 :I'll charm the air to give a sound, : None
+4.1 :While you perform your antic round: : None
+4.1 :That this great king may kindly say, : None
+4.1 :Our duties did his welcome pay. : None
+Music. The witches dance and then vanish, with HECATE : ['None - []', "None - ['HECATE']"] : FIRST WITCH
+MACBETH
+4.1 :Where are they? Gone? Let this pernicious hour : None
+4.1 :Stand aye accursed in the calendar! : None
+4.1 :Come in, without there! : None
+Enter LENNOX : ["Enter - ['LENNOX']"] : MACBETH
+LENNOX
+4.1 :What's your grace's will? : None
+MACBETH
+4.1 :Saw you the weird sisters? : None
+LENNOX
+4.1 :No, my lord. : None
+MACBETH
+4.1 :Came they not by you? : None
+LENNOX
+4.1 :No, indeed, my lord. : None
+MACBETH
+4.1 :Infected be the air whereon they ride; : None
+4.1 :And damn'd all those that trust them! I did hear : None
+4.1 :The galloping of horse: who was't came by? : None
+LENNOX
+4.1 :'Tis two or three, my lord, that bring you word : None
+4.1 :Macduff is fled to England. : None
+MACBETH
+4.1 :Fled to England! : None
+LENNOX
+4.1 :Ay, my good lord. : None
+MACBETH
+4.1 :Time, thou anticipatest my dread exploits: : None
+4.1 :The flighty purpose never is o'ertook : None
+4.1 :Unless the deed go with it; from this moment : None
+4.1 :The very firstlings of my heart shall be : None
+4.1 :The firstlings of my hand. And even now, : None
+4.1 :To crown my thoughts with acts, be it thought and done: : None
+4.1 :The castle of Macduff I will surprise; : None
+4.1 :Seize upon Fife; give to the edge o' the sword : None
+4.1 :His wife, his babes, and all unfortunate souls : None
+4.1 :That trace him in his line. No boasting like a fool; : None
+4.1 :This deed I'll do before this purpose cool. : None
+4.1 :But no more sights!--Where are these gentlemen? : None
+4.1 :Come, bring me where they are. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=2)
+Enter LADY MACDUFF, her Son, and ROSS : ["Enter - ['LADY MACDUFF', 'SON', 'ROSS']"] : MACBETH
+LADY MACDUFF
+4.2 :What had he done, to make him fly the land? : None
+ROSS
+4.2 :You must have patience, madam. : None
+LADY MACDUFF
+4.2 :He had none: : None
+4.2 :His flight was madness: when our actions do not, : None
+4.2 :Our fears do make us traitors. : None
+ROSS
+4.2 :You know not : None
+4.2 :Whether it was his wisdom or his fear. : None
+LADY MACDUFF
+4.2 :Wisdom! to leave his wife, to leave his babes, : None
+4.2 :His mansion and his titles in a place : None
+4.2 :From whence himself does fly? He loves us not; : None
+4.2 :He wants the natural touch: for the poor wren, : None
+4.2 :The most diminutive of birds, will fight, : None
+4.2 :Her young ones in her nest, against the owl. : None
+4.2 :All is the fear and nothing is the love; : None
+4.2 :As little is the wisdom, where the flight : None
+4.2 :So runs against all reason. : None
+ROSS
+4.2 :My dearest coz, : None
+4.2 :I pray you, school yourself: but for your husband, : None
+4.2 :He is noble, wise, judicious, and best knows : None
+4.2 :The fits o' the season. I dare not speak : None
+4.2 :much further; : None
+4.2 :But cruel are the times, when we are traitors : None
+4.2 :And do not know ourselves, when we hold rumour : None
+4.2 :From what we fear, yet know not what we fear, : None
+4.2 :But float upon a wild and violent sea : None
+4.2 :Each way and move. I take my leave of you: : None
+4.2 :Shall not be long but I'll be here again: : None
+4.2 :Things at the worst will cease, or else climb upward : None
+4.2 :To what they were before. My pretty cousin, : None
+4.2 :Blessing upon you! : None
+LADY MACDUFF
+4.2 :Father'd he is, and yet he's fatherless. : None
+ROSS
+4.2 :I am so much a fool, should I stay longer, : None
+4.2 :It would be my disgrace and your discomfort: : None
+4.2 :I take my leave at once. : None
+Exit : ['Exit - []'] : ROSS
+LADY MACDUFF
+4.2 :Sirrah, your father's dead; : None
+4.2 :And what will you do now? How will you live? : None
+SON
+4.2 :As birds do, mother. : None
+LADY MACDUFF
+4.2 :What, with worms and flies? : None
+SON
+4.2 :With what I get, I mean; and so do they. : None
+LADY MACDUFF
+4.2 :Poor bird! thou'ldst never fear the net nor lime, : None
+4.2 :The pitfall nor the gin. : None
+SON
+4.2 :Why should I, mother? Poor birds they are not set for. : None
+4.2 :My father is not dead, for all your saying. : None
+LADY MACDUFF
+4.2 :Yes, he is dead; how wilt thou do for a father? : None
+SON
+4.2 :Nay, how will you do for a husband? : None
+LADY MACDUFF
+4.2 :Why, I can buy me twenty at any market. : None
+SON
+4.2 :Then you'll buy 'em to sell again. : None
+LADY MACDUFF
+4.2 :Thou speak'st with all thy wit: and yet, i' faith, : None
+4.2 :With wit enough for thee. : None
+SON
+4.2 :Was my father a traitor, mother? : None
+LADY MACDUFF
+4.2 :Ay, that he was. : None
+SON
+4.2 :What is a traitor? : None
+LADY MACDUFF
+4.2 :Why, one that swears and lies. : None
+SON
+4.2 :And be all traitors that do so? : None
+LADY MACDUFF
+4.2 :Every one that does so is a traitor, and must be hanged. : None
+SON
+4.2 :And must they all be hanged that swear and lie? : None
+LADY MACDUFF
+4.2 :Every one. : None
+SON
+4.2 :Who must hang them? : None
+LADY MACDUFF
+4.2 :Why,  the honest men. : None
+SON
+4.2 :Then the liars and swearers are fools, : None
+4.2 :for there are liars and swearers enow to beat : None
+4.2 :the honest men and hang up them. : None
+LADY MACDUFF
+4.2 :Now, God help thee, poor monkey! : None
+4.2 :But how wilt thou do for a father? : None
+SON
+4.2 :If he were dead, you'ld weep for : None
+4.2 :him: if you would not, it were a good sign : None
+4.2 :that I should quickly have a new father. : None
+LADY MACDUFF
+4.2 :Poor prattler, how thou talk'st! : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : LADY MACDUFF
+MESSENGER
+4.2 :Bless you, fair dame! I am not to you known, : None
+4.2 :Though in your state of honour I am perfect. : None
+4.2 :I doubt some danger does approach you nearly: : None
+4.2 :If you will take a homely man's advice, : None
+4.2 :Be not found here; hence, with your little ones. : None
+4.2 :To fright you thus, methinks, I am too savage; : None
+4.2 :To do worse to you were fell cruelty, : None
+4.2 :Which is too nigh your person. Heaven preserve you! : None
+4.2 :I dare abide no longer. : None
+Exit : ['Exit - []'] : MESSENGER
+LADY MACDUFF
+4.2 :Whither should I fly? : None
+4.2 :I have done no harm. But I remember now : None
+4.2 :I am in this earthly world; where to do harm : None
+4.2 :Is often laudable, to do good sometime : None
+4.2 :Accounted dangerous folly: why then, alas, : None
+4.2 :Do I put up that womanly defence, : None
+4.2 :To say I have done no harm? : None
+Enter Murderers : ['Enter - []'] : LADY MACDUFF
+4.2 :What are these faces? : None
+FIRST MURDERER
+4.2 :Where is your husband? : None
+LADY MACDUFF
+4.2 :I hope, in no place so unsanctified : None
+4.2 :Where such as thou mayst find him. : None
+FIRST MURDERER
+4.2 :He's a traitor. : None
+SON
+4.2 :Thou liest, thou shag-hair'd villain! : None
+FIRST MURDERER
+4.2 :What, you egg! : None
+Stabbing him : ['None - []'] : FIRST MURDERER
+4.2 :Young fry of treachery! : None
+SON
+4.2 :He has kill'd me, mother: : None
+4.2 :Run away, I pray you! : None
+Dies : ['None - []'] : SON
+Exit LADY MACDUFF, crying 'Murder!' Exeunt Murderers, following her : ["Exit - ['LADY MACDUFF']"] : SON
+Scene(scene=3)
+Enter MALCOLM and MACDUFF : ["Enter - ['MALCOLM', 'MACDUFF']"] : SON
+MALCOLM
+4.3 :Let us seek out some desolate shade, and there : None
+4.3 :Weep our sad bosoms empty. : None
+MACDUFF
+4.3 :Let us rather : None
+4.3 :Hold fast the mortal sword, and like good men : None
+4.3 :Bestride our down-fall'n birthdom: each new morn : None
+4.3 :New widows howl, new orphans cry, new sorrows : None
+4.3 :Strike heaven on the face, that it resounds : None
+4.3 :As if it felt with Scotland and yell'd out : None
+4.3 :Like syllable of dolour. : None
+MALCOLM
+4.3 :What I believe I'll wail, : None
+4.3 :What know believe, and what I can redress, : None
+4.3 :As I shall find the time to friend, I will. : None
+4.3 :What you have spoke, it may be so perchance. : None
+4.3 :This tyrant, whose sole name blisters our tongues, : None
+4.3 :Was once thought honest: you have loved him well. : None
+4.3 :He hath not touch'd you yet. I am young; : None
+4.3 :but something : None
+4.3 :You may deserve of him through me, and wisdom : None
+4.3 :To offer up a weak poor innocent lamb : None
+4.3 :To appease an angry god. : None
+MACDUFF
+4.3 :I am not treacherous. : None
+MALCOLM
+4.3 :But Macbeth is. : None
+4.3 :A good and virtuous nature may recoil : None
+4.3 :In an imperial charge. But I shall crave : None
+4.3 :your pardon; : None
+4.3 :That which you are my thoughts cannot transpose: : None
+4.3 :Angels are bright still, though the brightest fell; : None
+4.3 :Though all things foul would wear the brows of grace, : None
+4.3 :Yet grace must still look so. : None
+MACDUFF
+4.3 :I have lost my hopes. : None
+MALCOLM
+4.3 :Perchance even there where I did find my doubts. : None
+4.3 :Why in that rawness left you wife and child, : None
+4.3 :Those precious motives, those strong knots of love, : None
+4.3 :Without leave-taking? I pray you, : None
+4.3 :Let not my jealousies be your dishonours, : None
+4.3 :But mine own safeties. You may be rightly just, : None
+4.3 :Whatever I shall think. : None
+MACDUFF
+4.3 :Bleed, bleed, poor country! : None
+4.3 :Great tyranny! lay thou thy basis sure, : None
+4.3 :For goodness dare not cheque thee: wear thou : None
+4.3 :thy wrongs; : None
+4.3 :The title is affeer'd! Fare thee well, lord: : None
+4.3 :I would not be the villain that thou think'st : None
+4.3 :For the whole space that's in the tyrant's grasp, : None
+4.3 :And the rich East to boot. : None
+MALCOLM
+4.3 :Be not offended: : None
+4.3 :I speak not as in absolute fear of you. : None
+4.3 :I think our country sinks beneath the yoke; : None
+4.3 :It weeps, it bleeds; and each new day a gash : None
+4.3 :Is added to her wounds: I think withal : None
+4.3 :There would be hands uplifted in my right; : None
+4.3 :And here from gracious England have I offer : None
+4.3 :Of goodly thousands: but, for all this, : None
+4.3 :When I shall tread upon the tyrant's head, : None
+4.3 :Or wear it on my sword, yet my poor country : None
+4.3 :Shall have more vices than it had before, : None
+4.3 :More suffer and more sundry ways than ever, : None
+4.3 :By him that shall succeed. : None
+MACDUFF
+4.3 :What should he be? : None
+MALCOLM
+4.3 :It is myself I mean: in whom I know : None
+4.3 :All the particulars of vice so grafted : None
+4.3 :That, when they shall be open'd, black Macbeth : None
+4.3 :Will seem as pure as snow, and the poor state : None
+4.3 :Esteem him as a lamb, being compared : None
+4.3 :With my confineless harms. : None
+MACDUFF
+4.3 :Not in the legions : None
+4.3 :Of horrid hell can come a devil more damn'd : None
+4.3 :In evils to top Macbeth. : None
+MALCOLM
+4.3 :I grant him bloody, : None
+4.3 :Luxurious, avaricious, false, deceitful, : None
+4.3 :Sudden, malicious, smacking of every sin : None
+4.3 :That has a name: but there's no bottom, none, : None
+4.3 :In my voluptuousness: your wives, your daughters, : None
+4.3 :Your matrons and your maids, could not fill up : None
+4.3 :The cistern of my lust, and my desire : None
+4.3 :All continent impediments would o'erbear : None
+4.3 :That did oppose my will: better Macbeth : None
+4.3 :Than such an one to reign. : None
+MACDUFF
+4.3 :Boundless intemperance : None
+4.3 :In nature is a tyranny; it hath been : None
+4.3 :The untimely emptying of the happy throne : None
+4.3 :And fall of many kings. But fear not yet : None
+4.3 :To take upon you what is yours: you may : None
+4.3 :Convey your pleasures in a spacious plenty, : None
+4.3 :And yet seem cold, the time you may so hoodwink. : None
+4.3 :We have willing dames enough: there cannot be : None
+4.3 :That vulture in you, to devour so many : None
+4.3 :As will to greatness dedicate themselves, : None
+4.3 :Finding it so inclined. : None
+MALCOLM
+4.3 :With this there grows : None
+4.3 :In my most ill-composed affection such : None
+4.3 :A stanchless avarice that, were I king, : None
+4.3 :I should cut off the nobles for their lands, : None
+4.3 :Desire his jewels and this other's house: : None
+4.3 :And my more-having would be as a sauce : None
+4.3 :To make me hunger more; that I should forge : None
+4.3 :Quarrels unjust against the good and loyal, : None
+4.3 :Destroying them for wealth. : None
+MACDUFF
+4.3 :This avarice : None
+4.3 :Sticks deeper, grows with more pernicious root : None
+4.3 :Than summer-seeming lust, and it hath been : None
+4.3 :The sword of our slain kings: yet do not fear; : None
+4.3 :Scotland hath foisons to fill up your will. : None
+4.3 :Of your mere own: all these are portable, : None
+4.3 :With other graces weigh'd. : None
+MALCOLM
+4.3 :But I have none: the king-becoming graces, : None
+4.3 :As justice, verity, temperance, stableness, : None
+4.3 :Bounty, perseverance, mercy, lowliness, : None
+4.3 :Devotion, patience, courage, fortitude, : None
+4.3 :I have no relish of them, but abound : None
+4.3 :In the division of each several crime, : None
+4.3 :Acting it many ways. Nay, had I power, I should : None
+4.3 :Pour the sweet milk of concord into hell, : None
+4.3 :Uproar the universal peace, confound : None
+4.3 :All unity on earth. : None
+MACDUFF
+4.3 :O Scotland, Scotland! : None
+MALCOLM
+4.3 :If such a one be fit to govern, speak: : None
+4.3 :I am as I have spoken. : None
+MACDUFF
+4.3 :Fit to govern! : None
+4.3 :No, not to live. O nation miserable, : None
+4.3 :With an untitled tyrant bloody-scepter'd, : None
+4.3 :When shalt thou see thy wholesome days again, : None
+4.3 :Since that the truest issue of thy throne : None
+4.3 :By his own interdiction stands accursed, : None
+4.3 :And does blaspheme his breed? Thy royal father : None
+4.3 :Was a most sainted king: the queen that bore thee, : None
+4.3 :Oftener upon her knees than on her feet, : None
+4.3 :Died every day she lived. Fare thee well! : None
+4.3 :These evils thou repeat'st upon thyself : None
+4.3 :Have banish'd me from Scotland. O my breast, : None
+4.3 :Thy hope ends here! : None
+MALCOLM
+4.3 :Macduff, this noble passion, : None
+4.3 :Child of integrity, hath from my soul : None
+4.3 :Wiped the black scruples, reconciled my thoughts : None
+4.3 :To thy good truth and honour. Devilish Macbeth : None
+4.3 :By many of these trains hath sought to win me : None
+4.3 :Into his power, and modest wisdom plucks me : None
+4.3 :From over-credulous haste: but God above : None
+4.3 :Deal between thee and me! for even now : None
+4.3 :I put myself to thy direction, and : None
+4.3 :Unspeak mine own detraction, here abjure : None
+4.3 :The taints and blames I laid upon myself, : None
+4.3 :For strangers to my nature. I am yet : None
+4.3 :Unknown to woman, never was forsworn, : None
+4.3 :Scarcely have coveted what was mine own, : None
+4.3 :At no time broke my faith, would not betray : None
+4.3 :The devil to his fellow and delight : None
+4.3 :No less in truth than life: my first false speaking : None
+4.3 :Was this upon myself: what I am truly, : None
+4.3 :Is thine and my poor country's to command: : None
+4.3 :Whither indeed, before thy here-approach, : None
+4.3 :Old Siward, with ten thousand warlike men, : None
+4.3 :Already at a point, was setting forth. : None
+4.3 :Now we'll together; and the chance of goodness : None
+4.3 :Be like our warranted quarrel! Why are you silent? : None
+MACDUFF
+4.3 :Such welcome and unwelcome things at once : None
+4.3 :'Tis hard to reconcile. : None
+Enter a Doctor : ["Enter - ['DOCTOR']"] : MACDUFF
+MALCOLM
+4.3 :Well; more anon.--Comes the king forth, I pray you? : None
+DOCTOR
+4.3 :Ay, sir; there are a crew of wretched souls : None
+4.3 :That stay his cure: their malady convinces : None
+4.3 :The great assay of art; but at his touch-- : None
+4.3 :Such sanctity hath heaven given his hand-- : None
+4.3 :They presently amend. : None
+MALCOLM
+4.3 :I thank you, doctor. : None
+Exit Doctor : ["Exit - ['DOCTOR']"] : MALCOLM
+MACDUFF
+4.3 :What's the disease he means? : None
+MALCOLM
+4.3 :'Tis call'd the evil: : None
+4.3 :A most miraculous work in this good king; : None
+4.3 :Which often, since my here-remain in England, : None
+4.3 :I have seen him do. How he solicits heaven, : None
+4.3 :Himself best knows: but strangely-visited people, : None
+4.3 :All swoln and ulcerous, pitiful to the eye, : None
+4.3 :The mere despair of surgery, he cures, : None
+4.3 :Hanging a golden stamp about their necks, : None
+4.3 :Put on with holy prayers: and 'tis spoken, : None
+4.3 :To the succeeding royalty he leaves : None
+4.3 :The healing benediction. With this strange virtue, : None
+4.3 :He hath a heavenly gift of prophecy, : None
+4.3 :And sundry blessings hang about his throne, : None
+4.3 :That speak him full of grace. : None
+Enter ROSS : ["Enter - ['ROSS']"] : MALCOLM
+MACDUFF
+4.3 :See, who comes here? : None
+MALCOLM
+4.3 :My countryman; but yet I know him not. : None
+MACDUFF
+4.3 :My ever-gentle cousin, welcome hither. : None
+MALCOLM
+4.3 :I know him now. Good God, betimes remove : None
+4.3 :The means that makes us strangers! : None
+ROSS
+4.3 :Sir, amen. : None
+MACDUFF
+4.3 :Stands Scotland where it did? : None
+ROSS
+4.3 :Alas, poor country! : None
+4.3 :Almost afraid to know itself. It cannot : None
+4.3 :Be call'd our mother, but our grave; where nothing, : None
+4.3 :But who knows nothing, is once seen to smile; : None
+4.3 :Where sighs and groans and shrieks that rend the air : None
+4.3 :Are made, not mark'd; where violent sorrow seems : None
+4.3 :A modern ecstasy; the dead man's knell : None
+4.3 :Is there scarce ask'd for who; and good men's lives : None
+4.3 :Expire before the flowers in their caps, : None
+4.3 :Dying or ere they sicken. : None
+MACDUFF
+4.3 :O, relation : None
+4.3 :Too nice, and yet too true! : None
+MALCOLM
+4.3 :What's the newest grief? : None
+ROSS
+4.3 :That of an hour's age doth hiss the speaker: : None
+4.3 :Each minute teems a new one. : None
+MACDUFF
+4.3 :How does my wife? : None
+ROSS
+4.3 :Why, well. : None
+MACDUFF
+4.3 :         And all my children? : None
+ROSS
+4.3 :Well too. : None
+MACDUFF
+4.3 :The tyrant has not batter'd at their peace? : None
+ROSS
+4.3 :No; they were well at peace when I did leave 'em. : None
+MACDUFF
+4.3 :But not a niggard of your speech: how goes't? : None
+ROSS
+4.3 :When I came hither to transport the tidings, : None
+4.3 :Which I have heavily borne, there ran a rumour : None
+4.3 :Of many worthy fellows that were out; : None
+4.3 :Which was to my belief witness'd the rather, : None
+4.3 :For that I saw the tyrant's power a-foot: : None
+4.3 :Now is the time of help; your eye in Scotland : None
+4.3 :Would create soldiers, make our women fight, : None
+4.3 :To doff their dire distresses. : None
+MALCOLM
+4.3 :Be't their comfort : None
+4.3 :We are coming thither: gracious England hath : None
+4.3 :Lent us good Siward and ten thousand men; : None
+4.3 :An older and a better soldier none : None
+4.3 :That Christendom gives out. : None
+ROSS
+4.3 :Would I could answer : None
+4.3 :This comfort with the like! But I have words : None
+4.3 :That would be howl'd out in the desert air, : None
+4.3 :Where hearing should not latch them. : None
+MACDUFF
+4.3 :What concern they? : None
+4.3 :The general cause? or is it a fee-grief : None
+4.3 :Due to some single breast? : None
+ROSS
+4.3 :No mind that's honest : None
+4.3 :But in it shares some woe; though the main part : None
+4.3 :Pertains to you alone. : None
+MACDUFF
+4.3 :If it be mine, : None
+4.3 :Keep it not from me, quickly let me have it. : None
+ROSS
+4.3 :Let not your ears despise my tongue for ever, : None
+4.3 :Which shall possess them with the heaviest sound : None
+4.3 :That ever yet they heard. : None
+MACDUFF
+4.3 :Hum! I guess at it. : None
+ROSS
+4.3 :Your castle is surprised; your wife and babes : None
+4.3 :Savagely slaughter'd: to relate the manner, : None
+4.3 :Were, on the quarry of these murder'd deer, : None
+4.3 :To add the death of you. : None
+MALCOLM
+4.3 :Merciful heaven! : None
+4.3 :What, man! ne'er pull your hat upon your brows; : None
+4.3 :Give sorrow words: the grief that does not speak : None
+4.3 :Whispers the o'er-fraught heart and bids it break. : None
+MACDUFF
+4.3 :My children too? : None
+ROSS
+4.3 :                  Wife, children, servants, all : None
+4.3 :That could be found. : None
+MACDUFF
+4.3 :And I must be from thence! : None
+4.3 :My wife kill'd too? : None
+ROSS
+4.3 :I have said. : None
+MALCOLM
+4.3 :Be comforted: : None
+4.3 :Let's make us medicines of our great revenge, : None
+4.3 :To cure this deadly grief. : None
+MACDUFF
+4.3 :He has no children. All my pretty ones? : None
+4.3 :Did you say all? O hell-kite! All? : None
+4.3 :What, all my pretty chickens and their dam : None
+4.3 :At one fell swoop? : None
+MALCOLM
+4.3 :Dispute it like a man. : None
+MACDUFF
+4.3 :I shall do so; : None
+4.3 :But I must also feel it as a man: : None
+4.3 :I cannot but remember such things were, : None
+4.3 :That were most precious to me. Did heaven look on, : None
+4.3 :And would not take their part? Sinful Macduff, : None
+4.3 :They were all struck for thee! naught that I am, : None
+4.3 :Not for their own demerits, but for mine, : None
+4.3 :Fell slaughter on their souls. Heaven rest them now! : None
+MALCOLM
+4.3 :Be this the whetstone of your sword: let grief : None
+4.3 :Convert to anger; blunt not the heart, enrage it. : None
+MACDUFF
+4.3 :O, I could play the woman with mine eyes : None
+4.3 :And braggart with my tongue! But, gentle heavens, : None
+4.3 :Cut short all intermission; front to front : None
+4.3 :Bring thou this fiend of Scotland and myself; : None
+4.3 :Within my sword's length set him; if he 'scape, : None
+4.3 :Heaven forgive him too! : None
+MALCOLM
+4.3 :This tune goes manly. : None
+4.3 :Come, go we to the king; our power is ready; : None
+4.3 :Our lack is nothing but our leave; Macbeth : None
+4.3 :Is ripe for shaking, and the powers above : None
+4.3 :Put on their instruments. Receive what cheer you may: : None
+4.3 :The night is long that never finds the day. : None
+Exeunt : ['Exeunt - []'] : MALCOLM
+Act(act=5)
+Scene(scene=1)
+Enter a Doctor of Physic and a Waiting-Gentlewoman : ["Enter - ['DOCTOR', 'GENTLEWOMAN']"] : MALCOLM
+DOCTOR
+5.1 :I have two nights watched with you, but can perceive : None
+5.1 :no truth in your report. When was it she last walked? : None
+GENTLEWOMAN
+5.1 :Since his majesty went into the field, I have seen : None
+5.1 :her rise from her bed, throw her night-gown upon : None
+5.1 :her, unlock her closet, take forth paper, fold it, : None
+5.1 :write upon't, read it, afterwards seal it, and again : None
+5.1 :return to bed; yet all this while in a most fast sleep. : None
+DOCTOR
+5.1 :A great perturbation in nature, to receive at once : None
+5.1 :the benefit of sleep, and do the effects of : None
+5.1 :watching! In this slumbery agitation, besides her : None
+5.1 :walking and other actual performances, what, at any : None
+5.1 :time, have you heard her say? : None
+GENTLEWOMAN
+5.1 :That, sir, which I will not report after her. : None
+DOCTOR
+5.1 :You may to me: and 'tis most meet you should. : None
+GENTLEWOMAN
+5.1 :Neither to you nor any one; having no witness to : None
+5.1 :confirm my speech. : None
+Enter LADY MACBETH, with a taper : ["Enter - ['LADY MACBETH']"] : GENTLEWOMAN
+5.1 :Lo you, here she comes! This is her very guise; : None
+5.1 :and, upon my life, fast asleep. Observe her; stand close. : None
+DOCTOR
+5.1 :How came she by that light? : None
+GENTLEWOMAN
+5.1 :Why, it stood by her: she has light by her : None
+5.1 :continually; 'tis her command. : None
+DOCTOR
+5.1 :You see, her eyes are open. : None
+GENTLEWOMAN
+5.1 :Ay, but their sense is shut. : None
+DOCTOR
+5.1 :What is it she does now? Look, how she rubs her hands. : None
+GENTLEWOMAN
+5.1 :It is an accustomed action with her, to seem thus : None
+5.1 :washing her hands: I have known her continue in : None
+5.1 :this a quarter of an hour. : None
+LADY MACBETH
+5.1 :Yet here's a spot. : None
+DOCTOR
+5.1 :Hark! she speaks: I will set down what comes from : None
+5.1 :her, to satisfy my remembrance the more strongly. : None
+LADY MACBETH
+5.1 :Out, damned spot! out, I say!--One: two: why, : None
+5.1 :then, 'tis time to do't.--Hell is murky!--Fie, my : None
+5.1 :lord, fie! a soldier, and afeard? What need we : None
+5.1 :fear who knows it, when none can call our power to : None
+5.1 :account?--Yet who would have thought the old man : None
+5.1 :to have had so much blood in him. : None
+DOCTOR
+5.1 :Do you mark that? : None
+LADY MACBETH
+5.1 :The thane of Fife had a wife: where is she now?-- : None
+5.1 :What, will these hands ne'er be clean?--No more o' : None
+5.1 :that, my lord, no more o' that: you mar all with : None
+5.1 :this starting. : None
+DOCTOR
+5.1 :Go to, go to; you have known what you should not. : None
+GENTLEWOMAN
+5.1 :She has spoke what she should not, I am sure of : None
+5.1 :that: heaven knows what she has known. : None
+LADY MACBETH
+5.1 :Here's the smell of the blood still: all the : None
+5.1 :perfumes of Arabia will not sweeten this little : None
+5.1 :hand. Oh, oh, oh! : None
+DOCTOR
+5.1 :What a sigh is there! The heart is sorely charged. : None
+GENTLEWOMAN
+5.1 :I would not have such a heart in my bosom for the : None
+5.1 :dignity of the whole body. : None
+DOCTOR
+5.1 :Well, well, well,-- : None
+GENTLEWOMAN
+5.1 :Pray God it be, sir. : None
+DOCTOR
+5.1 :This disease is beyond my practise: yet I have known : None
+5.1 :those which have walked in their sleep who have died : None
+5.1 :holily in their beds. : None
+LADY MACBETH
+5.1 :Wash your hands, put on your nightgown; look not so : None
+5.1 :pale.--I tell you yet again, Banquo's buried; he : None
+5.1 :cannot come out on's grave. : None
+DOCTOR
+5.1 :Even so? : None
+LADY MACBETH
+5.1 :To bed, to bed! there's knocking at the gate: : None
+5.1 :come, come, come, come, give me your hand. What's : None
+5.1 :done cannot be undone.--To bed, to bed, to bed! : None
+Exit : ['Exit - []'] : LADY MACBETH
+DOCTOR
+5.1 :Will she go now to bed? : None
+GENTLEWOMAN
+5.1 :Directly. : None
+DOCTOR
+5.1 :Foul whisperings are abroad: unnatural deeds : None
+5.1 :Do breed unnatural troubles: infected minds : None
+5.1 :To their deaf pillows will discharge their secrets: : None
+5.1 :More needs she the divine than the physician. : None
+5.1 :God, God forgive us all! Look after her; : None
+5.1 :Remove from her the means of all annoyance, : None
+5.1 :And still keep eyes upon her. So, good night: : None
+5.1 :My mind she has mated, and amazed my sight. : None
+5.1 :I think, but dare not speak. : None
+GENTLEWOMAN
+5.1 :Good night, good doctor. : None
+Exeunt : ['Exeunt - []'] : GENTLEWOMAN
+Scene(scene=2)
+Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS, LENNOX, and Soldiers : ['None - []', "Enter - ['MENTEITH', 'CAITHNESS', 'ANGUS', 'LENNOX', 'SOLDIERS']"] : GENTLEWOMAN
+MENTEITH
+5.2 :The English power is near, led on by Malcolm, : None
+5.2 :His uncle Siward and the good Macduff: : None
+5.2 :Revenges burn in them; for their dear causes : None
+5.2 :Would to the bleeding and the grim alarm : None
+5.2 :Excite the mortified man. : None
+ANGUS
+5.2 :Near Birnam wood : None
+5.2 :Shall we well meet them; that way are they coming. : None
+CAITHNESS
+5.2 :Who knows if Donalbain be with his brother? : None
+LENNOX
+5.2 :For certain, sir, he is not: I have a file : None
+5.2 :Of all the gentry: there is Siward's son, : None
+5.2 :And many unrough youths that even now : None
+5.2 :Protest their first of manhood. : None
+MENTEITH
+5.2 :What does the tyrant? : None
+CAITHNESS
+5.2 :Great Dunsinane he strongly fortifies: : None
+5.2 :Some say he's mad; others that lesser hate him : None
+5.2 :Do call it valiant fury: but, for certain, : None
+5.2 :He cannot buckle his distemper'd cause : None
+5.2 :Within the belt of rule. : None
+ANGUS
+5.2 :Now does he feel : None
+5.2 :His secret murders sticking on his hands; : None
+5.2 :Now minutely revolts upbraid his faith-breach; : None
+5.2 :Those he commands move only in command, : None
+5.2 :Nothing in love: now does he feel his title : None
+5.2 :Hang loose about him, like a giant's robe : None
+5.2 :Upon a dwarfish thief. : None
+MENTEITH
+5.2 :Who then shall blame : None
+5.2 :His pester'd senses to recoil and start, : None
+5.2 :When all that is within him does condemn : None
+5.2 :Itself for being there? : None
+CAITHNESS
+5.2 :Well, march we on, : None
+5.2 :To give obedience where 'tis truly owed: : None
+5.2 :Meet we the medicine of the sickly weal, : None
+5.2 :And with him pour we in our country's purge : None
+5.2 :Each drop of us. : None
+LENNOX
+5.2 :                  Or so much as it needs, : None
+5.2 :To dew the sovereign flower and drown the weeds. : None
+5.2 :Make we our march towards Birnam. : None
+Exeunt, marching : ['Exeunt - []'] : LENNOX
+Scene(scene=3)
+Enter MACBETH, Doctor, and Attendants : ["Enter - ['MACBETH', 'DOCTOR', 'ATTENDANT']"] : LENNOX
+MACBETH
+5.3 :Bring me no more reports; let them fly all: : None
+5.3 :Till Birnam wood remove to Dunsinane, : None
+5.3 :I cannot taint with fear. What's the boy Malcolm? : None
+5.3 :Was he not born of woman? The spirits that know : None
+5.3 :All mortal consequences have pronounced me thus: : None
+5.3 :'Fear not, Macbeth; no man that's born of woman : None
+5.3 :Shall e'er have power upon thee.' Then fly, : None
+5.3 :false thanes, : None
+5.3 :And mingle with the English epicures: : None
+5.3 :The mind I sway by and the heart I bear : None
+5.3 :Shall never sag with doubt nor shake with fear. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : MACBETH
+5.3 :The devil damn thee black, thou cream-faced loon! : None
+5.3 :Where got'st thou that goose look? : None
+SERVANT
+5.3 :There is ten thousand-- : None
+MACBETH
+5.3 :Geese, villain! : None
+SERVANT
+5.3 :Soldiers, sir. : None
+MACBETH
+5.3 :Go prick thy face, and over-red thy fear, : None
+5.3 :Thou lily-liver'd boy. What soldiers, patch? : None
+5.3 :Death of thy soul! those linen cheeks of thine : None
+5.3 :Are counsellors to fear. What soldiers, whey-face? : None
+SERVANT
+5.3 :The English force, so please you. : None
+MACBETH
+5.3 :Take thy face hence. : None
+Exit Servant : ["Exit - ['SERVANT']"] : MACBETH
+5.3 :Seyton!--I am sick at heart, : None
+5.3 :When I behold--Seyton, I say!--This push : None
+5.3 :Will cheer me ever, or disseat me now. : None
+5.3 :I have lived long enough: my way of life : None
+5.3 :Is fall'n into the sear, the yellow leaf; : None
+5.3 :And that which should accompany old age, : None
+5.3 :As honour, love, obedience, troops of friends, : None
+5.3 :I must not look to have; but, in their stead, : None
+5.3 :Curses, not loud but deep, mouth-honour, breath, : None
+5.3 :Which the poor heart would fain deny, and dare not. Seyton! : None
+Enter SEYTON : ["Enter - ['SEYTON']"] : MACBETH
+SEYTON
+5.3 :What is your gracious pleasure? : None
+MACBETH
+5.3 :What news more? : None
+SEYTON
+5.3 :All is confirm'd, my lord, which was reported. : None
+MACBETH
+5.3 :I'll fight till from my bones my flesh be hack'd. : None
+5.3 :Give me my armour. : None
+SEYTON
+5.3 :'Tis not needed yet. : None
+MACBETH
+5.3 :I'll put it on. : None
+5.3 :Send out more horses; skirr the country round; : None
+5.3 :Hang those that talk of fear. Give me mine armour. : None
+5.3 :How does your patient, doctor? : None
+DOCTOR
+5.3 :Not so sick, my lord, : None
+5.3 :As she is troubled with thick coming fancies, : None
+5.3 :That keep her from her rest. : None
+MACBETH
+5.3 :Cure her of that. : None
+5.3 :Canst thou not minister to a mind diseased, : None
+5.3 :Pluck from the memory a rooted sorrow, : None
+5.3 :Raze out the written troubles of the brain : None
+5.3 :And with some sweet oblivious antidote : None
+5.3 :Cleanse the stuff'd bosom of that perilous stuff : None
+5.3 :Which weighs upon the heart? : None
+DOCTOR
+5.3 :Therein the patient : None
+5.3 :Must minister to himself. : None
+MACBETH
+5.3 :Throw physic to the dogs; I'll none of it. : None
+5.3 :Come, put mine armour on; give me my staff. : None
+5.3 :Seyton, send out. Doctor, the thanes fly from me. : None
+5.3 :Come, sir, dispatch. If thou couldst, doctor, cast : None
+5.3 :The water of my land, find her disease, : None
+5.3 :And purge it to a sound and pristine health, : None
+5.3 :I would applaud thee to the very echo, : None
+5.3 :That should applaud again.--Pull't off, I say.-- : None
+5.3 :What rhubarb, cyme, or what purgative drug, : None
+5.3 :Would scour these English hence? Hear'st thou of them? : None
+DOCTOR
+5.3 :Ay, my good lord; your royal preparation : None
+5.3 :Makes us hear something. : None
+MACBETH
+5.3 :Bring it after me. : None
+5.3 :I will not be afraid of death and bane, : None
+5.3 :Till Birnam forest come to Dunsinane. : None
+DOCTOR
+5.3 :  Were I from Dunsinane away and clear, : Aside : ['Aside - []'] : DOCTOR
+5.3 :Profit again should hardly draw me here. : None
+Exeunt : ['Exeunt - []'] : DOCTOR
+Scene(scene=4)
+Drum and colours. Enter MALCOLM, SIWARD and YOUNG  SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS, and Soldiers, marching : ['None - []', "Enter - ['MALCOLM', 'SIWARD', 'SIWARD', 'MACDUFF', 'MENTEITH', 'CAITHNESS', 'ANGUS', 'LENNOX', 'ROSS', 'SOLDIERS']"] : DOCTOR
+MALCOLM
+5.4 :Cousins, I hope the days are near at hand : None
+5.4 :That chambers will be safe. : None
+MENTEITH
+5.4 :We doubt it nothing. : None
+SIWARD
+5.4 :What wood is this before us? : None
+MENTEITH
+5.4 :The wood of Birnam. : None
+MALCOLM
+5.4 :Let every soldier hew him down a bough : None
+5.4 :And bear't before him: thereby shall we shadow : None
+5.4 :The numbers of our host and make discovery : None
+5.4 :Err in report of us. : None
+SOLDIERS
+5.4 :It shall be done. : None
+SIWARD
+5.4 :We learn no other but the confident tyrant : None
+5.4 :Keeps still in Dunsinane, and will endure : None
+5.4 :Our setting down before 't. : None
+MALCOLM
+5.4 :'Tis his main hope: : None
+5.4 :For where there is advantage to be given, : None
+5.4 :Both more and less have given him the revolt, : None
+5.4 :And none serve with him but constrained things : None
+5.4 :Whose hearts are absent too. : None
+MACDUFF
+5.4 :Let our just censures : None
+5.4 :Attend the true event, and put we on : None
+5.4 :Industrious soldiership. : None
+SIWARD
+5.4 :The time approaches : None
+5.4 :That will with due decision make us know : None
+5.4 :What we shall say we have and what we owe. : None
+5.4 :Thoughts speculative their unsure hopes relate, : None
+5.4 :But certain issue strokes must arbitrate: : None
+5.4 :Towards which advance the war. : None
+Exeunt, marching : ['Exeunt - []'] : SIWARD
+Scene(scene=5)
+Enter MACBETH, SEYTON, and Soldiers, with drum and colours : ["Enter - ['MACBETH', 'SEYTON', 'SOLDIERS']"] : SIWARD
+MACBETH
+5.5 :Hang out our banners on the outward walls; : None
+5.5 :The cry is still 'They come:' our castle's strength : None
+5.5 :Will laugh a siege to scorn: here let them lie : None
+5.5 :Till famine and the ague eat them up: : None
+5.5 :Were they not forced with those that should be ours, : None
+5.5 :We might have met them dareful, beard to beard, : None
+5.5 :And beat them backward home. : None
+A cry of women within : ['None - []'] : MACBETH
+5.5 :What is that noise? : None
+SEYTON
+5.5 :It is the cry of women, my good lord. : None
+Exit : ['Exit - []'] : SEYTON
+MACBETH
+5.5 :I have almost forgot the taste of fears; : None
+5.5 :The time has been, my senses would have cool'd : None
+5.5 :To hear a night-shriek; and my fell of hair : None
+5.5 :Would at a dismal treatise rouse and stir : None
+5.5 :As life were in't: I have supp'd full with horrors; : None
+5.5 :Direness, familiar to my slaughterous thoughts : None
+5.5 :Cannot once start me. : None
+Re-enter SEYTON : ["Re-enter - ['SEYTON']"] : MACBETH
+5.5 :Wherefore was that cry? : None
+SEYTON
+5.5 :The queen, my lord, is dead. : None
+MACBETH
+5.5 :She should have died hereafter; : None
+5.5 :There would have been a time for such a word. : None
+5.5 :To-morrow, and to-morrow, and to-morrow, : None
+5.5 :Creeps in this petty pace from day to day : None
+5.5 :To the last syllable of recorded time, : None
+5.5 :And all our yesterdays have lighted fools : None
+5.5 :The way to dusty death. Out, out, brief candle! : None
+5.5 :Life's but a walking shadow, a poor player : None
+5.5 :That struts and frets his hour upon the stage : None
+5.5 :And then is heard no more: it is a tale : None
+5.5 :Told by an idiot, full of sound and fury, : None
+5.5 :Signifying nothing. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : MACBETH
+5.5 :Thou comest to use thy tongue; thy story quickly. : None
+MESSENGER
+5.5 :Gracious my lord, : None
+5.5 :I should report that which I say I saw, : None
+5.5 :But know not how to do it. : None
+MACBETH
+5.5 :Well, say, sir. : None
+MESSENGER
+5.5 :As I did stand my watch upon the hill, : None
+5.5 :I look'd toward Birnam, and anon, methought, : None
+5.5 :The wood began to move. : None
+MACBETH
+5.5 :Liar and slave! : None
+MESSENGER
+5.5 :Let me endure your wrath, if't be not so: : None
+5.5 :Within this three mile may you see it coming; : None
+5.5 :I say, a moving grove. : None
+MACBETH
+5.5 :If thou speak'st false, : None
+5.5 :Upon the next tree shalt thou hang alive, : None
+5.5 :Till famine cling thee: if thy speech be sooth, : None
+5.5 :I care not if thou dost for me as much. : None
+5.5 :I pull in resolution, and begin : None
+5.5 :To doubt the equivocation of the fiend : None
+5.5 :That lies like truth: 'Fear not, till Birnam wood : None
+5.5 :Do come to Dunsinane:'  and now a wood : None
+5.5 :Comes toward Dunsinane. Arm, arm, and out! : None
+5.5 :If this which he avouches does appear, : None
+5.5 :There is nor flying hence nor tarrying here. : None
+5.5 :I gin to be aweary of the sun, : None
+5.5 :And wish the estate o' the world were now undone. : None
+5.5 :Ring the alarum-bell! Blow, wind! come, wrack! : None
+5.5 :At least we'll die with harness on our back. : None
+Exeunt : ['Exeunt - []'] : MACBETH
+Scene(scene=6)
+Drum and colours. Enter MALCOLM, SIWARD, MACDUFF, and their Army, with boughs : ['None - []', "Enter - ['MALCOLM', 'SIWARD', 'MACDUFF']"] : MACBETH
+MALCOLM
+5.6 :Now near enough: your leafy screens throw down. : None
+5.6 :And show like those you are. You, worthy uncle, : None
+5.6 :Shall, with my cousin, your right-noble son, : None
+5.6 :Lead our first battle: worthy Macduff and we : None
+5.6 :Shall take upon 's what else remains to do, : None
+5.6 :According to our order. : None
+SIWARD
+5.6 :Fare you well. : None
+5.6 :Do we but find the tyrant's power to-night, : None
+5.6 :Let us be beaten, if we cannot fight. : None
+MACDUFF
+5.6 :Make all our trumpets speak; give them all breath, : None
+5.6 :Those clamorous harbingers of blood and death. : None
+Exeunt : ['Exeunt - []'] : MACDUFF
+Scene(scene=7)
+Alarums. Enter MACBETH : ['None - []', "Enter - ['MACBETH']"] : MACDUFF
+MACBETH
+5.7 :They have tied me to a stake; I cannot fly, : None
+5.7 :But, bear-like, I must fight the course. What's he : None
+5.7 :That was not born of woman? Such a one : None
+5.7 :Am I to fear, or none. : None
+Enter YOUNG SIWARD : ["Enter - ['YOUNG SIWARD']"] : MACBETH
+YOUNG SIWARD
+5.7 :What is thy name? : None
+MACBETH
+5.7 :                  Thou'lt be afraid to hear it. : None
+YOUNG SIWARD
+5.7 :No; though thou call'st thyself a hotter name : None
+5.7 :Than any is in hell. : None
+MACBETH
+5.7 :My name's Macbeth. : None
+YOUNG SIWARD
+5.7 :The devil himself could not pronounce a title : None
+5.7 :More hateful to mine ear. : None
+MACBETH
+5.7 :No, nor more fearful. : None
+YOUNG SIWARD
+5.7 :Thou liest, abhorred tyrant; with my sword : None
+5.7 :I'll prove the lie thou speak'st. : None
+They fight and YOUNG SIWARD is slain : ["None - ['YOUNG SIWARD']"] : YOUNG SIWARD
+MACBETH
+5.7 :Thou wast born of woman : None
+5.7 :But swords I smile at, weapons laugh to scorn, : None
+5.7 :Brandish'd by man that's of a woman born. : None
+Exit : ['Exit - []'] : MACBETH
+Alarums. Enter MACDUFF : ['None - []', "Enter - ['MACDUFF']"] : MACBETH
+MACDUFF
+5.7 :That way the noise is. Tyrant, show thy face! : None
+5.7 :If thou be'st slain and with no stroke of mine, : None
+5.7 :My wife and children's ghosts will haunt me still. : None
+5.7 :I cannot strike at wretched kerns, whose arms : None
+5.7 :Are hired to bear their staves: either thou, Macbeth, : None
+5.7 :Or else my sword with an unbatter'd edge : None
+5.7 :I sheathe again undeeded. There thou shouldst be; : None
+5.7 :By this great clatter, one of greatest note : None
+5.7 :Seems bruited. Let me find him, fortune! : None
+5.7 :And more I beg not. : None
+Exit. Alarums : ['Exit - []', 'None - []'] : MACDUFF
+Enter MALCOLM and SIWARD : ["Enter - ['MALCOLM', 'SIWARD']"] : MACDUFF
+SIWARD
+5.7 :This way, my lord; the castle's gently render'd: : None
+5.7 :The tyrant's people on both sides do fight; : None
+5.7 :The noble thanes do bravely in the war; : None
+5.7 :The day almost itself professes yours, : None
+5.7 :And little is to do. : None
+MALCOLM
+5.7 :We have met with foes : None
+5.7 :That strike beside us. : None
+SIWARD
+5.7 :Enter, sir, the castle. : None
+Exeunt. Alarums : ['Exeunt - []', 'None - []'] : SIWARD
+Scene(scene=8)
+Enter MACBETH : ["Enter - ['MACBETH']"] : SIWARD
+MACBETH
+5.8 :Why should I play the Roman fool, and die : None
+5.8 :On mine own sword? whiles I see lives, the gashes : None
+5.8 :Do better upon them. : None
+Enter MACDUFF : ["Enter - ['MACDUFF']"] : MACBETH
+MACDUFF
+5.8 :Turn, hell-hound, turn! : None
+MACBETH
+5.8 :Of all men else I have avoided thee: : None
+5.8 :But get thee back; my soul is too much charged : None
+5.8 :With blood of thine already. : None
+MACDUFF
+5.8 :I have no words: : None
+5.8 :My voice is in my sword: thou bloodier villain : None
+5.8 :Than terms can give thee out! : None
+They fight : ['None - []'] : MACDUFF
+MACBETH
+5.8 :Thou losest labour: : None
+5.8 :As easy mayst thou the intrenchant air : None
+5.8 :With thy keen sword impress as make me bleed: : None
+5.8 :Let fall thy blade on vulnerable crests; : None
+5.8 :I bear a charmed life, which must not yield, : None
+5.8 :To one of woman born. : None
+MACDUFF
+5.8 :Despair thy charm; : None
+5.8 :And let the angel whom thou still hast served : None
+5.8 :Tell thee, Macduff was from his mother's womb : None
+5.8 :Untimely ripp'd. : None
+MACBETH
+5.8 :Accursed be that tongue that tells me so, : None
+5.8 :For it hath cow'd my better part of man! : None
+5.8 :And be these juggling fiends no more believed, : None
+5.8 :That palter with us in a double sense; : None
+5.8 :That keep the word of promise to our ear, : None
+5.8 :And break it to our hope. I'll not fight with thee. : None
+MACDUFF
+5.8 :Then yield thee, coward, : None
+5.8 :And live to be the show and gaze o' the time: : None
+5.8 :We'll have thee, as our rarer monsters are, : None
+5.8 :Painted on a pole, and underwrit, : None
+5.8 :'Here may you see the tyrant.' : None
+MACBETH
+5.8 :I will not yield, : None
+5.8 :To kiss the ground before young Malcolm's feet, : None
+5.8 :And to be baited with the rabble's curse. : None
+5.8 :Though Birnam wood be come to Dunsinane, : None
+5.8 :And thou opposed, being of no woman born, : None
+5.8 :Yet I will try the last. Before my body : None
+5.8 :I throw my warlike shield. Lay on, Macduff, : None
+5.8 :And damn'd be him that first cries, 'Hold, enough!' : None
+Exeunt, fighting. Alarums : ['Exeunt - []', 'None - []'] : MACBETH
+Retreat. Flourish. Enter, with drum and colours, MALCOLM, SIWARD, ROSS, the other Thanes, and Soldiers : ['None - []', 'None - []', "Enter - ['MALCOLM', 'SIWARD', 'ROSS', 'SOLDIERS']"] : MACBETH
+MALCOLM
+5.8 :I would the friends we miss were safe arrived. : None
+SIWARD
+5.8 :Some must go off: and yet, by these I see, : None
+5.8 :So great a day as this is cheaply bought. : None
+MALCOLM
+5.8 :Macduff is missing, and your noble son. : None
+ROSS
+5.8 :Your son, my lord, has paid a soldier's debt: : None
+5.8 :He only lived but till he was a man; : None
+5.8 :The which no sooner had his prowess confirm'd : None
+5.8 :In the unshrinking station where he fought, : None
+5.8 :But like a man he died. : None
+SIWARD
+5.8 :Then he is dead? : None
+ROSS
+5.8 :Ay, and brought off the field: your cause of sorrow : None
+5.8 :Must not be measured by his worth, for then : None
+5.8 :It hath no end. : None
+SIWARD
+5.8 :                  Had he his hurts before? : None
+ROSS
+5.8 :Ay, on the front. : None
+SIWARD
+5.8 :                  Why then, God's soldier be he! : None
+5.8 :Had I as many sons as I have hairs, : None
+5.8 :I would not wish them to a fairer death: : None
+5.8 :And so, his knell is knoll'd. : None
+MALCOLM
+5.8 :He's worth more sorrow, : None
+5.8 :And that I'll spend for him. : None
+SIWARD
+5.8 :He's worth no more : None
+5.8 :They say he parted well, and paid his score: : None
+5.8 :And so, God be with him! Here comes newer comfort. : None
+Re-enter MACDUFF, with MACBETH's head : ["Re-enter - ['MACDUFF', 'MACBETH']"] : SIWARD
+MACDUFF
+5.8 :Hail, king! for so thou art: behold, where stands : None
+5.8 :The usurper's cursed head: the time is free: : None
+5.8 :I see thee compass'd with thy kingdom's pearl, : None
+5.8 :That speak my salutation in their minds; : None
+5.8 :Whose voices I desire aloud with mine: : None
+5.8 :Hail, King of Scotland! : None
+ALL
+5.8 :Hail, King of Scotland! : None
+Flourish : ['None - []'] : ALL
+MALCOLM
+5.8 :We shall not spend a large expense of time : None
+5.8 :Before we reckon with your several loves, : None
+5.8 :And make us even with you. My thanes and kinsmen, : None
+5.8 :Henceforth be earls, the first that ever Scotland : None
+5.8 :In such an honour named. What's more to do, : None
+5.8 :Which would be planted newly with the time, : None
+5.8 :As calling home our exiled friends abroad : None
+5.8 :That fled the snares of watchful tyranny; : None
+5.8 :Producing forth the cruel ministers : None
+5.8 :Of this dead butcher and his fiend-like queen, : None
+5.8 :Who, as 'tis thought, by self and violent hands : None
+5.8 :Took off her life; this, and what needful else : None
+5.8 :That calls upon us, by the grace of Grace, : None
+5.8 :We will perform in measure, time and place: : None
+5.8 :So, thanks to all at once and to each one, : None
+5.8 :Whom we invite to see us crown'd at Scone. : None
+Flourish. Exeunt : ['None - []', 'Exeunt - []'] : MALCOLM

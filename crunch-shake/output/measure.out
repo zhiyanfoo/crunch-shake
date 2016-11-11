@@ -1,0 +1,3897 @@
+Act(act=1)
+Scene(scene=1)
+Enter DUKE VINCENTIO, ESCALUS, Lords and Attendants : ["Enter - ['DUKE', 'ESCALUS']"] : None
+DUKE VINCENTIO
+1.1 :Escalus. : None
+ESCALUS
+1.1 :My lord. : None
+DUKE VINCENTIO
+1.1 :Of government the properties to unfold, : None
+1.1 :Would seem in me to affect speech and discourse; : None
+1.1 :Since I am put to know that your own science : None
+1.1 :Exceeds, in that, the lists of all advice : None
+1.1 :My strength can give you: then no more remains, : None
+1.1 :But that to your sufficiency as your Worth is able, : None
+1.1 :And let them work. The nature of our people, : None
+1.1 :Our city's institutions, and the terms : None
+1.1 :For common justice, you're as pregnant in : None
+1.1 :As art and practise hath enriched any : None
+1.1 :That we remember. There is our commission, : None
+1.1 :From which we would not have you warp. Call hither, : None
+1.1 :I say, bid come before us Angelo. : None
+Exit an Attendant : ['Exit - []'] : DUKE VINCENTIO
+1.1 :What figure of us think you he will bear? : None
+1.1 :For you must know, we have with special soul : None
+1.1 :Elected him our absence to supply, : None
+1.1 :Lent him our terror, dress'd him with our love, : None
+1.1 :And given his deputation all the organs : None
+1.1 :Of our own power: what think you of it? : None
+ESCALUS
+1.1 :If any in Vienna be of worth : None
+1.1 :To undergo such ample grace and honour, : None
+1.1 :It is Lord Angelo. : None
+DUKE VINCENTIO
+1.1 :                  Look where he comes. : None
+Enter ANGELO : ["Enter - ['ANGELO']"] : DUKE VINCENTIO
+ANGELO
+1.1 :Always obedient to your grace's will, : None
+1.1 :I come to know your pleasure. : None
+DUKE VINCENTIO
+1.1 :Angelo, : None
+1.1 :There is a kind of character in thy life, : None
+1.1 :That to the observer doth thy history : None
+1.1 :Fully unfold. Thyself and thy belongings : None
+1.1 :Are not thine own so proper as to waste : None
+1.1 :Thyself upon thy virtues, they on thee. : None
+1.1 :Heaven doth with us as we with torches do, : None
+1.1 :Not light them for themselves; for if our virtues : None
+1.1 :Did not go forth of us, 'twere all alike : None
+1.1 :As if we had them not. Spirits are not finely touch'd : None
+1.1 :But to fine issues, nor Nature never lends : None
+1.1 :The smallest scruple of her excellence : None
+1.1 :But, like a thrifty goddess, she determines : None
+1.1 :Herself the glory of a creditor, : None
+1.1 :Both thanks and use. But I do bend my speech : None
+1.1 :To one that can my part in him advertise; : None
+1.1 :Hold therefore, Angelo:-- : None
+1.1 :In our remove be thou at full ourself; : None
+1.1 :Mortality and mercy in Vienna : None
+1.1 :Live in thy tongue and heart: old Escalus, : None
+1.1 :Though first in question, is thy secondary. : None
+1.1 :Take thy commission. : None
+ANGELO
+1.1 :Now, good my lord, : None
+1.1 :Let there be some more test made of my metal, : None
+1.1 :Before so noble and so great a figure : None
+1.1 :Be stamp'd upon it. : None
+DUKE VINCENTIO
+1.1 :No more evasion: : None
+1.1 :We have with a leaven'd and prepared choice : None
+1.1 :Proceeded to you; therefore take your honours. : None
+1.1 :Our haste from hence is of so quick condition : None
+1.1 :That it prefers itself and leaves unquestion'd : None
+1.1 :Matters of needful value. We shall write to you, : None
+1.1 :As time and our concernings shall importune, : None
+1.1 :How it goes with us, and do look to know : None
+1.1 :What doth befall you here. So, fare you well; : None
+1.1 :To the hopeful execution do I leave you : None
+1.1 :Of your commissions. : None
+ANGELO
+1.1 :Yet give leave, my lord, : None
+1.1 :That we may bring you something on the way. : None
+DUKE VINCENTIO
+1.1 :My haste may not admit it; : None
+1.1 :Nor need you, on mine honour, have to do : None
+1.1 :With any scruple; your scope is as mine own : None
+1.1 :So to enforce or qualify the laws : None
+1.1 :As to your soul seems good. Give me your hand: : None
+1.1 :I'll privily away. I love the people, : None
+1.1 :But do not like to stage me to their eyes: : None
+1.1 :Through it do well, I do not relish well : None
+1.1 :Their loud applause and Aves vehement; : None
+1.1 :Nor do I think the man of safe discretion : None
+1.1 :That does affect it. Once more, fare you well. : None
+ANGELO
+1.1 :The heavens give safety to your purposes! : None
+ESCALUS
+1.1 :Lead forth and bring you back in happiness! : None
+DUKE
+1.1 :I thank you. Fare you well. : None
+Exit : ['Exit - []'] : DUKE
+ESCALUS
+1.1 :I shall desire you, sir, to give me leave : None
+1.1 :To have free speech with you; and it concerns me : None
+1.1 :To look into the bottom of my place: : None
+1.1 :A power I have, but of what strength and nature : None
+1.1 :I am not yet instructed. : None
+ANGELO
+1.1 :'Tis so with me. Let us withdraw together, : None
+1.1 :And we may soon our satisfaction have : None
+1.1 :Touching that point. : None
+ESCALUS
+1.1 :I'll wait upon your honour. : None
+Exeunt : ['Exeunt - []'] : ESCALUS
+Scene(scene=2)
+Enter LUCIO and two Gentlemen : ["Enter - ['LUCIO']"] : ESCALUS
+LUCIO
+1.2 :If the duke with the other dukes come not to : None
+1.2 :composition with the King of Hungary, why then all : None
+1.2 :the dukes fall upon the king. : None
+FIRST GENTLEMAN
+1.2 :Heaven grant us its peace, but not the King of : None
+1.2 :Hungary's! : None
+SECOND GENTLEMAN
+1.2 :Amen. : None
+LUCIO
+1.2 :Thou concludest like the sanctimonious pirate, that : None
+1.2 :went to sea with the Ten Commandments, but scraped : None
+1.2 :one out of the table. : None
+SECOND GENTLEMAN
+1.2 :'Thou shalt not steal'? : None
+LUCIO
+1.2 :Ay, that he razed. : None
+FIRST GENTLEMAN
+1.2 :Why, 'twas a commandment to command the captain and : None
+1.2 :all the rest from their functions: they put forth : None
+1.2 :to steal. There's not a soldier of us all, that, in : None
+1.2 :the thanksgiving before meat, do relish the petition : None
+1.2 :well that prays for peace. : None
+SECOND GENTLEMAN
+1.2 :I never heard any soldier dislike it. : None
+LUCIO
+1.2 :I believe thee; for I think thou never wast where : None
+1.2 :grace was said. : None
+SECOND GENTLEMAN
+1.2 :No? a dozen times at least. : None
+FIRST GENTLEMAN
+1.2 :What, in metre? : None
+LUCIO
+1.2 :In any proportion or in any language. : None
+FIRST GENTLEMAN
+1.2 :I think, or in any religion. : None
+LUCIO
+1.2 :Ay, why not? Grace is grace, despite of all : None
+1.2 :controversy: as, for example, thou thyself art a : None
+1.2 :wicked villain, despite of all grace. : None
+FIRST GENTLEMAN
+1.2 :Well, there went but a pair of shears between us. : None
+LUCIO
+1.2 :I grant; as there may between the lists and the : None
+1.2 :velvet. Thou art the list. : None
+FIRST GENTLEMAN
+1.2 :And thou the velvet: thou art good velvet; thou'rt : None
+1.2 :a three-piled piece, I warrant thee: I had as lief : None
+1.2 :be a list of an English kersey as be piled, as thou : None
+1.2 :art piled, for a French velvet. Do I speak : None
+1.2 :feelingly now? : None
+LUCIO
+1.2 :I think thou dost; and, indeed, with most painful : None
+1.2 :feeling of thy speech: I will, out of thine own : None
+1.2 :confession, learn to begin thy health; but, whilst I : None
+1.2 :live, forget to drink after thee. : None
+FIRST GENTLEMAN
+1.2 :I think I have done myself wrong, have I not? : None
+SECOND GENTLEMAN
+1.2 :Yes, that thou hast, whether thou art tainted or free. : None
+LUCIO
+1.2 :Behold, behold. where Madam Mitigation comes! I : None
+1.2 :have purchased as many diseases under her roof as come to-- : None
+SECOND GENTLEMAN
+1.2 :To what, I pray? : None
+LUCIO
+1.2 :Judge. : None
+SECOND GENTLEMAN
+1.2 :To three thousand dolours a year. : None
+FIRST GENTLEMAN
+1.2 :Ay, and more. : None
+LUCIO
+1.2 :A French crown more. : None
+FIRST GENTLEMAN
+1.2 :Thou art always figuring diseases in me; but thou : None
+1.2 :art full of error; I am sound. : None
+LUCIO
+1.2 :Nay, not as one would say, healthy; but so sound as : None
+1.2 :things that are hollow: thy bones are hollow; : None
+1.2 :impiety has made a feast of thee. : None
+Enter MISTRESS OVERDONE : ["Enter - ['MISTRESS OVERDONE']"] : LUCIO
+FIRST GENTLEMAN
+1.2 :How now! which of your hips has the most profound sciatica? : None
+MISTRESS OVERDONE
+1.2 :Well, well; there's one yonder arrested and carried : None
+1.2 :to prison was worth five thousand of you all. : None
+SECOND GENTLEMAN
+1.2 :Who's that, I pray thee? : None
+MISTRESS OVERDONE
+1.2 :Marry, sir, that's Claudio, Signior Claudio. : None
+FIRST GENTLEMAN
+1.2 :Claudio to prison? 'tis not so. : None
+MISTRESS OVERDONE
+1.2 :Nay, but I know 'tis so: I saw him arrested, saw : None
+1.2 :him carried away; and, which is more, within these : None
+1.2 :three days his head to be chopped off. : None
+LUCIO
+1.2 :But, after all this fooling, I would not have it so. : None
+1.2 :Art thou sure of this? : None
+MISTRESS OVERDONE
+1.2 :I am too sure of it: and it is for getting Madam : None
+1.2 :Julietta with child. : None
+LUCIO
+1.2 :Believe me, this may be: he promised to meet me two : None
+1.2 :hours since, and he was ever precise in : None
+1.2 :promise-keeping. : None
+SECOND GENTLEMAN
+1.2 :Besides, you know, it draws something near to the : None
+1.2 :speech we had to such a purpose. : None
+FIRST GENTLEMAN
+1.2 :But, most of all, agreeing with the proclamation. : None
+LUCIO
+1.2 :Away! let's go learn the truth of it. : None
+Exeunt LUCIO and Gentlemen : ["Exeunt - ['LUCIO']"] : LUCIO
+MISTRESS OVERDONE
+1.2 :Thus, what with the war, what with the sweat, what : None
+1.2 :with the gallows and what with poverty, I am : None
+1.2 :custom-shrunk. : None
+Enter POMPEY : ["Enter - ['POMPEY']"] : MISTRESS OVERDONE
+1.2 :How now! what's the news with you? : None
+POMPEY
+1.2 :Yonder man is carried to prison. : None
+MISTRESS OVERDONE
+1.2 :Well; what has he done? : None
+POMPEY
+1.2 :A woman. : None
+MISTRESS OVERDONE
+1.2 :But what's his offence? : None
+POMPEY
+1.2 :Groping for trouts in a peculiar river. : None
+MISTRESS OVERDONE
+1.2 :What, is there a maid with child by him? : None
+POMPEY
+1.2 :No, but there's a woman with maid by him. You have : None
+1.2 :not heard of the proclamation, have you? : None
+MISTRESS OVERDONE
+1.2 :What proclamation, man? : None
+POMPEY
+1.2 :All houses in the suburbs of Vienna must be plucked down. : None
+MISTRESS OVERDONE
+1.2 :And what shall become of those in the city? : None
+POMPEY
+1.2 :They shall stand for seed: they had gone down too, : None
+1.2 :but that a wise burgher put in for them. : None
+MISTRESS OVERDONE
+1.2 :But shall all our houses of resort in the suburbs be : None
+1.2 :pulled down? : None
+POMPEY
+1.2 :To the ground, mistress. : None
+MISTRESS OVERDONE
+1.2 :Why, here's a change indeed in the commonwealth! : None
+1.2 :What shall become of me? : None
+POMPEY
+1.2 :Come; fear you not: good counsellors lack no : None
+1.2 :clients: though you change your place, you need not : None
+1.2 :change your trade; I'll be your tapster still. : None
+1.2 :Courage! there will be pity taken on you: you that : None
+1.2 :have worn your eyes almost out in the service, you : None
+1.2 :will be considered. : None
+MISTRESS OVERDONE
+1.2 :What's to do here, Thomas tapster? let's withdraw. : None
+POMPEY
+1.2 :Here comes Signior Claudio, led by the provost to : None
+1.2 :prison; and there's Madam Juliet. : None
+Exeunt : ['Exeunt - []'] : POMPEY
+Enter Provost, CLAUDIO, JULIET, and Officers : ["Enter - ['PROVOST', 'CLAUDIO', 'JULIET']"] : POMPEY
+CLAUDIO
+1.2 :Fellow, why dost thou show me thus to the world? : None
+1.2 :Bear me to prison, where I am committed. : None
+PROVOST
+1.2 :I do it not in evil disposition, : None
+1.2 :But from Lord Angelo by special charge. : None
+CLAUDIO
+1.2 :Thus can the demigod Authority : None
+1.2 :Make us pay down for our offence by weight : None
+1.2 :The words of heaven; on whom it will, it will; : None
+1.2 :On whom it will not, so; yet still 'tis just. : None
+Re-enter LUCIO and two Gentlemen : ["Re-enter - ['LUCIO']"] : CLAUDIO
+LUCIO
+1.2 :Why, how now, Claudio! whence comes this restraint? : None
+CLAUDIO
+1.2 :From too much liberty, my Lucio, liberty: : None
+1.2 :As surfeit is the father of much fast, : None
+1.2 :So every scope by the immoderate use : None
+1.2 :Turns to restraint. Our natures do pursue, : None
+1.2 :Like rats that ravin down their proper bane, : None
+1.2 :A thirsty evil; and when we drink we die. : None
+LUCIO
+1.2 :If could speak so wisely under an arrest, I would : None
+1.2 :send for certain of my creditors: and yet, to say : None
+1.2 :the truth, I had as lief have the foppery of freedom : None
+1.2 :as the morality of imprisonment. What's thy : None
+1.2 :offence, Claudio? : None
+CLAUDIO
+1.2 :What but to speak of would offend again. : None
+LUCIO
+1.2 :What, is't murder? : None
+CLAUDIO
+1.2 :No. : None
+LUCIO
+1.2 :Lechery? : None
+CLAUDIO
+1.2 :Call it so. : None
+PROVOST
+1.2 :Away, sir! you must go. : None
+CLAUDIO
+1.2 :One word, good friend. Lucio, a word with you. : None
+LUCIO
+1.2 :A hundred, if they'll do you any good. : None
+1.2 :Is lechery so look'd after? : None
+CLAUDIO
+1.2 :Thus stands it with me: upon a true contract : None
+1.2 :I got possession of Julietta's bed: : None
+1.2 :You know the lady; she is fast my wife, : None
+1.2 :Save that we do the denunciation lack : None
+1.2 :Of outward order: this we came not to, : None
+1.2 :Only for propagation of a dower : None
+1.2 :Remaining in the coffer of her friends, : None
+1.2 :From whom we thought it meet to hide our love : None
+1.2 :Till time had made them for us. But it chances : None
+1.2 :The stealth of our most mutual entertainment : None
+1.2 :With character too gross is writ on Juliet. : None
+LUCIO
+1.2 :With child, perhaps? : None
+CLAUDIO
+1.2 :Unhappily, even so. : None
+1.2 :And the new deputy now for the duke-- : None
+1.2 :Whether it be the fault and glimpse of newness, : None
+1.2 :Or whether that the body public be : None
+1.2 :A horse whereon the governor doth ride, : None
+1.2 :Who, newly in the seat, that it may know : None
+1.2 :He can command, lets it straight feel the spur; : None
+1.2 :Whether the tyranny be in his place, : None
+1.2 :Or in his emmence that fills it up, : None
+1.2 :I stagger in:--but this new governor : None
+1.2 :Awakes me all the enrolled penalties : None
+1.2 :Which have, like unscour'd armour, hung by the wall : None
+1.2 :So long that nineteen zodiacs have gone round : None
+1.2 :And none of them been worn; and, for a name, : None
+1.2 :Now puts the drowsy and neglected act : None
+1.2 :Freshly on me: 'tis surely for a name. : None
+LUCIO
+1.2 :I warrant it is: and thy head stands so tickle on : None
+1.2 :thy shoulders that a milkmaid, if she be in love, : None
+1.2 :may sigh it off. Send after the duke and appeal to : None
+1.2 :him. : None
+CLAUDIO
+1.2 :I have done so, but he's not to be found. : None
+1.2 :I prithee, Lucio, do me this kind service: : None
+1.2 :This day my sister should the cloister enter : None
+1.2 :And there receive her approbation: : None
+1.2 :Acquaint her with the danger of my state: : None
+1.2 :Implore her, in my voice, that she make friends : None
+1.2 :To the strict deputy; bid herself assay him: : None
+1.2 :I have great hope in that; for in her youth : None
+1.2 :There is a prone and speechless dialect, : None
+1.2 :Such as move men; beside, she hath prosperous art : None
+1.2 :When she will play with reason and discourse, : None
+1.2 :And well she can persuade. : None
+LUCIO
+1.2 :I pray she may; as well for the encouragement of the : None
+1.2 :like, which else would stand under grievous : None
+1.2 :imposition, as for the enjoying of thy life, who I : None
+1.2 :would be sorry should be thus foolishly lost at a : None
+1.2 :game of tick-tack. I'll to her. : None
+CLAUDIO
+1.2 :I thank you, good friend Lucio. : None
+LUCIO
+1.2 :Within two hours. : None
+CLAUDIO
+1.2 :                  Come, officer, away! : None
+Exeunt : ['Exeunt - []'] : CLAUDIO
+Scene(scene=3)
+Enter DUKE VINCENTIO and FRIAR THOMAS : ["Enter - ['DUKE', 'FRIAR THOMAS']"] : CLAUDIO
+DUKE VINCENTIO
+1.3 :No, holy father; throw away that thought; : None
+1.3 :Believe not that the dribbling dart of love : None
+1.3 :Can pierce a complete bosom. Why I desire thee : None
+1.3 :To give me secret harbour, hath a purpose : None
+1.3 :More grave and wrinkled than the aims and ends : None
+1.3 :Of burning youth. : None
+FRIAR THOMAS
+1.3 :                  May your grace speak of it? : None
+DUKE VINCENTIO
+1.3 :My holy sir, none better knows than you : None
+1.3 :How I have ever loved the life removed : None
+1.3 :And held in idle price to haunt assemblies : None
+1.3 :Where youth, and cost, and witless bravery keeps. : None
+1.3 :I have deliver'd to Lord Angelo, : None
+1.3 :A man of stricture and firm abstinence, : None
+1.3 :My absolute power and place here in Vienna, : None
+1.3 :And he supposes me travell'd to Poland; : None
+1.3 :For so I have strew'd it in the common ear, : None
+1.3 :And so it is received. Now, pious sir, : None
+1.3 :You will demand of me why I do this? : None
+FRIAR THOMAS
+1.3 :Gladly, my lord. : None
+DUKE VINCENTIO
+1.3 :We have strict statutes and most biting laws. : None
+1.3 :The needful bits and curbs to headstrong weeds, : None
+1.3 :Which for this nineteen years we have let slip; : None
+1.3 :Even like an o'ergrown lion in a cave, : None
+1.3 :That goes not out to prey. Now, as fond fathers, : None
+1.3 :Having bound up the threatening twigs of birch, : None
+1.3 :Only to stick it in their children's sight : None
+1.3 :For terror, not to use, in time the rod : None
+1.3 :Becomes more mock'd than fear'd; so our decrees, : None
+1.3 :Dead to infliction, to themselves are dead; : None
+1.3 :And liberty plucks justice by the nose; : None
+1.3 :The baby beats the nurse, and quite athwart : None
+1.3 :Goes all decorum. : None
+FRIAR THOMAS
+1.3 :                  It rested in your grace : None
+1.3 :To unloose this tied-up justice when you pleased: : None
+1.3 :And it in you more dreadful would have seem'd : None
+1.3 :Than in Lord Angelo. : None
+DUKE VINCENTIO
+1.3 :I do fear, too dreadful: : None
+1.3 :Sith 'twas my fault to give the people scope, : None
+1.3 :'Twould be my tyranny to strike and gall them : None
+1.3 :For what I bid them do: for we bid this be done, : None
+1.3 :When evil deeds have their permissive pass : None
+1.3 :And not the punishment. Therefore indeed, my father, : None
+1.3 :I have on Angelo imposed the office; : None
+1.3 :Who may, in the ambush of my name, strike home, : None
+1.3 :And yet my nature never in the fight : None
+1.3 :To do in slander. And to behold his sway, : None
+1.3 :I will, as 'twere a brother of your order, : None
+1.3 :Visit both prince and people: therefore, I prithee, : None
+1.3 :Supply me with the habit and instruct me : None
+1.3 :How I may formally in person bear me : None
+1.3 :Like a true friar. More reasons for this action : None
+1.3 :At our more leisure shall I render you; : None
+1.3 :Only, this one: Lord Angelo is precise; : None
+1.3 :Stands at a guard with envy; scarce confesses : None
+1.3 :That his blood flows, or that his appetite : None
+1.3 :Is more to bread than stone: hence shall we see, : None
+1.3 :If power change purpose, what our seemers be. : None
+Exeunt : ['Exeunt - []'] : DUKE VINCENTIO
+Scene(scene=4)
+Enter ISABELLA and FRANCISCA : ["Enter - ['ISABELLA', 'FRANCISCA']"] : DUKE VINCENTIO
+ISABELLA
+1.4 :And have you nuns no farther privileges? : None
+FRANCISCA
+1.4 :Are not these large enough? : None
+ISABELLA
+1.4 :Yes, truly; I speak not as desiring more; : None
+1.4 :But rather wishing a more strict restraint : None
+1.4 :Upon the sisterhood, the votarists of Saint Clare. : None
+LUCIO
+1.4 :  Ho! Peace be in this place! : Within : ['None - []'] : LUCIO
+ISABELLA
+1.4 :Who's that which calls? : None
+FRANCISCA
+1.4 :It is a man's voice. Gentle Isabella, : None
+1.4 :Turn you the key, and know his business of him; : None
+1.4 :You may, I may not; you are yet unsworn. : None
+1.4 :When you have vow'd, you must not speak with men : None
+1.4 :But in the presence of the prioress: : None
+1.4 :Then, if you speak, you must not show your face, : None
+1.4 :Or, if you show your face, you must not speak. : None
+1.4 :He calls again; I pray you, answer him. : None
+Exit : ['Exit - []'] : FRANCISCA
+ISABELLA
+1.4 :Peace and prosperity! Who is't that calls : None
+Enter LUCIO : ["Enter - ['LUCIO']"] : ISABELLA
+LUCIO
+1.4 :Hail, virgin, if you be, as those cheek-roses : None
+1.4 :Proclaim you are no less! Can you so stead me : None
+1.4 :As bring me to the sight of Isabella, : None
+1.4 :A novice of this place and the fair sister : None
+1.4 :To her unhappy brother Claudio? : None
+ISABELLA
+1.4 :Why 'her unhappy brother'? let me ask, : None
+1.4 :The rather for I now must make you know : None
+1.4 :I am that Isabella and his sister. : None
+LUCIO
+1.4 :Gentle and fair, your brother kindly greets you: : None
+1.4 :Not to be weary with you, he's in prison. : None
+ISABELLA
+1.4 :Woe me! for what? : None
+LUCIO
+1.4 :For that which, if myself might be his judge, : None
+1.4 :He should receive his punishment in thanks: : None
+1.4 :He hath got his friend with child. : None
+ISABELLA
+1.4 :Sir, make me not your story. : None
+LUCIO
+1.4 :It is true. : None
+1.4 :I would not--though 'tis my familiar sin : None
+1.4 :With maids to seem the lapwing and to jest, : None
+1.4 :Tongue far from heart--play with all virgins so: : None
+1.4 :I hold you as a thing ensky'd and sainted. : None
+1.4 :By your renouncement an immortal spirit, : None
+1.4 :And to be talk'd with in sincerity, : None
+1.4 :As with a saint. : None
+ISABELLA
+1.4 :You do blaspheme the good in mocking me. : None
+LUCIO
+1.4 :Do not believe it. Fewness and truth, 'tis thus: : None
+1.4 :Your brother and his lover have embraced: : None
+1.4 :As those that feed grow full, as blossoming time : None
+1.4 :That from the seedness the bare fallow brings : None
+1.4 :To teeming foison, even so her plenteous womb : None
+1.4 :Expresseth his full tilth and husbandry. : None
+ISABELLA
+1.4 :Some one with child by him? My cousin Juliet? : None
+LUCIO
+1.4 :Is she your cousin? : None
+ISABELLA
+1.4 :Adoptedly; as school-maids change their names : None
+1.4 :By vain though apt affection. : None
+LUCIO
+1.4 :She it is. : None
+ISABELLA
+1.4 :O, let him marry her. : None
+LUCIO
+1.4 :This is the point. : None
+1.4 :The duke is very strangely gone from hence; : None
+1.4 :Bore many gentlemen, myself being one, : None
+1.4 :In hand and hope of action: but we do learn : None
+1.4 :By those that know the very nerves of state, : None
+1.4 :His givings-out were of an infinite distance : None
+1.4 :From his true-meant design. Upon his place, : None
+1.4 :And with full line of his authority, : None
+1.4 :Governs Lord Angelo; a man whose blood : None
+1.4 :Is very snow-broth; one who never feels : None
+1.4 :The wanton stings and motions of the sense, : None
+1.4 :But doth rebate and blunt his natural edge : None
+1.4 :With profits of the mind, study and fast. : None
+1.4 :He--to give fear to use and liberty, : None
+1.4 :Which have for long run by the hideous law, : None
+1.4 :As mice by lions--hath pick'd out an act, : None
+1.4 :Under whose heavy sense your brother's life : None
+1.4 :Falls into forfeit: he arrests him on it; : None
+1.4 :And follows close the rigour of the statute, : None
+1.4 :To make him an example. All hope is gone, : None
+1.4 :Unless you have the grace by your fair prayer : None
+1.4 :To soften Angelo: and that's my pith of business : None
+1.4 :'Twixt you and your poor brother. : None
+ISABELLA
+1.4 :Doth he so seek his life? : None
+LUCIO
+1.4 :Has censured him : None
+1.4 :Already; and, as I hear, the provost hath : None
+1.4 :A warrant for his execution. : None
+ISABELLA
+1.4 :Alas! what poor ability's in me : None
+1.4 :To do him good? : None
+LUCIO
+1.4 :                  Assay the power you have. : None
+ISABELLA
+1.4 :My power? Alas, I doubt-- : None
+LUCIO
+1.4 :Our doubts are traitors : None
+1.4 :And make us lose the good we oft might win : None
+1.4 :By fearing to attempt. Go to Lord Angelo, : None
+1.4 :And let him learn to know, when maidens sue, : None
+1.4 :Men give like gods; but when they weep and kneel, : None
+1.4 :All their petitions are as freely theirs : None
+1.4 :As they themselves would owe them. : None
+ISABELLA
+1.4 :I'll see what I can do. : None
+LUCIO
+1.4 :But speedily. : None
+ISABELLA
+1.4 :I will about it straight; : None
+1.4 :No longer staying but to give the mother : None
+1.4 :Notice of my affair. I humbly thank you: : None
+1.4 :Commend me to my brother: soon at night : None
+1.4 :I'll send him certain word of my success. : None
+LUCIO
+1.4 :I take my leave of you. : None
+ISABELLA
+1.4 :Good sir, adieu. : None
+Exeunt : ['Exeunt - []'] : ISABELLA
+Act(act=2)
+Scene(scene=1)
+Enter ANGELO, ESCALUS, and a Justice, Provost, Officers, and other Attendants, behind : ["Enter - ['ANGELO', 'ESCALUS', 'JUSTICE', 'PROVOST']"] : ISABELLA
+ANGELO
+2.1 :We must not make a scarecrow of the law, : None
+2.1 :Setting it up to fear the birds of prey, : None
+2.1 :And let it keep one shape, till custom make it : None
+2.1 :Their perch and not their terror. : None
+ESCALUS
+2.1 :Ay, but yet : None
+2.1 :Let us be keen, and rather cut a little, : None
+2.1 :Than fall, and bruise to death. Alas, this gentleman : None
+2.1 :Whom I would save, had a most noble father! : None
+2.1 :Let but your honour know, : None
+2.1 :Whom I believe to be most strait in virtue, : None
+2.1 :That, in the working of your own affections, : None
+2.1 :Had time cohered with place or place with wishing, : None
+2.1 :Or that the resolute acting of your blood : None
+2.1 :Could have attain'd the effect of your own purpose, : None
+2.1 :Whether you had not sometime in your life : None
+2.1 :Err'd in this point which now you censure him, : None
+2.1 :And pull'd the law upon you. : None
+ANGELO
+2.1 :'Tis one thing to be tempted, Escalus, : None
+2.1 :Another thing to fall. I not deny, : None
+2.1 :The jury, passing on the prisoner's life, : None
+2.1 :May in the sworn twelve have a thief or two : None
+2.1 :Guiltier than him they try. What's open made to justice, : None
+2.1 :That justice seizes: what know the laws : None
+2.1 :That thieves do pass on thieves? 'Tis very pregnant, : None
+2.1 :The jewel that we find, we stoop and take't : None
+2.1 :Because we see it; but what we do not see : None
+2.1 :We tread upon, and never think of it. : None
+2.1 :You may not so extenuate his offence : None
+2.1 :For I have had such faults; but rather tell me, : None
+2.1 :When I, that censure him, do so offend, : None
+2.1 :Let mine own judgment pattern out my death, : None
+2.1 :And nothing come in partial. Sir, he must die. : None
+ESCALUS
+2.1 :Be it as your wisdom will. : None
+ANGELO
+2.1 :Where is the provost? : None
+PROVOST
+2.1 :Here, if it like your honour. : None
+ANGELO
+2.1 :See that Claudio : None
+2.1 :Be executed by nine to-morrow morning: : None
+2.1 :Bring him his confessor, let him be prepared; : None
+2.1 :For that's the utmost of his pilgrimage. : None
+Exit Provost : ["Exit - ['PROVOST']"] : ANGELO
+ESCALUS
+2.1 :  Well, heaven forgive him! and forgive us all! : Aside : ['Aside - []'] : ESCALUS
+2.1 :Some rise by sin, and some by virtue fall: : None
+2.1 :Some run from brakes of ice, and answer none: : None
+2.1 :And some condemned for a fault alone. : None
+Enter ELBOW, and Officers with FROTH and POMPEY : ["Enter - ['ELBOW', 'FROTH', 'POMPEY']"] : ESCALUS
+ELBOW
+2.1 :Come, bring them away: if these be good people in : None
+2.1 :a commonweal that do nothing but use their abuses in : None
+2.1 :common houses, I know no law: bring them away. : None
+ANGELO
+2.1 :How now, sir! What's your name? and what's the matter? : None
+ELBOW
+2.1 :If it Please your honour, I am the poor duke's : None
+2.1 :constable, and my name is Elbow: I do lean upon : None
+2.1 :justice, sir, and do bring in here before your good : None
+2.1 :honour two notorious benefactors. : None
+ANGELO
+2.1 :Benefactors? Well; what benefactors are they? are : None
+2.1 :they not malefactors? : None
+ELBOW
+2.1 :If it? please your honour, I know not well what they : None
+2.1 :are: but precise villains they are, that I am sure : None
+2.1 :of; and void of all profanation in the world that : None
+2.1 :good Christians ought to have. : None
+ESCALUS
+2.1 :This comes off well; here's a wise officer. : None
+ANGELO
+2.1 :Go to: what quality are they of? Elbow is your : None
+2.1 :name? why dost thou not speak, Elbow? : None
+POMPEY
+2.1 :He cannot, sir; he's out at elbow. : None
+ANGELO
+2.1 :What are you, sir? : None
+ELBOW
+2.1 :He, sir! a tapster, sir; parcel-bawd; one that : None
+2.1 :serves a bad woman; whose house, sir, was, as they : None
+2.1 :say, plucked down in the suburbs; and now she : None
+2.1 :professes a hot-house, which, I think, is a very ill house too. : None
+ESCALUS
+2.1 :How know you that? : None
+ELBOW
+2.1 :My wife, sir, whom I detest before heaven and your honour,-- : None
+ESCALUS
+2.1 :How? thy wife? : None
+ELBOW
+2.1 :Ay, sir; whom, I thank heaven, is an honest woman,-- : None
+ESCALUS
+2.1 :Dost thou detest her therefore? : None
+ELBOW
+2.1 :I say, sir, I will detest myself also, as well as : None
+2.1 :she, that this house, if it be not a bawd's house, : None
+2.1 :it is pity of her life, for it is a naughty house. : None
+ESCALUS
+2.1 :How dost thou know that, constable? : None
+ELBOW
+2.1 :Marry, sir, by my wife; who, if she had been a woman : None
+2.1 :cardinally given, might have been accused in : None
+2.1 :fornication, adultery, and all uncleanliness there. : None
+ESCALUS
+2.1 :By the woman's means? : None
+ELBOW
+2.1 :Ay, sir, by Mistress Overdone's means: but as she : None
+2.1 :spit in his face, so she defied him. : None
+POMPEY
+2.1 :Sir, if it please your honour, this is not so. : None
+ELBOW
+2.1 :Prove it before these varlets here, thou honourable : None
+2.1 :man; prove it. : None
+ESCALUS
+2.1 :Do you hear how he misplaces? : None
+POMPEY
+2.1 :Sir, she came in great with child; and longing, : None
+2.1 :saving your honour's reverence, for stewed prunes; : None
+2.1 :sir, we had but two in the house, which at that very : None
+2.1 :distant time stood, as it were, in a fruit-dish, a : None
+2.1 :dish of some three-pence; your honours have seen : None
+2.1 :such dishes; they are not China dishes, but very : None
+2.1 :good dishes,-- : None
+ESCALUS
+2.1 :Go to, go to: no matter for the dish, sir. : None
+POMPEY
+2.1 :No, indeed, sir, not of a pin; you are therein in : None
+2.1 :the right: but to the point. As I say, this : None
+2.1 :Mistress Elbow, being, as I say, with child, and : None
+2.1 :being great-bellied, and longing, as I said, for : None
+2.1 :prunes; and having but two in the dish, as I said, : None
+2.1 :Master Froth here, this very man, having eaten the : None
+2.1 :rest, as I said, and, as I say, paying for them very : None
+2.1 :honestly; for, as you know, Master Froth, I could : None
+2.1 :not give you three-pence again. : None
+FROTH
+2.1 :No, indeed. : None
+POMPEY
+2.1 :Very well: you being then, if you be remembered, : None
+2.1 :cracking the stones of the foresaid prunes,-- : None
+FROTH
+2.1 :Ay, so I did indeed. : None
+POMPEY
+2.1 :Why, very well; I telling you then, if you be : None
+2.1 :remembered, that such a one and such a one were past : None
+2.1 :cure of the thing you wot of, unless they kept very : None
+2.1 :good diet, as I told you,-- : None
+FROTH
+2.1 :All this is true. : None
+POMPEY
+2.1 :Why, very well, then,-- : None
+ESCALUS
+2.1 :Come, you are a tedious fool: to the purpose. What : None
+2.1 :was done to Elbow's wife, that he hath cause to : None
+2.1 :complain of? Come me to what was done to her. : None
+POMPEY
+2.1 :Sir, your honour cannot come to that yet. : None
+ESCALUS
+2.1 :No, sir, nor I mean it not. : None
+POMPEY
+2.1 :Sir, but you shall come to it, by your honour's : None
+2.1 :leave. And, I beseech you, look into Master Froth : None
+2.1 :here, sir; a man of four-score pound a year; whose : None
+2.1 :father died at Hallowmas: was't not at Hallowmas, : None
+2.1 :Master Froth? : None
+FROTH
+2.1 :All-hallond eve. : None
+POMPEY
+2.1 :Why, very well; I hope here be truths. He, sir, : None
+2.1 :sitting, as I say, in a lower chair, sir; 'twas in : None
+2.1 :the Bunch of Grapes, where indeed you have a delight : None
+2.1 :to sit, have you not? : None
+FROTH
+2.1 :I have so; because it is an open room and good for winter. : None
+POMPEY
+2.1 :Why, very well, then; I hope here be truths. : None
+ANGELO
+2.1 :This will last out a night in Russia, : None
+2.1 :When nights are longest there: I'll take my leave. : None
+2.1 :And leave you to the hearing of the cause; : None
+2.1 :Hoping you'll find good cause to whip them all. : None
+ESCALUS
+2.1 :I think no less. Good morrow to your lordship. : None
+Exit ANGELO : ["Exit - ['ANGELO']"] : ESCALUS
+2.1 :Now, sir, come on: what was done to Elbow's wife, once more? : None
+POMPEY
+2.1 :Once, sir? there was nothing done to her once. : None
+ELBOW
+2.1 :I beseech you, sir, ask him what this man did to my wife. : None
+POMPEY
+2.1 :I beseech your honour, ask me. : None
+ESCALUS
+2.1 :Well, sir; what did this gentleman to her? : None
+POMPEY
+2.1 :I beseech you, sir, look in this gentleman's face. : None
+2.1 :Good Master Froth, look upon his honour; 'tis for a : None
+2.1 :good purpose. Doth your honour mark his face? : None
+ESCALUS
+2.1 :Ay, sir, very well. : None
+POMPEY
+2.1 :Nay; I beseech you, mark it well. : None
+ESCALUS
+2.1 :Well, I do so. : None
+POMPEY
+2.1 :Doth your honour see any harm in his face? : None
+ESCALUS
+2.1 :Why, no. : None
+POMPEY
+2.1 :I'll be supposed upon a book, his face is the worst : None
+2.1 :thing about him. Good, then; if his face be the : None
+2.1 :worst thing about him, how could Master Froth do the : None
+2.1 :constable's wife any harm? I would know that of : None
+2.1 :your honour. : None
+ESCALUS
+2.1 :He's in the right. Constable, what say you to it? : None
+ELBOW
+2.1 :First, an it like you, the house is a respected : None
+2.1 :house; next, this is a respected fellow; and his : None
+2.1 :mistress is a respected woman. : None
+POMPEY
+2.1 :By this hand, sir, his wife is a more respected : None
+2.1 :person than any of us all. : None
+ELBOW
+2.1 :Varlet, thou liest; thou liest, wicked varlet! the : None
+2.1 :time has yet to come that she was ever respected : None
+2.1 :with man, woman, or child. : None
+POMPEY
+2.1 :Sir, she was respected with him before he married with her. : None
+ESCALUS
+2.1 :Which is the wiser here? Justice or Iniquity? Is : None
+2.1 :this true? : None
+ELBOW
+2.1 :O thou caitiff! O thou varlet! O thou wicked : None
+2.1 :Hannibal! I respected with her before I was married : None
+2.1 :to her! If ever I was respected with her, or she : None
+2.1 :with me, let not your worship think me the poor : None
+2.1 :duke's officer. Prove this, thou wicked Hannibal, or : None
+2.1 :I'll have mine action of battery on thee. : None
+ESCALUS
+2.1 :If he took you a box o' the ear, you might have your : None
+2.1 :action of slander too. : None
+ELBOW
+2.1 :Marry, I thank your good worship for it. What is't : None
+2.1 :your worship's pleasure I shall do with this wicked caitiff? : None
+ESCALUS
+2.1 :Truly, officer, because he hath some offences in him : None
+2.1 :that thou wouldst discover if thou couldst, let him : None
+2.1 :continue in his courses till thou knowest what they : None
+2.1 :are. : None
+ELBOW
+2.1 :Marry, I thank your worship for it. Thou seest, thou : None
+2.1 :wicked varlet, now, what's come upon thee: thou art : None
+2.1 :to continue now, thou varlet; thou art to continue. : None
+ESCALUS
+2.1 :Where were you born, friend? : None
+FROTH
+2.1 :Here in Vienna, sir. : None
+ESCALUS
+2.1 :Are you of fourscore pounds a year? : None
+FROTH
+2.1 :Yes, an't please you, sir. : None
+ESCALUS
+2.1 :So. What trade are you of, sir? : None
+POMPHEY
+2.1 :Tapster; a poor widow's tapster. : None
+ESCALUS
+2.1 :Your mistress' name? : None
+POMPHEY
+2.1 :Mistress Overdone. : None
+ESCALUS
+2.1 :Hath she had any more than one husband? : None
+POMPEY
+2.1 :Nine, sir; Overdone by the last. : None
+ESCALUS
+2.1 :Nine! Come hither to me, Master Froth. Master : None
+2.1 :Froth, I would not have you acquainted with : None
+2.1 :tapsters: they will draw you, Master Froth, and you : None
+2.1 :will hang them. Get you gone, and let me hear no : None
+2.1 :more of you. : None
+FROTH
+2.1 :I thank your worship. For mine own part, I never : None
+2.1 :come into any room in a tap-house, but I am drawn : None
+2.1 :in. : None
+ESCALUS
+2.1 :Well, no more of it, Master Froth: farewell. : None
+Exit FROTH : ["Exit - ['FROTH']"] : ESCALUS
+2.1 :Come you hither to me, Master tapster. What's your : None
+2.1 :name, Master tapster? : None
+POMPEY
+2.1 :Pompey. : None
+ESCALUS
+2.1 :What else? : None
+POMPEY
+2.1 :Bum, sir. : None
+ESCALUS
+2.1 :Troth, and your bum is the greatest thing about you; : None
+2.1 :so that in the beastliest sense you are Pompey the : None
+2.1 :Great. Pompey, you are partly a bawd, Pompey, : None
+2.1 :howsoever you colour it in being a tapster, are you : None
+2.1 :not? come, tell me true: it shall be the better for you. : None
+POMPEY
+2.1 :Truly, sir, I am a poor fellow that would live. : None
+ESCALUS
+2.1 :How would you live, Pompey? by being a bawd? What : None
+2.1 :do you think of the trade, Pompey? is it a lawful trade? : None
+POMPEY
+2.1 :If the law would allow it, sir. : None
+ESCALUS
+2.1 :But the law will not allow it, Pompey; nor it shall : None
+2.1 :not be allowed in Vienna. : None
+POMPEY
+2.1 :Does your worship mean to geld and splay all the : None
+2.1 :youth of the city? : None
+ESCALUS
+2.1 :No, Pompey. : None
+POMPEY
+2.1 :Truly, sir, in my poor opinion, they will to't then. : None
+2.1 :If your worship will take order for the drabs and : None
+2.1 :the knaves, you need not to fear the bawds. : None
+ESCALUS
+2.1 :There are pretty orders beginning, I can tell you: : None
+2.1 :it is but heading and hanging. : None
+POMPEY
+2.1 :If you head and hang all that offend that way but : None
+2.1 :for ten year together, you'll be glad to give out a : None
+2.1 :commission for more heads: if this law hold in : None
+2.1 :Vienna ten year, I'll rent the fairest house in it : None
+2.1 :after three-pence a bay: if you live to see this : None
+2.1 :come to pass, say Pompey told you so. : None
+ESCALUS
+2.1 :Thank you, good Pompey; and, in requital of your : None
+2.1 :prophecy, hark you: I advise you, let me not find : None
+2.1 :you before me again upon any complaint whatsoever; : None
+2.1 :no, not for dwelling where you do: if I do, Pompey, : None
+2.1 :I shall beat you to your tent, and prove a shrewd : None
+2.1 :Caesar to you; in plain dealing, Pompey, I shall : None
+2.1 :have you whipt: so, for this time, Pompey, fare you well. : None
+POMPEY
+2.1 :I thank your worship for your good counsel: : None
+Aside : ['Aside - []'] : POMPEY
+2.1 :but I shall follow it as the flesh and fortune shall : None
+2.1 :better determine. : None
+2.1 :Whip me? No, no; let carman whip his jade: : None
+2.1 :The valiant heart is not whipt out of his trade. : None
+Exit : ['Exit - []'] : POMPEY
+ESCALUS
+2.1 :Come hither to me, Master Elbow; come hither, Master : None
+2.1 :constable. How long have you been in this place of constable? : None
+ELBOW
+2.1 :Seven year and a half, sir. : None
+ESCALUS
+2.1 :I thought, by your readiness in the office, you had : None
+2.1 :continued in it some time. You say, seven years together? : None
+ELBOW
+2.1 :And a half, sir. : None
+ESCALUS
+2.1 :Alas, it hath been great pains to you. They do you : None
+2.1 :wrong to put you so oft upon 't: are there not men : None
+2.1 :in your ward sufficient to serve it? : None
+ELBOW
+2.1 :Faith, sir, few of any wit in such matters: as they : None
+2.1 :are chosen, they are glad to choose me for them; I : None
+2.1 :do it for some piece of money, and go through with : None
+2.1 :all. : None
+ESCALUS
+2.1 :Look you bring me in the names of some six or seven, : None
+2.1 :the most sufficient of your parish. : None
+ELBOW
+2.1 :To your worship's house, sir? : None
+ESCALUS
+2.1 :To my house. Fare you well. : None
+Exit ELBOW : ["Exit - ['ELBOW']"] : ESCALUS
+2.1 :What's o'clock, think you? : None
+JUSTICE
+2.1 :Eleven, sir. : None
+ESCALUS
+2.1 :I pray you home to dinner with me. : None
+JUSTICE
+2.1 :I humbly thank you. : None
+ESCALUS
+2.1 :It grieves me for the death of Claudio; : None
+2.1 :But there's no remedy. : None
+JUSTICE
+2.1 :Lord Angelo is severe. : None
+ESCALUS
+2.1 :It is but needful: : None
+2.1 :Mercy is not itself, that oft looks so; : None
+2.1 :Pardon is still the nurse of second woe: : None
+2.1 :But yet,--poor Claudio! There is no remedy. : None
+2.1 :Come, sir. : None
+Exeunt : ['Exeunt - []'] : ESCALUS
+Scene(scene=2)
+Enter Provost and a Servant : ["Enter - ['PROVOST', 'SERVANT']"] : ESCALUS
+SERVANT
+2.2 :He's hearing of a cause; he will come straight : None
+2.2 :I'll tell him of you. : None
+PROVOST
+2.2 :Pray you, do. : None
+Exit Servant : ["Exit - ['SERVANT']"] : PROVOST
+2.2 :I'll know : None
+2.2 :His pleasure; may be he will relent. Alas, : None
+2.2 :He hath but as offended in a dream! : None
+2.2 :All sects, all ages smack of this vice; and he : None
+2.2 :To die for't! : None
+Enter ANGELO : ["Enter - ['ANGELO']"] : PROVOST
+ANGELO
+2.2 :                  Now, what's the matter. Provost? : None
+PROVOST
+2.2 :Is it your will Claudio shall die tomorrow? : None
+ANGELO
+2.2 :Did not I tell thee yea? hadst thou not order? : None
+2.2 :Why dost thou ask again? : None
+PROVOST
+2.2 :Lest I might be too rash: : None
+2.2 :Under your good correction, I have seen, : None
+2.2 :When, after execution, judgment hath : None
+2.2 :Repented o'er his doom. : None
+ANGELO
+2.2 :Go to; let that be mine: : None
+2.2 :Do you your office, or give up your place, : None
+2.2 :And you shall well be spared. : None
+PROVOST
+2.2 :I crave your honour's pardon. : None
+2.2 :What shall be done, sir, with the groaning Juliet? : None
+2.2 :She's very near her hour. : None
+ANGELO
+2.2 :Dispose of her : None
+2.2 :To some more fitter place, and that with speed. : None
+Re-enter Servant : ["Re-enter - ['SERVANT']"] : ANGELO
+SERVANT
+2.2 :Here is the sister of the man condemn'd : None
+2.2 :Desires access to you. : None
+ANGELO
+2.2 :Hath he a sister? : None
+PROVOST
+2.2 :Ay, my good lord; a very virtuous maid, : None
+2.2 :And to be shortly of a sisterhood, : None
+2.2 :If not already. : None
+ANGELO
+2.2 :                  Well, let her be admitted. : None
+Exit Servant : ["Exit - ['SERVANT']"] : ANGELO
+2.2 :See you the fornicatress be removed: : None
+2.2 :Let have needful, but not lavish, means; : None
+2.2 :There shall be order for't. : None
+Enter ISABELLA and LUCIO : ["Enter - ['ISABELLA', 'LUCIO']"] : ANGELO
+PROVOST
+2.2 :God save your honour! : None
+ANGELO
+2.2 :Stay a little while. : None
+To ISABELLA : ["To - ['ISABELLA']"] : ANGELO
+2.2 :You're welcome: what's your will? : None
+ISABELLA
+2.2 :I am a woeful suitor to your honour, : None
+2.2 :Please but your honour hear me. : None
+ANGELO
+2.2 :Well; what's your suit? : None
+ISABELLA
+2.2 :There is a vice that most I do abhor, : None
+2.2 :And most desire should meet the blow of justice; : None
+2.2 :For which I would not plead, but that I must; : None
+2.2 :For which I must not plead, but that I am : None
+2.2 :At war 'twixt will and will not. : None
+ANGELO
+2.2 :Well; the matter? : None
+ISABELLA
+2.2 :I have a brother is condemn'd to die: : None
+2.2 :I do beseech you, let it be his fault, : None
+2.2 :And not my brother. : None
+PROVOST
+2.2 :  Heaven give thee moving graces! : Aside : ['Aside - []'] : PROVOST
+ANGELO
+2.2 :Condemn the fault and not the actor of it? : None
+2.2 :Why, every fault's condemn'd ere it be done: : None
+2.2 :Mine were the very cipher of a function, : None
+2.2 :To fine the faults whose fine stands in record, : None
+2.2 :And let go by the actor. : None
+ISABELLA
+2.2 :O just but severe law! : None
+2.2 :I had a brother, then. Heaven keep your honour! : None
+LUCIO
+2.2 :  Give't not o'er so: to him : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+2.2 :again, entreat him; : None
+2.2 :Kneel down before him, hang upon his gown: : None
+2.2 :You are too cold; if you should need a pin, : None
+2.2 :You could not with more tame a tongue desire it: : None
+2.2 :To him, I say! : None
+ISABELLA
+2.2 :Must he needs die? : None
+ANGELO
+2.2 :                  Maiden, no remedy. : None
+ISABELLA
+2.2 :Yes; I do think that you might pardon him, : None
+2.2 :And neither heaven nor man grieve at the mercy. : None
+ANGELO
+2.2 :I will not do't. : None
+ISABELLA
+2.2 :                  But can you, if you would? : None
+ANGELO
+2.2 :Look, what I will not, that I cannot do. : None
+ISABELLA
+2.2 :But might you do't, and do the world no wrong, : None
+2.2 :If so your heart were touch'd with that remorse : None
+2.2 :A s mine is to him? : None
+ANGELO
+2.2 :                  He's sentenced; 'tis too late. : None
+LUCIO
+2.2 :  You are too cold. : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ISABELLA
+2.2 :Too late? why, no; I, that do speak a word. : None
+2.2 :May call it back again. Well, believe this, : None
+2.2 :No ceremony that to great ones 'longs, : None
+2.2 :Not the king's crown, nor the deputed sword, : None
+2.2 :The marshal's truncheon, nor the judge's robe, : None
+2.2 :Become them with one half so good a grace : None
+2.2 :As mercy does. : None
+2.2 :If he had been as you and you as he, : None
+2.2 :You would have slipt like him; but he, like you, : None
+2.2 :Would not have been so stern. : None
+ANGELO
+2.2 :Pray you, be gone. : None
+ISABELLA
+2.2 :I would to heaven I had your potency, : None
+2.2 :And you were Isabel! should it then be thus? : None
+2.2 :No; I would tell what 'twere to be a judge, : None
+2.2 :And what a prisoner. : None
+LUCIO
+2.2 : : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+2.2 :Ay, touch him; there's the vein. : None
+ANGELO
+2.2 :Your brother is a forfeit of the law, : None
+2.2 :And you but waste your words. : None
+ISABELLA
+2.2 :Alas, alas! : None
+2.2 :Why, all the souls that were were forfeit once; : None
+2.2 :And He that might the vantage best have took : None
+2.2 :Found out the remedy. How would you be, : None
+2.2 :If He, which is the top of judgment, should : None
+2.2 :But judge you as you are? O, think on that; : None
+2.2 :And mercy then will breathe within your lips, : None
+2.2 :Like man new made. : None
+ANGELO
+2.2 :                  Be you content, fair maid; : None
+2.2 :It is the law, not I condemn your brother: : None
+2.2 :Were he my kinsman, brother, or my son, : None
+2.2 :It should be thus with him: he must die tomorrow. : None
+ISABELLA
+2.2 :To-morrow! O, that's sudden! Spare him, spare him! : None
+2.2 :He's not prepared for death. Even for our kitchens : None
+2.2 :We kill the fowl of season: shall we serve heaven : None
+2.2 :With less respect than we do minister : None
+2.2 :To our gross selves? Good, good my lord, bethink you; : None
+2.2 :Who is it that hath died for this offence? : None
+2.2 :There's many have committed it. : None
+LUCIO
+2.2 :           Ay, well said. : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ANGELO
+2.2 :The law hath not been dead, though it hath slept: : None
+2.2 :Those many had not dared to do that evil, : None
+2.2 :If the first that did the edict infringe : None
+2.2 :Had answer'd for his deed: now 'tis awake : None
+2.2 :Takes note of what is done; and, like a prophet, : None
+2.2 :Looks in a glass, that shows what future evils, : None
+2.2 :Either new, or by remissness new-conceived, : None
+2.2 :And so in progress to be hatch'd and born, : None
+2.2 :Are now to have no successive degrees, : None
+2.2 :But, ere they live, to end. : None
+ISABELLA
+2.2 :Yet show some pity. : None
+ANGELO
+2.2 :I show it most of all when I show justice; : None
+2.2 :For then I pity those I do not know, : None
+2.2 :Which a dismiss'd offence would after gall; : None
+2.2 :And do him right that, answering one foul wrong, : None
+2.2 :Lives not to act another. Be satisfied; : None
+2.2 :Your brother dies to-morrow; be content. : None
+ISABELLA
+2.2 :So you must be the first that gives this sentence, : None
+2.2 :And he, that suffer's. O, it is excellent : None
+2.2 :To have a giant's strength; but it is tyrannous : None
+2.2 :To use it like a giant. : None
+LUCIO
+2.2 :   That's well said. : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ISABELLA
+2.2 :Could great men thunder : None
+2.2 :As Jove himself does, Jove would ne'er be quiet, : None
+2.2 :For every pelting, petty officer : None
+2.2 :Would use his heaven for thunder; : None
+2.2 :Nothing but thunder! Merciful Heaven, : None
+2.2 :Thou rather with thy sharp and sulphurous bolt : None
+2.2 :Split'st the unwedgeable and gnarled oak : None
+2.2 :Than the soft myrtle: but man, proud man, : None
+2.2 :Drest in a little brief authority, : None
+2.2 :Most ignorant of what he's most assured, : None
+2.2 :His glassy essence, like an angry ape, : None
+2.2 :Plays such fantastic tricks before high heaven : None
+2.2 :As make the angels weep; who, with our spleens, : None
+2.2 :Would all themselves laugh mortal. : None
+LUCIO
+2.2 :  O, to him, to him, wench! he : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+2.2 :will relent; : None
+2.2 :He's coming; I perceive 't. : None
+PROVOST
+2.2 :  Pray heaven she win him! : Aside : ['Aside - []'] : PROVOST
+ISABELLA
+2.2 :We cannot weigh our brother with ourself: : None
+2.2 :Great men may jest with saints; 'tis wit in them, : None
+2.2 :But in the less foul profanation. : None
+LUCIO
+2.2 :Thou'rt i' the right, girl; more o, that. : None
+ISABELLA
+2.2 :That in the captain's but a choleric word, : None
+2.2 :Which in the soldier is flat blasphemy. : None
+LUCIO
+2.2 :  Art avised o' that? more on 't. : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ANGELO
+2.2 :Why do you put these sayings upon me? : None
+ISABELLA
+2.2 :Because authority, though it err like others, : None
+2.2 :Hath yet a kind of medicine in itself, : None
+2.2 :That skins the vice o' the top. Go to your bosom; : None
+2.2 :Knock there, and ask your heart what it doth know : None
+2.2 :That's like my brother's fault: if it confess : None
+2.2 :A natural guiltiness such as is his, : None
+2.2 :Let it not sound a thought upon your tongue : None
+2.2 :Against my brother's life. : None
+ANGELO
+2.2 :                  She speaks, and 'tis : Aside : ['Aside - []'] : ANGELO
+2.2 :Such sense, that my sense breeds with it. Fare you well. : None
+ISABELLA
+2.2 :Gentle my lord, turn back. : None
+ANGELO
+2.2 :I will bethink me: come again tomorrow. : None
+ISABELLA
+2.2 :Hark how I'll bribe you: good my lord, turn back. : None
+ANGELO
+2.2 :How! bribe me? : None
+ISABELLA
+2.2 :Ay, with such gifts that heaven shall share with you. : None
+LUCIO
+2.2 :  You had marr'd all else. : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ISABELLA
+2.2 :Not with fond shekels of the tested gold, : None
+2.2 :Or stones whose rates are either rich or poor : None
+2.2 :As fancy values them; but with true prayers : None
+2.2 :That shall be up at heaven and enter there : None
+2.2 :Ere sun-rise, prayers from preserved souls, : None
+2.2 :From fasting maids whose minds are dedicate : None
+2.2 :To nothing temporal. : None
+ANGELO
+2.2 :Well; come to me to-morrow. : None
+LUCIO
+2.2 :  Go to; 'tis well; away! : Aside to ISABELLA : ["Aside - ['ISABELLA']"] : LUCIO
+ISABELLA
+2.2 :Heaven keep your honour safe! : None
+ANGELO
+2.2 :	Amen: : Aside : ['Aside - []'] : ANGELO
+2.2 :For I am that way going to temptation, : None
+2.2 :Where prayers cross. : None
+ISABELLA
+2.2 :At what hour to-morrow : None
+2.2 :Shall I attend your lordship? : None
+ANGELO
+2.2 :At any time 'fore noon. : None
+ISABELLA
+2.2 :'Save your honour! : None
+Exeunt ISABELLA, LUCIO, and Provost : ["Exeunt - ['ISABELLA', 'LUCIO', 'PROVOST']"] : ISABELLA
+ANGELO
+2.2 :                  From thee, even from thy virtue! : None
+2.2 :What's this, what's this? Is this her fault or mine? : None
+2.2 :The tempter or the tempted, who sins most? : None
+2.2 :Ha! : None
+2.2 :Not she: nor doth she tempt: but it is I : None
+2.2 :That, lying by the violet in the sun, : None
+2.2 :Do as the carrion does, not as the flower, : None
+2.2 :Corrupt with virtuous season. Can it be : None
+2.2 :That modesty may more betray our sense : None
+2.2 :Than woman's lightness? Having waste ground enough, : None
+2.2 :Shall we desire to raze the sanctuary : None
+2.2 :And pitch our evils there? O, fie, fie, fie! : None
+2.2 :What dost thou, or what art thou, Angelo? : None
+2.2 :Dost thou desire her foully for those things : None
+2.2 :That make her good? O, let her brother live! : None
+2.2 :Thieves for their robbery have authority : None
+2.2 :When judges steal themselves. What, do I love her, : None
+2.2 :That I desire to hear her speak again, : None
+2.2 :And feast upon her eyes? What is't I dream on? : None
+2.2 :O cunning enemy, that, to catch a saint, : None
+2.2 :With saints dost bait thy hook! Most dangerous : None
+2.2 :Is that temptation that doth goad us on : None
+2.2 :To sin in loving virtue: never could the strumpet, : None
+2.2 :With all her double vigour, art and nature, : None
+2.2 :Once stir my temper; but this virtuous maid : None
+2.2 :Subdues me quite. Even till now, : None
+2.2 :When men were fond, I smiled and wonder'd how. : None
+Exit : ['Exit - []'] : ANGELO
+Scene(scene=3)
+Enter, severally, DUKE VINCENTIO disguised as a friar, and Provost : ["Enter - ['DUKE', 'PROVOST']"] : ANGELO
+DUKE VINCENTIO
+2.3 :Hail to you, provost! so I think you are. : None
+PROVOST
+2.3 :I am the provost. What's your will, good friar? : None
+DUKE VINCENTIO
+2.3 :Bound by my charity and my blest order, : None
+2.3 :I come to visit the afflicted spirits : None
+2.3 :Here in the prison. Do me the common right : None
+2.3 :To let me see them and to make me know : None
+2.3 :The nature of their crimes, that I may minister : None
+2.3 :To them accordingly. : None
+PROVOST
+2.3 :I would do more than that, if more were needful. : None
+Enter JULIET : ["Enter - ['JULIET']"] : PROVOST
+2.3 :Look, here comes one: a gentlewoman of mine, : None
+2.3 :Who, falling in the flaws of her own youth, : None
+2.3 :Hath blister'd her report: she is with child; : None
+2.3 :And he that got it, sentenced; a young man : None
+2.3 :More fit to do another such offence : None
+2.3 :Than die for this. : None
+DUKE VINCENTIO
+2.3 :When must he die? : None
+PROVOST
+2.3 :                  As I do think, to-morrow. : None
+2.3 :I have provided for you: stay awhile, : None
+To JULIET : ["To - ['JULIET']"] : PROVOST
+2.3 :And you shall be conducted. : None
+DUKE VINCENTIO
+2.3 :Repent you, fair one, of the sin you carry? : None
+JULIET
+2.3 :I do; and bear the shame most patiently. : None
+DUKE VINCENTIO
+2.3 :I'll teach you how you shall arraign your conscience, : None
+2.3 :And try your penitence, if it be sound, : None
+2.3 :Or hollowly put on. : None
+JULIET
+2.3 :I'll gladly learn. : None
+DUKE VINCENTIO
+2.3 :Love you the man that wrong'd you? : None
+JULIET
+2.3 :Yes, as I love the woman that wrong'd him. : None
+DUKE VINCENTIO
+2.3 :So then it seems your most offenceful act : None
+2.3 :Was mutually committed? : None
+JULIET
+2.3 :Mutually. : None
+DUKE VINCENTIO
+2.3 :Then was your sin of heavier kind than his. : None
+JULIET
+2.3 :I do confess it, and repent it, father. : None
+DUKE VINCENTIO
+2.3 :'Tis meet so, daughter: but lest you do repent, : None
+2.3 :As that the sin hath brought you to this shame, : None
+2.3 :Which sorrow is always towards ourselves, not heaven, : None
+2.3 :Showing we would not spare heaven as we love it, : None
+2.3 :But as we stand in fear,-- : None
+JULIET
+2.3 :I do repent me, as it is an evil, : None
+2.3 :And take the shame with joy. : None
+DUKE VINCENTIO
+2.3 :There rest. : None
+2.3 :Your partner, as I hear, must die to-morrow, : None
+2.3 :And I am going with instruction to him. : None
+2.3 :Grace go with you, Benedicite! : None
+Exit : ['Exit - []'] : DUKE VINCENTIO
+JULIET
+2.3 :Must die to-morrow! O injurious love, : None
+2.3 :That respites me a life, whose very comfort : None
+2.3 :Is still a dying horror! : None
+PROVOST
+2.3 :'Tis pity of him. : None
+Exeunt : ['Exeunt - []'] : PROVOST
+Scene(scene=4)
+Enter ANGELO : ["Enter - ['ANGELO']"] : PROVOST
+ANGELO
+2.4 :When I would pray and think, I think and pray : None
+2.4 :To several subjects. Heaven hath my empty words; : None
+2.4 :Whilst my invention, hearing not my tongue, : None
+2.4 :Anchors on Isabel: Heaven in my mouth, : None
+2.4 :As if I did but only chew his name; : None
+2.4 :And in my heart the strong and swelling evil : None
+2.4 :Of my conception. The state, whereon I studied : None
+2.4 :Is like a good thing, being often read, : None
+2.4 :Grown fear'd and tedious; yea, my gravity, : None
+2.4 :Wherein--let no man hear me--I take pride, : None
+2.4 :Could I with boot change for an idle plume, : None
+2.4 :Which the air beats for vain. O place, O form, : None
+2.4 :How often dost thou with thy case, thy habit, : None
+2.4 :Wrench awe from fools and tie the wiser souls : None
+2.4 :To thy false seeming! Blood, thou art blood: : None
+2.4 :Let's write good angel on the devil's horn: : None
+2.4 :'Tis not the devil's crest. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : ANGELO
+2.4 :How now! who's there? : None
+SERVANT
+2.4 :One Isabel, a sister, desires access to you. : None
+ANGELO
+2.4 :Teach her the way. : None
+Exit Servant : ["Exit - ['SERVANT']"] : ANGELO
+2.4 :O heavens! : None
+2.4 :Why does my blood thus muster to my heart, : None
+2.4 :Making both it unable for itself, : None
+2.4 :And dispossessing all my other parts : None
+2.4 :Of necessary fitness? : None
+2.4 :So play the foolish throngs with one that swoons; : None
+2.4 :Come all to help him, and so stop the air : None
+2.4 :By which he should revive: and even so : None
+2.4 :The general, subject to a well-wish'd king, : None
+2.4 :Quit their own part, and in obsequious fondness : None
+2.4 :Crowd to his presence, where their untaught love : None
+2.4 :Must needs appear offence. : None
+Enter ISABELLA : ["Enter - ['ISABELLA']"] : ANGELO
+2.4 :How now, fair maid? : None
+ISABELLA
+2.4 :I am come to know your pleasure. : None
+ANGELO
+2.4 :That you might know it, would much better please me : None
+2.4 :Than to demand what 'tis. Your brother cannot live. : None
+ISABELLA
+2.4 :Even so. Heaven keep your honour! : None
+ANGELO
+2.4 :Yet may he live awhile; and, it may be, : None
+AS LONG AS YOU OR I
+2.4 :yet he must die. : None
+ISABELLA
+2.4 :Under your sentence? : None
+ANGELO
+2.4 :Yea. : None
+ISABELLA
+2.4 :When, I beseech you? that in his reprieve, : None
+2.4 :Longer or shorter, he may be so fitted : None
+2.4 :That his soul sicken not. : None
+ANGELO
+2.4 :Ha! fie, these filthy vices! It were as good : None
+2.4 :To pardon him that hath from nature stolen : None
+2.4 :A man already made, as to remit : None
+2.4 :Their saucy sweetness that do coin heaven's image : None
+2.4 :In stamps that are forbid: 'tis all as easy : None
+2.4 :Falsely to take away a life true made : None
+2.4 :As to put metal in restrained means : None
+2.4 :To make a false one. : None
+ISABELLA
+2.4 :'Tis set down so in heaven, but not in earth. : None
+ANGELO
+2.4 :Say you so? then I shall pose you quickly. : None
+2.4 :Which had you rather, that the most just law : None
+2.4 :Now took your brother's life; or, to redeem him, : None
+2.4 :Give up your body to such sweet uncleanness : None
+2.4 :As she that he hath stain'd? : None
+ISABELLA
+2.4 :Sir, believe this, : None
+2.4 :I had rather give my body than my soul. : None
+ANGELO
+2.4 :I talk not of your soul: our compell'd sins : None
+2.4 :Stand more for number than for accompt. : None
+ISABELLA
+2.4 :How say you? : None
+ANGELO
+2.4 :Nay, I'll not warrant that; for I can speak : None
+2.4 :Against the thing I say. Answer to this: : None
+2.4 :I, now the voice of the recorded law, : None
+2.4 :Pronounce a sentence on your brother's life: : None
+2.4 :Might there not be a charity in sin : None
+2.4 :To save this brother's life? : None
+ISABELLA
+2.4 :Please you to do't, : None
+2.4 :I'll take it as a peril to my soul, : None
+2.4 :It is no sin at all, but charity. : None
+ANGELO
+2.4 :Pleased you to do't at peril of your soul, : None
+2.4 :Were equal poise of sin and charity. : None
+ISABELLA
+2.4 :That I do beg his life, if it be sin, : None
+2.4 :Heaven let me bear it! you granting of my suit, : None
+2.4 :If that be sin, I'll make it my morn prayer : None
+2.4 :To have it added to the faults of mine, : None
+2.4 :And nothing of your answer. : None
+ANGELO
+2.4 :Nay, but hear me. : None
+2.4 :Your sense pursues not mine: either you are ignorant, : None
+2.4 :Or seem so craftily; and that's not good. : None
+ISABELLA
+2.4 :Let me be ignorant, and in nothing good, : None
+2.4 :But graciously to know I am no better. : None
+ANGELO
+2.4 :Thus wisdom wishes to appear most bright : None
+2.4 :When it doth tax itself; as these black masks : None
+2.4 :Proclaim an enshield beauty ten times louder : None
+2.4 :Than beauty could, display'd. But mark me; : None
+2.4 :To be received plain, I'll speak more gross: : None
+2.4 :Your brother is to die. : None
+ISABELLA
+2.4 :So. : None
+ANGELO
+2.4 :And his offence is so, as it appears, : None
+2.4 :Accountant to the law upon that pain. : None
+ISABELLA
+2.4 :True. : None
+ANGELO
+2.4 :Admit no other way to save his life,-- : None
+2.4 :As I subscribe not that, nor any other, : None
+2.4 :But in the loss of question,--that you, his sister, : None
+2.4 :Finding yourself desired of such a person, : None
+2.4 :Whose credit with the judge, or own great place, : None
+2.4 :Could fetch your brother from the manacles : None
+2.4 :Of the all-building law; and that there were : None
+2.4 :No earthly mean to save him, but that either : None
+2.4 :You must lay down the treasures of your body : None
+2.4 :To this supposed, or else to let him suffer; : None
+2.4 :What would you do? : None
+ISABELLA
+2.4 :As much for my poor brother as myself: : None
+2.4 :That is, were I under the terms of death, : None
+2.4 :The impression of keen whips I'ld wear as rubies, : None
+2.4 :And strip myself to death, as to a bed : None
+2.4 :That longing have been sick for, ere I'ld yield : None
+2.4 :My body up to shame. : None
+ANGELO
+2.4 :Then must your brother die. : None
+ISABELLA
+2.4 :And 'twere the cheaper way: : None
+2.4 :Better it were a brother died at once, : None
+2.4 :Than that a sister, by redeeming him, : None
+2.4 :Should die for ever. : None
+ANGELO
+2.4 :Were not you then as cruel as the sentence : None
+2.4 :That you have slander'd so? : None
+ISABELLA
+2.4 :Ignomy in ransom and free pardon : None
+2.4 :Are of two houses: lawful mercy : None
+2.4 :Is nothing kin to foul redemption. : None
+ANGELO
+2.4 :You seem'd of late to make the law a tyrant; : None
+2.4 :And rather proved the sliding of your brother : None
+2.4 :A merriment than a vice. : None
+ISABELLA
+2.4 :O, pardon me, my lord; it oft falls out, : None
+2.4 :To have what we would have, we speak not what we mean: : None
+2.4 :I something do excuse the thing I hate, : None
+2.4 :For his advantage that I dearly love. : None
+ANGELO
+2.4 :We are all frail. : None
+ISABELLA
+2.4 :                  Else let my brother die, : None
+2.4 :If not a feodary, but only he : None
+2.4 :Owe and succeed thy weakness. : None
+ANGELO
+2.4 :Nay, women are frail too. : None
+ISABELLA
+2.4 :Ay, as the glasses where they view themselves; : None
+2.4 :Which are as easy broke as they make forms. : None
+2.4 :Women! Help Heaven! men their creation mar : None
+2.4 :In profiting by them. Nay, call us ten times frail; : None
+2.4 :For we are soft as our complexions are, : None
+2.4 :And credulous to false prints. : None
+ANGELO
+2.4 :I think it well: : None
+2.4 :And from this testimony of your own sex,-- : None
+2.4 :Since I suppose we are made to be no stronger : None
+2.4 :Than faults may shake our frames,--let me be bold; : None
+2.4 :I do arrest your words. Be that you are, : None
+2.4 :That is, a woman; if you be more, you're none; : None
+2.4 :If you be one, as you are well express'd : None
+2.4 :By all external warrants, show it now, : None
+2.4 :By putting on the destined livery. : None
+ISABELLA
+2.4 :I have no tongue but one: gentle my lord, : None
+2.4 :Let me entreat you speak the former language. : None
+ANGELO
+2.4 :Plainly conceive, I love you. : None
+ISABELLA
+2.4 :My brother did love Juliet, : None
+2.4 :And you tell me that he shall die for it. : None
+ANGELO
+2.4 :He shall not, Isabel, if you give me love. : None
+ISABELLA
+2.4 :I know your virtue hath a licence in't, : None
+2.4 :Which seems a little fouler than it is, : None
+2.4 :To pluck on others. : None
+ANGELO
+2.4 :Believe me, on mine honour, : None
+2.4 :My words express my purpose. : None
+ISABELLA
+2.4 :Ha! little honour to be much believed, : None
+2.4 :And most pernicious purpose! Seeming, seeming! : None
+2.4 :I will proclaim thee, Angelo; look for't: : None
+2.4 :Sign me a present pardon for my brother, : None
+2.4 :Or with an outstretch'd throat I'll tell the world aloud : None
+2.4 :What man thou art. : None
+ANGELO
+2.4 :                  Who will believe thee, Isabel? : None
+2.4 :My unsoil'd name, the austereness of my life, : None
+2.4 :My vouch against you, and my place i' the state, : None
+2.4 :Will so your accusation overweigh, : None
+2.4 :That you shall stifle in your own report : None
+2.4 :And smell of calumny. I have begun, : None
+2.4 :And now I give my sensual race the rein: : None
+2.4 :Fit thy consent to my sharp appetite; : None
+2.4 :Lay by all nicety and prolixious blushes, : None
+2.4 :That banish what they sue for; redeem thy brother : None
+2.4 :By yielding up thy body to my will; : None
+2.4 :Or else he must not only die the death, : None
+2.4 :But thy unkindness shall his death draw out : None
+2.4 :To lingering sufferance. Answer me to-morrow, : None
+2.4 :Or, by the affection that now guides me most, : None
+2.4 :I'll prove a tyrant to him. As for you, : None
+2.4 :Say what you can, my false o'erweighs your true. : None
+Exit : ['Exit - []'] : ANGELO
+ISABELLA
+2.4 :To whom should I complain? Did I tell this, : None
+2.4 :Who would believe me? O perilous mouths, : None
+2.4 :That bear in them one and the self-same tongue, : None
+2.4 :Either of condemnation or approof; : None
+2.4 :Bidding the law make court'sy to their will: : None
+2.4 :Hooking both right and wrong to the appetite, : None
+2.4 :To follow as it draws! I'll to my brother: : None
+2.4 :Though he hath fallen by prompture of the blood, : None
+2.4 :Yet hath he in him such a mind of honour. : None
+2.4 :That, had he twenty heads to tender down : None
+2.4 :On twenty bloody blocks, he'ld yield them up, : None
+2.4 :Before his sister should her body stoop : None
+2.4 :To such abhorr'd pollution. : None
+2.4 :Then, Isabel, live chaste, and, brother, die: : None
+2.4 :More than our brother is our chastity. : None
+2.4 :I'll tell him yet of Angelo's request, : None
+2.4 :And fit his mind to death, for his soul's rest. : None
+Exit : ['Exit - []'] : ISABELLA
+Act(act=3)
+Scene(scene=1)
+Enter DUKE VINCENTIO disguised as before, CLAUDIO, and Provost : ["Enter - ['DUKE', 'CLAUDIO', 'PROVOST']"] : ISABELLA
+DUKE VINCENTIO
+3.1 :So then you hope of pardon from Lord Angelo? : None
+CLAUDIO
+3.1 :The miserable have no other medicine : None
+3.1 :But only hope: : None
+3.1 :I've hope to live, and am prepared to die. : None
+DUKE VINCENTIO
+3.1 :Be absolute for death; either death or life : None
+3.1 :Shall thereby be the sweeter. Reason thus with life: : None
+3.1 :If I do lose thee, I do lose a thing : None
+3.1 :That none but fools would keep: a breath thou art, : None
+3.1 :Servile to all the skyey influences, : None
+3.1 :That dost this habitation, where thou keep'st, : None
+3.1 :Hourly afflict: merely, thou art death's fool; : None
+3.1 :For him thou labour'st by thy flight to shun : None
+3.1 :And yet runn'st toward him still. Thou art not noble; : None
+3.1 :For all the accommodations that thou bear'st : None
+3.1 :Are nursed by baseness. Thou'rt by no means valiant; : None
+3.1 :For thou dost fear the soft and tender fork : None
+3.1 :Of a poor worm. Thy best of rest is sleep, : None
+3.1 :And that thou oft provokest; yet grossly fear'st : None
+3.1 :Thy death, which is no more. Thou art not thyself; : None
+3.1 :For thou exist'st on many a thousand grains : None
+3.1 :That issue out of dust. Happy thou art not; : None
+3.1 :For what thou hast not, still thou strivest to get, : None
+3.1 :And what thou hast, forget'st. Thou art not certain; : None
+3.1 :For thy complexion shifts to strange effects, : None
+3.1 :After the moon. If thou art rich, thou'rt poor; : None
+3.1 :For, like an ass whose back with ingots bows, : None
+3.1 :Thou bear's thy heavy riches but a journey, : None
+3.1 :And death unloads thee. Friend hast thou none; : None
+3.1 :For thine own bowels, which do call thee sire, : None
+3.1 :The mere effusion of thy proper loins, : None
+3.1 :Do curse the gout, serpigo, and the rheum, : None
+3.1 :For ending thee no sooner. Thou hast nor youth nor age, : None
+3.1 :But, as it were, an after-dinner's sleep, : None
+3.1 :Dreaming on both; for all thy blessed youth : None
+3.1 :Becomes as aged, and doth beg the alms : None
+3.1 :Of palsied eld; and when thou art old and rich, : None
+3.1 :Thou hast neither heat, affection, limb, nor beauty, : None
+3.1 :To make thy riches pleasant. What's yet in this : None
+3.1 :That bears the name of life? Yet in this life : None
+3.1 :Lie hid moe thousand deaths: yet death we fear, : None
+3.1 :That makes these odds all even. : None
+CLAUDIO
+3.1 :I humbly thank you. : None
+3.1 :To sue to live, I find I seek to die; : None
+3.1 :And, seeking death, find life: let it come on. : None
+ISABELLA
+3.1 :  What, ho! Peace here; grace and good company! : Within : ['None - []'] : ISABELLA
+PROVOST
+3.1 :Who's there? come in: the wish deserves a welcome. : None
+DUKE VINCENTIO
+3.1 :Dear sir, ere long I'll visit you again. : None
+CLAUDIO
+3.1 :Most holy sir, I thank you. : None
+Enter ISABELLA : ["Enter - ['ISABELLA']"] : CLAUDIO
+ISABELLA
+3.1 :My business is a word or two with Claudio. : None
+PROVOST
+3.1 :And very welcome. Look, signior, here's your sister. : None
+DUKE VINCENTIO
+3.1 :Provost, a word with you. : None
+PROVOST
+3.1 :As many as you please. : None
+DUKE VINCENTIO
+3.1 :Bring me to hear them speak, where I may be concealed. : None
+Exeunt DUKE VINCENTIO and Provost : ["Exeunt - ['DUKE', 'PROVOST']"] : DUKE VINCENTIO
+CLAUDIO
+3.1 :Now, sister, what's the comfort? : None
+ISABELLA
+3.1 :Why, : None
+3.1 :As all comforts are; most good, most good indeed. : None
+3.1 :Lord Angelo, having affairs to heaven, : None
+3.1 :Intends you for his swift ambassador, : None
+3.1 :Where you shall be an everlasting leiger: : None
+3.1 :Therefore your best appointment make with speed; : None
+3.1 :To-morrow you set on. : None
+CLAUDIO
+3.1 :Is there no remedy? : None
+ISABELLA
+3.1 :None, but such remedy as, to save a head, : None
+3.1 :To cleave a heart in twain. : None
+CLAUDIO
+3.1 :But is there any? : None
+ISABELLA
+3.1 :Yes, brother, you may live: : None
+3.1 :There is a devilish mercy in the judge, : None
+3.1 :If you'll implore it, that will free your life, : None
+3.1 :But fetter you till death. : None
+CLAUDIO
+3.1 :Perpetual durance? : None
+ISABELLA
+3.1 :Ay, just; perpetual durance, a restraint, : None
+3.1 :Though all the world's vastidity you had, : None
+3.1 :To a determined scope. : None
+CLAUDIO
+3.1 :But in what nature? : None
+ISABELLA
+3.1 :In such a one as, you consenting to't, : None
+3.1 :Would bark your honour from that trunk you bear, : None
+3.1 :And leave you naked. : None
+CLAUDIO
+3.1 :Let me know the point. : None
+ISABELLA
+3.1 :O, I do fear thee, Claudio; and I quake, : None
+3.1 :Lest thou a feverous life shouldst entertain, : None
+3.1 :And six or seven winters more respect : None
+3.1 :Than a perpetual honour. Darest thou die? : None
+3.1 :The sense of death is most in apprehension; : None
+3.1 :And the poor beetle, that we tread upon, : None
+3.1 :In corporal sufferance finds a pang as great : None
+3.1 :As when a giant dies. : None
+CLAUDIO
+3.1 :Why give you me this shame? : None
+3.1 :Think you I can a resolution fetch : None
+3.1 :From flowery tenderness? If I must die, : None
+3.1 :I will encounter darkness as a bride, : None
+3.1 :And hug it in mine arms. : None
+ISABELLA
+3.1 :There spake my brother; there my father's grave : None
+3.1 :Did utter forth a voice. Yes, thou must die: : None
+3.1 :Thou art too noble to conserve a life : None
+3.1 :In base appliances. This outward-sainted deputy, : None
+3.1 :Whose settled visage and deliberate word : None
+3.1 :Nips youth i' the head and follies doth emmew : None
+3.1 :As falcon doth the fowl, is yet a devil : None
+3.1 :His filth within being cast, he would appear : None
+3.1 :A pond as deep as hell. : None
+CLAUDIO
+3.1 :The prenzie Angelo! : None
+ISABELLA
+3.1 :O, 'tis the cunning livery of hell, : None
+3.1 :The damned'st body to invest and cover : None
+3.1 :In prenzie guards! Dost thou think, Claudio? : None
+3.1 :If I would yield him my virginity, : None
+3.1 :Thou mightst be freed. : None
+CLAUDIO
+3.1 :O heavens! it cannot be. : None
+ISABELLA
+3.1 :Yes, he would give't thee, from this rank offence, : None
+3.1 :So to offend him still. This night's the time : None
+3.1 :That I should do what I abhor to name, : None
+3.1 :Or else thou diest to-morrow. : None
+CLAUDIO
+3.1 :Thou shalt not do't. : None
+ISABELLA
+3.1 :O, were it but my life, : None
+3.1 :I'ld throw it down for your deliverance : None
+3.1 :As frankly as a pin. : None
+CLAUDIO
+3.1 :Thanks, dear Isabel. : None
+ISABELLA
+3.1 :Be ready, Claudio, for your death tomorrow. : None
+CLAUDIO
+3.1 :Yes. Has he affections in him, : None
+3.1 :That thus can make him bite the law by the nose, : None
+3.1 :When he would force it? Sure, it is no sin, : None
+3.1 :Or of the deadly seven, it is the least. : None
+ISABELLA
+3.1 :Which is the least? : None
+CLAUDIO
+3.1 :If it were damnable, he being so wise, : None
+3.1 :Why would he for the momentary trick : None
+3.1 :Be perdurably fined? O Isabel! : None
+ISABELLA
+3.1 :What says my brother? : None
+CLAUDIO
+3.1 :Death is a fearful thing. : None
+ISABELLA
+3.1 :And shamed life a hateful. : None
+CLAUDIO
+3.1 :Ay, but to die, and go we know not where; : None
+3.1 :To lie in cold obstruction and to rot; : None
+3.1 :This sensible warm motion to become : None
+3.1 :A kneaded clod; and the delighted spirit : None
+3.1 :To bathe in fiery floods, or to reside : None
+3.1 :In thrilling region of thick-ribbed ice; : None
+3.1 :To be imprison'd in the viewless winds, : None
+3.1 :And blown with restless violence round about : None
+3.1 :The pendent world; or to be worse than worst : None
+3.1 :Of those that lawless and incertain thought : None
+3.1 :Imagine howling: 'tis too horrible! : None
+3.1 :The weariest and most loathed worldly life : None
+3.1 :That age, ache, penury and imprisonment : None
+3.1 :Can lay on nature is a paradise : None
+3.1 :To what we fear of death. : None
+ISABELLA
+3.1 :Alas, alas! : None
+CLAUDIO
+3.1 :          Sweet sister, let me live: : None
+3.1 :What sin you do to save a brother's life, : None
+3.1 :Nature dispenses with the deed so far : None
+3.1 :That it becomes a virtue. : None
+ISABELLA
+3.1 :O you beast! : None
+3.1 :O faithless coward! O dishonest wretch! : None
+3.1 :Wilt thou be made a man out of my vice? : None
+3.1 :Is't not a kind of incest, to take life : None
+3.1 :From thine own sister's shame? What should I think? : None
+3.1 :Heaven shield my mother play'd my father fair! : None
+3.1 :For such a warped slip of wilderness : None
+3.1 :Ne'er issued from his blood. Take my defiance! : None
+3.1 :Die, perish! Might but my bending down : None
+3.1 :Reprieve thee from thy fate, it should proceed: : None
+3.1 :I'll pray a thousand prayers for thy death, : None
+3.1 :No word to save thee. : None
+CLAUDIO
+3.1 :Nay, hear me, Isabel. : None
+ISABELLA
+3.1 :O, fie, fie, fie! : None
+3.1 :Thy sin's not accidental, but a trade. : None
+3.1 :Mercy to thee would prove itself a bawd: : None
+3.1 :'Tis best thou diest quickly. : None
+CLAUDIO
+3.1 :O hear me, Isabella! : None
+Re-enter DUKE VINCENTIO : ["Re-enter - ['DUKE']"] : CLAUDIO
+DUKE VINCENTIO
+3.1 :Vouchsafe a word, young sister, but one word. : None
+ISABELLA
+3.1 :What is your will? : None
+DUKE VINCENTIO
+3.1 :Might you dispense with your leisure, I would by and : None
+3.1 :by have some speech with you: the satisfaction I : None
+3.1 :would require is likewise your own benefit. : None
+ISABELLA
+3.1 :I have no superfluous leisure; my stay must be : None
+3.1 :stolen out of other affairs; but I will attend you awhile. : None
+Walks apart : ['None - []'] : ISABELLA
+DUKE VINCENTIO
+3.1 :Son, I have overheard what hath passed between you : None
+3.1 :and your sister. Angelo had never the purpose to : None
+3.1 :corrupt her; only he hath made an essay of her : None
+3.1 :virtue to practise his judgment with the disposition : None
+3.1 :of natures: she, having the truth of honour in her, : None
+3.1 :hath made him that gracious denial which he is most : None
+3.1 :glad to receive. I am confessor to Angelo, and I : None
+3.1 :know this to be true; therefore prepare yourself to : None
+3.1 :death: do not satisfy your resolution with hopes : None
+3.1 :that are fallible: tomorrow you must die; go to : None
+3.1 :your knees and make ready. : None
+CLAUDIO
+3.1 :Let me ask my sister pardon. I am so out of love : None
+3.1 :with life that I will sue to be rid of it. : None
+DUKE VINCENTIO
+3.1 :Hold you there: farewell. : None
+Exit CLAUDIO : ["Exit - ['CLAUDIO']"] : DUKE VINCENTIO
+3.1 :Provost, a word with you! : None
+Re-enter Provost : ["Re-enter - ['PROVOST']"] : DUKE VINCENTIO
+PROVOST
+3.1 :What's your will, father : None
+DUKE VINCENTIO
+3.1 :That now you are come, you will be gone. Leave me : None
+3.1 :awhile with the maid: my mind promises with my : None
+3.1 :habit no loss shall touch her by my company. : None
+PROVOST
+3.1 :In good time. : None
+Exit Provost. ISABELLA comes forward : ["Exit - ['PROVOST']", "None - ['ISABELLA']"] : PROVOST
+DUKE VINCENTIO
+3.1 :The hand that hath made you fair hath made you good: : None
+3.1 :the goodness that is cheap in beauty makes beauty : None
+3.1 :brief in goodness; but grace, being the soul of : None
+3.1 :your complexion, shall keep the body of it ever : None
+3.1 :fair. The assault that Angelo hath made to you, : None
+3.1 :fortune hath conveyed to my understanding; and, but : None
+3.1 :that frailty hath examples for his falling, I should : None
+3.1 :wonder at Angelo. How will you do to content this : None
+3.1 :substitute, and to save your brother? : None
+ISABELLA
+3.1 :I am now going to resolve him: I had rather my : None
+3.1 :brother die by the law than my son should be : None
+3.1 :unlawfully born. But, O, how much is the good duke : None
+3.1 :deceived in Angelo! If ever he return and I can : None
+3.1 :speak to him, I will open my lips in vain, or : None
+3.1 :discover his government. : None
+DUKE VINCENTIO
+3.1 :That shall not be much amiss: Yet, as the matter : None
+3.1 :now stands, he will avoid your accusation; he made : None
+3.1 :trial of you only. Therefore fasten your ear on my : None
+3.1 :advisings: to the love I have in doing good a : None
+3.1 :remedy presents itself. I do make myself believe : None
+3.1 :that you may most uprighteously do a poor wronged : None
+3.1 :lady a merited benefit; redeem your brother from : None
+3.1 :the angry law; do no stain to your own gracious : None
+3.1 :person; and much please the absent duke, if : None
+3.1 :peradventure he shall ever return to have hearing of : None
+3.1 :this business. : None
+ISABELLA
+3.1 :Let me hear you speak farther. I have spirit to do : None
+3.1 :anything that appears not foul in the truth of my spirit. : None
+DUKE VINCENTIO
+3.1 :Virtue is bold, and goodness never fearful. Have : None
+3.1 :you not heard speak of Mariana, the sister of : None
+3.1 :Frederick the great soldier who miscarried at sea? : None
+ISABELLA
+3.1 :I have heard of the lady, and good words went with her name. : None
+DUKE VINCENTIO
+3.1 :She should this Angelo have married; was affianced : None
+3.1 :to her by oath, and the nuptial appointed: between : None
+3.1 :which time of the contract and limit of the : None
+3.1 :solemnity, her brother Frederick was wrecked at sea, : None
+3.1 :having in that perished vessel the dowry of his : None
+3.1 :sister. But mark how heavily this befell to the : None
+3.1 :poor gentlewoman: there she lost a noble and : None
+3.1 :renowned brother, in his love toward her ever most : None
+3.1 :kind and natural; with him, the portion and sinew of : None
+3.1 :her fortune, her marriage-dowry; with both, her : None
+3.1 :combinate husband, this well-seeming Angelo. : None
+ISABELLA
+3.1 :Can this be so? did Angelo so leave her? : None
+DUKE VINCENTIO
+3.1 :Left her in her tears, and dried not one of them : None
+3.1 :with his comfort; swallowed his vows whole, : None
+3.1 :pretending in her discoveries of dishonour: in few, : None
+3.1 :bestowed her on her own lamentation, which she yet : None
+3.1 :wears for his sake; and he, a marble to her tears, : None
+3.1 :is washed with them, but relents not. : None
+ISABELLA
+3.1 :What a merit were it in death to take this poor maid : None
+3.1 :from the world! What corruption in this life, that : None
+3.1 :it will let this man live! But how out of this can she avail? : None
+DUKE VINCENTIO
+3.1 :It is a rupture that you may easily heal: and the : None
+3.1 :cure of it not only saves your brother, but keeps : None
+3.1 :you from dishonour in doing it. : None
+ISABELLA
+3.1 :Show me how, good father. : None
+DUKE VINCENTIO
+3.1 :This forenamed maid hath yet in her the continuance : None
+3.1 :of her first affection: his unjust unkindness, that : None
+3.1 :in all reason should have quenched her love, hath, : None
+3.1 :like an impediment in the current, made it more : None
+3.1 :violent and unruly. Go you to Angelo; answer his : None
+3.1 :requiring with a plausible obedience; agree with : None
+3.1 :his demands to the point; only refer yourself to : None
+3.1 :this advantage, first, that your stay with him may : None
+3.1 :not be long; that the time may have all shadow and : None
+3.1 :silence in it; and the place answer to convenience. : None
+3.1 :This being granted in course,--and now follows : None
+3.1 :all,--we shall advise this wronged maid to stead up : None
+3.1 :your appointment, go in your place; if the encounter : None
+3.1 :acknowledge itself hereafter, it may compel him to : None
+3.1 :her recompense: and here, by this, is your brother : None
+3.1 :saved, your honour untainted, the poor Mariana : None
+3.1 :advantaged, and the corrupt deputy scaled. The maid : None
+3.1 :will I frame and make fit for his attempt. If you : None
+3.1 :think well to carry this as you may, the doubleness : None
+3.1 :of the benefit defends the deceit from reproof. : None
+3.1 :What think you of it? : None
+ISABELLA
+3.1 :The image of it gives me content already; and I : None
+3.1 :trust it will grow to a most prosperous perfection. : None
+DUKE VINCENTIO
+3.1 :It lies much in your holding up. Haste you speedily : None
+3.1 :to Angelo: if for this night he entreat you to his : None
+3.1 :bed, give him promise of satisfaction. I will : None
+3.1 :presently to Saint Luke's: there, at the moated : None
+3.1 :grange, resides this dejected Mariana. At that : None
+3.1 :place call upon me; and dispatch with Angelo, that : None
+3.1 :it may be quickly. : None
+ISABELLA
+3.1 :I thank you for this comfort. Fare you well, good father. : None
+Exeunt severally : ['Exeunt - []'] : ISABELLA
+Scene(scene=2)
+Enter, on one side, DUKE VINCENTIO disguised as before; on the other, ELBOW, and Officers with POMPEY : ["Enter - ['DUKE', 'ELBOW', 'POMPEY']"] : ISABELLA
+ELBOW
+3.2 :Nay, if there be no remedy for it, but that you will : None
+3.2 :needs buy and sell men and women like beasts, we : None
+3.2 :shall have all the world drink brown and white bastard. : None
+DUKE VINCENTIO
+3.2 :O heavens! what stuff is here : None
+POMPEY
+3.2 :'Twas never merry world since, of two usuries, the : None
+3.2 :merriest was put down, and the worser allowed by : None
+3.2 :order of law a furred gown to keep him warm; and : None
+3.2 :furred with fox and lamb-skins too, to signify, that : None
+3.2 :craft, being richer than innocency, stands for the facing. : None
+ELBOW
+3.2 :Come your way, sir. 'Bless you, good father friar. : None
+DUKE VINCENTIO
+3.2 :And you, good brother father. What offence hath : None
+3.2 :this man made you, sir? : None
+ELBOW
+3.2 :Marry, sir, he hath offended the law: and, sir, we : None
+3.2 :take him to be a thief too, sir; for we have found : None
+3.2 :upon him, sir, a strange picklock, which we have : None
+3.2 :sent to the deputy. : None
+DUKE VINCENTIO
+3.2 :Fie, sirrah! a bawd, a wicked bawd! : None
+3.2 :The evil that thou causest to be done, : None
+3.2 :That is thy means to live. Do thou but think : None
+3.2 :What 'tis to cram a maw or clothe a back : None
+3.2 :From such a filthy vice: say to thyself, : None
+3.2 :From their abominable and beastly touches : None
+3.2 :I drink, I eat, array myself, and live. : None
+3.2 :Canst thou believe thy living is a life, : None
+3.2 :So stinkingly depending? Go mend, go mend. : None
+POMPEY
+3.2 :Indeed, it does stink in some sort, sir; but yet, : None
+3.2 :sir, I would prove-- : None
+DUKE VINCENTIO
+3.2 :Nay, if the devil have given thee proofs for sin, : None
+3.2 :Thou wilt prove his. Take him to prison, officer: : None
+3.2 :Correction and instruction must both work : None
+3.2 :Ere this rude beast will profit. : None
+ELBOW
+3.2 :He must before the deputy, sir; he has given him : None
+3.2 :warning: the deputy cannot abide a whoremaster: if : None
+3.2 :he be a whoremonger, and comes before him, he were : None
+3.2 :as good go a mile on his errand. : None
+DUKE VINCENTIO
+3.2 :That we were all, as some would seem to be, : None
+3.2 :From our faults, as faults from seeming, free! : None
+ELBOW
+3.2 :His neck will come to your waist,--a cord, sir. : None
+POMPEY
+3.2 :I spy comfort; I cry bail. Here's a gentleman and a : None
+3.2 :friend of mine. : None
+Enter LUCIO : ["Enter - ['LUCIO']"] : POMPEY
+LUCIO
+3.2 :How now, noble Pompey! What, at the wheels of : None
+3.2 :Caesar? art thou led in triumph? What, is there : None
+3.2 :none of Pygmalion's images, newly made woman, to be : None
+3.2 :had now, for putting the hand in the pocket and : None
+3.2 :extracting it clutch'd? What reply, ha? What : None
+3.2 :sayest thou to this tune, matter and method? Is't : None
+3.2 :not drowned i' the last rain, ha? What sayest : None
+3.2 :thou, Trot? Is the world as it was, man? Which is : None
+3.2 :the way? Is it sad, and few words? or how? The : None
+3.2 :trick of it? : None
+DUKE VINCENTIO
+3.2 :Still thus, and thus; still worse! : None
+LUCIO
+3.2 :How doth my dear morsel, thy mistress? Procures she : None
+3.2 :still, ha? : None
+POMPEY
+3.2 :Troth, sir, she hath eaten up all her beef, and she : None
+3.2 :is herself in the tub. : None
+LUCIO
+3.2 :Why, 'tis good; it is the right of it; it must be : None
+3.2 :so: ever your fresh whore and your powdered bawd: : None
+3.2 :an unshunned consequence; it must be so. Art going : None
+3.2 :to prison, Pompey? : None
+POMPEY
+3.2 :Yes, faith, sir. : None
+LUCIO
+3.2 :Why, 'tis not amiss, Pompey. Farewell: go, say I : None
+3.2 :sent thee thither. For debt, Pompey? or how? : None
+ELBOW
+3.2 :For being a bawd, for being a bawd. : None
+LUCIO
+3.2 :Well, then, imprison him: if imprisonment be the : None
+3.2 :due of a bawd, why, 'tis his right: bawd is he : None
+3.2 :doubtless, and of antiquity too; bawd-born. : None
+3.2 :Farewell, good Pompey. Commend me to the prison, : None
+3.2 :Pompey: you will turn good husband now, Pompey; you : None
+3.2 :will keep the house. : None
+POMPEY
+3.2 :I hope, sir, your good worship will be my bail. : None
+LUCIO
+3.2 :No, indeed, will I not, Pompey; it is not the wear. : None
+3.2 :I will pray, Pompey, to increase your bondage: If : None
+3.2 :you take it not patiently, why, your mettle is the : None
+3.2 :more. Adieu, trusty Pompey. 'Bless you, friar. : None
+DUKE VINCENTIO
+3.2 :And you. : None
+LUCIO
+3.2 :Does Bridget paint still, Pompey, ha? : None
+ELBOW
+3.2 :Come your ways, sir; come. : None
+POMPEY
+3.2 :You will not bail me, then, sir? : None
+LUCIO
+3.2 :Then, Pompey, nor now. What news abroad, friar? : None
+3.2 :what news? : None
+ELBOW
+3.2 :Come your ways, sir; come. : None
+LUCIO
+3.2 :Go to kennel, Pompey; go. : None
+Exeunt ELBOW, POMPEY and Officers : ["Exeunt - ['ELBOW', 'POMPEY']"] : LUCIO
+3.2 :What news, friar, of the duke? : None
+DUKE VINCENTIO
+3.2 :I know none. Can you tell me of any? : None
+LUCIO
+3.2 :Some say he is with the Emperor of Russia; other : None
+3.2 :some, he is in Rome: but where is he, think you? : None
+DUKE VINCENTIO
+3.2 :I know not where; but wheresoever, I wish him well. : None
+LUCIO
+3.2 :It was a mad fantastical trick of him to steal from : None
+3.2 :the state, and usurp the beggary he was never born : None
+3.2 :to. Lord Angelo dukes it well in his absence; he : None
+3.2 :puts transgression to 't. : None
+DUKE VINCENTIO
+3.2 :He does well in 't. : None
+LUCIO
+3.2 :A little more lenity to lechery would do no harm in : None
+3.2 :him: something too crabbed that way, friar. : None
+DUKE VINCENTIO
+3.2 :It is too general a vice, and severity must cure it. : None
+LUCIO
+3.2 :Yes, in good sooth, the vice is of a great kindred; : None
+3.2 :it is well allied: but it is impossible to extirp : None
+3.2 :it quite, friar, till eating and drinking be put : None
+3.2 :down. They say this Angelo was not made by man and : None
+3.2 :woman after this downright way of creation: is it : None
+3.2 :true, think you? : None
+DUKE VINCENTIO
+3.2 :How should he be made, then? : None
+LUCIO
+3.2 :Some report a sea-maid spawned him; some, that he : None
+3.2 :was begot between two stock-fishes. But it is : None
+3.2 :certain that when he makes water his urine is : None
+3.2 :congealed ice; that I know to be true: and he is a : None
+3.2 :motion generative; that's infallible. : None
+DUKE VINCENTIO
+3.2 :You are pleasant, sir, and speak apace. : None
+LUCIO
+3.2 :Why, what a ruthless thing is this in him, for the : None
+3.2 :rebellion of a codpiece to take away the life of a : None
+3.2 :man! Would the duke that is absent have done this? : None
+3.2 :Ere he would have hanged a man for the getting a : None
+3.2 :hundred bastards, he would have paid for the nursing : None
+3.2 :a thousand: he had some feeling of the sport: he : None
+3.2 :knew the service, and that instructed him to mercy. : None
+DUKE VINCENTIO
+3.2 :I never heard the absent duke much detected for : None
+3.2 :women; he was not inclined that way. : None
+LUCIO
+3.2 :O, sir, you are deceived. : None
+DUKE VINCENTIO
+3.2 :'Tis not possible. : None
+LUCIO
+3.2 :Who, not the duke? yes, your beggar of fifty; and : None
+3.2 :his use was to put a ducat in her clack-dish: the : None
+3.2 :duke had crotchets in him. He would be drunk too; : None
+3.2 :that let me inform you. : None
+DUKE VINCENTIO
+3.2 :You do him wrong, surely. : None
+LUCIO
+3.2 :Sir, I was an inward of his. A shy fellow was the : None
+3.2 :duke: and I believe I know the cause of his : None
+3.2 :withdrawing. : None
+DUKE VINCENTIO
+3.2 :What, I prithee, might be the cause? : None
+LUCIO
+3.2 :No, pardon; 'tis a secret must be locked within the : None
+3.2 :teeth and the lips: but this I can let you : None
+3.2 :understand, the greater file of the subject held the : None
+3.2 :duke to be wise. : None
+DUKE VINCENTIO
+3.2 :Wise! why, no question but he was. : None
+LUCIO
+3.2 :A very superficial, ignorant, unweighing fellow. : None
+DUKE VINCENTIO
+3.2 :Either this is the envy in you, folly, or mistaking: : None
+3.2 :the very stream of his life and the business he hath : None
+3.2 :helmed must upon a warranted need give him a better : None
+3.2 :proclamation. Let him be but testimonied in his own : None
+3.2 :bringings-forth, and he shall appear to the : None
+3.2 :envious a scholar, a statesman and a soldier. : None
+3.2 :Therefore you speak unskilfully: or if your : None
+3.2 :knowledge be more it is much darkened in your malice. : None
+LUCIO
+3.2 :Sir, I know him, and I love him. : None
+DUKE VINCENTIO
+3.2 :Love talks with better knowledge, and knowledge with : None
+3.2 :dearer love. : None
+LUCIO
+3.2 :Come, sir, I know what I know. : None
+DUKE VINCENTIO
+3.2 :I can hardly believe that, since you know not what : None
+3.2 :you speak. But, if ever the duke return, as our : None
+3.2 :prayers are he may, let me desire you to make your : None
+3.2 :answer before him. If it be honest you have spoke, : None
+3.2 :you have courage to maintain it: I am bound to call : None
+3.2 :upon you; and, I pray you, your name? : None
+LUCIO
+3.2 :Sir, my name is Lucio; well known to the duke. : None
+DUKE VINCENTIO
+3.2 :He shall know you better, sir, if I may live to : None
+3.2 :report you. : None
+LUCIO
+3.2 :I fear you not. : None
+DUKE VINCENTIO
+3.2 :O, you hope the duke will return no more; or you : None
+3.2 :imagine me too unhurtful an opposite. But indeed I : None
+3.2 :can do you little harm; you'll forswear this again. : None
+LUCIO
+3.2 :I'll be hanged first: thou art deceived in me, : None
+3.2 :friar. But no more of this. Canst thou tell if : None
+3.2 :Claudio die to-morrow or no? : None
+DUKE VINCENTIO
+3.2 :Why should he die, sir? : None
+LUCIO
+3.2 :Why? For filling a bottle with a tundish. I would : None
+3.2 :the duke we talk of were returned again: the : None
+3.2 :ungenitured agent will unpeople the province with : None
+3.2 :continency; sparrows must not build in his : None
+3.2 :house-eaves, because they are lecherous. The duke : None
+3.2 :yet would have dark deeds darkly answered; he would : None
+3.2 :never bring them to light: would he were returned! : None
+3.2 :Marry, this Claudio is condemned for untrussing. : None
+3.2 :Farewell, good friar: I prithee, pray for me. The : None
+3.2 :duke, I say to thee again, would eat mutton on : None
+3.2 :Fridays. He's not past it yet, and I say to thee, : None
+3.2 :he would mouth with a beggar, though she smelt brown : None
+3.2 :bread and garlic: say that I said so. Farewell. : None
+Exit : ['Exit - []'] : LUCIO
+DUKE VINCENTIO
+3.2 :No might nor greatness in mortality : None
+3.2 :Can censure 'scape; back-wounding calumny : None
+3.2 :The whitest virtue strikes. What king so strong : None
+3.2 :Can tie the gall up in the slanderous tongue? : None
+3.2 :But who comes here? : None
+Enter ESCALUS, Provost, and Officers with MISTRESS OVERDONE : ["Enter - ['ESCALUS', 'PROVOST', 'MISTRESS OVERDONE']"] : DUKE VINCENTIO
+ESCALUS
+3.2 :Go; away with her to prison! : None
+MISTRESS OVERDONE
+3.2 :Good my lord, be good to me; your honour is accounted : None
+3.2 :a merciful man; good my lord. : None
+ESCALUS
+3.2 :Double and treble admonition, and still forfeit in : None
+3.2 :the same kind! This would make mercy swear and play : None
+3.2 :the tyrant. : None
+PROVOST
+3.2 :A bawd of eleven years' continuance, may it please : None
+3.2 :your honour. : None
+MISTRESS OVERDONE
+3.2 :My lord, this is one Lucio's information against me. : None
+3.2 :Mistress Kate Keepdown was with child by him in the : None
+3.2 :duke's time; he promised her marriage: his child : None
+3.2 :is a year and a quarter old, come Philip and Jacob: : None
+3.2 :I have kept it myself; and see how he goes about to abuse me! : None
+ESCALUS
+3.2 :That fellow is a fellow of much licence: let him be : None
+3.2 :called before us. Away with her to prison! Go to; : None
+3.2 :no more words. : None
+Exeunt Officers with MISTRESS OVERDONE : ["Exeunt - ['MISTRESS OVERDONE']"] : ESCALUS
+3.2 :Provost, my brother Angelo will not be altered; : None
+3.2 :Claudio must die to-morrow: let him be furnished : None
+3.2 :with divines, and have all charitable preparation. : None
+3.2 :if my brother wrought by my pity, it should not be : None
+3.2 :so with him. : None
+PROVOST
+3.2 :So please you, this friar hath been with him, and : None
+3.2 :advised him for the entertainment of death. : None
+ESCALUS
+3.2 :Good even, good father. : None
+DUKE VINCENTIO
+3.2 :Bliss and goodness on you! : None
+ESCALUS
+3.2 :Of whence are you? : None
+DUKE VINCENTIO
+3.2 :Not of this country, though my chance is now : None
+3.2 :To use it for my time: I am a brother : None
+3.2 :Of gracious order, late come from the See : None
+3.2 :In special business from his holiness. : None
+ESCALUS
+3.2 :What news abroad i' the world? : None
+DUKE VINCENTIO
+3.2 :None, but that there is so great a fever on : None
+3.2 :goodness, that the dissolution of it must cure it: : None
+3.2 :novelty is only in request; and it is as dangerous : None
+3.2 :to be aged in any kind of course, as it is virtuous : None
+3.2 :to be constant in any undertaking. There is scarce : None
+3.2 :truth enough alive to make societies secure; but : None
+3.2 :security enough to make fellowships accurst: much : None
+3.2 :upon this riddle runs the wisdom of the world. This : None
+3.2 :news is old enough, yet it is every day's news. I : None
+3.2 :pray you, sir, of what disposition was the duke? : None
+ESCALUS
+3.2 :One that, above all other strifes, contended : None
+3.2 :especially to know himself. : None
+DUKE VINCENTIO
+3.2 :What pleasure was he given to? : None
+ESCALUS
+3.2 :Rather rejoicing to see another merry, than merry at : None
+3.2 :any thing which professed to make him rejoice: a : None
+3.2 :gentleman of all temperance. But leave we him to : None
+3.2 :his events, with a prayer they may prove prosperous; : None
+3.2 :and let me desire to know how you find Claudio : None
+3.2 :prepared. I am made to understand that you have : None
+3.2 :lent him visitation. : None
+DUKE VINCENTIO
+3.2 :He professes to have received no sinister measure : None
+3.2 :from his judge, but most willingly humbles himself : None
+3.2 :to the determination of justice: yet had he framed : None
+3.2 :to himself, by the instruction of his frailty, many : None
+3.2 :deceiving promises of life; which I by my good : None
+3.2 :leisure have discredited to him, and now is he : None
+3.2 :resolved to die. : None
+ESCALUS
+3.2 :You have paid the heavens your function, and the : None
+3.2 :prisoner the very debt of your calling. I have : None
+3.2 :laboured for the poor gentleman to the extremest : None
+3.2 :shore of my modesty: but my brother justice have I : None
+3.2 :found so severe, that he hath forced me to tell him : None
+3.2 :he is indeed Justice. : None
+DUKE VINCENTIO
+3.2 :If his own life answer the straitness of his : None
+3.2 :proceeding, it shall become him well; wherein if he : None
+3.2 :chance to fail, he hath sentenced himself. : None
+ESCALUS
+3.2 :I am going to visit the prisoner. Fare you well. : None
+DUKE VINCENTIO
+3.2 :Peace be with you! : None
+Exeunt ESCALUS and Provost : ["Exeunt - ['ESCALUS', 'PROVOST']"] : DUKE VINCENTIO
+3.2 :He who the sword of heaven will bear : None
+3.2 :Should be as holy as severe; : None
+3.2 :Pattern in himself to know, : None
+3.2 :Grace to stand, and virtue go; : None
+3.2 :More nor less to others paying : None
+3.2 :Than by self-offences weighing. : None
+3.2 :Shame to him whose cruel striking : None
+3.2 :Kills for faults of his own liking! : None
+3.2 :Twice treble shame on Angelo, : None
+3.2 :To weed my vice and let his grow! : None
+3.2 :O, what may man within him hide, : None
+3.2 :Though angel on the outward side! : None
+3.2 :How may likeness made in crimes, : None
+3.2 :Making practise on the times, : None
+3.2 :To draw with idle spiders' strings : None
+3.2 :Most ponderous and substantial things! : None
+3.2 :Craft against vice I must apply: : None
+3.2 :With Angelo to-night shall lie : None
+3.2 :His old betrothed but despised; : None
+3.2 :So disguise shall, by the disguised, : None
+3.2 :Pay with falsehood false exacting, : None
+3.2 :And perform an old contracting. : None
+Exit : ['Exit - []'] : DUKE VINCENTIO
+Act(act=4)
+Scene(scene=1)
+Enter MARIANA and a Boy : ["Enter - ['MARIANA']"] : DUKE VINCENTIO
+Boy sings : ['None - []'] : DUKE VINCENTIO
+4.1 :Take, O, take those lips away, : None
+4.1 :That so sweetly were forsworn; : None
+4.1 :And those eyes, the break of day, : None
+4.1 :Lights that do mislead the morn: : None
+4.1 :But my kisses bring again, bring again; : None
+4.1 :Seals of love, but sealed in vain, sealed in vain. : None
+MARIANA
+4.1 :Break off thy song, and haste thee quick away: : None
+4.1 :Here comes a man of comfort, whose advice : None
+4.1 :Hath often still'd my brawling discontent. : None
+Exit Boy : ['Exit - []'] : MARIANA
+Enter DUKE VINCENTIO disguised as before : ["Enter - ['DUKE']"] : MARIANA
+4.1 :I cry you mercy, sir; and well could wish : None
+4.1 :You had not found me here so musical: : None
+4.1 :Let me excuse me, and believe me so, : None
+4.1 :My mirth it much displeased, but pleased my woe. : None
+DUKE VINCENTIO
+4.1 :'Tis good; though music oft hath such a charm : None
+4.1 :To make bad good, and good provoke to harm. : None
+4.1 :I pray, you, tell me, hath any body inquired : None
+4.1 :for me here to-day? much upon this time have : None
+4.1 :I promised here to meet. : None
+MARIANA
+4.1 :You have not been inquired after: : None
+4.1 :I have sat here all day. : None
+Enter ISABELLA : ["Enter - ['ISABELLA']"] : MARIANA
+DUKE VINCENTIO
+4.1 :I do constantly believe you. The time is come even : None
+4.1 :now. I shall crave your forbearance a little: may : None
+4.1 :be I will call upon you anon, for some advantage to yourself. : None
+MARIANA
+4.1 :I am always bound to you. : None
+Exit : ['Exit - []'] : MARIANA
+DUKE VINCENTIO
+4.1 :Very well met, and well come. : None
+4.1 :What is the news from this good deputy? : None
+ISABELLA
+4.1 :He hath a garden circummured with brick, : None
+4.1 :Whose western side is with a vineyard back'd; : None
+4.1 :And to that vineyard is a planched gate, : None
+4.1 :That makes his opening with this bigger key: : None
+4.1 :This other doth command a little door : None
+4.1 :Which from the vineyard to the garden leads; : None
+4.1 :There have I made my promise : None
+4.1 :Upon the heavy middle of the night : None
+4.1 :To call upon him. : None
+DUKE VINCENTIO
+4.1 :But shall you on your knowledge find this way? : None
+ISABELLA
+4.1 :I have ta'en a due and wary note upon't: : None
+4.1 :With whispering and most guilty diligence, : None
+4.1 :In action all of precept, he did show me : None
+4.1 :The way twice o'er. : None
+DUKE VINCENTIO
+4.1 :Are there no other tokens : None
+4.1 :Between you 'greed concerning her observance? : None
+ISABELLA
+4.1 :No, none, but only a repair i' the dark; : None
+4.1 :And that I have possess'd him my most stay : None
+4.1 :Can be but brief; for I have made him know : None
+4.1 :I have a servant comes with me along, : None
+4.1 :That stays upon me, whose persuasion is : None
+4.1 :I come about my brother. : None
+DUKE VINCENTIO
+4.1 :'Tis well borne up. : None
+4.1 :I have not yet made known to Mariana : None
+4.1 :A word of this. What, ho! within! come forth! : None
+Re-enter MARIANA : ["Re-enter - ['MARIANA']"] : DUKE VINCENTIO
+4.1 :I pray you, be acquainted with this maid; : None
+4.1 :She comes to do you good. : None
+ISABELLA
+4.1 :I do desire the like. : None
+DUKE VINCENTIO
+4.1 :Do you persuade yourself that I respect you? : None
+MARIANA
+4.1 :Good friar, I know you do, and have found it. : None
+DUKE VINCENTIO
+4.1 :Take, then, this your companion by the hand, : None
+4.1 :Who hath a story ready for your ear. : None
+4.1 :I shall attend your leisure: but make haste; : None
+4.1 :The vaporous night approaches. : None
+MARIANA
+4.1 :Will't please you walk aside? : None
+Exeunt MARIANA and ISABELLA : ["Exeunt - ['MARIANA', 'ISABELLA']"] : MARIANA
+DUKE VINCENTIO
+4.1 :O place and greatness! millions of false eyes : None
+4.1 :Are stuck upon thee: volumes of report : None
+4.1 :Run with these false and most contrarious quests : None
+4.1 :Upon thy doings: thousand escapes of wit : None
+4.1 :Make thee the father of their idle dreams : None
+4.1 :And rack thee in their fancies. : None
+Re-enter MARIANA and ISABELLA : ["Re-enter - ['MARIANA', 'ISABELLA']"] : DUKE VINCENTIO
+4.1 :Welcome, how agreed? : None
+ISABELLA
+4.1 :She'll take the enterprise upon her, father, : None
+4.1 :If you advise it. : None
+DUKE VINCENTIO
+4.1 :                  It is not my consent, : None
+4.1 :But my entreaty too. : None
+ISABELLA
+4.1 :Little have you to say : None
+4.1 :When you depart from him, but, soft and low, : None
+4.1 :'Remember now my brother.' : None
+MARIANA
+4.1 :Fear me not. : None
+DUKE VINCENTIO
+4.1 :Nor, gentle daughter, fear you not at all. : None
+4.1 :He is your husband on a pre-contract: : None
+4.1 :To bring you thus together, 'tis no sin, : None
+4.1 :Sith that the justice of your title to him : None
+4.1 :Doth flourish the deceit. Come, let us go: : None
+4.1 :Our corn's to reap, for yet our tithe's to sow. : None
+Exeunt : ['Exeunt - []'] : DUKE VINCENTIO
+Scene(scene=2)
+Enter Provost and POMPEY : ["Enter - ['PROVOST', 'POMPEY']"] : DUKE VINCENTIO
+PROVOST
+4.2 :Come hither, sirrah. Can you cut off a man's head? : None
+POMPEY
+4.2 :If the man be a bachelor, sir, I can; but if he be a : None
+4.2 :married man, he's his wife's head, and I can never : None
+4.2 :cut off a woman's head. : None
+PROVOST
+4.2 :Come, sir, leave me your snatches, and yield me a : None
+4.2 :direct answer. To-morrow morning are to die Claudio : None
+4.2 :and Barnardine. Here is in our prison a common : None
+4.2 :executioner, who in his office lacks a helper: if : None
+4.2 :you will take it on you to assist him, it shall : None
+4.2 :redeem you from your gyves; if not, you shall have : None
+4.2 :your full time of imprisonment and your deliverance : None
+4.2 :with an unpitied whipping, for you have been a : None
+4.2 :notorious bawd. : None
+POMPEY
+4.2 :Sir, I have been an unlawful bawd time out of mind; : None
+4.2 :but yet I will be content to be a lawful hangman. I : None
+4.2 :would be glad to receive some instruction from my : None
+4.2 :fellow partner. : None
+PROVOST
+4.2 :What, ho! Abhorson! Where's Abhorson, there? : None
+Enter ABHORSON : ["Enter - ['ABHORSON']"] : PROVOST
+ABHORSON
+4.2 :Do you call, sir? : None
+PROVOST
+4.2 :Sirrah, here's a fellow will help you to-morrow in : None
+4.2 :your execution. If you think it meet, compound with : None
+4.2 :him by the year, and let him abide here with you; if : None
+4.2 :not, use him for the present and dismiss him. He : None
+4.2 :cannot plead his estimation with you; he hath been a bawd. : None
+ABHORSON
+4.2 :A bawd, sir? fie upon him! he will discredit our mystery. : None
+PROVOST
+4.2 :Go to, sir; you weigh equally; a feather will turn : None
+4.2 :the scale. : None
+Exit : ['Exit - []'] : PROVOST
+POMPEY
+4.2 :Pray, sir, by your good favour,--for surely, sir, a : None
+4.2 :good favour you have, but that you have a hanging : None
+4.2 :look,--do you call, sir, your occupation a mystery? : None
+ABHORSON
+4.2 :Ay, sir; a mystery : None
+POMPEY
+4.2 :Painting, sir, I have heard say, is a mystery; and : None
+4.2 :your whores, sir, being members of my occupation, : None
+4.2 :using painting, do prove my occupation a mystery: : None
+4.2 :but what mystery there should be in hanging, if I : None
+4.2 :should be hanged, I cannot imagine. : None
+ABHORSON
+4.2 :Sir, it is a mystery. : None
+POMPEY
+4.2 :Proof? : None
+ABHORSON
+4.2 :Every true man's apparel fits your thief: if it be : None
+4.2 :too little for your thief, your true man thinks it : None
+4.2 :big enough; if it be too big for your thief, your : None
+4.2 :thief thinks it little enough: so every true man's : None
+4.2 :apparel fits your thief. : None
+Re-enter Provost : ["Re-enter - ['PROVOST']"] : ABHORSON
+PROVOST
+4.2 :Are you agreed? : None
+POMPEY
+4.2 :Sir, I will serve him; for I do find your hangman is : None
+4.2 :a more penitent trade than your bawd; he doth : None
+4.2 :oftener ask forgiveness. : None
+PROVOST
+4.2 :You, sirrah, provide your block and your axe : None
+4.2 :to-morrow four o'clock. : None
+ABHORSON
+4.2 :Come on, bawd; I will instruct thee in my trade; follow. : None
+POMPEY
+4.2 :I do desire to learn, sir: and I hope, if you have : None
+4.2 :occasion to use me for your own turn, you shall find : None
+4.2 :me yare; for truly, sir, for your kindness I owe you : None
+4.2 :a good turn. : None
+PROVOST
+4.2 :Call hither Barnardine and Claudio: : None
+Exeunt POMPEY and ABHORSON : ["Exeunt - ['POMPEY', 'ABHORSON']"] : PROVOST
+4.2 :The one has my pity; not a jot the other, : None
+4.2 :Being a murderer, though he were my brother. : None
+Enter CLAUDIO : ["Enter - ['CLAUDIO']"] : PROVOST
+4.2 :Look, here's the warrant, Claudio, for thy death: : None
+4.2 :'Tis now dead midnight, and by eight to-morrow : None
+4.2 :Thou must be made immortal. Where's Barnardine? : None
+CLAUDIO
+4.2 :As fast lock'd up in sleep as guiltless labour : None
+4.2 :When it lies starkly in the traveller's bones: : None
+4.2 :He will not wake. : None
+PROVOST
+4.2 :                  Who can do good on him? : None
+4.2 :Well, go, prepare yourself. : None
+Knocking within : ['None - []'] : PROVOST
+4.2 :But, hark, what noise? : None
+4.2 :Heaven give your spirits comfort! : None
+Exit CLAUDIO : ["Exit - ['CLAUDIO']"] : PROVOST
+4.2 :By and by. : None
+4.2 :I hope it is some pardon or reprieve : None
+4.2 :For the most gentle Claudio. : None
+Enter DUKE VINCENTIO disguised as before : ["Enter - ['DUKE']"] : PROVOST
+4.2 :Welcome father. : None
+DUKE VINCENTIO
+4.2 :The best and wholesomest spirts of the night : None
+4.2 :Envelope you, good Provost! Who call'd here of late? : None
+PROVOST
+4.2 :None, since the curfew rung. : None
+DUKE VINCENTIO
+4.2 :Not Isabel? : None
+PROVOST
+4.2 :          No. : None
+DUKE VINCENTIO
+4.2 :                  They will, then, ere't be long. : None
+PROVOST
+4.2 :What comfort is for Claudio? : None
+DUKE VINCENTIO
+4.2 :There's some in hope. : None
+PROVOST
+4.2 :It is a bitter deputy. : None
+DUKE VINCENTIO
+4.2 :Not so, not so; his life is parallel'd : None
+4.2 :Even with the stroke and line of his great justice: : None
+4.2 :He doth with holy abstinence subdue : None
+4.2 :That in himself which he spurs on his power : None
+4.2 :To qualify in others: were he meal'd with that : None
+4.2 :Which he corrects, then were he tyrannous; : None
+4.2 :But this being so, he's just. : None
+Knocking within : ['None - []'] : DUKE VINCENTIO
+4.2 :Now are they come. : None
+Exit Provost : ["Exit - ['PROVOST']"] : DUKE VINCENTIO
+4.2 :This is a gentle provost: seldom when : None
+4.2 :The steeled gaoler is the friend of men. : None
+Knocking within : ['None - []'] : DUKE VINCENTIO
+4.2 :How now! what noise? That spirit's possessed with haste : None
+4.2 :That wounds the unsisting postern with these strokes. : None
+Re-enter Provost : ["Re-enter - ['PROVOST']"] : DUKE VINCENTIO
+PROVOST
+4.2 :There he must stay until the officer : None
+4.2 :Arise to let him in: he is call'd up. : None
+DUKE VINCENTIO
+4.2 :Have you no countermand for Claudio yet, : None
+4.2 :But he must die to-morrow? : None
+PROVOST
+4.2 :None, sir, none. : None
+DUKE VINCENTIO
+4.2 :As near the dawning, provost, as it is, : None
+4.2 :You shall hear more ere morning. : None
+PROVOST
+4.2 :Happily : None
+4.2 :You something know; yet I believe there comes : None
+4.2 :No countermand; no such example have we: : None
+4.2 :Besides, upon the very siege of justice : None
+4.2 :Lord Angelo hath to the public ear : None
+4.2 :Profess'd the contrary. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : PROVOST
+4.2 :This is his lordship's man. : None
+DUKE VINCENTIO
+4.2 :And here comes Claudio's pardon. : None
+MESSENGER
+4.2 : : Giving a paper : ['None - []'] : MESSENGER
+4.2 :My lord hath sent you this note; and by me this : None
+4.2 :further charge, that you swerve not from the : None
+4.2 :smallest article of it, neither in time, matter, or : None
+4.2 :other circumstance. Good morrow; for, as I take it, : None
+4.2 :it is almost day. : None
+PROVOST
+4.2 :I shall obey him. : None
+Exit Messenger : ["Exit - ['MESSENGER']"] : PROVOST
+DUKE VINCENTIO
+4.2 :  This is his pardon, purchased by such sin : Aside : ['Aside - []'] : DUKE VINCENTIO
+4.2 :For which the pardoner himself is in. : None
+4.2 :Hence hath offence his quick celerity, : None
+4.2 :When it is born in high authority: : None
+4.2 :When vice makes mercy, mercy's so extended, : None
+4.2 :That for the fault's love is the offender friended. : None
+4.2 :Now, sir, what news? : None
+PROVOST
+4.2 :I told you. Lord Angelo, belike thinking me remiss : None
+4.2 :in mine office, awakens me with this unwonted : None
+4.2 :putting-on; methinks strangely, for he hath not used it before. : None
+DUKE VINCENTIO
+4.2 :Pray you, let's hear. : None
+PROVOST
+4.2 : : Reads : ['Read - []'] : PROVOST
+4.2 :'Whatsoever you may hear to the contrary, let : None
+4.2 :Claudio be executed by four of the clock; and in the : None
+4.2 :afternoon Barnardine: for my better satisfaction, : None
+4.2 :let me have Claudio's head sent me by five. Let : None
+4.2 :this be duly performed; with a thought that more : None
+4.2 :depends on it than we must yet deliver. Thus fail : None
+4.2 :not to do your office, as you will answer it at your peril.' : None
+4.2 :What say you to this, sir? : None
+DUKE VINCENTIO
+4.2 :What is that Barnardine who is to be executed in the : None
+4.2 :afternoon? : None
+PROVOST
+4.2 :A Bohemian born, but here nursed un and bred; one : None
+4.2 :that is a prisoner nine years old. : None
+DUKE VINCENTIO
+4.2 :How came it that the absent duke had not either : None
+4.2 :delivered him to his liberty or executed him? I : None
+4.2 :have heard it was ever his manner to do so. : None
+PROVOST
+4.2 :His friends still wrought reprieves for him: and, : None
+4.2 :indeed, his fact, till now in the government of Lord : None
+4.2 :Angelo, came not to an undoubtful proof. : None
+DUKE VINCENTIO
+4.2 :It is now apparent? : None
+PROVOST
+4.2 :Most manifest, and not denied by himself. : None
+DUKE VINCENTIO
+4.2 :Hath he born himself penitently in prison? how : None
+4.2 :seems he to be touched? : None
+PROVOST
+4.2 :A man that apprehends death no more dreadfully but : None
+4.2 :as a drunken sleep; careless, reckless, and fearless : None
+4.2 :of what's past, present, or to come; insensible of : None
+4.2 :mortality, and desperately mortal. : None
+DUKE VINCENTIO
+4.2 :He wants advice. : None
+PROVOST
+4.2 :He will hear none: he hath evermore had the liberty : None
+4.2 :of the prison; give him leave to escape hence, he : None
+4.2 :would not: drunk many times a day, if not many days : None
+4.2 :entirely drunk. We have very oft awaked him, as if : None
+4.2 :to carry him to execution, and showed him a seeming : None
+4.2 :warrant for it: it hath not moved him at all. : None
+DUKE VINCENTIO
+4.2 :More of him anon. There is written in your brow, : None
+4.2 :provost, honesty and constancy: if I read it not : None
+4.2 :truly, my ancient skill beguiles me; but, in the : None
+4.2 :boldness of my cunning, I will lay myself in hazard. : None
+4.2 :Claudio, whom here you have warrant to execute, is : None
+4.2 :no greater forfeit to the law than Angelo who hath : None
+4.2 :sentenced him. To make you understand this in a : None
+4.2 :manifested effect, I crave but four days' respite; : None
+4.2 :for the which you are to do me both a present and a : None
+4.2 :dangerous courtesy. : None
+PROVOST
+4.2 :Pray, sir, in what? : None
+DUKE VINCENTIO
+4.2 :In the delaying death. : None
+PROVOST
+4.2 :A lack, how may I do it, having the hour limited, : None
+4.2 :and an express command, under penalty, to deliver : None
+4.2 :his head in the view of Angelo? I may make my case : None
+4.2 :as Claudio's, to cross this in the smallest. : None
+DUKE VINCENTIO
+4.2 :By the vow of mine order I warrant you, if my : None
+4.2 :instructions may be your guide. Let this Barnardine : None
+4.2 :be this morning executed, and his head born to Angelo. : None
+PROVOST
+4.2 :Angelo hath seen them both, and will discover the favour. : None
+DUKE VINCENTIO
+4.2 :O, death's a great disguiser; and you may add to it. : None
+4.2 :Shave the head, and tie the beard; and say it was : None
+4.2 :the desire of the penitent to be so bared before his : None
+4.2 :death: you know the course is common. If any thing : None
+4.2 :fall to you upon this, more than thanks and good : None
+4.2 :fortune, by the saint whom I profess, I will plead : None
+4.2 :against it with my life. : None
+PROVOST
+4.2 :Pardon me, good father; it is against my oath. : None
+DUKE VINCENTIO
+4.2 :Were you sworn to the duke, or to the deputy? : None
+PROVOST
+4.2 :To him, and to his substitutes. : None
+DUKE VINCENTIO
+4.2 :You will think you have made no offence, if the duke : None
+4.2 :avouch the justice of your dealing? : None
+PROVOST
+4.2 :But what likelihood is in that? : None
+DUKE VINCENTIO
+4.2 :Not a resemblance, but a certainty. Yet since I see : None
+4.2 :you fearful, that neither my coat, integrity, nor : None
+4.2 :persuasion can with ease attempt you, I will go : None
+4.2 :further than I meant, to pluck all fears out of you. : None
+4.2 :Look you, sir, here is the hand and seal of the : None
+4.2 :duke: you know the character, I doubt not; and the : None
+4.2 :signet is not strange to you. : None
+PROVOST
+4.2 :I know them both. : None
+DUKE VINCENTIO
+4.2 :The contents of this is the return of the duke: you : None
+4.2 :shall anon over-read it at your pleasure; where you : None
+4.2 :shall find, within these two days he will be here. : None
+4.2 :This is a thing that Angelo knows not; for he this : None
+4.2 :very day receives letters of strange tenor; : None
+4.2 :perchance of the duke's death; perchance entering : None
+4.2 :into some monastery; but, by chance, nothing of what : None
+4.2 :is writ. Look, the unfolding star calls up the : None
+4.2 :shepherd. Put not yourself into amazement how these : None
+4.2 :things should be: all difficulties are but easy : None
+4.2 :when they are known. Call your executioner, and off : None
+4.2 :with Barnardine's head: I will give him a present : None
+4.2 :shrift and advise him for a better place. Yet you : None
+4.2 :are amazed; but this shall absolutely resolve you. : None
+4.2 :Come away; it is almost clear dawn. : None
+Exeunt : ['Exeunt - []'] : DUKE VINCENTIO
+Scene(scene=3)
+Enter POMPEY : ["Enter - ['POMPEY']"] : DUKE VINCENTIO
+POMPEY
+4.3 :I am as well acquainted here as I was in our house : None
+4.3 :of profession: one would think it were Mistress : None
+4.3 :Overdone's own house, for here be many of her old : None
+4.3 :customers. First, here's young Master Rash; he's in : None
+4.3 :for a commodity of brown paper and old ginger, : None
+4.3 :ninescore and seventeen pounds; of which he made : None
+4.3 :five marks, ready money: marry, then ginger was not : None
+4.3 :much in request, for the old women were all dead. : None
+4.3 :Then is there here one Master Caper, at the suit of : None
+4.3 :Master Three-pile the mercer, for some four suits of : None
+4.3 :peach-coloured satin, which now peaches him a : None
+4.3 :beggar. Then have we here young Dizy, and young : None
+4.3 :Master Deep-vow, and Master Copperspur, and Master : None
+4.3 :Starve-lackey the rapier and dagger man, and young : None
+4.3 :Drop-heir that killed lusty Pudding, and Master : None
+4.3 :Forthlight the tilter, and brave Master Shooty the : None
+4.3 :great traveller, and wild Half-can that stabbed : None
+4.3 :Pots, and, I think, forty more; all great doers in : None
+4.3 :our trade, and are now 'for the Lord's sake.' : None
+Enter ABHORSON : ["Enter - ['ABHORSON']"] : POMPEY
+ABHORSON
+4.3 :Sirrah, bring Barnardine hither. : None
+POMPEY
+4.3 :Master Barnardine! you must rise and be hanged. : None
+4.3 :Master Barnardine! : None
+ABHORSON
+4.3 :What, ho, Barnardine! : None
+BARNARDINE
+4.3 :  A pox o' your throats! Who makes that : Within : ['None - []'] : BARNARDINE
+4.3 :noise there? What are you? : None
+POMPEY
+4.3 :Your friends, sir; the hangman. You must be so : None
+4.3 :good, sir, to rise and be put to death. : None
+BARNARDINE
+4.3 :  Away, you rogue, away! I am sleepy. : Within : ['None - []'] : BARNARDINE
+ABHORSON
+4.3 :Tell him he must awake, and that quickly too. : None
+POMPEY
+4.3 :Pray, Master Barnardine, awake till you are : None
+4.3 :executed, and sleep afterwards. : None
+ABHORSON
+4.3 :Go in to him, and fetch him out. : None
+POMPEY
+4.3 :He is coming, sir, he is coming; I hear his straw rustle. : None
+ABHORSON
+4.3 :Is the axe upon the block, sirrah? : None
+POMPEY
+4.3 :Very ready, sir. : None
+Enter BARNARDINE : ["Enter - ['BARNARDINE']"] : POMPEY
+BARNARDINE
+4.3 :How now, Abhorson? what's the news with you? : None
+ABHORSON
+4.3 :Truly, sir, I would desire you to clap into your : None
+4.3 :prayers; for, look you, the warrant's come. : None
+BARNARDINE
+4.3 :You rogue, I have been drinking all night; I am not : None
+4.3 :fitted for 't. : None
+POMPEY
+4.3 :O, the better, sir; for he that drinks all night, : None
+4.3 :and is hanged betimes in the morning, may sleep the : None
+4.3 :sounder all the next day. : None
+ABHORSON
+4.3 :Look you, sir; here comes your ghostly father: do : None
+4.3 :we jest now, think you? : None
+Enter DUKE VINCENTIO disguised as before : ["Enter - ['DUKE']"] : ABHORSON
+DUKE VINCENTIO
+4.3 :Sir, induced by my charity, and hearing how hastily : None
+4.3 :you are to depart, I am come to advise you, comfort : None
+4.3 :you and pray with you. : None
+BARNARDINE
+4.3 :Friar, not I	I have been drinking hard all night, : None
+4.3 :and I will have more time to prepare me, or they : None
+4.3 :shall beat out my brains with billets: I will not : None
+4.3 :consent to die this day, that's certain. : None
+DUKE VINCENTIO
+4.3 :O, sir, you must: and therefore I beseech you : None
+4.3 :Look forward on the journey you shall go. : None
+BARNARDINE
+4.3 :I swear I will not die to-day for any man's : None
+4.3 :persuasion. : None
+DUKE VINCENTIO
+4.3 :But hear you. : None
+BARNARDINE
+4.3 :Not a word: if you have any thing to say to me, : None
+4.3 :come to my ward; for thence will not I to-day. : None
+Exit : ['Exit - []'] : BARNARDINE
+DUKE VINCENTIO
+4.3 :Unfit to live or die: O gravel heart! : None
+4.3 :After him, fellows; bring him to the block. : None
+Exeunt ABHORSON and POMPEY : ["Exeunt - ['ABHORSON', 'POMPEY']"] : DUKE VINCENTIO
+Re-enter Provost : ["Re-enter - ['PROVOST']"] : DUKE VINCENTIO
+PROVOST
+4.3 :Now, sir, how do you find the prisoner? : None
+DUKE VINCENTIO
+4.3 :A creature unprepared, unmeet for death; : None
+4.3 :And to transport him in the mind he is : None
+4.3 :Were damnable. : None
+PROVOST
+4.3 :                  Here in the prison, father, : None
+4.3 :There died this morning of a cruel fever : None
+4.3 :One Ragozine, a most notorious pirate, : None
+4.3 :A man of Claudio's years; his beard and head : None
+4.3 :Just of his colour. What if we do omit : None
+4.3 :This reprobate till he were well inclined; : None
+4.3 :And satisfy the deputy with the visage : None
+4.3 :Of Ragozine, more like to Claudio? : None
+DUKE VINCENTIO
+4.3 :O, 'tis an accident that heaven provides! : None
+4.3 :Dispatch it presently; the hour draws on : None
+4.3 :Prefix'd by Angelo: see this be done, : None
+4.3 :And sent according to command; whiles I : None
+4.3 :Persuade this rude wretch willingly to die. : None
+PROVOST
+4.3 :This shall be done, good father, presently. : None
+4.3 :But Barnardine must die this afternoon: : None
+4.3 :And how shall we continue Claudio, : None
+4.3 :To save me from the danger that might come : None
+4.3 :If he were known alive? : None
+DUKE VINCENTIO
+4.3 :Let this be done. : None
+4.3 :Put them in secret holds, both Barnardine and Claudio: : None
+4.3 :Ere twice the sun hath made his journal greeting : None
+4.3 :To the under generation, you shall find : None
+4.3 :Your safety manifested. : None
+PROVOST
+4.3 :I am your free dependant. : None
+DUKE VINCENTIO
+4.3 :Quick, dispatch, and send the head to Angelo. : None
+Exit Provost : ["Exit - ['PROVOST']"] : DUKE VINCENTIO
+4.3 :Now will I write letters to Angelo,-- : None
+4.3 :The provost, he shall bear them, whose contents : None
+4.3 :Shall witness to him I am near at home, : None
+4.3 :And that, by great injunctions, I am bound : None
+4.3 :To enter publicly: him I'll desire : None
+4.3 :To meet me at the consecrated fount : None
+4.3 :A league below the city; and from thence, : None
+4.3 :By cold gradation and well-balanced form, : None
+4.3 :We shall proceed with Angelo. : None
+Re-enter Provost : ["Re-enter - ['PROVOST']"] : DUKE VINCENTIO
+PROVOST
+4.3 :Here is the head; I'll carry it myself. : None
+DUKE VINCENTIO
+4.3 :Convenient is it. Make a swift return; : None
+4.3 :For I would commune with you of such things : None
+4.3 :That want no ear but yours. : None
+PROVOST
+4.3 :I'll make all speed. : None
+Exit : ['Exit - []'] : PROVOST
+ISABELLA
+4.3 :  Peace, ho, be here! : Within : ['None - []'] : ISABELLA
+DUKE VINCENTIO
+4.3 :The tongue of Isabel. She's come to know : None
+4.3 :If yet her brother's pardon be come hither: : None
+4.3 :But I will keep her ignorant of her good, : None
+4.3 :To make her heavenly comforts of despair, : None
+4.3 :When it is least expected. : None
+Enter ISABELLA : ["Enter - ['ISABELLA']"] : DUKE VINCENTIO
+ISABELLA
+4.3 :Ho, by your leave! : None
+DUKE VINCENTIO
+4.3 :Good morning to you, fair and gracious daughter. : None
+ISABELLA
+4.3 :The better, given me by so holy a man. : None
+4.3 :Hath yet the deputy sent my brother's pardon? : None
+DUKE VINCENTIO
+4.3 :He hath released him, Isabel, from the world: : None
+4.3 :His head is off and sent to Angelo. : None
+ISABELLA
+4.3 :Nay, but it is not so. : None
+DUKE VINCENTIO
+4.3 :It is no other: show your wisdom, daughter, : None
+4.3 :In your close patience. : None
+ISABELLA
+4.3 :O, I will to him and pluck out his eyes! : None
+DUKE VINCENTIO
+4.3 :You shall not be admitted to his sight. : None
+ISABELLA
+4.3 :Unhappy Claudio! wretched Isabel! : None
+4.3 :Injurious world! most damned Angelo! : None
+DUKE VINCENTIO
+4.3 :This nor hurts him nor profits you a jot; : None
+4.3 :Forbear it therefore; give your cause to heaven. : None
+4.3 :Mark what I say, which you shall find : None
+4.3 :By every syllable a faithful verity: : None
+4.3 :The duke comes home to-morrow; nay, dry your eyes; : None
+4.3 :One of our convent, and his confessor, : None
+4.3 :Gives me this instance: already he hath carried : None
+4.3 :Notice to Escalus and Angelo, : None
+4.3 :Who do prepare to meet him at the gates, : None
+4.3 :There to give up their power. If you can, pace your wisdom : None
+4.3 :In that good path that I would wish it go, : None
+4.3 :And you shall have your bosom on this wretch, : None
+4.3 :Grace of the duke, revenges to your heart, : None
+4.3 :And general honour. : None
+ISABELLA
+4.3 :                  I am directed by you. : None
+DUKE VINCENTIO
+4.3 :This letter, then, to Friar Peter give; : None
+4.3 :'Tis that he sent me of the duke's return: : None
+4.3 :Say, by this token, I desire his company : None
+4.3 :At Mariana's house to-night. Her cause and yours : None
+4.3 :I'll perfect him withal, and he shall bring you : None
+4.3 :Before the duke, and to the head of Angelo : None
+4.3 :Accuse him home and home. For my poor self, : None
+4.3 :I am combined by a sacred vow : None
+4.3 :And shall be absent. Wend you with this letter: : None
+4.3 :Command these fretting waters from your eyes : None
+4.3 :With a light heart; trust not my holy order, : None
+4.3 :If I pervert your course. Who's here? : None
+Enter LUCIO : ["Enter - ['LUCIO']"] : DUKE VINCENTIO
+LUCIO
+4.3 :Good even. Friar, where's the provost? : None
+DUKE VINCENTIO
+4.3 :Not within, sir. : None
+LUCIO
+4.3 :O pretty Isabella, I am pale at mine heart to see : None
+4.3 :thine eyes so red: thou must be patient. I am fain : None
+4.3 :to dine and sup with water and bran; I dare not for : None
+4.3 :my head fill my belly; one fruitful meal would set : None
+4.3 :me to 't. But they say the duke will be here : None
+4.3 :to-morrow. By my troth, Isabel, I loved thy brother: : None
+4.3 :if the old fantastical duke of dark corners had been : None
+4.3 :at home, he had lived. : None
+Exit ISABELLA : ["Exit - ['ISABELLA']"] : LUCIO
+DUKE VINCENTIO
+4.3 :Sir, the duke is marvellous little beholding to your : None
+4.3 :reports; but the best is, he lives not in them. : None
+LUCIO
+4.3 :Friar, thou knowest not the duke so well as I do: : None
+4.3 :he's a better woodman than thou takest him for. : None
+DUKE VINCENTIO
+4.3 :Well, you'll answer this one day. Fare ye well. : None
+LUCIO
+4.3 :Nay, tarry; I'll go along with thee : None
+4.3 :I can tell thee pretty tales of the duke. : None
+DUKE VINCENTIO
+4.3 :You have told me too many of him already, sir, if : None
+4.3 :they be true; if not true, none were enough. : None
+LUCIO
+4.3 :I was once before him for getting a wench with child. : None
+DUKE VINCENTIO
+4.3 :Did you such a thing? : None
+LUCIO
+4.3 :Yes, marry, did I	but I was fain to forswear it; : None
+4.3 :they would else have married me to the rotten medlar. : None
+DUKE VINCENTIO
+4.3 :Sir, your company is fairer than honest. Rest you well. : None
+LUCIO
+4.3 :By my troth, I'll go with thee to the lane's end: : None
+4.3 :if bawdy talk offend you, we'll have very little of : None
+4.3 :it. Nay, friar, I am a kind of burr; I shall stick. : None
+Exeunt : ['Exeunt - []'] : LUCIO
+Scene(scene=4)
+Enter ANGELO and ESCALUS : ["Enter - ['ANGELO', 'ESCALUS']"] : LUCIO
+ESCALUS
+4.4 :Every letter he hath writ hath disvouched other. : None
+ANGELO
+4.4 :In most uneven and distracted manner. His actions : None
+4.4 :show much like to madness: pray heaven his wisdom be : None
+4.4 :not tainted! And why meet him at the gates, and : None
+4.4 :redeliver our authorities there : None
+ESCALUS
+4.4 :I guess not. : None
+ANGELO
+4.4 :And why should we proclaim it in an hour before his : None
+4.4 :entering, that if any crave redress of injustice, : None
+4.4 :they should exhibit their petitions in the street? : None
+ESCALUS
+4.4 :He shows his reason for that: to have a dispatch of : None
+4.4 :complaints, and to deliver us from devices : None
+4.4 :hereafter, which shall then have no power to stand : None
+4.4 :against us. : None
+ANGELO
+4.4 :Well, I beseech you, let it be proclaimed betimes : None
+4.4 :i' the morn; I'll call you at your house: give : None
+4.4 :notice to such men of sort and suit as are to meet : None
+4.4 :him. : None
+ESCALUS
+4.4 :I shall, sir. Fare you well. : None
+ANGELO
+4.4 :Good night. : None
+Exit ESCALUS : ["Exit - ['ESCALUS']"] : ANGELO
+4.4 :This deed unshapes me quite, makes me unpregnant : None
+4.4 :And dull to all proceedings. A deflower'd maid! : None
+4.4 :And by an eminent body that enforced : None
+4.4 :The law against it! But that her tender shame : None
+4.4 :Will not proclaim against her maiden loss, : None
+4.4 :How might she tongue me! Yet reason dares her no; : None
+4.4 :For my authority bears of a credent bulk, : None
+4.4 :That no particular scandal once can touch : None
+4.4 :But it confounds the breather. He should have lived, : None
+4.4 :Save that riotous youth, with dangerous sense, : None
+4.4 :Might in the times to come have ta'en revenge, : None
+4.4 :By so receiving a dishonour'd life : None
+4.4 :With ransom of such shame. Would yet he had lived! : None
+4.4 :A lack, when once our grace we have forgot, : None
+4.4 :Nothing goes right: we would, and we would not. : None
+Exit : ['Exit - []'] : ANGELO
+Scene(scene=5)
+Enter DUKE VINCENTIO in his own habit, and FRIAR PETER : ["Enter - ['DUKE', 'FRIAR PETER']"] : ANGELO
+DUKE VINCENTIO
+4.5 :These letters at fit time deliver me : None
+Giving letters : ['None - []'] : DUKE VINCENTIO
+4.5 :The provost knows our purpose and our plot. : None
+4.5 :The matter being afoot, keep your instruction, : None
+4.5 :And hold you ever to our special drift; : None
+4.5 :Though sometimes you do blench from this to that, : None
+4.5 :As cause doth minister. Go call at Flavius' house, : None
+4.5 :And tell him where I stay: give the like notice : None
+4.5 :To Valentinus, Rowland, and to Crassus, : None
+4.5 :And bid them bring the trumpets to the gate; : None
+4.5 :But send me Flavius first. : None
+FRIAR PETER
+4.5 :It shall be speeded well. : None
+Exit : ['Exit - []'] : FRIAR PETER
+Enter VARRIUS : ['Enter - []'] : FRIAR PETER
+DUKE VINCENTIO
+4.5 :I thank thee, Varrius; thou hast made good haste: : None
+4.5 :Come, we will walk. There's other of our friends : None
+4.5 :Will greet us here anon, my gentle Varrius. : None
+Exeunt : ['Exeunt - []'] : DUKE VINCENTIO
+Scene(scene=6)
+Enter ISABELLA and MARIANA : ["Enter - ['ISABELLA', 'MARIANA']"] : DUKE VINCENTIO
+ISABELLA
+4.6 :To speak so indirectly I am loath: : None
+4.6 :I would say the truth; but to accuse him so, : None
+4.6 :That is your part: yet I am advised to do it; : None
+4.6 :He says, to veil full purpose. : None
+MARIANA
+4.6 :Be ruled by him. : None
+ISABELLA
+4.6 :Besides, he tells me that, if peradventure : None
+4.6 :He speak against me on the adverse side, : None
+4.6 :I should not think it strange; for 'tis a physic : None
+4.6 :That's bitter to sweet end. : None
+MARIANA
+4.6 :I would Friar Peter-- : None
+ISABELLA
+4.6 :O, peace! the friar is come. : None
+Enter FRIAR PETER : ["Enter - ['FRIAR PETER']"] : ISABELLA
+FRIAR PETER
+4.6 :Come, I have found you out a stand most fit, : None
+4.6 :Where you may have such vantage on the duke, : None
+4.6 :He shall not pass you. Twice have the trumpets sounded; : None
+4.6 :The generous and gravest citizens : None
+4.6 :Have hent the gates, and very near upon : None
+4.6 :The duke is entering: therefore, hence, away! : None
+Exeunt : ['Exeunt - []'] : FRIAR PETER
+Act(act=5)
+Scene(scene=1)
+MARIANA veiled, ISABELLA, and FRIAR PETER, at their  stand. Enter DUKE VINCENTIO, VARRIUS, Lords,  ANGELO, ESCALUS, LUCIO, Provost, Officers, and Citizens, at several doors : ["None - ['MARIANA', 'ISABELLA', 'FRIAR PETER']", "Enter - ['DUKE', 'ANGELO', 'ESCALUS', 'LUCIO', 'PROVOST']"] : FRIAR PETER
+DUKE VINCENTIO
+5.1 :My very worthy cousin, fairly met! : None
+5.1 :Our old and faithful friend, we are glad to see you. : None
+ANGELO
+ESCALUS
+5.1 :Happy return be to your royal grace! : None
+DUKE VINCENTIO
+5.1 :Many and hearty thankings to you both. : None
+5.1 :We have made inquiry of you; and we hear : None
+5.1 :Such goodness of your justice, that our soul : None
+5.1 :Cannot but yield you forth to public thanks, : None
+5.1 :Forerunning more requital. : None
+ANGELO
+5.1 :You make my bonds still greater. : None
+DUKE VINCENTIO
+5.1 :O, your desert speaks loud; and I should wrong it, : None
+5.1 :To lock it in the wards of covert bosom, : None
+5.1 :When it deserves, with characters of brass, : None
+5.1 :A forted residence 'gainst the tooth of time : None
+5.1 :And razure of oblivion. Give me your hand, : None
+5.1 :And let the subject see, to make them know : None
+5.1 :That outward courtesies would fain proclaim : None
+5.1 :Favours that keep within. Come, Escalus, : None
+5.1 :You must walk by us on our other hand; : None
+5.1 :And good supporters are you. : None
+FRIAR PETER and ISABELLA come forward : ["None - ['FRIAR PETER', 'ISABELLA']"] : DUKE VINCENTIO
+FRIAR PETER
+5.1 :Now is your time: speak loud and kneel before him. : None
+ISABELLA
+5.1 :Justice, O royal duke! Vail your regard : None
+5.1 :Upon a wrong'd, I would fain have said, a maid! : None
+5.1 :O worthy prince, dishonour not your eye : None
+5.1 :By throwing it on any other object : None
+5.1 :Till you have heard me in my true complaint : None
+5.1 :And given me justice, justice, justice, justice! : None
+DUKE VINCENTIO
+5.1 :Relate your wrongs; in what? by whom? be brief. : None
+5.1 :Here is Lord Angelo shall give you justice: : None
+5.1 :Reveal yourself to him. : None
+ISABELLA
+5.1 :O worthy duke, : None
+5.1 :You bid me seek redemption of the devil: : None
+5.1 :Hear me yourself; for that which I must speak : None
+5.1 :Must either punish me, not being believed, : None
+5.1 :Or wring redress from you. Hear me, O hear me, here! : None
+ANGELO
+5.1 :My lord, her wits, I fear me, are not firm: : None
+5.1 :She hath been a suitor to me for her brother : None
+5.1 :Cut off by course of justice,-- : None
+ISABELLA
+5.1 :By course of justice! : None
+ANGELO
+5.1 :And she will speak most bitterly and strange. : None
+ISABELLA
+5.1 :Most strange, but yet most truly, will I speak: : None
+5.1 :That Angelo's forsworn; is it not strange? : None
+5.1 :That Angelo's a murderer; is 't not strange? : None
+5.1 :That Angelo is an adulterous thief, : None
+5.1 :An hypocrite, a virgin-violator; : None
+5.1 :Is it not strange and strange? : None
+DUKE VINCENTIO
+5.1 :Nay, it is ten times strange. : None
+ISABELLA
+5.1 :It is not truer he is Angelo : None
+5.1 :Than this is all as true as it is strange: : None
+5.1 :Nay, it is ten times true; for truth is truth : None
+5.1 :To the end of reckoning. : None
+DUKE VINCENTIO
+5.1 :Away with her! Poor soul, : None
+5.1 :She speaks this in the infirmity of sense. : None
+ISABELLA
+5.1 :O prince, I conjure thee, as thou believest : None
+5.1 :There is another comfort than this world, : None
+5.1 :That thou neglect me not, with that opinion : None
+5.1 :That I am touch'd with madness! Make not impossible : None
+5.1 :That which but seems unlike: 'tis not impossible : None
+5.1 :But one, the wicked'st caitiff on the ground, : None
+5.1 :May seem as shy, as grave, as just, as absolute : None
+5.1 :As Angelo; even so may Angelo, : None
+5.1 :In all his dressings, characts, titles, forms, : None
+5.1 :Be an arch-villain; believe it, royal prince: : None
+5.1 :If he be less, he's nothing; but he's more, : None
+5.1 :Had I more name for badness. : None
+DUKE VINCENTIO
+5.1 :By mine honesty, : None
+5.1 :If she be mad,--as I believe no other,-- : None
+5.1 :Her madness hath the oddest frame of sense, : None
+5.1 :Such a dependency of thing on thing, : None
+5.1 :As e'er I heard in madness. : None
+ISABELLA
+5.1 :O gracious duke, : None
+5.1 :Harp not on that, nor do not banish reason : None
+5.1 :For inequality; but let your reason serve : None
+5.1 :To make the truth appear where it seems hid, : None
+5.1 :And hide the false seems true. : None
+DUKE VINCENTIO
+5.1 :Many that are not mad : None
+5.1 :Have, sure, more lack of reason. What would you say? : None
+ISABELLA
+5.1 :I am the sister of one Claudio, : None
+5.1 :Condemn'd upon the act of fornication : None
+5.1 :To lose his head; condemn'd by Angelo: : None
+5.1 :I, in probation of a sisterhood, : None
+5.1 :Was sent to by my brother; one Lucio : None
+5.1 :As then the messenger,-- : None
+LUCIO
+5.1 :That's I, an't like your grace: : None
+5.1 :I came to her from Claudio, and desired her : None
+5.1 :To try her gracious fortune with Lord Angelo : None
+5.1 :For her poor brother's pardon. : None
+ISABELLA
+5.1 :That's he indeed. : None
+DUKE VINCENTIO
+5.1 :You were not bid to speak. : None
+LUCIO
+5.1 :No, my good lord; : None
+5.1 :Nor wish'd to hold my peace. : None
+DUKE VINCENTIO
+5.1 :I wish you now, then; : None
+5.1 :Pray you, take note of it: and when you have : None
+5.1 :A business for yourself, pray heaven you then : None
+5.1 :Be perfect. : None
+LUCIO
+5.1 :I warrant your honour. : None
+DUKE VINCENTIO
+5.1 :The warrants for yourself; take heed to't. : None
+ISABELLA
+5.1 :This gentleman told somewhat of my tale,-- : None
+LUCIO
+5.1 :Right. : None
+DUKE VINCENTIO
+5.1 :It may be right; but you are i' the wrong : None
+5.1 :To speak before your time. Proceed. : None
+ISABELLA
+5.1 :I went : None
+5.1 :To this pernicious caitiff deputy,-- : None
+DUKE VINCENTIO
+5.1 :That's somewhat madly spoken. : None
+ISABELLA
+5.1 :Pardon it; : None
+5.1 :The phrase is to the matter. : None
+DUKE VINCENTIO
+5.1 :Mended again. The matter; proceed. : None
+ISABELLA
+5.1 :In brief, to set the needless process by, : None
+5.1 :How I persuaded, how I pray'd, and kneel'd, : None
+5.1 :How he refell'd me, and how I replied,-- : None
+5.1 :For this was of much length,--the vile conclusion : None
+5.1 :I now begin with grief and shame to utter: : None
+5.1 :He would not, but by gift of my chaste body : None
+5.1 :To his concupiscible intemperate lust, : None
+5.1 :Release my brother; and, after much debatement, : None
+5.1 :My sisterly remorse confutes mine honour, : None
+5.1 :And I did yield to him: but the next morn betimes, : None
+5.1 :His purpose surfeiting, he sends a warrant : None
+5.1 :For my poor brother's head. : None
+DUKE VINCENTIO
+5.1 :This is most likely! : None
+ISABELLA
+5.1 :O, that it were as like as it is true! : None
+DUKE VINCENTIO
+5.1 :By heaven, fond wretch, thou knowist not what thou speak'st, : None
+5.1 :Or else thou art suborn'd against his honour : None
+5.1 :In hateful practise. First, his integrity : None
+5.1 :Stands without blemish. Next, it imports no reason : None
+5.1 :That with such vehemency he should pursue : None
+5.1 :Faults proper to himself: if he had so offended, : None
+5.1 :He would have weigh'd thy brother by himself : None
+5.1 :And not have cut him off. Some one hath set you on: : None
+5.1 :Confess the truth, and say by whose advice : None
+5.1 :Thou camest here to complain. : None
+ISABELLA
+5.1 :And is this all? : None
+5.1 :Then, O you blessed ministers above, : None
+5.1 :Keep me in patience, and with ripen'd time : None
+5.1 :Unfold the evil which is here wrapt up : None
+5.1 :In countenance! Heaven shield your grace from woe, : None
+5.1 :As I, thus wrong'd, hence unbelieved go! : None
+DUKE VINCENTIO
+5.1 :I know you'ld fain be gone. An officer! : None
+5.1 :To prison with her! Shall we thus permit : None
+5.1 :A blasting and a scandalous breath to fall : None
+5.1 :On him so near us? This needs must be a practise. : None
+5.1 :Who knew of Your intent and coming hither? : None
+ISABELLA
+5.1 :One that I would were here, Friar Lodowick. : None
+DUKE VINCENTIO
+5.1 :A ghostly father, belike. Who knows that Lodowick? : None
+LUCIO
+5.1 :My lord, I know him; 'tis a meddling friar; : None
+5.1 :I do not like the man: had he been lay, my lord : None
+5.1 :For certain words he spake against your grace : None
+5.1 :In your retirement, I had swinged him soundly. : None
+DUKE VINCENTIO
+5.1 :Words against me? this is a good friar, belike! : None
+5.1 :And to set on this wretched woman here : None
+5.1 :Against our substitute! Let this friar be found. : None
+LUCIO
+5.1 :But yesternight, my lord, she and that friar, : None
+5.1 :I saw them at the prison: a saucy friar, : None
+5.1 :A very scurvy fellow. : None
+FRIAR PETER
+5.1 :Blessed be your royal grace! : None
+5.1 :I have stood by, my lord, and I have heard : None
+5.1 :Your royal ear abused. First, hath this woman : None
+5.1 :Most wrongfully accused your substitute, : None
+5.1 :Who is as free from touch or soil with her : None
+5.1 :As she from one ungot. : None
+DUKE VINCENTIO
+5.1 :We did believe no less. : None
+5.1 :Know you that Friar Lodowick that she speaks of? : None
+FRIAR PETER
+5.1 :I know him for a man divine and holy; : None
+5.1 :Not scurvy, nor a temporary meddler, : None
+5.1 :As he's reported by this gentleman; : None
+5.1 :And, on my trust, a man that never yet : None
+5.1 :Did, as he vouches, misreport your grace. : None
+LUCIO
+5.1 :My lord, most villanously; believe it. : None
+FRIAR PETER
+5.1 :Well, he in time may come to clear himself; : None
+5.1 :But at this instant he is sick my lord, : None
+5.1 :Of a strange fever. Upon his mere request, : None
+5.1 :Being come to knowledge that there was complaint : None
+5.1 :Intended 'gainst Lord Angelo, came I hither, : None
+5.1 :To speak, as from his mouth, what he doth know : None
+5.1 :Is true and false; and what he with his oath : None
+5.1 :And all probation will make up full clear, : None
+5.1 :Whensoever he's convented. First, for this woman. : None
+5.1 :To justify this worthy nobleman, : None
+5.1 :So vulgarly and personally accused, : None
+5.1 :Her shall you hear disproved to her eyes, : None
+5.1 :Till she herself confess it. : None
+DUKE VINCENTIO
+5.1 :Good friar, let's hear it. : None
+ISABELLA is carried off guarded; and MARIANA comes forward : ["None - ['ISABELLA', 'MARIANA']"] : DUKE VINCENTIO
+5.1 :Do you not smile at this, Lord Angelo? : None
+5.1 :O heaven, the vanity of wretched fools! : None
+5.1 :Give us some seats. Come, cousin Angelo; : None
+5.1 :In this I'll be impartial; be you judge : None
+5.1 :Of your own cause. Is this the witness, friar? : None
+5.1 :First, let her show her face, and after speak. : None
+MARIANA
+5.1 :Pardon, my lord; I will not show my face : None
+5.1 :Until my husband bid me. : None
+DUKE VINCENTIO
+5.1 :What, are you married? : None
+MARIANA
+5.1 :No, my lord. : None
+DUKE VINCENTIO
+5.1 :Are you a maid? : None
+MARIANA
+5.1 :No, my lord. : None
+DUKE VINCENTIO
+5.1 :A widow, then? : None
+MARIANA
+5.1 :Neither, my lord. : None
+DUKE VINCENTIO
+5.1 :Why, you are nothing then: neither maid, widow, nor wife? : None
+LUCIO
+5.1 :My lord, she may be a punk; for many of them are : None
+5.1 :neither maid, widow, nor wife. : None
+DUKE VINCENTIO
+5.1 :Silence that fellow: I would he had some cause : None
+5.1 :To prattle for himself. : None
+LUCIO
+5.1 :Well, my lord. : None
+MARIANA
+5.1 :My lord; I do confess I ne'er was married; : None
+5.1 :And I confess besides I am no maid: : None
+5.1 :I have known my husband; yet my husband : None
+5.1 :Knows not that ever he knew me. : None
+LUCIO
+5.1 :He was drunk then, my lord: it can be no better. : None
+DUKE VINCENTIO
+5.1 :For the benefit of silence, would thou wert so too! : None
+LUCIO
+5.1 :Well, my lord. : None
+DUKE VINCENTIO
+5.1 :This is no witness for Lord Angelo. : None
+MARIANA
+5.1 :Now I come to't my lord : None
+5.1 :She that accuses him of fornication, : None
+5.1 :In self-same manner doth accuse my husband, : None
+5.1 :And charges him my lord, with such a time : None
+5.1 :When I'll depose I had him in mine arms : None
+5.1 :With all the effect of love. : None
+ANGELO
+5.1 :Charges she more than me? : None
+MARIANA
+5.1 :Not that I know. : None
+DUKE VINCENTIO
+5.1 :No? you say your husband. : None
+MARIANA
+5.1 :Why, just, my lord, and that is Angelo, : None
+5.1 :Who thinks he knows that he ne'er knew my body, : None
+5.1 :But knows he thinks that he knows Isabel's. : None
+ANGELO
+5.1 :This is a strange abuse. Let's see thy face. : None
+MARIANA
+5.1 :My husband bids me; now I will unmask. : None
+Unveiling : ['None - []'] : MARIANA
+5.1 :This is that face, thou cruel Angelo, : None
+5.1 :Which once thou sworest was worth the looking on; : None
+5.1 :This is the hand which, with a vow'd contract, : None
+5.1 :Was fast belock'd in thine; this is the body : None
+5.1 :That took away the match from Isabel, : None
+5.1 :And did supply thee at thy garden-house : None
+5.1 :In her imagined person. : None
+DUKE VINCENTIO
+5.1 :Know you this woman? : None
+LUCIO
+5.1 :Carnally, she says. : None
+DUKE VINCENTIO
+5.1 :Sirrah, no more! : None
+LUCIO
+5.1 :Enough, my lord. : None
+ANGELO
+5.1 :My lord, I must confess I know this woman: : None
+5.1 :And five years since there was some speech of marriage : None
+5.1 :Betwixt myself and her; which was broke off, : None
+5.1 :Partly for that her promised proportions : None
+5.1 :Came short of composition, but in chief : None
+5.1 :For that her reputation was disvalued : None
+5.1 :In levity: since which time of five years : None
+5.1 :I never spake with her, saw her, nor heard from her, : None
+5.1 :Upon my faith and honour. : None
+MARIANA
+5.1 :Noble prince, : None
+5.1 :As there comes light from heaven and words from breath, : None
+5.1 :As there is sense in truth and truth in virtue, : None
+5.1 :I am affianced this man's wife as strongly : None
+5.1 :As words could make up vows: and, my good lord, : None
+5.1 :But Tuesday night last gone in's garden-house : None
+5.1 :He knew me as a wife. As this is true, : None
+5.1 :Let me in safety raise me from my knees : None
+5.1 :Or else for ever be confixed here, : None
+5.1 :A marble monument! : None
+ANGELO
+5.1 :                  I did but smile till now: : None
+5.1 :Now, good my lord, give me the scope of justice : None
+5.1 :My patience here is touch'd. I do perceive : None
+5.1 :These poor informal women are no more : None
+5.1 :But instruments of some more mightier member : None
+5.1 :That sets them on: let me have way, my lord, : None
+5.1 :To find this practise out. : None
+DUKE VINCENTIO
+5.1 :Ay, with my heart : None
+5.1 :And punish them to your height of pleasure. : None
+5.1 :Thou foolish friar, and thou pernicious woman, : None
+5.1 :Compact with her that's gone, think'st thou thy oaths, : None
+5.1 :Though they would swear down each particular saint, : None
+5.1 :Were testimonies against his worth and credit : None
+5.1 :That's seal'd in approbation? You, Lord Escalus, : None
+5.1 :Sit with my cousin; lend him your kind pains : None
+5.1 :To find out this abuse, whence 'tis derived. : None
+5.1 :There is another friar that set them on; : None
+5.1 :Let him be sent for. : None
+FRIAR PETER
+5.1 :Would he were here, my lord! for he indeed : None
+5.1 :Hath set the women on to this complaint: : None
+5.1 :Your provost knows the place where he abides : None
+5.1 :And he may fetch him. : None
+DUKE VINCENTIO
+5.1 :Go do it instantly. : None
+Exit Provost : ["Exit - ['PROVOST']"] : DUKE VINCENTIO
+5.1 :And you, my noble and well-warranted cousin, : None
+5.1 :Whom it concerns to hear this matter forth, : None
+5.1 :Do with your injuries as seems you best, : None
+5.1 :In any chastisement: I for a while will leave you; : None
+5.1 :But stir not you till you have well determined : None
+5.1 :Upon these slanderers. : None
+ESCALUS
+5.1 :My lord, we'll do it throughly. : None
+Exit DUKE : ["Exit - ['DUKE']"] : ESCALUS
+5.1 :Signior Lucio, did not you say you knew that : None
+5.1 :Friar Lodowick to be a dishonest person? : None
+LUCIO
+5.1 :'Cucullus non facit monachum:' honest in nothing : None
+5.1 :but in his clothes; and one that hath spoke most : None
+5.1 :villanous speeches of the duke. : None
+ESCALUS
+5.1 :We shall entreat you to abide here till he come and : None
+5.1 :enforce them against him: we shall find this friar a : None
+5.1 :notable fellow. : None
+LUCIO
+5.1 :As any in Vienna, on my word. : None
+ESCALUS
+5.1 :Call that same Isabel here once again; I would speak with her. : None
+Exit an Attendant : ['Exit - []'] : ESCALUS
+5.1 :Pray you, my lord, give me leave to question; you : None
+5.1 :shall see how I'll handle her. : None
+LUCIO
+5.1 :Not better than he, by her own report. : None
+ESCALUS
+5.1 :Say you? : None
+LUCIO
+5.1 :Marry, sir, I think, if you handled her privately, : None
+5.1 :she would sooner confess: perchance, publicly, : None
+5.1 :she'll be ashamed. : None
+ESCALUS
+5.1 :I will go darkly to work with her. : None
+LUCIO
+5.1 :That's the way; for women are light at midnight. : None
+Re-enter Officers with ISABELLA; and Provost with the DUKE VINCENTIO in his friar's habit : ["Re-enter - ['ISABELLA', 'PROVOST', 'DUKE']"] : LUCIO
+ESCALUS
+5.1 :Come on, mistress: here's a gentlewoman denies all : None
+5.1 :that you have said. : None
+LUCIO
+5.1 :My lord, here comes the rascal I spoke of; here with : None
+5.1 :the provost. : None
+ESCALUS
+5.1 :In very good time: speak not you to him till we : None
+5.1 :call upon you. : None
+LUCIO
+5.1 :Mum. : None
+ESCALUS
+5.1 :Come, sir: did you set these women on to slander : None
+5.1 :Lord Angelo? they have confessed you did. : None
+DUKE VINCENTIO
+5.1 :'Tis false. : None
+ESCALUS
+5.1 :How! know you where you are? : None
+DUKE VINCENTIO
+5.1 :Respect to your great place! and let the devil : None
+5.1 :Be sometime honour'd for his burning throne! : None
+5.1 :Where is the duke? 'tis he should hear me speak. : None
+ESCALUS
+5.1 :The duke's in us; and we will hear you speak: : None
+5.1 :Look you speak justly. : None
+DUKE VINCENTIO
+5.1 :Boldly, at least. But, O, poor souls, : None
+5.1 :Come you to seek the lamb here of the fox? : None
+5.1 :Good night to your redress! Is the duke gone? : None
+5.1 :Then is your cause gone too. The duke's unjust, : None
+5.1 :Thus to retort your manifest appeal, : None
+5.1 :And put your trial in the villain's mouth : None
+5.1 :Which here you come to accuse. : None
+LUCIO
+5.1 :This is the rascal; this is he I spoke of. : None
+ESCALUS
+5.1 :Why, thou unreverend and unhallow'd friar, : None
+5.1 :Is't not enough thou hast suborn'd these women : None
+5.1 :To accuse this worthy man, but, in foul mouth : None
+5.1 :And in the witness of his proper ear, : None
+5.1 :To call him villain? and then to glance from him : None
+5.1 :To the duke himself, to tax him with injustice? : None
+5.1 :Take him hence; to the rack with him! We'll touse you : None
+5.1 :Joint by joint, but we will know his purpose. : None
+5.1 :What 'unjust'! : None
+DUKE VINCENTIO
+5.1 :                  Be not so hot; the duke : None
+5.1 :Dare no more stretch this finger of mine than he : None
+5.1 :Dare rack his own: his subject am I not, : None
+5.1 :Nor here provincial. My business in this state : None
+5.1 :Made me a looker on here in Vienna, : None
+5.1 :Where I have seen corruption boil and bubble : None
+5.1 :Till it o'er-run the stew; laws for all faults, : None
+5.1 :But faults so countenanced, that the strong statutes : None
+5.1 :Stand like the forfeits in a barber's shop, : None
+5.1 :As much in mock as mark. : None
+ESCALUS
+5.1 :Slander to the state! Away with him to prison! : None
+ANGELO
+5.1 :What can you vouch against him, Signior Lucio? : None
+5.1 :Is this the man that you did tell us of? : None
+LUCIO
+5.1 :'Tis he, my lord. Come hither, goodman baldpate: : None
+5.1 :do you know me? : None
+DUKE VINCENTIO
+5.1 :I remember you, sir, by the sound of your voice: I : None
+5.1 :met you at the prison, in the absence of the duke. : None
+LUCIO
+5.1 :O, did you so? And do you remember what you said of the duke? : None
+DUKE VINCENTIO
+5.1 :Most notedly, sir. : None
+LUCIO
+5.1 :Do you so, sir? And was the duke a fleshmonger, a : None
+5.1 :fool, and a coward, as you then reported him to be? : None
+DUKE VINCENTIO
+5.1 :You must, sir, change persons with me, ere you make : None
+5.1 :that my report: you, indeed, spoke so of him; and : None
+5.1 :much more, much worse. : None
+LUCIO
+5.1 :O thou damnable fellow! Did not I pluck thee by the : None
+5.1 :nose for thy speeches? : None
+DUKE VINCENTIO
+5.1 :I protest I love the duke as I love myself. : None
+ANGELO
+5.1 :Hark, how the villain would close now, after his : None
+5.1 :treasonable abuses! : None
+ESCALUS
+5.1 :Such a fellow is not to be talked withal. Away with : None
+5.1 :him to prison! Where is the provost? Away with him : None
+5.1 :to prison! lay bolts enough upon him: let him : None
+5.1 :speak no more. Away with those giglots too, and : None
+5.1 :with the other confederate companion! : None
+DUKE VINCENTIO
+5.1 :  Stay, sir; stay awhile. : To Provost : ["To - ['PROVOST']"] : DUKE VINCENTIO
+ANGELO
+5.1 :What, resists he? Help him, Lucio. : None
+LUCIO
+5.1 :Come, sir; come, sir; come, sir; foh, sir! Why, you : None
+5.1 :bald-pated, lying rascal, you must be hooded, must : None
+5.1 :you? Show your knave's visage, with a pox to you! : None
+5.1 :show your sheep-biting face, and be hanged an hour! : None
+5.1 :Will't not off? : None
+Pulls off the friar's hood, and discovers DUKE VINCENTIO : ["None - ['DUKE']"] : LUCIO
+DUKE VINCENTIO
+5.1 :Thou art the first knave that e'er madest a duke. : None
+5.1 :First, provost, let me bail these gentle three. : None
+To LUCIO : ["To - ['LUCIO']"] : DUKE VINCENTIO
+5.1 :Sneak not away, sir; for the friar and you : None
+5.1 :Must have a word anon. Lay hold on him. : None
+LUCIO
+5.1 :This may prove worse than hanging. : None
+DUKE VINCENTIO
+5.1 :  What you have spoke I pardon: sit you down: : To ESCALUS : ["To - ['ESCALUS']"] : DUKE VINCENTIO
+5.1 :We'll borrow place of him. : None
+To ANGELO : ["To - ['ANGELO']"] : DUKE VINCENTIO
+5.1 :Sir, by your leave. : None
+5.1 :Hast thou or word, or wit, or impudence, : None
+5.1 :That yet can do thee office? If thou hast, : None
+5.1 :Rely upon it till my tale be heard, : None
+5.1 :And hold no longer out. : None
+ANGELO
+5.1 :O my dread lord, : None
+5.1 :I should be guiltier than my guiltiness, : None
+5.1 :To think I can be undiscernible, : None
+5.1 :When I perceive your grace, like power divine, : None
+5.1 :Hath look'd upon my passes. Then, good prince, : None
+5.1 :No longer session hold upon my shame, : None
+5.1 :But let my trial be mine own confession: : None
+5.1 :Immediate sentence then and sequent death : None
+5.1 :Is all the grace I beg. : None
+DUKE VINCENTIO
+5.1 :Come hither, Mariana. : None
+5.1 :Say, wast thou e'er contracted to this woman? : None
+ANGELO
+5.1 :I was, my lord. : None
+DUKE VINCENTIO
+5.1 :Go take her hence, and marry her instantly. : None
+5.1 :Do you the office, friar; which consummate, : None
+5.1 :Return him here again. Go with him, provost. : None
+Exeunt ANGELO, MARIANA, FRIAR PETER and Provost : ["Exeunt - ['ANGELO', 'MARIANA', 'FRIAR PETER', 'PROVOST']"] : DUKE VINCENTIO
+ESCALUS
+5.1 :My lord, I am more amazed at his dishonour : None
+5.1 :Than at the strangeness of it. : None
+DUKE VINCENTIO
+5.1 :Come hither, Isabel. : None
+5.1 :Your friar is now your prince: as I was then : None
+5.1 :Advertising and holy to your business, : None
+5.1 :Not changing heart with habit, I am still : None
+5.1 :Attorney'd at your service. : None
+ISABELLA
+5.1 :O, give me pardon, : None
+5.1 :That I, your vassal, have employ'd and pain'd : None
+5.1 :Your unknown sovereignty! : None
+DUKE VINCENTIO
+5.1 :You are pardon'd, Isabel: : None
+5.1 :And now, dear maid, be you as free to us. : None
+5.1 :Your brother's death, I know, sits at your heart; : None
+5.1 :And you may marvel why I obscured myself, : None
+5.1 :Labouring to save his life, and would not rather : None
+5.1 :Make rash remonstrance of my hidden power : None
+5.1 :Than let him so be lost. O most kind maid, : None
+5.1 :It was the swift celerity of his death, : None
+5.1 :Which I did think with slower foot came on, : None
+5.1 :That brain'd my purpose. But, peace be with him! : None
+5.1 :That life is better life, past fearing death, : None
+5.1 :Than that which lives to fear: make it your comfort, : None
+5.1 :So happy is your brother. : None
+ISABELLA
+5.1 :I do, my lord. : None
+Re-enter ANGELO, MARIANA, FRIAR PETER, and Provost : ["Re-enter - ['ANGELO', 'MARIANA', 'FRIAR PETER', 'PROVOST']"] : ISABELLA
+DUKE VINCENTIO
+5.1 :For this new-married man approaching here, : None
+5.1 :Whose salt imagination yet hath wrong'd : None
+5.1 :Your well defended honour, you must pardon : None
+5.1 :For Mariana's sake: but as he adjudged your brother,-- : None
+5.1 :Being criminal, in double violation : None
+5.1 :Of sacred chastity and of promise-breach : None
+5.1 :Thereon dependent, for your brother's life,-- : None
+5.1 :The very mercy of the law cries out : None
+5.1 :Most audible, even from his proper tongue, : None
+5.1 :'An Angelo for Claudio, death for death!' : None
+5.1 :Haste still pays haste, and leisure answers leisure; : None
+5.1 :Like doth quit like, and MEASURE still FOR MEASURE. : None
+5.1 :Then, Angelo, thy fault's thus manifested; : None
+5.1 :Which, though thou wouldst deny, denies thee vantage. : None
+5.1 :We do condemn thee to the very block : None
+5.1 :Where Claudio stoop'd to death, and with like haste. : None
+5.1 :Away with him! : None
+MARIANA
+5.1 :                  O my most gracious lord, : None
+5.1 :I hope you will not mock me with a husband. : None
+DUKE VINCENTIO
+5.1 :It is your husband mock'd you with a husband. : None
+5.1 :Consenting to the safeguard of your honour, : None
+5.1 :I thought your marriage fit; else imputation, : None
+5.1 :For that he knew you, might reproach your life : None
+5.1 :And choke your good to come; for his possessions, : None
+5.1 :Although by confiscation they are ours, : None
+5.1 :We do instate and widow you withal, : None
+5.1 :To buy you a better husband. : None
+MARIANA
+5.1 :O my dear lord, : None
+5.1 :I crave no other, nor no better man. : None
+DUKE VINCENTIO
+5.1 :Never crave him; we are definitive. : None
+MARIANA
+5.1 :Gentle my liege,-- : None
+Kneeling : ['None - []'] : MARIANA
+DUKE VINCENTIO
+5.1 :                  You do but lose your labour. : None
+5.1 :Away with him to death! : None
+To LUCIO : ["To - ['LUCIO']"] : DUKE VINCENTIO
+5.1 :Now, sir, to you. : None
+MARIANA
+5.1 :O my good lord! Sweet Isabel, take my part; : None
+5.1 :Lend me your knees, and all my life to come : None
+5.1 :I'll lend you all my life to do you service. : None
+DUKE VINCENTIO
+5.1 :Against all sense you do importune her: : None
+5.1 :Should she kneel down in mercy of this fact, : None
+5.1 :Her brother's ghost his paved bed would break, : None
+5.1 :And take her hence in horror. : None
+MARIANA
+5.1 :Isabel, : None
+5.1 :Sweet Isabel, do yet but kneel by me; : None
+5.1 :Hold up your hands, say nothing; I'll speak all. : None
+5.1 :They say, best men are moulded out of faults; : None
+5.1 :And, for the most, become much more the better : None
+5.1 :For being a little bad: so may my husband. : None
+5.1 :O Isabel, will you not lend a knee? : None
+DUKE VINCENTIO
+5.1 :He dies for Claudio's death. : None
+ISABELLA
+5.1 :Most bounteous sir, : None
+Kneeling : ['None - []'] : ISABELLA
+5.1 :Look, if it please you, on this man condemn'd, : None
+5.1 :As if my brother lived: I partly think : None
+5.1 :A due sincerity govern'd his deeds, : None
+5.1 :Till he did look on me: since it is so, : None
+5.1 :Let him not die. My brother had but justice, : None
+5.1 :In that he did the thing for which he died: : None
+5.1 :For Angelo, : None
+5.1 :His act did not o'ertake his bad intent, : None
+5.1 :And must be buried but as an intent : None
+5.1 :That perish'd by the way: thoughts are no subjects; : None
+5.1 :Intents but merely thoughts. : None
+MARIANA
+5.1 :Merely, my lord. : None
+DUKE VINCENTIO
+5.1 :Your suit's unprofitable; stand up, I say. : None
+5.1 :I have bethought me of another fault. : None
+5.1 :Provost, how came it Claudio was beheaded : None
+5.1 :At an unusual hour? : None
+PROVOST
+5.1 :It was commanded so. : None
+DUKE VINCENTIO
+5.1 :Had you a special warrant for the deed? : None
+PROVOST
+5.1 :No, my good lord; it was by private message. : None
+DUKE VINCENTIO
+5.1 :For which I do discharge you of your office: : None
+5.1 :Give up your keys. : None
+PROVOST
+5.1 :                  Pardon me, noble lord: : None
+5.1 :I thought it was a fault, but knew it not; : None
+5.1 :Yet did repent me, after more advice; : None
+5.1 :For testimony whereof, one in the prison, : None
+5.1 :That should by private order else have died, : None
+5.1 :I have reserved alive. : None
+DUKE VINCENTIO
+5.1 :What's he? : None
+PROVOST
+5.1 :His name is Barnardine. : None
+DUKE VINCENTIO
+5.1 :I would thou hadst done so by Claudio. : None
+5.1 :Go fetch him hither; let me look upon him. : None
+Exit Provost : ["Exit - ['PROVOST']"] : DUKE VINCENTIO
+ESCALUS
+5.1 :I am sorry, one so learned and so wise : None
+5.1 :As you, Lord Angelo, have still appear'd, : None
+5.1 :Should slip so grossly, both in the heat of blood. : None
+5.1 :And lack of temper'd judgment afterward. : None
+ANGELO
+5.1 :I am sorry that such sorrow I procure: : None
+5.1 :And so deep sticks it in my penitent heart : None
+5.1 :That I crave death more willingly than mercy; : None
+5.1 :'Tis my deserving, and I do entreat it. : None
+Re-enter Provost, with BARNARDINE, CLAUDIO muffled, and JULIET : ["Re-enter - ['PROVOST', 'BARNARDINE', 'CLAUDIO', 'JULIET']"] : ANGELO
+DUKE VINCENTIO
+5.1 :Which is that Barnardine? : None
+PROVOST
+5.1 :This, my lord. : None
+DUKE VINCENTIO
+5.1 :There was a friar told me of this man. : None
+5.1 :Sirrah, thou art said to have a stubborn soul. : None
+5.1 :That apprehends no further than this world, : None
+5.1 :And squarest thy life according. Thou'rt condemn'd: : None
+5.1 :But, for those earthly faults, I quit them all; : None
+5.1 :And pray thee take this mercy to provide : None
+5.1 :For better times to come. Friar, advise him; : None
+5.1 :I leave him to your hand. What muffled fellow's that? : None
+PROVOST
+5.1 :This is another prisoner that I saved. : None
+5.1 :Who should have died when Claudio lost his head; : None
+5.1 :As like almost to Claudio as himself. : None
+Unmuffles CLAUDIO : ["None - ['CLAUDIO']"] : PROVOST
+DUKE VINCENTIO
+5.1 :  If he be like your brother, for his sake : To ISABELLA : ["To - ['ISABELLA']"] : DUKE VINCENTIO
+5.1 :Is he pardon'd; and, for your lovely sake, : None
+5.1 :Give me your hand and say you will be mine. : None
+5.1 :He is my brother too: but fitter time for that. : None
+5.1 :By this Lord Angelo perceives he's safe; : None
+5.1 :Methinks I see a quickening in his eye. : None
+5.1 :Well, Angelo, your evil quits you well: : None
+5.1 :Look that you love your wife; her worth worth yours. : None
+5.1 :I find an apt remission in myself; : None
+5.1 :And yet here's one in place I cannot pardon. : None
+To LUCIO : ["To - ['LUCIO']"] : DUKE VINCENTIO
+5.1 :You, sirrah, that knew me for a fool, a coward, : None
+5.1 :One all of luxury, an ass, a madman; : None
+5.1 :Wherein have I so deserved of you, : None
+5.1 :That you extol me thus? : None
+LUCIO
+5.1 :'Faith, my lord. I spoke it but according to the : None
+5.1 :trick. If you will hang me for it, you may; but I : None
+5.1 :had rather it would please you I might be whipt. : None
+DUKE VINCENTIO
+5.1 :Whipt first, sir, and hanged after. : None
+5.1 :Proclaim it, provost, round about the city. : None
+5.1 :Is any woman wrong'd by this lewd fellow, : None
+5.1 :As I have heard him swear himself there's one : None
+5.1 :Whom he begot with child, let her appear, : None
+5.1 :And he shall marry her: the nuptial finish'd, : None
+5.1 :Let him be whipt and hang'd. : None
+LUCIO
+5.1 :I beseech your highness, do not marry me to a whore. : None
+5.1 :Your highness said even now, I made you a duke: : None
+5.1 :good my lord, do not recompense me in making me a cuckold. : None
+DUKE VINCENTIO
+5.1 :Upon mine honour, thou shalt marry her. : None
+5.1 :Thy slanders I forgive; and therewithal : None
+5.1 :Remit thy other forfeits. Take him to prison; : None
+5.1 :And see our pleasure herein executed. : None
+LUCIO
+5.1 :Marrying a punk, my lord, is pressing to death, : None
+5.1 :whipping, and hanging. : None
+DUKE VINCENTIO
+5.1 :Slandering a prince deserves it. : None
+Exit Officers with LUCIO : ["Exit - ['LUCIO']"] : DUKE VINCENTIO
+5.1 :She, Claudio, that you wrong'd, look you restore. : None
+5.1 :Joy to you, Mariana! Love her, Angelo: : None
+5.1 :I have confess'd her and I know her virtue. : None
+5.1 :Thanks, good friend Escalus, for thy much goodness: : None
+5.1 :There's more behind that is more gratulate. : None
+5.1 :Thanks, provost, for thy care and secrecy: : None
+5.1 :We shill employ thee in a worthier place. : None
+5.1 :Forgive him, Angelo, that brought you home : None
+5.1 :The head of Ragozine for Claudio's: : None
+5.1 :The offence pardons itself. Dear Isabel, : None
+5.1 :I have a motion much imports your good; : None
+5.1 :Whereto if you'll a willing ear incline, : None
+5.1 :What's mine is yours and what is yours is mine. : None
+5.1 :So, bring us to our palace; where we'll show : None
+5.1 :What's yet behind, that's meet you all should know. : None
+Exeunt : ['Exeunt - []'] : DUKE VINCENTIO

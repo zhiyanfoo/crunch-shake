@@ -1,0 +1,3233 @@
+Act(act=1)
+Scene(scene=1)
+Enter ANTIOCHUS, Prince PERICLES, and followers : ["Enter - ['ANTIOCHUS', 'PERICLES']"] : None
+ANTIOCHUS
+1.1 :Young prince of Tyre, you have at large received : None
+1.1 :The danger of the task you undertake. : None
+PERICLES
+1.1 :I have, Antiochus, and, with a soul : None
+1.1 :Embolden'd with the glory of her praise, : None
+1.1 :Think death no hazard in this enterprise. : None
+ANTIOCHUS
+1.1 :Bring in our daughter, clothed like a bride, : None
+1.1 :For the embracements even of Jove himself; : None
+1.1 :At whose conception, till Lucina reign'd, : None
+1.1 :Nature this dowry gave, to glad her presence, : None
+1.1 :The senate-house of planets all did sit, : None
+1.1 :To knit in her their best perfections. : None
+Music. Enter the Daughter of ANTIOCHUS : ['None - []', "Enter - ['DAUGHTER', 'ANTIOCHUS']"] : ANTIOCHUS
+PERICLES
+1.1 :See where she comes, apparell'd like the spring, : None
+1.1 :Graces her subjects, and her thoughts the king : None
+1.1 :Of every virtue gives renown to men! : None
+1.1 :Her face the book of praises, where is read : None
+1.1 :Nothing but curious pleasures, as from thence : None
+1.1 :Sorrow were ever razed and testy wrath : None
+1.1 :Could never be her mild companion. : None
+1.1 :You gods that made me man, and sway in love, : None
+1.1 :That have inflamed desire in my breast : None
+1.1 :To taste the fruit of yon celestial tree, : None
+1.1 :Or die in the adventure, be my helps, : None
+1.1 :As I am son and servant to your will, : None
+1.1 :To compass such a boundless happiness! : None
+ANTIOCHUS
+1.1 :Prince Pericles,-- : None
+PERICLES
+1.1 :That would be son to great Antiochus. : None
+ANTIOCHUS
+1.1 :Before thee stands this fair Hesperides, : None
+1.1 :With golden fruit, but dangerous to be touch'd; : None
+1.1 :For death-like dragons here affright thee hard: : None
+1.1 :Her face, like heaven, enticeth thee to view : None
+1.1 :Her countless glory, which desert must gain; : None
+1.1 :And which, without desert, because thine eye : None
+1.1 :Presumes to reach, all thy whole heap must die. : None
+1.1 :Yon sometimes famous princes, like thyself, : None
+1.1 :Drawn by report, adventurous by desire, : None
+1.1 :Tell thee, with speechless tongues and semblance pale, : None
+1.1 :That without covering, save yon field of stars, : None
+1.1 :Here they stand martyrs, slain in Cupid's wars; : None
+1.1 :And with dead cheeks advise thee to desist : None
+1.1 :For going on death's net, whom none resist. : None
+PERICLES
+1.1 :Antiochus, I thank thee, who hath taught : None
+1.1 :My frail mortality to know itself, : None
+1.1 :And by those fearful objects to prepare : None
+1.1 :This body, like to them, to what I must; : None
+1.1 :For death remember'd should be like a mirror, : None
+1.1 :Who tells us life's but breath, to trust it error. : None
+1.1 :I'll make my will then, and, as sick men do : None
+1.1 :Who know the world, see heaven, but, feeling woe, : None
+1.1 :Gripe not at earthly joys as erst they did; : None
+1.1 :So I bequeath a happy peace to you : None
+1.1 :And all good men, as every prince should do; : None
+1.1 :My riches to the earth from whence they came; : None
+1.1 :But my unspotted fire of love to you. : None
+To the Daughter of ANTIOCHUS : ["To - ['DAUGHTER', 'ANTIOCHUS']"] : PERICLES
+1.1 :Thus ready for the way of life or death, : None
+1.1 :I wait the sharpest blow, Antiochus. : None
+ANTIOCHUS
+1.1 :Scorning advice, read the conclusion then: : None
+1.1 :Which read and not expounded, 'tis decreed, : None
+1.1 :As these before thee thou thyself shalt bleed. : None
+DAUGHTER
+1.1 :Of all say'd yet, mayst thou prove prosperous! : None
+1.1 :Of all say'd yet, I wish thee happiness! : None
+PERICLES
+1.1 :Like a bold champion, I assume the lists, : None
+1.1 :Nor ask advice of any other thought : None
+1.1 :But faithfulness and courage. : None
+He reads the riddle : ['read - []'] : PERICLES
+1.1 :I am no viper, yet I feed : None
+1.1 :On mother's flesh which did me breed. : None
+1.1 :I sought a husband, in which labour : None
+1.1 :I found that kindness in a father: : None
+1.1 :He's father, son, and husband mild; : None
+1.1 :I mother, wife, and yet his child. : None
+1.1 :How they may be, and yet in two, : None
+1.1 :As you will live, resolve it you. : None
+1.1 :Sharp physic is the last: but, O you powers : None
+1.1 :That give heaven countless eyes to view men's acts, : None
+1.1 :Why cloud they not their sights perpetually, : None
+1.1 :If this be true, which makes me pale to read it? : None
+1.1 :Fair glass of light, I loved you, and could still, : None
+Takes hold of the hand of the Daughter of ANTIOCHUS : ["None - ['DAUGHTER', 'ANTIOCHUS']"] : PERICLES
+1.1 :Were not this glorious casket stored with ill: : None
+1.1 :But I must tell you, now my thoughts revolt : None
+1.1 :For he's no man on whom perfections wait : None
+1.1 :That, knowing sin within, will touch the gate. : None
+1.1 :You are a fair viol, and your sense the strings; : None
+1.1 :Who, finger'd to make man his lawful music, : None
+1.1 :Would draw heaven down, and all the gods, to hearken: : None
+1.1 :But being play'd upon before your time, : None
+1.1 :Hell only danceth at so harsh a chime. : None
+1.1 :Good sooth, I care not for you. : None
+ANTIOCHUS
+1.1 :Prince Pericles, touch not, upon thy life. : None
+1.1 :For that's an article within our law, : None
+1.1 :As dangerous as the rest. Your time's expired: : None
+1.1 :Either expound now, or receive your sentence. : None
+PERICLES
+1.1 :Great king, : None
+1.1 :Few love to hear the sins they love to act; : None
+1.1 :'Twould braid yourself too near for me to tell it. : None
+1.1 :Who has a book of all that monarchs do, : None
+1.1 :He's more secure to keep it shut than shown: : None
+1.1 :For vice repeated is like the wandering wind. : None
+1.1 :Blows dust in other's eyes, to spread itself; : None
+1.1 :And yet the end of all is bought thus dear, : None
+1.1 :The breath is gone, and the sore eyes see clear: : None
+1.1 :To stop the air would hurt them. The blind mole casts : None
+1.1 :Copp'd hills towards heaven, to tell the earth is throng'd : None
+1.1 :By man's oppression; and the poor worm doth die for't. : None
+1.1 :Kings are earth's gods; in vice their law's : None
+1.1 :their will; : None
+1.1 :And if Jove stray, who dares say Jove doth ill? : None
+1.1 :It is enough you know; and it is fit, : None
+1.1 :What being more known grows worse, to smother it. : None
+1.1 :All love the womb that their first being bred, : None
+1.1 :Then give my tongue like leave to love my head. : None
+ANTIOCHUS
+1.1 :  Heaven, that I had thy head! he has found : Aside : ['Aside - []'] : ANTIOCHUS
+1.1 :the meaning: : None
+1.1 :But I will gloze with him.--Young prince of Tyre, : None
+1.1 :Though by the tenor of our strict edict, : None
+1.1 :Your exposition misinterpreting, : None
+1.1 :We might proceed to cancel of your days; : None
+1.1 :Yet hope, succeeding from so fair a tree : None
+1.1 :As your fair self, doth tune us otherwise: : None
+1.1 :Forty days longer we do respite you; : None
+1.1 :If by which time our secret be undone, : None
+1.1 :This mercy shows we'll joy in such a son: : None
+1.1 :And until then your entertain shall be : None
+1.1 :As doth befit our honour and your worth. : None
+Exeunt all but PERICLES : ["Exeunt - ['ALL', 'PERICLES']"] : ANTIOCHUS
+PERICLES
+1.1 :How courtesy would seem to cover sin, : None
+1.1 :When what is done is like an hypocrite, : None
+1.1 :The which is good in nothing but in sight! : None
+1.1 :If it be true that I interpret false, : None
+1.1 :Then were it certain you were not so bad : None
+1.1 :As with foul incest to abuse your soul; : None
+1.1 :Where now you're both a father and a son, : None
+1.1 :By your untimely claspings with your child, : None
+1.1 :Which pleasure fits an husband, not a father; : None
+1.1 :And she an eater of her mother's flesh, : None
+1.1 :By the defiling of her parent's bed; : None
+1.1 :And both like serpents are, who though they feed : None
+1.1 :On sweetest flowers, yet they poison breed. : None
+1.1 :Antioch, farewell! for wisdom sees, those men : None
+1.1 :Blush not in actions blacker than the night, : None
+1.1 :Will shun no course to keep them from the light. : None
+1.1 :One sin, I know, another doth provoke; : None
+1.1 :Murder's as near to lust as flame to smoke: : None
+1.1 :Poison and treason are the hands of sin, : None
+1.1 :Ay, and the targets, to put off the shame: : None
+1.1 :Then, lest my lie be cropp'd to keep you clear, : None
+1.1 :By flight I'll shun the danger which I fear. : None
+Exit : ['Exit - []'] : PERICLES
+Re-enter ANTIOCHUS : ["Re-enter - ['ANTIOCHUS']"] : PERICLES
+ANTIOCHUS
+1.1 :He hath found the meaning, for which we mean : None
+1.1 :To have his head. : None
+1.1 :He must not live to trumpet forth my infamy, : None
+1.1 :Nor tell the world Antiochus doth sin : None
+1.1 :In such a loathed manner; : None
+1.1 :And therefore instantly this prince must die: : None
+1.1 :For by his fall my honour must keep high. : None
+1.1 :Who attends us there? : None
+Enter THALIARD : ["Enter - ['THALIARD']"] : ANTIOCHUS
+THALIARD
+1.1 :Doth your highness call? : None
+ANTIOCHUS
+1.1 :Thaliard, : None
+1.1 :You are of our chamber, and our mind partakes : None
+1.1 :Her private actions to your secrecy; : None
+1.1 :And for your faithfulness we will advance you. : None
+1.1 :Thaliard, behold, here's poison, and here's gold; : None
+1.1 :We hate the prince of Tyre, and thou must kill him: : None
+1.1 :It fits thee not to ask the reason why, : None
+1.1 :Because we bid it. Say, is it done? : None
+THALIARD
+1.1 :My lord, : None
+1.1 :'Tis done. : None
+ANTIOCHUS
+1.1 :         Enough. : None
+Enter a Messenger : ["Enter - ['MESSENGER']"] : ANTIOCHUS
+1.1 :Let your breath cool yourself, telling your haste. : None
+MESSENGER
+1.1 :My lord, prince Pericles is fled. : None
+Exit : ['Exit - []'] : MESSENGER
+ANTIOCHUS
+1.1 :As thou : None
+1.1 :Wilt live, fly after: and like an arrow shot : None
+1.1 :From a well-experienced archer hits the mark : None
+1.1 :His eye doth level at, so thou ne'er return : None
+1.1 :Unless thou say 'Prince Pericles is dead.' : None
+THALIARD
+1.1 :My lord, : None
+1.1 :If I can get him within my pistol's length, : None
+1.1 :I'll make him sure enough: so, farewell to your highness. : None
+ANTIOCHUS
+1.1 :Thaliard, adieu! : None
+Exit THALIARD : ["Exit - ['THALIARD']"] : ANTIOCHUS
+1.1 :Till Pericles be dead, : None
+1.1 :My heart can lend no succor to my head. : None
+Exit : ['Exit - []'] : ANTIOCHUS
+Scene(scene=2)
+Enter PERICLES : ["Enter - ['PERICLES']"] : ANTIOCHUS
+PERICLES
+1.2 :  Let none disturb us.--Why should : To Lords without : ["To - ['LORD']"] : PERICLES
+1.2 :this change of thoughts, : None
+1.2 :The sad companion, dull-eyed melancholy, : None
+1.2 :Be my so used a guest as not an hour, : None
+1.2 :In the day's glorious walk, or peaceful night, : None
+1.2 :The tomb where grief should sleep, can breed me quiet? : None
+1.2 :Here pleasures court mine eyes, and mine eyes shun them, : None
+1.2 :And danger, which I fear'd, is at Antioch, : None
+1.2 :Whose aim seems far too short to hit me here: : None
+1.2 :Yet neither pleasure's art can joy my spirits, : None
+1.2 :Nor yet the other's distance comfort me. : None
+1.2 :Then it is thus: the passions of the mind, : None
+1.2 :That have their first conception by mis-dread, : None
+1.2 :Have after-nourishment and life by care; : None
+1.2 :And what was first but fear what might be done, : None
+1.2 :Grows elder now and cares it be not done. : None
+1.2 :And so with me: the great Antiochus, : None
+1.2 :'Gainst whom I am too little to contend, : None
+1.2 :Since he's so great can make his will his act, : None
+1.2 :Will think me speaking, though I swear to silence; : None
+1.2 :Nor boots it me to say I honour him. : None
+1.2 :If he suspect I may dishonour him: : None
+1.2 :And what may make him blush in being known, : None
+1.2 :He'll stop the course by which it might be known; : None
+1.2 :With hostile forces he'll o'erspread the land, : None
+1.2 :And with the ostent of war will look so huge, : None
+1.2 :Amazement shall drive courage from the state; : None
+1.2 :Our men be vanquish'd ere they do resist, : None
+1.2 :And subjects punish'd that ne'er thought offence: : None
+1.2 :Which care of them, not pity of myself, : None
+1.2 :Who am no more but as the tops of trees, : None
+1.2 :Which fence the roots they grow by and defend them, : None
+1.2 :Makes both my body pine and soul to languish, : None
+1.2 :And punish that before that he would punish. : None
+Enter HELICANUS, with other Lords : ["Enter - ['HELICANUS', 'LORD']"] : PERICLES
+FIRST LORD
+1.2 :Joy and all comfort in your sacred breast! : None
+SECOND LORD
+1.2 :And keep your mind, till you return to us, : None
+1.2 :Peaceful and comfortable! : None
+HELICANUS
+1.2 :Peace, peace, and give experience tongue. : None
+1.2 :They do abuse the king that flatter him: : None
+1.2 :For flattery is the bellows blows up sin; : None
+1.2 :The thing which is flatter'd, but a spark, : None
+1.2 :To which that blast gives heat and stronger glowing; : None
+1.2 :Whereas reproof, obedient and in order, : None
+1.2 :Fits kings, as they are men, for they may err. : None
+1.2 :When Signior Sooth here does proclaim a peace, : None
+1.2 :He flatters you, makes war upon your life. : None
+1.2 :Prince, pardon me, or strike me, if you please; : None
+1.2 :I cannot be much lower than my knees. : None
+PERICLES
+1.2 :All leave us else; but let your cares o'erlook : None
+1.2 :What shipping and what lading's in our haven, : None
+1.2 :And then return to us. : None
+Exeunt Lords : ["Exeunt - ['LORD']"] : PERICLES
+1.2 :Helicanus, thou : None
+1.2 :Hast moved us: what seest thou in our looks? : None
+HELICANUS
+1.2 :An angry brow, dread lord. : None
+PERICLES
+1.2 :If there be such a dart in princes' frowns, : None
+1.2 :How durst thy tongue move anger to our face? : None
+HELICANUS
+1.2 :How dare the plants look up to heaven, from whence : None
+1.2 :They have their nourishment? : None
+PERICLES
+1.2 :Thou know'st I have power : None
+1.2 :To take thy life from thee. : None
+HELICANUS
+1.2 : : Kneeling : ['None - []'] : HELICANUS
+1.2 :I have ground the axe myself; : None
+1.2 :Do you but strike the blow. : None
+PERICLES
+1.2 :Rise, prithee, rise. : None
+1.2 :Sit down: thou art no flatterer: : None
+1.2 :I thank thee for it; and heaven forbid : None
+1.2 :That kings should let their ears hear their : None
+1.2 :faults hid! : None
+1.2 :Fit counsellor and servant for a prince, : None
+1.2 :Who by thy wisdom makest a prince thy servant, : None
+1.2 :What wouldst thou have me do? : None
+HELICANUS
+1.2 :To bear with patience : None
+1.2 :Such griefs as you yourself do lay upon yourself. : None
+PERICLES
+1.2 :Thou speak'st like a physician, Helicanus, : None
+1.2 :That minister'st a potion unto me : None
+1.2 :That thou wouldst tremble to receive thyself. : None
+1.2 :Attend me, then: I went to Antioch, : None
+1.2 :Where as thou know'st, against the face of death, : None
+1.2 :I sought the purchase of a glorious beauty. : None
+1.2 :From whence an issue I might propagate, : None
+1.2 :Are arms to princes, and bring joys to subjects. : None
+1.2 :Her face was to mine eye beyond all wonder; : None
+1.2 :The rest--hark in thine ear--as black as incest: : None
+1.2 :Which by my knowledge found, the sinful father : None
+1.2 :Seem'd not to strike, but smooth: but thou : None
+1.2 :know'st this, : None
+1.2 :'Tis time to fear when tyrants seem to kiss. : None
+1.2 :Such fear so grew in me, I hither fled, : None
+1.2 :Under the covering of a careful night, : None
+1.2 :Who seem'd my good protector; and, being here, : None
+1.2 :Bethought me what was past, what might succeed. : None
+1.2 :I knew him tyrannous; and tyrants' fears : None
+1.2 :Decrease not, but grow faster than the years: : None
+1.2 :And should he doubt it, as no doubt he doth, : None
+1.2 :That I should open to the listening air : None
+1.2 :How many worthy princes' bloods were shed, : None
+1.2 :To keep his bed of blackness unlaid ope, : None
+1.2 :To lop that doubt, he'll fill this land with arms, : None
+1.2 :And make pretence of wrong that I have done him: : None
+1.2 :When all, for mine, if I may call offence, : None
+1.2 :Must feel war's blow, who spares not innocence: : None
+1.2 :Which love to all, of which thyself art one, : None
+1.2 :Who now reprovest me for it,-- : None
+HELICANUS
+1.2 :Alas, sir! : None
+PERICLES
+1.2 :Drew sleep out of mine eyes, blood from my cheeks, : None
+1.2 :Musings into my mind, with thousand doubts : None
+1.2 :How I might stop this tempest ere it came; : None
+1.2 :And finding little comfort to relieve them, : None
+1.2 :I thought it princely charity to grieve them. : None
+HELICANUS
+1.2 :Well, my lord, since you have given me leave to speak. : None
+1.2 :Freely will I speak. Antiochus you fear, : None
+1.2 :And justly too, I think, you fear the tyrant, : None
+1.2 :Who either by public war or private treason : None
+1.2 :Will take away your life. : None
+1.2 :Therefore, my lord, go travel for a while, : None
+1.2 :Till that his rage and anger be forgot, : None
+1.2 :Or till the Destinies do cut his thread of life. : None
+1.2 :Your rule direct to any; if to me. : None
+1.2 :Day serves not light more faithful than I'll be. : None
+PERICLES
+1.2 :I do not doubt thy faith; : None
+1.2 :But should he wrong my liberties in my absence? : None
+HELICANUS
+1.2 :We'll mingle our bloods together in the earth, : None
+1.2 :From whence we had our being and our birth. : None
+PERICLES
+1.2 :Tyre, I now look from thee then, and to Tarsus : None
+1.2 :Intend my travel, where I'll hear from thee; : None
+1.2 :And by whose letters I'll dispose myself. : None
+1.2 :The care I had and have of subjects' good : None
+1.2 :On thee I lay whose wisdom's strength can bear it. : None
+1.2 :I'll take thy word for faith, not ask thine oath: : None
+1.2 :Who shuns not to break one will sure crack both: : None
+1.2 :But in our orbs we'll live so round and safe, : None
+1.2 :That time of both this truth shall ne'er convince, : None
+1.2 :Thou show'dst a subject's shine, I a true prince. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Scene(scene=3)
+Enter THALIARD : ["Enter - ['THALIARD']"] : PERICLES
+THALIARD
+1.3 :So, this is Tyre, and this the court. Here must I : None
+1.3 :kill King Pericles; and if I do it not, I am sure to : None
+1.3 :be hanged at home: 'tis dangerous. Well, I perceive : None
+1.3 :he was a wise fellow, and had good discretion, that, : None
+1.3 :being bid to ask what he would of the king, desired : None
+1.3 :he might know none of his secrets: now do I see he : None
+1.3 :had some reason for't; for if a king bid a man be a : None
+1.3 :villain, he's bound by the indenture of his oath to : None
+1.3 :be one! Hush! here come the lords of Tyre. : None
+Enter HELICANUS and ESCANES, with other Lords of Tyre : ["Enter - ['HELICANUS', 'ESCANES', 'LORD']"] : THALIARD
+HELICANUS
+1.3 :You shall not need, my fellow peers of Tyre, : None
+1.3 :Further to question me of your king's departure: : None
+1.3 :His seal'd commission, left in trust with me, : None
+1.3 :Doth speak sufficiently he's gone to travel. : None
+THALIARD
+1.3 :  How! the king gone! : Aside : ['Aside - []'] : THALIARD
+HELICANUS
+1.3 :If further yet you will be satisfied, : None
+1.3 :Why, as it were unlicensed of your loves, : None
+1.3 :He would depart, I'll give some light unto you. : None
+1.3 :Being at Antioch-- : None
+THALIARD
+1.3 :          What from Antioch? : Aside : ['Aside - []'] : THALIARD
+HELICANUS
+1.3 :Royal Antiochus--on what cause I know not-- : None
+1.3 :Took some displeasure at him; at least he judged so: : None
+1.3 :And doubting lest that he had err'd or sinn'd, : None
+1.3 :To show his sorrow, he'ld correct himself; : None
+1.3 :So puts himself unto the shipman's toil, : None
+1.3 :With whom each minute threatens life or death. : None
+THALIARD
+1.3 :  Well, I perceive : Aside : ['Aside - []'] : THALIARD
+1.3 :I shall not be hang'd now, although I would; : None
+1.3 :But since he's gone, the king's seas must please: : None
+1.3 :He 'scaped the land, to perish at the sea. : None
+1.3 :I'll present myself. Peace to the lords of Tyre! : None
+HELICANUS
+1.3 :Lord Thaliard from Antiochus is welcome. : None
+THALIARD
+1.3 :From him I come : None
+1.3 :With message unto princely Pericles; : None
+1.3 :But since my landing I have understood : None
+1.3 :Your lord has betook himself to unknown travels, : None
+1.3 :My message must return from whence it came. : None
+HELICANUS
+1.3 :We have no reason to desire it, : None
+1.3 :Commended to our master, not to us: : None
+1.3 :Yet, ere you shall depart, this we desire, : None
+1.3 :As friends to Antioch, we may feast in Tyre. : None
+Exeunt : ['Exeunt - []'] : HELICANUS
+Scene(scene=4)
+Enter CLEON, the governor of Tarsus, with DIONYZA, and others : ["Enter - ['CLEON', 'DIONYZA']"] : HELICANUS
+CLEON
+1.4 :My Dionyza, shall we rest us here, : None
+1.4 :And by relating tales of others' griefs, : None
+1.4 :See if 'twill teach us to forget our own? : None
+DIONYZA
+1.4 :That were to blow at fire in hope to quench it; : None
+1.4 :For who digs hills because they do aspire : None
+1.4 :Throws down one mountain to cast up a higher. : None
+1.4 :O my distressed lord, even such our griefs are; : None
+1.4 :Here they're but felt, and seen with mischief's eyes, : None
+1.4 :But like to groves, being topp'd, they higher rise. : None
+CLEON
+1.4 :O Dionyza, : None
+1.4 :Who wanteth food, and will not say he wants it, : None
+1.4 :Or can conceal his hunger till he famish? : None
+1.4 :Our tongues and sorrows do sound deep : None
+1.4 :Our woes into the air; our eyes do weep, : None
+1.4 :Till tongues fetch breath that may proclaim them louder; : None
+1.4 :That, if heaven slumber while their creatures want, : None
+1.4 :They may awake their helps to comfort them. : None
+1.4 :I'll then discourse our woes, felt several years, : None
+1.4 :And wanting breath to speak help me with tears. : None
+DIONYZA
+1.4 :I'll do my best, sir. : None
+CLEON
+1.4 :This Tarsus, o'er which I have the government, : None
+1.4 :A city on whom plenty held full hand, : None
+1.4 :For riches strew'd herself even in the streets; : None
+1.4 :Whose towers bore heads so high they kiss'd the clouds, : None
+1.4 :And strangers ne'er beheld but wondered at; : None
+1.4 :Whose men and dames so jetted and adorn'd, : None
+1.4 :Like one another's glass to trim them by: : None
+1.4 :Their tables were stored full, to glad the sight, : None
+1.4 :And not so much to feed on as delight; : None
+1.4 :All poverty was scorn'd, and pride so great, : None
+1.4 :The name of help grew odious to repeat. : None
+DIONYZA
+1.4 :O, 'tis too true. : None
+CLEON
+1.4 :But see what heaven can do! By this our change, : None
+1.4 :These mouths, who but of late, earth, sea, and air, : None
+1.4 :Were all too little to content and please, : None
+1.4 :Although they gave their creatures in abundance, : None
+1.4 :As houses are defiled for want of use, : None
+1.4 :They are now starved for want of exercise: : None
+1.4 :Those palates who, not yet two summers younger, : None
+1.4 :Must have inventions to delight the taste, : None
+1.4 :Would now be glad of bread, and beg for it: : None
+1.4 :Those mothers who, to nousle up their babes, : None
+1.4 :Thought nought too curious, are ready now : None
+1.4 :To eat those little darlings whom they loved. : None
+1.4 :So sharp are hunger's teeth, that man and wife : None
+1.4 :Draw lots who first shall die to lengthen life: : None
+1.4 :Here stands a lord, and there a lady weeping; : None
+1.4 :Here many sink, yet those which see them fall : None
+1.4 :Have scarce strength left to give them burial. : None
+1.4 :Is not this true? : None
+DIONYZA
+1.4 :Our cheeks and hollow eyes do witness it. : None
+CLEON
+1.4 :O, let those cities that of plenty's cup : None
+1.4 :And her prosperities so largely taste, : None
+1.4 :With their superfluous riots, hear these tears! : None
+1.4 :The misery of Tarsus may be theirs. : None
+Enter a Lord : ["Enter - ['LORD']"] : CLEON
+LORD
+1.4 :Where's the lord governor? : None
+CLEON
+1.4 :Here. : None
+1.4 :Speak out thy sorrows which thou bring'st in haste, : None
+1.4 :For comfort is too far for us to expect. : None
+LORD
+1.4 :We have descried, upon our neighbouring shore, : None
+1.4 :A portly sail of ships make hitherward. : None
+CLEON
+1.4 :I thought as much. : None
+1.4 :One sorrow never comes but brings an heir, : None
+1.4 :That may succeed as his inheritor; : None
+1.4 :And so in ours: some neighbouring nation, : None
+1.4 :Taking advantage of our misery, : None
+1.4 :Hath stuff'd these hollow vessels with their power, : None
+1.4 :To beat us down, the which are down already; : None
+1.4 :And make a conquest of unhappy me, : None
+1.4 :Whereas no glory's got to overcome. : None
+LORD
+1.4 :That's the least fear; for, by the semblance : None
+1.4 :Of their white flags display'd, they bring us peace, : None
+1.4 :And come to us as favourers, not as foes. : None
+CLEON
+1.4 :Thou speak'st like him's untutor'd to repeat: : None
+1.4 :Who makes the fairest show means most deceit. : None
+1.4 :But bring they what they will and what they can, : None
+1.4 :What need we fear? : None
+1.4 :The ground's the lowest, and we are half way there. : None
+1.4 :Go tell their general we attend him here, : None
+1.4 :To know for what he comes, and whence he comes, : None
+1.4 :And what he craves. : None
+LORD
+1.4 :I go, my lord. : None
+Exit : ['Exit - []'] : LORD
+CLEON
+1.4 :Welcome is peace, if he on peace consist; : None
+1.4 :If wars, we are unable to resist. : None
+Enter PERICLES with Attendants : ["Enter - ['PERICLES']"] : CLEON
+PERICLES
+1.4 :Lord governor, for so we hear you are, : None
+1.4 :Let not our ships and number of our men : None
+1.4 :Be like a beacon fired to amaze your eyes. : None
+1.4 :We have heard your miseries as far as Tyre, : None
+1.4 :And seen the desolation of your streets: : None
+1.4 :Nor come we to add sorrow to your tears, : None
+1.4 :But to relieve them of their heavy load; : None
+1.4 :And these our ships, you happily may think : None
+1.4 :Are like the Trojan horse was stuff'd within : None
+1.4 :With bloody veins, expecting overthrow, : None
+1.4 :Are stored with corn to make your needy bread, : None
+1.4 :And give them life whom hunger starved half dead. : None
+ALL
+1.4 :The gods of Greece protect you! : None
+1.4 :And we'll pray for you. : None
+PERICLES
+1.4 :Arise, I pray you, rise: : None
+1.4 :We do not look for reverence, but to love, : None
+1.4 :And harbourage for ourself, our ships, and men. : None
+CLEON
+1.4 :The which when any shall not gratify, : None
+1.4 :Or pay you with unthankfulness in thought, : None
+1.4 :Be it our wives, our children, or ourselves, : None
+1.4 :The curse of heaven and men succeed their evils! : None
+1.4 :Till when,--the which I hope shall ne'er be seen,-- : None
+1.4 :Your grace is welcome to our town and us. : None
+PERICLES
+1.4 :Which welcome we'll accept; feast here awhile, : None
+1.4 :Until our stars that frown lend us a smile. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Act(act=2)
+Enter GOWER : ["Enter - ['GOWER']"] : PERICLES
+GOWER
+2.4 :Here have you seen a mighty king : None
+2.4 :His child, I wis, to incest bring; : None
+2.4 :A better prince and benign lord, : None
+2.4 :That will prove awful both in deed and word. : None
+2.4 :Be quiet then as men should be, : None
+2.4 :Till he hath pass'd necessity. : None
+2.4 :I'll show you those in troubles reign, : None
+2.4 :Losing a mite, a mountain gain. : None
+2.4 :The good in conversation, : None
+2.4 :To whom I give my benison, : None
+2.4 :Is still at Tarsus, where each man : None
+2.4 :Thinks all is writ he speken can; : None
+2.4 :And, to remember what he does, : None
+2.4 :Build his statue to make him glorious: : None
+2.4 :But tidings to the contrary : None
+2.4 :Are brought your eyes; what need speak I? : None
+2.4 :DUMB SHOW. : None
+Enter at one door PERICLES talking with CLEON; all  the train with them. Enter at another door a  Gentleman, with a letter to PERICLES; PERICLES  shows the letter to CLEON; gives the Messenger a  reward, and knights him. Exit PERICLES at one door, and CLEON at another : ["Enter - ['PERICLES', 'CLEON', 'ALL']", "Enter - ['PERICLES', 'PERICLES', 'CLEON', 'MESSENGER', 'KNIGHTS']", "Exit - ['PERICLES', 'CLEON']"] : GOWER
+2.4 :Good Helicane, that stay'd at home, : None
+2.4 :Not to eat honey like a drone : None
+2.4 :From others' labours; for though he strive : None
+2.4 :To killen bad, keep good alive; : None
+2.4 :And to fulfil his prince' desire, : None
+2.4 :Sends word of all that haps in Tyre: : None
+2.4 :How Thaliard came full bent with sin : None
+2.4 :And had intent to murder him; : None
+2.4 :And that in Tarsus was not best : None
+2.4 :Longer for him to make his rest. : None
+2.4 :He, doing so, put forth to seas, : None
+2.4 :Where when men been, there's seldom ease; : None
+2.4 :For now the wind begins to blow; : None
+2.4 :Thunder above and deeps below : None
+2.4 :Make such unquiet, that the ship : None
+2.4 :Should house him safe is wreck'd and split; : None
+2.4 :And he, good prince, having all lost, : None
+2.4 :By waves from coast to coast is tost: : None
+2.4 :All perishen of man, of pelf, : None
+2.4 :Ne aught escapen but himself; : None
+2.4 :Till fortune, tired with doing bad, : None
+2.4 :Threw him ashore, to give him glad: : None
+2.4 :And here he comes. What shall be next, : None
+2.4 :Pardon old Gower,--this longs the text. : None
+Exit : ['Exit - []'] : GOWER
+Scene(scene=1)
+Enter PERICLES, wet : ["Enter - ['PERICLES']"] : GOWER
+PERICLES
+2.1 :Yet cease your ire, you angry stars of heaven! : None
+2.1 :Wind, rain, and thunder, remember, earthly man : None
+2.1 :Is but a substance that must yield to you; : None
+2.1 :And I, as fits my nature, do obey you: : None
+2.1 :Alas, the sea hath cast me on the rocks, : None
+2.1 :Wash'd me from shore to shore, and left me breath : None
+2.1 :Nothing to think on but ensuing death: : None
+2.1 :Let it suffice the greatness of your powers : None
+2.1 :To have bereft a prince of all his fortunes; : None
+2.1 :And having thrown him from your watery grave, : None
+2.1 :Here to have death in peace is all he'll crave. : None
+Enter three FISHERMEN : ['Enter - []'] : PERICLES
+FIRST FISHERMAN
+2.1 :What, ho, Pilch! : None
+SECOND FISHERMAN
+2.1 :Ha, come and bring away the nets! : None
+FIRST FISHERMAN
+2.1 :What, Patch-breech, I say! : None
+THIRD FISHERMAN
+2.1 :What say you, master? : None
+FIRST FISHERMAN
+2.1 :Look how thou stirrest now! come away, or I'll : None
+2.1 :fetch thee with a wanion. : None
+THIRD FISHERMAN
+2.1 :Faith, master, I am thinking of the poor men that : None
+2.1 :were cast away before us even now. : None
+FIRST FISHERMAN
+2.1 :Alas, poor souls, it grieved my heart to hear what : None
+2.1 :pitiful cries they made to us to help them, when, : None
+2.1 :well-a-day, we could scarce help ourselves. : None
+THIRD FISHERMAN
+2.1 :Nay, master, said not I as much when I saw the : None
+2.1 :porpus how he bounced and tumbled? they say : None
+2.1 :they're half fish, half flesh: a plague on them, : None
+2.1 :they ne'er come but I look to be washed. Master, I : None
+2.1 :marvel how the fishes live in the sea. : None
+FIRST FISHERMAN
+2.1 :Why, as men do a-land; the great ones eat up the : None
+2.1 :little ones: I can compare our rich misers to : None
+2.1 :nothing so fitly as to a whale; a' plays and : None
+2.1 :tumbles, driving the poor fry before him, and at : None
+2.1 :last devours them all at a mouthful: such whales : None
+2.1 :have I heard on o' the land, who never leave gaping : None
+2.1 :till they've swallowed the whole parish, church, : None
+2.1 :steeple, bells, and all. : None
+PERICLES
+2.1 :  A pretty moral. : Aside : ['Aside - []'] : PERICLES
+THIRD FISHERMAN
+2.1 :But, master, if I had been the sexton, I would have : None
+2.1 :been that day in the belfry. : None
+SECOND FISHERMAN
+2.1 :Why, man? : None
+THIRD FISHERMAN
+2.1 :Because he should have swallowed me too: and when I : None
+2.1 :had been in his belly, I would have kept such a : None
+2.1 :jangling of the bells, that he should never have : None
+2.1 :left, till he cast bells, steeple, church, and : None
+2.1 :parish up again. But if the good King Simonides : None
+2.1 :were of my mind,-- : None
+PERICLES
+2.1 :  Simonides! : Aside : ['Aside - []'] : PERICLES
+THIRD FISHERMAN
+2.1 :We would purge the land of these drones, that rob : None
+2.1 :the bee of her honey. : None
+PERICLES
+2.1 :  How from the finny subject of the sea : Aside : ['Aside - []'] : PERICLES
+2.1 :These fishers tell the infirmities of men; : None
+2.1 :And from their watery empire recollect : None
+2.1 :All that may men approve or men detect! : None
+2.1 :Peace be at your labour, honest fishermen. : None
+SECOND FISHERMAN
+2.1 :Honest! good fellow, what's that? If it be a day : None
+2.1 :fits you, search out of the calendar, and nobody : None
+2.1 :look after it. : None
+PERICLES
+2.1 :May see the sea hath cast upon your coast. : None
+SECOND FISHERMAN
+2.1 :What a drunken knave was the sea to cast thee in our : None
+2.1 :way! : None
+PERICLES
+2.1 :A man whom both the waters and the wind, : None
+2.1 :In that vast tennis-court, have made the ball : None
+2.1 :For them to play upon, entreats you pity him: : None
+2.1 :He asks of you, that never used to beg. : None
+FIRST FISHERMAN
+2.1 :No, friend, cannot you beg? Here's them in our : None
+2.1 :country Greece gets more with begging than we can do : None
+2.1 :with working. : None
+SECOND FISHERMAN
+2.1 :Canst thou catch any fishes, then? : None
+PERICLES
+2.1 :I never practised it. : None
+SECOND FISHERMAN
+2.1 :Nay, then thou wilt starve, sure; for here's nothing : None
+2.1 :to be got now-a-days, unless thou canst fish for't. : None
+PERICLES
+2.1 :What I have been I have forgot to know; : None
+2.1 :But what I am, want teaches me to think on: : None
+2.1 :A man throng'd up with cold: my veins are chill, : None
+2.1 :And have no more of life than may suffice : None
+2.1 :To give my tongue that heat to ask your help; : None
+2.1 :Which if you shall refuse, when I am dead, : None
+2.1 :For that I am a man, pray see me buried. : None
+FIRST FISHERMAN
+2.1 :Die quoth-a? Now gods forbid! I have a gown here; : None
+2.1 :come, put it on; keep thee warm. Now, afore me, a : None
+2.1 :handsome fellow! Come, thou shalt go home, and : None
+2.1 :we'll have flesh for holidays, fish for : None
+2.1 :fasting-days, and moreo'er puddings and flap-jacks, : None
+2.1 :and thou shalt be welcome. : None
+PERICLES
+2.1 :I thank you, sir. : None
+SECOND FISHERMAN
+2.1 :Hark you, my friend; you said you could not beg. : None
+PERICLES
+2.1 :I did but crave. : None
+SECOND FISHERMAN
+2.1 :But crave! Then I'll turn craver too, and so I : None
+2.1 :shall 'scape whipping. : None
+PERICLES
+2.1 :Why, are all your beggars whipped, then? : None
+SECOND FISHERMAN
+2.1 :O, not all, my friend, not all; for if all your : None
+2.1 :beggars were whipped, I would wish no better office : None
+2.1 :than to be beadle. But, master, I'll go draw up the : None
+2.1 :net. : None
+Exit with Third Fisherman : ["Exit - ['THIRD FISHERMAN']"] : SECOND FISHERMAN
+PERICLES
+2.1 :  How well this honest mirth becomes their labour! : Aside : ['Aside - []'] : PERICLES
+FIRST FISHERMAN
+2.1 :Hark you, sir, do you know where ye are? : None
+PERICLES
+2.1 :Not well. : None
+FIRST FISHERMAN
+2.1 :Why, I'll tell you: this is called Pentapolis, and : None
+2.1 :our king the good Simonides. : None
+PERICLES
+2.1 :The good King Simonides, do you call him. : None
+FIRST FISHERMAN
+2.1 :Ay, sir; and he deserves so to be called for his : None
+2.1 :peaceable reign and good government. : None
+PERICLES
+2.1 :He is a happy king, since he gains from his subjects : None
+2.1 :the name of good by his government. How far is his : None
+2.1 :court distant from this shore? : None
+FIRST FISHERMAN
+2.1 :Marry, sir, half a day's journey: and I'll tell : None
+2.1 :you, he hath a fair daughter, and to-morrow is her : None
+2.1 :birth-day; and there are princes and knights come : None
+2.1 :from all parts of the world to just and tourney for her love. : None
+PERICLES
+2.1 :Were my fortunes equal to my desires, I could wish : None
+2.1 :to make one there. : None
+FIRST FISHERMAN
+2.1 :O, sir, things must be as they may; and what a man : None
+2.1 :cannot get, he may lawfully deal for--his wife's soul. : None
+Re-enter Second and Third Fishermen, drawing up a net : ['Re-enter - []'] : FIRST FISHERMAN
+SECOND FISHERMAN
+2.1 :Help, master, help! here's a fish hangs in the net, : None
+2.1 :like a poor man's right in the law; 'twill hardly : None
+2.1 :come out. Ha! bots on't, 'tis come at last, and : None
+2.1 :'tis turned to a rusty armour. : None
+PERICLES
+2.1 :An armour, friends! I pray you, let me see it. : None
+2.1 :Thanks, fortune, yet, that, after all my crosses, : None
+2.1 :Thou givest me somewhat to repair myself; : None
+2.1 :And though it was mine own, part of my heritage, : None
+2.1 :Which my dead father did bequeath to me. : None
+2.1 :With this strict charge, even as he left his life, : None
+2.1 :'Keep it, my Pericles; it hath been a shield : None
+2.1 :Twixt me and death;'--and pointed to this brace;-- : None
+2.1 :'For that it saved me, keep it; in like necessity-- : None
+2.1 :The which the gods protect thee from!--may : None
+2.1 :defend thee.' : None
+2.1 :It kept where I kept, I so dearly loved it; : None
+2.1 :Till the rough seas, that spare not any man, : None
+2.1 :Took it in rage, though calm'd have given't again: : None
+2.1 :I thank thee for't: my shipwreck now's no ill, : None
+2.1 :Since I have here my father's gift in's will. : None
+FIRST FISHERMAN
+2.1 :What mean you, sir? : None
+PERICLES
+2.1 :To beg of you, kind friends, this coat of worth, : None
+2.1 :For it was sometime target to a king; : None
+2.1 :I know it by this mark. He loved me dearly, : None
+2.1 :And for his sake I wish the having of it; : None
+2.1 :And that you'ld guide me to your sovereign's court, : None
+2.1 :Where with it I may appear a gentleman; : None
+2.1 :And if that ever my low fortune's better, : None
+2.1 :I'll pay your bounties; till then rest your debtor. : None
+FIRST FISHERMAN
+2.1 :Why, wilt thou tourney for the lady? : None
+PERICLES
+2.1 :I'll show the virtue I have borne in arms. : None
+FIRST FISHERMAN
+2.1 :Why, do 'e take it, and the gods give thee good on't! : None
+SECOND FISHERMAN
+2.1 :Ay, but hark you, my friend; 'twas we that made up : None
+2.1 :this garment through the rough seams of the waters: : None
+2.1 :there are certain condolements, certain vails. I : None
+2.1 :hope, sir, if you thrive, you'll remember from : None
+2.1 :whence you had it. : None
+PERICLES
+2.1 :Believe 't, I will. : None
+2.1 :By your furtherance I am clothed in steel; : None
+2.1 :And, spite of all the rapture of the sea, : None
+2.1 :This jewel holds his building on my arm: : None
+2.1 :Unto thy value I will mount myself : None
+2.1 :Upon a courser, whose delightful steps : None
+2.1 :Shall make the gazer joy to see him tread. : None
+2.1 :Only, my friend, I yet am unprovided : None
+2.1 :Of a pair of bases. : None
+SECOND FISHERMAN
+2.1 :We'll sure provide: thou shalt have my best gown to : None
+2.1 :make thee a pair; and I'll bring thee to the court myself. : None
+PERICLES
+2.1 :Then honour be but a goal to my will, : None
+2.1 :This day I'll rise, or else add ill to ill. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Scene(scene=2)
+2.2 :lists. A pavilion by the side of it for the : None
+2.2 :reception of King, Princess, Lords,  & c. : None
+Enter SIMONIDES, THAISA, Lords, and Attendants : ["Enter - ['SIMONIDES', 'THAISA', 'LORD']"] : PERICLES
+SIMONIDES
+2.2 :Are the knights ready to begin the triumph? : None
+FIRST LORD
+2.2 :They are, my liege; : None
+2.2 :And stay your coming to present themselves. : None
+SIMONIDES
+2.2 :Return them, we are ready; and our daughter, : None
+2.2 :In honour of whose birth these triumphs are, : None
+2.2 :Sits here, like beauty's child, whom nature gat : None
+2.2 :For men to see, and seeing wonder at. : None
+Exit a Lord : ["Exit - ['LORD']"] : SIMONIDES
+THAISA
+2.2 :It pleaseth you, my royal father, to express : None
+2.2 :My commendations great, whose merit's less. : None
+SIMONIDES
+2.2 :It's fit it should be so; for princes are : None
+2.2 :A model which heaven makes like to itself: : None
+2.2 :As jewels lose their glory if neglected, : None
+2.2 :So princes their renowns if not respected. : None
+2.2 :'Tis now your honour, daughter, to explain : None
+2.2 :The labour of each knight in his device. : None
+THAISA
+2.2 :Which, to preserve mine honour, I'll perform. : None
+Enter a Knight; he passes over, and his Squire presents his shield to the Princess : ['Enter - []'] : THAISA
+SIMONIDES
+2.2 :Who is the first that doth prefer himself? : None
+THAISA
+2.2 :A knight of Sparta, my renowned father; : None
+2.2 :And the device he bears upon his shield : None
+2.2 :Is a black Ethiope reaching at the sun : None
+2.2 :The word, 'Lux tua vita mihi.' : None
+SIMONIDES
+2.2 :He loves you well that holds his life of you. : None
+The Second Knight passes over : ["None - ['SECOND KNIGHT']"] : SIMONIDES
+2.2 :Who is the second that presents himself? : None
+THAISA
+2.2 :A prince of Macedon, my royal father; : None
+2.2 :And the device he bears upon his shield : None
+2.2 :Is an arm'd knight that's conquer'd by a lady; : None
+2.2 :The motto thus, in Spanish, 'Piu por dulzura que por fuerza.' : None
+The Third Knight passes over : ["None - ['THIRD KNIGHT']"] : THAISA
+SIMONIDES
+2.2 :And what's the third? : None
+THAISA
+2.2 :The third of Antioch; : None
+2.2 :And his device, a wreath of chivalry; : None
+2.2 :The word, 'Me pompae provexit apex.' : None
+The Fourth Knight passes over : ['None - []'] : THAISA
+SIMONIDES
+2.2 :What is the fourth? : None
+THAISA
+2.2 :A burning torch that's turned upside down; : None
+2.2 :The word, 'Quod me alit, me extinguit.' : None
+SIMONIDES
+2.2 :Which shows that beauty hath his power and will, : None
+2.2 :Which can as well inflame as it can kill. : None
+The Fifth Knight passes over : ['None - []'] : SIMONIDES
+THAISA
+2.2 :The fifth, an hand environed with clouds, : None
+2.2 :Holding out gold that's by the touchstone tried; : None
+2.2 :The motto thus, 'Sic spectanda fides.' : None
+The Sixth Knight, PERICLES, passes over : ["None - ['PERICLES']"] : THAISA
+SIMONIDES
+2.2 :And what's : None
+2.2 :The sixth and last, the which the knight himself : None
+2.2 :With such a graceful courtesy deliver'd? : None
+THAISA
+2.2 :He seems to be a stranger; but his present is : None
+2.2 :A wither'd branch, that's only green at top; : None
+2.2 :The motto, 'In hac spe vivo.' : None
+SIMONIDES
+2.2 :A pretty moral; : None
+2.2 :From the dejected state wherein he is, : None
+2.2 :He hopes by you his fortunes yet may flourish. : None
+FIRST LORD
+2.2 :He had need mean better than his outward show : None
+2.2 :Can any way speak in his just commend; : None
+2.2 :For by his rusty outside he appears : None
+2.2 :To have practised more the whipstock than the lance. : None
+SECOND LORD
+2.2 :He well may be a stranger, for he comes : None
+2.2 :To an honour'd triumph strangely furnished. : None
+THIRD LORD
+2.2 :And on set purpose let his armour rust : None
+2.2 :Until this day, to scour it in the dust. : None
+SIMONIDES
+2.2 :Opinion's but a fool, that makes us scan : None
+2.2 :The outward habit by the inward man. : None
+2.2 :But stay, the knights are coming: we will withdraw : None
+2.2 :Into the gallery. : None
+Exeunt : ['Exeunt - []'] : SIMONIDES
+Great shouts within and all cry 'The mean knight!' : ["None - ['ALL']"] : SIMONIDES
+Scene(scene=3)
+Enter SIMONIDES, THAISA, Lords, Attendants, and Knights, from tilting : ["Enter - ['SIMONIDES', 'THAISA', 'LORD', 'KNIGHTS']"] : SIMONIDES
+SIMONIDES
+2.3 :Knights, : None
+2.3 :To say you're welcome were superfluous. : None
+2.3 :To place upon the volume of your deeds, : None
+2.3 :As in a title-page, your worth in arms, : None
+2.3 :Were more than you expect, or more than's fit, : None
+2.3 :Since every worth in show commends itself. : None
+2.3 :Prepare for mirth, for mirth becomes a feast: : None
+2.3 :You are princes and my guests. : None
+THAISA
+2.3 :But you, my knight and guest; : None
+2.3 :To whom this wreath of victory I give, : None
+2.3 :And crown you king of this day's happiness. : None
+PERICLES
+2.3 :'Tis more by fortune, lady, than by merit. : None
+SIMONIDES
+2.3 :Call it by what you will, the day is yours; : None
+2.3 :And here, I hope, is none that envies it. : None
+2.3 :In framing an artist, art hath thus decreed, : None
+2.3 :To make some good, but others to exceed; : None
+2.3 :And you are her labour'd scholar. Come, queen o' : None
+2.3 :the feast,-- : None
+2.3 :For, daughter, so you are,--here take your place: : None
+2.3 :Marshal the rest, as they deserve their grace. : None
+KNIGHTS
+2.3 :We are honour'd much by good Simonides. : None
+SIMONIDES
+2.3 :Your presence glads our days: honour we love; : None
+2.3 :For who hates honour hates the gods above. : None
+MARSHAL
+2.3 :Sir, yonder is your place. : None
+PERICLES
+2.3 :Some other is more fit. : None
+FIRST KNIGHT
+2.3 :Contend not, sir; for we are gentlemen : None
+2.3 :That neither in our hearts nor outward eyes : None
+2.3 :Envy the great nor do the low despise. : None
+PERICLES
+2.3 :You are right courteous knights. : None
+SIMONIDES
+2.3 :Sit, sir, sit. : None
+PERICLES
+2.3 :By Jove, I wonder, that is king of thoughts, : None
+2.3 :These cates resist me, she but thought upon. : None
+THAISA
+2.3 :By Juno, that is queen of marriage, : None
+2.3 :All viands that I eat do seem unsavoury. : None
+2.3 :Wishing him my meat. Sure, he's a gallant gentleman. : None
+SIMONIDES
+2.3 :He's but a country gentleman; : None
+2.3 :Has done no more than other knights have done; : None
+2.3 :Has broken a staff or so; so let it pass. : None
+THAISA
+2.3 :To me he seems like diamond to glass. : None
+PERICLES
+2.3 :Yon king's to me like to my father's picture, : None
+2.3 :Which tells me in that glory once he was; : None
+2.3 :Had princes sit, like stars, about his throne, : None
+2.3 :And he the sun, for them to reverence; : None
+2.3 :None that beheld him, but, like lesser lights, : None
+2.3 :Did vail their crowns to his supremacy: : None
+2.3 :Where now his son's like a glow-worm in the night, : None
+2.3 :The which hath fire in darkness, none in light: : None
+2.3 :Whereby I see that Time's the king of men, : None
+2.3 :He's both their parent, and he is their grave, : None
+2.3 :And gives them what he will, not what they crave. : None
+SIMONIDES
+2.3 :What, are you merry, knights? : None
+KNIGHTS
+2.3 :Who can be other in this royal presence? : None
+SIMONIDES
+2.3 :Here, with a cup that's stored unto the brim,-- : None
+2.3 :As you do love, fill to your mistress' lips,-- : None
+2.3 :We drink this health to you. : None
+KNIGHTS
+2.3 :We thank your grace. : None
+SIMONIDES
+2.3 :Yet pause awhile: : None
+2.3 :Yon knight doth sit too melancholy, : None
+2.3 :As if the entertainment in our court : None
+2.3 :Had not a show might countervail his worth. : None
+2.3 :Note it not you, Thaisa? : None
+THAISA
+2.3 :What is it : None
+2.3 :To me, my father? : None
+SIMONIDES
+2.3 :                  O, attend, my daughter: : None
+2.3 :Princes in this should live like gods above, : None
+2.3 :Who freely give to every one that comes : None
+2.3 :To honour them: : None
+2.3 :And princes not doin g so are like to gnats, : None
+2.3 :Which make a sound, but kill'd are wonder'd at. : None
+2.3 :Therefore to make his entrance more sweet, : None
+2.3 :Here, say we drink this standing-bowl of wine to him. : None
+THAISA
+2.3 :Alas, my father, it befits not me : None
+2.3 :Unto a stranger knight to be so bold: : None
+2.3 :He may my proffer take for an offence, : None
+2.3 :Since men take women's gifts for impudence. : None
+SIMONIDES
+2.3 :How! : None
+2.3 :Do as I bid you, or you'll move me else. : None
+THAISA
+2.3 :  Now, by the gods, he could not please me better. : Aside : ['Aside - []'] : THAISA
+SIMONIDES
+2.3 :And furthermore tell him, we desire to know of him, : None
+2.3 :Of whence he is, his name and parentage. : None
+THAISA
+2.3 :The king my father, sir, has drunk to you. : None
+PERICLES
+2.3 :I thank him. : None
+THAISA
+2.3 :Wishing it so much blood unto your life. : None
+PERICLES
+2.3 :I thank both him and you, and pledge him freely. : None
+THAISA
+2.3 :And further he desires to know of you, : None
+2.3 :Of whence you are, your name and parentage. : None
+PERICLES
+2.3 :A gentleman of Tyre; my name, Pericles; : None
+2.3 :My education been in arts and arms; : None
+2.3 :Who, looking for adventures in the world, : None
+2.3 :Was by the rough seas reft of ships and men, : None
+2.3 :And after shipwreck driven upon this shore. : None
+THAISA
+2.3 :He thanks your grace; names himself Pericles, : None
+2.3 :A gentleman of Tyre, : None
+2.3 :Who only by misfortune of the seas : None
+2.3 :Bereft of ships and men, cast on this shore. : None
+SIMONIDES
+2.3 :Now, by the gods, I pity his misfortune, : None
+2.3 :And will awake him from his melancholy. : None
+2.3 :Come, gentlemen, we sit too long on trifles, : None
+2.3 :And waste the time, which looks for other revels. : None
+2.3 :Even in your armours, as you are address'd, : None
+2.3 :Will very well become a soldier's dance. : None
+2.3 :I will not have excuse, with saying this : None
+2.3 :Loud music is too harsh for ladies' heads, : None
+2.3 :Since they love men in arms as well as beds. : None
+The Knights dance : ["None - ['KNIGHTS']"] : SIMONIDES
+2.3 :So, this was well ask'd,'twas so well perform'd. : None
+2.3 :Come, sir; : None
+2.3 :Here is a lady that wants breathing too: : None
+2.3 :And I have heard, you knights of Tyre : None
+2.3 :Are excellent in making ladies trip; : None
+2.3 :And that their measures are as excellent. : None
+PERICLES
+2.3 :In those that practise them they are, my lord. : None
+SIMONIDES
+2.3 :O, that's as much as you would be denied : None
+2.3 :Of your fair courtesy. : None
+The Knights and Ladies dance : ["None - ['KNIGHTS']"] : SIMONIDES
+2.3 :Unclasp, unclasp: : None
+2.3 :Thanks, gentlemen, to all; all have done well. : None
+To PERICLES : ["To - ['PERICLES']"] : SIMONIDES
+2.3 :But you the best. Pages and lights, to conduct : None
+2.3 :These knights unto their several lodgings! : None
+To PERICLES : ["To - ['PERICLES']"] : SIMONIDES
+2.3 :Yours, sir, : None
+2.3 :We have given order to be next our own. : None
+PERICLES
+2.3 :I am at your grace's pleasure. : None
+SIMONIDES
+2.3 :Princes, it is too late to talk of love; : None
+2.3 :And that's the mark I know you level at: : None
+2.3 :Therefore each one betake him to his rest; : None
+2.3 :To-morrow all for speeding do their best. : None
+Exeunt : ['Exeunt - []'] : SIMONIDES
+Scene(scene=4)
+Enter HELICANUS and ESCANES : ["Enter - ['HELICANUS', 'ESCANES']"] : SIMONIDES
+HELICANUS
+2.4 :No, Escanes, know this of me, : None
+2.4 :Antiochus from incest lived not free: : None
+2.4 :For which, the most high gods not minding longer : None
+2.4 :To withhold the vengeance that they had in store, : None
+2.4 :Due to this heinous capital offence, : None
+2.4 :Even in the height and pride of all his glory, : None
+2.4 :When he was seated in a chariot : None
+2.4 :Of an inestimable value, and his daughter with him, : None
+2.4 :A fire from heaven came and shrivell'd up : None
+2.4 :Their bodies, even to loathing; for they so stunk, : None
+2.4 :That all those eyes adored them ere their fall : None
+2.4 :Scorn now their hand should give them burial. : None
+ESCANES
+2.4 :'Twas very strange. : None
+HELICANUS
+2.4 :And yet but justice; for though : None
+2.4 :This king were great, his greatness was no guard : None
+2.4 :To bar heaven's shaft, but sin had his reward. : None
+ESCANES
+2.4 :'Tis very true. : None
+Enter two or three Lords : ["Enter - ['LORD']"] : ESCANES
+FIRST LORD
+2.4 :See, not a man in private conference : None
+2.4 :Or council has respect with him but he. : None
+SECOND LORD
+2.4 :It shall no longer grieve without reproof. : None
+THIRD LORD
+2.4 :And cursed be he that will not second it. : None
+FIRST LORD
+2.4 :Follow me, then. Lord Helicane, a word. : None
+HELICANUS
+2.4 :With me? and welcome: happy day, my lords. : None
+FIRST LORD
+2.4 :Know that our griefs are risen to the top, : None
+2.4 :And now at length they overflow their banks. : None
+HELICANUS
+2.4 :Your griefs! for what? wrong not your prince you love. : None
+FIRST LORD
+2.4 :Wrong not yourself, then, noble Helicane; : None
+2.4 :But if the prince do live, let us salute him, : None
+2.4 :Or know what ground's made happy by his breath. : None
+2.4 :If in the world he live, we'll seek him out; : None
+2.4 :If in his grave he rest, we'll find him there; : None
+2.4 :And be resolved he lives to govern us, : None
+2.4 :Or dead, give's cause to mourn his funeral, : None
+2.4 :And leave us to our free election. : None
+SECOND LORD
+2.4 :Whose death indeed's the strongest in our censure: : None
+2.4 :And knowing this kingdom is without a head,-- : None
+2.4 :Like goodly buildings left without a roof : None
+2.4 :Soon fall to ruin,--your noble self, : None
+2.4 :That best know how to rule and how to reign, : None
+2.4 :We thus submit unto,--our sovereign. : None
+ALL
+2.4 :Live, noble Helicane! : None
+HELICANUS
+2.4 :For honour's cause, forbear your suffrages: : None
+2.4 :If that you love Prince Pericles, forbear. : None
+2.4 :Take I your wish, I leap into the seas, : None
+2.4 :Where's hourly trouble for a minute's ease. : None
+2.4 :A twelvemonth longer, let me entreat you to : None
+2.4 :Forbear the absence of your king: : None
+2.4 :If in which time expired, he not return, : None
+2.4 :I shall with aged patience bear your yoke. : None
+2.4 :But if I cannot win you to this love, : None
+2.4 :Go search like nobles, like noble subjects, : None
+2.4 :And in your search spend your adventurous worth; : None
+2.4 :Whom if you find, and win unto return, : None
+2.4 :You shall like diamonds sit about his crown. : None
+FIRST LORD
+2.4 :To wisdom he's a fool that will not yield; : None
+2.4 :And since Lord Helicane enjoineth us, : None
+2.4 :We with our travels will endeavour us. : None
+HELICANUS
+2.4 :Then you love us, we you, and we'll clasp hands: : None
+2.4 :When peers thus knit, a kingdom ever stands. : None
+Exeunt : ['Exeunt - []'] : HELICANUS
+Scene(scene=5)
+Enter SIMONIDES, reading a letter, at one door: the Knights meet him : ["Enter - ['SIMONIDES', 'KNIGHTS']"] : HELICANUS
+FIRST KNIGHT
+2.5 :Good morrow to the good Simonides. : None
+SIMONIDES
+2.5 :Knights, from my daughter this I let you know, : None
+2.5 :That for this twelvemonth she'll not undertake : None
+2.5 :A married life. : None
+2.5 :Her reason to herself is only known, : None
+2.5 :Which yet from her by no means can I get. : None
+SECOND KNIGHT
+2.5 :May we not get access to her, my lord? : None
+SIMONIDES
+2.5 :'Faith, by no means; she has so strictly tied : None
+2.5 :Her to her chamber, that 'tis impossible. : None
+2.5 :One twelve moons more she'll wear Diana's livery; : None
+2.5 :This by the eye of Cynthia hath she vow'd : None
+2.5 :And on her virgin honour will not break it. : None
+THIRD KNIGHT
+2.5 :Loath to bid farewell, we take our leaves. : None
+Exeunt Knights : ["Exeunt - ['KNIGHTS']"] : THIRD KNIGHT
+SIMONIDES
+2.5 :So, : None
+2.5 :They are well dispatch'd; now to my daughter's letter: : None
+2.5 :She tells me here, she'd wed the stranger knight, : None
+2.5 :Or never more to view nor day nor light. : None
+2.5 :'Tis well, mistress; your choice agrees with mine; : None
+2.5 :I like that well: nay, how absolute she's in't, : None
+2.5 :Not minding whether I dislike or no! : None
+2.5 :Well, I do commend her choice; : None
+2.5 :And will no longer have it be delay'd. : None
+2.5 :Soft! here he comes: I must dissemble it. : None
+Enter PERICLES : ["Enter - ['PERICLES']"] : SIMONIDES
+PERICLES
+2.5 :All fortune to the good Simonides! : None
+SIMONIDES
+2.5 :To you as much, sir! I am beholding to you : None
+2.5 :For your sweet music this last night: I do : None
+2.5 :Protest my ears were never better fed : None
+2.5 :With such delightful pleasing harmony. : None
+PERICLES
+2.5 :It is your grace's pleasure to commend; : None
+2.5 :Not my desert. : None
+SIMONIDES
+2.5 :Sir, you are music's master. : None
+PERICLES
+2.5 :The worst of all her scholars, my good lord. : None
+SIMONIDES
+2.5 :Let me ask you one thing: : None
+2.5 :What do you think of my daughter, sir? : None
+PERICLES
+2.5 :A most virtuous princess. : None
+SIMONIDES
+2.5 :And she is fair too, is she not? : None
+PERICLES
+2.5 :As a fair day in summer, wondrous fair. : None
+SIMONIDES
+2.5 :Sir, my daughter thinks very well of you; : None
+2.5 :Ay, so well, that you must be her master, : None
+2.5 :And she will be your scholar: therefore look to it. : None
+PERICLES
+2.5 :I am unworthy for her schoolmaster. : None
+SIMONIDES
+2.5 :She thinks not so; peruse this writing else. : None
+PERICLES
+2.5 :  What's here? : Aside : ['Aside - []'] : PERICLES
+2.5 :A letter, that she loves the knight of Tyre! : None
+2.5 :'Tis the king's subtlety to have my life. : None
+2.5 :O, seek not to entrap me, gracious lord, : None
+2.5 :A stranger and distressed gentleman, : None
+2.5 :That never aim'd so high to love your daughter, : None
+2.5 :But bent all offices to honour her. : None
+SIMONIDES
+2.5 :Thou hast bewitch'd my daughter, and thou art : None
+2.5 :A villain. : None
+PERICLES
+2.5 :By the gods, I have not: : None
+2.5 :Never did thought of mine levy offence; : None
+2.5 :Nor never did my actions yet commence : None
+2.5 :A deed might gain her love or your displeasure. : None
+SIMONIDES
+2.5 :Traitor, thou liest. : None
+PERICLES
+2.5 :Traitor! : None
+SIMONIDES
+2.5 :Ay, traitor. : None
+PERICLES
+2.5 :Even in his throat--unless it be the king-- : None
+2.5 :That calls me traitor, I return the lie. : None
+SIMONIDES
+2.5 :  Now, by the gods, I do applaud his courage. : Aside : ['Aside - []'] : SIMONIDES
+PERICLES
+2.5 :My actions are as noble as my thoughts, : None
+2.5 :That never relish'd of a base descent. : None
+2.5 :I came unto your court for honour's cause, : None
+2.5 :And not to be a rebel to her state; : None
+2.5 :And he that otherwise accounts of me, : None
+2.5 :This sword shall prove he's honour's enemy. : None
+SIMONIDES
+2.5 :No? : None
+2.5 :Here comes my daughter, she can witness it. : None
+Enter THAISA : ["Enter - ['THAISA']"] : SIMONIDES
+PERICLES
+2.5 :Then, as you are as virtuous as fair, : None
+2.5 :Resolve your angry father, if my tongue : None
+2.5 :Did ere solicit, or my hand subscribe : None
+2.5 :To any syllable that made love to you. : None
+THAISA
+2.5 :Why, sir, say if you had, : None
+2.5 :Who takes offence at that would make me glad? : None
+SIMONIDES
+2.5 :Yea, mistress, are you so peremptory? : None
+Aside : ['Aside - []'] : SIMONIDES
+2.5 :I am glad on't with all my heart.-- : None
+2.5 :I'll tame you; I'll bring you in subjection. : None
+2.5 :Will you, not having my consent, : None
+2.5 :Bestow your love and your affections : None
+2.5 :Upon a stranger? : None
+Aside : ['Aside - []'] : SIMONIDES
+2.5 :who, for aught I know, : None
+2.5 :May be, nor can I think the contrary, : None
+2.5 :As great in blood as I myself.-- : None
+2.5 :Therefore hear you, mistress; either frame : None
+2.5 :Your will to mine,--and you, sir, hear you, : None
+2.5 :Either be ruled by me, or I will make you-- : None
+2.5 :Man and wife: : None
+2.5 :Nay, come, your hands and lips must seal it too: : None
+2.5 :And being join'd, I'll thus your hopes destroy; : None
+2.5 :And for a further grief,--God give you joy!-- : None
+2.5 :What, are you both pleased? : None
+THAISA
+2.5 :Yes, if you love me, sir. : None
+PERICLES
+2.5 :Even as my life, or blood that fosters it. : None
+SIMONIDES
+2.5 :What, are you both agreed? : None
+BOTH
+2.5 :Yes, if it please your majesty. : None
+SIMONIDES
+2.5 :It pleaseth me so well, that I will see you wed; : None
+2.5 :And then with what haste you can get you to bed. : None
+Exeunt : ['Exeunt - []'] : SIMONIDES
+Act(act=3)
+Enter GOWER : ["Enter - ['GOWER']"] : SIMONIDES
+GOWER
+3.5 :Now sleep y-slaked hath the rout; : None
+3.5 :No din but snores the house about, : None
+3.5 :Made louder by the o'er-fed breast : None
+3.5 :Of this most pompous marriage-feast. : None
+3.5 :The cat, with eyne of burning coal, : None
+3.5 :Now crouches fore the mouse's hole; : None
+3.5 :And crickets sing at the oven's mouth, : None
+3.5 :E'er the blither for their drouth. : None
+3.5 :Hymen hath brought the bride to bed. : None
+3.5 :Where, by the loss of maidenhead, : None
+3.5 :A babe is moulded. Be attent, : None
+3.5 :And time that is so briefly spent : None
+3.5 :With your fine fancies quaintly eche: : None
+3.5 :What's dumb in show I'll plain with speech. : None
+3.5 :DUMB SHOW. : None
+Enter, PERICLES and SIMONIDES at one door, with  Attendants; a Messenger meets them, kneels, and  gives PERICLES a letter: PERICLES shows it  SIMONIDES; the Lords kneel to him. Then enter  THAISA with child, with LYCHORIDA a nurse. The  KING shows her the letter; she rejoices: she and  PERICLES takes leave of her father, and depart with  LYCHORIDA and their Attendants. Then exeunt SIMONIDES and the rest : ["Enter - ['PERICLES', 'SIMONIDES', 'MESSENGER', 'PERICLES', 'PERICLES', 'SIMONIDES', 'LORD']", "enter - ['THAISA', 'LYCHORIDA']", "None - ['PERICLES', 'LYCHORIDA']", "exeunt - ['SIMONIDES']"] : GOWER
+3.5 :By many a dern and painful perch : None
+3.5 :Of Pericles the careful search, : None
+3.5 :By the four opposing coigns : None
+3.5 :Which the world together joins, : None
+3.5 :Is made with all due diligence : None
+3.5 :That horse and sail and high expense : None
+3.5 :Can stead the quest. At last from Tyre, : None
+3.5 :Fame answering the most strange inquire, : None
+3.5 :To the court of King Simonides : None
+3.5 :Are letters brought, the tenor these: : None
+3.5 :Antiochus and his daughter dead; : None
+3.5 :The men of Tyrus on the head : None
+3.5 :Of Helicanus would set on : None
+3.5 :The crown of Tyre, but he will none: : None
+3.5 :The mutiny he there hastes t' oppress; : None
+3.5 :Says to 'em, if King Pericles : None
+3.5 :Come not home in twice six moons, : None
+3.5 :He, obedient to their dooms, : None
+3.5 :Will take the crown. The sum of this, : None
+3.5 :Brought hither to Pentapolis, : None
+3.5 :Y-ravished the regions round, : None
+3.5 :And every one with claps can sound, : None
+3.5 :'Our heir-apparent is a king! : None
+3.5 :Who dream'd, who thought of such a thing?' : None
+3.5 :Brief, he must hence depart to Tyre: : None
+3.5 :His queen with child makes her desire-- : None
+3.5 :Which who shall cross?--along to go: : None
+3.5 :Omit we all their dole and woe: : None
+3.5 :Lychorida, her nurse, she takes, : None
+3.5 :And so to sea. Their vessel shakes : None
+3.5 :On Neptune's billow; half the flood : None
+3.5 :Hath their keel cut: but fortune's mood : None
+3.5 :Varies again; the grisly north : None
+3.5 :Disgorges such a tempest forth, : None
+3.5 :That, as a duck for life that dives, : None
+3.5 :So up and down the poor ship drives: : None
+3.5 :The lady shrieks, and well-a-near : None
+3.5 :Does fall in travail with her fear: : None
+3.5 :And what ensues in this fell storm : None
+3.5 :Shall for itself itself perform. : None
+3.5 :I nill relate, action may : None
+3.5 :Conveniently the rest convey; : None
+3.5 :Which might not what by me is told. : None
+3.5 :In your imagination hold : None
+3.5 :This stage the ship, upon whose deck : None
+3.5 :The sea-tost Pericles appears to speak. : None
+Exit : ['Exit - []'] : GOWER
+3.5 :SCENE I: : None
+Enter PERICLES, on shipboard : ["Enter - ['PERICLES']"] : GOWER
+PERICLES
+3.5 :Thou god of this great vast, rebuke these surges, : None
+3.5 :Which wash both heaven and hell; and thou, that hast : None
+3.5 :Upon the winds command, bind them in brass, : None
+3.5 :Having call'd them from the deep! O, still : None
+3.5 :Thy deafening, dreadful thunders; gently quench : None
+3.5 :Thy nimble, sulphurous flashes! O, how, Lychorida, : None
+3.5 :How does my queen? Thou stormest venomously; : None
+3.5 :Wilt thou spit all thyself? The seaman's whistle : None
+3.5 :Is as a whisper in the ears of death, : None
+3.5 :Unheard. Lychorida!--Lucina, O : None
+3.5 :Divinest patroness, and midwife gentle : None
+3.5 :To those that cry by night, convey thy deity : None
+3.5 :Aboard our dancing boat; make swift the pangs : None
+3.5 :Of my queen's travails! : None
+Enter LYCHORIDA, with an Infant : ["Enter - ['LYCHORIDA']"] : PERICLES
+3.5 :Now, Lychorida! : None
+LYCHORIDA
+3.5 :Here is a thing too young for such a place, : None
+3.5 :Who, if it had conceit, would die, as I : None
+3.5 :Am like to do: take in your arms this piece : None
+3.5 :Of your dead queen. : None
+PERICLES
+3.5 :How, how, Lychorida! : None
+LYCHORIDA
+3.5 :Patience, good sir; do not assist the storm. : None
+3.5 :Here's all that is left living of your queen, : None
+3.5 :A little daughter: for the sake of it, : None
+3.5 :Be manly, and take comfort. : None
+PERICLES
+3.5 :O you gods! : None
+3.5 :Why do you make us love your goodly gifts, : None
+3.5 :And snatch them straight away? We here below : None
+3.5 :Recall not what we give, and therein may : None
+3.5 :Use honour with you. : None
+LYCHORIDA
+3.5 :Patience, good sir, : None
+3.5 :Even for this charge. : None
+PERICLES
+3.5 :Now, mild may be thy life! : None
+3.5 :For a more blustrous birth had never babe: : None
+3.5 :Quiet and gentle thy conditions! for : None
+3.5 :Thou art the rudeliest welcome to this world : None
+3.5 :That ever was prince's child. Happy what follows! : None
+3.5 :Thou hast as chiding a nativity : None
+3.5 :As fire, air, water, earth, and heaven can make, : None
+3.5 :To herald thee from the womb: even at the first : None
+3.5 :Thy loss is more than can thy portage quit, : None
+3.5 :With all thou canst find here. Now, the good gods : None
+3.5 :Throw their best eyes upon't! : None
+Enter two Sailors : ['Enter - []'] : PERICLES
+FIRST SAILOR
+3.5 :What courage, sir? God save you! : None
+PERICLES
+3.5 :Courage enough: I do not fear the flaw; : None
+3.5 :It hath done to me the worst. Yet, for the love : None
+3.5 :Of this poor infant, this fresh-new sea-farer, : None
+3.5 :I would it would be quiet. : None
+FIRST SAILOR
+3.5 :Slack the bolins there! Thou wilt not, wilt thou? : None
+3.5 :Blow, and split thyself. : None
+SECOND SAILOR
+3.5 :But sea-room, an the brine and cloudy billow kiss : None
+3.5 :the moon, I care not. : None
+FIRST SAILOR
+3.5 :Sir, your queen must overboard: the sea works high, : None
+3.5 :the wind is loud, and will not lie till the ship be : None
+3.5 :cleared of the dead. : None
+PERICLES
+3.5 :That's your superstition. : None
+FIRST SAILOR
+3.5 :Pardon us, sir; with us at sea it hath been still : None
+3.5 :observed: and we are strong in custom. Therefore : None
+3.5 :briefly yield her; for she must overboard straight. : None
+PERICLES
+3.5 :As you think meet. Most wretched queen! : None
+LYCHORIDA
+3.5 :Here she lies, sir. : None
+PERICLES
+3.5 :A terrible childbed hast thou had, my dear; : None
+3.5 :No light, no fire: the unfriendly elements : None
+3.5 :Forgot thee utterly: nor have I time : None
+3.5 :To give thee hallow'd to thy grave, but straight : None
+3.5 :Must cast thee, scarcely coffin'd, in the ooze; : None
+3.5 :Where, for a monument upon thy bones, : None
+3.5 :And e'er-remaining lamps, the belching whale : None
+3.5 :And humming water must o'erwhelm thy corpse, : None
+3.5 :Lying with simple shells. O Lychorida, : None
+3.5 :Bid Nestor bring me spices, ink and paper, : None
+3.5 :My casket and my jewels; and bid Nicander : None
+3.5 :Bring me the satin coffer: lay the babe : None
+3.5 :Upon the pillow: hie thee, whiles I say : None
+3.5 :A priestly farewell to her: suddenly, woman. : None
+Exit LYCHORIDA : ["Exit - ['LYCHORIDA']"] : PERICLES
+SECOND SAILOR
+3.5 :Sir, we have a chest beneath the hatches, caulked : None
+3.5 :and bitumed ready. : None
+PERICLES
+3.5 :I thank thee. Mariner, say what coast is this? : None
+SECOND SAILOR
+3.5 :We are near Tarsus. : None
+PERICLES
+3.5 :Thither, gentle mariner. : None
+3.5 :Alter thy course for Tyre. When canst thou reach it? : None
+SECOND SAILOR
+3.5 :By break of day, if the wind cease. : None
+PERICLES
+3.5 :O, make for Tarsus! : None
+3.5 :There will I visit Cleon, for the babe : None
+3.5 :Cannot hold out to Tyrus: there I'll leave it : None
+3.5 :At careful nursing. Go thy ways, good mariner: : None
+3.5 :I'll bring the body presently. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Scene(scene=2)
+Enter CERIMON, with a Servant, and some Persons who have been shipwrecked : ["Enter - ['CERIMON', 'SERVANT']"] : PERICLES
+CERIMON
+3.2 :Philemon, ho! : None
+Enter PHILEMON : ["Enter - ['PHILEMON']"] : CERIMON
+PHILEMON
+3.2 :Doth my lord call? : None
+CERIMON
+3.2 :Get fire and meat for these poor men: : None
+3.2 :'T has been a turbulent and stormy night. : None
+SERVANT
+3.2 :I have been in many; but such a night as this, : None
+3.2 :Till now, I ne'er endured. : None
+CERIMON
+3.2 :Your master will be dead ere you return; : None
+3.2 :There's nothing can be minister'd to nature : None
+3.2 :That can recover him. : None
+To PHILEMON : ["To - ['PHILEMON']"] : CERIMON
+3.2 :Give this to the 'pothecary, : None
+3.2 :And tell me how it works. : None
+Exeunt all but CERIMON : ["Exeunt - ['ALL', 'CERIMON']"] : CERIMON
+Enter two Gentlemen : ['Enter - []'] : CERIMON
+FIRST GENTLEMAN
+3.2 :Good morrow. : None
+SECOND GENTLEMAN
+3.2 :Good morrow to your lordship. : None
+CERIMON
+3.2 :Gentlemen, : None
+3.2 :Why do you stir so early? : None
+FIRST GENTLEMAN
+3.2 :Sir, : None
+3.2 :Our lodgings, standing bleak upon the sea, : None
+3.2 :Shook as the earth did quake; : None
+3.2 :The very principals did seem to rend, : None
+3.2 :And all-to topple: pure surprise and fear : None
+3.2 :Made me to quit the house. : None
+SECOND GENTLEMAN
+3.2 :That is the cause we trouble you so early; : None
+3.2 :'Tis not our husbandry. : None
+CERIMON
+3.2 :O, you say well. : None
+FIRST GENTLEMAN
+3.2 :But I much marvel that your lordship, having : None
+3.2 :Rich tire about you, should at these early hours : None
+3.2 :Shake off the golden slumber of repose. : None
+3.2 :'Tis most strange, : None
+3.2 :Nature should be so conversant with pain, : None
+3.2 :Being thereto not compell'd. : None
+CERIMON
+3.2 :I hold it ever, : None
+3.2 :Virtue and cunning were endowments greater : None
+3.2 :Than nobleness and riches: careless heirs : None
+3.2 :May the two latter darken and expend; : None
+3.2 :But immortality attends the former. : None
+3.2 :Making a man a god. 'Tis known, I ever : None
+3.2 :Have studied physic, through which secret art, : None
+3.2 :By turning o'er authorities, I have, : None
+3.2 :Together with my practise, made familiar : None
+3.2 :To me and to my aid the blest infusions : None
+3.2 :That dwell in vegetives, in metals, stones; : None
+3.2 :And I can speak of the disturbances : None
+3.2 :That nature works, and of her cures; which doth give me : None
+3.2 :A more content in course of true delight : None
+3.2 :Than to be thirsty after tottering honour, : None
+3.2 :Or tie my treasure up in silken bags, : None
+3.2 :To please the fool and death. : None
+SECOND GENTLEMAN
+3.2 :Your honour has through Ephesus pour'd forth : None
+3.2 :Your charity, and hundreds call themselves : None
+3.2 :Your creatures, who by you have been restored: : None
+3.2 :And not your knowledge, your personal pain, but even : None
+3.2 :Your purse, still open, hath built Lord Cerimon : None
+3.2 :Such strong renown as time shall ne'er decay. : None
+Enter two or three Servants with a chest : ["Enter - ['SERVANT']"] : SECOND GENTLEMAN
+FIRST SERVANT
+3.2 :So; lift there. : None
+CERIMON
+3.2 :                  What is that? : None
+FIRST SERVANT
+3.2 :Sir, even now : None
+3.2 :Did the sea toss upon our shore this chest: : None
+3.2 :'Tis of some wreck. : None
+CERIMON
+3.2 :Set 't down, let's look upon't. : None
+SECOND GENTLEMAN
+3.2 :'Tis like a coffin, sir. : None
+CERIMON
+3.2 :Whate'er it be, : None
+3.2 :'Tis wondrous heavy. Wrench it open straight: : None
+3.2 :If the sea's stomach be o'ercharged with gold, : None
+3.2 :'Tis a good constraint of fortune it belches upon us. : None
+SECOND GENTLEMAN
+3.2 :'Tis so, my lord. : None
+CERIMON
+3.2 :                  How close 'tis caulk'd and bitumed! : None
+3.2 :Did the sea cast it up? : None
+FIRST SERVANT
+3.2 :I never saw so huge a billow, sir, : None
+3.2 :As toss'd it upon shore. : None
+CERIMON
+3.2 :Wrench it open; : None
+3.2 :Soft! it smells most sweetly in my sense. : None
+SECOND GENTLEMAN
+3.2 :A delicate odour. : None
+CERIMON
+3.2 :As ever hit my nostril. So, up with it. : None
+3.2 :O you most potent gods! what's here? a corse! : None
+FIRST GENTLEMAN
+3.2 :Most strange! : None
+CERIMON
+3.2 :Shrouded in cloth of state; balm'd and entreasured : None
+3.2 :With full bags of spices! A passport too! : None
+3.2 :Apollo, perfect me in the characters! : None
+Reads from a scroll : ['Read - []'] : CERIMON
+3.2 :'Here I give to understand, : None
+3.2 :If e'er this coffin drive a-land, : None
+3.2 :I, King Pericles, have lost : None
+3.2 :This queen, worth all our mundane cost. : None
+3.2 :Who finds her, give her burying; : None
+3.2 :She was the daughter of a king: : None
+3.2 :Besides this treasure for a fee, : None
+3.2 :The gods requite his charity!' : None
+3.2 :If thou livest, Pericles, thou hast a heart : None
+3.2 :That even cracks for woe! This chanced tonight. : None
+SECOND GENTLEMAN
+3.2 :Most likely, sir. : None
+CERIMON
+3.2 :                  Nay, certainly to-night; : None
+3.2 :For look how fresh she looks! They were too rough : None
+3.2 :That threw her in the sea. Make a fire within: : None
+3.2 :Fetch hither all my boxes in my closet. : None
+Exit a Servant : ["Exit - ['SERVANT']"] : CERIMON
+3.2 :Death may usurp on nature many hours, : None
+3.2 :And yet the fire of life kindle again : None
+3.2 :The o'erpress'd spirits. I heard of an Egyptian : None
+3.2 :That had nine hours lien dead, : None
+3.2 :Who was by good appliance recovered. : None
+Re-enter a Servant, with boxes, napkins, and fire : ["Re-enter - ['SERVANT']"] : CERIMON
+3.2 :Well said, well said; the fire and cloths. : None
+3.2 :The rough and woeful music that we have, : None
+3.2 :Cause it to sound, beseech you. : None
+3.2 :The viol once more: how thou stirr'st, thou block! : None
+3.2 :The music there!--I pray you, give her air. : None
+3.2 :Gentlemen. : None
+3.2 :This queen will live: nature awakes; a warmth : None
+3.2 :Breathes out of her: she hath not been entranced : None
+3.2 :Above five hours: see how she gins to blow : None
+3.2 :Into life's flower again! : None
+FIRST GENTLEMAN
+3.2 :The heavens, : None
+3.2 :Through you, increase our wonder and set up : None
+3.2 :Your fame forever. : None
+CERIMON
+3.2 :                  She is alive; behold, : None
+3.2 :Her eyelids, cases to those heavenly jewels : None
+3.2 :Which Pericles hath lost, : None
+3.2 :Begin to part their fringes of bright gold; : None
+3.2 :The diamonds of a most praised water : None
+3.2 :Do appear, to make the world twice rich. Live, : None
+3.2 :And make us weep to hear your fate, fair creature, : None
+3.2 :Rare as you seem to be. : None
+She moves : ['None - []'] : CERIMON
+THAISA
+3.2 :O dear Diana, : None
+3.2 :Where am I? Where's my lord? What world is this? : None
+SECOND GENTLEMAN
+3.2 :Is not this strange? : None
+FIRST GENTLEMAN
+3.2 :Most rare. : None
+CERIMON
+3.2 :Hush, my gentle neighbours! : None
+3.2 :Lend me your hands; to the next chamber bear her. : None
+3.2 :Get linen: now this matter must be look'd to, : None
+3.2 :For her relapse is mortal. Come, come; : None
+3.2 :And AEsculapius guide us! : None
+Exeunt, carrying her away : ['Exeunt - []'] : CERIMON
+Scene(scene=3)
+Enter PERICLES, CLEON, DIONYZA, and LYCHORIDA with MARINA in her arms : ["Enter - ['PERICLES', 'CLEON', 'DIONYZA', 'LYCHORIDA', 'MARINA']"] : CERIMON
+PERICLES
+3.3 : Most honour'd Cleon, I must needs be gone; : None
+3.3 :My twelve months are expired, and Tyrus stands : None
+3.3 :In a litigious peace. You, and your lady, : None
+3.3 :Take from my heart all thankfulness! The gods : None
+3.3 :Make up the rest upon you! : None
+CLEON
+3.3 :Your shafts of fortune, though they hurt you mortally, : None
+3.3 :Yet glance full wanderingly on us. : None
+DIONYZA
+3.3 :O your sweet queen! : None
+3.3 :That the strict fates had pleased you had brought her hither, : None
+3.3 :To have bless'd mine eyes with her! : None
+PERICLES
+3.3 :We cannot but obey : None
+3.3 :The powers above us. Could I rage and roar : None
+3.3 :As doth the sea she lies in, yet the end : None
+3.3 :Must be as 'tis. My gentle babe Marina, whom, : None
+3.3 :For she was born at sea, I have named so, here : None
+3.3 :I charge your charity withal, leaving her : None
+3.3 :The infant of your care; beseeching you : None
+3.3 :To give her princely training, that she may be : None
+3.3 :Manner'd as she is born. : None
+CLEON
+3.3 :Fear not, my lord, but think : None
+3.3 :Your grace, that fed my country with your corn, : None
+3.3 :For which the people's prayers still fall upon you, : None
+3.3 :Must in your child be thought on. If neglection : None
+3.3 :Should therein make me vile, the common body, : None
+3.3 :By you relieved, would force me to my duty: : None
+3.3 :But if to that my nature need a spur, : None
+3.3 :The gods revenge it upon me and mine, : None
+3.3 :To the end of generation! : None
+PERICLES
+3.3 :I believe you; : None
+3.3 :Your honour and your goodness teach me to't, : None
+3.3 :Without your vows. Till she be married, madam, : None
+3.3 :By bright Diana, whom we honour, all : None
+3.3 :Unscissor'd shall this hair of mine remain, : None
+3.3 :Though I show ill in't. So I take my leave. : None
+3.3 :Good madam, make me blessed in your care : None
+3.3 :In bringing up my child. : None
+DIONYZA
+3.3 :I have one myself, : None
+3.3 :Who shall not be more dear to my respect : None
+3.3 :Than yours, my lord. : None
+PERICLES
+3.3 :Madam, my thanks and prayers. : None
+CLEON
+3.3 :We'll bring your grace e'en to the edge o' the shore, : None
+3.3 :Then give you up to the mask'd Neptune and : None
+3.3 :The gentlest winds of heaven. : None
+PERICLES
+3.3 :I will embrace : None
+3.3 :Your offer. Come, dearest madam. O, no tears, : None
+3.3 :Lychorida, no tears: : None
+3.3 :Look to your little mistress, on whose grace : None
+3.3 :You may depend hereafter. Come, my lord. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Scene(scene=4)
+Enter CERIMON and THAISA : ["Enter - ['CERIMON', 'THAISA']"] : PERICLES
+CERIMON
+3.4 :Madam, this letter, and some certain jewels, : None
+3.4 :Lay with you in your coffer: which are now : None
+3.4 :At your command. Know you the character? : None
+THAISA
+3.4 :It is my lord's. : None
+3.4 :That I was shipp'd at sea, I well remember, : None
+3.4 :Even on my eaning time; but whether there : None
+3.4 :Deliver'd, by the holy gods, : None
+3.4 :I cannot rightly say. But since King Pericles, : None
+3.4 :My wedded lord, I ne'er shall see again, : None
+3.4 :A vestal livery will I take me to, : None
+3.4 :And never more have joy. : None
+CERIMON
+3.4 :Madam, if this you purpose as ye speak, : None
+3.4 :Diana's temple is not distant far, : None
+3.4 :Where you may abide till your date expire. : None
+3.4 :Moreover, if you please, a niece of mine : None
+3.4 :Shall there attend you. : None
+THAISA
+3.4 :My recompense is thanks, that's all; : None
+3.4 :Yet my good will is great, though the gift small. : None
+Exeunt : ['Exeunt - []'] : THAISA
+Act(act=4)
+Enter GOWER : ["Enter - ['GOWER']"] : THAISA
+GOWER
+4.4 :Imagine Pericles arrived at Tyre, : None
+4.4 :Welcomed and settled to his own desire. : None
+4.4 :His woeful queen we leave at Ephesus, : None
+4.4 :Unto Diana there a votaress. : None
+4.4 :Now to Marina bend your mind, : None
+4.4 :Whom our fast-growing scene must find : None
+4.4 :At Tarsus, and by Cleon train'd : None
+4.4 :In music, letters; who hath gain'd : None
+4.4 :Of education all the grace, : None
+4.4 :Which makes her both the heart and place : None
+4.4 :Of general wonder. But, alack, : None
+4.4 :That monster envy, oft the wrack : None
+4.4 :Of earned praise, Marina's life : None
+4.4 :Seeks to take off by treason's knife. : None
+4.4 :And in this kind hath our Cleon : None
+4.4 :One daughter, and a wench full grown, : None
+4.4 :Even ripe for marriage-rite; this maid : None
+4.4 :Hight Philoten: and it is said : None
+4.4 :For certain in our story, she : None
+4.4 :Would ever with Marina be: : None
+4.4 :Be't when she weaved the sleided silk : None
+4.4 :With fingers long, small, white as milk; : None
+4.4 :Or when she would with sharp needle wound : None
+4.4 :The cambric, which she made more sound : None
+4.4 :By hurting it; or when to the lute : None
+4.4 :She sung, and made the night-bird mute, : None
+4.4 :That still records with moan; or when : None
+4.4 :She would with rich and constant pen : None
+4.4 :Vail to her mistress Dian; still : None
+4.4 :This Philoten contends in skill : None
+4.4 :With absolute Marina: so : None
+4.4 :With the dove of Paphos might the crow : None
+4.4 :Vie feathers white. Marina gets : None
+4.4 :All praises, which are paid as debts, : None
+4.4 :And not as given. This so darks : None
+4.4 :In Philoten all graceful marks, : None
+4.4 :That Cleon's wife, with envy rare, : None
+4.4 :A present murderer does prepare : None
+4.4 :For good Marina, that her daughter : None
+4.4 :Might stand peerless by this slaughter. : None
+4.4 :The sooner her vile thoughts to stead, : None
+4.4 :Lychorida, our nurse, is dead: : None
+4.4 :And cursed Dionyza hath : None
+4.4 :The pregnant instrument of wrath : None
+4.4 :Prest for this blow. The unborn event : None
+4.4 :I do commend to your content: : None
+4.4 :Only I carry winged time : None
+4.4 :Post on the lame feet of my rhyme; : None
+4.4 :Which never could I so convey, : None
+4.4 :Unless your thoughts went on my way. : None
+4.4 :Dionyza does appear, : None
+4.4 :With Leonine, a murderer. : None
+Exit : ['Exit - []'] : GOWER
+Scene(scene=1)
+Enter DIONYZA and LEONINE : ["Enter - ['DIONYZA', 'LEONINE']"] : GOWER
+DIONYZA
+4.1 :Thy oath remember; thou hast sworn to do't: : None
+4.1 :'Tis but a blow, which never shall be known. : None
+4.1 :Thou canst not do a thing in the world so soon, : None
+4.1 :To yield thee so much profit. Let not conscience, : None
+4.1 :Which is but cold, inflaming love i' thy bosom, : None
+4.1 :Inflame too nicely; nor let pity, which : None
+4.1 :Even women have cast off, melt thee, but be : None
+4.1 :A soldier to thy purpose. : None
+LEONINE
+4.1 :I will do't; but yet she is a goodly creature. : None
+DIONYZA
+4.1 :The fitter, then, the gods should have her. Here : None
+4.1 :she comes weeping for her only mistress' death. : None
+4.1 :Thou art resolved? : None
+LEONINE
+4.1 :I am resolved. : None
+Enter MARINA, with a basket of flowers : ["Enter - ['MARINA']"] : LEONINE
+MARINA
+4.1 :No, I will rob Tellus of her weed, : None
+4.1 :To strew thy green with flowers: the yellows, blues, : None
+4.1 :The purple violets, and marigolds, : None
+4.1 :Shall as a carpet hang upon thy grave, : None
+4.1 :While summer-days do last. Ay me! poor maid, : None
+4.1 :Born in a tempest, when my mother died, : None
+4.1 :This world to me is like a lasting storm, : None
+4.1 :Whirring me from my friends. : None
+DIONYZA
+4.1 :How now, Marina! why do you keep alone? : None
+4.1 :How chance my daughter is not with you? Do not : None
+4.1 :Consume your blood with sorrowing: you have : None
+4.1 :A nurse of me. Lord, how your favour's changed : None
+4.1 :With this unprofitable woe! : None
+4.1 :Come, give me your flowers, ere the sea mar it. : None
+4.1 :Walk with Leonine; the air is quick there, : None
+4.1 :And it pierces and sharpens the stomach. Come, : None
+4.1 :Leonine, take her by the arm, walk with her. : None
+MARINA
+4.1 :No, I pray you; : None
+4.1 :I'll not bereave you of your servant. : None
+DIONYZA
+4.1 :Come, come; : None
+4.1 :I love the king your father, and yourself, : None
+4.1 :With more than foreign heart. We every day : None
+4.1 :Expect him here: when he shall come and find : None
+4.1 :Our paragon to all reports thus blasted, : None
+4.1 :He will repent the breadth of his great voyage; : None
+4.1 :Blame both my lord and me, that we have taken : None
+4.1 :No care to your best courses. Go, I pray you, : None
+4.1 :Walk, and be cheerful once again; reserve : None
+4.1 :That excellent complexion, which did steal : None
+4.1 :The eyes of young and old. Care not for me : None
+4.1 :I can go home alone. : None
+MARINA
+4.1 :Well, I will go; : None
+4.1 :But yet I have no desire to it. : None
+DIONYZA
+4.1 :Come, come, I know 'tis good for you. : None
+4.1 :Walk half an hour, Leonine, at the least: : None
+4.1 :Remember what I have said. : None
+LEONINE
+4.1 :I warrant you, madam. : None
+DIONYZA
+4.1 :I'll leave you, my sweet lady, for a while: : None
+4.1 :Pray, walk softly, do not heat your blood: : None
+4.1 :What! I must have a care of you. : None
+MARINA
+4.1 :My thanks, sweet madam. : None
+Exit DIONYZA : ["Exit - ['DIONYZA']"] : MARINA
+4.1 :Is this wind westerly that blows? : None
+LEONINE
+4.1 :South-west. : None
+MARINA
+4.1 :When I was born, the wind was north. : None
+LEONINE
+4.1 :Was't so? : None
+MARINA
+4.1 :My father, as nurse said, did never fear, : None
+4.1 :But cried 'Good seaman!' to the sailors, galling : None
+4.1 :His kingly hands, haling ropes; : None
+4.1 :And, clasping to the mast, endured a sea : None
+4.1 :That almost burst the deck. : None
+LEONINE
+4.1 :When was this? : None
+MARINA
+4.1 :When I was born: : None
+4.1 :Never was waves nor wind more violent; : None
+4.1 :And from the ladder-tackle washes off : None
+4.1 :A canvas-climber. 'Ha!' says one, 'wilt out?' : None
+4.1 :And with a dropping industry they skip : None
+4.1 :From stem to stern: the boatswain whistles, and : None
+4.1 :The master calls, and trebles their confusion. : None
+LEONINE
+4.1 :Come, say your prayers. : None
+MARINA
+4.1 :What mean you? : None
+LEONINE
+4.1 :If you require a little space for prayer, : None
+4.1 :I grant it: pray; but be not tedious, : None
+4.1 :For the gods are quick of ear, and I am sworn : None
+4.1 :To do my work with haste. : None
+MARINA
+4.1 :Why will you kill me? : None
+LEONINE
+4.1 :To satisfy my lady. : None
+MARINA
+4.1 :Why would she have me kill'd? : None
+4.1 :Now, as I can remember, by my troth, : None
+4.1 :I never did her hurt in all my life: : None
+4.1 :I never spake bad word, nor did ill turn : None
+4.1 :To any living creature: believe me, la, : None
+4.1 :I never kill'd a mouse, nor hurt a fly: : None
+4.1 :I trod upon a worm against my will, : None
+4.1 :But I wept for it. How have I offended, : None
+4.1 :Wherein my death might yield her any profit, : None
+4.1 :Or my life imply her any danger? : None
+LEONINE
+4.1 :My commission : None
+4.1 :Is not to reason of the deed, but do it. : None
+MARINA
+4.1 :You will not do't for all the world, I hope. : None
+4.1 :You are well favour'd, and your looks foreshow : None
+4.1 :You have a gentle heart. I saw you lately, : None
+4.1 :When you caught hurt in parting two that fought: : None
+4.1 :Good sooth, it show'd well in you: do so now: : None
+4.1 :Your lady seeks my life; come you between, : None
+4.1 :And save poor me, the weaker. : None
+LEONINE
+4.1 :I am sworn, : None
+4.1 :And will dispatch. : None
+He seizes her : ['None - []'] : LEONINE
+Enter Pirates : ['Enter - []'] : LEONINE
+FIRST PIRATE
+4.1 :Hold, villain! : None
+LEONINE runs away : ["None - ['LEONINE']"] : FIRST PIRATE
+SECOND PIRATE
+4.1 :A prize! a prize! : None
+THIRD PIRATE
+4.1 :Half-part, mates, half-part. : None
+4.1 :Come, let's have her aboard suddenly. : None
+Exeunt Pirates with MARINA : ["Exeunt - ['MARINA']"] : THIRD PIRATE
+Re-enter LEONINE : ["Re-enter - ['LEONINE']"] : THIRD PIRATE
+LEONINE
+4.1 :These roguing thieves serve the great pirate Valdes; : None
+4.1 :And they have seized Marina. Let her go: : None
+4.1 :There's no hope she will return. I'll swear : None
+4.1 :she's dead, : None
+4.1 :And thrown into the sea. But I'll see further: : None
+4.1 :Perhaps they will but please themselves upon her, : None
+4.1 :Not carry her aboard. If she remain, : None
+4.1 :Whom they have ravish'd must by me be slain. : None
+Exit : ['Exit - []'] : LEONINE
+Scene(scene=2)
+Enter Pandar, Bawd, and BOULT : ["Enter - ['PANDAR', 'BAWD', 'BOULT']"] : LEONINE
+PANDAR
+4.2 :Boult! : None
+BOULT
+4.2 :Sir? : None
+PANDAR
+4.2 :Search the market narrowly; Mytilene is full of : None
+4.2 :gallants. We lost too much money this mart by being : None
+4.2 :too wenchless. : None
+BAWD
+4.2 :We were never so much out of creatures. We have but : None
+4.2 :poor three, and they can do no more than they can : None
+4.2 :do; and they with continual action are even as good as rotten. : None
+PANDAR
+4.2 :Therefore let's have fresh ones, whate'er we pay for : None
+4.2 :them. If there be not a conscience to be used in : None
+4.2 :every trade, we shall never prosper. : None
+BAWD
+4.2 :Thou sayest true: 'tis not our bringing up of poor : None
+4.2 :bastards,--as, I think, I have brought up some eleven-- : None
+BOULT
+4.2 :Ay, to eleven; and brought them down again. But : None
+4.2 :shall I search the market? : None
+BAWD
+4.2 :What else, man? The stuff we have, a strong wind : None
+4.2 :will blow it to pieces, they are so pitifully sodden. : None
+PANDAR
+4.2 :Thou sayest true; they're too unwholesome, o' : None
+4.2 :conscience. The poor Transylvanian is dead, that : None
+4.2 :lay with the little baggage. : None
+BOULT
+4.2 :Ay, she quickly pooped him; she made him roast-meat : None
+4.2 :for worms. But I'll go search the market. : None
+Exit : ['Exit - []'] : BOULT
+PANDAR
+4.2 :Three or four thousand chequins were as pretty a : None
+4.2 :proportion to live quietly, and so give over. : None
+BAWD
+4.2 :Why to give over, I pray you? is it a shame to get : None
+4.2 :when we are old? : None
+PANDAR
+4.2 :O, our credit comes not in like the commodity, nor : None
+4.2 :the commodity wages not with the danger: therefore, : None
+4.2 :if in our youths we could pick up some pretty : None
+4.2 :estate, 'twere not amiss to keep our door hatched. : None
+4.2 :Besides, the sore terms we stand upon with the gods : None
+4.2 :will be strong with us for giving over. : None
+BAWD
+4.2 :Come, other sorts offend as well as we. : None
+PANDAR
+4.2 :As well as we! ay, and better too; we offend worse. : None
+4.2 :Neither is our profession any trade; it's no : None
+4.2 :calling. But here comes Boult. : None
+Re-enter BOULT, with the Pirates and MARINA : ["Re-enter - ['BOULT', 'MARINA']"] : PANDAR
+BOULT
+4.2 :  Come your ways. My masters, you say : To MARINA : ["To - ['MARINA']"] : BOULT
+4.2 :she's a virgin? : None
+FIRST PIRATE
+4.2 :O, sir, we doubt it not. : None
+BOULT
+4.2 :Master, I have gone through for this piece, you see: : None
+4.2 :if you like her, so; if not, I have lost my earnest. : None
+BAWD
+4.2 :Boult, has she any qualities? : None
+BOULT
+4.2 :She has a good face, speaks well, and has excellent : None
+4.2 :good clothes: there's no further necessity of : None
+4.2 :qualities can make her be refused. : None
+BAWD
+4.2 :What's her price, Boult? : None
+BOULT
+4.2 :I cannot be bated one doit of a thousand pieces. : None
+PANDAR
+4.2 :Well, follow me, my masters, you shall have your : None
+4.2 :money presently. Wife, take her in; instruct her : None
+4.2 :what she has to do, that she may not be raw in her : None
+4.2 :entertainment. : None
+Exeunt Pandar and Pirates : ["Exeunt - ['PANDAR']"] : PANDAR
+BAWD
+4.2 :Boult, take you the marks of her, the colour of her : None
+4.2 :hair, complexion, height, age, with warrant of her : None
+4.2 :virginity; and cry 'He that will give most shall : None
+4.2 :have her first.' Such a maidenhead were no cheap : None
+4.2 :thing, if men were as they have been. Get this done : None
+4.2 :as I command you. : None
+BOULT
+4.2 :Performance shall follow. : None
+Exit : ['Exit - []'] : BOULT
+MARINA
+4.2 :Alack that Leonine was so slack, so slow! : None
+4.2 :He should have struck, not spoke; or that these pirates, : None
+4.2 :Not enough barbarous, had not o'erboard thrown me : None
+4.2 :For to seek my mother! : None
+BAWD
+4.2 :Why lament you, pretty one? : None
+MARINA
+4.2 :That I am pretty. : None
+BAWD
+4.2 :Come, the gods have done their part in you. : None
+MARINA
+4.2 :I accuse them not. : None
+BAWD
+4.2 :You are light into my hands, where you are like to live. : None
+MARINA
+4.2 :The more my fault : None
+4.2 :To scape his hands where I was like to die. : None
+BAWD
+4.2 :Ay, and you shall live in pleasure. : None
+MARINA
+4.2 :No. : None
+BAWD
+4.2 :Yes, indeed shall you, and taste gentlemen of all : None
+4.2 :fashions: you shall fare well; you shall have the : None
+4.2 :difference of all complexions. What! do you stop your ears? : None
+MARINA
+4.2 :Are you a woman? : None
+BAWD
+4.2 :What would you have me be, an I be not a woman? : None
+MARINA
+4.2 :An honest woman, or not a woman. : None
+BAWD
+4.2 :Marry, whip thee, gosling: I think I shall have : None
+4.2 :something to do with you. Come, you're a young : None
+4.2 :foolish sapling, and must be bowed as I would have : None
+4.2 :you. : None
+MARINA
+4.2 :The gods defend me! : None
+BAWD
+4.2 :If it please the gods to defend you by men, then men : None
+4.2 :must comfort you, men must feed you, men must stir : None
+4.2 :you up. Boult's returned. : None
+Re-enter BOULT : ["Re-enter - ['BOULT']"] : BAWD
+4.2 :Now, sir, hast thou cried her through the market? : None
+BOULT
+4.2 :I have cried her almost to the number of her hairs; : None
+4.2 :I have drawn her picture with my voice. : None
+BAWD
+4.2 :And I prithee tell me, how dost thou find the : None
+4.2 :inclination of the people, especially of the younger sort? : None
+BOULT
+4.2 :'Faith, they listened to me as they would have : None
+4.2 :hearkened to their father's testament. There was a : None
+4.2 :Spaniard's mouth so watered, that he went to bed to : None
+4.2 :her very description. : None
+BAWD
+4.2 :We shall have him here to-morrow with his best ruff on. : None
+BOULT
+4.2 :To-night, to-night. But, mistress, do you know the : None
+4.2 :French knight that cowers i' the hams? : None
+BAWD
+4.2 :Who, Monsieur Veroles? : None
+BOULT
+4.2 :Ay, he: he offered to cut a caper at the : None
+4.2 :proclamation; but he made a groan at it, and swore : None
+4.2 :he would see her to-morrow. : None
+BAWD
+4.2 :Well, well; as for him, he brought his disease : None
+4.2 :hither: here he does but repair it. I know he will : None
+4.2 :come in our shadow, to scatter his crowns in the : None
+4.2 :sun. : None
+BOULT
+4.2 :Well, if we had of every nation a traveller, we : None
+4.2 :should lodge them with this sign. : None
+BAWD
+4.2 :  Pray you, come hither awhile. You : To MARINA : ["To - ['MARINA']"] : BAWD
+4.2 :have fortunes coming upon you. Mark me: you must : None
+4.2 :seem to do that fearfully which you commit : None
+4.2 :willingly, despise profit where you have most gain. : None
+4.2 :To weep that you live as ye do makes pity in your : None
+4.2 :lovers: seldom but that pity begets you a good : None
+4.2 :opinion, and that opinion a mere profit. : None
+MARINA
+4.2 :I understand you not. : None
+BOULT
+4.2 :O, take her home, mistress, take her home: these : None
+4.2 :blushes of hers must be quenched with some present practise. : None
+BAWD
+4.2 :Thou sayest true, i' faith, so they must; for your : None
+4.2 :bride goes to that with shame which is her way to go : None
+4.2 :with warrant. : None
+BOULT
+4.2 :'Faith, some do, and some do not. But, mistress, if : None
+4.2 :I have bargained for the joint,-- : None
+BAWD
+4.2 :Thou mayst cut a morsel off the spit. : None
+BOULT
+4.2 :I may so. : None
+BAWD
+4.2 :Who should deny it? Come, young one, I like the : None
+4.2 :manner of your garments well. : None
+BOULT
+4.2 :Ay, by my faith, they shall not be changed yet. : None
+BAWD
+4.2 :Boult, spend thou that in the town: report what a : None
+4.2 :sojourner we have; you'll lose nothing by custom. : None
+4.2 :When nature flamed this piece, she meant thee a good : None
+4.2 :turn; therefore say what a paragon she is, and thou : None
+4.2 :hast the harvest out of thine own report. : None
+BOULT
+4.2 :I warrant you, mistress, thunder shall not so awake : None
+4.2 :the beds of eels as my giving out her beauty stir up : None
+4.2 :the lewdly-inclined. I'll bring home some to-night. : None
+BAWD
+4.2 :Come your ways; follow me. : None
+MARINA
+4.2 :If fires be hot, knives sharp, or waters deep, : None
+4.2 :Untied I still my virgin knot will keep. : None
+4.2 :Diana, aid my purpose! : None
+BAWD
+4.2 :What have we to do with Diana? Pray you, will you go with us? : None
+Exeunt : ['Exeunt - []'] : BAWD
+Scene(scene=3)
+Enter CLEON and DIONYZA : ["Enter - ['CLEON', 'DIONYZA']"] : BAWD
+DIONYZA
+4.3 :Why, are you foolish? Can it be undone? : None
+CLEON
+4.3 :O Dionyza, such a piece of slaughter : None
+4.3 :The sun and moon ne'er look'd upon! : None
+DIONYZA
+4.3 :I think : None
+4.3 :You'll turn a child again. : None
+CLEON
+4.3 :Were I chief lord of all this spacious world, : None
+4.3 :I'ld give it to undo the deed. O lady, : None
+4.3 :Much less in blood than virtue, yet a princess : None
+4.3 :To equal any single crown o' the earth : None
+4.3 :I' the justice of compare! O villain Leonine! : None
+4.3 :Whom thou hast poison'd too: : None
+4.3 :If thou hadst drunk to him, 't had been a kindness : None
+4.3 :Becoming well thy fact: what canst thou say : None
+4.3 :When noble Pericles shall demand his child? : None
+DIONYZA
+4.3 :That she is dead. Nurses are not the fates, : None
+4.3 :To foster it, nor ever to preserve. : None
+4.3 :She died at night; I'll say so. Who can cross it? : None
+4.3 :Unless you play the pious innocent, : None
+4.3 :And for an honest attribute cry out : None
+4.3 :'She died by foul play.' : None
+CLEON
+4.3 :O, go to. Well, well, : None
+4.3 :Of all the faults beneath the heavens, the gods : None
+4.3 :Do like this worst. : None
+DIONYZA
+4.3 :Be one of those that think : None
+4.3 :The petty wrens of Tarsus will fly hence, : None
+4.3 :And open this to Pericles. I do shame : None
+4.3 :To think of what a noble strain you are, : None
+4.3 :And of how coward a spirit. : None
+CLEON
+4.3 :To such proceeding : None
+4.3 :Who ever but his approbation added, : None
+4.3 :Though not his prime consent, he did not flow : None
+4.3 :From honourable sources. : None
+DIONYZA
+4.3 :Be it so, then: : None
+4.3 :Yet none does know, but you, how she came dead, : None
+4.3 :Nor none can know, Leonine being gone. : None
+4.3 :She did disdain my child, and stood between : None
+4.3 :Her and her fortunes: none would look on her, : None
+4.3 :But cast their gazes on Marina's face; : None
+4.3 :Whilst ours was blurted at and held a malkin : None
+4.3 :Not worth the time of day. It pierced me through; : None
+4.3 :And though you call my course unnatural, : None
+4.3 :You not your child well loving, yet I find : None
+4.3 :It greets me as an enterprise of kindness : None
+4.3 :Perform'd to your sole daughter. : None
+CLEON
+4.3 :Heavens forgive it! : None
+DIONYZA
+4.3 :And as for Pericles, : None
+4.3 :What should he say? We wept after her hearse, : None
+4.3 :And yet we mourn: her monument : None
+4.3 :Is almost finish'd, and her epitaphs : None
+4.3 :In glittering golden characters express : None
+4.3 :A general praise to her, and care in us : None
+4.3 :At whose expense 'tis done. : None
+CLEON
+4.3 :Thou art like the harpy, : None
+4.3 :Which, to betray, dost, with thine angel's face, : None
+4.3 :Seize with thine eagle's talons. : None
+DIONYZA
+4.3 :You are like one that superstitiously : None
+4.3 :Doth swear to the gods that winter kills the flies: : None
+4.3 :But yet I know you'll do as I advise. : None
+Exeunt : ['Exeunt - []'] : DIONYZA
+4.3 :SCENE IV: : None
+Enter GOWER, before the monument of MARINA at Tarsus : ["Enter - ['GOWER', 'MARINA']"] : DIONYZA
+GOWER
+4.3 :Thus time we waste, and longest leagues make short; : None
+4.3 :Sail seas in cockles, have an wish but for't; : None
+4.3 :Making, to take your imagination, : None
+4.3 :From bourn to bourn, region to region. : None
+4.3 :By you being pardon'd, we commit no crime : None
+4.3 :To use one language in each several clime : None
+4.3 :Where our scenes seem to live. I do beseech you : None
+4.3 :To learn of me, who stand i' the gaps to teach you, : None
+4.3 :The stages of our story. Pericles : None
+4.3 :Is now again thwarting the wayward seas, : None
+4.3 :Attended on by many a lord and knight. : None
+4.3 :To see his daughter, all his life's delight. : None
+4.3 :Old Escanes, whom Helicanus late : None
+4.3 :Advanced in time to great and high estate, : None
+4.3 :Is left to govern. Bear you it in mind, : None
+4.3 :Old Helicanus goes along behind. : None
+4.3 :Well-sailing ships and bounteous winds have brought : None
+4.3 :This king to Tarsus,--think his pilot thought; : None
+4.3 :So with his steerage shall your thoughts grow on,-- : None
+4.3 :To fetch his daughter home, who first is gone. : None
+4.3 :Like motes and shadows see them move awhile; : None
+4.3 :Your ears unto your eyes I'll reconcile. : None
+4.3 :DUMB SHOW. : None
+Enter PERICLES, at one door, with all his train;  CLEON and DIONYZA, at the other. CLEON shows  PERICLES the tomb; whereat PERICLES makes  lamentation, puts on sackcloth, and in a mighty passion departs. Then exeunt CLEON and DIONYZA : ["Enter - ['PERICLES', 'ALL', 'CLEON', 'DIONYZA']", "to - ['CLEON', 'PERICLES', 'PERICLES']", "exeunt - ['CLEON', 'DIONYZA']"] : GOWER
+4.3 :See how belief may suffer by foul show! : None
+4.3 :This borrow'd passion stands for true old woe; : None
+4.3 :And Pericles, in sorrow all devour'd, : None
+4.3 :With sighs shot through, and biggest tears : None
+4.3 :o'ershower'd, : None
+4.3 :Leaves Tarsus and again embarks. He swears : None
+4.3 :Never to wash his face, nor cut his hairs: : None
+4.3 :He puts on sackcloth, and to sea. He bears : None
+4.3 :A tempest, which his mortal vessel tears, : None
+4.3 :And yet he rides it out. Now please you wit. : None
+4.3 :The epitaph is for Marina writ : None
+4.3 :By wicked Dionyza. : None
+Reads the inscription on MARINA's monument : ["Read - ['MARINA']"] : GOWER
+4.3 :'The fairest, sweet'st, and best lies here, : None
+4.3 :Who wither'd in her spring of year. : None
+4.3 :She was of Tyrus the king's daughter, : None
+4.3 :On whom foul death hath made this slaughter; : None
+4.3 :Marina was she call'd; and at her birth, : None
+4.3 :Thetis, being proud, swallow'd some part o' the earth: : None
+4.3 :Therefore the earth, fearing to be o'erflow'd, : None
+4.3 :Hath Thetis' birth-child on the heavens bestow'd: : None
+4.3 :Wherefore she does, and swears she'll never stint, : None
+4.3 :Make raging battery upon shores of flint.' : None
+4.3 :No visor does become black villany : None
+4.3 :So well as soft and tender flattery. : None
+4.3 :Let Pericles believe his daughter's dead, : None
+4.3 :And bear his courses to be ordered : None
+4.3 :By Lady Fortune; while our scene must play : None
+4.3 :His daughter's woe and heavy well-a-day : None
+4.3 :In her unholy service. Patience, then, : None
+4.3 :And think you now are all in Mytilene. : None
+Exit : ['Exit - []'] : GOWER
+Scene(scene=5)
+Enter, from the brothel, two Gentlemen : ['Enter - []'] : GOWER
+FIRST GENTLEMAN
+4.5 :Did you ever hear the like? : None
+SECOND GENTLEMAN
+4.5 :No, nor never shall do in such a place as this, she : None
+4.5 :being once gone. : None
+FIRST GENTLEMAN
+4.5 :But to have divinity preached there! did you ever : None
+4.5 :dream of such a thing? : None
+SECOND GENTLEMAN
+4.5 :No, no. Come, I am for no more bawdy-houses: : None
+4.5 :shall's go hear the vestals sing? : None
+FIRST GENTLEMAN
+4.5 :I'll do any thing now that is virtuous; but I : None
+4.5 :am out of the road of rutting for ever. : None
+Exeunt : ['Exeunt - []'] : FIRST GENTLEMAN
+Scene(scene=6)
+Enter Pandar, Bawd, and BOULT : ["Enter - ['PANDAR', 'BAWD', 'BOULT']"] : FIRST GENTLEMAN
+PANDAR
+4.6 :Well, I had rather than twice the worth of her she : None
+4.6 :had ne'er come here. : None
+BAWD
+4.6 :Fie, fie upon her! she's able to freeze the god : None
+4.6 :Priapus, and undo a whole generation. We must : None
+4.6 :either get her ravished, or be rid of her. When she : None
+4.6 :should do for clients her fitment, and do me the : None
+4.6 :kindness of our profession, she has me her quirks, : None
+4.6 :her reasons, her master reasons, her prayers, her : None
+4.6 :knees; that she would make a puritan of the devil, : None
+4.6 :if he should cheapen a kiss of her. : None
+BOULT
+4.6 :'Faith, I must ravish her, or she'll disfurnish us : None
+4.6 :of all our cavaliers, and make our swearers priests. : None
+PANDAR
+4.6 :Now, the pox upon her green-sickness for me! : None
+BAWD
+4.6 :'Faith, there's no way to be rid on't but by the : None
+4.6 :way to the pox. Here comes the Lord Lysimachus disguised. : None
+BOULT
+4.6 :We should have both lord and lown, if the peevish : None
+4.6 :baggage would but give way to customers. : None
+Enter LYSIMACHUS : ["Enter - ['LYSIMACHUS']"] : BOULT
+LYSIMACHUS
+4.6 :How now! How a dozen of virginities? : None
+BAWD
+4.6 :Now, the gods to-bless your honour! : None
+BOULT
+4.6 :I am glad to see your honour in good health. : None
+LYSIMACHUS
+4.6 :You may so; 'tis the better for you that your : None
+4.6 :resorters stand upon sound legs. How now! : None
+4.6 :wholesome iniquity have you that a man may deal : None
+4.6 :withal, and defy the surgeon? : None
+BAWD
+4.6 :We have here one, sir, if she would--but there never : None
+4.6 :came her like in Mytilene. : None
+LYSIMACHUS
+4.6 :If she'ld do the deed of darkness, thou wouldst say. : None
+BAWD
+4.6 :Your honour knows what 'tis to say well enough. : None
+LYSIMACHUS
+4.6 :Well, call forth, call forth. : None
+BOULT
+4.6 :For flesh and blood, sir, white and red, you shall : None
+4.6 :see a rose; and she were a rose indeed, if she had but-- : None
+LYSIMACHUS
+4.6 :What, prithee? : None
+BOULT
+4.6 :O, sir, I can be modest. : None
+LYSIMACHUS
+4.6 :That dignifies the renown of a bawd, no less than it : None
+4.6 :gives a good report to a number to be chaste. : None
+Exit BOULT : ["Exit - ['BOULT']"] : LYSIMACHUS
+BAWD
+4.6 :Here comes that which grows to the stalk; never : None
+4.6 :plucked yet, I can assure you. : None
+Re-enter BOULT with MARINA : ["Re-enter - ['BOULT', 'MARINA']"] : BAWD
+4.6 :Is she not a fair creature? : None
+LYSIMACHUS
+4.6 :'Faith, she would serve after a long voyage at sea. : None
+4.6 :Well, there's for you: leave us. : None
+BAWD
+4.6 :I beseech your honour, give me leave: a word, and : None
+4.6 :I'll have done presently. : None
+LYSIMACHUS
+4.6 :I beseech you, do. : None
+BAWD
+4.6 :  First, I would have you note, this is : To MARINA : ["To - ['MARINA']"] : BAWD
+4.6 :an honourable man. : None
+MARINA
+4.6 :I desire to find him so, that I may worthily note him. : None
+BAWD
+4.6 :Next, he's the governor of this country, and a man : None
+4.6 :whom I am bound to. : None
+MARINA
+4.6 :If he govern the country, you are bound to him : None
+4.6 :indeed; but how honourable he is in that, I know not. : None
+BAWD
+4.6 :Pray you, without any more virginal fencing, will : None
+4.6 :you use him kindly? He will line your apron with gold. : None
+MARINA
+4.6 :What he will do graciously, I will thankfully receive. : None
+LYSIMACHUS
+4.6 :Ha' you done? : None
+BAWD
+4.6 :My lord, she's not paced yet: you must take some : None
+4.6 :pains to work her to your manage. Come, we will : None
+4.6 :leave his honour and her together. Go thy ways. : None
+Exeunt Bawd, Pandar, and BOULT : ["Exeunt - ['BAWD', 'PANDAR', 'BOULT']"] : BAWD
+LYSIMACHUS
+4.6 :Now, pretty one, how long have you been at this trade? : None
+MARINA
+4.6 :What trade, sir? : None
+LYSIMACHUS
+4.6 :Why, I cannot name't but I shall offend. : None
+MARINA
+4.6 :I cannot be offended with my trade. Please you to name it. : None
+LYSIMACHUS
+4.6 :How long have you been of this profession? : None
+MARINA
+4.6 :E'er since I can remember. : None
+LYSIMACHUS
+4.6 :Did you go to 't so young? Were you a gamester at : None
+4.6 :five or at seven? : None
+MARINA
+4.6 :Earlier too, sir, if now I be one. : None
+LYSIMACHUS
+4.6 :Why, the house you dwell in proclaims you to be a : None
+4.6 :creature of sale. : None
+MARINA
+4.6 :Do you know this house to be a place of such resort, : None
+4.6 :and will come into 't? I hear say you are of : None
+4.6 :honourable parts, and are the governor of this place. : None
+LYSIMACHUS
+4.6 :Why, hath your principal made known unto you who I am? : None
+MARINA
+4.6 :Who is my principal? : None
+LYSIMACHUS
+4.6 :Why, your herb-woman; she that sets seeds and roots : None
+4.6 :of shame and iniquity. O, you have heard something : None
+4.6 :of my power, and so stand aloof for more serious : None
+4.6 :wooing. But I protest to thee, pretty one, my : None
+4.6 :authority shall not see thee, or else look friendly : None
+4.6 :upon thee. Come, bring me to some private place: : None
+4.6 :come, come. : None
+MARINA
+4.6 :If you were born to honour, show it now; : None
+4.6 :If put upon you, make the judgment good : None
+4.6 :That thought you worthy of it. : None
+LYSIMACHUS
+4.6 :How's this? how's this? Some more; be sage. : None
+MARINA
+4.6 :For me, : None
+4.6 :That am a maid, though most ungentle fortune : None
+4.6 :Have placed me in this sty, where, since I came, : None
+4.6 :Diseases have been sold dearer than physic, : None
+4.6 :O, that the gods : None
+4.6 :Would set me free from this unhallow'd place, : None
+4.6 :Though they did change me to the meanest bird : None
+4.6 :That flies i' the purer air! : None
+LYSIMACHUS
+4.6 :I did not think : None
+4.6 :Thou couldst have spoke so well; ne'er dream'd thou couldst. : None
+4.6 :Had I brought hither a corrupted mind, : None
+4.6 :Thy speech had alter'd it. Hold, here's gold for thee: : None
+4.6 :Persever in that clear way thou goest, : None
+4.6 :And the gods strengthen thee! : None
+MARINA
+4.6 :The good gods preserve you! : None
+LYSIMACHUS
+4.6 :For me, be you thoughten : None
+4.6 :That I came with no ill intent; for to me : None
+4.6 :The very doors and windows savour vilely. : None
+4.6 :Fare thee well. Thou art a piece of virtue, and : None
+4.6 :I doubt not but thy training hath been noble. : None
+4.6 :Hold, here's more gold for thee. : None
+4.6 :A curse upon him, die he like a thief, : None
+4.6 :That robs thee of thy goodness! If thou dost : None
+4.6 :Hear from me, it shall be for thy good. : None
+Re-enter BOULT : ["Re-enter - ['BOULT']"] : LYSIMACHUS
+BOULT
+4.6 :I beseech your honour, one piece for me. : None
+LYSIMACHUS
+4.6 :Avaunt, thou damned door-keeper! : None
+4.6 :Your house, but for this virgin that doth prop it, : None
+4.6 :Would sink and overwhelm you. Away! : None
+Exit : ['Exit - []'] : LYSIMACHUS
+BOULT
+4.6 :How's this? We must take another course with you. : None
+4.6 :If your peevish chastity, which is not worth a : None
+4.6 :breakfast in the cheapest country under the cope, : None
+4.6 :shall undo a whole household, let me be gelded like : None
+4.6 :a spaniel. Come your ways. : None
+MARINA
+4.6 : Whither would you have me? : None
+BOULT
+4.6 :I must have your maidenhead taken off, or the common : None
+4.6 :hangman shall execute it. Come your ways. We'll : None
+4.6 :have no more gentlemen driven away. Come your ways, I say. : None
+Re-enter Bawd : ["Re-enter - ['BAWD']"] : BOULT
+BAWD
+4.6 :How now! what's the matter? : None
+BOULT
+4.6 :Worse and worse, mistress; she has here spoken holy : None
+4.6 :words to the Lord Lysimachus. : None
+BAWD
+4.6 :O abominable! : None
+BOULT
+4.6 :She makes our profession as it were to stink afore : None
+4.6 :the face of the gods. : None
+BAWD
+4.6 :Marry, hang her up for ever! : None
+BOULT
+4.6 :The nobleman would have dealt with her like a : None
+4.6 :nobleman, and she sent him away as cold as a : None
+4.6 :snowball; saying his prayers too. : None
+BAWD
+4.6 :Boult, take her away; use her at thy pleasure: : None
+4.6 :crack the glass of her virginity, and make the rest malleable. : None
+BOULT
+4.6 :An if she were a thornier piece of ground than she : None
+4.6 :is, she shall be ploughed. : None
+MARINA
+4.6 :Hark, hark, you gods! : None
+BAWD
+4.6 :She conjures: away with her! Would she had never : None
+4.6 :come within my doors! Marry, hang you! She's born : None
+4.6 :to undo us. Will you not go the way of women-kind? : None
+4.6 :Marry, come up, my dish of chastity with rosemary and bays! : None
+Exit : ['Exit - []'] : BAWD
+BOULT
+4.6 :Come, mistress; come your ways with me. : None
+MARINA
+4.6 :Whither wilt thou have me? : None
+BOULT
+4.6 :To take from you the jewel you hold so dear. : None
+MARINA
+4.6 :Prithee, tell me one thing first. : None
+BOULT
+4.6 :Come now, your one thing. : None
+MARINA
+4.6 :What canst thou wish thine enemy to be? : None
+BOULT
+4.6 :Why, I could wish him to be my master, or rather, my mistress. : None
+MARINA
+4.6 :Neither of these are so bad as thou art, : None
+4.6 :Since they do better thee in their command. : None
+4.6 :Thou hold'st a place, for which the pained'st fiend : None
+4.6 :Of hell would not in reputation change: : None
+4.6 :Thou art the damned doorkeeper to every : None
+4.6 :Coistrel that comes inquiring for his Tib; : None
+4.6 :To the choleric fisting of every rogue : None
+4.6 :Thy ear is liable; thy food is such : None
+4.6 :As hath been belch'd on by infected lungs. : None
+BOULT
+4.6 :What would you have me do? go to the wars, would : None
+4.6 :you? where a man may serve seven years for the loss : None
+4.6 :of a leg, and have not money enough in the end to : None
+4.6 :buy him a wooden one? : None
+MARINA
+4.6 :Do any thing but this thou doest. Empty : None
+4.6 :OLD receptacles, or common shores, of filth; : None
+4.6 :Serve by indenture to the common hangman: : None
+4.6 :Any of these ways are yet better than this; : None
+4.6 :For what thou professest, a baboon, could he speak, : None
+4.6 :Would own a name too dear. O, that the gods : None
+4.6 :Would safely deliver me from this place! : None
+4.6 :Here, here's gold for thee. : None
+4.6 :If that thy master would gain by thee, : None
+4.6 :Proclaim that I can sing, weave, sew, and dance, : None
+4.6 :With other virtues, which I'll keep from boast: : None
+4.6 :And I will undertake all these to teach. : None
+4.6 :I doubt not but this populous city will : None
+4.6 :Yield many scholars. : None
+BOULT
+4.6 :But can you teach all this you speak of? : None
+MARINA
+4.6 :Prove that I cannot, take me home again, : None
+4.6 :And prostitute me to the basest groom : None
+4.6 :That doth frequent your house. : None
+BOULT
+4.6 :Well, I will see what I can do for thee: if I can : None
+4.6 :place thee, I will. : None
+MARINA
+4.6 :But amongst honest women. : None
+BOULT
+4.6 :'Faith, my acquaintance lies little amongst them. : None
+4.6 :But since my master and mistress have bought you, : None
+4.6 :there's no going but by their consent: therefore I : None
+4.6 :will make them acquainted with your purpose, and I : None
+4.6 :doubt not but I shall find them tractable enough. : None
+4.6 :Come, I'll do for thee what I can; come your ways. : None
+Exeunt : ['Exeunt - []'] : BOULT
+Act(act=5)
+Enter GOWER : ["Enter - ['GOWER']"] : BOULT
+GOWER
+5.6 :Marina thus the brothel 'scapes, and chances : None
+5.6 :Into an honest house, our story says. : None
+5.6 :She sings like one immortal, and she dances : None
+5.6 :As goddess-like to her admired lays; : None
+5.6 :Deep clerks she dumbs; and with her needle composes : None
+5.6 :Nature's own shape, of bud, bird, branch, or berry, : None
+5.6 :That even her art sisters the natural roses; : None
+5.6 :Her inkle, silk, twin with the rubied cherry: : None
+5.6 :That pupils lacks she none of noble race, : None
+5.6 :Who pour their bounty on her; and her gain : None
+5.6 :She gives the cursed bawd. Here we her place; : None
+5.6 :And to her father turn our thoughts again, : None
+5.6 :Where we left him, on the sea. We there him lost; : None
+5.6 :Whence, driven before the winds, he is arrived : None
+5.6 :Here where his daughter dwells; and on this coast : None
+5.6 :Suppose him now at anchor. The city strived : None
+5.6 :God Neptune's annual feast to keep: from whence : None
+5.6 :Lysimachus our Tyrian ship espies, : None
+5.6 :His banners sable, trimm'd with rich expense; : None
+5.6 :And to him in his barge with fervor hies. : None
+5.6 :In your supposing once more put your sight : None
+5.6 :Of heavy Pericles; think this his bark: : None
+5.6 :Where what is done in action, more, if might, : None
+5.6 :Shall be discover'd; please you, sit and hark. : None
+Exit : ['Exit - []'] : GOWER
+Scene(scene=1)
+5.1 :pavilion on deck, with a curtain before it; PERICLES : None
+5.1 :within it, reclined on a couch. A barge lying : None
+5.1 :beside the Tyrian vessel. : None
+Enter two Sailors, one belonging to the Tyrian vessel, the other to the barge; to them HELICANUS : ["Enter - ['HELICANUS']"] : GOWER
+TYRIAN SAILOR
+5.1 :  Where is lord Helicanus? : To the Sailor of Mytilene : ['To - []'] : TYRIAN SAILOR
+5.1 :he can resolve you. : None
+5.1 :O, here he is. : None
+5.1 :Sir, there's a barge put off from Mytilene, : None
+5.1 :And in it is Lysimachus the governor, : None
+5.1 :Who craves to come aboard. What is your will? : None
+HELICANUS
+5.1 :That he have his. Call up some gentlemen. : None
+TYRIAN SAILOR
+5.1 :Ho, gentlemen! my lord calls. : None
+Enter two or three Gentlemen : ['Enter - []'] : TYRIAN SAILOR
+FIRST GENTLEMAN
+5.1 :Doth your lordship call? : None
+HELICANUS
+5.1 :Gentlemen, there's some of worth would come aboard; : None
+5.1 :I pray ye, greet them fairly. : None
+The Gentlemen and the two Sailors descend, and go on board the barge : ['None - []'] : HELICANUS
+Enter, from thence, LYSIMACHUS and Lords; with the Gentlemen and the two Sailors : ["Enter - ['LYSIMACHUS', 'LORD']"] : HELICANUS
+TYRIAN SAILOR
+5.1 :Sir, : None
+5.1 :This is the man that can, in aught you would, : None
+5.1 :Resolve you. : None
+LYSIMACHUS
+5.1 :Hail, reverend sir! the gods preserve you! : None
+HELICANUS
+5.1 :And you, sir, to outlive the age I am, : None
+5.1 :And die as I would do. : None
+LYSIMACHUS
+5.1 :You wish me well. : None
+5.1 :Being on shore, honouring of Neptune's triumphs, : None
+5.1 :Seeing this goodly vessel ride before us, : None
+5.1 :I made to it, to know of whence you are. : None
+HELICANUS
+5.1 :First, what is your place? : None
+LYSIMACHUS
+5.1 :I am the governor of this place you lie before. : None
+HELICANUS
+5.1 :Sir, : None
+5.1 :Our vessel is of Tyre, in it the king; : None
+5.1 :A man who for this three months hath not spoken : None
+5.1 :To any one, nor taken sustenance : None
+5.1 :But to prorogue his grief. : None
+LYSIMACHUS
+5.1 :Upon what ground is his distemperature? : None
+HELICANUS
+5.1 :'Twould be too tedious to repeat; : None
+5.1 :But the main grief springs from the loss : None
+5.1 :Of a beloved daughter and a wife. : None
+LYSIMACHUS
+5.1 :May we not see him? : None
+HELICANUS
+5.1 :You may; : None
+5.1 :But bootless is your sight: he will not speak To any. : None
+LYSIMACHUS
+5.1 :Yet let me obtain my wish. : None
+HELICANUS
+5.1 :Behold him. : None
+PERICLES discovered : ["None - ['PERICLES']"] : HELICANUS
+5.1 :This was a goodly person, : None
+5.1 :Till the disaster that, one mortal night, : None
+5.1 :Drove him to this. : None
+LYSIMACHUS
+5.1 :Sir king, all hail! the gods preserve you! : None
+5.1 :Hail, royal sir! : None
+HELICANUS
+5.1 :It is in vain; he will not speak to you. : None
+FIRST LORD
+5.1 :Sir, : None
+5.1 :We have a maid in Mytilene, I durst wager, : None
+5.1 :Would win some words of him. : None
+LYSIMACHUS
+5.1 :'Tis well bethought. : None
+5.1 :She questionless with her sweet harmony : None
+5.1 :And other chosen attractions, would allure, : None
+5.1 :And make a battery through his deafen'd parts, : None
+5.1 :Which now are midway stopp'd: : None
+5.1 :She is all happy as the fairest of all, : None
+5.1 :And, with her fellow maids is now upon : None
+5.1 :The leafy shelter that abuts against : None
+5.1 :The island's side. : None
+Whispers a Lord, who goes off in the barge of LYSIMACHUS : ["None - ['LORD', 'LYSIMACHUS']"] : LYSIMACHUS
+HELICANUS
+5.1 :Sure, all's effectless; yet nothing we'll omit : None
+5.1 :That bears recovery's name. But, since your kindness : None
+5.1 :We have stretch'd thus far, let us beseech you : None
+5.1 :That for our gold we may provision have, : None
+5.1 :Wherein we are not destitute for want, : None
+5.1 :But weary for the staleness. : None
+LYSIMACHUS
+5.1 :O, sir, a courtesy : None
+5.1 :Which if we should deny, the most just gods : None
+5.1 :For every graff would send a caterpillar, : None
+5.1 :And so afflict our province. Yet once more : None
+5.1 :Let me entreat to know at large the cause : None
+5.1 :Of your king's sorrow. : None
+HELICANUS
+5.1 :Sit, sir, I will recount it to you: : None
+5.1 :But, see, I am prevented. : None
+Re-enter, from the barge, Lord, with MARINA, and a young Lady : ["Re-enter - ['LORD', 'MARINA']"] : HELICANUS
+LYSIMACHUS
+5.1 :O, here is : None
+5.1 :The lady that I sent for. Welcome, fair one! : None
+5.1 :Is't not a goodly presence? : None
+HELICANUS
+5.1 :She's a gallant lady. : None
+LYSIMACHUS
+5.1 :She's such a one, that, were I well assured : None
+5.1 :Came of a gentle kind and noble stock, : None
+5.1 :I'ld wish no better choice, and think me rarely wed. : None
+5.1 :Fair one, all goodness that consists in bounty : None
+5.1 :Expect even here, where is a kingly patient: : None
+5.1 :If that thy prosperous and artificial feat : None
+5.1 :Can draw him but to answer thee in aught, : None
+5.1 :Thy sacred physic shall receive such pay : None
+5.1 :As thy desires can wish. : None
+MARINA
+5.1 :Sir, I will use : None
+5.1 :My utmost skill in his recovery, Provided : None
+5.1 :That none but I and my companion maid : None
+5.1 :Be suffer'd to come near him. : None
+LYSIMACHUS
+5.1 :Come, let us leave her; : None
+5.1 :And the gods make her prosperous! : None
+MARINA sings : ["None - ['MARINA']"] : LYSIMACHUS
+LYSIMACHUS
+5.1 :Mark'd he your music? : None
+MARINA
+5.1 :No, nor look'd on us. : None
+LYSIMACHUS
+5.1 :See, she will speak to him. : None
+MARINA
+5.1 :Hail, sir! my lord, lend ear. : None
+PERICLES
+5.1 :Hum, ha! : None
+MARINA
+5.1 :I am a maid, : None
+5.1 :My lord, that ne'er before invited eyes, : None
+5.1 :But have been gazed on like a comet: she speaks, : None
+5.1 :My lord, that, may be, hath endured a grief : None
+5.1 :Might equal yours, if both were justly weigh'd. : None
+5.1 :Though wayward fortune did malign my state, : None
+5.1 :My derivation was from ancestors : None
+5.1 :Who stood equivalent with mighty kings: : None
+5.1 :But time hath rooted out my parentage, : None
+5.1 :And to the world and awkward casualties : None
+5.1 :Bound me in servitude. : None
+Aside : ['Aside - []'] : MARINA
+5.1 :I will desist; : None
+5.1 :But there is something glows upon my cheek, : None
+5.1 :And whispers in mine ear, 'Go not till he speak.' : None
+PERICLES
+5.1 :My fortunes--parentage--good parentage-- : None
+5.1 :To equal mine!--was it not thus? what say you? : None
+MARINA
+5.1 :I said, my lord, if you did know my parentage, : None
+5.1 :You would not do me violence. : None
+PERICLES
+5.1 :I do think so. Pray you, turn your eyes upon me. : None
+5.1 :You are like something that--What country-woman? : None
+5.1 :Here of these shores? : None
+MARINA
+5.1 :No, nor of any shores: : None
+5.1 :Yet I was mortally brought forth, and am : None
+5.1 :No other than I appear. : None
+PERICLES
+5.1 :I am great with woe, and shall deliver weeping. : None
+5.1 :My dearest wife was like this maid, and such a one : None
+5.1 :My daughter might have been: my queen's square brows; : None
+5.1 :Her stature to an inch; as wand-like straight; : None
+5.1 :As silver-voiced; her eyes as jewel-like : None
+5.1 :And cased as richly; in pace another Juno; : None
+5.1 :Who starves the ears she feeds, and makes them hungry, : None
+5.1 :The more she gives them speech. Where do you live? : None
+MARINA
+5.1 :Where I am but a stranger: from the deck : None
+5.1 :You may discern the place. : None
+PERICLES
+5.1 :Where were you bred? : None
+5.1 :And how achieved you these endowments, which : None
+5.1 :You make more rich to owe? : None
+MARINA
+5.1 :If I should tell my history, it would seem : None
+5.1 :Like lies disdain'd in the reporting. : None
+PERICLES
+5.1 :Prithee, speak: : None
+5.1 :Falseness cannot come from thee; for thou look'st : None
+5.1 :Modest as Justice, and thou seem'st a palace : None
+5.1 :For the crown'd Truth to dwell in: I will : None
+5.1 :believe thee, : None
+5.1 :And make my senses credit thy relation : None
+5.1 :To points that seem impossible; for thou look'st : None
+5.1 :Like one I loved indeed. What were thy friends? : None
+5.1 :Didst thou not say, when I did push thee back-- : None
+5.1 :Which was when I perceived thee--that thou camest : None
+5.1 :From good descending? : None
+MARINA
+5.1 :So indeed I did. : None
+PERICLES
+5.1 :Report thy parentage. I think thou said'st : None
+5.1 :Thou hadst been toss'd from wrong to injury, : None
+5.1 :And that thou thought'st thy griefs might equal mine, : None
+5.1 :If both were open'd. : None
+MARINA
+5.1 :Some such thing : None
+5.1 :I said, and said no more but what my thoughts : None
+5.1 :Did warrant me was likely. : None
+PERICLES
+5.1 :Tell thy story; : None
+5.1 :If thine consider'd prove the thousandth part : None
+5.1 :Of my endurance, thou art a man, and I : None
+5.1 :Have suffer'd like a girl: yet thou dost look : None
+5.1 :Like Patience gazing on kings' graves, and smiling : None
+5.1 :Extremity out of act. What were thy friends? : None
+5.1 :How lost thou them? Thy name, my most kind virgin? : None
+5.1 :Recount, I do beseech thee: come, sit by me. : None
+MARINA
+5.1 :My name is Marina. : None
+PERICLES
+5.1 :                  O, I am mock'd, : None
+5.1 :And thou by some incensed god sent hither : None
+5.1 :To make the world to laugh at me. : None
+MARINA
+5.1 :Patience, good sir, : None
+5.1 :Or here I'll cease. : None
+PERICLES
+5.1 :Nay, I'll be patient. : None
+5.1 :Thou little know'st how thou dost startle me, : None
+5.1 :To call thyself Marina. : None
+MARINA
+5.1 :The name : None
+5.1 :Was given me by one that had some power, : None
+5.1 :My father, and a king. : None
+PERICLES
+5.1 :How! a king's daughter? : None
+5.1 :And call'd Marina? : None
+MARINA
+5.1 :                  You said you would believe me; : None
+5.1 :But, not to be a troubler of your peace, : None
+5.1 :I will end here. : None
+PERICLES
+5.1 :                  But are you flesh and blood? : None
+5.1 :Have you a working pulse? and are no fairy? : None
+5.1 :Motion! Well; speak on. Where were you born? : None
+5.1 :And wherefore call'd Marina? : None
+MARINA
+5.1 :Call'd Marina : None
+5.1 :For I was born at sea. : None
+PERICLES
+5.1 :At sea! what mother? : None
+MARINA
+5.1 :My mother was the daughter of a king; : None
+5.1 :Who died the minute I was born, : None
+5.1 :As my good nurse Lychorida hath oft : None
+5.1 :Deliver'd weeping. : None
+PERICLES
+5.1 :                  O, stop there a little! : None
+Aside : ['Aside - []'] : PERICLES
+5.1 :This is the rarest dream that e'er dull sleep : None
+5.1 :Did mock sad fools withal: this cannot be: : None
+5.1 :My daughter's buried. Well: where were you bred? : None
+5.1 :I'll hear you more, to the bottom of your story, : None
+5.1 :And never interrupt you. : None
+MARINA
+5.1 :You scorn: believe me, 'twere best I did give o'er. : None
+PERICLES
+5.1 :I will believe you by the syllable : None
+5.1 :Of what you shall deliver. Yet, give me leave: : None
+5.1 :How came you in these parts? where were you bred? : None
+MARINA
+5.1 :The king my father did in Tarsus leave me; : None
+5.1 :Till cruel Cleon, with his wicked wife, : None
+5.1 :Did seek to murder me: and having woo'd : None
+5.1 :A villain to attempt it, who having drawn to do't, : None
+5.1 :A crew of pirates came and rescued me; : None
+5.1 :Brought me to Mytilene. But, good sir, : None
+5.1 :Whither will you have me? Why do you weep? : None
+5.1 :It may be, : None
+5.1 :You think me an impostor: no, good faith; : None
+5.1 :I am the daughter to King Pericles, : None
+5.1 :If good King Pericles be. : None
+PERICLES
+5.1 :Ho, Helicanus! : None
+HELICANUS
+5.1 :Calls my lord? : None
+PERICLES
+5.1 :Thou art a grave and noble counsellor, : None
+5.1 :Most wise in general: tell me, if thou canst, : None
+5.1 :What this maid is, or what is like to be, : None
+5.1 :That thus hath made me weep? : None
+HELICANUS
+5.1 :I know not; but : None
+5.1 :Here is the regent, sir, of Mytilene : None
+5.1 :Speaks nobly of her. : None
+LYSIMACHUS
+5.1 :She would never tell : None
+5.1 :Her parentage; being demanded that, : None
+5.1 :She would sit still and weep. : None
+PERICLES
+5.1 :O Helicanus, strike me, honour'd sir; : None
+5.1 :Give me a gash, put me to present pain; : None
+5.1 :Lest this great sea of joys rushing upon me : None
+5.1 :O'erbear the shores of my mortality, : None
+5.1 :And drown me with their sweetness. O, come hither, : None
+5.1 :Thou that beget'st him that did thee beget; : None
+5.1 :Thou that wast born at sea, buried at Tarsus, : None
+5.1 :And found at sea again! O Helicanus, : None
+5.1 :Down on thy knees, thank the holy gods as loud : None
+5.1 :As thunder threatens us: this is Marina. : None
+5.1 :What was thy mother's name? tell me but that, : None
+5.1 :For truth can never be confirm'd enough, : None
+5.1 :Though doubts did ever sleep. : None
+MARINA
+5.1 :First, sir, I pray, : None
+5.1 :What is your title? : None
+PERICLES
+5.1 :I am Pericles of Tyre: but tell me now : None
+5.1 :My drown'd queen's name, as in the rest you said : None
+5.1 :Thou hast been godlike perfect, : None
+5.1 :The heir of kingdoms and another like : None
+5.1 :To Pericles thy father. : None
+MARINA
+5.1 :Is it no more to be your daughter than : None
+5.1 :To say my mother's name was Thaisa? : None
+5.1 :Thaisa was my mother, who did end : None
+5.1 :The minute I began. : None
+PERICLES
+5.1 :Now, blessing on thee! rise; thou art my child. : None
+5.1 :Give me fresh garments. Mine own, Helicanus; : None
+5.1 :She is not dead at Tarsus, as she should have been, : None
+5.1 :By savage Cleon: she shall tell thee all; : None
+5.1 :When thou shalt kneel, and justify in knowledge : None
+5.1 :She is thy very princess. Who is this? : None
+HELICANUS
+5.1 :Sir, 'tis the governor of Mytilene, : None
+5.1 :Who, hearing of your melancholy state, : None
+5.1 :Did come to see you. : None
+PERICLES
+5.1 :I embrace you. : None
+5.1 :Give me my robes. I am wild in my beholding. : None
+5.1 :O heavens bless my girl! But, hark, what music? : None
+5.1 :Tell Helicanus, my Marina, tell him : None
+5.1 :O'er, point by point, for yet he seems to doubt, : None
+5.1 :How sure you are my daughter. But, what music? : None
+HELICANUS
+5.1 :My lord, I hear none. : None
+PERICLES
+5.1 :None! : None
+5.1 :The music of the spheres! List, my Marina. : None
+LYSIMACHUS
+5.1 :It is not good to cross him; give him way. : None
+PERICLES
+5.1 :Rarest sounds! Do ye not hear? : None
+LYSIMACHUS
+5.1 :My lord, I hear. : None
+Music : ['None - []'] : LYSIMACHUS
+PERICLES
+5.1 :Most heavenly music! : None
+5.1 :It nips me unto listening, and thick slumber : None
+5.1 :Hangs upon mine eyes: let me rest. : None
+Sleeps : ['None - []'] : PERICLES
+LYSIMACHUS
+5.1 :A pillow for his head: : None
+5.1 :So, leave him all. Well, my companion friends, : None
+5.1 :If this but answer to my just belief, : None
+5.1 :I'll well remember you. : None
+Exeunt all but PERICLES : ["Exeunt - ['ALL', 'PERICLES']"] : LYSIMACHUS
+DIANA appears to PERICLES as in a vision : ["to - ['DIANA', 'PERICLES']"] : LYSIMACHUS
+DIANA
+5.1 :My temple stands in Ephesus: hie thee thither, : None
+5.1 :And do upon mine altar sacrifice. : None
+5.1 :There, when my maiden priests are met together, : None
+5.1 :Before the people all, : None
+5.1 :Reveal how thou at sea didst lose thy wife: : None
+5.1 :To mourn thy crosses, with thy daughter's, call : None
+5.1 :And give them repetition to the life. : None
+5.1 :Or perform my bidding, or thou livest in woe; : None
+5.1 :Do it, and happy; by my silver bow! : None
+5.1 :Awake, and tell thy dream. : None
+Disappears : ['None - []'] : DIANA
+PERICLES
+5.1 :Celestial Dian, goddess argentine, : None
+5.1 :I will obey thee. Helicanus! : None
+Re-enter HELICANUS, LYSIMACHUS, and MARINA : ["Re-enter - ['HELICANUS', 'LYSIMACHUS', 'MARINA']"] : PERICLES
+HELICANUS
+5.1 :Sir? : None
+PERICLES
+5.1 :My purpose was for Tarsus, there to strike : None
+5.1 :The inhospitable Cleon; but I am : None
+5.1 :For other service first: toward Ephesus : None
+5.1 :Turn our blown sails; eftsoons I'll tell thee why. : None
+To LYSIMACHUS : ["To - ['LYSIMACHUS']"] : PERICLES
+5.1 :Shall we refresh us, sir, upon your shore, : None
+5.1 :And give you gold for such provision : None
+5.1 :As our intents will need? : None
+LYSIMACHUS
+5.1 :Sir, : None
+5.1 :With all my heart; and, when you come ashore, : None
+5.1 :I have another suit. : None
+PERICLES
+5.1 :You shall prevail, : None
+5.1 :Were it to woo my daughter; for it seems : None
+5.1 :You have been noble towards her. : None
+LYSIMACHUS
+5.1 :Sir, lend me your arm. : None
+PERICLES
+5.1 :Come, my Marina. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+5.1 :SCENE II: : None
+Enter GOWER, before the temple of DIANA at Ephesus : ["Enter - ['GOWER', 'DIANA']"] : PERICLES
+GOWER
+5.1 :Now our sands are almost run; : None
+5.1 :More a little, and then dumb. : None
+5.1 :This, my last boon, give me, : None
+5.1 :For such kindness must relieve me, : None
+5.1 :That you aptly will suppose : None
+5.1 :What pageantry, what feats, what shows, : None
+5.1 :What minstrelsy, and pretty din, : None
+5.1 :The regent made in Mytilene : None
+5.1 :To greet the king. So he thrived, : None
+5.1 :That he is promised to be wived : None
+5.1 :To fair Marina; but in no wise : None
+5.1 :Till he had done his sacrifice, : None
+5.1 :As Dian bade: whereto being bound, : None
+5.1 :The interim, pray you, all confound. : None
+5.1 :In feather'd briefness sails are fill'd, : None
+5.1 :And wishes fall out as they're will'd. : None
+5.1 :At Ephesus, the temple see, : None
+5.1 :Our king and all his company. : None
+5.1 :That he can hither come so soon, : None
+5.1 :Is by your fancy's thankful doom. : None
+Exit : ['Exit - []'] : GOWER
+Scene(scene=3)
+5.3 :near the altar, as high priestess; a number of : None
+5.3 :Virgins on each side; CERIMON and other Inhabitants : None
+5.3 :of Ephesus attending. : None
+Enter PERICLES, with his train; LYSIMACHUS, HELICANUS, MARINA, and a Lady : ["Enter - ['PERICLES', 'LYSIMACHUS', 'HELICANUS', 'MARINA']"] : GOWER
+PERICLES
+5.3 :Hail, Dian! to perform thy just command, : None
+5.3 :I here confess myself the king of Tyre; : None
+5.3 :Who, frighted from my country, did wed : None
+5.3 :At Pentapolis the fair Thaisa. : None
+5.3 :At sea in childbed died she, but brought forth : None
+5.3 :A maid-child call'd Marina; who, O goddess, : None
+5.3 :Wears yet thy silver livery. She at Tarsus : None
+5.3 :Was nursed with Cleon; who at fourteen years : None
+5.3 :He sought to murder: but her better stars : None
+5.3 :Brought her to Mytilene; 'gainst whose shore : None
+5.3 :Riding, her fortunes brought the maid aboard us, : None
+5.3 :Where, by her own most clear remembrance, she : None
+5.3 :Made known herself my daughter. : None
+THAISA
+5.3 :Voice and favour! : None
+5.3 :You are, you are--O royal Pericles! : None
+Faints : ['None - []'] : THAISA
+PERICLES
+5.3 :What means the nun? she dies! help, gentlemen! : None
+CERIMON
+5.3 :Noble sir, : None
+5.3 :If you have told Diana's altar true, : None
+5.3 :This is your wife. : None
+PERICLES
+5.3 :                  Reverend appearer, no; : None
+5.3 :I threw her overboard with these very arms. : None
+CERIMON
+5.3 :Upon this coast, I warrant you. : None
+PERICLES
+5.3 :'Tis most certain. : None
+CERIMON
+5.3 :Look to the lady; O, she's but o'erjoy'd. : None
+5.3 :Early in blustering morn this lady was : None
+5.3 :Thrown upon this shore. I oped the coffin, : None
+5.3 :Found there rich jewels; recover'd her, and placed her : None
+5.3 :Here in Diana's temple. : None
+PERICLES
+5.3 :May we see them? : None
+CERIMON
+5.3 :Great sir, they shall be brought you to my house, : None
+5.3 :Whither I invite you. Look, Thaisa is recovered. : None
+THAISA
+5.3 :O, let me look! : None
+5.3 :If he be none of mine, my sanctity : None
+5.3 :Will to my sense bend no licentious ear, : None
+5.3 :But curb it, spite of seeing. O, my lord, : None
+5.3 :Are you not Pericles? Like him you spake, : None
+5.3 :Like him you are: did you not name a tempest, : None
+5.3 :A birth, and death? : None
+PERICLES
+5.3 :The voice of dead Thaisa! : None
+THAISA
+5.3 :That Thaisa am I, supposed dead : None
+5.3 :And drown'd. : None
+PERICLES
+5.3 :Immortal Dian! : None
+THAISA
+5.3 :                  Now I know you better. : None
+5.3 :When we with tears parted Pentapolis, : None
+5.3 :The king my father gave you such a ring. : None
+Shows a ring : ['None - []'] : THAISA
+PERICLES
+5.3 :This, this: no more, you gods! your present kindness : None
+5.3 :Makes my past miseries sports: you shall do well, : None
+5.3 :That on the touching of her lips I may : None
+5.3 :Melt and no more be seen. O, come, be buried : None
+5.3 :A second time within these arms. : None
+MARINA
+5.3 :My heart : None
+5.3 :Leaps to be gone into my mother's bosom. : None
+Kneels to THAISA : ["to - ['THAISA']"] : MARINA
+PERICLES
+5.3 :Look, who kneels here! Flesh of thy flesh, Thaisa; : None
+5.3 :Thy burden at the sea, and call'd Marina : None
+5.3 :For she was yielded there. : None
+THAISA
+5.3 :Blest, and mine own! : None
+HELICANUS
+5.3 :Hail, madam, and my queen! : None
+THAISA
+5.3 :I know you not. : None
+PERICLES
+5.3 :You have heard me say, when I did fly from Tyre, : None
+5.3 :I left behind an ancient substitute: : None
+5.3 :Can you remember what I call'd the man? : None
+5.3 :I have named him oft. : None
+THAISA
+5.3 :'Twas Helicanus then. : None
+PERICLES
+5.3 :Still confirmation: : None
+5.3 :Embrace him, dear Thaisa; this is he. : None
+5.3 :Now do I long to hear how you were found; : None
+5.3 :How possibly preserved; and who to thank, : None
+5.3 :Besides the gods, for this great miracle. : None
+THAISA
+5.3 :Lord Cerimon, my lord; this man, : None
+5.3 :Through whom the gods have shown their power; that can : None
+5.3 :From first to last resolve you. : None
+PERICLES
+5.3 :Reverend sir, : None
+5.3 :The gods can have no mortal officer : None
+5.3 :More like a god than you. Will you deliver : None
+5.3 :How this dead queen re-lives? : None
+CERIMON
+5.3 :I will, my lord. : None
+5.3 :Beseech you, first go with me to my house, : None
+5.3 :Where shall be shown you all was found with her; : None
+5.3 :How she came placed here in the temple; : None
+5.3 :No needful thing omitted. : None
+PERICLES
+5.3 :Pure Dian, bless thee for thy vision! I : None
+5.3 :Will offer night-oblations to thee. Thaisa, : None
+5.3 :This prince, the fair-betrothed of your daughter, : None
+5.3 :Shall marry her at Pentapolis. And now, : None
+5.3 :This ornament : None
+5.3 :Makes me look dismal will I clip to form; : None
+5.3 :And what this fourteen years no razor touch'd, : None
+5.3 :To grace thy marriage-day, I'll beautify. : None
+THAISA
+5.3 :Lord Cerimon hath letters of good credit, sir, : None
+5.3 :My father's dead. : None
+PERICLES
+5.3 :Heavens make a star of him! Yet there, my queen, : None
+5.3 :We'll celebrate their nuptials, and ourselves : None
+5.3 :Will in that kingdom spend our following days: : None
+5.3 :Our son and daughter shall in Tyrus reign. : None
+5.3 :Lord Cerimon, we do our longing stay : None
+5.3 :To hear the rest untold: sir, lead's the way. : None
+Exeunt : ['Exeunt - []'] : PERICLES
+Enter GOWER : ["Enter - ['GOWER']"] : PERICLES
+GOWER
+5.3 :In Antiochus and his daughter you have heard : None
+5.3 :Of monstrous lust the due and just reward: : None
+5.3 :In Pericles, his queen and daughter, seen, : None
+5.3 :Although assail'd with fortune fierce and keen, : None
+5.3 :Virtue preserved from fell destruction's blast, : None
+5.3 :Led on by heaven, and crown'd with joy at last: : None
+5.3 :In Helicanus may you well descry : None
+5.3 :A figure of truth, of faith, of loyalty: : None
+5.3 :In reverend Cerimon there well appears : None
+5.3 :The worth that learned charity aye wears: : None
+5.3 :For wicked Cleon and his wife, when fame : None
+5.3 :Had spread their cursed deed, and honour'd name : None
+5.3 :Of Pericles, to rage the city turn, : None
+5.3 :That him and his they in his palace burn; : None
+5.3 :The gods for murder seemed so content : None
+5.3 :To punish them; although not done, but meant. : None
+5.3 :So, on your patience evermore attending, : None
+5.3 :New joy wait on you! Here our play has ending. : None
+Exit : ['Exit - []'] : GOWER

@@ -1,0 +1,2800 @@
+Act(act=1)
+Scene(scene=1)
+Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and Attendants : ["Enter - ['THESEUS', 'HIPPOLYTA', 'PHILOSTRATE']"] : None
+THESEUS
+1.1 :Now, fair Hippolyta, our nuptial hour : None
+1.1 :Draws on apace; four happy days bring in : None
+1.1 :Another moon: but, O, methinks, how slow : None
+1.1 :This old moon wanes! she lingers my desires, : None
+1.1 :Like to a step-dame or a dowager : None
+1.1 :Long withering out a young man revenue. : None
+HIPPOLYTA
+1.1 :Four days will quickly steep themselves in night; : None
+1.1 :Four nights will quickly dream away the time; : None
+1.1 :And then the moon, like to a silver bow : None
+1.1 :New-bent in heaven, shall behold the night : None
+1.1 :Of our solemnities. : None
+THESEUS
+1.1 :Go, Philostrate, : None
+1.1 :Stir up the Athenian youth to merriments; : None
+1.1 :Awake the pert and nimble spirit of mirth; : None
+1.1 :Turn melancholy forth to funerals; : None
+1.1 :The pale companion is not for our pomp. : None
+Exit PHILOSTRATE : ["Exit - ['PHILOSTRATE']"] : THESEUS
+1.1 :Hippolyta, I woo'd thee with my sword, : None
+1.1 :And won thy love, doing thee injuries; : None
+1.1 :But I will wed thee in another key, : None
+1.1 :With pomp, with triumph and with revelling. : None
+Enter EGEUS, HERMIA, LYSANDER, and DEMETRIUS : ["Enter - ['EGEUS', 'HERMIA', 'LYSANDER', 'DEMETRIUS']"] : THESEUS
+EGEUS
+1.1 :Happy be Theseus, our renowned duke! : None
+THESEUS
+1.1 :Thanks, good Egeus: what's the news with thee? : None
+EGEUS
+1.1 :Full of vexation come I, with complaint : None
+1.1 :Against my child, my daughter Hermia. : None
+1.1 :Stand forth, Demetrius. My noble lord, : None
+1.1 :This man hath my consent to marry her. : None
+1.1 :Stand forth, Lysander: and my gracious duke, : None
+1.1 :This man hath bewitch'd the bosom of my child; : None
+1.1 :Thou, thou, Lysander, thou hast given her rhymes, : None
+1.1 :And interchanged love-tokens with my child: : None
+1.1 :Thou hast by moonlight at her window sung, : None
+1.1 :With feigning voice verses of feigning love, : None
+1.1 :And stolen the impression of her fantasy : None
+1.1 :With bracelets of thy hair, rings, gawds, conceits, : None
+1.1 :Knacks, trifles, nosegays, sweetmeats, messengers : None
+1.1 :Of strong prevailment in unharden'd youth: : None
+1.1 :With cunning hast thou filch'd my daughter's heart, : None
+1.1 :Turn'd her obedience, which is due to me, : None
+1.1 :To stubborn harshness: and, my gracious duke, : None
+1.1 :Be it so she; will not here before your grace : None
+1.1 :Consent to marry with Demetrius, : None
+1.1 :I beg the ancient privilege of Athens, : None
+1.1 :As she is mine, I may dispose of her: : None
+1.1 :Which shall be either to this gentleman : None
+1.1 :Or to her death, according to our law : None
+1.1 :Immediately provided in that case. : None
+THESEUS
+1.1 :What say you, Hermia? be advised fair maid: : None
+1.1 :To you your father should be as a god; : None
+1.1 :One that composed your beauties, yea, and one : None
+1.1 :To whom you are but as a form in wax : None
+1.1 :By him imprinted and within his power : None
+1.1 :To leave the figure or disfigure it. : None
+1.1 :Demetrius is a worthy gentleman. : None
+HERMIA
+1.1 :So is Lysander. : None
+THESEUS
+1.1 :                  In himself he is; : None
+1.1 :But in this kind, wanting your father's voice, : None
+1.1 :The other must be held the worthier. : None
+HERMIA
+1.1 :I would my father look'd but with my eyes. : None
+THESEUS
+1.1 :Rather your eyes must with his judgment look. : None
+HERMIA
+1.1 :I do entreat your grace to pardon me. : None
+1.1 :I know not by what power I am made bold, : None
+1.1 :Nor how it may concern my modesty, : None
+1.1 :In such a presence here to plead my thoughts; : None
+1.1 :But I beseech your grace that I may know : None
+1.1 :The worst that may befall me in this case, : None
+1.1 :If I refuse to wed Demetrius. : None
+THESEUS
+1.1 :Either to die the death or to abjure : None
+1.1 :For ever the society of men. : None
+1.1 :Therefore, fair Hermia, question your desires; : None
+1.1 :Know of your youth, examine well your blood, : None
+1.1 :Whether, if you yield not to your father's choice, : None
+1.1 :You can endure the livery of a nun, : None
+1.1 :For aye to be in shady cloister mew'd, : None
+1.1 :To live a barren sister all your life, : None
+1.1 :Chanting faint hymns to the cold fruitless moon. : None
+1.1 :Thrice-blessed they that master so their blood, : None
+1.1 :To undergo such maiden pilgrimage; : None
+1.1 :But earthlier happy is the rose distill'd, : None
+1.1 :Than that which withering on the virgin thorn : None
+1.1 :Grows, lives and dies in single blessedness. : None
+HERMIA
+1.1 :So will I grow, so live, so die, my lord, : None
+1.1 :Ere I will my virgin patent up : None
+1.1 :Unto his lordship, whose unwished yoke : None
+1.1 :My soul consents not to give sovereignty. : None
+THESEUS
+1.1 :Take time to pause; and, by the next new moon-- : None
+1.1 :The sealing-day betwixt my love and me, : None
+1.1 :For everlasting bond of fellowship-- : None
+1.1 :Upon that day either prepare to die : None
+1.1 :For disobedience to your father's will, : None
+1.1 :Or else to wed Demetrius, as he would; : None
+1.1 :Or on Diana's altar to protest : None
+1.1 :For aye austerity and single life. : None
+DEMETRIUS
+1.1 :Relent, sweet Hermia: and, Lysander, yield : None
+1.1 :Thy crazed title to my certain right. : None
+LYSANDER
+1.1 :You have her father's love, Demetrius; : None
+1.1 :Let me have Hermia's: do you marry him. : None
+EGEUS
+1.1 :Scornful Lysander! true, he hath my love, : None
+1.1 :And what is mine my love shall render him. : None
+1.1 :And she is mine, and all my right of her : None
+1.1 :I do estate unto Demetrius. : None
+LYSANDER
+1.1 :I am, my lord, as well derived as he, : None
+1.1 :As well possess'd; my love is more than his; : None
+1.1 :My fortunes every way as fairly rank'd, : None
+1.1 :If not with vantage, as Demetrius'; : None
+1.1 :And, which is more than all these boasts can be, : None
+1.1 :I am beloved of beauteous Hermia: : None
+1.1 :Why should not I then prosecute my right? : None
+1.1 :Demetrius, I'll avouch it to his head, : None
+1.1 :Made love to Nedar's daughter, Helena, : None
+1.1 :And won her soul; and she, sweet lady, dotes, : None
+1.1 :Devoutly dotes, dotes in idolatry, : None
+1.1 :Upon this spotted and inconstant man. : None
+THESEUS
+1.1 :I must confess that I have heard so much, : None
+1.1 :And with Demetrius thought to have spoke thereof; : None
+1.1 :But, being over-full of self-affairs, : None
+1.1 :My mind did lose it. But, Demetrius, come; : None
+1.1 :And come, Egeus; you shall go with me, : None
+1.1 :I have some private schooling for you both. : None
+1.1 :For you, fair Hermia, look you arm yourself : None
+1.1 :To fit your fancies to your father's will; : None
+1.1 :Or else the law of Athens yields you up-- : None
+1.1 :Which by no means we may extenuate-- : None
+1.1 :To death, or to a vow of single life. : None
+1.1 :Come, my Hippolyta: what cheer, my love? : None
+1.1 :Demetrius and Egeus, go along: : None
+1.1 :I must employ you in some business : None
+1.1 :Against our nuptial and confer with you : None
+1.1 :Of something nearly that concerns yourselves. : None
+EGEUS
+1.1 :With duty and desire we follow you. : None
+Exeunt all but LYSANDER and HERMIA : ["Exeunt - ['ALL', 'LYSANDER', 'HERMIA']"] : EGEUS
+LYSANDER
+1.1 :How now, my love! why is your cheek so pale? : None
+1.1 :How chance the roses there do fade so fast? : None
+HERMIA
+1.1 :Belike for want of rain, which I could well : None
+1.1 :Beteem them from the tempest of my eyes. : None
+LYSANDER
+1.1 :Ay me! for aught that I could ever read, : None
+1.1 :Could ever hear by tale or history, : None
+1.1 :The course of true love never did run smooth; : None
+1.1 :But, either it was different in blood,-- : None
+HERMIA
+1.1 :O cross! too high to be enthrall'd to low. : None
+LYSANDER
+1.1 :Or else misgraffed in respect of years,-- : None
+HERMIA
+1.1 :O spite! too old to be engaged to young. : None
+LYSANDER
+1.1 :Or else it stood upon the choice of friends,-- : None
+HERMIA
+1.1 :O hell! to choose love by another's eyes. : None
+LYSANDER
+1.1 :Or, if there were a sympathy in choice, : None
+1.1 :War, death, or sickness did lay siege to it, : None
+1.1 :Making it momentany as a sound, : None
+1.1 :Swift as a shadow, short as any dream; : None
+1.1 :Brief as the lightning in the collied night, : None
+1.1 :That, in a spleen, unfolds both heaven and earth, : None
+1.1 :And ere a man hath power to say 'Behold!' : None
+1.1 :The jaws of darkness do devour it up: : None
+1.1 :So quick bright things come to confusion. : None
+HERMIA
+1.1 :If then true lovers have been ever cross'd, : None
+1.1 :It stands as an edict in destiny: : None
+1.1 :Then let us teach our trial patience, : None
+1.1 :Because it is a customary cross, : None
+1.1 :As due to love as thoughts and dreams and sighs, : None
+1.1 :Wishes and tears, poor fancy's followers. : None
+LYSANDER
+1.1 :A good persuasion: therefore, hear me, Hermia. : None
+1.1 :I have a widow aunt, a dowager : None
+1.1 :Of great revenue, and she hath no child: : None
+1.1 :From Athens is her house remote seven leagues; : None
+1.1 :And she respects me as her only son. : None
+1.1 :There, gentle Hermia, may I marry thee; : None
+1.1 :And to that place the sharp Athenian law : None
+1.1 :Cannot pursue us. If thou lovest me then, : None
+1.1 :Steal forth thy father's house to-morrow night; : None
+1.1 :And in the wood, a league without the town, : None
+1.1 :Where I did meet thee once with Helena, : None
+1.1 :To do observance to a morn of May, : None
+1.1 :There will I stay for thee. : None
+HERMIA
+1.1 :My good Lysander! : None
+1.1 :I swear to thee, by Cupid's strongest bow, : None
+1.1 :By his best arrow with the golden head, : None
+1.1 :By the simplicity of Venus' doves, : None
+1.1 :By that which knitteth souls and prospers loves, : None
+1.1 :And by that fire which burn'd the Carthage queen, : None
+1.1 :When the false Troyan under sail was seen, : None
+1.1 :By all the vows that ever men have broke, : None
+1.1 :In number more than ever women spoke, : None
+1.1 :In that same place thou hast appointed me, : None
+1.1 :To-morrow truly will I meet with thee. : None
+LYSANDER
+1.1 :Keep promise, love. Look, here comes Helena. : None
+Enter HELENA : ["Enter - ['HELENA']"] : LYSANDER
+HERMIA
+1.1 :God speed fair Helena! whither away? : None
+HELENA
+1.1 :Call you me fair? that fair again unsay. : None
+1.1 :Demetrius loves your fair: O happy fair! : None
+1.1 :Your eyes are lode-stars; and your tongue's sweet air : None
+1.1 :More tuneable than lark to shepherd's ear, : None
+1.1 :When wheat is green, when hawthorn buds appear. : None
+1.1 :Sickness is catching: O, were favour so, : None
+1.1 :Yours would I catch, fair Hermia, ere I go; : None
+1.1 :My ear should catch your voice, my eye your eye, : None
+1.1 :My tongue should catch your tongue's sweet melody. : None
+1.1 :Were the world mine, Demetrius being bated, : None
+1.1 :The rest I'd give to be to you translated. : None
+1.1 :O, teach me how you look, and with what art : None
+1.1 :You sway the motion of Demetrius' heart. : None
+HERMIA
+1.1 :I frown upon him, yet he loves me still. : None
+HELENA
+1.1 :O that your frowns would teach my smiles such skill! : None
+HERMIA
+1.1 :I give him curses, yet he gives me love. : None
+HELENA
+1.1 :O that my prayers could such affection move! : None
+HERMIA
+1.1 :The more I hate, the more he follows me. : None
+HELENA
+1.1 :The more I love, the more he hateth me. : None
+HERMIA
+1.1 :His folly, Helena, is no fault of mine. : None
+HELENA
+1.1 :None, but your beauty: would that fault were mine! : None
+HERMIA
+1.1 :Take comfort: he no more shall see my face; : None
+1.1 :Lysander and myself will fly this place. : None
+1.1 :Before the time I did Lysander see, : None
+1.1 :Seem'd Athens as a paradise to me: : None
+1.1 :O, then, what graces in my love do dwell, : None
+1.1 :That he hath turn'd a heaven unto a hell! : None
+LYSANDER
+1.1 :Helen, to you our minds we will unfold: : None
+1.1 :To-morrow night, when Phoebe doth behold : None
+1.1 :Her silver visage in the watery glass, : None
+1.1 :Decking with liquid pearl the bladed grass, : None
+1.1 :A time that lovers' flights doth still conceal, : None
+1.1 :Through Athens' gates have we devised to steal. : None
+HERMIA
+1.1 :And in the wood, where often you and I : None
+1.1 :Upon faint primrose-beds were wont to lie, : None
+1.1 :Emptying our bosoms of their counsel sweet, : None
+1.1 :There my Lysander and myself shall meet; : None
+1.1 :And thence from Athens turn away our eyes, : None
+1.1 :To seek new friends and stranger companies. : None
+1.1 :Farewell, sweet playfellow: pray thou for us; : None
+1.1 :And good luck grant thee thy Demetrius! : None
+1.1 :Keep word, Lysander: we must starve our sight : None
+1.1 :From lovers' food till morrow deep midnight. : None
+LYSANDER
+1.1 :I will, my Hermia. : None
+Exit HERMIA : ["Exit - ['HERMIA']"] : LYSANDER
+1.1 :Helena, adieu: : None
+1.1 :As you on him, Demetrius dote on you! : None
+Exit : ['Exit - []'] : LYSANDER
+HELENA
+1.1 :How happy some o'er other some can be! : None
+1.1 :Through Athens I am thought as fair as she. : None
+1.1 :But what of that? Demetrius thinks not so; : None
+1.1 :He will not know what all but he do know: : None
+1.1 :And as he errs, doting on Hermia's eyes, : None
+1.1 :So I, admiring of his qualities: : None
+1.1 :Things base and vile, folding no quantity, : None
+1.1 :Love can transpose to form and dignity: : None
+1.1 :Love looks not with the eyes, but with the mind; : None
+1.1 :And therefore is wing'd Cupid painted blind: : None
+1.1 :Nor hath Love's mind of any judgement taste; : None
+1.1 :Wings and no eyes figure unheedy haste: : None
+1.1 :And therefore is Love said to be a child, : None
+1.1 :Because in choice he is so oft beguiled. : None
+1.1 :As waggish boys in game themselves forswear, : None
+1.1 :So the boy Love is perjured every where: : None
+1.1 :For ere Demetrius look'd on Hermia's eyne, : None
+1.1 :He hail'd down oaths that he was only mine; : None
+1.1 :And when this hail some heat from Hermia felt, : None
+1.1 :So he dissolved, and showers of oaths did melt. : None
+1.1 :I will go tell him of fair Hermia's flight: : None
+1.1 :Then to the wood will he to-morrow night : None
+1.1 :Pursue her; and for this intelligence : None
+1.1 :If I have thanks, it is a dear expense: : None
+1.1 :But herein mean I to enrich my pain, : None
+1.1 :To have his sight thither and back again. : None
+Exit : ['Exit - []'] : HELENA
+Scene(scene=2)
+Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING : ["Enter - ['QUINCE', 'SNUG', 'BOTTOM', 'FLUTE', 'SNOUT', 'STARVELING']"] : HELENA
+QUINCE
+1.2 :Is all our company here? : None
+BOTTOM
+1.2 :You were best to call them generally, man by man, : None
+1.2 :according to the scrip. : None
+QUINCE
+1.2 :Here is the scroll of every man's name, which is : None
+1.2 :thought fit, through all Athens, to play in our : None
+1.2 :interlude before the duke and the duchess, on his : None
+1.2 :wedding-day at night. : None
+BOTTOM
+1.2 :First, good Peter Quince, say what the play treats : None
+1.2 :on, then read the names of the actors, and so grow : None
+1.2 :to a point. : None
+QUINCE
+1.2 :Marry, our play is, The most lamentable comedy, and : None
+1.2 :most cruel death of Pyramus and Thisby. : None
+BOTTOM
+1.2 :A very good piece of work, I assure you, and a : None
+1.2 :merry. Now, good Peter Quince, call forth your : None
+1.2 :actors by the scroll. Masters, spread yourselves. : None
+QUINCE
+1.2 :Answer as I call you. Nick Bottom, the weaver. : None
+BOTTOM
+1.2 :Ready. Name what part I am for, and proceed. : None
+QUINCE
+1.2 :You, Nick Bottom, are set down for Pyramus. : None
+BOTTOM
+1.2 :What is Pyramus? a lover, or a tyrant? : None
+QUINCE
+1.2 :A lover, that kills himself most gallant for love. : None
+BOTTOM
+1.2 :That will ask some tears in the true performing of : None
+1.2 :it: if I do it, let the audience look to their : None
+1.2 :eyes; I will move storms, I will condole in some : None
+1.2 :measure. To the rest: yet my chief humour is for a : None
+1.2 :tyrant: I could play Ercles rarely, or a part to : None
+1.2 :tear a cat in, to make all split. : None
+1.2 :The raging rocks : None
+1.2 :And shivering shocks : None
+1.2 :Shall break the locks : None
+1.2 :Of prison gates; : None
+1.2 :And Phibbus' car : None
+1.2 :Shall shine from far : None
+1.2 :And make and mar : None
+1.2 :The foolish Fates. : None
+1.2 :This was lofty! Now name the rest of the players. : None
+1.2 :This is Ercles' vein, a tyrant's vein; a lover is : None
+1.2 :more condoling. : None
+QUINCE
+1.2 :Francis Flute, the bellows-mender. : None
+FLUTE
+1.2 :Here, Peter Quince. : None
+QUINCE
+1.2 :Flute, you must take Thisby on you. : None
+FLUTE
+1.2 :What is Thisby? a wandering knight? : None
+QUINCE
+1.2 :It is the lady that Pyramus must love. : None
+FLUTE
+1.2 :Nay, faith, let me not play a woman; I have a beard coming. : None
+QUINCE
+1.2 :That's all one: you shall play it in a mask, and : None
+1.2 :you may speak as small as you will. : None
+BOTTOM
+1.2 :An I may hide my face, let me play Thisby too, I'll : None
+1.2 :speak in a monstrous little voice. 'Thisne, : None
+1.2 :Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear, : None
+1.2 :and lady dear!' : None
+QUINCE
+1.2 :No, no; you must play Pyramus: and, Flute, you Thisby. : None
+BOTTOM
+1.2 :Well, proceed. : None
+QUINCE
+1.2 :Robin Starveling, the tailor. : None
+STARVELING
+1.2 :Here, Peter Quince. : None
+QUINCE
+1.2 :Robin Starveling, you must play Thisby's mother. : None
+1.2 :Tom Snout, the tinker. : None
+SNOUT
+1.2 :Here, Peter Quince. : None
+QUINCE
+1.2 :You, Pyramus' father: myself, Thisby's father: : None
+1.2 :Snug, the joiner; you, the lion's part: and, I : None
+1.2 :hope, here is a play fitted. : None
+SNUG
+1.2 :Have you the lion's part written? pray you, if it : None
+1.2 :be, give it me, for I am slow of study. : None
+QUINCE
+1.2 :You may do it extempore, for it is nothing but roaring. : None
+BOTTOM
+1.2 :Let me play the lion too: I will roar, that I will : None
+1.2 :do any man's heart good to hear me; I will roar, : None
+1.2 :that I will make the duke say 'Let him roar again, : None
+1.2 :let him roar again.' : None
+QUINCE
+1.2 :An you should do it too terribly, you would fright : None
+1.2 :the duchess and the ladies, that they would shriek; : None
+1.2 :and that were enough to hang us all. : None
+ALL
+1.2 :That would hang us, every mother's son. : None
+BOTTOM
+1.2 :I grant you, friends, if that you should fright the : None
+1.2 :ladies out of their wits, they would have no more : None
+1.2 :discretion but to hang us: but I will aggravate my : None
+1.2 :voice so that I will roar you as gently as any : None
+1.2 :sucking dove; I will roar you an 'twere any : None
+1.2 :nightingale. : None
+QUINCE
+1.2 :You can play no part but Pyramus; for Pyramus is a : None
+1.2 :sweet-faced man; a proper man, as one shall see in a : None
+1.2 :summer's day; a most lovely gentleman-like man: : None
+1.2 :therefore you must needs play Pyramus. : None
+BOTTOM
+1.2 :Well, I will undertake it. What beard were I best : None
+1.2 :to play it in? : None
+QUINCE
+1.2 :Why, what you will. : None
+BOTTOM
+1.2 :I will discharge it in either your straw-colour : None
+1.2 :beard, your orange-tawny beard, your purple-in-grain : None
+1.2 :beard, or your French-crown-colour beard, your : None
+1.2 :perfect yellow. : None
+QUINCE
+1.2 :Some of your French crowns have no hair at all, and : None
+1.2 :then you will play bare-faced. But, masters, here : None
+1.2 :are your parts: and I am to entreat you, request : None
+1.2 :you and desire you, to con them by to-morrow night; : None
+1.2 :and meet me in the palace wood, a mile without the : None
+1.2 :town, by moonlight; there will we rehearse, for if : None
+1.2 :we meet in the city, we shall be dogged with : None
+1.2 :company, and our devices known. In the meantime I : None
+1.2 :will draw a bill of properties, such as our play : None
+1.2 :wants. I pray you, fail me not. : None
+BOTTOM
+1.2 :We will meet; and there we may rehearse most : None
+1.2 :obscenely and courageously. Take pains; be perfect: adieu. : None
+QUINCE
+1.2 :At the duke's oak we meet. : None
+BOTTOM
+1.2 :Enough; hold or cut bow-strings. : None
+Exeunt : ['Exeunt - []'] : BOTTOM
+Act(act=2)
+Scene(scene=1)
+Enter, from opposite sides, a Fairy, and PUCK : ["Enter - ['FAIRY', 'PUCK']"] : BOTTOM
+PUCK
+2.1 :How now, spirit! whither wander you? : None
+FAIRY
+2.1 :     Over hill, over dale, : None
+2.1 :Thorough bush, thorough brier, : None
+2.1 :Over park, over pale, : None
+2.1 :Thorough flood, thorough fire, : None
+2.1 :I do wander everywhere, : None
+2.1 :Swifter than the moon's sphere; : None
+2.1 :And I serve the fairy queen, : None
+2.1 :To dew her orbs upon the green. : None
+2.1 :The cowslips tall her pensioners be: : None
+2.1 :In their gold coats spots you see; : None
+2.1 :Those be rubies, fairy favours, : None
+2.1 :In those freckles live their savours: : None
+2.1 :I must go seek some dewdrops here : None
+2.1 :And hang a pearl in every cowslip's ear. : None
+2.1 :Farewell, thou lob of spirits; I'll be gone: : None
+2.1 :Our queen and all our elves come here anon. : None
+PUCK
+2.1 :The king doth keep his revels here to-night: : None
+2.1 :Take heed the queen come not within his sight; : None
+2.1 :For Oberon is passing fell and wrath, : None
+2.1 :Because that she as her attendant hath : None
+2.1 :A lovely boy, stolen from an Indian king; : None
+2.1 :She never had so sweet a changeling; : None
+2.1 :And jealous Oberon would have the child : None
+2.1 :Knight of his train, to trace the forests wild; : None
+2.1 :But she perforce withholds the loved boy, : None
+2.1 :Crowns him with flowers and makes him all her joy: : None
+2.1 :And now they never meet in grove or green, : None
+2.1 :By fountain clear, or spangled starlight sheen, : None
+2.1 :But, they do square, that all their elves for fear : None
+2.1 :Creep into acorn-cups and hide them there. : None
+FAIRY
+2.1 :Either I mistake your shape and making quite, : None
+2.1 :Or else you are that shrewd and knavish sprite : None
+2.1 :Call'd Robin Goodfellow: are not you he : None
+2.1 :That frights the maidens of the villagery; : None
+2.1 :Skim milk, and sometimes labour in the quern : None
+2.1 :And bootless make the breathless housewife churn; : None
+2.1 :And sometime make the drink to bear no barm; : None
+2.1 :Mislead night-wanderers, laughing at their harm? : None
+2.1 :Those that Hobgoblin call you and sweet Puck, : None
+2.1 :You do their work, and they shall have good luck: : None
+2.1 :Are not you he? : None
+PUCK
+2.1 :                  Thou speak'st aright; : None
+2.1 :I am that merry wanderer of the night. : None
+2.1 :I jest to Oberon and make him smile : None
+2.1 :When I a fat and bean-fed horse beguile, : None
+2.1 :Neighing in likeness of a filly foal: : None
+2.1 :And sometime lurk I in a gossip's bowl, : None
+2.1 :In very likeness of a roasted crab, : None
+2.1 :And when she drinks, against her lips I bob : None
+2.1 :And on her wither'd dewlap pour the ale. : None
+2.1 :The wisest aunt, telling the saddest tale, : None
+2.1 :Sometime for three-foot stool mistaketh me; : None
+2.1 :Then slip I from her bum, down topples she, : None
+2.1 :And 'tailor' cries, and falls into a cough; : None
+2.1 :And then the whole quire hold their hips and laugh, : None
+2.1 :And waxen in their mirth and neeze and swear : None
+2.1 :A merrier hour was never wasted there. : None
+2.1 :But, room, fairy! here comes Oberon. : None
+FAIRY
+2.1 :And here my mistress. Would that he were gone! : None
+Enter, from one side, OBERON, with his train; from the other, TITANIA, with hers : ["Enter - ['OBERON', 'TITANIA']"] : FAIRY
+OBERON
+2.1 :Ill met by moonlight, proud Titania. : None
+TITANIA
+2.1 :What, jealous Oberon! Fairies, skip hence: : None
+2.1 :I have forsworn his bed and company. : None
+OBERON
+2.1 :Tarry, rash wanton: am not I thy lord? : None
+TITANIA
+2.1 :Then I must be thy lady: but I know : None
+2.1 :When thou hast stolen away from fairy land, : None
+2.1 :And in the shape of Corin sat all day, : None
+2.1 :Playing on pipes of corn and versing love : None
+2.1 :To amorous Phillida. Why art thou here, : None
+2.1 :Come from the farthest Steppe of India? : None
+2.1 :But that, forsooth, the bouncing Amazon, : None
+2.1 :Your buskin'd mistress and your warrior love, : None
+2.1 :To Theseus must be wedded, and you come : None
+2.1 :To give their bed joy and prosperity. : None
+OBERON
+2.1 :How canst thou thus for shame, Titania, : None
+2.1 :Glance at my credit with Hippolyta, : None
+2.1 :Knowing I know thy love to Theseus? : None
+2.1 :Didst thou not lead him through the glimmering night : None
+2.1 :From Perigenia, whom he ravished? : None
+2.1 :And make him with fair AEgle break his faith, : None
+2.1 :With Ariadne and Antiopa? : None
+TITANIA
+2.1 :These are the forgeries of jealousy: : None
+2.1 :And never, since the middle summer's spring, : None
+2.1 :Met we on hill, in dale, forest or mead, : None
+2.1 :By paved fountain or by rushy brook, : None
+2.1 :Or in the beached margent of the sea, : None
+2.1 :To dance our ringlets to the whistling wind, : None
+2.1 :But with thy brawls thou hast disturb'd our sport. : None
+2.1 :Therefore the winds, piping to us in vain, : None
+2.1 :As in revenge, have suck'd up from the sea : None
+2.1 :Contagious fogs; which falling in the land : None
+2.1 :Have every pelting river made so proud : None
+2.1 :That they have overborne their continents: : None
+2.1 :The ox hath therefore stretch'd his yoke in vain, : None
+2.1 :The ploughman lost his sweat, and the green corn : None
+2.1 :Hath rotted ere his youth attain'd a beard; : None
+2.1 :The fold stands empty in the drowned field, : None
+2.1 :And crows are fatted with the murrion flock; : None
+2.1 :The nine men's morris is fill'd up with mud, : None
+2.1 :And the quaint mazes in the wanton green : None
+2.1 :For lack of tread are undistinguishable: : None
+2.1 :The human mortals want their winter here; : None
+2.1 :No night is now with hymn or carol blest: : None
+2.1 :Therefore the moon, the governess of floods, : None
+2.1 :Pale in her anger, washes all the air, : None
+2.1 :That rheumatic diseases do abound: : None
+2.1 :And thorough this distemperature we see : None
+2.1 :The seasons alter: hoary-headed frosts : None
+2.1 :Far in the fresh lap of the crimson rose, : None
+2.1 :And on old Hiems' thin and icy crown : None
+2.1 :An odorous chaplet of sweet summer buds : None
+2.1 :Is, as in mockery, set: the spring, the summer, : None
+2.1 :The childing autumn, angry winter, change : None
+2.1 :Their wonted liveries, and the mazed world, : None
+2.1 :By their increase, now knows not which is which: : None
+2.1 :And this same progeny of evils comes : None
+2.1 :From our debate, from our dissension; : None
+2.1 :We are their parents and original. : None
+OBERON
+2.1 :Do you amend it then; it lies in you: : None
+2.1 :Why should Titania cross her Oberon? : None
+2.1 :I do but beg a little changeling boy, : None
+2.1 :To be my henchman. : None
+TITANIA
+2.1 :                  Set your heart at rest: : None
+2.1 :The fairy land buys not the child of me. : None
+2.1 :His mother was a votaress of my order: : None
+2.1 :And, in the spiced Indian air, by night, : None
+2.1 :Full often hath she gossip'd by my side, : None
+2.1 :And sat with me on Neptune's yellow sands, : None
+2.1 :Marking the embarked traders on the flood, : None
+2.1 :When we have laugh'd to see the sails conceive : None
+2.1 :And grow big-bellied with the wanton wind; : None
+2.1 :Which she, with pretty and with swimming gait : None
+2.1 :Following,--her womb then rich with my young squire,-- : None
+2.1 :Would imitate, and sail upon the land, : None
+2.1 :To fetch me trifles, and return again, : None
+2.1 :As from a voyage, rich with merchandise. : None
+2.1 :But she, being mortal, of that boy did die; : None
+2.1 :And for her sake do I rear up her boy, : None
+2.1 :And for her sake I will not part with him. : None
+OBERON
+2.1 :How long within this wood intend you stay? : None
+TITANIA
+2.1 :Perchance till after Theseus' wedding-day. : None
+2.1 :If you will patiently dance in our round : None
+2.1 :And see our moonlight revels, go with us; : None
+2.1 :If not, shun me, and I will spare your haunts. : None
+OBERON
+2.1 :Give me that boy, and I will go with thee. : None
+TITANIA
+2.1 :Not for thy fairy kingdom. Fairies, away! : None
+2.1 :We shall chide downright, if I longer stay. : None
+Exit TITANIA with her train : ["Exit - ['TITANIA']"] : TITANIA
+OBERON
+2.1 :Well, go thy way: thou shalt not from this grove : None
+2.1 :Till I torment thee for this injury. : None
+2.1 :My gentle Puck, come hither. Thou rememberest : None
+2.1 :Since once I sat upon a promontory, : None
+2.1 :And heard a mermaid on a dolphin's back : None
+2.1 :Uttering such dulcet and harmonious breath : None
+2.1 :That the rude sea grew civil at her song : None
+2.1 :And certain stars shot madly from their spheres, : None
+2.1 :To hear the sea-maid's music. : None
+PUCK
+2.1 :I remember. : None
+OBERON
+2.1 :That very time I saw, but thou couldst not, : None
+2.1 :Flying between the cold moon and the earth, : None
+2.1 :Cupid all arm'd: a certain aim he took : None
+2.1 :At a fair vestal throned by the west, : None
+2.1 :And loosed his love-shaft smartly from his bow, : None
+2.1 :As it should pierce a hundred thousand hearts; : None
+2.1 :But I might see young Cupid's fiery shaft : None
+2.1 :Quench'd in the chaste beams of the watery moon, : None
+2.1 :And the imperial votaress passed on, : None
+2.1 :In maiden meditation, fancy-free. : None
+2.1 :Yet mark'd I where the bolt of Cupid fell: : None
+2.1 :It fell upon a little western flower, : None
+2.1 :Before milk-white, now purple with love's wound, : None
+2.1 :And maidens call it love-in-idleness. : None
+2.1 :Fetch me that flower; the herb I shew'd thee once: : None
+2.1 :The juice of it on sleeping eye-lids laid : None
+2.1 :Will make or man or woman madly dote : None
+2.1 :Upon the next live creature that it sees. : None
+2.1 :Fetch me this herb; and be thou here again : None
+2.1 :Ere the leviathan can swim a league. : None
+PUCK
+2.1 :I'll put a girdle round about the earth : None
+2.1 :In forty minutes. : None
+Exit : ['Exit - []'] : PUCK
+OBERON
+2.1 :                  Having once this juice, : None
+2.1 :I'll watch Titania when she is asleep, : None
+2.1 :And drop the liquor of it in her eyes. : None
+2.1 :The next thing then she waking looks upon, : None
+2.1 :Be it on lion, bear, or wolf, or bull, : None
+2.1 :On meddling monkey, or on busy ape, : None
+2.1 :She shall pursue it with the soul of love: : None
+2.1 :And ere I take this charm from off her sight, : None
+2.1 :As I can take it with another herb, : None
+2.1 :I'll make her render up her page to me. : None
+2.1 :But who comes here? I am invisible; : None
+2.1 :And I will overhear their conference. : None
+Enter DEMETRIUS, HELENA, following him : ["Enter - ['DEMETRIUS', 'HELENA']"] : OBERON
+DEMETRIUS
+2.1 :I love thee not, therefore pursue me not. : None
+2.1 :Where is Lysander and fair Hermia? : None
+2.1 :The one I'll slay, the other slayeth me. : None
+2.1 :Thou told'st me they were stolen unto this wood; : None
+2.1 :And here am I, and wode within this wood, : None
+2.1 :Because I cannot meet my Hermia. : None
+2.1 :Hence, get thee gone, and follow me no more. : None
+HELENA
+2.1 :You draw me, you hard-hearted adamant; : None
+2.1 :But yet you draw not iron, for my heart : None
+2.1 :Is true as steel: leave you your power to draw, : None
+2.1 :And I shall have no power to follow you. : None
+DEMETRIUS
+2.1 :Do I entice you? do I speak you fair? : None
+2.1 :Or, rather, do I not in plainest truth : None
+2.1 :Tell you, I do not, nor I cannot love you? : None
+HELENA
+2.1 :And even for that do I love you the more. : None
+2.1 :I am your spaniel; and, Demetrius, : None
+2.1 :The more you beat me, I will fawn on you: : None
+2.1 :Use me but as your spaniel, spurn me, strike me, : None
+2.1 :Neglect me, lose me; only give me leave, : None
+2.1 :Unworthy as I am, to follow you. : None
+2.1 :What worser place can I beg in your love,-- : None
+2.1 :And yet a place of high respect with me,-- : None
+2.1 :Than to be used as you use your dog? : None
+DEMETRIUS
+2.1 :Tempt not too much the hatred of my spirit; : None
+2.1 :For I am sick when I do look on thee. : None
+HELENA
+2.1 :And I am sick when I look not on you. : None
+DEMETRIUS
+2.1 :You do impeach your modesty too much, : None
+2.1 :To leave the city and commit yourself : None
+2.1 :Into the hands of one that loves you not; : None
+2.1 :To trust the opportunity of night : None
+2.1 :And the ill counsel of a desert place : None
+2.1 :With the rich worth of your virginity. : None
+HELENA
+2.1 :Your virtue is my privilege: for that : None
+2.1 :It is not night when I do see your face, : None
+2.1 :Therefore I think I am not in the night; : None
+2.1 :Nor doth this wood lack worlds of company, : None
+2.1 :For you in my respect are all the world: : None
+2.1 :Then how can it be said I am alone, : None
+2.1 :When all the world is here to look on me? : None
+DEMETRIUS
+2.1 :I'll run from thee and hide me in the brakes, : None
+2.1 :And leave thee to the mercy of wild beasts. : None
+HELENA
+2.1 :The wildest hath not such a heart as you. : None
+2.1 :Run when you will, the story shall be changed: : None
+2.1 :Apollo flies, and Daphne holds the chase; : None
+2.1 :The dove pursues the griffin; the mild hind : None
+2.1 :Makes speed to catch the tiger; bootless speed, : None
+2.1 :When cowardice pursues and valour flies. : None
+DEMETRIUS
+2.1 :I will not stay thy questions; let me go: : None
+2.1 :Or, if thou follow me, do not believe : None
+2.1 :But I shall do thee mischief in the wood. : None
+HELENA
+2.1 :Ay, in the temple, in the town, the field, : None
+2.1 :You do me mischief. Fie, Demetrius! : None
+2.1 :Your wrongs do set a scandal on my sex: : None
+2.1 :We cannot fight for love, as men may do; : None
+2.1 :We should be wood and were not made to woo. : None
+Exit DEMETRIUS : ["Exit - ['DEMETRIUS']"] : HELENA
+2.1 :I'll follow thee and make a heaven of hell, : None
+2.1 :To die upon the hand I love so well. : None
+Exit : ['Exit - []'] : HELENA
+OBERON
+2.1 :Fare thee well, nymph: ere he do leave this grove, : None
+2.1 :Thou shalt fly him and he shall seek thy love. : None
+Re-enter PUCK : ["Re-enter - ['PUCK']"] : OBERON
+2.1 :Hast thou the flower there? Welcome, wanderer. : None
+PUCK
+2.1 :Ay, there it is. : None
+OBERON
+2.1 :I pray thee, give it me. : None
+2.1 :I know a bank where the wild thyme blows, : None
+2.1 :Where oxlips and the nodding violet grows, : None
+2.1 :Quite over-canopied with luscious woodbine, : None
+2.1 :With sweet musk-roses and with eglantine: : None
+2.1 :There sleeps Titania sometime of the night, : None
+2.1 :Lull'd in these flowers with dances and delight; : None
+2.1 :And there the snake throws her enamell'd skin, : None
+2.1 :Weed wide enough to wrap a fairy in: : None
+2.1 :And with the juice of this I'll streak her eyes, : None
+2.1 :And make her full of hateful fantasies. : None
+2.1 :Take thou some of it, and seek through this grove: : None
+2.1 :A sweet Athenian lady is in love : None
+2.1 :With a disdainful youth: anoint his eyes; : None
+2.1 :But do it when the next thing he espies : None
+2.1 :May be the lady: thou shalt know the man : None
+2.1 :By the Athenian garments he hath on. : None
+2.1 :Effect it with some care, that he may prove : None
+2.1 :More fond on her than she upon her love: : None
+2.1 :And look thou meet me ere the first cock crow. : None
+PUCK
+2.1 :Fear not, my lord, your servant shall do so. : None
+Exeunt : ['Exeunt - []'] : PUCK
+Scene(scene=2)
+Enter TITANIA, with her train : ["Enter - ['TITANIA']"] : PUCK
+TITANIA
+2.2 :Come, now a roundel and a fairy song; : None
+2.2 :Then, for the third part of a minute, hence; : None
+2.2 :Some to kill cankers in the musk-rose buds, : None
+2.2 :Some war with rere-mice for their leathern wings, : None
+2.2 :To make my small elves coats, and some keep back : None
+2.2 :The clamorous owl that nightly hoots and wonders : None
+2.2 :At our quaint spirits. Sing me now asleep; : None
+2.2 :Then to your offices and let me rest. : None
+The Fairies sing : ['None - []'] : TITANIA
+2.2 :You spotted snakes with double tongue, : None
+2.2 :Thorny hedgehogs, be not seen; : None
+2.2 :Newts and blind-worms, do no wrong, : None
+2.2 :Come not near our fairy queen. : None
+2.2 :Philomel, with melody : None
+2.2 :Sing in our sweet lullaby; : None
+2.2 :Lulla, lulla, lullaby, lulla, lulla, lullaby: : None
+2.2 :Never harm, : None
+2.2 :Nor spell nor charm, : None
+2.2 :Come our lovely lady nigh; : None
+2.2 :So, good night, with lullaby. : None
+2.2 :Weaving spiders, come not here; : None
+2.2 :Hence, you long-legg'd spinners, hence! : None
+2.2 :Beetles black, approach not near; : None
+2.2 :Worm nor snail, do no offence. : None
+2.2 :Philomel, with melody,  & c. : None
+FAIRY
+2.2 :Hence, away! now all is well: : None
+2.2 :One aloof stand sentinel. : None
+Exeunt Fairies. TITANIA sleeps : ['Exeunt - []', "None - ['TITANIA']"] : FAIRY
+Enter OBERON and squeezes the flower on TITANIA's eyelids : ["Enter - ['OBERON', 'TITANIA']"] : FAIRY
+OBERON
+2.2 :What thou seest when thou dost wake, : None
+2.2 :Do it for thy true-love take, : None
+2.2 :Love and languish for his sake: : None
+2.2 :Be it ounce, or cat, or bear, : None
+2.2 :Pard, or boar with bristled hair, : None
+2.2 :In thy eye that shall appear : None
+2.2 :When thou wakest, it is thy dear: : None
+2.2 :Wake when some vile thing is near. : None
+Exit : ['Exit - []'] : OBERON
+Enter LYSANDER and HERMIA : ["Enter - ['LYSANDER', 'HERMIA']"] : OBERON
+LYSANDER
+2.2 :Fair love, you faint with wandering in the wood; : None
+2.2 :And to speak troth, I have forgot our way: : None
+2.2 :We'll rest us, Hermia, if you think it good, : None
+2.2 :And tarry for the comfort of the day. : None
+HERMIA
+2.2 :Be it so, Lysander: find you out a bed; : None
+2.2 :For I upon this bank will rest my head. : None
+LYSANDER
+2.2 :One turf shall serve as pillow for us both; : None
+2.2 :One heart, one bed, two bosoms and one troth. : None
+HERMIA
+2.2 :Nay, good Lysander; for my sake, my dear, : None
+2.2 :Lie further off yet, do not lie so near. : None
+LYSANDER
+2.2 :O, take the sense, sweet, of my innocence! : None
+2.2 :Love takes the meaning in love's conference. : None
+2.2 :I mean, that my heart unto yours is knit : None
+2.2 :So that but one heart we can make of it; : None
+2.2 :Two bosoms interchained with an oath; : None
+2.2 :So then two bosoms and a single troth. : None
+2.2 :Then by your side no bed-room me deny; : None
+2.2 :For lying so, Hermia, I do not lie. : None
+HERMIA
+2.2 :Lysander riddles very prettily: : None
+2.2 :Now much beshrew my manners and my pride, : None
+2.2 :If Hermia meant to say Lysander lied. : None
+2.2 :But, gentle friend, for love and courtesy : None
+2.2 :Lie further off; in human modesty, : None
+2.2 :Such separation as may well be said : None
+2.2 :Becomes a virtuous bachelor and a maid, : None
+2.2 :So far be distant; and, good night, sweet friend: : None
+2.2 :Thy love ne'er alter till thy sweet life end! : None
+LYSANDER
+2.2 :Amen, amen, to that fair prayer, say I; : None
+2.2 :And then end life when I end loyalty! : None
+2.2 :Here is my bed: sleep give thee all his rest! : None
+HERMIA
+2.2 :With half that wish the wisher's eyes be press'd! : None
+They sleep : ['None - []'] : HERMIA
+Enter PUCK : ["Enter - ['PUCK']"] : HERMIA
+PUCK
+2.2 :Through the forest have I gone. : None
+2.2 :But Athenian found I none, : None
+2.2 :On whose eyes I might approve : None
+2.2 :This flower's force in stirring love. : None
+2.2 :Night and silence.--Who is here? : None
+2.2 :Weeds of Athens he doth wear: : None
+2.2 :This is he, my master said, : None
+2.2 :Despised the Athenian maid; : None
+2.2 :And here the maiden, sleeping sound, : None
+2.2 :On the dank and dirty ground. : None
+2.2 :Pretty soul! she durst not lie : None
+2.2 :Near this lack-love, this kill-courtesy. : None
+2.2 :Churl, upon thy eyes I throw : None
+2.2 :All the power this charm doth owe. : None
+2.2 :When thou wakest, let love forbid : None
+2.2 :Sleep his seat on thy eyelid: : None
+2.2 :So awake when I am gone; : None
+2.2 :For I must now to Oberon. : None
+Exit : ['Exit - []'] : PUCK
+Enter DEMETRIUS and HELENA, running : ["Enter - ['DEMETRIUS', 'HELENA']"] : PUCK
+HELENA
+2.2 :Stay, though thou kill me, sweet Demetrius. : None
+DEMETRIUS
+2.2 :I charge thee, hence, and do not haunt me thus. : None
+HELENA
+2.2 :O, wilt thou darkling leave me? do not so. : None
+DEMETRIUS
+2.2 :Stay, on thy peril: I alone will go. : None
+Exit : ['Exit - []'] : DEMETRIUS
+HELENA
+2.2 :O, I am out of breath in this fond chase! : None
+2.2 :The more my prayer, the lesser is my grace. : None
+2.2 :Happy is Hermia, wheresoe'er she lies; : None
+2.2 :For she hath blessed and attractive eyes. : None
+2.2 :How came her eyes so bright? Not with salt tears: : None
+2.2 :If so, my eyes are oftener wash'd than hers. : None
+2.2 :No, no, I am as ugly as a bear; : None
+2.2 :For beasts that meet me run away for fear: : None
+2.2 :Therefore no marvel though Demetrius : None
+2.2 :Do, as a monster fly my presence thus. : None
+2.2 :What wicked and dissembling glass of mine : None
+2.2 :Made me compare with Hermia's sphery eyne? : None
+2.2 :But who is here? Lysander! on the ground! : None
+2.2 :Dead? or asleep? I see no blood, no wound. : None
+2.2 :Lysander if you live, good sir, awake. : None
+LYSANDER
+2.2 :  And run through fire I will for thy sweet sake. : Awaking : ['None - []'] : LYSANDER
+2.2 :Transparent Helena! Nature shows art, : None
+2.2 :That through thy bosom makes me see thy heart. : None
+2.2 :Where is Demetrius? O, how fit a word : None
+2.2 :Is that vile name to perish on my sword! : None
+HELENA
+2.2 :Do not say so, Lysander; say not so : None
+2.2 :What though he love your Hermia? Lord, what though? : None
+2.2 :Yet Hermia still loves you: then be content. : None
+LYSANDER
+2.2 :Content with Hermia! No; I do repent : None
+2.2 :The tedious minutes I with her have spent. : None
+2.2 :Not Hermia but Helena I love: : None
+2.2 :Who will not change a raven for a dove? : None
+2.2 :The will of man is by his reason sway'd; : None
+2.2 :And reason says you are the worthier maid. : None
+2.2 :Things growing are not ripe until their season : None
+2.2 :So I, being young, till now ripe not to reason; : None
+2.2 :And touching now the point of human skill, : None
+2.2 :Reason becomes the marshal to my will : None
+2.2 :And leads me to your eyes, where I o'erlook : None
+2.2 :Love's stories written in love's richest book. : None
+HELENA
+2.2 :Wherefore was I to this keen mockery born? : None
+2.2 :When at your hands did I deserve this scorn? : None
+2.2 :Is't not enough, is't not enough, young man, : None
+2.2 :That I did never, no, nor never can, : None
+2.2 :Deserve a sweet look from Demetrius' eye, : None
+2.2 :But you must flout my insufficiency? : None
+2.2 :Good troth, you do me wrong, good sooth, you do, : None
+2.2 :In such disdainful manner me to woo. : None
+2.2 :But fare you well: perforce I must confess : None
+2.2 :I thought you lord of more true gentleness. : None
+2.2 :O, that a lady, of one man refused. : None
+2.2 :Should of another therefore be abused! : None
+Exit : ['Exit - []'] : HELENA
+LYSANDER
+2.2 :She sees not Hermia. Hermia, sleep thou there: : None
+2.2 :And never mayst thou come Lysander near! : None
+2.2 :For as a surfeit of the sweetest things : None
+2.2 :The deepest loathing to the stomach brings, : None
+2.2 :Or as tie heresies that men do leave : None
+2.2 :Are hated most of those they did deceive, : None
+2.2 :So thou, my surfeit and my heresy, : None
+2.2 :Of all be hated, but the most of me! : None
+2.2 :And, all my powers, address your love and might : None
+2.2 :To honour Helen and to be her knight! : None
+Exit : ['Exit - []'] : LYSANDER
+HERMIA
+2.2 :  Help me, Lysander, help me! do thy best : Awaking : ['None - []'] : HERMIA
+2.2 :To pluck this crawling serpent from my breast! : None
+2.2 :Ay me, for pity! what a dream was here! : None
+2.2 :Lysander, look how I do quake with fear: : None
+2.2 :Methought a serpent eat my heart away, : None
+2.2 :And you sat smiling at his cruel pray. : None
+2.2 :Lysander! what, removed? Lysander! lord! : None
+2.2 :What, out of hearing? gone? no sound, no word? : None
+2.2 :Alack, where are you speak, an if you hear; : None
+2.2 :Speak, of all loves! I swoon almost with fear. : None
+2.2 :No? then I well perceive you all not nigh : None
+2.2 :Either death or you I'll find immediately. : None
+Exit : ['Exit - []'] : HERMIA
+Act(act=3)
+Scene(scene=1)
+Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING : ["Enter - ['QUINCE', 'SNUG', 'BOTTOM', 'FLUTE', 'SNOUT', 'STARVELING']"] : HERMIA
+BOTTOM
+3.1 :Are we all met? : None
+QUINCE
+3.1 :Pat, pat; and here's a marvellous convenient place : None
+3.1 :for our rehearsal. This green plot shall be our : None
+3.1 :stage, this hawthorn-brake our tiring-house; and we : None
+3.1 :will do it in action as we will do it before the duke. : None
+BOTTOM
+3.1 :Peter Quince,-- : None
+QUINCE
+3.1 :What sayest thou, bully Bottom? : None
+BOTTOM
+3.1 :There are things in this comedy of Pyramus and : None
+3.1 :Thisby that will never please. First, Pyramus must : None
+3.1 :draw a sword to kill himself; which the ladies : None
+3.1 :cannot abide. How answer you that? : None
+SNOUT
+3.1 :By'r lakin, a parlous fear. : None
+STARVELING
+3.1 :I believe we must leave the killing out, when all is done. : None
+BOTTOM
+3.1 :Not a whit: I have a device to make all well. : None
+3.1 :Write me a prologue; and let the prologue seem to : None
+3.1 :say, we will do no harm with our swords, and that : None
+3.1 :Pyramus is not killed indeed; and, for the more : None
+3.1 :better assurance, tell them that I, Pyramus, am not : None
+3.1 :Pyramus, but Bottom the weaver: this will put them : None
+3.1 :out of fear. : None
+QUINCE
+3.1 :Well, we will have such a prologue; and it shall be : None
+3.1 :written in eight and six. : None
+BOTTOM
+3.1 :No, make it two more; let it be written in eight and eight. : None
+SNOUT
+3.1 :Will not the ladies be afeard of the lion? : None
+STARVELING
+3.1 :I fear it, I promise you. : None
+BOTTOM
+3.1 :Masters, you ought to consider with yourselves: to : None
+3.1 :bring in--God shield us!--a lion among ladies, is a : None
+3.1 :most dreadful thing; for there is not a more fearful : None
+3.1 :wild-fowl than your lion living; and we ought to : None
+3.1 :look to 't. : None
+SNOUT
+3.1 :Therefore another prologue must tell he is not a lion. : None
+BOTTOM
+3.1 :Nay, you must name his name, and half his face must : None
+3.1 :be seen through the lion's neck: and he himself : None
+3.1 :must speak through, saying thus, or to the same : None
+3.1 :defect,--'Ladies,'--or 'Fair-ladies--I would wish : None
+3.1 :You,'--or 'I would request you,'--or 'I would : None
+3.1 :entreat you,--not to fear, not to tremble: my life : None
+3.1 :for yours. If you think I come hither as a lion, it : None
+3.1 :were pity of my life: no I am no such thing; I am a : None
+3.1 :man as other men are;' and there indeed let him name : None
+3.1 :his name, and tell them plainly he is Snug the joiner. : None
+QUINCE
+3.1 :Well it shall be so. But there is two hard things; : None
+3.1 :that is, to bring the moonlight into a chamber; for, : None
+3.1 :you know, Pyramus and Thisby meet by moonlight. : None
+SNOUT
+3.1 :Doth the moon shine that night we play our play? : None
+BOTTOM
+3.1 :A calendar, a calendar! look in the almanac; find : None
+3.1 :out moonshine, find out moonshine. : None
+QUINCE
+3.1 :Yes, it doth shine that night. : None
+BOTTOM
+3.1 :Why, then may you leave a casement of the great : None
+3.1 :chamber window, where we play, open, and the moon : None
+3.1 :may shine in at the casement. : None
+QUINCE
+3.1 :Ay; or else one must come in with a bush of thorns : None
+3.1 :and a lanthorn, and say he comes to disfigure, or to : None
+3.1 :present, the person of Moonshine. Then, there is : None
+3.1 :another thing: we must have a wall in the great : None
+3.1 :chamber; for Pyramus and Thisby says the story, did : None
+3.1 :talk through the chink of a wall. : None
+SNOUT
+3.1 :You can never bring in a wall. What say you, Bottom? : None
+BOTTOM
+3.1 :Some man or other must present Wall: and let him : None
+3.1 :have some plaster, or some loam, or some rough-cast : None
+3.1 :about him, to signify wall; and let him hold his : None
+3.1 :fingers thus, and through that cranny shall Pyramus : None
+3.1 :and Thisby whisper. : None
+QUINCE
+3.1 :If that may be, then all is well. Come, sit  down, : None
+3.1 :every mother's son, and rehearse your parts. : None
+3.1 :Pyramus, you begin: when you have spoken your : None
+3.1 :speech, enter into that brake: and so every one : None
+3.1 :according to his cue. : None
+Enter PUCK behind : ["Enter - ['PUCK']"] : QUINCE
+PUCK
+3.1 :What hempen home-spuns have we swaggering here, : None
+3.1 :So near the cradle of the fairy queen? : None
+3.1 :What, a play toward! I'll be an auditor; : None
+3.1 :An actor too, perhaps, if I see cause. : None
+QUINCE
+3.1 :Speak, Pyramus. Thisby, stand forth. : None
+BOTTOM
+3.1 :Thisby, the flowers of odious savours sweet,-- : None
+QUINCE
+3.1 :Odours, odours. : None
+BOTTOM
+3.1 :--odours savours sweet: : None
+3.1 :So hath thy breath, my dearest Thisby dear. : None
+3.1 :But hark, a voice! stay thou but here awhile, : None
+3.1 :And by and by I will to thee appear. : None
+Exit : ['Exit - []'] : BOTTOM
+PUCK
+3.1 :A stranger Pyramus than e'er played here. : None
+Exit : ['Exit - []'] : PUCK
+FLUTE
+3.1 :Must I speak now? : None
+QUINCE
+3.1 :Ay, marry, must you; for you must understand he goes : None
+3.1 :but to see a noise that he heard, and is to come again. : None
+FLUTE
+3.1 :Most radiant Pyramus, most lily-white of hue, : None
+3.1 :Of colour like the red rose on triumphant brier, : None
+3.1 :Most brisky juvenal and eke most lovely Jew, : None
+3.1 :As true as truest horse that yet would never tire, : None
+3.1 :I'll meet thee, Pyramus, at Ninny's tomb. : None
+QUINCE
+3.1 :'Ninus' tomb,' man: why, you must not speak that : None
+3.1 :yet; that you answer to Pyramus: you speak all your : None
+3.1 :part at once, cues and all Pyramus enter: your cue : None
+3.1 :is past; it is, 'never tire.' : None
+FLUTE
+3.1 :O,--As true as truest horse, that yet would : None
+3.1 :never tire. : None
+Re-enter PUCK, and BOTTOM with an ass's head : ["Re-enter - ['PUCK', 'BOTTOM']"] : FLUTE
+BOTTOM
+3.1 :If I were fair, Thisby, I were only thine. : None
+QUINCE
+3.1 :O monstrous! O strange! we are haunted. Pray, : None
+3.1 :masters! fly, masters! Help! : None
+Exeunt QUINCE, SNUG, FLUTE, SNOUT, and STARVELING : ["Exeunt - ['QUINCE', 'SNUG', 'FLUTE', 'SNOUT', 'STARVELING']"] : QUINCE
+PUCK
+3.1 :I'll follow you, I'll lead you about a round, : None
+3.1 :Through bog, through bush, through brake, through brier: : None
+3.1 :Sometime a horse I'll be, sometime a hound, : None
+3.1 :A hog, a headless bear, sometime a fire; : None
+3.1 :And neigh, and bark, and grunt, and roar, and burn, : None
+3.1 :Like horse, hound, hog, bear, fire, at every turn. : None
+Exit : ['Exit - []'] : PUCK
+BOTTOM
+3.1 :Why do they run away? this is a knavery of them to : None
+3.1 :make me afeard. : None
+Re-enter SNOUT : ["Re-enter - ['SNOUT']"] : BOTTOM
+SNOUT
+3.1 :O Bottom, thou art changed! what do I see on thee? : None
+BOTTOM
+3.1 :What do you see? you see an asshead of your own, do : None
+3.1 :you? : None
+Exit SNOUT : ["Exit - ['SNOUT']"] : BOTTOM
+Re-enter QUINCE : ["Re-enter - ['QUINCE']"] : BOTTOM
+QUINCE
+3.1 :Bless thee, Bottom! bless thee! thou art : None
+3.1 :translated. : None
+Exit : ['Exit - []'] : QUINCE
+BOTTOM
+3.1 :I see their knavery: this is to make an ass of me; : None
+3.1 :to fright me, if they could. But I will not stir : None
+3.1 :from this place, do what they can: I will walk up : None
+3.1 :and down here, and I will sing, that they shall hear : None
+3.1 :I am not afraid. : None
+Sings : ['None - []'] : BOTTOM
+3.1 :The ousel cock so black of hue, : None
+3.1 :With orange-tawny bill, : None
+3.1 :The throstle with his note so true, : None
+3.1 :The wren with little quill,-- : None
+TITANIA
+3.1 :  What angel wakes me from my flowery bed? : Awaking : ['None - []'] : TITANIA
+BOTTOM
+3.1 : : Sings : ['None - []'] : BOTTOM
+3.1 :The finch, the sparrow and the lark, : None
+3.1 :The plain-song cuckoo gray, : None
+3.1 :Whose note full many a man doth mark, : None
+3.1 :And dares not answer nay;-- : None
+3.1 :for, indeed, who would set his wit to so foolish : None
+3.1 :a bird? who would give a bird the lie, though he cry : None
+3.1 :'cuckoo' never so? : None
+TITANIA
+3.1 :I pray thee, gentle mortal, sing again: : None
+3.1 :Mine ear is much enamour'd of thy note; : None
+3.1 :So is mine eye enthralled to thy shape; : None
+3.1 :And thy fair virtue's force perforce doth move me : None
+3.1 :On the first view to say, to swear, I love thee. : None
+BOTTOM
+3.1 :Methinks, mistress, you should have little reason : None
+3.1 :for that: and yet, to say the truth, reason and : None
+3.1 :love keep little company together now-a-days; the : None
+3.1 :more the pity that some honest neighbours will not : None
+3.1 :make them friends. Nay, I can gleek upon occasion. : None
+TITANIA
+3.1 :Thou art as wise as thou art beautiful. : None
+BOTTOM
+3.1 :Not so, neither: but if I had wit enough to get out : None
+3.1 :of this wood, I have enough to serve mine own turn. : None
+TITANIA
+3.1 :Out of this wood do not desire to go: : None
+3.1 :Thou shalt remain here, whether thou wilt or no. : None
+3.1 :I am a spirit of no common rate; : None
+3.1 :The summer still doth tend upon my state; : None
+3.1 :And I do love thee: therefore, go with me; : None
+3.1 :I'll give thee fairies to attend on thee, : None
+3.1 :And they shall fetch thee jewels from the deep, : None
+3.1 :And sing while thou on pressed flowers dost sleep; : None
+3.1 :And I will purge thy mortal grossness so : None
+3.1 :That thou shalt like an airy spirit go. : None
+3.1 :Peaseblossom! Cobweb! Moth! and Mustardseed! : None
+Enter PEASEBLOSSOM, COBWEB, MOTH, and MUSTARDSEED : ["Enter - ['PEASEBLOSSOM', 'COBWEB', 'MOTH', 'MUSTARDSEED']"] : TITANIA
+PEASEBLOSSOM
+3.1 :Ready. : None
+COBWEB
+3.1 :     And I. : None
+MOTH
+3.1 :          And I. : None
+MUSTARDSEED
+3.1 :                  And I. : None
+ALL
+3.1 :Where shall we go? : None
+TITANIA
+3.1 :Be kind and courteous to this gentleman; : None
+3.1 :Hop in his walks and gambol in his eyes; : None
+3.1 :Feed him with apricocks and dewberries, : None
+3.1 :With purple grapes, green figs, and mulberries; : None
+3.1 :The honey-bags steal from the humble-bees, : None
+3.1 :And for night-tapers crop their waxen thighs : None
+3.1 :And light them at the fiery glow-worm's eyes, : None
+3.1 :To have my love to bed and to arise; : None
+3.1 :And pluck the wings from Painted butterflies : None
+3.1 :To fan the moonbeams from his sleeping eyes: : None
+3.1 :Nod to him, elves, and do him courtesies. : None
+PEASEBLOSSOM
+3.1 :Hail, mortal! : None
+COBWEB
+3.1 :Hail! : None
+MOTH
+3.1 :Hail! : None
+MUSTARDSEED
+3.1 :Hail! : None
+BOTTOM
+3.1 :I cry your worship's mercy, heartily: I beseech your : None
+3.1 :worship's name. : None
+COBWEB
+3.1 :Cobweb. : None
+BOTTOM
+3.1 :I shall desire you of more acquaintance, good Master : None
+3.1 :Cobweb: if I cut my finger, I shall make bold with : None
+3.1 :you. Your name, honest gentleman? : None
+PEASEBLOSSOM
+3.1 :Peaseblossom. : None
+BOTTOM
+3.1 :I pray you, commend me to Mistress Squash, your : None
+3.1 :mother, and to Master Peascod, your father. Good : None
+3.1 :Master Peaseblossom, I shall desire you of more : None
+3.1 :acquaintance too. Your name, I beseech you, sir? : None
+MUSTARDSEED
+3.1 :Mustardseed. : None
+BOTTOM
+3.1 :Good Master Mustardseed, I know your patience well: : None
+3.1 :that same cowardly, giant-like ox-beef hath : None
+3.1 :devoured many a gentleman of your house: I promise : None
+3.1 :you your kindred had made my eyes water ere now. I : None
+3.1 :desire your more acquaintance, good Master : None
+3.1 :Mustardseed. : None
+TITANIA
+3.1 :Come, wait upon him; lead him to my bower. : None
+3.1 :The moon methinks looks with a watery eye; : None
+3.1 :And when she weeps, weeps every little flower, : None
+3.1 :Lamenting some enforced chastity. : None
+3.1 :Tie up my love's tongue bring him silently. : None
+Exeunt : ['Exeunt - []'] : TITANIA
+Scene(scene=2)
+Enter OBERON : ["Enter - ['OBERON']"] : TITANIA
+OBERON
+3.2 :I wonder if Titania be awaked; : None
+3.2 :Then, what it was that next came in her eye, : None
+3.2 :Which she must dote on in extremity. : None
+Enter PUCK : ["Enter - ['PUCK']"] : OBERON
+3.2 :Here comes my messenger. : None
+3.2 :How now, mad spirit! : None
+3.2 :What night-rule now about this haunted grove? : None
+PUCK
+3.2 :My mistress with a monster is in love. : None
+3.2 :Near to her close and consecrated bower, : None
+3.2 :While she was in her dull and sleeping hour, : None
+3.2 :A crew of patches, rude mechanicals, : None
+3.2 :That work for bread upon Athenian stalls, : None
+3.2 :Were met together to rehearse a play : None
+3.2 :Intended for great Theseus' nuptial-day. : None
+3.2 :The shallowest thick-skin of that barren sort, : None
+3.2 :Who Pyramus presented, in their sport : None
+3.2 :Forsook his scene and enter'd in a brake : None
+3.2 :When I did him at this advantage take, : None
+3.2 :An ass's nole I fixed on his head: : None
+3.2 :Anon his Thisbe must be answered, : None
+3.2 :And forth my mimic comes. When they him spy, : None
+3.2 :As wild geese that the creeping fowler eye, : None
+3.2 :Or russet-pated choughs, many in sort, : None
+3.2 :Rising and cawing at the gun's report, : None
+3.2 :Sever themselves and madly sweep the sky, : None
+3.2 :So, at his sight, away his fellows fly; : None
+3.2 :And, at our stamp, here o'er and o'er one falls; : None
+3.2 :He murder cries and help from Athens calls. : None
+3.2 :Their sense thus weak, lost with their fears : None
+3.2 :thus strong, : None
+3.2 :Made senseless things begin to do them wrong; : None
+3.2 :For briers and thorns at their apparel snatch; : None
+3.2 :Some sleeves, some hats, from yielders all : None
+3.2 :things catch. : None
+3.2 :I led them on in this distracted fear, : None
+3.2 :And left sweet Pyramus translated there: : None
+3.2 :When in that moment, so it came to pass, : None
+3.2 :Titania waked and straightway loved an ass. : None
+OBERON
+3.2 :This falls out better than I could devise. : None
+3.2 :But hast thou yet latch'd the Athenian's eyes : None
+3.2 :With the love-juice, as I did bid thee do? : None
+PUCK
+3.2 :I took him sleeping,--that is finish'd too,-- : None
+3.2 :And the Athenian woman by his side: : None
+3.2 :That, when he waked, of force she must be eyed. : None
+Enter HERMIA and DEMETRIUS : ["Enter - ['HERMIA', 'DEMETRIUS']"] : PUCK
+OBERON
+3.2 :Stand close: this is the same Athenian. : None
+PUCK
+3.2 :This is the woman, but not this the man. : None
+DEMETRIUS
+3.2 :O, why rebuke you him that loves you so? : None
+3.2 :Lay breath so bitter on your bitter foe. : None
+HERMIA
+3.2 :Now I but chide; but I should use thee worse, : None
+3.2 :For thou, I fear, hast given me cause to curse, : None
+3.2 :If thou hast slain Lysander in his sleep, : None
+3.2 :Being o'er shoes in blood, plunge in the deep, : None
+3.2 :And kill me too. : None
+3.2 :The sun was not so true unto the day : None
+3.2 :As he to me: would he have stolen away : None
+3.2 :From sleeping Hermia? I'll believe as soon : None
+3.2 :This whole earth may be bored and that the moon : None
+3.2 :May through the centre creep and so displease : None
+3.2 :Her brother's noontide with Antipodes. : None
+3.2 :It cannot be but thou hast murder'd him; : None
+3.2 :So should a murderer look, so dead, so grim. : None
+DEMETRIUS
+3.2 :So should the murder'd look, and so should I, : None
+3.2 :Pierced through the heart with your stern cruelty: : None
+3.2 :Yet you, the murderer, look as bright, as clear, : None
+3.2 :As yonder Venus in her glimmering sphere. : None
+HERMIA
+3.2 :What's this to my Lysander? where is he? : None
+3.2 :Ah, good Demetrius, wilt thou give him me? : None
+DEMETRIUS
+3.2 :I had rather give his carcass to my hounds. : None
+HERMIA
+3.2 :Out, dog! out, cur! thou drivest me past the bounds : None
+3.2 :Of maiden's patience. Hast thou slain him, then? : None
+3.2 :Henceforth be never number'd among men! : None
+3.2 :O, once tell true, tell true, even for my sake! : None
+3.2 :Durst thou have look'd upon him being awake, : None
+3.2 :And hast thou kill'd him sleeping? O brave touch! : None
+3.2 :Could not a worm, an adder, do so much? : None
+3.2 :An adder did it; for with doubler tongue : None
+3.2 :Than thine, thou serpent, never adder stung. : None
+DEMETRIUS
+3.2 :You spend your passion on a misprised mood: : None
+3.2 :I am not guilty of Lysander's blood; : None
+3.2 :Nor is he dead, for aught that I can tell. : None
+HERMIA
+3.2 :I pray thee, tell me then that he is well. : None
+DEMETRIUS
+3.2 :An if I could, what should I get therefore? : None
+HERMIA
+3.2 :A privilege never to see me more. : None
+3.2 :And from thy hated presence part I so: : None
+3.2 :See me no more, whether he be dead or no. : None
+Exit : ['Exit - []'] : HERMIA
+DEMETRIUS
+3.2 :There is no following her in this fierce vein: : None
+3.2 :Here therefore for a while I will remain. : None
+3.2 :So sorrow's heaviness doth heavier grow : None
+3.2 :For debt that bankrupt sleep doth sorrow owe: : None
+3.2 :Which now in some slight measure it will pay, : None
+3.2 :If for his tender here I make some stay. : None
+Lies down and sleeps : ['None - []'] : DEMETRIUS
+OBERON
+3.2 :What hast thou done? thou hast mistaken quite : None
+3.2 :And laid the love-juice on some true-love's sight: : None
+3.2 :Of thy misprision must perforce ensue : None
+3.2 :Some true love turn'd and not a false turn'd true. : None
+PUCK
+3.2 :Then fate o'er-rules, that, one man holding troth, : None
+3.2 :A million fail, confounding oath on oath. : None
+OBERON
+3.2 :About the wood go swifter than the wind, : None
+3.2 :And Helena of Athens look thou find: : None
+3.2 :All fancy-sick she is and pale of cheer, : None
+3.2 :With sighs of love, that costs the fresh blood dear: : None
+3.2 :By some illusion see thou bring her here: : None
+3.2 :I'll charm his eyes against she do appear. : None
+PUCK
+3.2 :I go, I go; look how I go, : None
+3.2 :Swifter than arrow from the Tartar's bow. : None
+Exit : ['Exit - []'] : PUCK
+OBERON
+3.2 :   Flower of this purple dye, : None
+3.2 :Hit with Cupid's archery, : None
+3.2 :Sink in apple of his eye. : None
+3.2 :When his love he doth espy, : None
+3.2 :Let her shine as gloriously : None
+3.2 :As the Venus of the sky. : None
+3.2 :When thou wakest, if she be by, : None
+3.2 :Beg of her for remedy. : None
+Re-enter PUCK : ["Re-enter - ['PUCK']"] : OBERON
+PUCK
+3.2 :   Captain of our fairy band, : None
+3.2 :Helena is here at hand; : None
+3.2 :And the youth, mistook by me, : None
+3.2 :Pleading for a lover's fee. : None
+3.2 :Shall we their fond pageant see? : None
+3.2 :Lord, what fools these mortals be! : None
+OBERON
+3.2 :Stand aside: the noise they make : None
+3.2 :Will cause Demetrius to awake. : None
+PUCK
+3.2 :Then will two at once woo one; : None
+3.2 :That must needs be sport alone; : None
+3.2 :And those things do best please me : None
+3.2 :That befal preposterously. : None
+Enter LYSANDER and HELENA : ["Enter - ['LYSANDER', 'HELENA']"] : PUCK
+LYSANDER
+3.2 :Why should you think that I should woo in scorn? : None
+3.2 :Scorn and derision never come in tears: : None
+3.2 :Look, when I vow, I weep; and vows so born, : None
+3.2 :In their nativity all truth appears. : None
+3.2 :How can these things in me seem scorn to you, : None
+3.2 :Bearing the badge of faith, to prove them true? : None
+HELENA
+3.2 :You do advance your cunning more and more. : None
+3.2 :When truth kills truth, O devilish-holy fray! : None
+3.2 :These vows are Hermia's: will you give her o'er? : None
+3.2 :Weigh oath with oath, and you will nothing weigh: : None
+3.2 :Your vows to her and me, put in two scales, : None
+3.2 :Will even weigh, and both as light as tales. : None
+LYSANDER
+3.2 :I had no judgment when to her I swore. : None
+HELENA
+3.2 :Nor none, in my mind, now you give her o'er. : None
+LYSANDER
+3.2 :Demetrius loves her, and he loves not you. : None
+DEMETRIUS
+3.2 :  O Helena, goddess, nymph, perfect, divine! : Awaking : ['None - []'] : DEMETRIUS
+3.2 :To what, my love, shall I compare thine eyne? : None
+3.2 :Crystal is muddy. O, how ripe in show : None
+3.2 :Thy lips, those kissing cherries, tempting grow! : None
+3.2 :That pure congealed white, high Taurus snow, : None
+3.2 :Fann'd with the eastern wind, turns to a crow : None
+3.2 :When thou hold'st up thy hand: O, let me kiss : None
+3.2 :This princess of pure white, this seal of bliss! : None
+HELENA
+3.2 :O spite! O hell! I see you all are bent : None
+3.2 :To set against me for your merriment: : None
+3.2 :If you we re civil and knew courtesy, : None
+3.2 :You would not do me thus much injury. : None
+3.2 :Can you not hate me, as I know you do, : None
+3.2 :But you must join in souls to mock me too? : None
+3.2 :If you were men, as men you are in show, : None
+3.2 :You would not use a gentle lady so; : None
+3.2 :To vow, and swear, and superpraise my parts, : None
+3.2 :When I am sure you hate me with your hearts. : None
+3.2 :You both are rivals, and love Hermia; : None
+3.2 :And now both rivals, to mock Helena: : None
+3.2 :A trim exploit, a manly enterprise, : None
+3.2 :To conjure tears up in a poor maid's eyes : None
+3.2 :With your derision! none of noble sort : None
+3.2 :Would so offend a virgin, and extort : None
+3.2 :A poor soul's patience, all to make you sport. : None
+LYSANDER
+3.2 :You are unkind, Demetrius; be not so; : None
+3.2 :For you love Hermia; this you know I know: : None
+3.2 :And here, with all good will, with all my heart, : None
+3.2 :In Hermia's love I yield you up my part; : None
+3.2 :And yours of Helena to me bequeath, : None
+3.2 :Whom I do love and will do till my death. : None
+HELENA
+3.2 :Never did mockers waste more idle breath. : None
+DEMETRIUS
+3.2 :Lysander, keep thy Hermia; I will none: : None
+3.2 :If e'er I loved her, all that love is gone. : None
+3.2 :My heart to her but as guest-wise sojourn'd, : None
+3.2 :And now to Helen is it home return'd, : None
+3.2 :There to remain. : None
+LYSANDER
+3.2 :                  Helen, it is not so. : None
+DEMETRIUS
+3.2 :Disparage not the faith thou dost not know, : None
+3.2 :Lest, to thy peril, thou aby it dear. : None
+3.2 :Look, where thy love comes; yonder is thy dear. : None
+Re-enter HERMIA : ["Re-enter - ['HERMIA']"] : DEMETRIUS
+HERMIA
+3.2 :Dark night, that from the eye his function takes, : None
+3.2 :The ear more quick of apprehension makes; : None
+3.2 :Wherein it doth impair the seeing sense, : None
+3.2 :It pays the hearing double recompense. : None
+3.2 :Thou art not by mine eye, Lysander, found; : None
+3.2 :Mine ear, I thank it, brought me to thy sound : None
+3.2 :But why unkindly didst thou leave me so? : None
+LYSANDER
+3.2 :Why should he stay, whom love doth press to go? : None
+HERMIA
+3.2 :What love could press Lysander from my side? : None
+LYSANDER
+3.2 :Lysander's love, that would not let him bide, : None
+3.2 :Fair Helena, who more engilds the night : None
+3.2 :Than all you fiery oes and eyes of light. : None
+3.2 :Why seek'st thou me? could not this make thee know, : None
+3.2 :The hate I bear thee made me leave thee so? : None
+HERMIA
+3.2 :You speak not as you think: it cannot be. : None
+HELENA
+3.2 :Lo, she is one of this confederacy! : None
+3.2 :Now I perceive they have conjoin'd all three : None
+3.2 :To fashion this false sport, in spite of me. : None
+3.2 :Injurious Hermia! most ungrateful maid! : None
+3.2 :Have you conspired, have you with these contrived : None
+3.2 :To bait me with this foul derision? : None
+3.2 :Is all the counsel that we two have shared, : None
+3.2 :The sisters' vows, the hours that we have spent, : None
+3.2 :When we have chid the hasty-footed time : None
+3.2 :For parting us,--O, is it all forgot? : None
+3.2 :All school-days' friendship, childhood innocence? : None
+3.2 :We, Hermia, like two artificial gods, : None
+3.2 :Have with our needles created both one flower, : None
+3.2 :Both on one sampler, sitting on one cushion, : None
+3.2 :Both warbling of one song, both in one key, : None
+3.2 :As if our hands, our sides, voices and minds, : None
+3.2 :Had been incorporate. So we grow together, : None
+3.2 :Like to a double cherry, seeming parted, : None
+3.2 :But yet an union in partition; : None
+3.2 :Two lovely berries moulded on one stem; : None
+3.2 :So, with two seeming bodies, but one heart; : None
+3.2 :Two of the first, like coats in heraldry, : None
+3.2 :Due but to one and crowned with one crest. : None
+3.2 :And will you rent our ancient love asunder, : None
+3.2 :To join with men in scorning your poor friend? : None
+3.2 :It is not friendly, 'tis not maidenly: : None
+3.2 :Our sex, as well as I, may chide you for it, : None
+3.2 :Though I alone do feel the injury. : None
+HERMIA
+3.2 :I am amazed at your passionate words. : None
+3.2 :I scorn you not: it seems that you scorn me. : None
+HELENA
+3.2 :Have you not set Lysander, as in scorn, : None
+3.2 :To follow me and praise my eyes and face? : None
+3.2 :And made your other love, Demetrius, : None
+3.2 :Who even but now did spurn me with his foot, : None
+3.2 :To call me goddess, nymph, divine and rare, : None
+3.2 :Precious, celestial? Wherefore speaks he this : None
+3.2 :To her he hates? and wherefore doth Lysander : None
+3.2 :Deny your love, so rich within his soul, : None
+3.2 :And tender me, forsooth, affection, : None
+3.2 :But by your setting on, by your consent? : None
+3.2 :What thought I be not so in grace as you, : None
+3.2 :So hung upon with love, so fortunate, : None
+3.2 :But miserable most, to love unloved? : None
+3.2 :This you should pity rather than despise. : None
+HERNIA
+3.2 :I understand not what you mean by this. : None
+HELENA
+3.2 :Ay, do, persever, counterfeit sad looks, : None
+3.2 :Make mouths upon me when I turn my back; : None
+3.2 :Wink each at other; hold the sweet jest up: : None
+3.2 :This sport, well carried, shall be chronicled. : None
+3.2 :If you have any pity, grace, or manners, : None
+3.2 :You would not make me such an argument. : None
+3.2 :But fare ye well: 'tis partly my own fault; : None
+3.2 :Which death or absence soon shall remedy. : None
+LYSANDER
+3.2 :Stay, gentle Helena; hear my excuse: : None
+3.2 :My love, my life my soul, fair Helena! : None
+HELENA
+3.2 :O excellent! : None
+HERMIA
+3.2 :                  Sweet, do not scorn her so. : None
+DEMETRIUS
+3.2 :If she cannot entreat, I can compel. : None
+LYSANDER
+3.2 :Thou canst compel no more than she entreat: : None
+3.2 :Thy threats have no more strength than her weak prayers. : None
+3.2 :Helen, I love thee; by my life, I do: : None
+3.2 :I swear by that which I will lose for thee, : None
+3.2 :To prove him false that says I love thee not. : None
+DEMETRIUS
+3.2 :I say I love thee more than he can do. : None
+LYSANDER
+3.2 :If thou say so, withdraw, and prove it too. : None
+DEMETRIUS
+3.2 :Quick, come! : None
+HERMIA
+3.2 :Lysander, whereto tends all this? : None
+LYSANDER
+3.2 :Away, you Ethiope! : None
+DEMETRIUS
+3.2 :                  No, no; he'll [        ] : None
+3.2 :Seem to break loose; take on as you would follow, : None
+3.2 :But yet come not: you are a tame man, go! : None
+LYSANDER
+3.2 :Hang off, thou cat, thou burr! vile thing, let loose, : None
+3.2 :Or I will shake thee from me like a serpent! : None
+HERMIA
+3.2 :Why are you grown so rude? what change is this? : None
+3.2 :Sweet love,-- : None
+LYSANDER
+3.2 :Thy love! out, tawny Tartar, out! : None
+3.2 :Out, loathed medicine! hated potion, hence! : None
+HERMIA
+3.2 :Do you not jest? : None
+HELENA
+3.2 :Yes, sooth; and so do you. : None
+LYSANDER
+3.2 :Demetrius, I will keep my word with thee. : None
+DEMETRIUS
+3.2 :I would I had your bond, for I perceive : None
+3.2 :A weak bond holds you: I'll not trust your word. : None
+LYSANDER
+3.2 :What, should I hurt her, strike her, kill her dead? : None
+3.2 :Although I hate her, I'll not harm her so. : None
+HERMIA
+3.2 :What, can you do me greater harm than hate? : None
+3.2 :Hate me! wherefore? O me! what news, my love! : None
+3.2 :Am not I Hermia? are not you Lysander? : None
+3.2 :I am as fair now as I was erewhile. : None
+3.2 :Since night you loved me; yet since night you left : None
+3.2 :me: : None
+3.2 :Why, then you left me--O, the gods forbid!-- : None
+3.2 :In earnest, shall I say? : None
+LYSANDER
+3.2 :Ay, by my life; : None
+3.2 :And never did desire to see thee more. : None
+3.2 :Therefore be out of hope, of question, of doubt; : None
+3.2 :Be certain, nothing truer; 'tis no jest : None
+3.2 :That I do hate thee and love Helena. : None
+HERMIA
+3.2 :O me! you juggler! you canker-blossom! : None
+3.2 :You thief of love! what, have you come by night : None
+3.2 :And stolen my love's heart from him? : None
+HELENA
+3.2 :Fine, i'faith! : None
+3.2 :Have you no modesty, no maiden shame, : None
+3.2 :No touch of bashfulness? What, will you tear : None
+3.2 :Impatient answers from my gentle tongue? : None
+3.2 :Fie, fie! you counterfeit, you puppet, you! : None
+HERMIA
+3.2 :Puppet? why so? ay, that way goes the game. : None
+3.2 :Now I perceive that she hath made compare : None
+3.2 :Between our statures; she hath urged her height; : None
+3.2 :And with her personage, her tall personage, : None
+3.2 :Her height, forsooth, she hath prevail'd with him. : None
+3.2 :And are you grown so high in his esteem; : None
+3.2 :Because I am so dwarfish and so low? : None
+3.2 :How low am I, thou painted maypole? speak; : None
+3.2 :How low am I? I am not yet so low : None
+3.2 :But that my nails can reach unto thine eyes. : None
+HELENA
+3.2 :I pray you, though you mock me, gentlemen, : None
+3.2 :Let her not hurt me: I was never curst; : None
+3.2 :I have no gift at all in shrewishness; : None
+3.2 :I am a right maid for my cowardice: : None
+3.2 :Let her not strike me. You perhaps may think, : None
+3.2 :Because she is something lower than myself, : None
+3.2 :That I can match her. : None
+HERMIA
+3.2 :Lower! hark, again. : None
+HELENA
+3.2 :Good Hermia, do not be so bitter with me. : None
+3.2 :I evermore did love you, Hermia, : None
+3.2 :Did ever keep your counsels, never wrong'd you; : None
+3.2 :Save that, in love unto Demetrius, : None
+3.2 :I told him of your stealth unto this wood. : None
+3.2 :He follow'd you; for love I follow'd him; : None
+3.2 :But he hath chid me hence and threaten'd me : None
+3.2 :To strike me, spurn me, nay, to kill me too: : None
+3.2 :And now, so you will let me quiet go, : None
+3.2 :To Athens will I bear my folly back : None
+3.2 :And follow you no further: let me go: : None
+3.2 :You see how simple and how fond I am. : None
+HERMIA
+3.2 :Why, get you gone: who is't that hinders you? : None
+HELENA
+3.2 :A foolish heart, that I leave here behind. : None
+HERMIA
+3.2 :What, with Lysander? : None
+HELENA
+3.2 :With Demetrius. : None
+LYSANDER
+3.2 :Be not afraid; she shall not harm thee, Helena. : None
+DEMETRIUS
+3.2 :No, sir, she shall not, though you take her part. : None
+HELENA
+3.2 :O, when she's angry, she is keen and shrewd! : None
+3.2 :She was a vixen when she went to school; : None
+3.2 :And though she be but little, she is fierce. : None
+HERMIA
+3.2 :'Little' again! nothing but 'low' and 'little'! : None
+3.2 :Why will you suffer her to flout me thus? : None
+3.2 :Let me come to her. : None
+LYSANDER
+3.2 :Get you gone, you dwarf; : None
+3.2 :You minimus, of hindering knot-grass made; : None
+3.2 :You bead, you acorn. : None
+DEMETRIUS
+3.2 :You are too officious : None
+3.2 :In her behalf that scorns your services. : None
+3.2 :Let her alone: speak not of Helena; : None
+3.2 :Take not her part; for, if thou dost intend : None
+3.2 :Never so little show of love to her, : None
+3.2 :Thou shalt aby it. : None
+LYSANDER
+3.2 :                  Now she holds me not; : None
+3.2 :Now follow, if thou darest, to try whose right, : None
+3.2 :Of thine or mine, is most in Helena. : None
+DEMETRIUS
+3.2 :Follow! nay, I'll go with thee, cheek by jole. : None
+Exeunt LYSANDER and DEMETRIUS : ["Exeunt - ['LYSANDER', 'DEMETRIUS']"] : DEMETRIUS
+HERMIA
+3.2 :You, mistress, all this coil is 'long of you: : None
+3.2 :Nay, go not back. : None
+HELENA
+3.2 :                  I will not trust you, I, : None
+3.2 :Nor longer stay in your curst company. : None
+3.2 :Your hands than mine are quicker for a fray, : None
+3.2 :My legs are longer though, to run away. : None
+Exit : ['Exit - []'] : HELENA
+HERMIA
+3.2 :I am amazed, and know not what to say. : None
+Exit : ['Exit - []'] : HERMIA
+OBERON
+3.2 :This is thy negligence: still thou mistakest, : None
+3.2 :Or else committ'st thy knaveries wilfully. : None
+PUCK
+3.2 :Believe me, king of shadows, I mistook. : None
+3.2 :Did not you tell me I should know the man : None
+3.2 :By the Athenian garment be had on? : None
+3.2 :And so far blameless proves my enterprise, : None
+3.2 :That I have 'nointed an Athenian's eyes; : None
+3.2 :And so far am I glad it so did sort : None
+3.2 :As this their jangling I esteem a sport. : None
+OBERON
+3.2 :Thou see'st these lovers seek a place to fight: : None
+3.2 :Hie therefore, Robin, overcast the night; : None
+3.2 :The starry welkin cover thou anon : None
+3.2 :With drooping fog as black as Acheron, : None
+3.2 :And lead these testy rivals so astray : None
+3.2 :As one come not within another's way. : None
+3.2 :Like to Lysander sometime frame thy tongue, : None
+3.2 :Then stir Demetrius up with bitter wrong; : None
+3.2 :And sometime rail thou like Demetrius; : None
+3.2 :And from each other look thou lead them thus, : None
+3.2 :Till o'er their brows death-counterfeiting sleep : None
+3.2 :With leaden legs and batty wings doth creep: : None
+3.2 :Then crush this herb into Lysander's eye; : None
+3.2 :Whose liquor hath this virtuous property, : None
+3.2 :To take from thence all error with his might, : None
+3.2 :And make his eyeballs roll with wonted sight. : None
+3.2 :When they next wake, all this derision : None
+3.2 :Shall seem a dream and fruitless vision, : None
+3.2 :And back to Athens shall the lovers wend, : None
+3.2 :With league whose date till death shall never end. : None
+3.2 :Whiles I in this affair do thee employ, : None
+3.2 :I'll to my queen and beg her Indian boy; : None
+3.2 :And then I will her charmed eye release : None
+3.2 :From monster's view, and all things shall be peace. : None
+PUCK
+3.2 :My fairy lord, this must be done with haste, : None
+3.2 :For night's swift dragons cut the clouds full fast, : None
+3.2 :And yonder shines Aurora's harbinger; : None
+3.2 :At whose approach, ghosts, wandering here and there, : None
+3.2 :Troop home to churchyards: damned spirits all, : None
+3.2 :That in crossways and floods have burial, : None
+3.2 :Already to their wormy beds are gone; : None
+3.2 :For fear lest day should look their shames upon, : None
+3.2 :They willfully themselves exile from light : None
+3.2 :And must for aye consort with black-brow'd night. : None
+OBERON
+3.2 :But we are spirits of another sort: : None
+3.2 :I with the morning's love have oft made sport, : None
+3.2 :And, like a forester, the groves may tread, : None
+3.2 :Even till the eastern gate, all fiery-red, : None
+3.2 :Opening on Neptune with fair blessed beams, : None
+3.2 :Turns into yellow gold his salt green streams. : None
+3.2 :But, notwithstanding, haste; make no delay: : None
+3.2 :We may effect this business yet ere day. : None
+Exit : ['Exit - []'] : OBERON
+PUCK
+3.2 :   Up and down, up and down, : None
+3.2 :I will lead them up and down: : None
+3.2 :I am fear'd in field and town: : None
+3.2 :Goblin, lead them up and down. : None
+3.2 :Here comes one. : None
+Re-enter LYSANDER : ["Re-enter - ['LYSANDER']"] : PUCK
+LYSANDER
+3.2 :Where art thou, proud Demetrius? speak thou now. : None
+PUCK
+3.2 :Here, villain; drawn and ready. Where art thou? : None
+LYSANDER
+3.2 :I will be with thee straight. : None
+PUCK
+3.2 :Follow me, then, : None
+3.2 :To plainer ground. : None
+Exit LYSANDER, as following the voice : ["Exit - ['LYSANDER']"] : PUCK
+Re-enter DEMETRIUS : ["Re-enter - ['DEMETRIUS']"] : PUCK
+DEMETRIUS
+3.2 :                  Lysander! speak again: : None
+3.2 :Thou runaway, thou coward, art thou fled? : None
+3.2 :Speak! In some bush? Where dost thou hide thy head? : None
+PUCK
+3.2 :Thou coward, art thou bragging to the stars, : None
+3.2 :Telling the bushes that thou look'st for wars, : None
+3.2 :And wilt not come? Come, recreant; come, thou child; : None
+3.2 :I'll whip thee with a rod: he is defiled : None
+3.2 :That draws a sword on thee. : None
+DEMETRIUS
+3.2 :Yea, art thou there? : None
+PUCK
+3.2 :Follow my voice: we'll try no manhood here. : None
+Exeunt : ['Exeunt - []'] : PUCK
+Re-enter LYSANDER : ["Re-enter - ['LYSANDER']"] : PUCK
+LYSANDER
+3.2 :He goes before me and still dares me on: : None
+3.2 :When I come where he calls, then he is gone. : None
+3.2 :The villain is much lighter-heel'd than I: : None
+3.2 :I follow'd fast, but faster he did fly; : None
+3.2 :That fallen am I in dark uneven way, : None
+3.2 :And here will rest me. : None
+Lies down : ['None - []'] : LYSANDER
+3.2 :Come, thou gentle day! : None
+3.2 :For if but once thou show me thy grey light, : None
+3.2 :I'll find Demetrius and revenge this spite. : None
+Sleeps : ['None - []'] : LYSANDER
+Re-enter PUCK and DEMETRIUS : ["Re-enter - ['PUCK', 'DEMETRIUS']"] : LYSANDER
+PUCK
+3.2 :Ho, ho, ho! Coward, why comest thou not? : None
+DEMETRIUS
+3.2 :Abide me, if thou darest; for well I wot : None
+3.2 :Thou runn'st before me, shifting every place, : None
+3.2 :And darest not stand, nor look me in the face. : None
+3.2 :Where art thou now? : None
+PUCK
+3.2 :Come hither: I am here. : None
+DEMETRIUS
+3.2 :Nay, then, thou mock'st me. Thou shalt buy this dear, : None
+3.2 :If ever I thy face by daylight see: : None
+3.2 :Now, go thy way. Faintness constraineth me : None
+3.2 :To measure out my length on this cold bed. : None
+3.2 :By day's approach look to be visited. : None
+Lies down and sleeps : ['None - []'] : DEMETRIUS
+Re-enter HELENA : ["Re-enter - ['HELENA']"] : DEMETRIUS
+HELENA
+3.2 :O weary night, O long and tedious night, : None
+3.2 :Abate thy hour! Shine comforts from the east, : None
+3.2 :That I may back to Athens by daylight, : None
+3.2 :From these that my poor company detest: : None
+3.2 :And sleep, that sometimes shuts up sorrow's eye, : None
+3.2 :Steal me awhile from mine own company. : None
+Lies down and sleeps : ['None - []'] : HELENA
+PUCK
+3.2 :Yet but three? Come one more; : None
+3.2 :Two of both kinds make up four. : None
+3.2 :Here she comes, curst and sad: : None
+3.2 :Cupid is a knavish lad, : None
+3.2 :Thus to make poor females mad. : None
+Re-enter HERMIA : ["Re-enter - ['HERMIA']"] : PUCK
+HERMIA
+3.2 :Never so weary, never so in woe, : None
+3.2 :Bedabbled with the dew and torn with briers, : None
+3.2 :I can no further crawl, no further go; : None
+3.2 :My legs can keep no pace with my desires. : None
+3.2 :Here will I rest me till the break of day. : None
+3.2 :Heavens shield Lysander, if they mean a fray! : None
+Lies down and sleeps : ['None - []'] : HERMIA
+PUCK
+3.2 :                  On the ground : None
+3.2 :Sleep sound: : None
+3.2 :I'll apply : None
+3.2 :To your eye, : None
+3.2 :Gentle lover, remedy. : None
+Squeezing the juice on LYSANDER's eyes : ["None - ['LYSANDER']"] : PUCK
+3.2 :When thou wakest, : None
+3.2 :Thou takest : None
+3.2 :True delight : None
+3.2 :In the sight : None
+3.2 :Of thy former lady's eye: : None
+3.2 :And the country proverb known, : None
+3.2 :That every man should take his own, : None
+3.2 :In your waking shall be shown: : None
+3.2 :Jack shall have Jill; : None
+3.2 :Nought shall go ill; : None
+3.2 :The man shall have his mare again, and all shall be well. : None
+Exit : ['Exit - []'] : PUCK
+Act(act=4)
+Scene(scene=1)
+4.1 :lying asleep. : None
+Enter TITANIA and BOTTOM; PEASEBLOSSOM, COBWEB, MOTH,  MUSTARDSEED, and other Fairies attending; OBERON behind unseen : ["Enter - ['TITANIA', 'BOTTOM', 'PEASEBLOSSOM', 'COBWEB', 'MOTH', 'MUSTARDSEED', 'OBERON']"] : PUCK
+TITANIA
+4.1 :Come, sit thee down upon this flowery bed, : None
+4.1 :While I thy amiable cheeks do coy, : None
+4.1 :And stick musk-roses in thy sleek smooth head, : None
+4.1 :And kiss thy fair large ears, my gentle joy. : None
+BOTTOM
+4.1 :Where's Peaseblossom? : None
+PEASEBLOSSOM
+4.1 :Ready. : None
+BOTTOM
+4.1 :Scratch my head Peaseblossom. Where's Mounsieur Cobweb? : None
+COBWEB
+4.1 :Ready. : None
+BOTTOM
+4.1 :Mounsieur Cobweb, good mounsieur, get you your : None
+4.1 :weapons in your hand, and kill me a red-hipped : None
+4.1 :humble-bee on the top of a thistle; and, good : None
+4.1 :mounsieur, bring me the honey-bag. Do not fret : None
+4.1 :yourself too much in the action, mounsieur; and, : None
+4.1 :good mounsieur, have a care the honey-bag break not; : None
+4.1 :I would be loath to have you overflown with a : None
+4.1 :honey-bag, signior. Where's Mounsieur Mustardseed? : None
+MUSTARDSEED
+4.1 :Ready. : None
+BOTTOM
+4.1 :Give me your neaf, Mounsieur Mustardseed. Pray you, : None
+4.1 :leave your courtesy, good mounsieur. : None
+MUSTARDSEED
+4.1 :What's your Will? : None
+BOTTOM
+4.1 :Nothing, good mounsieur, but to help Cavalery Cobweb : None
+4.1 :to scratch. I must to the barber's, monsieur; for : None
+4.1 :methinks I am marvellous hairy about the face; and I : None
+4.1 :am such a tender ass, if my hair do but tickle me, : None
+4.1 :I must scratch. : None
+TITANIA
+4.1 :What, wilt thou hear some music, : None
+4.1 :my sweet love? : None
+BOTTOM
+4.1 :I have a reasonable good ear in music. Let's have : None
+4.1 :the tongs and the bones. : None
+TITANIA
+4.1 :Or say, sweet love, what thou desirest to eat. : None
+BOTTOM
+4.1 :Truly, a peck of provender: I could munch your good : None
+4.1 :dry oats. Methinks I have a great desire to a bottle : None
+4.1 :of hay: good hay, sweet hay, hath no fellow. : None
+TITANIA
+4.1 :I have a venturous fairy that shall seek : None
+4.1 :The squirrel's hoard, and fetch thee new nuts. : None
+BOTTOM
+4.1 :I had rather have a handful or two of dried peas. : None
+4.1 :But, I pray you, let none of your people stir me: I : None
+4.1 :have an exposition of sleep come upon me. : None
+TITANIA
+4.1 :Sleep thou, and I will wind thee in my arms. : None
+4.1 :Fairies, begone, and be all ways away. : None
+Exeunt fairies : ['Exeunt - []'] : TITANIA
+4.1 :So doth the woodbine the sweet honeysuckle : None
+4.1 :Gently entwist; the female ivy so : None
+4.1 :Enrings the barky fingers of the elm. : None
+4.1 :O, how I love thee! how I dote on thee! : None
+They sleep : ['None - []'] : TITANIA
+Enter PUCK : ["Enter - ['PUCK']"] : TITANIA
+OBERON
+4.1 :  Welcome, good Robin. : Advancing : ['None - []'] : OBERON
+4.1 :See'st thou this sweet sight? : None
+4.1 :Her dotage now I do begin to pity: : None
+4.1 :For, meeting her of late behind the wood, : None
+4.1 :Seeking sweet favours from this hateful fool, : None
+4.1 :I did upbraid her and fall out with her; : None
+4.1 :For she his hairy temples then had rounded : None
+4.1 :With a coronet of fresh and fragrant flowers; : None
+4.1 :And that same dew, which sometime on the buds : None
+4.1 :Was wont to swell like round and orient pearls, : None
+4.1 :Stood now within the pretty flowerets' eyes : None
+4.1 :Like tears that did their own disgrace bewail. : None
+4.1 :When I had at my pleasure taunted her : None
+4.1 :And she in mild terms begg'd my patience, : None
+4.1 :I then did ask of her her changeling child; : None
+4.1 :Which straight she gave me, and her fairy sent : None
+4.1 :To bear him to my bower in fairy land. : None
+4.1 :And now I have the boy, I will undo : None
+4.1 :This hateful imperfection of her eyes: : None
+4.1 :And, gentle Puck, take this transformed scalp : None
+4.1 :From off the head of this Athenian swain; : None
+4.1 :That, he awaking when the other do, : None
+4.1 :May all to Athens back again repair : None
+4.1 :And think no more of this night's accidents : None
+4.1 :But as the fierce vexation of a dream. : None
+4.1 :But first I will release the fairy queen. : None
+4.1 :Be as thou wast wont to be; : None
+4.1 :See as thou wast wont to see: : None
+4.1 :Dian's bud o'er Cupid's flower : None
+4.1 :Hath such force and blessed power. : None
+4.1 :Now, my Titania; wake you, my sweet queen. : None
+TITANIA
+4.1 :My Oberon! what visions have I seen! : None
+4.1 :Methought I was enamour'd of an ass. : None
+OBERON
+4.1 :There lies your love. : None
+TITANIA
+4.1 :How came these things to pass? : None
+4.1 :O, how mine eyes do loathe his visage now! : None
+OBERON
+4.1 :Silence awhile. Robin, take off this head. : None
+4.1 :Titania, music call; and strike more dead : None
+4.1 :Than common sleep of all these five the sense. : None
+TITANIA
+4.1 :Music, ho! music, such as charmeth sleep! : None
+Music, still : ['None - []'] : TITANIA
+PUCK
+4.1 :Now, when thou wakest, with thine : None
+4.1 :own fool's eyes peep. : None
+OBERON
+4.1 :Sound, music! Come, my queen, take hands with me, : None
+4.1 :And rock the ground whereon these sleepers be. : None
+4.1 :Now thou and I are new in amity, : None
+4.1 :And will to-morrow midnight solemnly : None
+4.1 :Dance in Duke Theseus' house triumphantly, : None
+4.1 :And bless it to all fair prosperity: : None
+4.1 :There shall the pairs of faithful lovers be : None
+4.1 :Wedded, with Theseus, all in jollity. : None
+PUCK
+4.1 :Fairy king, attend, and mark: : None
+4.1 :I do hear the morning lark. : None
+OBERON
+4.1 :Then, my queen, in silence sad, : None
+4.1 :Trip we after the night's shade: : None
+4.1 :We the globe can compass soon, : None
+4.1 :Swifter than the wandering moon. : None
+TITANIA
+4.1 :Come, my lord, and in our flight : None
+4.1 :Tell me how it came this night : None
+4.1 :That I sleeping here was found : None
+4.1 :With these mortals on the ground. : None
+Exeunt : ['Exeunt - []'] : TITANIA
+Horns winded within : ['None - []'] : TITANIA
+Enter THESEUS, HIPPOLYTA, EGEUS, and train : ["Enter - ['THESEUS', 'HIPPOLYTA', 'EGEUS']"] : TITANIA
+THESEUS
+4.1 :Go, one of you, find out the forester; : None
+4.1 :For now our observation is perform'd; : None
+4.1 :And since we have the vaward of the day, : None
+4.1 :My love shall hear the music of my hounds. : None
+4.1 :Uncouple in the western valley; let them go: : None
+4.1 :Dispatch, I say, and find the forester. : None
+Exit an Attendant : ['Exit - []'] : THESEUS
+4.1 :We will, fair queen, up to the mountain's top, : None
+4.1 :And mark the musical confusion : None
+4.1 :Of hounds and echo in conjunction. : None
+HIPPOLYTA
+4.1 :I was with Hercules and Cadmus once, : None
+4.1 :When in a wood of Crete they bay'd the bear : None
+4.1 :With hounds of Sparta: never did I hear : None
+4.1 :Such gallant chiding: for, besides the groves, : None
+4.1 :The skies, the fountains, every region near : None
+4.1 :Seem'd all one mutual cry: I never heard : None
+4.1 :So musical a discord, such sweet thunder. : None
+THESEUS
+4.1 :My hounds are bred out of the Spartan kind, : None
+4.1 :So flew'd, so sanded, and their heads are hung : None
+4.1 :With ears that sweep away the morning dew; : None
+4.1 :Crook-knee'd, and dew-lapp'd like Thessalian bulls; : None
+4.1 :Slow in pursuit, but match'd in mouth like bells, : None
+4.1 :Each under each. A cry more tuneable : None
+4.1 :Was never holla'd to, nor cheer'd with horn, : None
+4.1 :In Crete, in Sparta, nor in Thessaly: : None
+4.1 :Judge when you hear. But, soft! what nymphs are these? : None
+EGEUS
+4.1 :My lord, this is my daughter here asleep; : None
+4.1 :And this, Lysander; this Demetrius is; : None
+4.1 :This Helena, old Nedar's Helena: : None
+4.1 :I wonder of their being here together. : None
+THESEUS
+4.1 :No doubt they rose up early to observe : None
+4.1 :The rite of May, and hearing our intent, : None
+4.1 :Came here in grace our solemnity. : None
+4.1 :But speak, Egeus; is not this the day : None
+4.1 :That Hermia should give answer of her choice? : None
+EGEUS
+4.1 :It is, my lord. : None
+THESEUS
+4.1 :Go, bid the huntsmen wake them with their horns. : None
+Horns and shout within. LYSANDER, DEMETRIUS, HELENA, and HERMIA wake and start up : ['None - []', "None - ['LYSANDER', 'DEMETRIUS', 'HELENA', 'HERMIA']"] : THESEUS
+4.1 :Good morrow, friends. Saint Valentine is past: : None
+4.1 :Begin these wood-birds but to couple now? : None
+LYSANDER
+4.1 :Pardon, my lord. : None
+THESEUS
+4.1 :                  I pray you all, stand up. : None
+4.1 :I know you two are rival enemies: : None
+4.1 :How comes this gentle concord in the world, : None
+4.1 :That hatred is so far from jealousy, : None
+4.1 :To sleep by hate, and fear no enmity? : None
+LYSANDER
+4.1 :My lord, I shall reply amazedly, : None
+4.1 :Half sleep, half waking: but as yet, I swear, : None
+4.1 :I cannot truly say how I came here; : None
+4.1 :But, as I think,--for truly would I speak, : None
+4.1 :And now do I bethink me, so it is,-- : None
+4.1 :I came with Hermia hither: our intent : None
+4.1 :Was to be gone from Athens, where we might, : None
+4.1 :Without the peril of the Athenian law. : None
+EGEUS
+4.1 :Enough, enough, my lord; you have enough: : None
+4.1 :I beg the law, the law, upon his head. : None
+4.1 :They would have stolen away; they would, Demetrius, : None
+4.1 :Thereby to have defeated you and me, : None
+4.1 :You of your wife and me of my consent, : None
+4.1 :Of my consent that she should be your wife. : None
+DEMETRIUS
+4.1 :My lord, fair Helen told me of their stealth, : None
+4.1 :Of this their purpose hither to this wood; : None
+4.1 :And I in fury hither follow'd them, : None
+4.1 :Fair Helena in fancy following me. : None
+4.1 :But, my good lord, I wot not by what power,-- : None
+4.1 :But by some power it is,--my love to Hermia, : None
+4.1 :Melted as the snow, seems to me now : None
+4.1 :As the remembrance of an idle gaud : None
+4.1 :Which in my childhood I did dote upon; : None
+4.1 :And all the faith, the virtue of my heart, : None
+4.1 :The object and the pleasure of mine eye, : None
+4.1 :Is only Helena. To her, my lord, : None
+4.1 :Was I betroth'd ere I saw Hermia: : None
+4.1 :But, like in sickness, did I loathe this food; : None
+4.1 :But, as in health, come to my natural taste, : None
+4.1 :Now I do wish it, love it, long for it, : None
+4.1 :And will for evermore be true to it. : None
+THESEUS
+4.1 :Fair lovers, you are fortunately met: : None
+4.1 :Of this discourse we more will hear anon. : None
+4.1 :Egeus, I will overbear your will; : None
+4.1 :For in the temple by and by with us : None
+4.1 :These couples shall eternally be knit: : None
+4.1 :And, for the morning now is something worn, : None
+4.1 :Our purposed hunting shall be set aside. : None
+4.1 :Away with us to Athens; three and three, : None
+4.1 :We'll hold a feast in great solemnity. : None
+4.1 :Come, Hippolyta. : None
+Exeunt THESEUS, HIPPOLYTA, EGEUS, and train : ["Exeunt - ['THESEUS', 'HIPPOLYTA', 'EGEUS']"] : THESEUS
+DEMETRIUS
+4.1 :These things seem small and undistinguishable, : None
+HERMIA
+4.1 :Methinks I see these things with parted eye, : None
+4.1 :When every thing seems double. : None
+HELENA
+4.1 :So methinks: : None
+4.1 :And I have found Demetrius like a jewel, : None
+4.1 :Mine own, and not mine own. : None
+DEMETRIUS
+4.1 :Are you sure : None
+4.1 :That we are awake? It seems to me : None
+4.1 :That yet we sleep, we dream. Do not you think : None
+4.1 :The duke was here, and bid us follow him? : None
+HERMIA
+4.1 :Yea; and my father. : None
+HELENA
+4.1 :And Hippolyta. : None
+LYSANDER
+4.1 :And he did bid us follow to the temple. : None
+DEMETRIUS
+4.1 :Why, then, we are awake: let's follow him : None
+4.1 :And by the way let us recount our dreams. : None
+Exeunt : ['Exeunt - []'] : DEMETRIUS
+BOTTOM
+4.1 :  When my cue comes, call me, and I will : Awaking : ['None - []'] : BOTTOM
+4.1 :answer: my next is, 'Most fair Pyramus.' Heigh-ho! : None
+4.1 :Peter Quince! Flute, the bellows-mender! Snout, : None
+4.1 :the tinker! Starveling! God's my life, stolen : None
+4.1 :hence, and left me asleep! I have had a most rare : None
+4.1 :vision. I have had a dream, past the wit of man to : None
+4.1 :say what dream it was: man is but an ass, if he go : None
+4.1 :about to expound this dream. Methought I was--there : None
+4.1 :is no man can tell what. Methought I was,--and : None
+4.1 :methought I had,--but man is but a patched fool, if : None
+4.1 :he will offer to say what methought I had. The eye : None
+4.1 :of man hath not heard, the ear of man hath not : None
+4.1 :seen, man's hand is not able to taste, his tongue : None
+4.1 :to conceive, nor his heart to report, what my dream : None
+4.1 :was. I will get Peter Quince to write a ballad of : None
+4.1 :this dream: it shall be called Bottom's Dream, : None
+4.1 :because it hath no bottom; and I will sing it in the : None
+4.1 :latter end of a play, before the duke: : None
+4.1 :peradventure, to make it the more gracious, I shall : None
+4.1 :sing it at her death. : None
+Exit : ['Exit - []'] : BOTTOM
+Scene(scene=2)
+Enter QUINCE, FLUTE, SNOUT, and STARVELING : ["Enter - ['QUINCE', 'FLUTE', 'SNOUT', 'STARVELING']"] : BOTTOM
+QUINCE
+4.2 :Have you sent to Bottom's house ? is he come home yet? : None
+STARVELING
+4.2 :He cannot be heard of. Out of doubt he is : None
+4.2 :transported. : None
+FLUTE
+4.2 :If he come not, then the play is marred: it goes : None
+4.2 :not forward, doth it? : None
+QUINCE
+4.2 :It is not possible: you have not a man in all : None
+4.2 :Athens able to discharge Pyramus but he. : None
+FLUTE
+4.2 :No, he hath simply the best wit of any handicraft : None
+4.2 :man in Athens. : None
+QUINCE
+4.2 :Yea and the best person too; and he is a very : None
+4.2 :paramour for a sweet voice. : None
+FLUTE
+4.2 :You must say 'paragon:' a paramour is, God bless us, : None
+4.2 :a thing of naught. : None
+Enter SNUG : ["Enter - ['SNUG']"] : FLUTE
+SNUG
+4.2 :Masters, the duke is coming from the temple, and : None
+4.2 :there is two or three lords and ladies more married: : None
+4.2 :if our sport had gone forward, we had all been made : None
+4.2 :men. : None
+FLUTE
+4.2 :O sweet bully Bottom! Thus hath he lost sixpence a : None
+4.2 :day during his life; he could not have 'scaped : None
+4.2 :sixpence a day: an the duke had not given him : None
+4.2 :sixpence a day for playing Pyramus, I'll be hanged; : None
+4.2 :he would have deserved it: sixpence a day in : None
+4.2 :Pyramus, or nothing. : None
+Enter BOTTOM : ["Enter - ['BOTTOM']"] : FLUTE
+BOTTOM
+4.2 :Where are these lads? where are these hearts? : None
+QUINCE
+4.2 :Bottom! O most courageous day! O most happy hour! : None
+BOTTOM
+4.2 :Masters, I am to discourse wonders: but ask me not : None
+4.2 :what; for if I tell you, I am no true Athenian. I : None
+4.2 :will tell you every thing, right as it fell out. : None
+QUINCE
+4.2 :Let us hear, sweet Bottom. : None
+BOTTOM
+4.2 :Not a word of me. All that I will tell you is, that : None
+4.2 :the duke hath dined. Get your apparel together, : None
+4.2 :good strings to your beards, new ribbons to your : None
+4.2 :pumps; meet presently at the palace; every man look : None
+4.2 :o'er his part; for the short and the long is, our : None
+4.2 :play is preferred. In any case, let Thisby have : None
+4.2 :clean linen; and let not him that plays the lion : None
+4.2 :pair his nails, for they shall hang out for the : None
+4.2 :lion's claws. And, most dear actors, eat no onions : None
+4.2 :nor garlic, for we are to utter sweet breath; and I : None
+4.2 :do not doubt but to hear them say, it is a sweet : None
+4.2 :comedy. No more words: away! go, away! : None
+Exeunt : ['Exeunt - []'] : BOTTOM
+Act(act=5)
+Scene(scene=1)
+Enter THESEUS, HIPPOLYTA, PHILOSTRATE, Lords and Attendants : ["Enter - ['THESEUS', 'HIPPOLYTA', 'PHILOSTRATE']"] : BOTTOM
+HIPPOLYTA
+5.1 :'Tis strange my Theseus, that these : None
+5.1 :lovers speak of. : None
+THESEUS
+5.1 :More strange than true: I never may believe : None
+5.1 :These antique fables, nor these fairy toys. : None
+5.1 :Lovers and madmen have such seething brains, : None
+5.1 :Such shaping fantasies, that apprehend : None
+5.1 :More than cool reason ever comprehends. : None
+5.1 :The lunatic, the lover and the poet : None
+5.1 :Are of imagination all compact: : None
+5.1 :One sees more devils than vast hell can hold, : None
+5.1 :That is, the madman: the lover, all as frantic, : None
+5.1 :Sees Helen's beauty in a brow of Egypt: : None
+5.1 :The poet's eye, in fine frenzy rolling, : None
+5.1 :Doth glance from heaven to earth, from earth to heaven; : None
+5.1 :And as imagination bodies forth : None
+5.1 :The forms of things unknown, the poet's pen : None
+5.1 :Turns them to shapes and gives to airy nothing : None
+5.1 :A local habitation and a name. : None
+5.1 :Such tricks hath strong imagination, : None
+5.1 :That if it would but apprehend some joy, : None
+5.1 :It comprehends some bringer of that joy; : None
+5.1 :Or in the night, imagining some fear, : None
+5.1 :How easy is a bush supposed a bear! : None
+HIPPOLYTA
+5.1 :But all the story of the night told over, : None
+5.1 :And all their minds transfigured so together, : None
+5.1 :More witnesseth than fancy's images : None
+5.1 :And grows to something of great constancy; : None
+5.1 :But, howsoever, strange and admirable. : None
+THESEUS
+5.1 :Here come the lovers, full of joy and mirth. : None
+Enter LYSANDER, DEMETRIUS, HERMIA, and HELENA : ["Enter - ['LYSANDER', 'DEMETRIUS', 'HERMIA', 'HELENA']"] : THESEUS
+5.1 :Joy, gentle friends! joy and fresh days of love : None
+5.1 :Accompany your hearts! : None
+LYSANDER
+5.1 :More than to us : None
+5.1 :Wait in your royal walks, your board, your bed! : None
+THESEUS
+5.1 :Come now; what masques, what dances shall we have, : None
+5.1 :To wear away this long age of three hours : None
+5.1 :Between our after-supper and bed-time? : None
+5.1 :Where is our usual manager of mirth? : None
+5.1 :What revels are in hand? Is there no play, : None
+5.1 :To ease the anguish of a torturing hour? : None
+5.1 :Call Philostrate. : None
+PHILOSTRATE
+5.1 :                  Here, mighty Theseus. : None
+THESEUS
+5.1 :Say, what abridgement have you for this evening? : None
+5.1 :What masque? what music? How shall we beguile : None
+5.1 :The lazy time, if not with some delight? : None
+PHILOSTRATE
+5.1 :There is a brief how many sports are ripe: : None
+5.1 :Make choice of which your highness will see first. : None
+Giving a paper : ['None - []'] : PHILOSTRATE
+THESEUS
+5.1 :  'The battle with the Centaurs, to be sung : Reads : ['Read - []'] : THESEUS
+5.1 :By an Athenian eunuch to the harp.' : None
+5.1 :We'll none of that: that have I told my love, : None
+5.1 :In glory of my kinsman Hercules. : None
+Reads : ['Read - []'] : THESEUS
+5.1 :'The riot of the tipsy Bacchanals, : None
+5.1 :Tearing the Thracian singer in their rage.' : None
+5.1 :That is an old device; and it was play'd : None
+5.1 :When I from Thebes came last a conqueror. : None
+Reads : ['Read - []'] : THESEUS
+5.1 :'The thrice three Muses mourning for the death : None
+5.1 :Of Learning, late deceased in beggary.' : None
+5.1 :That is some satire, keen and critical, : None
+5.1 :Not sorting with a nuptial ceremony. : None
+Reads : ['Read - []'] : THESEUS
+5.1 :'A tedious brief scene of young Pyramus : None
+5.1 :And his love Thisbe; very tragical mirth.' : None
+5.1 :Merry and tragical! tedious and brief! : None
+5.1 :That is, hot ice and wondrous strange snow. : None
+5.1 :How shall we find the concord of this discord? : None
+PHILOSTRATE
+5.1 :A play there is, my lord, some ten words long, : None
+5.1 :Which is as brief as I have known a play; : None
+5.1 :But by ten words, my lord, it is too long, : None
+5.1 :Which makes it tedious; for in all the play : None
+5.1 :There is not one word apt, one player fitted: : None
+5.1 :And tragical, my noble lord, it is; : None
+5.1 :For Pyramus therein doth kill himself. : None
+5.1 :Which, when I saw rehearsed, I must confess, : None
+5.1 :Made mine eyes water; but more merry tears : None
+5.1 :The passion of loud laughter never shed. : None
+THESEUS
+5.1 :What are they that do play it? : None
+PHILOSTRATE
+5.1 :Hard-handed men that work in Athens here, : None
+5.1 :Which never labour'd in their minds till now, : None
+5.1 :And now have toil'd their unbreathed memories : None
+5.1 :With this same play, against your nuptial. : None
+THESEUS
+5.1 :And we will hear it. : None
+PHILOSTRATE
+5.1 :No, my noble lord; : None
+5.1 :It is not for you: I have heard it over, : None
+5.1 :And it is nothing, nothing in the world; : None
+5.1 :Unless you can find sport in their intents, : None
+5.1 :Extremely stretch'd and conn'd with cruel pain, : None
+5.1 :To do you service. : None
+THESEUS
+5.1 :                  I will hear that play; : None
+5.1 :For never anything can be amiss, : None
+5.1 :When simpleness and duty tender it. : None
+5.1 :Go, bring them in: and take your places, ladies. : None
+Exit PHILOSTRATE : ["Exit - ['PHILOSTRATE']"] : THESEUS
+HIPPOLYTA
+5.1 :I love not to see wretchedness o'er charged : None
+5.1 :And duty in his service perishing. : None
+THESEUS
+5.1 :Why, gentle sweet, you shall see no such thing. : None
+HIPPOLYTA
+5.1 :He says they can do nothing in this kind. : None
+THESEUS
+5.1 :The kinder we, to give them thanks for nothing. : None
+5.1 :Our sport shall be to take what they mistake: : None
+5.1 :And what poor duty cannot do, noble respect : None
+5.1 :Takes it in might, not merit. : None
+5.1 :Where I have come, great clerks have purposed : None
+5.1 :To greet me with premeditated welcomes; : None
+5.1 :Where I have seen them shiver and look pale, : None
+5.1 :Make periods in the midst of sentences, : None
+5.1 :Throttle their practised accent in their fears : None
+5.1 :And in conclusion dumbly have broke off, : None
+5.1 :Not paying me a welcome. Trust me, sweet, : None
+5.1 :Out of this silence yet I pick'd a welcome; : None
+5.1 :And in the modesty of fearful duty : None
+5.1 :I read as much as from the rattling tongue : None
+5.1 :Of saucy and audacious eloquence. : None
+5.1 :Love, therefore, and tongue-tied simplicity : None
+5.1 :In least speak most, to my capacity. : None
+Re-enter PHILOSTRATE : ["Re-enter - ['PHILOSTRATE']"] : THESEUS
+PHILOSTRATE
+5.1 :So please your grace, the Prologue is address'd. : None
+THESEUS
+5.1 :Let him approach. : None
+Flourish of trumpets : ['None - []'] : THESEUS
+Enter QUINCE for the Prologue : ["Enter - ['QUINCE', 'PROLOGUE']"] : THESEUS
+PROLOGUE
+5.1 :If we offend, it is with our good will. : None
+5.1 :That you should think, we come not to offend, : None
+5.1 :But with good will. To show our simple skill, : None
+5.1 :That is the true beginning of our end. : None
+5.1 :Consider then we come but in despite. : None
+5.1 :We do not come as minding to contest you, : None
+5.1 :Our true intent is. All for your delight : None
+5.1 :We are not here. That you should here repent you, : None
+5.1 :The actors are at hand and by their show : None
+5.1 :You shall know all that you are like to know. : None
+THESEUS
+5.1 :This fellow doth not stand upon points. : None
+LYSANDER
+5.1 :He hath rid his prologue like a rough colt; he knows : None
+5.1 :not the stop. A good moral, my lord: it is not : None
+5.1 :enough to speak, but to speak true. : None
+HIPPOLYTA
+5.1 :Indeed he hath played on his prologue like a child : None
+5.1 :on a recorder; a sound, but not in government. : None
+THESEUS
+5.1 :His speech, was like a tangled chain; nothing : None
+5.1 :impaired, but all disordered. Who is next? : None
+Enter Pyramus and Thisbe, Wall, Moonshine, and Lion : ["Enter - ['PYRAMUS', 'THISBE', 'WALL', 'MOONSHINE', 'LION']"] : THESEUS
+PROLOGUE
+5.1 :Gentles, perchance you wonder at this show; : None
+5.1 :But wonder on, till truth make all things plain. : None
+5.1 :This man is Pyramus, if you would know; : None
+5.1 :This beauteous lady Thisby is certain. : None
+5.1 :This man, with lime and rough-cast, doth present : None
+5.1 :Wall, that vile Wall which did these lovers sunder; : None
+5.1 :And through Wall's chink, poor souls, they are content : None
+5.1 :To whisper. At the which let no man wonder. : None
+5.1 :This man, with lanthorn, dog, and bush of thorn, : None
+5.1 :Presenteth Moonshine; for, if you will know, : None
+5.1 :By moonshine did these lovers think no scorn : None
+5.1 :To meet at Ninus' tomb, there, there to woo. : None
+5.1 :This grisly beast, which Lion hight by name, : None
+5.1 :The trusty Thisby, coming first by night, : None
+5.1 :Did scare away, or rather did affright; : None
+5.1 :And, as she fled, her mantle she did fall, : None
+5.1 :Which Lion vile with bloody mouth did stain. : None
+5.1 :Anon comes Pyramus, sweet youth and tall, : None
+5.1 :And finds his trusty Thisby's mantle slain: : None
+5.1 :Whereat, with blade, with bloody blameful blade, : None
+5.1 :He bravely broach'd is boiling bloody breast; : None
+5.1 :And Thisby, tarrying in mulberry shade, : None
+5.1 :His dagger drew, and died. For all the rest, : None
+5.1 :Let Lion, Moonshine, Wall, and lovers twain : None
+5.1 :At large discourse, while here they do remain. : None
+Exeunt Prologue, Thisbe, Lion, and Moonshine : ["Exeunt - ['PROLOGUE', 'THISBE', 'LION', 'MOONSHINE']"] : PROLOGUE
+THESEUS
+5.1 :I wonder if the lion be to speak. : None
+DEMETRIUS
+5.1 :No wonder, my lord: one lion may, when many asses do. : None
+WALL
+5.1 :In this same interlude it doth befall : None
+5.1 :That I, one Snout by name, present a wall; : None
+5.1 :And such a wall, as I would have you think, : None
+5.1 :That had in it a crannied hole or chink, : None
+5.1 :Through which the lovers, Pyramus and Thisby, : None
+5.1 :Did whisper often very secretly. : None
+5.1 :This loam, this rough-cast and this stone doth show : None
+5.1 :That I am that same wall; the truth is so: : None
+5.1 :And this the cranny is, right and sinister, : None
+5.1 :Through which the fearful lovers are to whisper. : None
+THESEUS
+5.1 :Would you desire lime and hair to speak better? : None
+DEMETRIUS
+5.1 :It is the wittiest partition that ever I heard : None
+5.1 :discourse, my lord. : None
+Enter Pyramus : ["Enter - ['PYRAMUS']"] : DEMETRIUS
+THESEUS
+5.1 :Pyramus draws near the wall: silence! : None
+PYRAMUS
+5.1 :O grim-look'd night! O night with hue so black! : None
+5.1 :O night, which ever art when day is not! : None
+5.1 :O night, O night! alack, alack, alack, : None
+5.1 :I fear my Thisby's promise is forgot! : None
+5.1 :And thou, O wall, O sweet, O lovely wall, : None
+5.1 :That stand'st between her father's ground and mine! : None
+5.1 :Thou wall, O wall, O sweet and lovely wall, : None
+5.1 :Show me thy chink, to blink through with mine eyne! : None
+Wall holds up his fingers : ["None - ['WALL']"] : PYRAMUS
+5.1 :Thanks, courteous wall: Jove shield thee well for this! : None
+5.1 :But what see I? No Thisby do I see. : None
+5.1 :O wicked wall, through whom I see no bliss! : None
+5.1 :Cursed be thy stones for thus deceiving me! : None
+THESEUS
+5.1 :The wall, methinks, being sensible, should curse again. : None
+PYRAMUS
+5.1 :No, in truth, sir, he should not. 'Deceiving me' : None
+5.1 :is Thisby's cue: she is to enter now, and I am to : None
+5.1 :spy her through the wall. You shall see, it will : None
+5.1 :fall pat as I told you. Yonder she comes. : None
+Enter Thisbe : ["Enter - ['THISBE']"] : PYRAMUS
+THISBE
+5.1 :O wall, full often hast thou heard my moans, : None
+5.1 :For parting my fair Pyramus and me! : None
+5.1 :My cherry lips have often kiss'd thy stones, : None
+5.1 :Thy stones with lime and hair knit up in thee. : None
+PYRAMUS
+5.1 :I see a voice: now will I to the chink, : None
+5.1 :To spy an I can hear my Thisby's face. Thisby! : None
+THISBE
+5.1 :My love thou art, my love I think. : None
+PYRAMUS
+5.1 :Think what thou wilt, I am thy lover's grace; : None
+5.1 :And, like Limander, am I trusty still. : None
+THISBE
+5.1 :And I like Helen, till the Fates me kill. : None
+PYRAMUS
+5.1 :Not Shafalus to Procrus was so true. : None
+THISBE
+5.1 :As Shafalus to Procrus, I to you. : None
+PYRAMUS
+5.1 :O kiss me through the hole of this vile wall! : None
+THISBE
+5.1 :I kiss the wall's hole, not your lips at all. : None
+PYRAMUS
+5.1 :Wilt thou at Ninny's tomb meet me straightway? : None
+THISBE
+5.1 :'Tide life, 'tide death, I come without delay. : None
+Exeunt Pyramus and Thisbe : ["Exeunt - ['PYRAMUS', 'THISBE']"] : THISBE
+WALL
+5.1 :Thus have I, Wall, my part discharged so; : None
+5.1 :And, being done, thus Wall away doth go. : None
+Exit : ['Exit - []'] : WALL
+THESEUS
+5.1 :Now is the mural down between the two neighbours. : None
+DEMETRIUS
+5.1 :No remedy, my lord, when walls are so wilful to hear : None
+5.1 :without warning. : None
+HIPPOLYTA
+5.1 :This is the silliest stuff that ever I heard. : None
+THESEUS
+5.1 :The best in this kind are but shadows; and the worst : None
+5.1 :are no worse, if imagination amend them. : None
+HIPPOLYTA
+5.1 :It must be your imagination then, and not theirs. : None
+THESEUS
+5.1 :If we imagine no worse of them than they of : None
+5.1 :themselves, they may pass for excellent men. Here : None
+5.1 :come two noble beasts in, a man and a lion. : None
+Enter Lion and Moonshine : ["Enter - ['LION', 'MOONSHINE']"] : THESEUS
+LION
+5.1 :You, ladies, you, whose gentle hearts do fear : None
+5.1 :The smallest monstrous mouse that creeps on floor, : None
+5.1 :May now perchance both quake and tremble here, : None
+5.1 :When lion rough in wildest rage doth roar. : None
+5.1 :Then know that I, one Snug the joiner, am : None
+5.1 :A lion-fell, nor else no lion's dam; : None
+5.1 :For, if I should as lion come in strife : None
+5.1 :Into this place, 'twere pity on my life. : None
+THESEUS
+5.1 :A very gentle beast, of a good conscience. : None
+DEMETRIUS
+5.1 :The very best at a beast, my lord, that e'er I saw. : None
+LYSANDER
+5.1 :This lion is a very fox for his valour. : None
+THESEUS
+5.1 :True; and a goose for his discretion. : None
+DEMETRIUS
+5.1 :Not so, my lord; for his valour cannot carry his : None
+5.1 :discretion; and the fox carries the goose. : None
+THESEUS
+5.1 :His discretion, I am sure, cannot carry his valour; : None
+5.1 :for the goose carries not the fox. It is well: : None
+5.1 :leave it to his discretion, and let us listen to the moon. : None
+MOONSHINE
+5.1 :This lanthorn doth the horned moon present;-- : None
+DEMETRIUS
+5.1 :He should have worn the horns on his head. : None
+THESEUS
+5.1 :He is no crescent, and his horns are : None
+5.1 :invisible within the circumference. : None
+MOONSHINE
+5.1 :This lanthorn doth the horned moon present; : None
+5.1 :Myself the man i' the moon do seem to be. : None
+THESEUS
+5.1 :This is the greatest error of all the rest: the man : None
+5.1 :should be put into the lanthorn. How is it else the : None
+5.1 :man i' the moon? : None
+DEMETRIUS
+5.1 :He dares not come there for the candle; for, you : None
+5.1 :see, it is already in snuff. : None
+HIPPOLYTA
+5.1 :I am aweary of this moon: would he would change! : None
+THESEUS
+5.1 :It appears, by his small light of discretion, that : None
+5.1 :he is in the wane; but yet, in courtesy, in all : None
+5.1 :reason, we must stay the time. : None
+LYSANDER
+5.1 :Proceed, Moon. : None
+MOONSHINE
+5.1 :All that I have to say, is, to tell you that the : None
+5.1 :lanthorn is the moon; I, the man in the moon; this : None
+5.1 :thorn-bush, my thorn-bush; and this dog, my dog. : None
+DEMETRIUS
+5.1 :Why, all these should be in the lanthorn; for all : None
+5.1 :these are in the moon. But, silence! here comes Thisbe. : None
+Enter Thisbe : ["Enter - ['THISBE']"] : DEMETRIUS
+THISBE
+5.1 :This is old Ninny's tomb. Where is my love? : None
+LION
+5.1 :  Oh-- : Roaring : ['None - []'] : LION
+Thisbe runs off : ["None - ['THISBE']"] : LION
+DEMETRIUS
+5.1 :Well roared, Lion. : None
+THESEUS
+5.1 :Well run, Thisbe. : None
+HIPPOLYTA
+5.1 :Well shone, Moon. Truly, the moon shines with a : None
+5.1 :good grace. : None
+The Lion shakes Thisbe's mantle, and exit : ["exit - ['LION', 'THISBE']"] : HIPPOLYTA
+THESEUS
+5.1 :Well moused, Lion. : None
+LYSANDER
+5.1 :And so the lion vanished. : None
+DEMETRIUS
+5.1 :And then came Pyramus. : None
+Enter Pyramus : ["Enter - ['PYRAMUS']"] : DEMETRIUS
+PYRAMUS
+5.1 :Sweet Moon, I thank thee for thy sunny beams; : None
+5.1 :I thank thee, Moon, for shining now so bright; : None
+5.1 :For, by thy gracious, golden, glittering gleams, : None
+5.1 :I trust to take of truest Thisby sight. : None
+5.1 :But stay, O spite! : None
+5.1 :But mark, poor knight, : None
+5.1 :What dreadful dole is here! : None
+5.1 :Eyes, do you see? : None
+5.1 :How can it be? : None
+5.1 :O dainty duck! O dear! : None
+5.1 :Thy mantle good, : None
+5.1 :What, stain'd with blood! : None
+5.1 :Approach, ye Furies fell! : None
+5.1 :O Fates, come, come, : None
+5.1 :Cut thread and thrum; : None
+5.1 :Quail, crush, conclude, and quell! : None
+THESEUS
+5.1 :This passion, and the death of a dear friend, would : None
+5.1 :go near to make a man look sad. : None
+HIPPOLYTA
+5.1 :Beshrew my heart, but I pity the man. : None
+PYRAMUS
+5.1 :O wherefore, Nature, didst thou lions frame? : None
+5.1 :Since lion vile hath here deflower'd my dear: : None
+5.1 :Which is--no, no--which was the fairest dame : None
+5.1 :That lived, that loved, that liked, that look'd : None
+5.1 :with cheer. : None
+5.1 :Come, tears, confound; : None
+5.1 :Out, sword, and wound : None
+5.1 :The pap of Pyramus; : None
+5.1 :Ay, that left pap, : None
+5.1 :Where heart doth hop: : None
+Stabs himself : ['None - []'] : PYRAMUS
+5.1 :Thus die I, thus, thus, thus. : None
+5.1 :Now am I dead, : None
+5.1 :Now am I fled; : None
+5.1 :My soul is in the sky: : None
+5.1 :Tongue, lose thy light; : None
+5.1 :Moon take thy flight: : None
+Exit Moonshine : ["Exit - ['MOONSHINE']"] : PYRAMUS
+5.1 :Now die, die, die, die, die. : None
+Dies : ['None - []'] : PYRAMUS
+DEMETRIUS
+5.1 :No die, but an ace, for him; for he is but one. : None
+LYSANDER
+5.1 :Less than an ace, man; for he is dead; he is nothing. : None
+THESEUS
+5.1 :With the help of a surgeon he might yet recover, and : None
+5.1 :prove an ass. : None
+HIPPOLYTA
+5.1 :How chance Moonshine is gone before Thisbe comes : None
+5.1 :back and finds her lover? : None
+THESEUS
+5.1 :She will find him by starlight. Here she comes; and : None
+5.1 :her passion ends the play. : None
+Re-enter Thisbe : ["Re-enter - ['THISBE']"] : THESEUS
+HIPPOLYTA
+5.1 :Methinks she should not use a long one for such a : None
+5.1 :Pyramus: I hope she will be brief. : None
+DEMETRIUS
+5.1 :A mote will turn the balance, which Pyramus, which : None
+5.1 :Thisbe, is the better; he for a man, God warrant us; : None
+5.1 :she for a woman, God bless us. : None
+LYSANDER
+5.1 :She hath spied him already with those sweet eyes. : None
+DEMETRIUS
+5.1 :And thus she means, videlicet:-- : None
+THISBE
+5.1 :          Asleep, my love? : None
+5.1 :What, dead, my dove? : None
+5.1 :O Pyramus, arise! : None
+5.1 :Speak, speak. Quite dumb? : None
+5.1 :Dead, dead? A tomb : None
+5.1 :Must cover thy sweet eyes. : None
+5.1 :These My lips, : None
+5.1 :This cherry nose, : None
+5.1 :These yellow cowslip cheeks, : None
+5.1 :Are gone, are gone: : None
+5.1 :Lovers, make moan: : None
+5.1 :His eyes were green as leeks. : None
+5.1 :O Sisters Three, : None
+5.1 :Come, come to me, : None
+5.1 :With hands as pale as milk; : None
+5.1 :Lay them in gore, : None
+5.1 :Since you have shore : None
+5.1 :With shears his thread of silk. : None
+5.1 :Tongue, not a word: : None
+5.1 :Come, trusty sword; : None
+5.1 :Come, blade, my breast imbrue: : None
+Stabs herself : ['None - []'] : THISBE
+5.1 :And, farewell, friends; : None
+5.1 :Thus Thisby ends: : None
+5.1 :Adieu, adieu, adieu. : None
+Dies : ['None - []'] : THISBE
+THESEUS
+5.1 :Moonshine and Lion are left to bury the dead. : None
+DEMETRIUS
+5.1 :Ay, and Wall too. : None
+BOTTOM
+5.1 :  No assure you; the wall is down that : Starting up : ['None - []'] : BOTTOM
+5.1 :parted their fathers. Will it please you to see the : None
+5.1 :epilogue, or to hear a Bergomask dance between two : None
+5.1 :of our company? : None
+THESEUS
+5.1 :No epilogue, I pray you; for your play needs no : None
+5.1 :excuse. Never excuse; for when the players are all : None
+5.1 :dead, there needs none to be blamed. Marry, if he : None
+5.1 :that writ it had played Pyramus and hanged himself : None
+5.1 :in Thisbe's garter, it would have been a fine : None
+5.1 :tragedy: and so it is, truly; and very notably : None
+5.1 :discharged. But come, your Bergomask: let your : None
+5.1 :epilogue alone. : None
+A dance : ['None - []'] : THESEUS
+5.1 :The iron tongue of midnight hath told twelve: : None
+5.1 :Lovers, to bed; 'tis almost fairy time. : None
+5.1 :I fear we shall out-sleep the coming morn : None
+5.1 :As much as we this night have overwatch'd. : None
+5.1 :This palpable-gross play hath well beguiled : None
+5.1 :The heavy gait of night. Sweet friends, to bed. : None
+5.1 :A fortnight hold we this solemnity, : None
+5.1 :In nightly revels and new jollity. : None
+Exeunt : ['Exeunt - []'] : THESEUS
+Enter PUCK : ["Enter - ['PUCK']"] : THESEUS
+PUCK
+5.1 :     Now the hungry lion roars, : None
+5.1 :And the wolf behowls the moon; : None
+5.1 :Whilst the heavy ploughman snores, : None
+5.1 :All with weary task fordone. : None
+5.1 :Now the wasted brands do glow, : None
+5.1 :Whilst the screech-owl, screeching loud, : None
+5.1 :Puts the wretch that lies in woe : None
+5.1 :In remembrance of a shroud. : None
+5.1 :Now it is the time of night : None
+5.1 :That the graves all gaping wide, : None
+5.1 :Every one lets forth his sprite, : None
+5.1 :In the church-way paths to glide: : None
+5.1 :And we fairies, that do run : None
+5.1 :By the triple Hecate's team, : None
+5.1 :From the presence of the sun, : None
+5.1 :Following darkness like a dream, : None
+5.1 :Now are frolic: not a mouse : None
+5.1 :Shall disturb this hallow'd house: : None
+5.1 :I am sent with broom before, : None
+5.1 :To sweep the dust behind the door. : None
+Enter OBERON and TITANIA with their train : ["Enter - ['OBERON', 'TITANIA']"] : PUCK
+OBERON
+5.1 :     Through the house give gathering light, : None
+5.1 :By the dead and drowsy fire: : None
+5.1 :Every elf and fairy sprite : None
+5.1 :Hop as light as bird from brier; : None
+5.1 :And this ditty, after me, : None
+5.1 :Sing, and dance it trippingly. : None
+TITANIA
+5.1 :First, rehearse your song by rote : None
+5.1 :To each word a warbling note: : None
+5.1 :Hand in hand, with fairy grace, : None
+5.1 :Will we sing, and bless this place. : None
+Song and dance : ['None - []'] : TITANIA
+OBERON
+5.1 :Now, until the break of day, : None
+5.1 :Through this house each fairy stray. : None
+5.1 :To the best bride-bed will we, : None
+5.1 :Which by us shall blessed be; : None
+5.1 :And the issue there create : None
+5.1 :Ever shall be fortunate. : None
+5.1 :So shall all the couples three : None
+5.1 :Ever true in loving be; : None
+5.1 :And the blots of Nature's hand : None
+5.1 :Shall not in their issue stand; : None
+5.1 :Never mole, hare lip, nor scar, : None
+5.1 :Nor mark prodigious, such as are : None
+5.1 :Despised in nativity, : None
+5.1 :Shall upon their children be. : None
+5.1 :With this field-dew consecrate, : None
+5.1 :Every fairy take his gait; : None
+5.1 :And each several chamber bless, : None
+5.1 :Through this palace, with sweet peace; : None
+5.1 :And the owner of it blest : None
+5.1 :Ever shall in safety rest. : None
+5.1 :Trip away; make no stay; : None
+5.1 :Meet me all by break of day. : None
+Exeunt OBERON, TITANIA, and train : ["Exeunt - ['OBERON', 'TITANIA']"] : OBERON
+PUCK
+5.1 :If we shadows have offended, : None
+5.1 :Think but this, and all is mended, : None
+5.1 :That you have but slumber'd here : None
+5.1 :While these visions did appear. : None
+5.1 :And this weak and idle theme, : None
+5.1 :No more yielding but a dream, : None
+5.1 :Gentles, do not reprehend: : None
+5.1 :if you pardon, we will mend: : None
+5.1 :And, as I am an honest Puck, : None
+5.1 :If we have unearned luck : None
+5.1 :Now to 'scape the serpent's tongue, : None
+5.1 :We will make amends ere long; : None
+5.1 :Else the Puck a liar call; : None
+5.1 :So, good night unto you all. : None
+5.1 :Give me your hands, if we be friends, : None
+5.1 :And Robin shall restore amends. : None

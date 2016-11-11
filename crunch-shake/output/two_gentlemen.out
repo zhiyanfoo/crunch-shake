@@ -1,0 +1,3214 @@
+Act(act=1)
+Scene(scene=1)
+Enter VALENTINE and PROTEUS : ["Enter - ['VALENTINE', 'PROTEUS']"] : None
+VALENTINE
+1.1 :Cease to persuade, my loving Proteus: : None
+1.1 :Home-keeping youth have ever homely wits. : None
+1.1 :Were't not affection chains thy tender days : None
+1.1 :To the sweet glances of thy honour'd love, : None
+1.1 :I rather would entreat thy company : None
+1.1 :To see the wonders of the world abroad, : None
+1.1 :Than, living dully sluggardized at home, : None
+1.1 :Wear out thy youth with shapeless idleness. : None
+1.1 :But since thou lovest, love still and thrive therein, : None
+1.1 :Even as I would when I to love begin. : None
+PROTEUS
+1.1 :Wilt thou be gone? Sweet Valentine, adieu! : None
+1.1 :Think on thy Proteus, when thou haply seest : None
+1.1 :Some rare note-worthy object in thy travel: : None
+1.1 :Wish me partaker in thy happiness : None
+1.1 :When thou dost meet good hap; and in thy danger, : None
+1.1 :If ever danger do environ thee, : None
+1.1 :Commend thy grievance to my holy prayers, : None
+1.1 :For I will be thy beadsman, Valentine. : None
+VALENTINE
+1.1 :And on a love-book pray for my success? : None
+PROTEUS
+1.1 :Upon some book I love I'll pray for thee. : None
+VALENTINE
+1.1 :That's on some shallow story of deep love: : None
+1.1 :How young Leander cross'd the Hellespont. : None
+PROTEUS
+1.1 :That's a deep story of a deeper love: : None
+1.1 :For he was more than over shoes in love. : None
+VALENTINE
+1.1 :'Tis true; for you are over boots in love, : None
+1.1 :And yet you never swum the Hellespont. : None
+PROTEUS
+1.1 :Over the boots? nay, give me not the boots. : None
+VALENTINE
+1.1 :No, I will not, for it boots thee not. : None
+PROTEUS
+1.1 :What? : None
+VALENTINE
+1.1 :To be in love, where scorn is bought with groans; : None
+1.1 :Coy looks with heart-sore sighs; one fading moment's mirth : None
+1.1 :With twenty watchful, weary, tedious nights: : None
+1.1 :If haply won, perhaps a hapless gain; : None
+1.1 :If lost, why then a grievous labour won; : None
+1.1 :However, but a folly bought with wit, : None
+1.1 :Or else a wit by folly vanquished. : None
+PROTEUS
+1.1 :So, by your circumstance, you call me fool. : None
+VALENTINE
+1.1 :So, by your circumstance, I fear you'll prove. : None
+PROTEUS
+1.1 :'Tis love you cavil at: I am not Love. : None
+VALENTINE
+1.1 :Love is your master, for he masters you: : None
+1.1 :And he that is so yoked by a fool, : None
+1.1 :Methinks, should not be chronicled for wise. : None
+PROTEUS
+1.1 :Yet writers say, as in the sweetest bud : None
+1.1 :The eating canker dwells, so eating love : None
+1.1 :Inhabits in the finest wits of all. : None
+VALENTINE
+1.1 :And writers say, as the most forward bud : None
+1.1 :Is eaten by the canker ere it blow, : None
+1.1 :Even so by love the young and tender wit : None
+1.1 :Is turn'd to folly, blasting in the bud, : None
+1.1 :Losing his verdure even in the prime : None
+1.1 :And all the fair effects of future hopes. : None
+1.1 :But wherefore waste I time to counsel thee, : None
+1.1 :That art a votary to fond desire? : None
+1.1 :Once more adieu! my father at the road : None
+1.1 :Expects my coming, there to see me shipp'd. : None
+PROTEUS
+1.1 :And thither will I bring thee, Valentine. : None
+VALENTINE
+1.1 :Sweet Proteus, no; now let us take our leave. : None
+1.1 :To Milan let me hear from thee by letters : None
+1.1 :Of thy success in love, and what news else : None
+1.1 :Betideth here in absence of thy friend; : None
+1.1 :And likewise will visit thee with mine. : None
+PROTEUS
+1.1 :All happiness bechance to thee in Milan! : None
+VALENTINE
+1.1 :As much to you at home! and so, farewell. : None
+Exit : ['Exit - []'] : VALENTINE
+PROTEUS
+1.1 :He after honour hunts, I after love: : None
+1.1 :He leaves his friends to dignify them more, : None
+1.1 :I leave myself, my friends and all, for love. : None
+1.1 :Thou, Julia, thou hast metamorphosed me, : None
+1.1 :Made me neglect my studies, lose my time, : None
+1.1 :War with good counsel, set the world at nought; : None
+1.1 :Made wit with musing weak, heart sick with thought. : None
+Enter SPEED : ["Enter - ['SPEED']"] : PROTEUS
+SPEED
+1.1 :Sir Proteus, save you! Saw you my master? : None
+PROTEUS
+1.1 :But now he parted hence, to embark for Milan. : None
+SPEED
+1.1 :Twenty to one then he is shipp'd already, : None
+1.1 :And I have play'd the sheep in losing him. : None
+PROTEUS
+1.1 :Indeed, a sheep doth very often stray, : None
+1.1 :An if the shepherd be a while away. : None
+SPEED
+1.1 :You conclude that my master is a shepherd, then, : None
+1.1 :and I a sheep? : None
+PROTEUS
+1.1 :I do. : None
+SPEED
+1.1 :Why then, my horns are his horns, whether I wake or sleep. : None
+PROTEUS
+1.1 :A silly answer and fitting well a sheep. : None
+SPEED
+1.1 :This proves me still a sheep. : None
+PROTEUS
+1.1 :True; and thy master a shepherd. : None
+SPEED
+1.1 :Nay, that I can deny by a circumstance. : None
+PROTEUS
+1.1 :It shall go hard but I'll prove it by another. : None
+SPEED
+1.1 :The shepherd seeks the sheep, and not the sheep the : None
+1.1 :shepherd; but I seek my master, and my master seeks : None
+1.1 :not me: therefore I am no sheep. : None
+PROTEUS
+1.1 :The sheep for fodder follow the shepherd; the : None
+1.1 :shepherd for food follows not the sheep: thou for : None
+1.1 :wages followest thy master; thy master for wages : None
+1.1 :follows not thee: therefore thou art a sheep. : None
+SPEED
+1.1 :Such another proof will make me cry 'baa.' : None
+PROTEUS
+1.1 :But, dost thou hear? gavest thou my letter to Julia? : None
+SPEED
+1.1 :Ay sir: I, a lost mutton, gave your letter to her, : None
+1.1 :a laced mutton, and she, a laced mutton, gave me, a : None
+1.1 :lost mutton, nothing for my labour. : None
+PROTEUS
+1.1 :Here's too small a pasture for such store of muttons. : None
+SPEED
+1.1 :If the ground be overcharged, you were best stick her. : None
+PROTEUS
+1.1 :Nay: in that you are astray, 'twere best pound you. : None
+SPEED
+1.1 :Nay, sir, less than a pound shall serve me for : None
+1.1 :carrying your letter. : None
+PROTEUS
+1.1 :You mistake; I mean the pound,--a pinfold. : None
+SPEED
+1.1 :From a pound to a pin? fold it over and over, : None
+1.1 :'Tis threefold too little for carrying a letter to : None
+1.1 :your lover. : None
+PROTEUS
+1.1 :But what said she? : None
+SPEED
+1.1 :  Ay. : First nodding : ['None - []'] : SPEED
+PROTEUS
+1.1 :Nod--Ay--why, that's noddy. : None
+SPEED
+1.1 :You mistook, sir; I say, she did nod: and you ask : None
+1.1 :me if she did nod; and I say, 'Ay.' : None
+PROTEUS
+1.1 :And that set together is noddy. : None
+SPEED
+1.1 :Now you have taken the pains to set it together, : None
+1.1 :take it for your pains. : None
+PROTEUS
+1.1 :No, no; you shall have it for bearing the letter. : None
+SPEED
+1.1 :Well, I perceive I must be fain to bear with you. : None
+PROTEUS
+1.1 :Why sir, how do you bear with me? : None
+SPEED
+1.1 :Marry, sir, the letter, very orderly; having nothing : None
+1.1 :but the word 'noddy' for my pains. : None
+PROTEUS
+1.1 :Beshrew me, but you have a quick wit. : None
+SPEED
+1.1 :And yet it cannot overtake your slow purse. : None
+PROTEUS
+1.1 :Come come, open the matter in brief: what said she? : None
+SPEED
+1.1 :Open your purse, that the money and the matter may : None
+1.1 :be both at once delivered. : None
+PROTEUS
+1.1 :Well, sir, here is for your pains. What said she? : None
+SPEED
+1.1 :Truly, sir, I think you'll hardly win her. : None
+PROTEUS
+1.1 :Why, couldst thou perceive so much from her? : None
+SPEED
+1.1 :Sir, I could perceive nothing at all from her; no, : None
+1.1 :not so much as a ducat for delivering your letter: : None
+1.1 :and being so hard to me that brought your mind, I : None
+1.1 :fear she'll prove as hard to you in telling your : None
+1.1 :mind. Give her no token but stones; for she's as : None
+1.1 :hard as steel. : None
+PROTEUS
+1.1 :What said she? nothing? : None
+SPEED
+1.1 :No, not so much as 'Take this for thy pains.' To : None
+1.1 :testify your bounty, I thank you, you have testerned : None
+1.1 :me; in requital whereof, henceforth carry your : None
+1.1 :letters yourself: and so, sir, I'll commend you to my master. : None
+PROTEUS
+1.1 :Go, go, be gone, to save your ship from wreck, : None
+1.1 :Which cannot perish having thee aboard, : None
+1.1 :Being destined to a drier death on shore. : None
+Exit SPEED : ["Exit - ['SPEED']"] : PROTEUS
+1.1 :I must go send some better messenger: : None
+1.1 :I fear my Julia would not deign my lines, : None
+1.1 :Receiving them from such a worthless post. : None
+Exit : ['Exit - []'] : PROTEUS
+Scene(scene=2)
+Enter JULlA and LUCETTA : ["Enter - ['LUCETTA']"] : PROTEUS
+JULIA
+1.2 :But say, Lucetta, now we are alone, : None
+1.2 :Wouldst thou then counsel me to fall in love? : None
+LUCETTA
+1.2 :Ay, madam, so you stumble not unheedfully. : None
+JULIA
+1.2 :Of all the fair resort of gentlemen : None
+1.2 :That every day with parle encounter me, : None
+1.2 :In thy opinion which is worthiest love? : None
+LUCETTA
+1.2 :Please you repeat their names, I'll show my mind : None
+1.2 :According to my shallow simple skill. : None
+JULIA
+1.2 :What think'st thou of the fair Sir Eglamour? : None
+LUCETTA
+1.2 :As of a knight well-spoken, neat and fine; : None
+1.2 :But, were I you, he never should be mine. : None
+JULIA
+1.2 :What think'st thou of the rich Mercatio? : None
+LUCETTA
+1.2 :Well of his wealth; but of himself, so so. : None
+JULIA
+1.2 :What think'st thou of the gentle Proteus? : None
+LUCETTA
+1.2 :Lord, Lord! to see what folly reigns in us! : None
+JULIA
+1.2 :How now! what means this passion at his name? : None
+LUCETTA
+1.2 :Pardon, dear madam: 'tis a passing shame : None
+1.2 :That I, unworthy body as I am, : None
+1.2 :Should censure thus on lovely gentlemen. : None
+JULIA
+1.2 :Why not on Proteus, as of all the rest? : None
+LUCETTA
+1.2 :Then thus: of many good I think him best. : None
+JULIA
+1.2 :Your reason? : None
+LUCETTA
+1.2 :I have no other, but a woman's reason; : None
+1.2 :I think him so because I think him so. : None
+JULIA
+1.2 :And wouldst thou have me cast my love on him? : None
+LUCETTA
+1.2 :Ay, if you thought your love not cast away. : None
+JULIA
+1.2 :Why he, of all the rest, hath never moved me. : None
+LUCETTA
+1.2 :Yet he, of all the rest, I think, best loves ye. : None
+JULIA
+1.2 :His little speaking shows his love but small. : None
+LUCETTA
+1.2 :Fire that's closest kept burns most of all. : None
+JULIA
+1.2 :They do not love that do not show their love. : None
+LUCETTA
+1.2 :O, they love least that let men know their love. : None
+JULIA
+1.2 :I would I knew his mind. : None
+LUCETTA
+1.2 :Peruse this paper, madam. : None
+JULIA
+1.2 :'To Julia.' Say, from whom? : None
+LUCETTA
+1.2 :That the contents will show. : None
+JULIA
+1.2 :Say, say, who gave it thee? : None
+LUCETTA
+1.2 :Valentine's page; and sent, I think, from Proteus. : None
+1.2 :He would have given it you; but I, being in the way, : None
+1.2 :Did in your name receive it: pardon the : None
+1.2 :fault I pray. : None
+JULIA
+1.2 :Now, by my modesty, a goodly broker! : None
+1.2 :Dare you presume to harbour wanton lines? : None
+1.2 :To whisper and conspire against my youth? : None
+1.2 :Now, trust me, 'tis an office of great worth : None
+1.2 :And you an officer fit for the place. : None
+1.2 :Or else return no more into my sight. : None
+LUCETTA
+1.2 :To plead for love deserves more fee than hate. : None
+JULIA
+1.2 :Will ye be gone? : None
+LUCETTA
+1.2 :                  That you may ruminate. : None
+Exit : ['Exit - []'] : LUCETTA
+JULIA
+1.2 :And yet I would I had o'erlooked the letter: : None
+1.2 :It were a shame to call her back again : None
+1.2 :And pray her to a fault for which I chid her. : None
+1.2 :What a fool is she, that knows I am a maid, : None
+1.2 :And would not force the letter to my view! : None
+1.2 :Since maids, in modesty, say 'no' to that : None
+1.2 :Which they would have the profferer construe 'ay.' : None
+1.2 :Fie, fie, how wayward is this foolish love : None
+1.2 :That, like a testy babe, will scratch the nurse : None
+1.2 :And presently all humbled kiss the rod! : None
+1.2 :How churlishly I chid Lucetta hence, : None
+1.2 :When willingly I would have had her here! : None
+1.2 :How angerly I taught my brow to frown, : None
+1.2 :When inward joy enforced my heart to smile! : None
+1.2 :My penance is to call Lucetta back : None
+1.2 :And ask remission for my folly past. : None
+1.2 :What ho! Lucetta! : None
+Re-enter LUCETTA : ["Re-enter - ['LUCETTA']"] : JULIA
+LUCETTA
+1.2 :                  What would your ladyship? : None
+JULIA
+1.2 :Is't near dinner-time? : None
+LUCETTA
+1.2 :I would it were, : None
+1.2 :That you might kill your stomach on your meat : None
+1.2 :And not upon your maid. : None
+JULIA
+1.2 :What is't that you took up so gingerly? : None
+LUCETTA
+1.2 :Nothing. : None
+JULIA
+1.2 :Why didst thou stoop, then? : None
+LUCETTA
+1.2 :To take a paper up that I let fall. : None
+JULIA
+1.2 :And is that paper nothing? : None
+LUCETTA
+1.2 :Nothing concerning me. : None
+JULIA
+1.2 :Then let it lie for those that it concerns. : None
+LUCETTA
+1.2 :Madam, it will not lie where it concerns : None
+1.2 :Unless it have a false interpeter. : None
+JULIA
+1.2 :Some love of yours hath writ to you in rhyme. : None
+LUCETTA
+1.2 :That I might sing it, madam, to a tune. : None
+1.2 :Give me a note: your ladyship can set. : None
+JULIA
+1.2 :As little by such toys as may be possible. : None
+1.2 :Best sing it to the tune of 'Light o' love.' : None
+LUCETTA
+1.2 :It is too heavy for so light a tune. : None
+JULIA
+1.2 :Heavy! belike it hath some burden then? : None
+LUCETTA
+1.2 :Ay, and melodious were it, would you sing it. : None
+JULIA
+1.2 :And why not you? : None
+LUCETTA
+1.2 :                  I cannot reach so high. : None
+JULIA
+1.2 :Let's see your song. How now, minion! : None
+LUCETTA
+1.2 :Keep tune there still, so you will sing it out: : None
+1.2 :And yet methinks I do not like this tune. : None
+JULIA
+1.2 :You do not? : None
+LUCETTA
+1.2 :          No, madam; it is too sharp. : None
+JULIA
+1.2 :You, minion, are too saucy. : None
+LUCETTA
+1.2 :Nay, now you are too flat : None
+1.2 :And mar the concord with too harsh a descant: : None
+1.2 :There wanteth but a mean to fill your song. : None
+JULIA
+1.2 :The mean is drown'd with your unruly bass. : None
+LUCETTA
+1.2 :Indeed, I bid the base for Proteus. : None
+JULIA
+1.2 :This babble shall not henceforth trouble me. : None
+1.2 :Here is a coil with protestation! : None
+Tears the letter : ['None - []'] : JULIA
+1.2 :Go get you gone, and let the papers lie: : None
+1.2 :You would be fingering them, to anger me. : None
+LUCETTA
+1.2 :She makes it strange; but she would be best pleased : None
+1.2 :To be so anger'd with another letter. : None
+Exit : ['Exit - []'] : LUCETTA
+JULIA
+1.2 : Nay, would I were so anger'd with the same! : None
+1.2 :O hateful hands, to tear such loving words! : None
+1.2 :Injurious wasps, to feed on such sweet honey : None
+1.2 :And kill the bees that yield it with your stings! : None
+1.2 :I'll kiss each several paper for amends. : None
+1.2 :Look, here is writ 'kind Julia.' Unkind Julia! : None
+1.2 :As in revenge of thy ingratitude, : None
+1.2 :I throw thy name against the bruising stones, : None
+1.2 :Trampling contemptuously on thy disdain. : None
+1.2 :And here is writ 'love-wounded Proteus.' : None
+1.2 :Poor wounded name! my bosom as a bed : None
+1.2 :Shall lodge thee till thy wound be thoroughly heal'd; : None
+1.2 :And thus I search it with a sovereign kiss. : None
+1.2 :But twice or thrice was 'Proteus' written down. : None
+1.2 :Be calm, good wind, blow not a word away : None
+1.2 :Till I have found each letter in the letter, : None
+1.2 :Except mine own name: that some whirlwind bear : None
+1.2 :Unto a ragged fearful-hanging rock : None
+1.2 :And throw it thence into the raging sea! : None
+1.2 :Lo, here in one line is his name twice writ, : None
+1.2 :'Poor forlorn Proteus, passionate Proteus, : None
+1.2 :To the sweet Julia:' that I'll tear away. : None
+1.2 :And yet I will not, sith so prettily : None
+1.2 :He couples it to his complaining names. : None
+1.2 :Thus will I fold them one on another: : None
+1.2 :Now kiss, embrace, contend, do what you will. : None
+Re-enter LUCETTA : ["Re-enter - ['LUCETTA']"] : JULIA
+LUCETTA
+1.2 :Madam, : None
+1.2 :Dinner is ready, and your father stays. : None
+JULIA
+1.2 :Well, let us go. : None
+LUCETTA
+1.2 :What, shall these papers lie like tell-tales here? : None
+JULIA
+1.2 :If you respect them, best to take them up. : None
+LUCETTA
+1.2 :Nay, I was taken up for laying them down: : None
+1.2 :Yet here they shall not lie, for catching cold. : None
+JULIA
+1.2 :I see you have a month's mind to them. : None
+LUCETTA
+1.2 :Ay, madam, you may say what sights you see; : None
+1.2 :I see things too, although you judge I wink. : None
+JULIA
+1.2 :Come, come; will't please you go? : None
+Exeunt : ['Exeunt - []'] : JULIA
+Scene(scene=3)
+Enter ANTONIO and PANTHINO : ["Enter - ['ANTONIO', 'PANTHINO']"] : JULIA
+ANTONIO
+1.3 :Tell me, Panthino, what sad talk was that : None
+1.3 :Wherewith my brother held you in the cloister? : None
+PANTHINO
+1.3 :'Twas of his nephew Proteus, your son. : None
+ANTONIO
+1.3 :Why, what of him? : None
+PANTHINO
+1.3 :                  He wonder'd that your lordship : None
+1.3 :Would suffer him to spend his youth at home, : None
+1.3 :While other men, of slender reputation, : None
+1.3 :Put forth their sons to seek preferment out: : None
+1.3 :Some to the wars, to try their fortune there; : None
+1.3 :Some to discover islands far away; : None
+1.3 :Some to the studious universities. : None
+1.3 :For any or for all these exercises, : None
+1.3 :He said that Proteus your son was meet, : None
+1.3 :And did request me to importune you : None
+1.3 :To let him spend his time no more at home, : None
+1.3 :Which would be great impeachment to his age, : None
+1.3 :In having known no travel in his youth. : None
+ANTONIO
+1.3 :Nor need'st thou much importune me to that : None
+1.3 :Whereon this month I have been hammering. : None
+1.3 :I have consider'd well his loss of time : None
+1.3 :And how he cannot be a perfect man, : None
+1.3 :Not being tried and tutor'd in the world: : None
+1.3 :Experience is by industry achieved : None
+1.3 :And perfected by the swift course of time. : None
+1.3 :Then tell me, whither were I best to send him? : None
+PANTHINO
+1.3 :I think your lordship is not ignorant : None
+1.3 :How his companion, youthful Valentine, : None
+1.3 :Attends the emperor in his royal court. : None
+ANTONIO
+1.3 :I know it well. : None
+PANTHINO
+1.3 :'Twere good, I think, your lordship sent him thither: : None
+1.3 :There shall he practise tilts and tournaments, : None
+1.3 :Hear sweet discourse, converse with noblemen. : None
+1.3 :And be in eye of every exercise : None
+1.3 :Worthy his youth and nobleness of birth. : None
+ANTONIO
+1.3 :I like thy counsel; well hast thou advised: : None
+1.3 :And that thou mayst perceive how well I like it, : None
+1.3 :The execution of it shall make known. : None
+1.3 :Even with the speediest expedition : None
+1.3 :I will dispatch him to the emperor's court. : None
+PANTHINO
+1.3 :To-morrow, may it please you, Don Alphonso, : None
+1.3 :With other gentlemen of good esteem, : None
+1.3 :Are journeying to salute the emperor : None
+1.3 :And to commend their service to his will. : None
+ANTONIO
+1.3 :Good company; with them shall Proteus go: : None
+1.3 :And, in good time! now will we break with him. : None
+Enter PROTEUS : ["Enter - ['PROTEUS']"] : ANTONIO
+PROTEUS
+1.3 :Sweet love! sweet lines! sweet life! : None
+1.3 :Here is her hand, the agent of her heart; : None
+1.3 :Here is her oath for love, her honour's pawn. : None
+1.3 :O, that our fathers would applaud our loves, : None
+1.3 :To seal our happiness with their consents! : None
+1.3 :O heavenly Julia! : None
+ANTONIO
+1.3 :How now! what letter are you reading there? : None
+PROTEUS
+1.3 :May't please your lordship, 'tis a word or two : None
+1.3 :Of commendations sent from Valentine, : None
+1.3 :Deliver'd by a friend that came from him. : None
+ANTONIO
+1.3 :Lend me the letter; let me see what news. : None
+PROTEUS
+1.3 :There is no news, my lord, but that he writes : None
+1.3 :How happily he lives, how well beloved : None
+1.3 :And daily graced by the emperor; : None
+1.3 :Wishing me with him, partner of his fortune. : None
+ANTONIO
+1.3 :And how stand you affected to his wish? : None
+PROTEUS
+1.3 :As one relying on your lordship's will : None
+1.3 :And not depending on his friendly wish. : None
+ANTONIO
+1.3 :My will is something sorted with his wish. : None
+1.3 :Muse not that I thus suddenly proceed; : None
+1.3 :For what I will, I will, and there an end. : None
+1.3 :I am resolved that thou shalt spend some time : None
+1.3 :With Valentinus in the emperor's court: : None
+1.3 :What maintenance he from his friends receives, : None
+1.3 :Like exhibition thou shalt have from me. : None
+1.3 :To-morrow be in readiness to go: : None
+1.3 :Excuse it not, for I am peremptory. : None
+PROTEUS
+1.3 :My lord, I cannot be so soon provided: : None
+1.3 :Please you, deliberate a day or two. : None
+ANTONIO
+1.3 :Look, what thou want'st shall be sent after thee: : None
+1.3 :No more of stay! to-morrow thou must go. : None
+1.3 :Come on, Panthino: you shall be employ'd : None
+1.3 :To hasten on his expedition. : None
+Exeunt ANTONIO and PANTHINO : ["Exeunt - ['ANTONIO', 'PANTHINO']"] : ANTONIO
+PROTEUS
+1.3 :Thus have I shunn'd the fire for fear of burning, : None
+1.3 :And drench'd me in the sea, where I am drown'd. : None
+1.3 :I fear'd to show my father Julia's letter, : None
+1.3 :Lest he should take exceptions to my love; : None
+1.3 :And with the vantage of mine own excuse : None
+1.3 :Hath he excepted most against my love. : None
+1.3 :O, how this spring of love resembleth : None
+1.3 :The uncertain glory of an April day, : None
+1.3 :Which now shows all the beauty of the sun, : None
+1.3 :And by and by a cloud takes all away! : None
+Re-enter PANTHINO : ["Re-enter - ['PANTHINO']"] : PROTEUS
+PANTHINO
+1.3 :Sir Proteus, your father calls for you: : None
+1.3 :He is in haste; therefore, I pray you to go. : None
+PROTEUS
+1.3 :Why, this it is: my heart accords thereto, : None
+1.3 :And yet a thousand times it answers 'no.' : None
+Exeunt : ['Exeunt - []'] : PROTEUS
+Act(act=2)
+Scene(scene=1)
+Enter VALENTINE and SPEED : ["Enter - ['VALENTINE', 'SPEED']"] : PROTEUS
+SPEED
+2.1 :Sir, your glove. : None
+VALENTINE
+2.1 :                  Not mine; my gloves are on. : None
+SPEED
+2.1 :Why, then, this may be yours, for this is but one. : None
+VALENTINE
+2.1 :Ha! let me see: ay, give it me, it's mine: : None
+2.1 :Sweet ornament that decks a thing divine! : None
+2.1 :Ah, Silvia, Silvia! : None
+SPEED
+2.1 :Madam Silvia! Madam Silvia! : None
+VALENTINE
+2.1 :How now, sirrah? : None
+SPEED
+2.1 :She is not within hearing, sir. : None
+VALENTINE
+2.1 :Why, sir, who bade you call her? : None
+SPEED
+2.1 :Your worship, sir; or else I mistook. : None
+VALENTINE
+2.1 :Well, you'll still be too forward. : None
+SPEED
+2.1 :And yet I was last chidden for being too slow. : None
+VALENTINE
+2.1 :Go to, sir: tell me, do you know Madam Silvia? : None
+SPEED
+2.1 :She that your worship loves? : None
+VALENTINE
+2.1 :Why, how know you that I am in love? : None
+SPEED
+2.1 :Marry, by these special marks: first, you have : None
+2.1 :learned, like Sir Proteus, to wreathe your arms, : None
+2.1 :like a malecontent; to relish a love-song, like a : None
+2.1 :robin-redbreast; to walk alone, like one that had : None
+2.1 :the pestilence; to sigh, like a school-boy that had : None
+2.1 :lost his A B C; to weep, like a young wench that had : None
+2.1 :buried her grandam; to fast, like one that takes : None
+2.1 :diet; to watch like one that fears robbing; to : None
+2.1 :speak puling, like a beggar at Hallowmas. You were : None
+2.1 :wont, when you laughed, to crow like a cock; when you : None
+2.1 :walked, to walk like one of the lions; when you : None
+2.1 :fasted, it was presently after dinner; when you : None
+2.1 :looked sadly, it was for want of money: and now you : None
+2.1 :are metamorphosed with a mistress, that, when I look : None
+2.1 :on you, I can hardly think you my master. : None
+VALENTINE
+2.1 :Are all these things perceived in me? : None
+SPEED
+2.1 :They are all perceived without ye. : None
+VALENTINE
+2.1 :Without me? they cannot. : None
+SPEED
+2.1 :Without you? nay, that's certain, for, without you : None
+2.1 :were so simple, none else would: but you are so : None
+2.1 :without these follies, that these follies are within : None
+2.1 :you and shine through you like the water in an : None
+2.1 :urinal, that not an eye that sees you but is a : None
+2.1 :physician to comment on your malady. : None
+VALENTINE
+2.1 :But tell me, dost thou know my lady Silvia? : None
+SPEED
+2.1 :She that you gaze on so as she sits at supper? : None
+VALENTINE
+2.1 :Hast thou observed that? even she, I mean. : None
+SPEED
+2.1 :Why, sir, I know her not. : None
+VALENTINE
+2.1 :Dost thou know her by my gazing on her, and yet : None
+2.1 :knowest her not? : None
+SPEED
+2.1 :Is she not hard-favoured, sir? : None
+VALENTINE
+2.1 :Not so fair, boy, as well-favoured. : None
+SPEED
+2.1 :Sir, I know that well enough. : None
+VALENTINE
+2.1 :What dost thou know? : None
+SPEED
+2.1 :That she is not so fair as, of you, well-favoured. : None
+VALENTINE
+2.1 :I mean that her beauty is exquisite, but her favour infinite. : None
+SPEED
+2.1 :That's because the one is painted and the other out : None
+2.1 :of all count. : None
+VALENTINE
+2.1 :How painted? and how out of count? : None
+SPEED
+2.1 :Marry, sir, so painted, to make her fair, that no : None
+2.1 :man counts of her beauty. : None
+VALENTINE
+2.1 :How esteemest thou me? I account of her beauty. : None
+SPEED
+2.1 :You never saw her since she was deformed. : None
+VALENTINE
+2.1 :How long hath she been deformed? : None
+SPEED
+2.1 :Ever since you loved her. : None
+VALENTINE
+2.1 :I have loved her ever since I saw her; and still I : None
+2.1 :see her beautiful. : None
+SPEED
+2.1 :If you love her, you cannot see her. : None
+VALENTINE
+2.1 :Why? : None
+SPEED
+2.1 :Because Love is blind. O, that you had mine eyes; : None
+2.1 :or your own eyes had the lights they were wont to : None
+2.1 :have when you chid at Sir Proteus for going : None
+2.1 :ungartered! : None
+VALENTINE
+2.1 :What should I see then? : None
+SPEED
+2.1 :Your own present folly and her passing deformity: : None
+2.1 :for he, being in love, could not see to garter his : None
+2.1 :hose, and you, being in love, cannot see to put on your hose. : None
+VALENTINE
+2.1 :Belike, boy, then, you are in love; for last : None
+2.1 :morning you could not see to wipe my shoes. : None
+SPEED
+2.1 :True, sir; I was in love with my bed: I thank you, : None
+2.1 :you swinged me for my love, which makes me the : None
+2.1 :bolder to chide you for yours. : None
+VALENTINE
+2.1 :In conclusion, I stand affected to her. : None
+SPEED
+2.1 :I would you were set, so your affection would cease. : None
+VALENTINE
+2.1 :Last night she enjoined me to write some lines to : None
+2.1 :one she loves. : None
+SPEED
+2.1 :And have you? : None
+VALENTINE
+2.1 :I have. : None
+SPEED
+2.1 :Are they not lamely writ? : None
+VALENTINE
+2.1 :No, boy, but as well as I can do them. Peace! : None
+2.1 :here she comes. : None
+SPEED
+2.1 :  O excellent motion! O exceeding puppet! : Aside : ['Aside - []'] : SPEED
+2.1 :Now will he interpret to her. : None
+Enter SILVIA : ["Enter - ['SILVIA']"] : SPEED
+VALENTINE
+2.1 :Madam and mistress, a thousand good-morrows. : None
+SPEED
+2.1 :  O, give ye good even! here's a million of manners. : Aside : ['Aside - []'] : SPEED
+SILVIA
+2.1 :Sir Valentine and servant, to you two thousand. : None
+SPEED
+2.1 :  He should give her interest and she gives it him. : Aside : ['Aside - []'] : SPEED
+VALENTINE
+2.1 :As you enjoin'd me, I have writ your letter : None
+2.1 :Unto the secret nameless friend of yours; : None
+2.1 :Which I was much unwilling to proceed in : None
+2.1 :But for my duty to your ladyship. : None
+SILVIA
+2.1 :I thank you gentle servant: 'tis very clerkly done. : None
+VALENTINE
+2.1 :Now trust me, madam, it came hardly off; : None
+2.1 :For being ignorant to whom it goes : None
+2.1 :I writ at random, very doubtfully. : None
+SILVIA
+2.1 :Perchance you think too much of so much pains? : None
+VALENTINE
+2.1 :No, madam; so it stead you, I will write : None
+2.1 :Please you command, a thousand times as much; And yet-- : None
+SILVIA
+2.1 :A pretty period! Well, I guess the sequel; : None
+2.1 :And yet I will not name it; and yet I care not; : None
+2.1 :And yet take this again; and yet I thank you, : None
+2.1 :Meaning henceforth to trouble you no more. : None
+SPEED
+2.1 :  And yet you will; and yet another 'yet.' : Aside : ['Aside - []'] : SPEED
+VALENTINE
+2.1 :What means your ladyship? do you not like it? : None
+SILVIA
+2.1 :Yes, yes; the lines are very quaintly writ; : None
+2.1 :But since unwillingly, take them again. : None
+2.1 :Nay, take them. : None
+VALENTINE
+2.1 :Madam, they are for you. : None
+SILVIA
+2.1 :Ay, ay: you writ them, sir, at my request; : None
+2.1 :But I will none of them; they are for you; : None
+2.1 :I would have had them writ more movingly. : None
+VALENTINE
+2.1 :Please you, I'll write your ladyship another. : None
+SILVIA
+2.1 :And when it's writ, for my sake read it over, : None
+2.1 :And if it please you, so; if not, why, so. : None
+VALENTINE
+2.1 :If it please me, madam, what then? : None
+SILVIA
+2.1 :Why, if it please you, take it for your labour: : None
+2.1 :And so, good morrow, servant. : None
+Exit : ['Exit - []'] : SILVIA
+SPEED
+2.1 :O jest unseen, inscrutable, invisible, : None
+2.1 :As a nose on a man's face, or a weathercock on a steeple! : None
+2.1 :My master sues to her, and she hath : None
+2.1 :taught her suitor, : None
+2.1 :He being her pupil, to become her tutor. : None
+2.1 :O excellent device! was there ever heard a better, : None
+2.1 :That my master, being scribe, to himself should write : None
+2.1 :the letter? : None
+VALENTINE
+2.1 :How now, sir? what are you reasoning with yourself? : None
+SPEED
+2.1 :Nay, I was rhyming: 'tis you that have the reason. : None
+VALENTINE
+2.1 :To do what? : None
+SPEED
+2.1 :To be a spokesman for Madam Silvia. : None
+VALENTINE
+2.1 :To whom? : None
+SPEED
+2.1 :To yourself: why, she wooes you by a figure. : None
+VALENTINE
+2.1 :What figure? : None
+SPEED
+2.1 :By a letter, I should say. : None
+VALENTINE
+2.1 :Why, she hath not writ to me? : None
+SPEED
+2.1 :What need she, when she hath made you write to : None
+2.1 :yourself? Why, do you not perceive the jest? : None
+VALENTINE
+2.1 :No, believe me. : None
+SPEED
+2.1 :No believing you, indeed, sir. But did you perceive : None
+2.1 :her earnest? : None
+VALENTINE
+2.1 :She gave me none, except an angry word. : None
+SPEED
+2.1 :Why, she hath given you a letter. : None
+VALENTINE
+2.1 :That's the letter I writ to her friend. : None
+SPEED
+2.1 :And that letter hath she delivered, and there an end. : None
+VALENTINE
+2.1 :I would it were no worse. : None
+SPEED
+2.1 :I'll warrant you, 'tis as well: : None
+2.1 :For often have you writ to her, and she, in modesty, : None
+2.1 :Or else for want of idle time, could not again reply; : None
+2.1 :Or fearing else some messenger that might her mind discover, : None
+2.1 :Herself hath taught her love himself to write unto her lover. : None
+2.1 :All this I speak in print, for in print I found it. : None
+2.1 :Why muse you, sir? 'tis dinner-time. : None
+VALENTINE
+2.1 :I have dined. : None
+SPEED
+2.1 :Ay, but hearken, sir; though the chameleon Love can : None
+2.1 :feed on the air, I am one that am nourished by my : None
+2.1 :victuals, and would fain have meat. O, be not like : None
+2.1 :your mistress; be moved, be moved. : None
+Exeunt : ['Exeunt - []'] : SPEED
+Scene(scene=2)
+Enter PROTEUS and JULIA : ["Enter - ['PROTEUS', 'JULIA']"] : SPEED
+PROTEUS
+2.2 :Have patience, gentle Julia. : None
+JULIA
+2.2 :I must, where is no remedy. : None
+PROTEUS
+2.2 :When possibly I can, I will return. : None
+JULIA
+2.2 :If you turn not, you will return the sooner. : None
+2.2 :Keep this remembrance for thy Julia's sake. : None
+Giving a ring : ['None - []'] : JULIA
+PROTEUS
+2.2 :Why then, we'll make exchange; here, take you this. : None
+JULIA
+2.2 :And seal the bargain with a holy kiss. : None
+PROTEUS
+2.2 :Here is my hand for my true constancy; : None
+2.2 :And when that hour o'erslips me in the day : None
+2.2 :Wherein I sigh not, Julia, for thy sake, : None
+2.2 :The next ensuing hour some foul mischance : None
+2.2 :Torment me for my love's forgetfulness! : None
+2.2 :My father stays my coming; answer not; : None
+2.2 :The tide is now: nay, not thy tide of tears; : None
+2.2 :That tide will stay me longer than I should. : None
+2.2 :Julia, farewell! : None
+Exit JULIA : ["Exit - ['JULIA']"] : PROTEUS
+2.2 :What, gone without a word? : None
+2.2 :Ay, so true love should do: it cannot speak; : None
+2.2 :For truth hath better deeds than words to grace it. : None
+Enter PANTHINO : ["Enter - ['PANTHINO']"] : PROTEUS
+PANTHINO
+2.2 :Sir Proteus, you are stay'd for. : None
+PROTEUS
+2.2 :Go; I come, I come. : None
+2.2 :Alas! this parting strikes poor lovers dumb. : None
+Exeunt : ['Exeunt - []'] : PROTEUS
+Scene(scene=3)
+Enter LAUNCE, leading a dog : ["Enter - ['LAUNCE']"] : PROTEUS
+LAUNCE
+2.3 :Nay, 'twill be this hour ere I have done weeping; : None
+2.3 :all the kind of the Launces have this very fault. I : None
+2.3 :have received my proportion, like the prodigious : None
+2.3 :son, and am going with Sir Proteus to the Imperial's : None
+2.3 :court. I think Crab, my dog, be the sourest-natured : None
+2.3 :dog that lives: my mother weeping, my father : None
+2.3 :wailing, my sister crying, our maid howling, our cat : None
+2.3 :wringing her hands, and all our house in a great : None
+2.3 :perplexity, yet did not this cruel-hearted cur shed : None
+2.3 :one tear: he is a stone, a very pebble stone, and : None
+2.3 :has no more pity in him than a dog: a Jew would have : None
+2.3 :wept to have seen our parting; why, my grandam, : None
+2.3 :having no eyes, look you, wept herself blind at my : None
+2.3 :parting. Nay, I'll show you the manner of it. This : None
+2.3 :shoe is my father: no, this left shoe is my father: : None
+2.3 :no, no, this left shoe is my mother: nay, that : None
+2.3 :cannot be so neither: yes, it is so, it is so, it : None
+2.3 :hath the worser sole. This shoe, with the hole in : None
+2.3 :it, is my mother, and this my father; a vengeance : None
+2.3 :on't! there 'tis: now, sit, this staff is my : None
+2.3 :sister, for, look you, she is as white as a lily and : None
+2.3 :as small as a wand: this hat is Nan, our maid: I : None
+2.3 :am the dog: no, the dog is himself, and I am the : None
+2.3 :dog--Oh! the dog is me, and I am myself; ay, so, : None
+2.3 :so. Now come I to my father; Father, your blessing: : None
+2.3 :now should not the shoe speak a word for weeping: : None
+2.3 :now should I kiss my father; well, he weeps on. Now : None
+2.3 :come I to my mother: O, that she could speak now : None
+2.3 :like a wood woman! Well, I kiss her; why, there : None
+2.3 :'tis; here's my mother's breath up and down. Now : None
+2.3 :come I to my sister; mark the moan she makes. Now : None
+2.3 :the dog all this while sheds not a tear nor speaks a : None
+2.3 :word; but see how I lay the dust with my tears. : None
+Enter PANTHINO : ["Enter - ['PANTHINO']"] : LAUNCE
+PANTHINO
+2.3 :Launce, away, away, aboard! thy master is shipped : None
+2.3 :and thou art to post after with oars. What's the : None
+2.3 :matter? why weepest thou, man? Away, ass! You'll : None
+2.3 :lose the tide, if you tarry any longer. : None
+LAUNCE
+2.3 :It is no matter if the tied were lost; for it is the : None
+2.3 :unkindest tied that ever any man tied. : None
+PANTHINO
+2.3 :What's the unkindest tide? : None
+LAUNCE
+2.3 :Why, he that's tied here, Crab, my dog. : None
+PANTHINO
+2.3 :Tut, man, I mean thou'lt lose the flood, and, in : None
+2.3 :losing the flood, lose thy voyage, and, in losing : None
+2.3 :thy voyage, lose thy master, and, in losing thy : None
+2.3 :master, lose thy service, and, in losing thy : None
+2.3 :service,--Why dost thou stop my mouth? : None
+LAUNCE
+2.3 :For fear thou shouldst lose thy tongue. : None
+PANTHINO
+2.3 :Where should I lose my tongue? : None
+LAUNCE
+2.3 :In thy tale. : None
+PANTHINO
+2.3 :In thy tail! : None
+LAUNCE
+2.3 :Lose the tide, and the voyage, and the master, and : None
+2.3 :the service, and the tied! Why, man, if the river : None
+2.3 :were dry, I am able to fill it with my tears; if the : None
+2.3 :wind were down, I could drive the boat with my sighs. : None
+PANTHINO
+2.3 :Come, come away, man; I was sent to call thee. : None
+LAUNCE
+2.3 :Sir, call me what thou darest. : None
+PANTHINO
+2.3 :Wilt thou go? : None
+LAUNCE
+2.3 :Well, I will go. : None
+Exeunt : ['Exeunt - []'] : LAUNCE
+Scene(scene=4)
+Enter SILVIA, VALENTINE, THURIO, and SPEED : ["Enter - ['SILVIA', 'VALENTINE', 'THURIO', 'SPEED']"] : LAUNCE
+SILVIA
+2.4 :Servant! : None
+VALENTINE
+2.4 :Mistress? : None
+SPEED
+2.4 :Master, Sir Thurio frowns on you. : None
+VALENTINE
+2.4 :Ay, boy, it's for love. : None
+SPEED
+2.4 :Not of you. : None
+VALENTINE
+2.4 :Of my mistress, then. : None
+SPEED
+2.4 :'Twere good you knocked him. : None
+Exit : ['Exit - []'] : SPEED
+SILVIA
+2.4 :Servant, you are sad. : None
+VALENTINE
+2.4 :Indeed, madam, I seem so. : None
+THURIO
+2.4 :Seem you that you are not? : None
+VALENTINE
+2.4 :Haply I do. : None
+THURIO
+2.4 :So do counterfeits. : None
+VALENTINE
+2.4 :So do you. : None
+THURIO
+2.4 :What seem I that I am not? : None
+VALENTINE
+2.4 :Wise. : None
+THURIO
+2.4 :What instance of the contrary? : None
+VALENTINE
+2.4 :Your folly. : None
+THURIO
+2.4 :And how quote you my folly? : None
+VALENTINE
+2.4 :I quote it in your jerkin. : None
+THURIO
+2.4 :My jerkin is a doublet. : None
+VALENTINE
+2.4 :Well, then, I'll double your folly. : None
+THURIO
+2.4 :How? : None
+SILVIA
+2.4 :What, angry, Sir Thurio! do you change colour? : None
+VALENTINE
+2.4 :Give him leave, madam; he is a kind of chameleon. : None
+THURIO
+2.4 :That hath more mind to feed on your blood than live : None
+2.4 :in your air. : None
+VALENTINE
+2.4 :You have said, sir. : None
+THURIO
+2.4 :Ay, sir, and done too, for this time. : None
+VALENTINE
+2.4 :I know it well, sir; you always end ere you begin. : None
+SILVIA
+2.4 :A fine volley of words, gentlemen, and quickly shot off. : None
+VALENTINE
+2.4 :'Tis indeed, madam; we thank the giver. : None
+SILVIA
+2.4 :Who is that, servant? : None
+VALENTINE
+2.4 :Yourself, sweet lady; for you gave the fire. Sir : None
+2.4 :Thurio borrows his wit from your ladyship's looks, : None
+2.4 :and spends what he borrows kindly in your company. : None
+THURIO
+2.4 :Sir, if you spend word for word with me, I shall : None
+2.4 :make your wit bankrupt. : None
+VALENTINE
+2.4 :I know it well, sir; you have an exchequer of words, : None
+2.4 :and, I think, no other treasure to give your : None
+2.4 :followers, for it appears by their bare liveries, : None
+2.4 :that they live by your bare words. : None
+SILVIA
+2.4 :No more, gentlemen, no more:--here comes my father. : None
+Enter DUKE : ["Enter - ['DUKE']"] : SILVIA
+DUKE
+2.4 :Now, daughter Silvia, you are hard beset. : None
+2.4 :Sir Valentine, your father's in good health: : None
+2.4 :What say you to a letter from your friends : None
+2.4 :Of much good news? : None
+VALENTINE
+2.4 :                  My lord, I will be thankful. : None
+2.4 :To any happy messenger from thence. : None
+DUKE
+2.4 :Know ye Don Antonio, your countryman? : None
+VALENTINE
+2.4 :Ay, my good lord, I know the gentleman : None
+2.4 :To be of worth and worthy estimation : None
+2.4 :And not without desert so well reputed. : None
+DUKE
+2.4 :Hath he not a son? : None
+VALENTINE
+2.4 :Ay, my good lord; a son that well deserves : None
+2.4 :The honour and regard of such a father. : None
+DUKE
+2.4 :You know him well? : None
+VALENTINE
+2.4 :I know him as myself; for from our infancy : None
+2.4 :We have conversed and spent our hours together: : None
+2.4 :And though myself have been an idle truant, : None
+2.4 :Omitting the sweet benefit of time : None
+2.4 :To clothe mine age with angel-like perfection, : None
+2.4 :Yet hath Sir Proteus, for that's his name, : None
+2.4 :Made use and fair advantage of his days; : None
+2.4 :His years but young, but his experience old; : None
+2.4 :His head unmellow'd, but his judgment ripe; : None
+2.4 :And, in a word, for far behind his worth : None
+2.4 :Comes all the praises that I now bestow, : None
+2.4 :He is complete in feature and in mind : None
+2.4 :With all good grace to grace a gentleman. : None
+DUKE
+2.4 :Beshrew me, sir, but if he make this good, : None
+2.4 :He is as worthy for an empress' love : None
+2.4 :As meet to be an emperor's counsellor. : None
+2.4 :Well, sir, this gentleman is come to me, : None
+2.4 :With commendation from great potentates; : None
+2.4 :And here he means to spend his time awhile: : None
+2.4 :I think 'tis no unwelcome news to you. : None
+VALENTINE
+2.4 :Should I have wish'd a thing, it had been he. : None
+DUKE
+2.4 :Welcome him then according to his worth. : None
+2.4 :Silvia, I speak to you, and you, Sir Thurio; : None
+2.4 :For Valentine, I need not cite him to it: : None
+2.4 :I will send him hither to you presently. : None
+Exit : ['Exit - []'] : DUKE
+VALENTINE
+2.4 :This is the gentleman I told your ladyship : None
+2.4 :Had come along with me, but that his mistress : None
+2.4 :Did hold his eyes lock'd in her crystal looks. : None
+SILVIA
+2.4 :Belike that now she hath enfranchised them : None
+2.4 :Upon some other pawn for fealty. : None
+VALENTINE
+2.4 :Nay, sure, I think she holds them prisoners still. : None
+SILVIA
+2.4 :Nay, then he should be blind; and, being blind : None
+2.4 :How could he see his way to seek out you? : None
+VALENTINE
+2.4 :Why, lady, Love hath twenty pair of eyes. : None
+THURIO
+2.4 :They say that Love hath not an eye at all. : None
+VALENTINE
+2.4 :To see such lovers, Thurio, as yourself: : None
+2.4 :Upon a homely object Love can wink. : None
+SILVIA
+2.4 :Have done, have done; here comes the gentleman. : None
+Exit THURIO : ["Exit - ['THURIO']"] : SILVIA
+Enter PROTEUS : ["Enter - ['PROTEUS']"] : SILVIA
+VALENTINE
+2.4 :Welcome, dear Proteus! Mistress, I beseech you, : None
+2.4 :Confirm his welcome with some special favour. : None
+SILVIA
+2.4 :His worth is warrant for his welcome hither, : None
+2.4 :If this be he you oft have wish'd to hear from. : None
+VALENTINE
+2.4 :Mistress, it is: sweet lady, entertain him : None
+2.4 :To be my fellow-servant to your ladyship. : None
+SILVIA
+2.4 :Too low a mistress for so high a servant. : None
+PROTEUS
+2.4 :Not so, sweet  lady: but too mean a servant : None
+2.4 :To have a look of such a worthy mistress. : None
+VALENTINE
+2.4 :Leave off discourse of disability: : None
+2.4 :Sweet lady, entertain him for your servant. : None
+PROTEUS
+2.4 :My duty will I boast of; nothing else. : None
+SILVIA
+2.4 :And duty never yet did want his meed: : None
+2.4 :Servant, you are welcome to a worthless mistress. : None
+PROTEUS
+2.4 :I'll die on him that says so but yourself. : None
+SILVIA
+2.4 :That you are welcome? : None
+PROTEUS
+2.4 :That you are worthless. : None
+Re-enter THURIO : ["Re-enter - ['THURIO']"] : PROTEUS
+THURIO
+2.4 :Madam, my lord your father would speak with you. : None
+SILVIA
+2.4 :I wait upon his pleasure. Come, Sir Thurio, : None
+2.4 :Go with me. Once more, new servant, welcome: : None
+2.4 :I'll leave you to confer of home affairs; : None
+2.4 :When you have done, we look to hear from you. : None
+PROTEUS
+2.4 :We'll both attend upon your ladyship. : None
+Exeunt SILVIA and THURIO : ["Exeunt - ['SILVIA', 'THURIO']"] : PROTEUS
+VALENTINE
+2.4 :Now, tell me, how do all from whence you came? : None
+PROTEUS
+2.4 :Your friends are well and have them much commended. : None
+VALENTINE
+2.4 :And how do yours? : None
+PROTEUS
+2.4 :                  I left them all in health. : None
+VALENTINE
+2.4 :How does your lady? and how thrives your love? : None
+PROTEUS
+2.4 :My tales of love were wont to weary you; : None
+2.4 :I know you joy not in a love discourse. : None
+VALENTINE
+2.4 :Ay, Proteus, but that life is alter'd now: : None
+2.4 :I have done penance for contemning Love, : None
+2.4 :Whose high imperious thoughts have punish'd me : None
+2.4 :With bitter fasts, with penitential groans, : None
+2.4 :With nightly tears and daily heart-sore sighs; : None
+2.4 :For in revenge of my contempt of love, : None
+2.4 :Love hath chased sleep from my enthralled eyes : None
+2.4 :And made them watchers of mine own heart's sorrow. : None
+2.4 :O gentle Proteus, Love's a mighty lord, : None
+2.4 :And hath so humbled me, as, I confess, : None
+2.4 :There is no woe to his correction, : None
+2.4 :Nor to his service no such joy on earth. : None
+2.4 :Now no discourse, except it be of love; : None
+2.4 :Now can I break my fast, dine, sup and sleep, : None
+2.4 :Upon the very naked name of love. : None
+PROTEUS
+2.4 :Enough; I read your fortune in your eye. : None
+2.4 :Was this the idol that you worship so? : None
+VALENTINE
+2.4 :Even she; and is she not a heavenly saint? : None
+PROTEUS
+2.4 :No; but she is an earthly paragon. : None
+VALENTINE
+2.4 :Call her divine. : None
+PROTEUS
+2.4 :                  I will not flatter her. : None
+VALENTINE
+2.4 :O, flatter me; for love delights in praises. : None
+PROTEUS
+2.4 :When I was sick, you gave me bitter pills, : None
+2.4 :And I must minister the like to you. : None
+VALENTINE
+2.4 :Then speak the truth by her; if not divine, : None
+2.4 :Yet let her be a principality, : None
+2.4 :Sovereign to all the creatures on the earth. : None
+PROTEUS
+2.4 :Except my mistress. : None
+VALENTINE
+2.4 :Sweet, except not any; : None
+2.4 :Except thou wilt except against my love. : None
+PROTEUS
+2.4 :Have I not reason to prefer mine own? : None
+VALENTINE
+2.4 :And I will help thee to prefer her too: : None
+2.4 :She shall be dignified with this high honour-- : None
+2.4 :To bear my lady's train, lest the base earth : None
+2.4 :Should from her vesture chance to steal a kiss : None
+2.4 :And, of so great a favour growing proud, : None
+2.4 :Disdain to root the summer-swelling flower : None
+2.4 :And make rough winter everlastingly. : None
+PROTEUS
+2.4 :Why, Valentine, what braggardism is this? : None
+VALENTINE
+2.4 :Pardon me, Proteus: all I can is nothing : None
+2.4 :To her whose worth makes other worthies nothing; : None
+2.4 :She is alone. : None
+PROTEUS
+2.4 :                  Then let her alone. : None
+VALENTINE
+2.4 :Not for the world: why, man, she is mine own, : None
+2.4 :And I as rich in having such a jewel : None
+2.4 :As twenty seas, if all their sand were pearl, : None
+2.4 :The water nectar and the rocks pure gold. : None
+2.4 :Forgive me that I do not dream on thee, : None
+2.4 :Because thou see'st me dote upon my love. : None
+2.4 :My foolish rival, that her father likes : None
+2.4 :Only for his possessions are so huge, : None
+2.4 :Is gone with her along, and I must after, : None
+2.4 :For love, thou know'st, is full of jealousy. : None
+PROTEUS
+2.4 :But she loves you? : None
+VALENTINE
+2.4 :Ay, and we are betroth'd: nay, more, our, : None
+2.4 :marriage-hour, : None
+2.4 :With all the cunning manner of our flight, : None
+2.4 :Determined of; how I must climb her window, : None
+2.4 :The ladder made of cords, and all the means : None
+2.4 :Plotted and 'greed on for my happiness. : None
+2.4 :Good Proteus, go with me to my chamber, : None
+2.4 :In these affairs to aid me with thy counsel. : None
+PROTEUS
+2.4 :Go on before; I shall inquire you forth: : None
+2.4 :I must unto the road, to disembark : None
+2.4 :Some necessaries that I needs must use, : None
+2.4 :And then I'll presently attend you. : None
+VALENTINE
+2.4 :Will you make haste? : None
+PROTEUS
+2.4 :I will. : None
+Exit VALENTINE : ["Exit - ['VALENTINE']"] : PROTEUS
+2.4 :Even as one heat another heat expels, : None
+2.4 :Or as one nail by strength drives out another, : None
+2.4 :So the remembrance of my former love : None
+2.4 :Is by a newer object quite forgotten. : None
+2.4 :Is it mine, or Valentine's praise, : None
+2.4 :Her true perfection, or my false transgression, : None
+2.4 :That makes me reasonless to reason thus? : None
+2.4 :She is fair; and so is Julia that I love-- : None
+2.4 :That I did love, for now my love is thaw'd; : None
+2.4 :Which, like a waxen image, 'gainst a fire, : None
+2.4 :Bears no impression of the thing it was. : None
+2.4 :Methinks my zeal to Valentine is cold, : None
+2.4 :And that I love him not as I was wont. : None
+2.4 :O, but I love his lady too too much, : None
+2.4 :And that's the reason I love him so little. : None
+2.4 :How shall I dote on her with more advice, : None
+2.4 :That thus without advice begin to love her! : None
+2.4 :'Tis but her picture I have yet beheld, : None
+2.4 :And that hath dazzled my reason's light; : None
+2.4 :But when I look on her perfections, : None
+2.4 :There is no reason but I shall be blind. : None
+2.4 :If I can cheque my erring love, I will; : None
+2.4 :If not, to compass her I'll use my skill. : None
+Exit : ['Exit - []'] : PROTEUS
+Scene(scene=5)
+Enter SPEED and LAUNCE severally : ["Enter - ['SPEED', 'LAUNCE']"] : PROTEUS
+SPEED
+2.5 :Launce! by mine honesty, welcome to Milan! : None
+LAUNCE
+2.5 :Forswear not thyself, sweet youth, for I am not : None
+2.5 :welcome. I reckon this always, that a man is never : None
+2.5 :undone till he be hanged, nor never welcome to a : None
+2.5 :place till some certain shot be paid and the hostess : None
+2.5 :say 'Welcome!' : None
+SPEED
+2.5 :Come on, you madcap, I'll to the alehouse with you : None
+2.5 :presently; where, for one shot of five pence, thou : None
+2.5 :shalt have five thousand welcomes. But, sirrah, how : None
+2.5 :did thy master part with Madam Julia? : None
+LAUNCE
+2.5 :Marry, after they closed in earnest, they parted very : None
+2.5 :fairly in jest. : None
+SPEED
+2.5 :But shall she marry him? : None
+LAUNCE
+2.5 :No. : None
+SPEED
+2.5 :How then? shall he marry her? : None
+LAUNCE
+2.5 :No, neither. : None
+SPEED
+2.5 :What, are they broken? : None
+LAUNCE
+2.5 :No, they are both as whole as a fish. : None
+SPEED
+2.5 :Why, then, how stands the matter with them? : None
+LAUNCE
+2.5 :Marry, thus: when it stands well with him, it : None
+2.5 :stands well with her. : None
+SPEED
+2.5 :What an ass art thou! I understand thee not. : None
+LAUNCE
+2.5 :What a block art thou, that thou canst not! My : None
+2.5 :staff understands me. : None
+SPEED
+2.5 :What thou sayest? : None
+LAUNCE
+2.5 :Ay, and what I do too: look thee, I'll but lean, : None
+2.5 :and my staff understands me. : None
+SPEED
+2.5 :It stands under thee, indeed. : None
+LAUNCE
+2.5 :Why, stand-under and under-stand is all one. : None
+SPEED
+2.5 :But tell me true, will't be a match? : None
+LAUNCE
+2.5 :Ask my dog: if he say ay, it will! if he say no, : None
+2.5 :it will; if he shake his tail and say nothing, it will. : None
+SPEED
+2.5 :The conclusion is then that it will. : None
+LAUNCE
+2.5 :Thou shalt never get such a secret from me but by a parable. : None
+SPEED
+2.5 :'Tis well that I get it so. But, Launce, how sayest : None
+2.5 :thou, that my master is become a notable lover? : None
+LAUNCE
+2.5 :I never knew him otherwise. : None
+SPEED
+2.5 :Than how? : None
+LAUNCE
+2.5 :A notable lubber, as thou reportest him to be. : None
+SPEED
+2.5 :Why, thou whoreson ass, thou mistakest me. : None
+LAUNCE
+2.5 :Why, fool, I meant not thee; I meant thy master. : None
+SPEED
+2.5 :I tell thee, my master is become a hot lover. : None
+LAUNCE
+2.5 :Why, I tell thee, I care not though he burn himself : None
+2.5 :in love. If thou wilt, go with me to the alehouse; : None
+2.5 :if not, thou art an Hebrew, a Jew, and not worth the : None
+2.5 :name of a Christian. : None
+SPEED
+2.5 :Why? : None
+LAUNCE
+2.5 :Because thou hast not so much charity in thee as to : None
+2.5 :go to the ale with a Christian. Wilt thou go? : None
+SPEED
+2.5 :At thy service. : None
+Exeunt : ['Exeunt - []'] : SPEED
+Scene(scene=6)
+Enter PROTEUS : ["Enter - ['PROTEUS']"] : SPEED
+PROTEUS
+2.6 :To leave my Julia, shall I be forsworn; : None
+2.6 :To love fair Silvia, shall I be forsworn; : None
+2.6 :To wrong my friend, I shall be much forsworn; : None
+2.6 :And even that power which gave me first my oath : None
+2.6 :Provokes me to this threefold perjury; : None
+2.6 :Love bade me swear and Love bids me forswear. : None
+2.6 :O sweet-suggesting Love, if thou hast sinned, : None
+2.6 :Teach me, thy tempted subject, to excuse it! : None
+2.6 :At first I did adore a twinkling star, : None
+2.6 :But now I worship a celestial sun. : None
+2.6 :Unheedful vows may heedfully be broken, : None
+2.6 :And he wants wit that wants resolved will : None
+2.6 :To learn his wit to exchange the bad for better. : None
+2.6 :Fie, fie, unreverend tongue! to call her bad, : None
+2.6 :Whose sovereignty so oft thou hast preferr'd : None
+2.6 :With twenty thousand soul-confirming oaths. : None
+2.6 :I cannot leave to love, and yet I do; : None
+2.6 :But there I leave to love where I should love. : None
+2.6 :Julia I lose and Valentine I lose: : None
+2.6 :If I keep them, I needs must lose myself; : None
+2.6 :If I lose them, thus find I by their loss : None
+2.6 :For Valentine myself, for Julia Silvia. : None
+2.6 :I to myself am dearer than a friend, : None
+2.6 :For love is still most precious in itself; : None
+2.6 :And Silvia--witness Heaven, that made her fair!-- : None
+2.6 :Shows Julia but a swarthy Ethiope. : None
+2.6 :I will forget that Julia is alive, : None
+2.6 :Remembering that my love to her is dead; : None
+2.6 :And Valentine I'll hold an enemy, : None
+2.6 :Aiming at Silvia as a sweeter friend. : None
+2.6 :I cannot now prove constant to myself, : None
+2.6 :Without some treachery used to Valentine. : None
+2.6 :This night he meaneth with a corded ladder : None
+2.6 :To climb celestial Silvia's chamber-window, : None
+2.6 :Myself in counsel, his competitor. : None
+2.6 :Now presently I'll give her father notice : None
+2.6 :Of their disguising and pretended flight; : None
+2.6 :Who, all enraged, will banish Valentine; : None
+2.6 :For Thurio, he intends, shall wed his daughter; : None
+2.6 :But, Valentine being gone, I'll quickly cross : None
+2.6 :By some sly trick blunt Thurio's dull proceeding. : None
+2.6 :Love, lend me wings to make my purpose swift, : None
+2.6 :As thou hast lent me wit to plot this drift! : None
+Exit : ['Exit - []'] : PROTEUS
+Scene(scene=7)
+Enter JULIA and LUCETTA : ["Enter - ['JULIA', 'LUCETTA']"] : PROTEUS
+JULIA
+2.7 :Counsel, Lucetta; gentle girl, assist me; : None
+2.7 :And even in kind love I do conjure thee, : None
+2.7 :Who art the table wherein all my thoughts : None
+2.7 :Are visibly character'd and engraved, : None
+2.7 :To lesson me and tell me some good mean : None
+2.7 :How, with my honour, I may undertake : None
+2.7 :A journey to my loving Proteus. : None
+LUCETTA
+2.7 :Alas, the way is wearisome and long! : None
+JULIA
+2.7 :A true-devoted pilgrim is not weary : None
+2.7 :To measure kingdoms with his feeble steps; : None
+2.7 :Much less shall she that hath Love's wings to fly, : None
+2.7 :And when the flight is made to one so dear, : None
+2.7 :Of such divine perfection, as Sir Proteus. : None
+LUCETTA
+2.7 :Better forbear till Proteus make return. : None
+JULIA
+2.7 :O, know'st thou not his looks are my soul's food? : None
+2.7 :Pity the dearth that I have pined in, : None
+2.7 :By longing for that food so long a time. : None
+2.7 :Didst thou but know the inly touch of love, : None
+2.7 :Thou wouldst as soon go kindle fire with snow : None
+2.7 :As seek to quench the fire of love with words. : None
+LUCETTA
+2.7 :I do not seek to quench your love's hot fire, : None
+2.7 :But qualify the fire's extreme rage, : None
+2.7 :Lest it should burn above the bounds of reason. : None
+JULIA
+2.7 :The more thou damm'st it up, the more it burns. : None
+2.7 :The current that with gentle murmur glides, : None
+2.7 :Thou know'st, being stopp'd, impatiently doth rage; : None
+2.7 :But when his fair course is not hindered, : None
+2.7 :He makes sweet music with the enamell'ed stones, : None
+2.7 :Giving a gentle kiss to every sedge : None
+2.7 :He overtaketh in his pilgrimage, : None
+2.7 :And so by many winding nooks he strays : None
+2.7 :With willing sport to the wild ocean. : None
+2.7 :Then let me go and hinder not my course : None
+2.7 :I'll be as patient as a gentle stream : None
+2.7 :And make a pastime of each weary step, : None
+2.7 :Till the last step have brought me to my love; : None
+2.7 :And there I'll rest, as after much turmoil : None
+2.7 :A blessed soul doth in Elysium. : None
+LUCETTA
+2.7 :But in what habit will you go along? : None
+JULIA
+2.7 :Not like a woman; for I would prevent : None
+2.7 :The loose encounters of lascivious men: : None
+2.7 :Gentle Lucetta, fit me with such weeds : None
+2.7 :As may beseem some well-reputed page. : None
+LUCETTA
+2.7 :Why, then, your ladyship must cut your hair. : None
+JULIA
+2.7 :No, girl, I'll knit it up in silken strings : None
+2.7 :With twenty odd-conceited true-love knots. : None
+2.7 :To be fantastic may become a youth : None
+2.7 :Of greater time than I shall show to be. : None
+LUCETTA
+2.7 :What fashion, madam shall I make your breeches? : None
+JULIA
+2.7 :That fits as well as 'Tell me, good my lord, : None
+2.7 :What compass will you wear your farthingale?' : None
+2.7 :Why even what fashion thou best likest, Lucetta. : None
+LUCETTA
+2.7 :You must needs have them with a codpiece, madam. : None
+JULIA
+2.7 :Out, out, Lucetta! that would be ill-favour'd. : None
+LUCETTA
+2.7 :A round hose, madam, now's not worth a pin, : None
+2.7 :Unless you have a codpiece to stick pins on. : None
+JULIA
+2.7 :Lucetta, as thou lovest me, let me have : None
+2.7 :What thou thinkest meet and is most mannerly. : None
+2.7 :But tell me, wench, how will the world repute me : None
+2.7 :For undertaking so unstaid a journey? : None
+2.7 :I fear me, it will make me scandalized. : None
+LUCETTA
+2.7 :If you think so, then stay at home and go not. : None
+JULIA
+2.7 :Nay, that I will not. : None
+LUCETTA
+2.7 :Then never dream on infamy, but go. : None
+2.7 :If Proteus like your journey when you come, : None
+2.7 :No matter who's displeased when you are gone: : None
+2.7 :I fear me, he will scarce be pleased withal. : None
+JULIA
+2.7 :That is the least, Lucetta, of my fear: : None
+2.7 :A thousand oaths, an ocean of his tears : None
+2.7 :And instances of infinite of love : None
+2.7 :Warrant me welcome to my Proteus. : None
+LUCETTA
+2.7 :All these are servants to deceitful men. : None
+JULIA
+2.7 :Base men, that use them to so base effect! : None
+2.7 :But truer stars did govern Proteus' birth : None
+2.7 :His words are bonds, his oaths are oracles, : None
+2.7 :His love sincere, his thoughts immaculate, : None
+2.7 :His tears pure messengers sent from his heart, : None
+2.7 :His heart as far from fraud as heaven from earth. : None
+LUCETTA
+2.7 :Pray heaven he prove so, when you come to him! : None
+JULIA
+2.7 :Now, as thou lovest me, do him not that wrong : None
+2.7 :To bear a hard opinion of his truth: : None
+2.7 :Only deserve my love by loving him; : None
+2.7 :And presently go with me to my chamber, : None
+2.7 :To take a note of what I stand in need of, : None
+2.7 :To furnish me upon my longing journey. : None
+2.7 :All that is mine I leave at thy dispose, : None
+2.7 :My goods, my lands, my reputation; : None
+2.7 :Only, in lieu thereof, dispatch me hence. : None
+2.7 :Come, answer not, but to it presently! : None
+2.7 :I am impatient of my tarriance. : None
+Exeunt : ['Exeunt - []'] : JULIA
+Act(act=3)
+Scene(scene=1)
+Enter DUKE, THURIO, and PROTEUS : ["Enter - ['DUKE', 'THURIO', 'PROTEUS']"] : JULIA
+DUKE
+3.1 :Sir Thurio, give us leave, I pray, awhile; : None
+3.1 :We have some secrets to confer about. : None
+Exit THURIO : ["Exit - ['THURIO']"] : DUKE
+3.1 :Now, tell me, Proteus, what's your will with me? : None
+PROTEUS
+3.1 :My gracious lord, that which I would discover : None
+3.1 :The law of friendship bids me to conceal; : None
+3.1 :But when I call to mind your gracious favours : None
+3.1 :Done to me, undeserving as I am, : None
+3.1 :My duty pricks me on to utter that : None
+3.1 :Which else no worldly good should draw from me. : None
+3.1 :Know, worthy prince, Sir Valentine, my friend, : None
+3.1 :This night intends to steal away your daughter: : None
+3.1 :Myself am one made privy to the plot. : None
+3.1 :I know you have determined to bestow her : None
+3.1 :On Thurio, whom your gentle daughter hates; : None
+3.1 :And should she thus be stol'n away from you, : None
+3.1 :It would be much vexation to your age. : None
+3.1 :Thus, for my duty's sake, I rather chose : None
+3.1 :To cross my friend in his intended drift : None
+3.1 :Than, by concealing it, heap on your head : None
+3.1 :A pack of sorrows which would press you down, : None
+3.1 :Being unprevented, to your timeless grave. : None
+DUKE
+3.1 :Proteus, I thank thee for thine honest care; : None
+3.1 :Which to requite, command me while I live. : None
+3.1 :This love of theirs myself have often seen, : None
+3.1 :Haply when they have judged me fast asleep, : None
+3.1 :And oftentimes have purposed to forbid : None
+3.1 :Sir Valentine her company and my court: : None
+3.1 :But fearing lest my jealous aim might err : None
+3.1 :And so unworthily disgrace the man, : None
+3.1 :A rashness that I ever yet have shunn'd, : None
+3.1 :I gave him gentle looks, thereby to find : None
+3.1 :That which thyself hast now disclosed to me. : None
+3.1 :And, that thou mayst perceive my fear of this, : None
+3.1 :Knowing that tender youth is soon suggested, : None
+3.1 :I nightly lodge her in an upper tower, : None
+3.1 :The key whereof myself have ever kept; : None
+3.1 :And thence she cannot be convey'd away. : None
+PROTEUS
+3.1 :Know, noble lord, they have devised a mean : None
+3.1 :How he her chamber-window will ascend : None
+3.1 :And with a corded ladder fetch her down; : None
+3.1 :For which the youthful lover now is gone : None
+3.1 :And this way comes he with it presently; : None
+3.1 :Where, if it please you, you may intercept him. : None
+3.1 :But, good my Lord, do it so cunningly : None
+3.1 :That my discovery be not aimed at; : None
+3.1 :For love of you, not hate unto my friend, : None
+3.1 :Hath made me publisher of this pretence. : None
+DUKE
+3.1 :Upon mine honour, he shall never know : None
+3.1 :That I had any light from thee of this. : None
+PROTEUS
+3.1 :Adieu, my Lord; Sir Valentine is coming. : None
+Exit : ['Exit - []'] : PROTEUS
+Enter VALENTINE : ["Enter - ['VALENTINE']"] : PROTEUS
+DUKE
+3.1 :Sir Valentine, whither away so fast? : None
+VALENTINE
+3.1 :Please it your grace, there is a messenger : None
+3.1 :That stays to bear my letters to my friends, : None
+3.1 :And I am going to deliver them. : None
+DUKE
+3.1 :Be they of much import? : None
+VALENTINE
+3.1 :The tenor of them doth but signify : None
+3.1 :My health and happy being at your court. : None
+DUKE
+3.1 :Nay then, no matter; stay with me awhile; : None
+3.1 :I am to break with thee of some affairs : None
+3.1 :That touch me near, wherein thou must be secret. : None
+3.1 :'Tis not unknown to thee that I have sought : None
+3.1 :To match my friend Sir Thurio to my daughter. : None
+VALENTINE
+3.1 :I know it well, my Lord; and, sure, the match : None
+3.1 :Were rich and honourable; besides, the gentleman : None
+3.1 :Is full of virtue, bounty, worth and qualities : None
+3.1 :Beseeming such a wife as your fair daughter: : None
+3.1 :Cannot your Grace win her to fancy him? : None
+DUKE
+3.1 :No, trust me; she is peevish, sullen, froward, : None
+3.1 :Proud, disobedient, stubborn, lacking duty, : None
+3.1 :Neither regarding that she is my child : None
+3.1 :Nor fearing me as if I were her father; : None
+3.1 :And, may I say to thee, this pride of hers, : None
+3.1 :Upon advice, hath drawn my love from her; : None
+3.1 :And, where I thought the remnant of mine age : None
+3.1 :Should have been cherish'd by her child-like duty, : None
+3.1 :I now am full resolved to take a wife : None
+3.1 :And turn her out to who will take her in: : None
+3.1 :Then let her beauty be her wedding-dower; : None
+3.1 :For me and my possessions she esteems not. : None
+VALENTINE
+3.1 :What would your Grace have me to do in this? : None
+DUKE
+3.1 :There is a lady in Verona here : None
+3.1 :Whom I affect; but she is nice and coy : None
+3.1 :And nought esteems my aged eloquence: : None
+3.1 :Now therefore would I have thee to my tutor-- : None
+3.1 :For long agone I have forgot to court; : None
+3.1 :Besides, the fashion of the time is changed-- : None
+3.1 :How and which way I may bestow myself : None
+3.1 :To be regarded in her sun-bright eye. : None
+VALENTINE
+3.1 :Win her with gifts, if she respect not words: : None
+3.1 :Dumb jewels often in their silent kind : None
+3.1 :More than quick words do move a woman's mind. : None
+DUKE
+3.1 :But she did scorn a present that I sent her. : None
+VALENTINE
+3.1 :A woman sometimes scorns what best contents her. : None
+3.1 :Send her another; never give her o'er; : None
+3.1 :For scorn at first makes after-love the more. : None
+3.1 :If she do frown, 'tis not in hate of you, : None
+3.1 :But rather to beget more love in you: : None
+3.1 :If she do chide, 'tis not to have you gone; : None
+3.1 :For why, the fools are mad, if left alone. : None
+3.1 :Take no repulse, whatever she doth say; : None
+3.1 :For 'get you gone,' she doth not mean 'away!' : None
+3.1 :Flatter and praise, commend, extol their graces; : None
+3.1 :Though ne'er so black, say they have angels' faces. : None
+3.1 :That man that hath a tongue, I say, is no man, : None
+3.1 :If with his tongue he cannot win a woman. : None
+DUKE
+3.1 :But she I mean is promised by her friends : None
+3.1 :Unto a youthful gentleman of worth, : None
+3.1 :And kept severely from resort of men, : None
+3.1 :That no man hath access by day to her. : None
+VALENTINE
+3.1 :Why, then, I would resort to her by night. : None
+DUKE
+3.1 :Ay, but the doors be lock'd and keys kept safe, : None
+3.1 :That no man hath recourse to her by night. : None
+VALENTINE
+3.1 :What lets but one may enter at her window? : None
+DUKE
+3.1 :Her chamber is aloft, far from the ground, : None
+3.1 :And built so shelving that one cannot climb it : None
+3.1 :Without apparent hazard of his life. : None
+VALENTINE
+3.1 :Why then, a ladder quaintly made of cords, : None
+3.1 :To cast up, with a pair of anchoring hooks, : None
+3.1 :Would serve to scale another Hero's tower, : None
+3.1 :So bold Leander would adventure it. : None
+DUKE
+3.1 :Now, as thou art a gentleman of blood, : None
+3.1 :Advise me where I may have such a ladder. : None
+VALENTINE
+3.1 :When would you use it? pray, sir, tell me that. : None
+DUKE
+3.1 :This very night; for Love is like a child, : None
+3.1 :That longs for every thing that he can come by. : None
+VALENTINE
+3.1 :By seven o'clock I'll get you such a ladder. : None
+DUKE
+3.1 :But, hark thee; I will go to her alone: : None
+3.1 :How shall I best convey the ladder thither? : None
+VALENTINE
+3.1 :It will be light, my lord, that you may bear it : None
+3.1 :Under a cloak that is of any length. : None
+DUKE
+3.1 :A cloak as long as thine will serve the turn? : None
+VALENTINE
+3.1 :Ay, my good lord. : None
+DUKE
+3.1 :                  Then let me see thy cloak: : None
+3.1 :I'll get me one of such another length. : None
+VALENTINE
+3.1 :Why, any cloak will serve the turn, my lord. : None
+DUKE
+3.1 :How shall I fashion me to wear a cloak? : None
+3.1 :I pray thee, let me feel thy cloak upon me. : None
+3.1 :What letter is this same? What's here? 'To Silvia'! : None
+3.1 :And here an engine fit for my proceeding. : None
+3.1 :I'll be so bold to break the seal for once. : None
+Reads : ['Read - []'] : DUKE
+3.1 :'My thoughts do harbour with my Silvia nightly, : None
+3.1 :And slaves they are to me that send them flying: : None
+3.1 :O, could their master come and go as lightly, : None
+3.1 :Himself would lodge where senseless they are lying! : None
+3.1 :My herald thoughts in thy pure bosom rest them: : None
+3.1 :While I, their king, that hither them importune, : None
+3.1 :Do curse the grace that with such grace hath bless'd them, : None
+3.1 :Because myself do want my servants' fortune: : None
+3.1 :I curse myself, for they are sent by me, : None
+3.1 :That they should harbour where their lord would be.' : None
+3.1 :What's here? : None
+3.1 :'Silvia, this night I will enfranchise thee.' : None
+3.1 :'Tis so; and here's the ladder for the purpose. : None
+3.1 :Why, Phaeton,--for thou art Merops' son,-- : None
+3.1 :Wilt thou aspire to guide the heavenly car : None
+3.1 :And with thy daring folly burn the world? : None
+3.1 :Wilt thou reach stars, because they shine on thee? : None
+3.1 :Go, base intruder! overweening slave! : None
+3.1 :Bestow thy fawning smiles on equal mates, : None
+3.1 :And think my patience, more than thy desert, : None
+3.1 :Is privilege for thy departure hence: : None
+3.1 :Thank me for this more than for all the favours : None
+3.1 :Which all too much I have bestow'd on thee. : None
+3.1 :But if thou linger in my territories : None
+3.1 :Longer than swiftest expedition : None
+3.1 :Will give thee time to leave our royal court, : None
+3.1 :By heaven! my wrath shall far exceed the love : None
+3.1 :I ever bore my daughter or thyself. : None
+3.1 :Be gone! I will not hear thy vain excuse; : None
+3.1 :But, as thou lovest thy life, make speed from hence. : None
+Exit : ['Exit - []'] : DUKE
+VALENTINE
+3.1 :And why not death rather than living torment? : None
+3.1 :To die is to be banish'd from myself; : None
+3.1 :And Silvia is myself: banish'd from her : None
+3.1 :Is self from self: a deadly banishment! : None
+3.1 :What light is light, if Silvia be not seen? : None
+3.1 :What joy is joy, if Silvia be not by? : None
+3.1 :Unless it be to think that she is by : None
+3.1 :And feed upon the shadow of perfection : None
+3.1 :Except I be by Silvia in the night, : None
+3.1 :There is no music in the nightingale; : None
+3.1 :Unless I look on Silvia in the day, : None
+3.1 :There is no day for me to look upon; : None
+3.1 :She is my essence, and I leave to be, : None
+3.1 :If I be not by her fair influence : None
+3.1 :Foster'd, illumined, cherish'd, kept alive. : None
+3.1 :I fly not death, to fly his deadly doom: : None
+3.1 :Tarry I here, I but attend on death: : None
+3.1 :But, fly I hence, I fly away from life. : None
+Enter PROTEUS and LAUNCE : ["Enter - ['PROTEUS', 'LAUNCE']"] : VALENTINE
+PROTEUS
+3.1 :Run, boy, run, run, and seek him out. : None
+LAUNCE
+3.1 :Soho, soho! : None
+PROTEUS
+3.1 :What seest thou? : None
+LAUNCE
+3.1 :Him we go to find: there's not a hair on's head : None
+3.1 :but 'tis a Valentine. : None
+PROTEUS
+3.1 :Valentine? : None
+VALENTINE
+3.1 :No. : None
+PROTEUS
+3.1 :Who then? his spirit? : None
+VALENTINE
+3.1 :Neither. : None
+PROTEUS
+3.1 :What then? : None
+VALENTINE
+3.1 :Nothing. : None
+LAUNCE
+3.1 :Can nothing speak? Master, shall I strike? : None
+PROTEUS
+3.1 :Who wouldst thou strike? : None
+LAUNCE
+3.1 :Nothing. : None
+PROTEUS
+3.1 :Villain, forbear. : None
+LAUNCE
+3.1 :Why, sir, I'll strike nothing: I pray you,-- : None
+PROTEUS
+3.1 :Sirrah, I say, forbear. Friend Valentine, a word. : None
+VALENTINE
+3.1 :My ears are stopt and cannot hear good news, : None
+3.1 :So much of bad already hath possess'd them. : None
+PROTEUS
+3.1 :Then in dumb silence will I bury mine, : None
+3.1 :For they are harsh, untuneable and bad. : None
+VALENTINE
+3.1 :Is Silvia dead? : None
+PROTEUS
+3.1 :No, Valentine. : None
+VALENTINE
+3.1 :No Valentine, indeed, for sacred Silvia. : None
+3.1 :Hath she forsworn me? : None
+PROTEUS
+3.1 :No, Valentine. : None
+VALENTINE
+3.1 :No Valentine, if Silvia have forsworn me. : None
+3.1 :What is your news? : None
+LAUNCE
+3.1 :Sir, there is a proclamation that you are vanished. : None
+PROTEUS
+3.1 :That thou art banished--O, that's the news!-- : None
+3.1 :From hence, from Silvia and from me thy friend. : None
+VALENTINE
+3.1 :O, I have fed upon this woe already, : None
+3.1 :And now excess of it will make me surfeit. : None
+3.1 :Doth Silvia know that I am banished? : None
+PROTEUS
+3.1 :Ay, ay; and she hath offer'd to the doom-- : None
+3.1 :Which, unreversed, stands in effectual force-- : None
+3.1 :A sea of melting pearl, which some call tears: : None
+3.1 :Those at her father's churlish feet she tender'd; : None
+3.1 :With them, upon her knees, her humble self; : None
+3.1 :Wringing her hands, whose whiteness so became them : None
+3.1 :As if but now they waxed pale for woe: : None
+3.1 :But neither bended knees, pure hands held up, : None
+3.1 :Sad sighs, deep groans, nor silver-shedding tears, : None
+3.1 :Could penetrate her uncompassionate sire; : None
+3.1 :But Valentine, if he be ta'en, must die. : None
+3.1 :Besides, her intercession chafed him so, : None
+3.1 :When she for thy repeal was suppliant, : None
+3.1 :That to close prison he commanded her, : None
+3.1 :With many bitter threats of biding there. : None
+VALENTINE
+3.1 :No more; unless the next word that thou speak'st : None
+3.1 :Have some malignant power upon my life: : None
+3.1 :If so, I pray thee, breathe it in mine ear, : None
+3.1 :As ending anthem of my endless dolour. : None
+PROTEUS
+3.1 :Cease to lament for that thou canst not help, : None
+3.1 :And study help for that which thou lament'st. : None
+3.1 :Time is the nurse and breeder of all good. : None
+3.1 :Here if thou stay, thou canst not see thy love; : None
+3.1 :Besides, thy staying will abridge thy life. : None
+3.1 :Hope is a lover's staff; walk hence with that : None
+3.1 :And manage it against despairing thoughts. : None
+3.1 :Thy letters may be here, though thou art hence; : None
+3.1 :Which, being writ to me, shall be deliver'd : None
+3.1 :Even in the milk-white bosom of thy love. : None
+3.1 :The time now serves not to expostulate: : None
+3.1 :Come, I'll convey thee through the city-gate; : None
+3.1 :And, ere I part with thee, confer at large : None
+3.1 :Of all that may concern thy love-affairs. : None
+3.1 :As thou lovest Silvia, though not for thyself, : None
+3.1 :Regard thy danger, and along with me! : None
+VALENTINE
+3.1 :I pray thee, Launce, an if thou seest my boy, : None
+3.1 :Bid him make haste and meet me at the North-gate. : None
+PROTEUS
+3.1 :Go, sirrah, find him out. Come, Valentine. : None
+VALENTINE
+3.1 :O my dear Silvia! Hapless Valentine! : None
+Exeunt VALENTINE and PROTEUS : ["Exeunt - ['VALENTINE', 'PROTEUS']"] : VALENTINE
+LAUNCE
+3.1 :I am but a fool, look you; and yet I have the wit to : None
+3.1 :think my master is a kind of a knave: but that's : None
+3.1 :all one, if he be but one knave. He lives not now : None
+3.1 :that knows me to be in love; yet I am in love; but a : None
+3.1 :team of horse shall not pluck that from me; nor who : None
+3.1 :'tis I love; and yet 'tis a woman; but what woman, I : None
+3.1 :will not tell myself; and yet 'tis a milkmaid; yet : None
+3.1 :'tis not a maid, for she hath had gossips; yet 'tis : None
+3.1 :a maid, for she is her master's maid, and serves for : None
+3.1 :wages. She hath more qualities than a water-spaniel; : None
+3.1 :which is much in a bare Christian. : None
+Pulling out a paper : ['None - []'] : LAUNCE
+3.1 :Here is the cate-log of her condition. : None
+3.1 :'Imprimis: She can fetch and carry.' Why, a horse : None
+3.1 :can do no more: nay, a horse cannot fetch, but only : None
+3.1 :carry; therefore is she better than a jade. 'Item: : None
+3.1 :She can milk;' look you, a sweet virtue in a maid : None
+3.1 :with clean hands. : None
+Enter SPEED : ["Enter - ['SPEED']"] : LAUNCE
+SPEED
+3.1 :How now, Signior Launce! what news with your : None
+3.1 :mastership? : None
+LAUNCE
+3.1 :With my master's ship? why, it is at sea. : None
+SPEED
+3.1 :Well, your old vice still; mistake the word. What : None
+3.1 :news, then, in your paper? : None
+LAUNCE
+3.1 :The blackest news that ever thou heardest. : None
+SPEED
+3.1 :Why, man, how black? : None
+LAUNCE
+3.1 :Why, as black as ink. : None
+SPEED
+3.1 :Let me read them. : None
+LAUNCE
+3.1 :Fie on thee, jolt-head! thou canst not read. : None
+SPEED
+3.1 :Thou liest; I can. : None
+LAUNCE
+3.1 :I will try thee. Tell me this: who begot thee? : None
+SPEED
+3.1 :Marry, the son of my grandfather. : None
+LAUNCE
+3.1 :O illiterate loiterer! it was the son of thy : None
+3.1 :grandmother: this proves that thou canst not read. : None
+SPEED
+3.1 :Come, fool, come; try me in thy paper. : None
+LAUNCE
+3.1 :There; and St. Nicholas be thy speed! : None
+SPEED
+3.1 :  'Imprimis: She can milk.' : Reads : ['Read - []'] : SPEED
+LAUNCE
+3.1 :Ay, that she can. : None
+SPEED
+3.1 :'Item: She brews good ale.' : None
+LAUNCE
+3.1 :And thereof comes the proverb: 'Blessing of your : None
+3.1 :heart, you brew good ale.' : None
+SPEED
+3.1 :'Item: She can sew.' : None
+LAUNCE
+3.1 :That's as much as to say, Can she so? : None
+SPEED
+3.1 :'Item: She can knit.' : None
+LAUNCE
+3.1 :What need a man care for a stock with a wench, when : None
+3.1 :she can knit him a stock? : None
+SPEED
+3.1 :'Item: She can wash and scour.' : None
+LAUNCE
+3.1 :A special virtue: for then she need not be washed : None
+3.1 :and scoured. : None
+SPEED
+3.1 :'Item: She can spin.' : None
+LAUNCE
+3.1 :Then may I set the world on wheels, when she can : None
+3.1 :spin for her living. : None
+SPEED
+3.1 :'Item: She hath many nameless virtues.' : None
+LAUNCE
+3.1 :That's as much as to say, bastard virtues; that, : None
+3.1 :indeed, know not their fathers and therefore have no names. : None
+SPEED
+3.1 :'Here follow her vices.' : None
+LAUNCE
+3.1 :Close at the heels of her virtues. : None
+SPEED
+3.1 :'Item: She is not to be kissed fasting in respect : None
+3.1 :of her breath.' : None
+LAUNCE
+3.1 :Well, that fault may be mended with a breakfast. Read on. : None
+SPEED
+3.1 :'Item: She hath a sweet mouth.' : None
+LAUNCE
+3.1 :That makes amends for her sour breath. : None
+SPEED
+3.1 :'Item: She doth talk in her sleep.' : None
+LAUNCE
+3.1 :It's no matter for that, so she sleep not in her talk. : None
+SPEED
+3.1 :'Item: She is slow in words.' : None
+LAUNCE
+3.1 :O villain, that set this down among her vices! To : None
+3.1 :be slow in words is a woman's only virtue: I pray : None
+3.1 :thee, out with't, and place it for her chief virtue. : None
+SPEED
+3.1 :'Item: She is proud.' : None
+LAUNCE
+3.1 :Out with that too; it was Eve's legacy, and cannot : None
+3.1 :be ta'en from her. : None
+SPEED
+3.1 :'Item: She hath no teeth.' : None
+LAUNCE
+3.1 :I care not for that neither, because I love crusts. : None
+SPEED
+3.1 :'Item: She is curst.' : None
+LAUNCE
+3.1 :Well, the best is, she hath no teeth to bite. : None
+SPEED
+3.1 :'Item: She will often praise her liquor.' : None
+LAUNCE
+3.1 :If her liquor be good, she shall: if she will not, I : None
+3.1 :will; for good things should be praised. : None
+SPEED
+3.1 :'Item: She is too liberal.' : None
+LAUNCE
+3.1 :Of her tongue she cannot, for that's writ down she : None
+3.1 :is slow of; of her purse she shall not, for that : None
+3.1 :I'll keep shut: now, of another thing she may, and : None
+3.1 :that cannot I help. Well, proceed. : None
+SPEED
+3.1 :'Item: She hath more hair than wit, and more faults : None
+3.1 :than hairs, and more wealth than faults.' : None
+LAUNCE
+3.1 :Stop there; I'll have her: she was mine, and not : None
+3.1 :mine, twice or thrice in that last article. : None
+3.1 :Rehearse that once more. : None
+SPEED
+3.1 :'Item: She hath more hair than wit,'-- : None
+LAUNCE
+3.1 :More hair than wit? It may be; I'll prove it. The : None
+3.1 :cover of the salt hides the salt, and therefore it : None
+3.1 :is more than the salt; the hair that covers the wit : None
+3.1 :is more than the wit, for the greater hides the : None
+3.1 :less. What's next? : None
+SPEED
+3.1 :'And more faults than hairs,'-- : None
+LAUNCE
+3.1 :That's monstrous: O, that that were out! : None
+SPEED
+3.1 :'And more wealth than faults.' : None
+LAUNCE
+3.1 :Why, that word makes the faults gracious. Well, : None
+3.1 :I'll have her; and if it be a match, as nothing is : None
+3.1 :impossible,-- : None
+SPEED
+3.1 :What then? : None
+LAUNCE
+3.1 :Why, then will I tell thee--that thy master stays : None
+3.1 :for thee at the North-gate. : None
+SPEED
+3.1 :For me? : None
+LAUNCE
+3.1 :For thee! ay, who art thou? he hath stayed for a : None
+3.1 :better man than thee. : None
+SPEED
+3.1 :And must I go to him? : None
+LAUNCE
+3.1 :Thou must run to him, for thou hast stayed so long : None
+3.1 :that going will scarce serve the turn. : None
+SPEED
+3.1 :Why didst not tell me sooner? pox of your love letters! : None
+Exit : ['Exit - []'] : SPEED
+LAUNCE
+3.1 :Now will he be swinged for reading my letter; an : None
+3.1 :unmannerly slave, that will thrust himself into : None
+3.1 :secrets! I'll after, to rejoice in the boy's correction. : None
+Exit : ['Exit - []'] : LAUNCE
+Scene(scene=2)
+Enter DUKE and THURIO : ["Enter - ['DUKE', 'THURIO']"] : LAUNCE
+DUKE
+3.2 :Sir Thurio, fear not but that she will love you, : None
+3.2 :Now Valentine is banish'd from her sight. : None
+THURIO
+3.2 :Since his exile she hath despised me most, : None
+3.2 :Forsworn my company and rail'd at me, : None
+3.2 :That I am desperate of obtaining her. : None
+DUKE
+3.2 :This weak impress of love is as a figure : None
+3.2 :Trenched in ice, which with an hour's heat : None
+3.2 :Dissolves to water and doth lose his form. : None
+3.2 :A little time will melt her frozen thoughts : None
+3.2 :And worthless Valentine shall be forgot. : None
+Enter PROTEUS : ["Enter - ['PROTEUS']"] : DUKE
+3.2 :How now, Sir Proteus! Is your countryman : None
+3.2 :According to our proclamation gone? : None
+PROTEUS
+3.2 :Gone, my good lord. : None
+DUKE
+3.2 :My daughter takes his going grievously. : None
+PROTEUS
+3.2 :A little time, my lord, will kill that grief. : None
+DUKE
+3.2 :So I believe; but Thurio thinks not so. : None
+3.2 :Proteus, the good conceit I hold of thee-- : None
+3.2 :For thou hast shown some sign of good desert-- : None
+3.2 :Makes me the better to confer with thee. : None
+PROTEUS
+3.2 :Longer than I prove loyal to your grace : None
+3.2 :Let me not live to look upon your grace. : None
+DUKE
+3.2 :Thou know'st how willingly I would effect : None
+3.2 :The match between Sir Thurio and my daughter. : None
+PROTEUS
+3.2 :I do, my lord. : None
+DUKE
+3.2 :And also, I think, thou art not ignorant : None
+3.2 :How she opposes her against my will : None
+PROTEUS
+3.2 :She did, my lord, when Valentine was here. : None
+DUKE
+3.2 :Ay, and perversely she persevers so. : None
+3.2 :What might we do to make the girl forget : None
+3.2 :The love of Valentine and love Sir Thurio? : None
+PROTEUS
+3.2 :The best way is to slander Valentine : None
+3.2 :With falsehood, cowardice and poor descent, : None
+3.2 :Three things that women highly hold in hate. : None
+DUKE
+3.2 :Ay, but she'll think that it is spoke in hate. : None
+PROTEUS
+3.2 :Ay, if his enemy deliver it: : None
+3.2 :Therefore it must with circumstance be spoken : None
+3.2 :By one whom she esteemeth as his friend. : None
+DUKE
+3.2 :Then you must undertake to slander him. : None
+PROTEUS
+3.2 :And that, my lord, I shall be loath to do: : None
+3.2 :'Tis an ill office for a gentleman, : None
+3.2 :Especially against his very friend. : None
+DUKE
+3.2 :Where your good word cannot advantage him, : None
+3.2 :Your slander never can endamage him; : None
+3.2 :Therefore the office is indifferent, : None
+3.2 :Being entreated to it by your friend. : None
+PROTEUS
+3.2 :You have prevail'd, my lord; if I can do it : None
+3.2 :By ought that I can speak in his dispraise, : None
+3.2 :She shall not long continue love to him. : None
+3.2 :But say this weed her love from Valentine, : None
+3.2 :It follows not that she will love Sir Thurio. : None
+THURIO
+3.2 :Therefore, as you unwind her love from him, : None
+3.2 :Lest it should ravel and be good to none, : None
+3.2 :You must provide to bottom it on me; : None
+3.2 :Which must be done by praising me as much : None
+3.2 :As you in worth dispraise Sir Valentine. : None
+DUKE
+3.2 :And, Proteus, we dare trust you in this kind, : None
+3.2 :Because we know, on Valentine's report, : None
+3.2 :You are already Love's firm votary : None
+3.2 :And cannot soon revolt and change your mind. : None
+3.2 :Upon this warrant shall you have access : None
+3.2 :Where you with Silvia may confer at large; : None
+3.2 :For she is lumpish, heavy, melancholy, : None
+3.2 :And, for your friend's sake, will be glad of you; : None
+3.2 :Where you may temper her by your persuasion : None
+3.2 :To hate young Valentine and love my friend. : None
+PROTEUS
+3.2 :As much as I can do, I will effect: : None
+3.2 :But you, Sir Thurio, are not sharp enough; : None
+3.2 :You must lay lime to tangle her desires : None
+3.2 :By wailful sonnets, whose composed rhymes : None
+3.2 :Should be full-fraught with serviceable vows. : None
+DUKE
+3.2 :Ay, : None
+3.2 :Much is the force of heaven-bred poesy. : None
+PROTEUS
+3.2 :Say that upon the altar of her beauty : None
+3.2 :You sacrifice your tears, your sighs, your heart: : None
+3.2 :Write till your ink be dry, and with your tears : None
+3.2 :Moist it again, and frame some feeling line : None
+3.2 :That may discover such integrity: : None
+3.2 :For Orpheus' lute was strung with poets' sinews, : None
+3.2 :Whose golden touch could soften steel and stones, : None
+3.2 :Make tigers tame and huge leviathans : None
+3.2 :Forsake unsounded deeps to dance on sands. : None
+3.2 :After your dire-lamenting elegies, : None
+3.2 :Visit by night your lady's chamber-window : None
+3.2 :With some sweet concert; to their instruments : None
+3.2 :Tune a deploring dump: the night's dead silence : None
+3.2 :Will well become such sweet-complaining grievance. : None
+3.2 :This, or else nothing, will inherit her. : None
+DUKE
+3.2 :This discipline shows thou hast been in love. : None
+THURIO
+3.2 :And thy advice this night I'll put in practise. : None
+3.2 :Therefore, sweet Proteus, my direction-giver, : None
+3.2 :Let us into the city presently : None
+3.2 :To sort some gentlemen well skill'd in music. : None
+3.2 :I have a sonnet that will serve the turn : None
+3.2 :To give the onset to thy good advice. : None
+DUKE
+3.2 :About it, gentlemen! : None
+PROTEUS
+3.2 :We'll wait upon your grace till after supper, : None
+3.2 :And afterward determine our proceedings. : None
+DUKE
+3.2 :Even now about it! I will pardon you. : None
+Exeunt : ['Exeunt - []'] : DUKE
+Act(act=4)
+Scene(scene=1)
+Enter certain Outlaws : ["Enter - ['OUTLAWS']"] : DUKE
+FIRST OUTLAW
+4.1 :Fellows, stand fast; I see a passenger. : None
+SECOND OUTLAW
+4.1 :If there be ten, shrink not, but down with 'em. : None
+Enter VALENTINE and SPEED : ["Enter - ['VALENTINE', 'SPEED']"] : SECOND OUTLAW
+THIRD OUTLAW
+4.1 :Stand, sir, and throw us that you have about ye: : None
+4.1 :If not: we'll make you sit and rifle you. : None
+SPEED
+4.1 :Sir, we are undone; these are the villains : None
+4.1 :That all the travellers do fear so much. : None
+VALENTINE
+4.1 :My friends,-- : None
+FIRST OUTLAW
+4.1 :That's not so, sir: we are your enemies. : None
+SECOND OUTLAW
+4.1 :Peace! we'll hear him. : None
+THIRD OUTLAW
+4.1 :Ay, by my beard, will we, for he's a proper man. : None
+VALENTINE
+4.1 :Then know that I have little wealth to lose: : None
+4.1 :A man I am cross'd with adversity; : None
+4.1 :My riches are these poor habiliments, : None
+4.1 :Of which if you should here disfurnish me, : None
+4.1 :You take the sum and substance that I have. : None
+SECOND OUTLAW
+4.1 :Whither travel you? : None
+VALENTINE
+4.1 :To Verona. : None
+FIRST OUTLAW
+4.1 :Whence came you? : None
+VALENTINE
+4.1 :From Milan. : None
+THIRD OUTLAW
+4.1 :Have you long sojourned there? : None
+VALENTINE
+4.1 :Some sixteen months, and longer might have stay'd, : None
+4.1 :If crooked fortune had not thwarted me. : None
+FIRST OUTLAW
+4.1 :What, were you banish'd thence? : None
+VALENTINE
+4.1 :I was. : None
+SECOND OUTLAW
+4.1 :For what offence? : None
+VALENTINE
+4.1 :For that which now torments me to rehearse: : None
+4.1 :I kill'd a man, whose death I much repent; : None
+4.1 :Bu t yet I slew him manfully in fight, : None
+4.1 :Without false vantage or base treachery. : None
+FIRST OUTLAW
+4.1 :Why, ne'er repent it, if it were done so. : None
+4.1 :But were you banish'd for so small a fault? : None
+VALENTINE
+4.1 :I was, and held me glad of such a doom. : None
+SECOND OUTLAW
+4.1 :Have you the tongues? : None
+VALENTINE
+4.1 :My youthful travel therein made me happy, : None
+4.1 :Or else I often had been miserable. : None
+THIRD OUTLAW
+4.1 :By the bare scalp of Robin Hood's fat friar, : None
+4.1 :This fellow were a king for our wild faction! : None
+FIRST OUTLAW
+4.1 :We'll have him. Sirs, a word. : None
+SPEED
+4.1 :Master, be one of them; it's an honourable kind of thievery. : None
+VALENTINE
+4.1 :Peace, villain! : None
+SECOND OUTLAW
+4.1 :Tell us this: have you any thing to take to? : None
+VALENTINE
+4.1 :Nothing but my fortune. : None
+THIRD OUTLAW
+4.1 :Know, then, that some of us are gentlemen, : None
+4.1 :Such as the fury of ungovern'd youth : None
+4.1 :Thrust from the company of awful men: : None
+4.1 :Myself was from Verona banished : None
+4.1 :For practising to steal away a lady, : None
+4.1 :An heir, and near allied unto the duke. : None
+SECOND OUTLAW
+4.1 :And I from Mantua, for a gentleman, : None
+4.1 :Who, in my mood, I stabb'd unto the heart. : None
+FIRST OUTLAW
+4.1 :And I for such like petty crimes as these, : None
+4.1 :But to the purpose--for we cite our faults, : None
+4.1 :That they may hold excus'd our lawless lives; : None
+4.1 :And partly, seeing you are beautified : None
+4.1 :With goodly shape and by your own report : None
+4.1 :A linguist and a man of such perfection : None
+4.1 :As we do in our quality much want-- : None
+SECOND OUTLAW
+4.1 :Indeed, because you are a banish'd man, : None
+4.1 :Therefore, above the rest, we parley to you: : None
+4.1 :Are you content to be our general? : None
+4.1 :To make a virtue of necessity : None
+4.1 :And live, as we do, in this wilderness? : None
+THIRD OUTLAW
+4.1 :What say'st thou? wilt thou be of our consort? : None
+4.1 :Say ay, and be the captain of us all: : None
+4.1 :We'll do thee homage and be ruled by thee, : None
+4.1 :Love thee as our commander and our king. : None
+FIRST OUTLAW
+4.1 :But if thou scorn our courtesy, thou diest. : None
+SECOND OUTLAW
+4.1 :Thou shalt not live to brag what we have offer'd. : None
+VALENTINE
+4.1 :I take your offer and will live with you, : None
+4.1 :Provided that you do no outrages : None
+4.1 :On silly women or poor passengers. : None
+THIRD OUTLAW
+4.1 :No, we detest such vile base practises. : None
+4.1 :Come, go with us, we'll bring thee to our crews, : None
+4.1 :And show thee all the treasure we have got, : None
+4.1 :Which, with ourselves, all rest at thy dispose. : None
+Exeunt : ['Exeunt - []'] : THIRD OUTLAW
+Scene(scene=2)
+Enter PROTEUS : ["Enter - ['PROTEUS']"] : THIRD OUTLAW
+PROTEUS
+4.2 :Already have I been false to Valentine : None
+4.2 :And now I must be as unjust to Thurio. : None
+4.2 :Under the colour of commending him, : None
+4.2 :I have access my own love to prefer: : None
+4.2 :But Silvia is too fair, too true, too holy, : None
+4.2 :To be corrupted with my worthless gifts. : None
+4.2 :When I protest true loyalty to her, : None
+4.2 :She twits me with my falsehood to my friend; : None
+4.2 :When to her beauty I commend my vows, : None
+4.2 :She bids me think how I have been forsworn : None
+4.2 :In breaking faith with Julia whom I loved: : None
+4.2 :And notwithstanding all her sudden quips, : None
+4.2 :The least whereof would quell a lover's hope, : None
+4.2 :Yet, spaniel-like, the more she spurns my love, : None
+4.2 :The more it grows and fawneth on her still. : None
+4.2 :But here comes Thurio: now must we to her window, : None
+4.2 :And give some evening music to her ear. : None
+Enter THURIO and Musicians : ["Enter - ['THURIO']"] : PROTEUS
+THURIO
+4.2 :How now, Sir Proteus, are you crept before us? : None
+PROTEUS
+4.2 :Ay, gentle Thurio: for you know that love : None
+4.2 :Will creep in service where it cannot go. : None
+THURIO
+4.2 :Ay, but I hope, sir, that you love not here. : None
+PROTEUS
+4.2 :Sir, but I do; or else I would be hence. : None
+THURIO
+4.2 :Who? Silvia? : None
+PROTEUS
+4.2 :                  Ay, Silvia; for your sake. : None
+THURIO
+4.2 :I thank you for your own. Now, gentlemen, : None
+4.2 :Let's tune, and to it lustily awhile. : None
+Enter, at a distance, Host, and JULIA in boy's clothes : ["Enter - ['HOST', 'JULIA']"] : THURIO
+HOST
+4.2 :Now, my young guest, methinks you're allycholly: I : None
+4.2 :pray you, why is it? : None
+JULIA
+4.2 :Marry, mine host, because I cannot be merry. : None
+HOST
+4.2 :Come, we'll have you merry: I'll bring you where : None
+4.2 :you shall hear music and see the gentleman that you asked for. : None
+JULIA
+4.2 :But shall I hear him speak? : None
+HOST
+4.2 :Ay, that you shall. : None
+JULIA
+4.2 :That will be music. : None
+Music plays : ['None - []'] : JULIA
+HOST
+4.2 :Hark, hark! : None
+JULIA
+4.2 :Is he among these? : None
+HOST
+4.2 :Ay: but, peace! let's hear 'em. : None
+4.2 :SONG. : None
+4.2 :Who is Silvia? what is she, : None
+4.2 :That all our swains commend her? : None
+4.2 :Holy, fair and wise is she; : None
+4.2 :The heaven such grace did lend her, : None
+4.2 :That she might admired be. : None
+4.2 :Is she kind as she is fair? : None
+4.2 :For beauty lives with kindness. : None
+4.2 :Love doth to her eyes repair, : None
+4.2 :To help him of his blindness, : None
+4.2 :And, being help'd, inhabits there. : None
+4.2 :Then to Silvia let us sing, : None
+4.2 :That Silvia is excelling; : None
+4.2 :She excels each mortal thing : None
+4.2 :Upon the dull earth dwelling: : None
+4.2 :To her let us garlands bring. : None
+HOST
+4.2 :How now! are you sadder than you were before? How : None
+4.2 :do you, man? the music likes you not. : None
+JULIA
+4.2 :You mistake; the musician likes me not. : None
+HOST
+4.2 :Why, my pretty youth? : None
+JULIA
+4.2 :He plays false, father. : None
+HOST
+4.2 :How? out of tune on the strings? : None
+JULIA
+4.2 :Not so; but yet so false that he grieves my very : None
+4.2 :heart-strings. : None
+HOST
+4.2 :You have a quick ear. : None
+JULIA
+4.2 :Ay, I would I were deaf; it makes me have a slow heart. : None
+HOST
+4.2 :I perceive you delight not in music. : None
+JULIA
+4.2 :Not a whit, when it jars so. : None
+HOST
+4.2 :Hark, what fine change is in the music! : None
+JULIA
+4.2 :Ay, that change is the spite. : None
+HOST
+4.2 :You would have them always play but one thing? : None
+JULIA
+4.2 :I would always have one play but one thing. : None
+4.2 :But, host, doth this Sir Proteus that we talk on : None
+4.2 :Often resort unto this gentlewoman? : None
+HOST
+4.2 :I tell you what Launce, his man, told me: he loved : None
+4.2 :her out of all nick. : None
+JULIA
+4.2 :Where is Launce? : None
+HOST
+4.2 :Gone to seek his dog; which tomorrow, by his : None
+4.2 :master's command, he must carry for a present to his lady. : None
+JULIA
+4.2 :Peace! stand aside: the company parts. : None
+PROTEUS
+4.2 :Sir Thurio, fear not you: I will so plead : None
+4.2 :That you shall say my cunning drift excels. : None
+THURIO
+4.2 :Where meet we? : None
+PROTEUS
+4.2 :                  At Saint Gregory's well. : None
+THURIO
+4.2 :Farewell. : None
+Exeunt THURIO and Musicians : ["Exeunt - ['THURIO']"] : THURIO
+Enter SILVIA above : ["Enter - ['SILVIA']"] : THURIO
+PROTEUS
+4.2 :Madam, good even to your ladyship. : None
+SILVIA
+4.2 :I thank you for your music, gentlemen. : None
+4.2 :Who is that that spake? : None
+PROTEUS
+4.2 :One, lady, if you knew his pure heart's truth, : None
+4.2 :You would quickly learn to know him by his voice. : None
+SILVIA
+4.2 :Sir Proteus, as I take it. : None
+PROTEUS
+4.2 :Sir Proteus, gentle lady, and your servant. : None
+SILVIA
+4.2 :What's your will? : None
+PROTEUS
+4.2 :                  That I may compass yours. : None
+SILVIA
+4.2 :You have your wish; my will is even this: : None
+4.2 :That presently you hie you home to bed. : None
+4.2 :Thou subtle, perjured, false, disloyal man! : None
+4.2 :Think'st thou I am so shallow, so conceitless, : None
+4.2 :To be seduced by thy flattery, : None
+4.2 :That hast deceived so many with thy vows? : None
+4.2 :Return, return, and make thy love amends. : None
+4.2 :For me, by this pale queen of night I swear, : None
+4.2 :I am so far from granting thy request : None
+4.2 :That I despise thee for thy wrongful suit, : None
+4.2 :And by and by intend to chide myself : None
+4.2 :Even for this time I spend in talking to thee. : None
+PROTEUS
+4.2 :I grant, sweet love, that I did love a lady; : None
+4.2 :But she is dead. : None
+JULIA
+4.2 :        'Twere false, if I should speak it; : Aside : ['Aside - []'] : JULIA
+4.2 :For I am sure she is not buried. : None
+SILVIA
+4.2 :Say that she be; yet Valentine thy friend : None
+4.2 :Survives; to whom, thyself art witness, : None
+4.2 :I am betroth'd: and art thou not ashamed : None
+4.2 :To wrong him with thy importunacy? : None
+PROTEUS
+4.2 :I likewise hear that Valentine is dead. : None
+SILVIA
+4.2 :And so suppose am I; for in his grave : None
+4.2 :Assure thyself my love is buried. : None
+PROTEUS
+4.2 :Sweet lady, let me rake it from the earth. : None
+SILVIA
+4.2 :Go to thy lady's grave and call hers thence, : None
+4.2 :Or, at the least, in hers sepulchre thine. : None
+JULIA
+4.2 :  He heard not that. : Aside : ['Aside - []'] : JULIA
+PROTEUS
+4.2 :Madam, if your heart be so obdurate, : None
+4.2 :Vouchsafe me yet your picture for my love, : None
+4.2 :The picture that is hanging in your chamber; : None
+4.2 :To that I'll speak, to that I'll sigh and weep: : None
+4.2 :For since the substance of your perfect self : None
+4.2 :Is else devoted, I am but a shadow; : None
+4.2 :And to your shadow will I make true love. : None
+JULIA
+4.2 :  If 'twere a substance, you would, sure, : Aside : ['Aside - []'] : JULIA
+4.2 :deceive it, : None
+4.2 :And make it but a shadow, as I am. : None
+SILVIA
+4.2 :I am very loath to be your idol, sir; : None
+4.2 :But since your falsehood shall become you well : None
+4.2 :To worship shadows and adore false shapes, : None
+4.2 :Send to me in the morning and I'll send it: : None
+4.2 :And so, good rest. : None
+PROTEUS
+4.2 :                  As wretches have o'ernight : None
+4.2 :That wait for execution in the morn. : None
+Exeunt PROTEUS and SILVIA severally : ["Exeunt - ['PROTEUS', 'SILVIA']"] : PROTEUS
+JULIA
+4.2 :Host, will you go? : None
+HOST
+4.2 :By my halidom, I was fast asleep. : None
+JULIA
+4.2 :Pray you, where lies Sir Proteus? : None
+HOST
+4.2 :Marry, at my house. Trust me, I think 'tis almost : None
+4.2 :day. : None
+JULIA
+4.2 :Not so; but it hath been the longest night : None
+4.2 :That e'er I watch'd and the most heaviest. : None
+Exeunt : ['Exeunt - []'] : JULIA
+Scene(scene=3)
+Enter EGLAMOUR : ["Enter - ['EGLAMOUR']"] : JULIA
+EGLAMOUR
+4.3 :This is the hour that Madam Silvia : None
+4.3 :Entreated me to call and know her mind: : None
+4.3 :There's some great matter she'ld employ me in. : None
+4.3 :Madam, madam! : None
+Enter SILVIA above : ["Enter - ['SILVIA']"] : EGLAMOUR
+SILVIA
+4.3 :                  Who calls? : None
+EGLAMOUR
+4.3 :Your servant and your friend; : None
+4.3 :One that attends your ladyship's command. : None
+SILVIA
+4.3 :Sir Eglamour, a thousand times good morrow. : None
+EGLAMOUR
+4.3 :As many, worthy lady, to yourself: : None
+4.3 :According to your ladyship's impose, : None
+4.3 :I am thus early come to know what service : None
+4.3 :It is your pleasure to command me in. : None
+SILVIA
+4.3 :O Eglamour, thou art a gentleman-- : None
+4.3 :Think not I flatter, for I swear I do not-- : None
+4.3 :Valiant, wise, remorseful, well accomplish'd: : None
+4.3 :Thou art not ignorant what dear good will : None
+4.3 :I bear unto the banish'd Valentine, : None
+4.3 :Nor how my father would enforce me marry : None
+4.3 :Vain Thurio, whom my very soul abhors. : None
+4.3 :Thyself hast loved; and I have heard thee say : None
+4.3 :No grief did ever come so near thy heart : None
+4.3 :As when thy lady and thy true love died, : None
+4.3 :Upon whose grave thou vow'dst pure chastity. : None
+4.3 :Sir Eglamour, I would to Valentine, : None
+4.3 :To Mantua, where I hear he makes abode; : None
+4.3 :And, for the ways are dangerous to pass, : None
+4.3 :I do desire thy worthy company, : None
+4.3 :Upon whose faith and honour I repose. : None
+4.3 :Urge not my father's anger, Eglamour, : None
+4.3 :But think upon my grief, a lady's grief, : None
+4.3 :And on the justice of my flying hence, : None
+4.3 :To keep me from a most unholy match, : None
+4.3 :Which heaven and fortune still rewards with plagues. : None
+4.3 :I do desire thee, even from a heart : None
+4.3 :As full of sorrows as the sea of sands, : None
+4.3 :To bear me company and go with me: : None
+4.3 :If not, to hide what I have said to thee, : None
+4.3 :That I may venture to depart alone. : None
+EGLAMOUR
+4.3 :Madam, I pity much your grievances; : None
+4.3 :Which since I know they virtuously are placed, : None
+4.3 :I give consent to go along with you, : None
+4.3 :Recking as little what betideth me : None
+4.3 :As much I wish all good befortune you. : None
+4.3 :When will you go? : None
+SILVIA
+4.3 :                  This evening coming. : None
+EGLAMOUR
+4.3 :Where shall I meet you? : None
+SILVIA
+4.3 :At Friar Patrick's cell, : None
+4.3 :Where I intend holy confession. : None
+EGLAMOUR
+4.3 :I will not fail your ladyship. Good morrow, gentle lady. : None
+SILVIA
+4.3 :Good morrow, kind Sir Eglamour. : None
+Exeunt severally : ['Exeunt - []'] : SILVIA
+Scene(scene=4)
+Enter LAUNCE, with his his Dog : ["Enter - ['LAUNCE']"] : SILVIA
+LAUNCE
+4.4 :When a man's servant shall play the cur with him, : None
+4.4 :look you, it goes hard: one that I brought up of a : None
+4.4 :puppy; one that I saved from drowning, when three or : None
+4.4 :four of his blind brothers and sisters went to it. : None
+4.4 :I have taught him, even as one would say precisely, : None
+4.4 :'thus I would teach a dog.' I was sent to deliver : None
+4.4 :him as a present to Mistress Silvia from my master; : None
+4.4 :and I came no sooner into the dining-chamber but he : None
+4.4 :steps me to her trencher and steals her capon's leg: : None
+4.4 :O, 'tis a foul thing when a cur cannot keep himself : None
+4.4 :in all companies! I would have, as one should say, : None
+4.4 :one that takes upon him to be a dog indeed, to be, : None
+4.4 :as it were, a dog at all things. If I had not had : None
+4.4 :more wit than he, to take a fault upon me that he did, : None
+4.4 :I think verily he had been hanged for't; sure as I : None
+4.4 :live, he had suffered for't; you shall judge. He : None
+4.4 :thrusts me himself into the company of three or four : None
+4.4 :gentlemanlike dogs under the duke's table: he had : None
+4.4 :not been there--bless the mark!--a pissing while, but : None
+4.4 :all the chamber smelt him. 'Out with the dog!' says : None
+4.4 :one: 'What cur is that?' says another: 'Whip him : None
+4.4 :out' says the third: 'Hang him up' says the duke. : None
+4.4 :I, having been acquainted with the smell before, : None
+4.4 :knew it was Crab, and goes me to the fellow that : None
+4.4 :whips the dogs: 'Friend,' quoth I, 'you mean to whip : None
+4.4 :the dog?' 'Ay, marry, do I,' quoth he. 'You do him : None
+4.4 :the more wrong,' quoth I; ''twas I did the thing you : None
+4.4 :wot of.' He makes me no more ado, but whips me out : None
+4.4 :of the chamber. How many masters would do this for : None
+4.4 :his servant? Nay, I'll be sworn, I have sat in the : None
+4.4 :stocks for puddings he hath stolen, otherwise he had : None
+4.4 :been executed; I have stood on the pillory for geese : None
+4.4 :he hath killed, otherwise he had suffered for't. : None
+4.4 :Thou thinkest not of this now. Nay, I remember the : None
+4.4 :trick you served me when I took my leave of Madam : None
+4.4 :Silvia: did not I bid thee still mark me and do as I : None
+4.4 :do? when didst thou see me heave up my leg and make : None
+4.4 :water against a gentlewoman's farthingale? didst : None
+4.4 :thou ever see me do such a trick? : None
+Enter PROTEUS and JULIA : ["Enter - ['PROTEUS', 'JULIA']"] : LAUNCE
+PROTEUS
+4.4 :Sebastian is thy name? I like thee well : None
+4.4 :And will employ thee in some service presently. : None
+JULIA
+4.4 :In what you please: I'll do what I can. : None
+PROTEUS
+4.4 :I hope thou wilt. : None
+To LAUNCE : ["To - ['LAUNCE']"] : PROTEUS
+4.4 :How now, you whoreson peasant! : None
+4.4 :Where have you been these two days loitering? : None
+LAUNCE
+4.4 :Marry, sir, I carried Mistress Silvia the dog you bade me. : None
+PROTEUS
+4.4 :And what says she to my little jewel? : None
+LAUNCE
+4.4 :Marry, she says your dog was a cur, and tells you : None
+4.4 :currish thanks is good enough for such a present. : None
+PROTEUS
+4.4 :But she received my dog? : None
+LAUNCE
+4.4 :No, indeed, did she not: here have I brought him : None
+4.4 :back again. : None
+PROTEUS
+4.4 :What, didst thou offer her this from me? : None
+LAUNCE
+4.4 :Ay, sir: the other squirrel was stolen from me by : None
+4.4 :the hangman boys in the market-place: and then I : None
+4.4 :offered her mine own, who is a dog as big as ten of : None
+4.4 :yours, and therefore the gift the greater. : None
+PROTEUS
+4.4 :Go get thee hence, and find my dog again, : None
+4.4 :Or ne'er return again into my sight. : None
+4.4 :Away, I say! stay'st thou to vex me here? : None
+Exit LAUNCE : ["Exit - ['LAUNCE']"] : PROTEUS
+4.4 :A slave, that still an end turns me to shame! : None
+4.4 :Sebastian, I have entertained thee, : None
+4.4 :Partly that I have need of such a youth : None
+4.4 :That can with some discretion do my business, : None
+4.4 :For 'tis no trusting to yond foolish lout, : None
+4.4 :But chiefly for thy face and thy behavior, : None
+4.4 :Which, if my augury deceive me not, : None
+4.4 :Witness good bringing up, fortune and truth: : None
+4.4 :Therefore know thou, for this I entertain thee. : None
+4.4 :Go presently and take this ring with thee, : None
+4.4 :Deliver it to Madam Silvia: : None
+4.4 :She loved me well deliver'd it to me. : None
+JULIA
+4.4 :It seems you loved not her, to leave her token. : None
+4.4 :She is dead, belike? : None
+PROTEUS
+4.4 :Not so; I think she lives. : None
+JULIA
+4.4 :Alas! : None
+PROTEUS
+4.4 :Why dost thou cry 'alas'? : None
+JULIA
+4.4 :I cannot choose : None
+4.4 :But pity her. : None
+PROTEUS
+4.4 :                  Wherefore shouldst thou pity her? : None
+JULIA
+4.4 :Because methinks that she loved you as well : None
+4.4 :As you do love your lady Silvia: : None
+4.4 :She dreams of him that has forgot her love; : None
+4.4 :You dote on her that cares not for your love. : None
+4.4 :'Tis pity love should be so contrary; : None
+4.4 :And thinking of it makes me cry 'alas!' : None
+PROTEUS
+4.4 :Well, give her that ring and therewithal : None
+4.4 :This letter. That's her chamber. Tell my lady : None
+4.4 :I claim the promise for her heavenly picture. : None
+4.4 :Your message done, hie home unto my chamber, : None
+4.4 :Where thou shalt find me, sad and solitary. : None
+Exit : ['Exit - []'] : PROTEUS
+JULIA
+4.4 :How many women would do such a message? : None
+4.4 :Alas, poor Proteus! thou hast entertain'd : None
+4.4 :A fox to be the shepherd of thy lambs. : None
+4.4 :Alas, poor fool! why do I pity him : None
+4.4 :That with his very heart despiseth me? : None
+4.4 :Because he loves her, he despiseth me; : None
+4.4 :Because I love him I must pity him. : None
+4.4 :This ring I gave him when he parted from me, : None
+4.4 :To bind him to remember my good will; : None
+4.4 :And now am I, unhappy messenger, : None
+4.4 :To plead for that which I would not obtain, : None
+4.4 :To carry that which I would have refused, : None
+4.4 :To praise his faith which I would have dispraised. : None
+4.4 :I am my master's true-confirmed love; : None
+4.4 :But cannot be true servant to my master, : None
+4.4 :Unless I prove false traitor to myself. : None
+4.4 :Yet will I woo for him, but yet so coldly : None
+4.4 :As, heaven it knows, I would not have him speed. : None
+Enter SILVIA, attended : ["Enter - ['SILVIA']"] : JULIA
+4.4 :Gentlewoman, good day! I pray you, be my mean : None
+4.4 :To bring me where to speak with Madam Silvia. : None
+SILVIA
+4.4 :What would you with her, if that I be she? : None
+JULIA
+4.4 :If you be she, I do entreat your patience : None
+4.4 :To hear me speak the message I am sent on. : None
+SILVIA
+4.4 :From whom? : None
+JULIA
+4.4 :From my master, Sir Proteus, madam. : None
+SILVIA
+4.4 :O, he sends you for a picture. : None
+JULIA
+4.4 :Ay, madam. : None
+SILVIA
+4.4 :Ursula, bring my picture here. : None
+4.4 :Go give your master this: tell him from me, : None
+4.4 :One Julia, that his changing thoughts forget, : None
+4.4 :Would better fit his chamber than this shadow. : None
+JULIA
+4.4 :Madam, please you peruse this letter.-- : None
+4.4 :Pardon me, madam; I have unadvised : None
+4.4 :Deliver'd you a paper that I should not: : None
+4.4 :This is the letter to your ladyship. : None
+SILVIA
+4.4 :I pray thee, let me look on that again. : None
+JULIA
+4.4 :It may not be; good madam, pardon me. : None
+SILVIA
+4.4 :There, hold! : None
+4.4 :I will not look upon your master's lines: : None
+4.4 :I know they are stuff'd with protestations : None
+4.4 :And full of new-found oaths; which he will break : None
+4.4 :As easily as I do tear his paper. : None
+JULIA
+4.4 :Madam, he sends your ladyship this ring. : None
+SILVIA
+4.4 :The more shame for him that he sends it me; : None
+4.4 :For I have heard him say a thousand times : None
+4.4 :His Julia gave it him at his departure. : None
+4.4 :Though his false finger have profaned the ring, : None
+4.4 :Mine shall not do his Julia so much wrong. : None
+JULIA
+4.4 :She thanks you. : None
+SILVIA
+4.4 :What say'st thou? : None
+JULIA
+4.4 :I thank you, madam, that you tender her. : None
+4.4 :Poor gentlewoman! my master wrongs her much. : None
+SILVIA
+4.4 :Dost thou know her? : None
+JULIA
+4.4 :Almost as well as I do know myself: : None
+4.4 :To think upon her woes I do protest : None
+4.4 :That I have wept a hundred several times. : None
+SILVIA
+4.4 :Belike she thinks that Proteus hath forsook her. : None
+JULIA
+4.4 :I think she doth; and that's her cause of sorrow. : None
+SILVIA
+4.4 :Is she not passing fair? : None
+JULIA
+4.4 :She hath been fairer, madam, than she is: : None
+4.4 :When she did think my master loved her well, : None
+4.4 :She, in my judgment, was as fair as you: : None
+4.4 :But since she did neglect her looking-glass : None
+4.4 :And threw her sun-expelling mask away, : None
+4.4 :The air hath starved the roses in her cheeks : None
+4.4 :And pinch'd the lily-tincture of her face, : None
+4.4 :That now she is become as black as I. : None
+SILVIA
+4.4 :How tall was she? : None
+JULIA
+4.4 :About my stature; for at Pentecost, : None
+4.4 :When all our pageants of delight were play'd, : None
+4.4 :Our youth got me to play the woman's part, : None
+4.4 :And I was trimm'd in Madam Julia's gown, : None
+4.4 :Which served me as fit, by all men's judgments, : None
+4.4 :As if the garment had been made for me: : None
+4.4 :Therefore I know she is about my height. : None
+4.4 :And at that time I made her weep agood, : None
+4.4 :For I did play a lamentable part: : None
+4.4 :Madam, 'twas Ariadne passioning : None
+4.4 :For Theseus' perjury and unjust flight; : None
+4.4 :Which I so lively acted with my tears : None
+4.4 :That my poor mistress, moved therewithal, : None
+4.4 :Wept bitterly; and would I might be dead : None
+4.4 :If I in thought felt not her very sorrow! : None
+SILVIA
+4.4 :She is beholding to thee, gentle youth. : None
+4.4 :Alas, poor lady, desolate and left! : None
+4.4 :I weep myself to think upon thy words. : None
+4.4 :Here, youth, there is my purse; I give thee this : None
+4.4 :For thy sweet mistress' sake, because thou lovest her. : None
+4.4 :Farewell. : None
+Exit SILVIA, with attendants : ["Exit - ['SILVIA']"] : SILVIA
+JULIA
+4.4 :And she shall thank you for't, if e'er you know her. : None
+4.4 :A virtuous gentlewoman, mild and beautiful : None
+4.4 :I hope my master's suit will be but cold, : None
+4.4 :Since she respects my mistress' love so much. : None
+4.4 :Alas, how love can trifle with itself! : None
+4.4 :Here is her picture: let me see; I think, : None
+4.4 :If I had such a tire, this face of mine : None
+4.4 :Were full as lovely as is this of hers: : None
+4.4 :And yet the painter flatter'd her a little, : None
+4.4 :Unless I flatter with myself too much. : None
+4.4 :Her hair is auburn, mine is perfect yellow: : None
+4.4 :If that be all the difference in his love, : None
+4.4 :I'll get me such a colour'd periwig. : None
+4.4 :Her eyes are grey as glass, and so are mine: : None
+4.4 :Ay, but her forehead's low, and mine's as high. : None
+4.4 :What should it be that he respects in her : None
+4.4 :But I can make respective in myself, : None
+4.4 :If this fond Love were not a blinded god? : None
+4.4 :Come, shadow, come and take this shadow up, : None
+4.4 :For 'tis thy rival. O thou senseless form, : None
+4.4 :Thou shalt be worshipp'd, kiss'd, loved and adored! : None
+4.4 :And, were there sense in his idolatry, : None
+4.4 :My substance should be statue in thy stead. : None
+4.4 :I'll use thee kindly for thy mistress' sake, : None
+4.4 :That used me so; or else, by Jove I vow, : None
+4.4 :I should have scratch'd out your unseeing eyes : None
+4.4 :To make my master out of love with thee! : None
+Exit : ['Exit - []'] : JULIA
+Act(act=5)
+Scene(scene=1)
+Enter EGLAMOUR : ["Enter - ['EGLAMOUR']"] : JULIA
+EGLAMOUR
+5.1 :The sun begins to gild the western sky; : None
+5.1 :And now it is about the very hour : None
+5.1 :That Silvia, at Friar Patrick's cell, should meet me. : None
+5.1 :She will not fail, for lovers break not hours, : None
+5.1 :Unless it be to come before their time; : None
+5.1 :So much they spur their expedition. : None
+5.1 :See where she comes. : None
+Enter SILVIA : ["Enter - ['SILVIA']"] : EGLAMOUR
+5.1 :Lady, a happy evening! : None
+SILVIA
+5.1 :Amen, amen! Go on, good Eglamour, : None
+5.1 :Out at the postern by the abbey-wall: : None
+5.1 :I fear I am attended by some spies. : None
+EGLAMOUR
+5.1 :Fear not: the forest is not three leagues off; : None
+5.1 :If we recover that, we are sure enough. : None
+Exeunt : ['Exeunt - []'] : EGLAMOUR
+Scene(scene=2)
+Enter THURIO, PROTEUS, and JULIA : ["Enter - ['THURIO', 'PROTEUS', 'JULIA']"] : EGLAMOUR
+THURIO
+5.2 :Sir Proteus, what says Silvia to my suit? : None
+PROTEUS
+5.2 :O, sir, I find her milder than she was; : None
+5.2 :And yet she takes exceptions at your person. : None
+THURIO
+5.2 :What, that my leg is too long? : None
+PROTEUS
+5.2 :No; that it is too little. : None
+THURIO
+5.2 :I'll wear a boot, to make it somewhat rounder. : None
+JULIA
+5.2 :  But love will not be spurr'd to what : Aside : ['Aside - []'] : JULIA
+5.2 :it loathes. : None
+THURIO
+5.2 :What says she to my face? : None
+PROTEUS
+5.2 :She says it is a fair one. : None
+THURIO
+5.2 :Nay then, the wanton lies; my face is black. : None
+PROTEUS
+5.2 :But pearls are fair; and the old saying is, : None
+5.2 :Black men are pearls in beauteous ladies' eyes. : None
+JULIA
+5.2 :  'Tis true; such pearls as put out : Aside : ['Aside - []'] : JULIA
+5.2 :ladies' eyes; : None
+5.2 :For I had rather wink than look on them. : None
+THURIO
+5.2 :How likes she my discourse? : None
+PROTEUS
+5.2 :Ill, when you talk of war. : None
+THURIO
+5.2 :But well, when I discourse of love and peace? : None
+JULIA
+5.2 :  But better, indeed, when you hold your peace. : Aside : ['Aside - []'] : JULIA
+THURIO
+5.2 :What says she to my valour? : None
+PROTEUS
+5.2 :O, sir, she makes no doubt of that. : None
+JULIA
+5.2 :  She needs not, when she knows it cowardice. : Aside : ['Aside - []'] : JULIA
+THURIO
+5.2 :What says she to my birth? : None
+PROTEUS
+5.2 :That you are well derived. : None
+JULIA
+5.2 :  True; from a gentleman to a fool. : Aside : ['Aside - []'] : JULIA
+THURIO
+5.2 :Considers she my possessions? : None
+PROTEUS
+5.2 :O, ay; and pities them. : None
+THURIO
+5.2 :Wherefore? : None
+JULIA
+5.2 :  That such an ass should owe them. : Aside : ['Aside - []'] : JULIA
+PROTEUS
+5.2 :That they are out by lease. : None
+JULIA
+5.2 :Here comes the duke. : None
+Enter DUKE : ["Enter - ['DUKE']"] : JULIA
+DUKE
+5.2 :How now, Sir Proteus! how now, Thurio! : None
+5.2 :Which of you saw Sir Eglamour of late? : None
+THURIO
+5.2 :Not I. : None
+PROTEUS
+5.2 :     Nor I. : None
+DUKE
+5.2 :          Saw you my daughter? : None
+PROTEUS
+5.2 :Neither. : None
+DUKE
+5.2 :Why then, : None
+5.2 :She's fled unto that peasant Valentine; : None
+5.2 :And Eglamour is in her company. : None
+5.2 :'Tis true; for Friar Laurence met them both, : None
+5.2 :As he in penance wander'd through the forest; : None
+5.2 :Him he knew well, and guess'd that it was she, : None
+5.2 :But, being mask'd, he was not sure of it; : None
+5.2 :Besides, she did intend confession : None
+5.2 :At Patrick's cell this even; and there she was not; : None
+5.2 :These likelihoods confirm her flight from hence. : None
+5.2 :Therefore, I pray you, stand not to discourse, : None
+5.2 :But mount you presently and meet with me : None
+5.2 :Upon the rising of the mountain-foot : None
+5.2 :That leads towards Mantua, whither they are fled: : None
+5.2 :Dispatch, sweet gentlemen, and follow me. : None
+Exit : ['Exit - []'] : DUKE
+THURIO
+5.2 :Why, this it is to be a peevish girl, : None
+5.2 :That flies her fortune when it follows her. : None
+5.2 :I'll after, more to be revenged on Eglamour : None
+5.2 :Than for the love of reckless Silvia. : None
+Exit : ['Exit - []'] : THURIO
+PROTEUS
+5.2 :And I will follow, more for Silvia's love : None
+5.2 :Than hate of Eglamour that goes with her. : None
+Exit : ['Exit - []'] : PROTEUS
+JULIA
+5.2 :And I will follow, more to cross that love : None
+5.2 :Than hate for Silvia that is gone for love. : None
+Exit : ['Exit - []'] : JULIA
+Scene(scene=3)
+Enter Outlaws with SILVIA : ["Enter - ['OUTLAWS', 'SILVIA']"] : JULIA
+FIRST OUTLAW
+5.3 :Come, come, : None
+5.3 :Be patient; we must bring you to our captain. : None
+SILVIA
+5.3 :A thousand more mischances than this one : None
+5.3 :Have learn'd me how to brook this patiently. : None
+SECOND OUTLAW
+5.3 :Come, bring her away. : None
+FIRST OUTLAW
+5.3 :Where is the gentleman that was with her? : None
+THIRD OUTLAW
+5.3 :Being nimble-footed, he hath outrun us, : None
+5.3 :But Moyses and Valerius follow him. : None
+5.3 :Go thou with her to the west end of the wood; : None
+5.3 :There is our captain: we'll follow him that's fled; : None
+5.3 :The thicket is beset; he cannot 'scape. : None
+FIRST OUTLAW
+5.3 :Come, I must bring you to our captain's cave: : None
+5.3 :Fear not; he bears an honourable mind, : None
+5.3 :And will not use a woman lawlessly. : None
+SILVIA
+5.3 :O Valentine, this I endure for thee! : None
+Exeunt : ['Exeunt - []'] : SILVIA
+Scene(scene=4)
+Enter VALENTINE : ["Enter - ['VALENTINE']"] : SILVIA
+VALENTINE
+5.4 :How use doth breed a habit in a man! : None
+5.4 :This shadowy desert, unfrequented woods, : None
+5.4 :I better brook than flourishing peopled towns: : None
+5.4 :Here can I sit alone, unseen of any, : None
+5.4 :And to the nightingale's complaining notes : None
+5.4 :Tune my distresses and record my woes. : None
+5.4 :O thou that dost inhabit in my breast, : None
+5.4 :Leave not the mansion so long tenantless, : None
+5.4 :Lest, growing ruinous, the building fall : None
+5.4 :And leave no memory of what it was! : None
+5.4 :Repair me with thy presence, Silvia; : None
+5.4 :Thou gentle nymph, cherish thy forlorn swain! : None
+5.4 :What halloing and what stir is this to-day? : None
+5.4 :These are my mates, that make their wills their law, : None
+5.4 :Have some unhappy passenger in chase. : None
+5.4 :They love me well; yet I have much to do : None
+5.4 :To keep them from uncivil outrages. : None
+5.4 :Withdraw thee, Valentine: who's this comes here? : None
+Enter PROTEUS, SILVIA, and JULIA : ["Enter - ['PROTEUS', 'SILVIA', 'JULIA']"] : VALENTINE
+PROTEUS
+5.4 :Madam, this service I have done for you, : None
+5.4 :Though you respect not aught your servant doth, : None
+5.4 :To hazard life and rescue you from him : None
+5.4 :That would have forced your honour and your love; : None
+5.4 :Vouchsafe me, for my meed, but one fair look; : None
+5.4 :A smaller boon than this I cannot beg : None
+5.4 :And less than this, I am sure, you cannot give. : None
+VALENTINE
+5.4 :  How like a dream is this I see and hear! : Aside : ['Aside - []'] : VALENTINE
+5.4 :Love, lend me patience to forbear awhile. : None
+SILVIA
+5.4 :O miserable, unhappy that I am! : None
+PROTEUS
+5.4 :Unhappy were you, madam, ere I came; : None
+5.4 :But by my coming I have made you happy. : None
+SILVIA
+5.4 :By thy approach thou makest me most unhappy. : None
+JULIA
+5.4 :  And me, when he approacheth to your presence. : Aside : ['Aside - []'] : JULIA
+SILVIA
+5.4 :Had I been seized by a hungry lion, : None
+5.4 :I would have been a breakfast to the beast, : None
+5.4 :Rather than have false Proteus rescue me. : None
+5.4 :O, Heaven be judge how I love Valentine, : None
+5.4 :Whose life's as tender to me as my soul! : None
+5.4 :And full as much, for more there cannot be, : None
+5.4 :I do detest false perjured Proteus. : None
+5.4 :Therefore be gone; solicit me no more. : None
+PROTEUS
+5.4 :What dangerous action, stood it next to death, : None
+5.4 :Would I not undergo for one calm look! : None
+5.4 :O, 'tis the curse in love, and still approved, : None
+5.4 :When women cannot love where they're beloved! : None
+SILVIA
+5.4 :When Proteus cannot love where he's beloved. : None
+5.4 :Read over Julia's heart, thy first best love, : None
+5.4 :For whose dear sake thou didst then rend thy faith : None
+5.4 :Into a thousand oaths; and all those oaths : None
+5.4 :Descended into perjury, to love me. : None
+5.4 :Thou hast no faith left now, unless thou'dst two; : None
+5.4 :And that's far worse than none; better have none : None
+5.4 :Than plural faith which is too much by one: : None
+5.4 :Thou counterfeit to thy true friend! : None
+PROTEUS
+5.4 :In love : None
+5.4 :Who respects friend? : None
+SILVIA
+5.4 :All men but Proteus. : None
+PROTEUS
+5.4 :Nay, if the gentle spirit of moving words : None
+5.4 :Can no way change you to a milder form, : None
+5.4 :I'll woo you like a soldier, at arms' end, : None
+5.4 :And love you 'gainst the nature of love,--force ye. : None
+SILVIA
+5.4 :O heaven! : None
+PROTEUS
+5.4 :        I'll force thee yield to my desire. : None
+VALENTINE
+5.4 :Ruffian, let go that rude uncivil touch, : None
+5.4 :Thou friend of an ill fashion! : None
+PROTEUS
+5.4 :Valentine! : None
+VALENTINE
+5.4 :Thou common friend, that's without faith or love, : None
+5.4 :For such is a friend now; treacherous man! : None
+5.4 :Thou hast beguiled my hopes; nought but mine eye : None
+5.4 :Could have persuaded me: now I dare not say : None
+5.4 :I have one friend alive; thou wouldst disprove me. : None
+5.4 :Who should be trusted, when one's own right hand : None
+5.4 :Is perjured to the bosom? Proteus, : None
+5.4 :I am sorry I must never trust thee more, : None
+5.4 :But count the world a stranger for thy sake. : None
+5.4 :The private wound is deepest: O time most accurst, : None
+5.4 :'Mongst all foes that a friend should be the worst! : None
+PROTEUS
+5.4 :My shame and guilt confounds me. : None
+5.4 :Forgive me, Valentine: if hearty sorrow : None
+5.4 :Be a sufficient ransom for offence, : None
+5.4 :I tender 't here; I do as truly suffer : None
+5.4 :As e'er I did commit. : None
+VALENTINE
+5.4 :Then I am paid; : None
+5.4 :And once again I do receive thee honest. : None
+5.4 :Who by repentance is not satisfied : None
+5.4 :Is nor of heaven nor earth, for these are pleased. : None
+5.4 :By penitence the Eternal's wrath's appeased: : None
+5.4 :And, that my love may appear plain and free, : None
+5.4 :All that was mine in Silvia I give thee. : None
+JULIA
+5.4 :O me unhappy! : None
+Swoons : ['None - []'] : JULIA
+PROTEUS
+5.4 :Look to the boy. : None
+VALENTINE
+5.4 :Why, boy! why, wag! how now! what's the matter? : None
+5.4 :Look up; speak. : None
+JULIA
+5.4 :O good sir, my master charged me to deliver a ring : None
+5.4 :to Madam Silvia, which, out of my neglect, was never done. : None
+PROTEUS
+5.4 :Where is that ring, boy? : None
+JULIA
+5.4 :Here 'tis; this is it. : None
+PROTEUS
+5.4 :How! let me see: : None
+5.4 :Why, this is the ring I gave to Julia. : None
+JULIA
+5.4 :O, cry you mercy, sir, I have mistook: : None
+5.4 :This is the ring you sent to Silvia. : None
+PROTEUS
+5.4 :But how camest thou by this ring? At my depart : None
+5.4 :I gave this unto Julia. : None
+JULIA
+5.4 :And Julia herself did give it me; : None
+5.4 :And Julia herself hath brought it hither. : None
+PROTEUS
+5.4 :How! Julia! : None
+JULIA
+5.4 :Behold her that gave aim to all thy oaths, : None
+5.4 :And entertain'd 'em deeply in her heart. : None
+5.4 :How oft hast thou with perjury cleft the root! : None
+5.4 :O Proteus, let this habit make thee blush! : None
+5.4 :Be thou ashamed that I have took upon me : None
+5.4 :Such an immodest raiment, if shame live : None
+5.4 :In a disguise of love: : None
+5.4 :It is the lesser blot, modesty finds, : None
+5.4 :Women to change their shapes than men their minds. : None
+PROTEUS
+5.4 :Than men their minds! 'tis true. : None
+5.4 :O heaven! were man : None
+5.4 :But constant, he were perfect. That one error : None
+5.4 :Fills him with faults; makes him run through all the sins: : None
+5.4 :Inconstancy falls off ere it begins. : None
+5.4 :What is in Silvia's face, but I may spy : None
+5.4 :More fresh in Julia's with a constant eye? : None
+VALENTINE
+5.4 :Come, come, a hand from either: : None
+5.4 :Let me be blest to make this happy close; : None
+5.4 :'Twere pity two such friends should be long foes. : None
+PROTEUS
+5.4 :Bear witness, Heaven, I have my wish for ever. : None
+JULIA
+5.4 :And I mine. : None
+Enter Outlaws, with DUKE and THURIO : ["Enter - ['OUTLAWS', 'DUKE', 'THURIO']"] : JULIA
+OUTLAWS
+5.4 :A prize, a prize, a prize! : None
+VALENTINE
+5.4 :Forbear, forbear, I say! it is my lord the duke. : None
+5.4 :Your grace is welcome to a man disgraced, : None
+5.4 :Banished Valentine. : None
+DUKE
+5.4 :Sir Valentine! : None
+THURIO
+5.4 :Yonder is Silvia; and Silvia's mine. : None
+VALENTINE
+5.4 :Thurio, give back, or else embrace thy death; : None
+5.4 :Come not within the measure of my wrath; : None
+5.4 :Do not name Silvia thine; if once again, : None
+5.4 :Verona shall not hold thee. Here she stands; : None
+5.4 :Take but possession of her with a touch: : None
+5.4 :I dare thee but to breathe upon my love. : None
+THURIO
+5.4 :Sir Valentine, I care not for her, I; : None
+5.4 :I hold him but a fool that will endanger : None
+5.4 :His body for a girl that loves him not: : None
+5.4 :I claim her not, and therefore she is thine. : None
+DUKE
+5.4 :The more degenerate and base art thou, : None
+5.4 :To make such means for her as thou hast done : None
+5.4 :And leave her on such slight conditions. : None
+5.4 :Now, by the honour of my ancestry, : None
+5.4 :I do applaud thy spirit, Valentine, : None
+5.4 :And think thee worthy of an empress' love: : None
+5.4 :Know then, I here forget all former griefs, : None
+5.4 :Cancel all grudge, repeal thee home again, : None
+5.4 :Plead a new state in thy unrivall'd merit, : None
+5.4 :To which I thus subscribe: Sir Valentine, : None
+5.4 :Thou art a gentleman and well derived; : None
+5.4 :Take thou thy Silvia, for thou hast deserved her. : None
+VALENTINE
+5.4 :I thank your grace; the gift hath made me happy. : None
+5.4 :I now beseech you, for your daughter's sake, : None
+5.4 :To grant one boom that I shall ask of you. : None
+DUKE
+5.4 :I grant it, for thine own, whate'er it be. : None
+VALENTINE
+5.4 :These banish'd men that I have kept withal : None
+5.4 :Are men endued with worthy qualities: : None
+5.4 :Forgive them what they have committed here : None
+5.4 :And let them be recall'd from their exile: : None
+5.4 :They are reformed, civil, full of good : None
+5.4 :And fit for great employment, worthy lord. : None
+DUKE
+5.4 :Thou hast prevail'd; I pardon them and thee: : None
+5.4 :Dispose of them as thou know'st their deserts. : None
+5.4 :Come, let us go: we will include all jars : None
+5.4 :With triumphs, mirth and rare solemnity. : None
+VALENTINE
+5.4 :And, as we walk along, I dare be bold : None
+5.4 :With our discourse to make your grace to smile. : None
+5.4 :What think you of this page, my lord? : None
+DUKE
+5.4 :I think the boy hath grace in him; he blushes. : None
+VALENTINE
+5.4 :I warrant you, my lord, more grace than boy. : None
+DUKE
+5.4 :What mean you by that saying? : None
+VALENTINE
+5.4 :Please you, I'll tell you as we pass along, : None
+5.4 :That you will wonder what hath fortuned. : None
+5.4 :Come, Proteus; 'tis your penance but to hear : None
+5.4 :The story of your loves discovered: : None
+5.4 :That done, our day of marriage shall be yours; : None
+5.4 :One feast, one house, one mutual happiness. : None
+Exeunt : ['Exeunt - []'] : VALENTINE

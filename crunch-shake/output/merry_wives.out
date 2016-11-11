@@ -1,0 +1,3854 @@
+Act(act=1)
+Scene(scene=1)
+Enter SHALLOW, SLENDER, and SIR HUGH EVANS : ["Enter - ['SHALLOW', 'SLENDER', 'SIR HUGH EVANS']"] : None
+SHALLOW
+1.1 :Sir Hugh, persuade me not; I will make a Star- : None
+1.1 :chamber matter of it: if he were twenty Sir John : None
+1.1 :Falstaffs, he shall not abuse Robert Shallow, esquire. : None
+SLENDER
+1.1 :In the county of Gloucester, justice of peace and : None
+1.1 :'Coram.' : None
+SHALLOW
+1.1 :Ay, cousin Slender, and 'Custalourum. : None
+SLENDER
+1.1 :Ay, and 'Rato-lorum' too; and a gentleman born, : None
+1.1 :master parson; who writes himself 'Armigero,' in any : None
+1.1 :bill, warrant, quittance, or obligation, 'Armigero.' : None
+SHALLOW
+1.1 :Ay, that I do; and have done any time these three : None
+1.1 :hundred years. : None
+SLENDER
+1.1 :All his successors gone before him hath done't; and : None
+1.1 :all his ancestors that come after him may: they may : None
+1.1 :give the dozen white luces in their coat. : None
+SHALLOW
+1.1 :It is an old coat. : None
+SIR HUGH EVANS
+1.1 :The dozen white louses do become an old coat well; : None
+1.1 :it agrees well, passant; it is a familiar beast to : None
+1.1 :man, and signifies love. : None
+SHALLOW
+1.1 :The luce is the fresh fish; the salt fish is an old coat. : None
+SLENDER
+1.1 :I may quarter, coz. : None
+SHALLOW
+1.1 :You may, by marrying. : None
+SIR HUGH EVANS
+1.1 :It is marring indeed, if he quarter it. : None
+SHALLOW
+1.1 :Not a whit. : None
+SIR HUGH EVANS
+1.1 :Yes, py'r lady; if he has a quarter of your coat, : None
+1.1 :there is but three skirts for yourself, in my : None
+1.1 :simple conjectures: but that is all one. If Sir : None
+1.1 :John Falstaff have committed disparagements unto : None
+1.1 :you, I am of the church, and will be glad to do my : None
+1.1 :benevolence to make atonements and compremises : None
+1.1 :between you. : None
+SHALLOW
+1.1 :The council shall bear it; it is a riot. : None
+SIR HUGH EVANS
+1.1 :It is not meet the council hear a riot; there is no : None
+1.1 :fear of Got in a riot: the council, look you, shall : None
+1.1 :desire to hear the fear of Got, and not to hear a : None
+1.1 :riot; take your vizaments in that. : None
+SHALLOW
+1.1 :Ha! o' my life, if I were young again, the sword : None
+1.1 :should end it. : None
+SIR HUGH EVANS
+1.1 :It is petter that friends is the sword, and end it: : None
+1.1 :and there is also another device in my prain, which : None
+1.1 :peradventure prings goot discretions with it: there : None
+1.1 :is Anne Page, which is daughter to Master Thomas : None
+1.1 :Page, which is pretty virginity. : None
+SLENDER
+1.1 :Mistress Anne Page? She has brown hair, and speaks : None
+1.1 :small like a woman. : None
+SIR HUGH EVANS
+1.1 :It is that fery person for all the orld, as just as : None
+1.1 :you will desire; and seven hundred pounds of moneys, : None
+1.1 :and gold and silver, is her grandsire upon his : None
+1.1 :death's-bed--Got deliver to a joyful resurrections! : None
+1.1 :--give, when she is able to overtake seventeen years : None
+1.1 :old: it were a goot motion if we leave our pribbles : None
+1.1 :and prabbles, and desire a marriage between Master : None
+1.1 :Abraham and Mistress Anne Page. : None
+SLENDER
+1.1 :Did her grandsire leave her seven hundred pound? : None
+SIR HUGH EVANS
+1.1 :Ay, and her father is make her a petter penny. : None
+SLENDER
+1.1 :I know the young gentlewoman; she has good gifts. : None
+SIR HUGH EVANS
+1.1 :Seven hundred pounds and possibilities is goot gifts. : None
+SHALLOW
+1.1 :Well, let us see honest Master Page. Is Falstaff there? : None
+SIR HUGH EVANS
+1.1 :Shall I tell you a lie? I do despise a liar as I do : None
+1.1 :despise one that is false, or as I despise one that : None
+1.1 :is not true. The knight, Sir John, is there; and, I : None
+1.1 :beseech you, be ruled by your well-willers. I will : None
+1.1 :peat the door for Master Page. : None
+Knocks : ['None - []'] : SIR HUGH EVANS
+1.1 :What, hoa! Got pless your house here! : None
+PAGE
+1.1 :  Who's there? : Within : ['None - []'] : PAGE
+Enter PAGE : ["Enter - ['PAGE']"] : PAGE
+SIR HUGH EVANS
+1.1 :Here is Got's plessing, and your friend, and Justice : None
+1.1 :Shallow; and here young Master Slender, that : None
+1.1 :peradventures shall tell you another tale, if : None
+1.1 :matters grow to your likings. : None
+PAGE
+1.1 :I am glad to see your worships well. : None
+1.1 :I thank you for my venison, Master Shallow. : None
+SHALLOW
+1.1 :Master Page, I am glad to see you: much good do it : None
+1.1 :your good heart! I wished your venison better; it : None
+1.1 :was ill killed. How doth good Mistress Page?--and I : None
+1.1 :thank you always with my heart, la! with my heart. : None
+PAGE
+1.1 :Sir, I thank you. : None
+SHALLOW
+1.1 :Sir, I thank you; by yea and no, I do. : None
+PAGE
+1.1 :I am glad to see you, good Master Slender. : None
+SLENDER
+1.1 :How does your fallow greyhound, sir? I heard say he : None
+1.1 :was outrun on Cotsall. : None
+PAGE
+1.1 :It could not be judged, sir. : None
+SLENDER
+1.1 :You'll not confess, you'll not confess. : None
+SHALLOW
+1.1 :That he will not. 'Tis your fault, 'tis your fault; : None
+1.1 :'tis a good dog. : None
+PAGE
+1.1 :A cur, sir. : None
+SHALLOW
+1.1 :Sir, he's a good dog, and a fair dog: can there be : None
+1.1 :more said? he is good and fair. Is Sir John : None
+1.1 :Falstaff here? : None
+PAGE
+1.1 :Sir, he is within; and I would I could do a good : None
+1.1 :office between you. : None
+SIR HUGH EVANS
+1.1 :It is spoke as a Christians ought to speak. : None
+SHALLOW
+1.1 :He hath wronged me, Master Page. : None
+PAGE
+1.1 :Sir, he doth in some sort confess it. : None
+SHALLOW
+1.1 :If it be confessed, it is not redress'd: is not that : None
+1.1 :so, Master Page? He hath wronged me; indeed he : None
+1.1 :hath, at a word, he hath, believe me: Robert : None
+1.1 :Shallow, esquire, saith, he is wronged. : None
+PAGE
+1.1 :Here comes Sir John. : None
+Enter FALSTAFF, BARDOLPH, NYM, and PISTOL : ["Enter - ['FALSTAFF', 'BARDOLPH', 'NYM', 'PISTOL']"] : PAGE
+FALSTAFF
+1.1 :Now, Master Shallow, you'll complain of me to the king? : None
+SHALLOW
+1.1 :Knight, you have beaten my men, killed my deer, and : None
+1.1 :broke open my lodge. : None
+FALSTAFF
+1.1 :But not kissed your keeper's daughter? : None
+SHALLOW
+1.1 :Tut, a pin! this shall be answered. : None
+FALSTAFF
+1.1 :I will answer it straight; I have done all this. : None
+1.1 :That is now answered. : None
+SHALLOW
+1.1 :The council shall know this. : None
+FALSTAFF
+1.1 :'Twere better for you if it were known in counsel: : None
+1.1 :you'll be laughed at. : None
+SIR HUGH EVANS
+1.1 :Pauca verba, Sir John; goot worts. : None
+FALSTAFF
+1.1 :Good worts! good cabbage. Slender, I broke your : None
+1.1 :head: what matter have you against me? : None
+SLENDER
+1.1 :Marry, sir, I have matter in my head against you; : None
+1.1 :and against your cony-catching rascals, Bardolph, : None
+1.1 :Nym, and Pistol. : None
+BARDOLPH
+1.1 :You Banbury cheese! : None
+SLENDER
+1.1 :Ay, it is no matter. : None
+PISTOL
+1.1 :How now, Mephostophilus! : None
+SLENDER
+1.1 :Ay, it is no matter. : None
+NYM
+1.1 :Slice, I say! pauca, pauca: slice! that's my humour. : None
+SLENDER
+1.1 :Where's Simple, my man? Can you tell, cousin? : None
+SIR HUGH EVANS
+1.1 :Peace, I pray you. Now let us understand. There is : None
+1.1 :three umpires in this matter, as I understand; that : None
+1.1 :is, Master Page, fidelicet Master Page; and there is : None
+1.1 :myself, fidelicet myself; and the three party is, : None
+1.1 :lastly and finally, mine host of the Garter. : None
+PAGE
+1.1 :We three, to hear it and end it between them. : None
+SIR HUGH EVANS
+1.1 :Fery goot: I will make a prief of it in my note- : None
+1.1 :book; and we will afterwards ork upon the cause with : None
+1.1 :as great discreetly as we can. : None
+FALSTAFF
+1.1 :Pistol! : None
+PISTOL
+1.1 :He hears with ears. : None
+SIR HUGH EVANS
+1.1 :The tevil and his tam! what phrase is this, 'He : None
+1.1 :hears with ear'? why, it is affectations. : None
+FALSTAFF
+1.1 :Pistol, did you pick Master Slender's purse? : None
+SLENDER
+1.1 :Ay, by these gloves, did he, or I would I might : None
+1.1 :never come in mine own great chamber again else, of : None
+1.1 :seven groats in mill-sixpences, and two Edward : None
+1.1 :shovel-boards, that cost me two shilling and two : None
+1.1 :pence apiece of Yead Miller, by these gloves. : None
+FALSTAFF
+1.1 :Is this true, Pistol? : None
+SIR HUGH EVANS
+1.1 :No; it is false, if it is a pick-purse. : None
+PISTOL
+1.1 :Ha, thou mountain-foreigner! Sir John and Master mine, : None
+1.1 :I combat challenge of this latten bilbo. : None
+1.1 :Word of denial in thy labras here! : None
+1.1 :Word of denial: froth and scum, thou liest! : None
+SLENDER
+1.1 :By these gloves, then, 'twas he. : None
+NYM
+1.1 :Be avised, sir, and pass good humours: I will say : None
+1.1 :'marry trap' with you, if you run the nuthook's : None
+1.1 :humour on me; that is the very note of it. : None
+SLENDER
+1.1 :By this hat, then, he in the red face had it; for : None
+1.1 :though I cannot remember what I did when you made me : None
+1.1 :drunk, yet I am not altogether an ass. : None
+FALSTAFF
+1.1 :What say you, Scarlet and John? : None
+BARDOLPH
+1.1 :Why, sir, for my part I say the gentleman had drunk : None
+1.1 :himself out of his five sentences. : None
+SIR HUGH EVANS
+1.1 :It is his five senses: fie, what the ignorance is! : None
+BARDOLPH
+1.1 :And being fap, sir, was, as they say, cashiered; and : None
+1.1 :so conclusions passed the careires. : None
+SLENDER
+1.1 :Ay, you spake in Latin then too; but 'tis no : None
+1.1 :matter: I'll ne'er be drunk whilst I live again, : None
+1.1 :but in honest, civil, godly company, for this trick: : None
+1.1 :if I be drunk, I'll be drunk with those that have : None
+1.1 :the fear of God, and not with drunken knaves. : None
+SIR HUGH EVANS
+1.1 :So Got udge me, that is a virtuous mind. : None
+FALSTAFF
+1.1 :You hear all these matters denied, gentlemen; you hear it. : None
+Enter ANNE PAGE, with wine; MISTRESS FORD and MISTRESS PAGE, following : ["Enter - ['ANNE PAGE', 'MISTRESS FORD', 'MISTRESS PAGE']"] : FALSTAFF
+PAGE
+1.1 :Nay, daughter, carry the wine in; we'll drink within. : None
+Exit ANNE PAGE : ["Exit - ['ANNE PAGE']"] : PAGE
+SLENDER
+1.1 :O heaven! this is Mistress Anne Page. : None
+PAGE
+1.1 :How now, Mistress Ford! : None
+FALSTAFF
+1.1 :Mistress Ford, by my troth, you are very well met: : None
+1.1 :by your leave, good mistress. : None
+Kisses her : ['None - []'] : FALSTAFF
+PAGE
+1.1 :Wife, bid these gentlemen welcome. Come, we have a : None
+1.1 :hot venison pasty to dinner: come, gentlemen, I hope : None
+1.1 :we shall drink down all unkindness. : None
+Exeunt all except SHALLOW, SLENDER, and SIR HUGH EVANS : ["Exeunt - ['ALL', 'SHALLOW', 'SLENDER', 'SIR HUGH EVANS']"] : PAGE
+SLENDER
+1.1 :I had rather than forty shillings I had my Book of : None
+1.1 :Songs and Sonnets here. : None
+Enter SIMPLE : ["Enter - ['SIMPLE']"] : SLENDER
+1.1 :How now, Simple! where have you been? I must wait : None
+1.1 :on myself, must I? You have not the Book of Riddles : None
+1.1 :about you, have you? : None
+SIMPLE
+1.1 :Book of Riddles! why, did you not lend it to Alice : None
+1.1 :Shortcake upon All-hallowmas last, a fortnight : None
+1.1 :afore Michaelmas? : None
+SHALLOW
+1.1 :Come, coz; come, coz; we stay for you. A word with : None
+1.1 :you, coz; marry, this, coz: there is, as 'twere, a : None
+1.1 :tender, a kind of tender, made afar off by Sir Hugh : None
+1.1 :here. Do you understand me? : None
+SLENDER
+1.1 :Ay, sir, you shall find me reasonable; if it be so, : None
+1.1 :I shall do that that is reason. : None
+SHALLOW
+1.1 :Nay, but understand me. : None
+SLENDER
+1.1 :So I do, sir. : None
+SIR HUGH EVANS
+1.1 :Give ear to his motions, Master Slender: I will : None
+1.1 :description the matter to you, if you be capacity of it. : None
+SLENDER
+1.1 :Nay, I will do as my cousin Shallow says: I pray : None
+1.1 :you, pardon me; he's a justice of peace in his : None
+1.1 :country, simple though I stand here. : None
+SIR HUGH EVANS
+1.1 :But that is not the question: the question is : None
+1.1 :concerning your marriage. : None
+SHALLOW
+1.1 :Ay, there's the point, sir. : None
+SIR HUGH EVANS
+1.1 :Marry, is it; the very point of it; to Mistress Anne Page. : None
+SLENDER
+1.1 :Why, if it be so, I will marry her upon any : None
+1.1 :reasonable demands. : None
+SIR HUGH EVANS
+1.1 :But can you affection the 'oman? Let us command to : None
+1.1 :know that of your mouth or of your lips; for divers : None
+1.1 :philosophers hold that the lips is parcel of the : None
+1.1 :mouth. Therefore, precisely, can you carry your : None
+1.1 :good will to the maid? : None
+SHALLOW
+1.1 :Cousin Abraham Slender, can you love her? : None
+SLENDER
+1.1 :I hope, sir, I will do as it shall become one that : None
+1.1 :would do reason. : None
+SIR HUGH EVANS
+1.1 :Nay, Got's lords and his ladies! you must speak : None
+1.1 :possitable, if you can carry her your desires : None
+1.1 :towards her. : None
+SHALLOW
+1.1 :That you must. Will you, upon good dowry, marry her? : None
+SLENDER
+1.1 :I will do a greater thing than that, upon your : None
+1.1 :request, cousin, in any reason. : None
+SHALLOW
+1.1 :Nay, conceive me, conceive me, sweet coz: what I do : None
+1.1 :is to pleasure you, coz. Can you love the maid? : None
+SLENDER
+1.1 :I will marry her, sir, at your request: but if there : None
+1.1 :be no great love in the beginning, yet heaven may : None
+1.1 :decrease it upon better acquaintance, when we are : None
+1.1 :married and have more occasion to know one another; : None
+1.1 :I hope, upon familiarity will grow more contempt: : None
+1.1 :but if you say, 'Marry her,' I will marry her; that : None
+1.1 :I am freely dissolved, and dissolutely. : None
+SIR HUGH EVANS
+1.1 :It is a fery discretion answer; save the fall is in : None
+1.1 :the ort 'dissolutely:' the ort is, according to our : None
+1.1 :meaning, 'resolutely:' his meaning is good. : None
+SHALLOW
+1.1 :Ay, I think my cousin meant well. : None
+SLENDER
+1.1 :Ay, or else I would I might be hanged, la! : None
+SHALLOW
+1.1 :Here comes fair Mistress Anne. : None
+Re-enter ANNE PAGE : ["Re-enter - ['ANNE PAGE']"] : SHALLOW
+1.1 :Would I were young for your sake, Mistress Anne! : None
+ANNE PAGE
+1.1 :The dinner is on the table; my father desires your : None
+1.1 :worships' company. : None
+SHALLOW
+1.1 :I will wait on him, fair Mistress Anne. : None
+SIR HUGH EVANS
+1.1 :Od's plessed will! I will not be absence at the grace. : None
+Exeunt SHALLOW and SIR HUGH EVANS : ["Exeunt - ['SHALLOW', 'SIR HUGH EVANS']"] : SIR HUGH EVANS
+ANNE PAGE
+1.1 :Will't please your worship to come in, sir? : None
+SLENDER
+1.1 :No, I thank you, forsooth, heartily; I am very well. : None
+ANNE PAGE
+1.1 :The dinner attends you, sir. : None
+SLENDER
+1.1 :I am not a-hungry, I thank you, forsooth. Go, : None
+1.1 :sirrah, for all you are my man, go wait upon my : None
+1.1 :cousin Shallow. : None
+Exit SIMPLE : ["Exit - ['SIMPLE']"] : SLENDER
+1.1 :A justice of peace sometimes may be beholding to his : None
+1.1 :friend for a man. I keep but three men and a boy : None
+1.1 :yet, till my mother be dead: but what though? Yet I : None
+1.1 :live like a poor gentleman born. : None
+ANNE PAGE
+1.1 :I may not go in without your worship: they will not : None
+1.1 :sit till you come. : None
+SLENDER
+1.1 :I' faith, I'll eat nothing; I thank you as much as : None
+1.1 :though I did. : None
+ANNE PAGE
+1.1 :I pray you, sir, walk in. : None
+SLENDER
+1.1 :I had rather walk here, I thank you. I bruised : None
+1.1 :my shin th' other day with playing at sword and : None
+1.1 :dagger with a master of fence; three veneys for a : None
+1.1 :dish of stewed prunes; and, by my troth, I cannot : None
+1.1 :abide the smell of hot meat since. Why do your : None
+1.1 :dogs bark so? be there bears i' the town? : None
+ANNE PAGE
+1.1 :I think there are, sir; I heard them talked of. : None
+SLENDER
+1.1 :I love the sport well but I shall as soon quarrel at : None
+1.1 :it as any man in England. You are afraid, if you see : None
+1.1 :the bear loose, are you not? : None
+ANNE PAGE
+1.1 :Ay, indeed, sir. : None
+SLENDER
+1.1 :That's meat and drink to me, now. I have seen : None
+1.1 :Sackerson loose twenty times, and have taken him by : None
+1.1 :the chain; but, I warrant you, the women have so : None
+1.1 :cried and shrieked at it, that it passed: but women, : None
+1.1 :indeed, cannot abide 'em; they are very ill-favored : None
+1.1 :rough things. : None
+Re-enter PAGE : ["Re-enter - ['PAGE']"] : SLENDER
+PAGE
+1.1 :Come, gentle Master Slender, come; we stay for you. : None
+SLENDER
+1.1 :I'll eat nothing, I thank you, sir. : None
+PAGE
+1.1 :By cock and pie, you shall not choose, sir! come, come. : None
+SLENDER
+1.1 :Nay, pray you, lead the way. : None
+PAGE
+1.1 :Come on, sir. : None
+SLENDER
+1.1 :Mistress Anne, yourself shall go first. : None
+ANNE PAGE
+1.1 :Not I, sir; pray you, keep on. : None
+SLENDER
+1.1 :I'll rather be unmannerly than troublesome. : None
+1.1 :You do yourself wrong, indeed, la! : None
+Exeunt : ['Exeunt - []'] : SLENDER
+Scene(scene=2)
+Enter SIR HUGH EVANS and SIMPLE : ["Enter - ['SIR HUGH EVANS', 'SIMPLE']"] : SLENDER
+SIR HUGH EVANS
+1.2 :Go your ways, and ask of Doctor Caius' house which : None
+1.2 :is the way: and there dwells one Mistress Quickly, : None
+1.2 :which is in the manner of his nurse, or his dry : None
+1.2 :nurse, or his cook, or his laundry, his washer, and : None
+1.2 :his wringer. : None
+SIMPLE
+1.2 :Well, sir. : None
+SIR HUGH EVANS
+1.2 :Nay, it is petter yet. Give her this letter; for it : None
+1.2 :is a 'oman that altogether's acquaintance with : None
+1.2 :Mistress Anne Page: and the letter is, to desire : None
+1.2 :and require her to solicit your master's desires to : None
+1.2 :Mistress Anne Page. I pray you, be gone: I will : None
+1.2 :make an end of my dinner; there's pippins and cheese to come. : None
+Exeunt : ['Exeunt - []'] : SIR HUGH EVANS
+Scene(scene=3)
+Enter FALSTAFF, Host, BARDOLPH, NYM, PISTOL, and ROBIN : ["Enter - ['FALSTAFF', 'HOST', 'BARDOLPH', 'NYM', 'PISTOL', 'ROBIN']"] : SIR HUGH EVANS
+FALSTAFF
+1.3 :Mine host of the Garter! : None
+HOST
+1.3 :What says my bully-rook? speak scholarly and wisely. : None
+FALSTAFF
+1.3 :Truly, mine host, I must turn away some of my : None
+1.3 :followers. : None
+HOST
+1.3 :Discard, bully Hercules; cashier: let them wag; trot, trot. : None
+FALSTAFF
+1.3 :I sit at ten pounds a week. : None
+HOST
+1.3 :Thou'rt an emperor, Caesar, Keisar, and Pheezar. I : None
+1.3 :will entertain Bardolph; he shall draw, he shall : None
+1.3 :tap: said I well, bully Hector? : None
+FALSTAFF
+1.3 :Do so, good mine host. : None
+HOST
+1.3 :I have spoke; let him follow. : None
+To BARDOLPH : ["To - ['BARDOLPH']"] : HOST
+1.3 :Let me see thee froth and lime: I am at a word; follow. : None
+Exit : ['Exit - []'] : HOST
+FALSTAFF
+1.3 :Bardolph, follow him. A tapster is a good trade: : None
+1.3 :an old cloak makes a new jerkin; a withered : None
+1.3 :serving-man a fresh tapster. Go; adieu. : None
+BARDOLPH
+1.3 :It is a life that I have desired: I will thrive. : None
+PISTOL
+1.3 :O base Hungarian wight! wilt thou the spigot wield? : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : PISTOL
+NYM
+1.3 :He was gotten in drink: is not the humour conceited? : None
+FALSTAFF
+1.3 :I am glad I am so acquit of this tinderbox: his : None
+1.3 :thefts were too open; his filching was like an : None
+1.3 :unskilful singer; he kept not time. : None
+NYM
+1.3 :The good humour is to steal at a minute's rest. : None
+PISTOL
+1.3 :'Convey,' the wise it call. 'Steal!' foh! a fico : None
+1.3 :for the phrase! : None
+FALSTAFF
+1.3 :Well, sirs, I am almost out at heels. : None
+PISTOL
+1.3 :Why, then, let kibes ensue. : None
+FALSTAFF
+1.3 :There is no remedy; I must cony-catch; I must shift. : None
+PISTOL
+1.3 :Young ravens must have food. : None
+FALSTAFF
+1.3 :Which of you know Ford of this town? : None
+PISTOL
+1.3 :I ken the wight: he is of substance good. : None
+FALSTAFF
+1.3 :My honest lads, I will tell you what I am about. : None
+PISTOL
+1.3 :Two yards, and more. : None
+FALSTAFF
+1.3 :No quips now, Pistol! Indeed, I am in the waist two : None
+1.3 :yards about; but I am now about no waste; I am about : None
+1.3 :thrift. Briefly, I do mean to make love to Ford's : None
+1.3 :wife: I spy entertainment in her; she discourses, : None
+1.3 :she carves, she gives the leer of invitation: I : None
+1.3 :can construe the action of her familiar style; and : None
+1.3 :the hardest voice of her behavior, to be Englished : None
+1.3 :rightly, is, 'I am Sir John Falstaff's.' : None
+PISTOL
+1.3 :He hath studied her will, and translated her will, : None
+1.3 :out of honesty into English. : None
+NYM
+1.3 :The anchor is deep: will that humour pass? : None
+FALSTAFF
+1.3 :Now, the report goes she has all the rule of her : None
+1.3 :husband's purse: he hath a legion of angels. : None
+PISTOL
+1.3 :As many devils entertain; and 'To her, boy,' say I. : None
+NYM
+1.3 :The humour rises; it is good: humour me the angels. : None
+FALSTAFF
+1.3 :I have writ me here a letter to her: and here : None
+1.3 :another to Page's wife, who even now gave me good : None
+1.3 :eyes too, examined my parts with most judicious : None
+1.3 :oeillades; sometimes the beam of her view gilded my : None
+1.3 :foot, sometimes my portly belly. : None
+PISTOL
+1.3 :Then did the sun on dunghill shine. : None
+NYM
+1.3 :I thank thee for that humour. : None
+FALSTAFF
+1.3 :O, she did so course o'er my exteriors with such a : None
+1.3 :greedy intention, that the appetite of her eye did : None
+1.3 :seem to scorch me up like a burning-glass! Here's : None
+1.3 :another letter to her: she bears the purse too; she : None
+1.3 :is a region in Guiana, all gold and bounty. I will : None
+1.3 :be cheater to them both, and they shall be : None
+1.3 :exchequers to me; they shall be my East and West : None
+1.3 :Indies, and I will trade to them both. Go bear thou : None
+1.3 :this letter to Mistress Page; and thou this to : None
+1.3 :Mistress Ford: we will thrive, lads, we will thrive. : None
+PISTOL
+1.3 :Shall I Sir Pandarus of Troy become, : None
+1.3 :And by my side wear steel? then, Lucifer take all! : None
+NYM
+1.3 :I will run no base humour: here, take the : None
+1.3 :humour-letter: I will keep the havior of reputation. : None
+FALSTAFF
+1.3 :  Hold, sirrah, bear you these letters tightly; : To ROBIN : ["To - ['ROBIN']"] : FALSTAFF
+1.3 :Sail like my pinnace to these golden shores. : None
+1.3 :Rogues, hence, avaunt! vanish like hailstones, go; : None
+1.3 :Trudge, plod away o' the hoof; seek shelter, pack! : None
+1.3 :Falstaff will learn the humour of the age, : None
+1.3 :French thrift, you rogues; myself and skirted page. : None
+Exeunt FALSTAFF and ROBIN : ["Exeunt - ['FALSTAFF', 'ROBIN']"] : FALSTAFF
+PISTOL
+1.3 :Let vultures gripe thy guts! for gourd and fullam holds, : None
+1.3 :And high and low beguiles the rich and poor: : None
+1.3 :Tester I'll have in pouch when thou shalt lack, : None
+1.3 :Base Phrygian Turk! : None
+NYM
+1.3 :I have operations which be humours of revenge. : None
+PISTOL
+1.3 :Wilt thou revenge? : None
+NYM
+1.3 :By welkin and her star! : None
+PISTOL
+1.3 :With wit or steel? : None
+NYM
+1.3 :With both the humours, I: : None
+1.3 :I will discuss the humour of this love to Page. : None
+PISTOL
+1.3 :     And I to Ford shall eke unfold : None
+1.3 :How Falstaff, varlet vile, : None
+1.3 :His dove will prove, his gold will hold, : None
+1.3 :And his soft couch defile. : None
+NYM
+1.3 :My humour shall not cool: I will incense Page to : None
+1.3 :deal with poison; I will possess him with : None
+1.3 :yellowness, for the revolt of mine is dangerous: : None
+1.3 :that is my true humour. : None
+PISTOL
+1.3 :Thou art the Mars of malecontents: I second thee; troop on. : None
+Exeunt : ['Exeunt - []'] : PISTOL
+Scene(scene=4)
+Enter MISTRESS QUICKLY, SIMPLE, and RUGBY : ["Enter - ['MISTRESS QUICKLY', 'SIMPLE', 'RUGBY']"] : PISTOL
+MISTRESS QUICKLY
+1.4 :What, John Rugby! I pray thee, go to the casement, : None
+1.4 :and see if you can see my master, Master Doctor : None
+1.4 :Caius, coming. If he do, i' faith, and find any : None
+1.4 :body in the house, here will be an old abusing of : None
+1.4 :God's patience and the king's English. : None
+RUGBY
+1.4 :I'll go watch. : None
+MISTRESS QUICKLY
+1.4 :Go; and we'll have a posset for't soon at night, in : None
+1.4 :faith, at the latter end of a sea-coal fire. : None
+Exit RUGBY : ["Exit - ['RUGBY']"] : MISTRESS QUICKLY
+1.4 :An honest, willing, kind fellow, as ever servant : None
+1.4 :shall come in house withal, and, I warrant you, no : None
+1.4 :tell-tale nor no breed-bate: his worst fault is, : None
+1.4 :that he is given to prayer; he is something peevish : None
+1.4 :that way: but nobody but has his fault; but let : None
+1.4 :that pass. Peter Simple, you say your name is? : None
+SIMPLE
+1.4 :Ay, for fault of a better. : None
+MISTRESS QUICKLY
+1.4 :And Master Slender's your master? : None
+SIMPLE
+1.4 :Ay, forsooth. : None
+MISTRESS QUICKLY
+1.4 :Does he not wear a great round beard, like a : None
+1.4 :glover's paring-knife? : None
+SIMPLE
+1.4 :No, forsooth: he hath but a little wee face, with a : None
+1.4 :little yellow beard, a Cain-coloured beard. : None
+MISTRESS QUICKLY
+1.4 :A softly-sprighted man, is he not? : None
+SIMPLE
+1.4 :Ay, forsooth: but he is as tall a man of his hands : None
+1.4 :as any is between this and his head; he hath fought : None
+1.4 :with a warrener. : None
+MISTRESS QUICKLY
+1.4 :How say you? O, I should remember him: does he not : None
+1.4 :hold up his head, as it were, and strut in his gait? : None
+SIMPLE
+1.4 :Yes, indeed, does he. : None
+MISTRESS QUICKLY
+1.4 :Well, heaven send Anne Page no worse fortune! Tell : None
+1.4 :Master Parson Evans I will do what I can for your : None
+1.4 :master: Anne is a good girl, and I wish-- : None
+Re-enter RUGBY : ["Re-enter - ['RUGBY']"] : MISTRESS QUICKLY
+RUGBY
+1.4 :Out, alas! here comes my master. : None
+MISTRESS QUICKLY
+1.4 :We shall all be shent. Run in here, good young man; : None
+1.4 :go into this closet: he will not stay long. : None
+Shuts SIMPLE in the closet : ["None - ['SIMPLE']"] : MISTRESS QUICKLY
+1.4 :What, John Rugby! John! what, John, I say! : None
+1.4 :Go, John, go inquire for my master; I doubt : None
+1.4 :he be not well, that he comes not home. : None
+Singing : ['None - []'] : MISTRESS QUICKLY
+1.4 :And down, down, adown-a,  & c. : None
+Enter DOCTOR CAIUS : ["Enter - ['DOCTOR CAIUS']"] : MISTRESS QUICKLY
+DOCTOR CAIUS
+1.4 :Vat is you sing? I do not like des toys. Pray you, : None
+1.4 :go and vetch me in my closet un boitier vert, a box, : None
+1.4 :a green-a box: do intend vat I speak? a green-a box. : None
+MISTRESS QUICKLY
+1.4 :Ay, forsooth; I'll fetch it you. : None
+Aside : ['Aside - []'] : MISTRESS QUICKLY
+1.4 :I am glad he went not in himself: if he had found : None
+1.4 :the young man, he would have been horn-mad. : None
+DOCTOR CAIUS
+1.4 :Fe, fe, fe, fe! ma foi, il fait fort chaud. Je : None
+1.4 :m'en vais a la cour--la grande affaire. : None
+MISTRESS QUICKLY
+1.4 :Is it this, sir? : None
+DOCTOR CAIUS
+1.4 :Oui; mette le au mon pocket: depeche, quickly. Vere : None
+1.4 :is dat knave Rugby? : None
+MISTRESS QUICKLY
+1.4 :What, John Rugby! John! : None
+RUGBY
+1.4 :Here, sir! : None
+DOCTOR CAIUS
+1.4 :You are John Rugby, and you are Jack Rugby. Come, : None
+1.4 :take-a your rapier, and come after my heel to the court. : None
+RUGBY
+1.4 :'Tis ready, sir, here in the porch. : None
+DOCTOR CAIUS
+1.4 :By my trot, I tarry too long. Od's me! : None
+1.4 :Qu'ai-j'oublie! dere is some simples in my closet, : None
+1.4 :dat I vill not for the varld I shall leave behind. : None
+MISTRESS QUICKLY
+1.4 :Ay me, he'll find the young man here, and be mad! : None
+DOCTOR CAIUS
+1.4 :O diable, diable! vat is in my closet? Villain! larron! : None
+Pulling SIMPLE out : ["None - ['SIMPLE']"] : DOCTOR CAIUS
+1.4 :Rugby, my rapier! : None
+MISTRESS QUICKLY
+1.4 :Good master, be content. : None
+DOCTOR CAIUS
+1.4 :Wherefore shall I be content-a? : None
+MISTRESS QUICKLY
+1.4 :The young man is an honest man. : None
+DOCTOR CAIUS
+1.4 :What shall de honest man do in my closet? dere is : None
+1.4 :no honest man dat shall come in my closet. : None
+MISTRESS QUICKLY
+1.4 :I beseech you, be not so phlegmatic. Hear the truth : None
+1.4 :of it: he came of an errand to me from Parson Hugh. : None
+DOCTOR CAIUS
+1.4 :Vell. : None
+SIMPLE
+1.4 :Ay, forsooth; to desire her to-- : None
+MISTRESS QUICKLY
+1.4 :Peace, I pray you. : None
+DOCTOR CAIUS
+1.4 :Peace-a your tongue. Speak-a your tale. : None
+SIMPLE
+1.4 :To desire this honest gentlewoman, your maid, to : None
+1.4 :speak a good word to Mistress Anne Page for my : None
+1.4 :master in the way of marriage. : None
+MISTRESS QUICKLY
+1.4 :This is all, indeed, la! but I'll ne'er put my : None
+1.4 :finger in the fire, and need not. : None
+DOCTOR CAIUS
+1.4 :Sir Hugh send-a you? Rugby, baille me some paper. : None
+1.4 :Tarry you a little-a while. : None
+Writes : ['None - []'] : DOCTOR CAIUS
+MISTRESS QUICKLY
+1.4 :  I am glad he is so quiet: if he : Aside to SIMPLE : ["Aside - ['SIMPLE']"] : MISTRESS QUICKLY
+1.4 :had been thoroughly moved, you should have heard him : None
+1.4 :so loud and so melancholy. But notwithstanding, : None
+1.4 :man, I'll do you your master what good I can: and : None
+1.4 :the very yea and the no is, the French doctor, my : None
+1.4 :master,--I may call him my master, look you, for I : None
+1.4 :keep his house; and I wash, wring, brew, bake, : None
+1.4 :scour, dress meat and drink, make the beds and do : None
+1.4 :all myself,-- : None
+SIMPLE
+1.4 :  'Tis a great charge to : Aside to MISTRESS QUICKLY : ["Aside - ['MISTRESS QUICKLY']"] : SIMPLE
+1.4 :come under one body's hand. : None
+MISTRESS QUICKLY
+1.4 :  Are you avised o' that? you : Aside to SIMPLE : ["Aside - ['SIMPLE']"] : MISTRESS QUICKLY
+1.4 :shall find it a great charge: and to be up early : None
+1.4 :and down late; but notwithstanding,--to tell you in : None
+1.4 :your ear; I would have no words of it,--my master : None
+1.4 :himself is in love with Mistress Anne Page: but : None
+1.4 :notwithstanding that, I know Anne's mind,--that's : None
+1.4 :neither here nor there. : None
+DOCTOR CAIUS
+1.4 :You jack'nape, give-a this letter to Sir Hugh; by : None
+1.4 :gar, it is a shallenge: I will cut his troat in dee : None
+1.4 :park; and I will teach a scurvy jack-a-nape priest : None
+1.4 :to meddle or make. You may be gone; it is not good : None
+1.4 :you tarry here. By gar, I will cut all his two : None
+1.4 :stones; by gar, he shall not have a stone to throw : None
+1.4 :at his dog: : None
+Exit SIMPLE : ["Exit - ['SIMPLE']"] : DOCTOR CAIUS
+MISTRESS QUICKLY
+1.4 :Alas, he speaks but for his friend. : None
+DOCTOR CAIUS
+1.4 :It is no matter-a ver dat: do not you tell-a me : None
+1.4 :dat I shall have Anne Page for myself? By gar, I : None
+1.4 :vill kill de Jack priest; and I have appointed mine : None
+1.4 :host of de Jarteer to measure our weapon. By gar, I : None
+1.4 :will myself have Anne Page. : None
+MISTRESS QUICKLY
+1.4 :Sir, the maid loves you, and all shall be well. We : None
+1.4 :must give folks leave to prate: what, the good-jer! : None
+DOCTOR CAIUS
+1.4 :Rugby, come to the court with me. By gar, if I have : None
+1.4 :not Anne Page, I shall turn your head out of my : None
+1.4 :door. Follow my heels, Rugby. : None
+Exeunt DOCTOR CAIUS and RUGBY : ["Exeunt - ['DOCTOR CAIUS', 'RUGBY']"] : DOCTOR CAIUS
+MISTRESS QUICKLY
+1.4 :You shall have An fool's-head of your own. No, I : None
+1.4 :know Anne's mind for that: never a woman in Windsor : None
+1.4 :knows more of Anne's mind than I do; nor can do more : None
+1.4 :than I do with her, I thank heaven. : None
+FENTON
+1.4 :  Who's within there? ho! : Within : ['None - []'] : FENTON
+MISTRESS QUICKLY
+1.4 :Who's there, I trow! Come near the house, I pray you. : None
+Enter FENTON : ["Enter - ['FENTON']"] : MISTRESS QUICKLY
+FENTON
+1.4 :How now, good woman? how dost thou? : None
+MISTRESS QUICKLY
+1.4 :The better that it pleases your good worship to ask. : None
+FENTON
+1.4 :What news? how does pretty Mistress Anne? : None
+MISTRESS QUICKLY
+1.4 :In truth, sir, and she is pretty, and honest, and : None
+1.4 :gentle; and one that is your friend, I can tell you : None
+1.4 :that by the way; I praise heaven for it. : None
+FENTON
+1.4 :Shall I do any good, thinkest thou? shall I not lose my suit? : None
+MISTRESS QUICKLY
+1.4 :Troth, sir, all is in his hands above: but : None
+1.4 :notwithstanding, Master Fenton, I'll be sworn on a : None
+1.4 :book, she loves you. Have not your worship a wart : None
+1.4 :above your eye? : None
+FENTON
+1.4 :Yes, marry, have I; what of that? : None
+MISTRESS QUICKLY
+1.4 :Well, thereby hangs a tale: good faith, it is such : None
+1.4 :another Nan; but, I detest, an honest maid as ever : None
+1.4 :broke bread: we had an hour's talk of that wart. I : None
+1.4 :shall never laugh but in that maid's company! But : None
+1.4 :indeed she is given too much to allicholy and : None
+1.4 :musing: but for you--well, go to. : None
+FENTON
+1.4 :Well, I shall see her to-day. Hold, there's money : None
+1.4 :for thee; let me have thy voice in my behalf: if : None
+1.4 :thou seest her before me, commend me. : None
+MISTRESS QUICKLY
+1.4 :Will I? i'faith, that we will; and I will tell your : None
+1.4 :worship more of the wart the next time we have : None
+1.4 :confidence; and of other wooers. : None
+FENTON
+1.4 :Well, farewell; I am in great haste now. : None
+MISTRESS QUICKLY
+1.4 :Farewell to your worship. : None
+Exit FENTON : ["Exit - ['FENTON']"] : MISTRESS QUICKLY
+1.4 :Truly, an honest gentleman: but Anne loves him not; : None
+1.4 :for I know Anne's mind as well as another does. Out : None
+1.4 :upon't! what have I forgot? : None
+Exit : ['Exit - []'] : MISTRESS QUICKLY
+Act(act=2)
+Scene(scene=1)
+Enter MISTRESS PAGE, with a letter : ["Enter - ['MISTRESS PAGE']"] : MISTRESS QUICKLY
+MISTRESS PAGE
+2.1 :What, have I scaped love-letters in the holiday- : None
+2.1 :time of my beauty, and am I now a subject for them? : None
+2.1 :Let me see. : None
+Reads : ['Read - []'] : MISTRESS PAGE
+2.1 :'Ask me no reason why I love you; for though : None
+2.1 :Love use Reason for his physician, he admits him : None
+2.1 :not for his counsellor. You are not young, no more : None
+2.1 :am I; go to then, there's sympathy: you are merry, : None
+2.1 :so am I; ha, ha! then there's more sympathy: you : None
+2.1 :love sack, and so do I; would you desire better : None
+2.1 :sympathy? Let it suffice thee, Mistress Page,--at : None
+2.1 :the least, if the love of soldier can suffice,-- : None
+2.1 :that I love thee. I will not say, pity me; 'tis : None
+2.1 :not a soldier-like phrase: but I say, love me. By me, : None
+2.1 :Thine own true knight, : None
+2.1 :By day or night, : None
+2.1 :Or any kind of light, : None
+2.1 :With all his might : None
+2.1 :For thee to fight,    JOHN FALSTAFF' : None
+2.1 :What a Herod of Jewry is this! O wicked : None
+2.1 :world! One that is well-nigh worn to pieces with : None
+2.1 :age to show himself a young gallant! What an : None
+2.1 :unweighed behavior hath this Flemish drunkard : None
+2.1 :picked--with the devil's name!--out of my : None
+2.1 :conversation, that he dares in this manner assay me? : None
+2.1 :Why, he hath not been thrice in my company! What : None
+2.1 :should I say to him? I was then frugal of my : None
+2.1 :mirth: Heaven forgive me! Why, I'll exhibit a bill : None
+2.1 :in the parliament for the putting down of men. How : None
+2.1 :shall I be revenged on him? for revenged I will be, : None
+2.1 :as sure as his guts are made of puddings. : None
+Enter MISTRESS FORD : ["Enter - ['MISTRESS FORD']"] : MISTRESS PAGE
+MISTRESS FORD
+2.1 :Mistress Page! trust me, I was going to your house. : None
+MISTRESS PAGE
+2.1 :And, trust me, I was coming to you. You look very : None
+2.1 :ill. : None
+MISTRESS FORD
+2.1 :Nay, I'll ne'er believe that; I have to show to the contrary. : None
+MISTRESS PAGE
+2.1 :Faith, but you do, in my mind. : None
+MISTRESS FORD
+2.1 :Well, I do then; yet I say I could show you to the : None
+2.1 :contrary. O Mistress Page, give me some counsel! : None
+MISTRESS PAGE
+2.1 :What's the matter, woman? : None
+MISTRESS FORD
+2.1 :O woman, if it were not for one trifling respect, I : None
+2.1 :could come to such honour! : None
+MISTRESS PAGE
+2.1 :Hang the trifle, woman! take the honour. What is : None
+2.1 :it? dispense with trifles; what is it? : None
+MISTRESS FORD
+2.1 :If I would but go to hell for an eternal moment or so, : None
+2.1 :I could be knighted. : None
+MISTRESS PAGE
+2.1 :What? thou liest! Sir Alice Ford! These knights : None
+2.1 :will hack; and so thou shouldst not alter the : None
+2.1 :article of thy gentry. : None
+MISTRESS FORD
+2.1 :We burn daylight: here, read, read; perceive how I : None
+2.1 :might be knighted. I shall think the worse of fat : None
+2.1 :men, as long as I have an eye to make difference of : None
+2.1 :men's liking: and yet he would not swear; praised : None
+2.1 :women's modesty; and gave such orderly and : None
+2.1 :well-behaved reproof to all uncomeliness, that I : None
+2.1 :would have sworn his disposition would have gone to : None
+2.1 :the truth of his words; but they do no more adhere : None
+2.1 :and keep place together than the Hundredth Psalm to : None
+2.1 :the tune of 'Green Sleeves.' What tempest, I trow, : None
+2.1 :threw this whale, with so many tuns of oil in his : None
+2.1 :belly, ashore at Windsor? How shall I be revenged : None
+2.1 :on him? I think the best way were to entertain him : None
+2.1 :with hope, till the wicked fire of lust have melted : None
+2.1 :him in his own grease. Did you ever hear the like? : None
+MISTRESS PAGE
+2.1 :Letter for letter, but that the name of Page and : None
+2.1 :Ford differs! To thy great comfort in this mystery : None
+2.1 :of ill opinions, here's the twin-brother of thy : None
+2.1 :letter: but let thine inherit first; for, I : None
+2.1 :protest, mine never shall. I warrant he hath a : None
+2.1 :thousand of these letters, writ with blank space for : None
+2.1 :different names--sure, more,--and these are of the : None
+2.1 :second edition: he will print them, out of doubt; : None
+2.1 :for he cares not what he puts into the press, when : None
+2.1 :he would put us two. I had rather be a giantess, : None
+2.1 :and lie under Mount Pelion. Well, I will find you : None
+2.1 :twenty lascivious turtles ere one chaste man. : None
+MISTRESS FORD
+2.1 :Why, this is the very same; the very hand, the very : None
+2.1 :words. What doth he think of us? : None
+MISTRESS PAGE
+2.1 :Nay, I know not: it makes me almost ready to : None
+2.1 :wrangle with mine own honesty. I'll entertain : None
+2.1 :myself like one that I am not acquainted withal; : None
+2.1 :for, sure, unless he know some strain in me, that I : None
+2.1 :know not myself, he would never have boarded me in this fury. : None
+MISTRESS FORD
+2.1 :'Boarding,' call you it? I'll be sure to keep him : None
+2.1 :above deck. : None
+MISTRESS PAGE
+2.1 :So will I	if he come under my hatches, I'll never : None
+2.1 :to sea again. Let's be revenged on him: let's : None
+2.1 :appoint him a meeting; give him a show of comfort in : None
+2.1 :his suit and lead him on with a fine-baited delay, : None
+2.1 :till he hath pawned his horses to mine host of the Garter. : None
+MISTRESS FORD
+2.1 :Nay, I will consent to act any villany against him, : None
+2.1 :that may not sully the chariness of our honesty. O, : None
+2.1 :that my husband saw this letter! it would give : None
+2.1 :eternal food to his jealousy. : None
+MISTRESS PAGE
+2.1 :Why, look where he comes; and my good man too: he's : None
+2.1 :as far from jealousy as I am from giving him cause; : None
+2.1 :and that I hope is an unmeasurable distance. : None
+MISTRESS FORD
+2.1 :You are the happier woman. : None
+MISTRESS PAGE
+2.1 :Let's consult together against this greasy knight. : None
+2.1 :Come hither. : None
+They retire : ['None - []'] : MISTRESS PAGE
+Enter FORD with PISTOL, and PAGE with NYM : ["Enter - ['FORD', 'PISTOL', 'PAGE', 'NYM']"] : MISTRESS PAGE
+FORD
+2.1 :Well, I hope it be not so. : None
+PISTOL
+2.1 :Hope is a curtal dog in some affairs: : None
+2.1 :Sir John affects thy wife. : None
+FORD
+2.1 :Why, sir, my wife is not young. : None
+PISTOL
+2.1 :He wooes both high and low, both rich and poor, : None
+2.1 :Both young and old, one with another, Ford; : None
+2.1 :He loves the gallimaufry: Ford, perpend. : None
+FORD
+2.1 :Love my wife! : None
+PISTOL
+2.1 :With liver burning hot. Prevent, or go thou, : None
+2.1 :Like Sir Actaeon he, with Ringwood at thy heels: : None
+2.1 :O, odious is the name! : None
+FORD
+2.1 :What name, sir? : None
+PISTOL
+2.1 :The horn, I say. Farewell. : None
+2.1 :Take heed, have open eye, for thieves do foot by night: : None
+2.1 :Take heed, ere summer comes or cuckoo-birds do sing. : None
+2.1 :Away, Sir Corporal Nym! : None
+2.1 :Believe it, Page; he speaks sense. : None
+Exit : ['Exit - []'] : PISTOL
+FORD
+2.1 :  I will be patient; I will find out this. : Aside : ['Aside - []'] : FORD
+NYM
+2.1 :  And this is true; I like not the humour : To PAGE : ["To - ['PAGE']"] : NYM
+2.1 :of lying. He hath wronged me in some humours: I : None
+2.1 :should have borne the humoured letter to her; but I : None
+2.1 :have a sword and it shall bite upon my necessity. : None
+2.1 :He loves your wife; there's the short and the long. : None
+2.1 :My name is Corporal Nym; I speak and I avouch; 'tis : None
+2.1 :true: my name is Nym and Falstaff loves your wife. : None
+2.1 :Adieu. I love not the humour of bread and cheese, : None
+2.1 :and there's the humour of it. Adieu. : None
+Exit : ['Exit - []'] : NYM
+PAGE
+2.1 :'The humour of it,' quoth a'! here's a fellow : None
+2.1 :frights English out of his wits. : None
+FORD
+2.1 :I will seek out Falstaff. : None
+PAGE
+2.1 :I never heard such a drawling, affecting rogue. : None
+FORD
+2.1 :If I do find it: well. : None
+PAGE
+2.1 :I will not believe such a Cataian, though the priest : None
+2.1 :o' the town commended him for a true man. : None
+FORD
+2.1 :'Twas a good sensible fellow: well. : None
+PAGE
+2.1 :How now, Meg! : None
+MISTRESS PAGE and MISTRESS FORD come forward : ["None - ['MISTRESS PAGE', 'MISTRESS FORD']"] : PAGE
+MISTRESS PAGE
+2.1 :Whither go you, George? Hark you. : None
+MISTRESS FORD
+2.1 :How now, sweet Frank! why art thou melancholy? : None
+FORD
+2.1 :I melancholy! I am not melancholy. Get you home, go. : None
+MISTRESS FORD
+2.1 :Faith, thou hast some crotchets in thy head. Now, : None
+2.1 :will you go, Mistress Page? : None
+MISTRESS PAGE
+2.1 :Have with you. You'll come to dinner, George. : None
+Aside to MISTRESS FORD : ["Aside - ['MISTRESS FORD']"] : MISTRESS PAGE
+2.1 :Look who comes yonder: she shall be our messenger : None
+2.1 :to this paltry knight. : None
+MISTRESS FORD
+2.1 :  Trust me, I thought on her: : Aside to MISTRESS PAGE : ["Aside - ['MISTRESS PAGE']"] : MISTRESS FORD
+2.1 :she'll fit it. : None
+Enter MISTRESS QUICKLY : ["Enter - ['MISTRESS QUICKLY']"] : MISTRESS FORD
+MISTRESS PAGE
+2.1 :You are come to see my daughter Anne? : None
+MISTRESS QUICKLY
+2.1 :Ay, forsooth; and, I pray, how does good Mistress Anne? : None
+MISTRESS PAGE
+2.1 :Go in with us and see: we have an hour's talk with : None
+2.1 :you. : None
+Exeunt MISTRESS PAGE, MISTRESS FORD, and MISTRESS QUICKLY : ["Exeunt - ['MISTRESS PAGE', 'MISTRESS FORD', 'MISTRESS QUICKLY']"] : MISTRESS PAGE
+PAGE
+2.1 :How now, Master Ford! : None
+FORD
+2.1 :You heard what this knave told me, did you not? : None
+PAGE
+2.1 :Yes: and you heard what the other told me? : None
+FORD
+2.1 :Do you think there is truth in them? : None
+PAGE
+2.1 :Hang 'em, slaves! I do not think the knight would : None
+2.1 :offer it: but these that accuse him in his intent : None
+2.1 :towards our wives are a yoke of his discarded men; : None
+2.1 :very rogues, now they be out of service. : None
+FORD
+2.1 :Were they his men? : None
+PAGE
+2.1 :Marry, were they. : None
+FORD
+2.1 :I like it never the better for that. Does he lie at : None
+2.1 :the Garter? : None
+PAGE
+2.1 :Ay, marry, does he. If he should intend this voyage : None
+2.1 :towards my wife, I would turn her loose to him; and : None
+2.1 :what he gets more of her than sharp words, let it : None
+2.1 :lie on my head. : None
+FORD
+2.1 :I do not misdoubt my wife; but I would be loath to : None
+2.1 :turn them together. A man may be too confident: I : None
+2.1 :would have nothing lie on my head: I cannot be thus satisfied. : None
+PAGE
+2.1 :Look where my ranting host of the Garter comes: : None
+2.1 :there is either liquor in his pate or money in his : None
+2.1 :purse when he looks so merrily. : None
+Enter Host : ["Enter - ['HOST']"] : PAGE
+2.1 :How now, mine host! : None
+HOST
+2.1 :How now, bully-rook! thou'rt a gentleman. : None
+2.1 :Cavaleiro-justice, I say! : None
+Enter SHALLOW : ["Enter - ['SHALLOW']"] : HOST
+SHALLOW
+2.1 :I follow, mine host, I follow. Good even and : None
+2.1 :twenty, good Master Page! Master Page, will you go : None
+2.1 :with us? we have sport in hand. : None
+HOST
+2.1 :Tell him, cavaleiro-justice; tell him, bully-rook. : None
+SHALLOW
+2.1 :Sir, there is a fray to be fought between Sir Hugh : None
+2.1 :the Welsh priest and Caius the French doctor. : None
+FORD
+2.1 :Good mine host o' the Garter, a word with you. : None
+Drawing him aside : ['aside - []'] : FORD
+HOST
+2.1 :What sayest thou, my bully-rook? : None
+SHALLOW
+2.1 :  Will you go with us to behold it? My : To PAGE : ["To - ['PAGE']"] : SHALLOW
+2.1 :merry host hath had the measuring of their weapons; : None
+2.1 :and, I think, hath appointed them contrary places; : None
+2.1 :for, believe me, I hear the parson is no jester. : None
+2.1 :Hark, I will tell you what our sport shall be. : None
+They converse apart : ['None - []'] : SHALLOW
+HOST
+2.1 :Hast thou no suit against my knight, my : None
+2.1 :guest-cavaleire? : None
+FORD
+2.1 :None, I protest: but I'll give you a pottle of : None
+2.1 :burnt sack to give me recourse to him and tell him : None
+2.1 :my name is Brook; only for a jest. : None
+HOST
+2.1 :My hand, bully; thou shalt have egress and regress; : None
+2.1 :--said I well?--and thy name shall be Brook. It is : None
+2.1 :a merry knight. Will you go, An-heires? : None
+SHALLOW
+2.1 :Have with you, mine host. : None
+PAGE
+2.1 :I have heard the Frenchman hath good skill in : None
+2.1 :his rapier. : None
+SHALLOW
+2.1 :Tut, sir, I could have told you more. In these times : None
+2.1 :you stand on distance, your passes, stoccadoes, and : None
+2.1 :I know not what: 'tis the heart, Master Page; 'tis : None
+2.1 :here, 'tis here. I have seen the time, with my long : None
+2.1 :sword I would have made you four tall fellows skip like rats. : None
+HOST
+2.1 :Here, boys, here, here! shall we wag? : None
+PAGE
+2.1 :Have with you. I would rather hear them scold than fight. : None
+Exeunt Host, SHALLOW, and PAGE : ["Exeunt - ['HOST', 'SHALLOW', 'PAGE']"] : PAGE
+FORD
+2.1 :Though Page be a secure fool, an stands so firmly : None
+2.1 :on his wife's frailty, yet I cannot put off my : None
+2.1 :opinion so easily: she was in his company at Page's : None
+2.1 :house; and what they made there, I know not. Well, : None
+2.1 :I will look further into't: and I have a disguise : None
+2.1 :to sound Falstaff. If I find her honest, I lose not : None
+2.1 :my labour; if she be otherwise, 'tis labour well bestowed. : None
+Exit : ['Exit - []'] : FORD
+Scene(scene=2)
+Enter FALSTAFF and PISTOL : ["Enter - ['FALSTAFF', 'PISTOL']"] : FORD
+FALSTAFF
+2.2 :I will not lend thee a penny. : None
+PISTOL
+2.2 :Why, then the world's mine oyster. : None
+2.2 :Which I with sword will open. : None
+FALSTAFF
+2.2 :Not a penny. I have been content, sir, you should : None
+2.2 :lay my countenance to pawn; I have grated upon my : None
+2.2 :good friends for three reprieves for you and your : None
+2.2 :coach-fellow Nym; or else you had looked through : None
+2.2 :the grate, like a geminy of baboons. I am damned in : None
+2.2 :hell for swearing to gentlemen my friends, you were : None
+2.2 :good soldiers and tall fellows; and when Mistress : None
+2.2 :Bridget lost the handle of her fan, I took't upon : None
+2.2 :mine honour thou hadst it not. : None
+PISTOL
+2.2 :Didst not thou share? hadst thou not fifteen pence? : None
+FALSTAFF
+2.2 :Reason, you rogue, reason: thinkest thou I'll : None
+2.2 :endanger my soul gratis? At a word, hang no more : None
+2.2 :about me, I am no gibbet for you. Go. A short knife : None
+2.2 :and a throng! To your manor of Pickt-hatch! Go. : None
+2.2 :You'll not bear a letter for me, you rogue! you : None
+2.2 :stand upon your honour! Why, thou unconfinable : None
+2.2 :baseness, it is as much as I can do to keep the : None
+2.2 :terms of my honour precise: I, I, I myself : None
+2.2 :sometimes, leaving the fear of God on the left hand : None
+2.2 :and hiding mine honour in my necessity, am fain to : None
+2.2 :shuffle, to hedge and to lurch; and yet you, rogue, : None
+2.2 :will ensconce your rags, your cat-a-mountain : None
+2.2 :looks, your red-lattice phrases, and your : None
+2.2 :bold-beating oaths, under the shelter of your : None
+2.2 :honour! You will not do it, you! : None
+PISTOL
+2.2 :I do relent: what would thou more of man? : None
+Enter ROBIN : ["Enter - ['ROBIN']"] : PISTOL
+ROBIN
+2.2 :Sir, here's a woman would speak with you. : None
+FALSTAFF
+2.2 :Let her approach. : None
+Enter MISTRESS QUICKLY : ["Enter - ['MISTRESS QUICKLY']"] : FALSTAFF
+MISTRESS QUICKLY
+2.2 :Give your worship good morrow. : None
+FALSTAFF
+2.2 :Good morrow, good wife. : None
+MISTRESS QUICKLY
+2.2 :Not so, an't please your worship. : None
+FALSTAFF
+2.2 :Good maid, then. : None
+MISTRESS QUICKLY
+2.2 :I'll be sworn, : None
+2.2 :As my mother was, the first hour I was born. : None
+FALSTAFF
+2.2 :I do believe the swearer. What with me? : None
+MISTRESS QUICKLY
+2.2 :Shall I vouchsafe your worship a word or two? : None
+FALSTAFF
+2.2 :Two thousand, fair woman: and I'll vouchsafe thee : None
+2.2 :the hearing. : None
+MISTRESS QUICKLY
+2.2 :There is one Mistress Ford, sir:--I pray, come a : None
+2.2 :little nearer this ways:--I myself dwell with master : None
+2.2 :Doctor Caius,-- : None
+FALSTAFF
+2.2 :Well, on: Mistress Ford, you say,-- : None
+MISTRESS QUICKLY
+2.2 :Your worship says very true: I pray your worship, : None
+2.2 :come a little nearer this ways. : None
+FALSTAFF
+2.2 :I warrant thee, nobody hears; mine own people, mine : None
+2.2 :own people. : None
+MISTRESS QUICKLY
+2.2 :Are they so? God bless them and make them his servants! : None
+FALSTAFF
+2.2 :Well, Mistress Ford; what of her? : None
+MISTRESS QUICKLY
+2.2 :Why, sir, she's a good creature. Lord Lord! your : None
+2.2 :worship's a wanton! Well, heaven forgive you and all : None
+2.2 :of us, I pray! : None
+FALSTAFF
+2.2 :Mistress Ford; come, Mistress Ford,-- : None
+MISTRESS QUICKLY
+2.2 :Marry, this is the short and the long of it; you : None
+2.2 :have brought her into such a canaries as 'tis : None
+2.2 :wonderful. The best courtier of them all, when the : None
+2.2 :court lay at Windsor, could never have brought her : None
+2.2 :to such a canary. Yet there has been knights, and : None
+2.2 :lords, and gentlemen, with their coaches, I warrant : None
+2.2 :you, coach after coach, letter after letter, gift : None
+2.2 :after gift; smelling so sweetly, all musk, and so : None
+2.2 :rushling, I warrant you, in silk and gold; and in : None
+2.2 :such alligant terms; and in such wine and sugar of : None
+2.2 :the best and the fairest, that would have won any : None
+2.2 :woman's heart; and, I warrant you, they could never : None
+2.2 :get an eye-wink of her: I had myself twenty angels : None
+2.2 :given me this morning; but I defy all angels, in : None
+2.2 :any such sort, as they say, but in the way of : None
+2.2 :honesty: and, I warrant you, they could never get : None
+2.2 :her so much as sip on a cup with the proudest of : None
+2.2 :them all: and yet there has been earls, nay, which : None
+2.2 :is more, pensioners; but, I warrant you, all is one with her. : None
+FALSTAFF
+2.2 :But what says she to me? be brief, my good : None
+2.2 :she-Mercury. : None
+MISTRESS QUICKLY
+2.2 :Marry, she hath received your letter, for the which : None
+2.2 :she thanks you a thousand times; and she gives you : None
+2.2 :to notify that her husband will be absence from his : None
+2.2 :house between ten and eleven. : None
+FALSTAFF
+2.2 :Ten and eleven? : None
+MISTRESS QUICKLY
+2.2 :Ay, forsooth; and then you may come and see the : None
+2.2 :picture, she says, that you wot of: Master Ford, : None
+2.2 :her husband, will be from home. Alas! the sweet : None
+2.2 :woman leads an ill life with him: he's a very : None
+2.2 :jealousy man: she leads a very frampold life with : None
+2.2 :him, good heart. : None
+FALSTAFF
+2.2 :Ten and eleven. Woman, commend me to her; I will : None
+2.2 :not fail her. : None
+MISTRESS QUICKLY
+2.2 :Why, you say well. But I have another messenger to : None
+2.2 :your worship. Mistress Page hath her hearty : None
+2.2 :commendations to you too: and let me tell you in : None
+2.2 :your ear, she's as fartuous a civil modest wife, and : None
+2.2 :one, I tell you, that will not miss you morning nor : None
+2.2 :evening prayer, as any is in Windsor, whoe'er be the : None
+2.2 :other: and she bade me tell your worship that her : None
+2.2 :husband is seldom from home; but she hopes there : None
+2.2 :will come a time. I never knew a woman so dote upon : None
+2.2 :a man: surely I think you have charms, la; yes, in truth. : None
+FALSTAFF
+2.2 :Not I, I assure thee: setting the attractions of my : None
+2.2 :good parts aside I have no other charms. : None
+MISTRESS QUICKLY
+2.2 :Blessing on your heart for't! : None
+FALSTAFF
+2.2 :But, I pray thee, tell me this: has Ford's wife and : None
+2.2 :Page's wife acquainted each other how they love me? : None
+MISTRESS QUICKLY
+2.2 :That were a jest indeed! they have not so little : None
+2.2 :grace, I hope: that were a trick indeed! but : None
+2.2 :Mistress Page would desire you to send her your : None
+2.2 :little page, of all loves: her husband has a : None
+2.2 :marvellous infection to the little page; and truly : None
+2.2 :Master Page is an honest man. Never a wife in : None
+2.2 :Windsor leads a better life than she does: do what : None
+2.2 :she will, say what she will, take all, pay all, go : None
+2.2 :to bed when she list, rise when she list, all is as : None
+2.2 :she will: and truly she deserves it; for if there : None
+2.2 :be a kind woman in Windsor, she is one. You must : None
+2.2 :send her your page; no remedy. : None
+FALSTAFF
+2.2 :Why, I will. : None
+MISTRESS QUICKLY
+2.2 :Nay, but do so, then: and, look you, he may come and : None
+2.2 :go between you both; and in any case have a : None
+2.2 :nay-word, that you may know one another's mind, and : None
+2.2 :the boy never need to understand any thing; for : None
+2.2 :'tis not good that children should know any : None
+2.2 :wickedness: old folks, you know, have discretion, : None
+2.2 :as they say, and know the world. : None
+FALSTAFF
+2.2 :Fare thee well: commend me to them both: there's : None
+2.2 :my purse; I am yet thy debtor. Boy, go along with : None
+2.2 :this woman. : None
+Exeunt MISTRESS QUICKLY and ROBIN : ["Exeunt - ['MISTRESS QUICKLY', 'ROBIN']"] : FALSTAFF
+2.2 :This news distracts me! : None
+PISTOL
+2.2 :This punk is one of Cupid's carriers: : None
+2.2 :Clap on more sails; pursue; up with your fights: : None
+2.2 :Give fire: she is my prize, or ocean whelm them all! : None
+Exit : ['Exit - []'] : PISTOL
+FALSTAFF
+2.2 :Sayest thou so, old Jack? go thy ways; I'll make : None
+2.2 :more of thy old body than I have done. Will they : None
+2.2 :yet look after thee? Wilt thou, after the expense : None
+2.2 :of so much money, be now a gainer? Good body, I : None
+2.2 :thank thee. Let them say 'tis grossly done; so it be : None
+2.2 :fairly done, no matter. : None
+Enter BARDOLPH : ["Enter - ['BARDOLPH']"] : FALSTAFF
+BARDOLPH
+2.2 :Sir John, there's one Master Brook below would fain : None
+2.2 :speak with you, and be acquainted with you; and hath : None
+2.2 :sent your worship a morning's draught of sack. : None
+FALSTAFF
+2.2 :Brook is his name? : None
+BARDOLPH
+2.2 :Ay, sir. : None
+FALSTAFF
+2.2 :Call him in. : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : FALSTAFF
+2.2 :Such Brooks are welcome to me, that o'erflow such : None
+2.2 :liquor. Ah, ha! Mistress Ford and Mistress Page : None
+2.2 :have I encompassed you? go to; via! : None
+Re-enter BARDOLPH, with FORD disguised : ["Re-enter - ['BARDOLPH', 'FORD']"] : FALSTAFF
+FORD
+2.2 :Bless you, sir! : None
+FALSTAFF
+2.2 :And you, sir! Would you speak with me? : None
+FORD
+2.2 :I make bold to press with so little preparation upon : None
+2.2 :you. : None
+FALSTAFF
+2.2 :You're welcome. What's your will? Give us leave, drawer. : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : FALSTAFF
+FORD
+2.2 :Sir, I am a gentleman that have spent much; my name is Brook. : None
+FALSTAFF
+2.2 :Good Master Brook, I desire more acquaintance of you. : None
+FORD
+2.2 :Good Sir John, I sue for yours: not to charge you; : None
+2.2 :for I must let you understand I think myself in : None
+2.2 :better plight for a lender than you are: the which : None
+2.2 :hath something embolden'd me to this unseasoned : None
+2.2 :intrusion; for they say, if money go before, all : None
+2.2 :ways do lie open. : None
+FALSTAFF
+2.2 :Money is a good soldier, sir, and will on. : None
+FORD
+2.2 :Troth, and I have a bag of money here troubles me: : None
+2.2 :if you will help to bear it, Sir John, take all, or : None
+2.2 :half, for easing me of the carriage. : None
+FALSTAFF
+2.2 :Sir, I know not how I may deserve to be your porter. : None
+FORD
+2.2 :I will tell you, sir, if you will give me the hearing. : None
+FALSTAFF
+2.2 :Speak, good Master Brook: I shall be glad to be : None
+2.2 :your servant. : None
+FORD
+2.2 :Sir, I hear you are a scholar,--I will be brief : None
+2.2 :with you,--and you have been a man long known to me, : None
+2.2 :though I had never so good means, as desire, to make : None
+2.2 :myself acquainted with you. I shall discover a : None
+2.2 :thing to you, wherein I must very much lay open mine : None
+2.2 :own imperfection: but, good Sir John, as you have : None
+2.2 :one eye upon my follies, as you hear them unfolded, : None
+2.2 :turn another into the register of your own; that I : None
+2.2 :may pass with a reproof the easier, sith you : None
+2.2 :yourself know how easy it is to be such an offender. : None
+FALSTAFF
+2.2 :Very well, sir; proceed. : None
+FORD
+2.2 :There is a gentlewoman in this town; her husband's : None
+2.2 :name is Ford. : None
+FALSTAFF
+2.2 :Well, sir. : None
+FORD
+2.2 :I have long loved her, and, I protest to you, : None
+2.2 :bestowed much on her; followed her with a doting : None
+2.2 :observance; engrossed opportunities to meet her; : None
+2.2 :fee'd every slight occasion that could but niggardly : None
+2.2 :give me sight of her; not only bought many presents : None
+2.2 :to give her, but have given largely to many to know : None
+2.2 :what she would have given; briefly, I have pursued : None
+2.2 :her as love hath pursued me; which hath been on the : None
+2.2 :wing of all occasions. But whatsoever I have : None
+2.2 :merited, either in my mind or, in my means, meed, : None
+2.2 :I am sure, I have received none; unless experience : None
+2.2 :be a jewel that I have purchased at an infinite : None
+2.2 :rate, and that hath taught me to say this: : None
+2.2 :'Love like a shadow flies when substance love pursues; : None
+2.2 :Pursuing that that flies, and flying what pursues.' : None
+FALSTAFF
+2.2 :Have you received no promise of satisfaction at her hands? : None
+FORD
+2.2 :Never. : None
+FALSTAFF
+2.2 :Have you importuned her to such a purpose? : None
+FORD
+2.2 :Never. : None
+FALSTAFF
+2.2 :Of what quality was your love, then? : None
+FORD
+2.2 :Like a fair house built on another man's ground; so : None
+2.2 :that I have lost my edifice by mistaking the place : None
+2.2 :where I erected it. : None
+FALSTAFF
+2.2 :To what purpose have you unfolded this to me? : None
+FORD
+2.2 :When I have told you that, I have told you all. : None
+2.2 :Some say, that though she appear honest to me, yet in : None
+2.2 :other places she enlargeth her mirth so far that : None
+2.2 :there is shrewd construction made of her. Now, Sir : None
+2.2 :John, here is the heart of my purpose: you are a : None
+2.2 :gentleman of excellent breeding, admirable : None
+2.2 :discourse, of great admittance, authentic in your : None
+2.2 :place and person, generally allowed for your many : None
+2.2 :war-like, court-like, and learned preparations. : None
+FALSTAFF
+2.2 :O, sir! : None
+FORD
+2.2 :Believe it, for you know it. There is money; spend : None
+2.2 :it, spend it; spend more; spend all I have; only : None
+2.2 :give me so much of your time in exchange of it, as : None
+2.2 :to lay an amiable siege to the honesty of this : None
+2.2 :Ford's wife: use your art of wooing; win her to : None
+2.2 :consent to you: if any man may, you may as soon as : None
+2.2 :any. : None
+FALSTAFF
+2.2 :Would it apply well to the vehemency of your : None
+2.2 :affection, that I should win what you would enjoy? : None
+2.2 :Methinks you prescribe to yourself very preposterously. : None
+FORD
+2.2 :O, understand my drift. She dwells so securely on : None
+2.2 :the excellency of her honour, that the folly of my : None
+2.2 :soul dares not present itself: she is too bright to : None
+2.2 :be looked against. Now, could I could come to her : None
+2.2 :with any detection in my hand, my desires had : None
+2.2 :instance and argument to commend themselves: I : None
+2.2 :could drive her then from the ward of her purity, : None
+2.2 :her reputation, her marriage-vow, and a thousand : None
+2.2 :other her defences, which now are too too strongly : None
+2.2 :embattled against me. What say you to't, Sir John? : None
+FALSTAFF
+2.2 :Master Brook, I will first make bold with your : None
+2.2 :money; next, give me your hand; and last, as I am a : None
+2.2 :gentleman, you shall, if you will, enjoy Ford's wife. : None
+FORD
+2.2 :O good sir! : None
+FALSTAFF
+2.2 :I say you shall. : None
+FORD
+2.2 :Want no money, Sir John; you shall want none. : None
+FALSTAFF
+2.2 :Want no Mistress Ford, Master Brook; you shall want : None
+2.2 :none. I shall be with her, I may tell you, by her : None
+2.2 :own appointment; even as you came in to me, her : None
+2.2 :assistant or go-between parted from me: I say I : None
+2.2 :shall be with her between ten and eleven; for at : None
+2.2 :that time the jealous rascally knave her husband : None
+2.2 :will be forth. Come you to me at night; you shall : None
+2.2 :know how I speed. : None
+FORD
+2.2 :I am blest in your acquaintance. Do you know Ford, : None
+2.2 :sir? : None
+FALSTAFF
+2.2 :Hang him, poor cuckoldly knave! I know him not: : None
+2.2 :yet I wrong him to call him poor; they say the : None
+2.2 :jealous wittolly knave hath masses of money; for the : None
+2.2 :which his wife seems to me well-favored. I will : None
+2.2 :use her as the key of the cuckoldly rogue's coffer; : None
+2.2 :and there's my harvest-home. : None
+FORD
+2.2 :I would you knew Ford, sir, that you might avoid him : None
+2.2 :if you saw him. : None
+FALSTAFF
+2.2 :Hang him, mechanical salt-butter rogue! I will : None
+2.2 :stare him out of his wits; I will awe him with my : None
+2.2 :cudgel: it shall hang like a meteor o'er the : None
+2.2 :cuckold's horns. Master Brook, thou shalt know I : None
+2.2 :will predominate over the peasant, and thou shalt : None
+2.2 :lie with his wife. Come to me soon at night. : None
+2.2 :Ford's a knave, and I will aggravate his style; : None
+2.2 :thou, Master Brook, shalt know him for knave and : None
+2.2 :cuckold. Come to me soon at night. : None
+Exit : ['Exit - []'] : FALSTAFF
+FORD
+2.2 :What a damned Epicurean rascal is this! My heart is : None
+2.2 :ready to crack with impatience. Who says this is : None
+2.2 :improvident jealousy? my wife hath sent to him; the : None
+2.2 :hour is fixed; the match is made. Would any man : None
+2.2 :have thought this? See the hell of having a false : None
+2.2 :woman! My bed shall be abused, my coffers : None
+2.2 :ransacked, my reputation gnawn at; and I shall not : None
+2.2 :only receive this villanous wrong, but stand under : None
+2.2 :the adoption of abominable terms, and by him that : None
+2.2 :does me this wrong. Terms! names! Amaimon sounds : None
+2.2 :well; Lucifer, well; Barbason, well; yet they are : None
+2.2 :devils' additions, the names of fiends: but : None
+2.2 :Cuckold! Wittol!--Cuckold! the devil himself hath : None
+2.2 :not such a name. Page is an ass, a secure ass: he : None
+2.2 :will trust his wife; he will not be jealous. I will : None
+2.2 :rather trust a Fleming with my butter, Parson Hugh : None
+2.2 :the Welshman with my cheese, an Irishman with my : None
+2.2 :aqua-vitae bottle, or a thief to walk my ambling : None
+2.2 :gelding, than my wife with herself; then she plots, : None
+2.2 :then she ruminates, then she devises; and what they : None
+2.2 :think in their hearts they may effect, they will : None
+2.2 :break their hearts but they will effect. God be : None
+2.2 :praised for my jealousy! Eleven o'clock the hour. : None
+2.2 :I will prevent this, detect my wife, be revenged on : None
+2.2 :Falstaff, and laugh at Page. I will about it; : None
+2.2 :better three hours too soon than a minute too late. : None
+2.2 :Fie, fie, fie! cuckold! cuckold! cuckold! : None
+Exit : ['Exit - []'] : FORD
+Scene(scene=3)
+Enter DOCTOR CAIUS and RUGBY : ["Enter - ['DOCTOR CAIUS', 'RUGBY']"] : FORD
+DOCTOR CAIUS
+2.3 :Jack Rugby! : None
+RUGBY
+2.3 :Sir? : None
+DOCTOR CAIUS
+2.3 :Vat is de clock, Jack? : None
+RUGBY
+2.3 :'Tis past the hour, sir, that Sir Hugh promised to meet. : None
+DOCTOR CAIUS
+2.3 :By gar, he has save his soul, dat he is no come; he : None
+2.3 :has pray his Pible well, dat he is no come: by gar, : None
+2.3 :Jack Rugby, he is dead already, if he be come. : None
+RUGBY
+2.3 :He is wise, sir; he knew your worship would kill : None
+2.3 :him, if he came. : None
+DOCTOR CAIUS
+2.3 :By gar, de herring is no dead so as I vill kill him. : None
+2.3 :Take your rapier, Jack; I vill tell you how I vill kill him. : None
+RUGBY
+2.3 :Alas, sir, I cannot fence. : None
+DOCTOR CAIUS
+2.3 :Villany, take your rapier. : None
+RUGBY
+2.3 :Forbear; here's company. : None
+Enter Host, SHALLOW, SLENDER, and PAGE : ["Enter - ['HOST', 'SHALLOW', 'SLENDER', 'PAGE']"] : RUGBY
+HOST
+2.3 :Bless thee, bully doctor! : None
+SHALLOW
+2.3 :Save you, Master Doctor Caius! : None
+PAGE
+2.3 :Now, good master doctor! : None
+SLENDER
+2.3 :Give you good morrow, sir. : None
+DOCTOR CAIUS
+2.3 :Vat be all you, one, two, tree, four, come for? : None
+HOST
+2.3 :To see thee fight, to see thee foin, to see thee : None
+2.3 :traverse; to see thee here, to see thee there; to : None
+2.3 :see thee pass thy punto, thy stock, thy reverse, thy : None
+2.3 :distance, thy montant. Is he dead, my Ethiopian? is : None
+2.3 :he dead, my Francisco? ha, bully! What says my : None
+2.3 :AEsculapius? my Galen? my heart of elder? ha! is : None
+2.3 :he dead, bully stale? is he dead? : None
+DOCTOR CAIUS
+2.3 :By gar, he is de coward Jack priest of de vorld; he : None
+2.3 :is not show his face. : None
+HOST
+2.3 :Thou art a Castalion-King-Urinal. Hector of Greece, my boy! : None
+DOCTOR CAIUS
+2.3 :I pray you, bear vitness that me have stay six or : None
+2.3 :seven, two, tree hours for him, and he is no come. : None
+SHALLOW
+2.3 :He is the wiser man, master doctor: he is a curer of : None
+2.3 :souls, and you a curer of bodies; if you should : None
+2.3 :fight, you go against the hair of your professions. : None
+2.3 :Is it not true, Master Page? : None
+PAGE
+2.3 :Master Shallow, you have yourself been a great : None
+2.3 :fighter, though now a man of peace. : None
+SHALLOW
+2.3 :Bodykins, Master Page, though I now be old and of : None
+2.3 :the peace, if I see a sword out, my finger itches to : None
+2.3 :make one. Though we are justices and doctors and : None
+2.3 :churchmen, Master Page, we have some salt of our : None
+2.3 :youth in us; we are the sons of women, Master Page. : None
+PAGE
+2.3 :'Tis true, Master Shallow. : None
+SHALLOW
+2.3 :It will be found so, Master Page. Master Doctor : None
+2.3 :Caius, I am come to fetch you home. I am sworn of : None
+2.3 :the peace: you have showed yourself a wise : None
+2.3 :physician, and Sir Hugh hath shown himself a wise : None
+2.3 :and patient churchman. You must go with me, master doctor. : None
+HOST
+2.3 :Pardon, guest-justice. A word, Mounseur Mockwater. : None
+DOCTOR CAIUS
+2.3 :Mock-vater! vat is dat? : None
+HOST
+2.3 :Mock-water, in our English tongue, is valour, bully. : None
+DOCTOR CAIUS
+2.3 :By gar, den, I have as mush mock-vater as de : None
+2.3 :Englishman. Scurvy jack-dog priest! by gar, me : None
+2.3 :vill cut his ears. : None
+HOST
+2.3 :He will clapper-claw thee tightly, bully. : None
+DOCTOR CAIUS
+2.3 :Clapper-de-claw! vat is dat? : None
+HOST
+2.3 :That is, he will make thee amends. : None
+DOCTOR CAIUS
+2.3 :By gar, me do look he shall clapper-de-claw me; : None
+2.3 :for, by gar, me vill have it. : None
+HOST
+2.3 :And I will provoke him to't, or let him wag. : None
+DOCTOR CAIUS
+2.3 :Me tank you for dat. : None
+HOST
+2.3 :And, moreover, bully,--but first, master guest, and : None
+2.3 :Master Page, and eke Cavaleiro Slender, go you : None
+2.3 :through the town to Frogmore. : None
+Aside to them : ['Aside - []'] : HOST
+PAGE
+2.3 :Sir Hugh is there, is he? : None
+HOST
+2.3 :He is there: see what humour he is in; and I will : None
+2.3 :bring the doctor about by the fields. Will it do well? : None
+SHALLOW
+2.3 :We will do it. : None
+PAGE
+SHALLOW
+SLENDER
+2.3 :Adieu, good master doctor. : None
+Exeunt PAGE, SHALLOW, and SLENDER : ["Exeunt - ['PAGE', 'SHALLOW', 'SLENDER']"] : SLENDER
+DOCTOR CAIUS
+2.3 :By gar, me vill kill de priest; for he speak for a : None
+2.3 :jack-an-ape to Anne Page. : None
+HOST
+2.3 :Let him die: sheathe thy impatience, throw cold : None
+2.3 :water on thy choler: go about the fields with me : None
+2.3 :through Frogmore: I will bring thee where Mistress : None
+2.3 :Anne Page is, at a farm-house a-feasting; and thou : None
+2.3 :shalt woo her. Cried I aim? said I well? : None
+DOCTOR CAIUS
+2.3 :By gar, me dank you for dat: by gar, I love you; : None
+2.3 :and I shall procure-a you de good guest, de earl, : None
+2.3 :de knight, de lords, de gentlemen, my patients. : None
+HOST
+2.3 :For the which I will be thy adversary toward Anne : None
+2.3 :Page. Said I well? : None
+DOCTOR CAIUS
+2.3 :By gar, 'tis good; vell said. : None
+HOST
+2.3 :Let us wag, then. : None
+DOCTOR CAIUS
+2.3 :Come at my heels, Jack Rugby. : None
+Exeunt : ['Exeunt - []'] : DOCTOR CAIUS
+Act(act=3)
+Scene(scene=1)
+Enter SIR HUGH EVANS and SIMPLE : ["Enter - ['SIR HUGH EVANS', 'SIMPLE']"] : DOCTOR CAIUS
+SIR HUGH EVANS
+3.1 :I pray you now, good master Slender's serving-man, : None
+3.1 :and friend Simple by your name, which way have you : None
+3.1 :looked for Master Caius, that calls himself doctor of physic? : None
+SIMPLE
+3.1 :Marry, sir, the pittie-ward, the park-ward, every : None
+3.1 :way; old Windsor way, and every way but the town : None
+3.1 :way. : None
+SIR HUGH EVANS
+3.1 :I most fehemently desire you you will also look that : None
+3.1 :way. : None
+SIMPLE
+3.1 :I will, sir. : None
+Exit : ['Exit - []'] : SIMPLE
+SIR HUGH EVANS
+3.1 :'Pless my soul, how full of chollors I am, and : None
+3.1 :trempling of mind! I shall be glad if he have : None
+3.1 :deceived me. How melancholies I am! I will knog : None
+3.1 :his urinals about his knave's costard when I have : None
+3.1 :good opportunities for the ork. 'Pless my soul! : None
+Sings : ['None - []'] : SIR HUGH EVANS
+3.1 :To shallow rivers, to whose falls : None
+3.1 :Melodious birds sings madrigals; : None
+3.1 :There will we make our peds of roses, : None
+3.1 :And a thousand fragrant posies. : None
+3.1 :To shallow-- : None
+3.1 :Mercy on me! I have a great dispositions to cry. : None
+Sings : ['None - []'] : SIR HUGH EVANS
+3.1 :Melodious birds sing madrigals-- : None
+3.1 :When as I sat in Pabylon-- : None
+3.1 :And a thousand vagram posies. : None
+3.1 :To shallow  & c. : None
+Re-enter SIMPLE : ["Re-enter - ['SIMPLE']"] : SIR HUGH EVANS
+SIMPLE
+3.1 :Yonder he is coming, this way, Sir Hugh. : None
+SIR HUGH EVANS
+3.1 :He's welcome. : None
+Sings : ['None - []'] : SIR HUGH EVANS
+3.1 :To shallow rivers, to whose falls- : None
+3.1 :Heaven prosper the right! What weapons is he? : None
+SIMPLE
+3.1 :No weapons, sir. There comes my master, Master : None
+3.1 :Shallow, and another gentleman, from Frogmore, over : None
+3.1 :the stile, this way. : None
+SIR HUGH EVANS
+3.1 :Pray you, give me my gown; or else keep it in your arms. : None
+Enter PAGE, SHALLOW, and SLENDER : ["Enter - ['PAGE', 'SHALLOW', 'SLENDER']"] : SIR HUGH EVANS
+SHALLOW
+3.1 :How now, master Parson! Good morrow, good Sir Hugh. : None
+3.1 :Keep a gamester from the dice, and a good student : None
+3.1 :from his book, and it is wonderful. : None
+SLENDER
+3.1 :  Ah, sweet Anne Page! : Aside : ['Aside - []'] : SLENDER
+PAGE
+3.1 :'Save you, good Sir Hugh! : None
+SIR HUGH EVANS
+3.1 :'Pless you from his mercy sake, all of you! : None
+SHALLOW
+3.1 :What, the sword and the word! do you study them : None
+3.1 :both, master parson? : None
+PAGE
+3.1 :And youthful still! in your doublet and hose this : None
+3.1 :raw rheumatic day! : None
+SIR HUGH EVANS
+3.1 :There is reasons and causes for it. : None
+PAGE
+3.1 :We are come to you to do a good office, master parson. : None
+SIR HUGH EVANS
+3.1 :Fery well: what is it? : None
+PAGE
+3.1 :Yonder is a most reverend gentleman, who, belike : None
+3.1 :having received wrong by some person, is at most : None
+3.1 :odds with his own gravity and patience that ever you : None
+3.1 :saw. : None
+SHALLOW
+3.1 :I have lived fourscore years and upward; I never : None
+3.1 :heard a man of his place, gravity and learning, so : None
+3.1 :wide of his own respect. : None
+SIR HUGH EVANS
+3.1 :What is he? : None
+PAGE
+3.1 :I think you know him; Master Doctor Caius, the : None
+3.1 :renowned French physician. : None
+SIR HUGH EVANS
+3.1 :Got's will, and his passion of my heart! I had as : None
+3.1 :lief you would tell me of a mess of porridge. : None
+PAGE
+3.1 :Why? : None
+SIR HUGH EVANS
+3.1 :He has no more knowledge in Hibocrates and Galen, : None
+3.1 :--and he is a knave besides; a cowardly knave as you : None
+3.1 :would desires to be acquainted withal. : None
+PAGE
+3.1 :I warrant you, he's the man should fight with him. : None
+SHALLOW
+3.1 :  O sweet Anne Page! : Aside : ['Aside - []'] : SHALLOW
+SHALLOW
+3.1 :It appears so by his weapons. Keep them asunder: : None
+3.1 :here comes Doctor Caius. : None
+Enter Host, DOCTOR CAIUS, and RUGBY : ["Enter - ['HOST', 'DOCTOR CAIUS', 'RUGBY']"] : SHALLOW
+PAGE
+3.1 :Nay, good master parson, keep in your weapon. : None
+SHALLOW
+3.1 :So do you, good master doctor. : None
+HOST
+3.1 :Disarm them, and let them question: let them keep : None
+3.1 :their limbs whole and hack our English. : None
+DOCTOR CAIUS
+3.1 :I pray you, let-a me speak a word with your ear. : None
+3.1 :Vherefore vill you not meet-a me? : None
+SIR HUGH EVANS
+3.1 :  Pray you, use your patience: : Aside to DOCTOR CAIUS : ["Aside - ['DOCTOR CAIUS']"] : SIR HUGH EVANS
+3.1 :in good time. : None
+DOCTOR CAIUS
+3.1 :By gar, you are de coward, de Jack dog, John ape. : None
+SIR HUGH EVANS
+3.1 :  Pray you let us not be : Aside to DOCTOR CAIUS : ["Aside - ['DOCTOR CAIUS']"] : SIR HUGH EVANS
+3.1 :laughing-stocks to other men's humours; I desire you : None
+3.1 :in friendship, and I will one way or other make you amends. : None
+Aloud : ['None - []'] : SIR HUGH EVANS
+3.1 :I will knog your urinals about your knave's cockscomb : None
+3.1 :for missing your meetings and appointments. : None
+DOCTOR CAIUS
+3.1 :Diable! Jack Rugby,--mine host de Jarteer,--have I : None
+3.1 :not stay for him to kill him? have I not, at de place : None
+3.1 :I did appoint? : None
+SIR HUGH EVANS
+3.1 :As I am a Christians soul now, look you, this is the : None
+3.1 :place appointed: I'll be judgement by mine host of : None
+3.1 :the Garter. : None
+HOST
+3.1 :Peace, I say, Gallia and Gaul, French and Welsh, : None
+3.1 :soul-curer and body-curer! : None
+DOCTOR CAIUS
+3.1 :Ay, dat is very good; excellent. : None
+HOST
+3.1 :Peace, I say! hear mine host of the Garter. Am I : None
+3.1 :politic? am I subtle? am I a Machiavel? Shall I : None
+3.1 :lose my doctor? no; he gives me the potions and the : None
+3.1 :motions. Shall I lose my parson, my priest, my Sir : None
+3.1 :Hugh? no; he gives me the proverbs and the : None
+3.1 :no-verbs. Give me thy hand, terrestrial; so. Give me : None
+3.1 :thy hand, celestial; so. Boys of art, I have : None
+3.1 :deceived you both; I have directed you to wrong : None
+3.1 :places: your hearts are mighty, your skins are : None
+3.1 :whole, and let burnt sack be the issue. Come, lay : None
+3.1 :their swords to pawn. Follow me, lads of peace; : None
+3.1 :follow, follow, follow. : None
+SHALLOW
+3.1 :Trust me, a mad host. Follow, gentlemen, follow. : None
+SLENDER
+3.1 :  O sweet Anne Page! : Aside : ['Aside - []'] : SLENDER
+Exeunt SHALLOW, SLENDER, PAGE, and Host : ["Exeunt - ['SHALLOW', 'SLENDER', 'PAGE', 'HOST']"] : SLENDER
+DOCTOR CAIUS
+3.1 :Ha, do I perceive dat? have you make-a de sot of : None
+3.1 :us, ha, ha? : None
+SIR HUGH EVANS
+3.1 :This is well; he has made us his vlouting-stog. I : None
+3.1 :desire you that we may be friends; and let us knog : None
+3.1 :our prains together to be revenge on this same : None
+3.1 :scall, scurvy cogging companion, the host of the Garter. : None
+DOCTOR CAIUS
+3.1 :By gar, with all my heart. He promise to bring me : None
+3.1 :where is Anne Page; by gar, he deceive me too. : None
+SIR HUGH EVANS
+3.1 :Well, I will smite his noddles. Pray you, follow. : None
+Exeunt : ['Exeunt - []'] : SIR HUGH EVANS
+Scene(scene=2)
+Enter MISTRESS PAGE and ROBIN : ["Enter - ['MISTRESS PAGE', 'ROBIN']"] : SIR HUGH EVANS
+MISTRESS PAGE
+3.2 :Nay, keep your way, little gallant; you were wont to : None
+3.2 :be a follower, but now you are a leader. Whether : None
+3.2 :had you rather lead mine eyes, or eye your master's heels? : None
+ROBIN
+3.2 :I had rather, forsooth, go before you like a man : None
+3.2 :than follow him like a dwarf. : None
+MISTRESS PAGE
+3.2 :O, you are a flattering boy: now I see you'll be a courtier. : None
+Enter FORD : ["Enter - ['FORD']"] : MISTRESS PAGE
+FORD
+3.2 :Well met, Mistress Page. Whither go you? : None
+MISTRESS PAGE
+3.2 :Truly, sir, to see your wife. Is she at home? : None
+FORD
+3.2 :Ay; and as idle as she may hang together, for want : None
+3.2 :of company. I think, if your husbands were dead, : None
+3.2 :you two would marry. : None
+MISTRESS PAGE
+3.2 :Be sure of that,--two other husbands. : None
+FORD
+3.2 :Where had you this pretty weather-cock? : None
+MISTRESS PAGE
+3.2 :I cannot tell what the dickens his name is my : None
+3.2 :husband had him of. What do you call your knight's : None
+3.2 :name, sirrah? : None
+ROBIN
+3.2 :Sir John Falstaff. : None
+FORD
+3.2 :Sir John Falstaff! : None
+MISTRESS PAGE
+3.2 :He, he; I can never hit on's name. There is such a : None
+3.2 :league between my good man and he! Is your wife at : None
+3.2 :home indeed? : None
+FORD
+3.2 :Indeed she is. : None
+MISTRESS PAGE
+3.2 :By your leave, sir: I am sick till I see her. : None
+Exeunt MISTRESS PAGE and ROBIN : ["Exeunt - ['MISTRESS PAGE', 'ROBIN']"] : MISTRESS PAGE
+FORD
+3.2 :Has Page any brains? hath he any eyes? hath he any : None
+3.2 :thinking? Sure, they sleep; he hath no use of them. : None
+3.2 :Why, this boy will carry a letter twenty mile, as : None
+3.2 :easy as a cannon will shoot point-blank twelve : None
+3.2 :score. He pieces out his wife's inclination; he : None
+3.2 :gives her folly motion and advantage: and now she's : None
+3.2 :going to my wife, and Falstaff's boy with her. A : None
+3.2 :man may hear this shower sing in the wind. And : None
+3.2 :Falstaff's boy with her! Good plots, they are laid; : None
+3.2 :and our revolted wives share damnation together. : None
+3.2 :Well; I will take him, then torture my wife, pluck : None
+3.2 :the borrowed veil of modesty from the so seeming : None
+3.2 :Mistress Page, divulge Page himself for a secure and : None
+3.2 :wilful Actaeon; and to these violent proceedings all : None
+3.2 :my neighbours shall cry aim. : None
+Clock heard : ['None - []'] : FORD
+3.2 :The clock gives me my cue, and my assurance bids me : None
+3.2 :search: there I shall find Falstaff: I shall be : None
+3.2 :rather praised for this than mocked; for it is as : None
+3.2 :positive as the earth is firm that Falstaff is : None
+3.2 :there: I will go. : None
+Enter PAGE, SHALLOW, SLENDER, Host, SIR HUGH EVANS, DOCTOR CAIUS, and RUGBY : ["Enter - ['PAGE', 'SHALLOW', 'SLENDER', 'HOST', 'SIR HUGH EVANS', 'DOCTOR CAIUS', 'RUGBY']"] : FORD
+SHALLOW
+PAGE
+& C
+3.2 :Well met, Master Ford. : None
+FORD
+3.2 :Trust me, a good knot: I have good cheer at home; : None
+3.2 :and I pray you all go with me. : None
+SHALLOW
+3.2 :I must excuse myself, Master Ford. : None
+SLENDER
+3.2 :And so must I, sir: we have appointed to dine with : None
+3.2 :Mistress Anne, and I would not break with her for : None
+3.2 :more money than I'll speak of. : None
+SHALLOW
+3.2 :We have lingered about a match between Anne Page and : None
+3.2 :my cousin Slender, and this day we shall have our answer. : None
+SLENDER
+3.2 :I hope I have your good will, father Page. : None
+PAGE
+3.2 :You have, Master Slender; I stand wholly for you: : None
+3.2 :but my wife, master doctor, is for you altogether. : None
+DOCTOR CAIUS
+3.2 :Ay, be-gar; and de maid is love-a me: my nursh-a : None
+3.2 :Quickly tell me so mush. : None
+HOST
+3.2 :What say you to young Master Fenton? he capers, he : None
+3.2 :dances, he has eyes of youth, he writes verses, he : None
+3.2 :speaks holiday, he smells April and May: he will : None
+3.2 :carry't, he will carry't; 'tis in his buttons; he : None
+3.2 :will carry't. : None
+PAGE
+3.2 :Not by my consent, I promise you. The gentleman is : None
+3.2 :of no having: he kept company with the wild prince : None
+3.2 :and Poins; he is of too high a region; he knows too : None
+3.2 :much. No, he shall not knit a knot in his fortunes : None
+3.2 :with the finger of my substance: if he take her, : None
+3.2 :let him take her simply; the wealth I have waits on : None
+3.2 :my consent, and my consent goes not that way. : None
+FORD
+3.2 :I beseech you heartily, some of you go home with me : None
+3.2 :to dinner: besides your cheer, you shall have : None
+3.2 :sport; I will show you a monster. Master doctor, : None
+3.2 :you shall go; so shall you, Master Page; and you, Sir Hugh. : None
+SHALLOW
+3.2 :Well, fare you well: we shall have the freer wooing : None
+3.2 :at Master Page's. : None
+Exeunt SHALLOW, and SLENDER : ["Exeunt - ['SHALLOW', 'SLENDER']"] : SHALLOW
+DOCTOR CAIUS
+3.2 :Go home, John Rugby; I come anon. : None
+Exit RUGBY : ["Exit - ['RUGBY']"] : DOCTOR CAIUS
+HOST
+3.2 :Farewell, my hearts: I will to my honest knight : None
+3.2 :Falstaff, and drink canary with him. : None
+Exit : ['Exit - []'] : HOST
+FORD
+3.2 :  I think I shall drink in pipe wine first : Aside : ['Aside - []'] : FORD
+3.2 :with him; I'll make him dance. Will you go, gentles? : None
+ALL
+3.2 :Have with you to see this monster. : None
+Exeunt : ['Exeunt - []'] : ALL
+Scene(scene=3)
+Enter MISTRESS FORD and MISTRESS PAGE : ["Enter - ['MISTRESS FORD', 'MISTRESS PAGE']"] : ALL
+MISTRESS FORD
+3.3 :What, John! What, Robert! : None
+MISTRESS PAGE
+3.3 :Quickly, quickly! is the buck-basket-- : None
+MISTRESS FORD
+3.3 :I warrant. What, Robin, I say! : None
+Enter Servants with a basket : ["Enter - ['SERVANT']"] : MISTRESS FORD
+MISTRESS PAGE
+3.3 :Come, come, come. : None
+MISTRESS FORD
+3.3 :Here, set it down. : None
+MISTRESS PAGE
+3.3 :Give your men the charge; we must be brief. : None
+MISTRESS FORD
+3.3 :Marry, as I told you before, John and Robert, be : None
+3.3 :ready here hard by in the brew-house: and when I : None
+3.3 :suddenly call you, come forth, and without any pause : None
+3.3 :or staggering take this basket on your shoulders: : None
+3.3 :that done, trudge with it in all haste, and carry : None
+3.3 :it among the whitsters in Datchet-mead, and there : None
+3.3 :empty it in the muddy ditch close by the Thames side. : None
+MISTRESS PAGE
+3.3 :You will do it? : None
+MISTRESS FORD
+3.3 :I ha' told them over and over; they lack no : None
+3.3 :direction. Be gone, and come when you are called. : None
+Exeunt Servants : ["Exeunt - ['SERVANT']"] : MISTRESS FORD
+MISTRESS PAGE
+3.3 :Here comes little Robin. : None
+Enter ROBIN : ["Enter - ['ROBIN']"] : MISTRESS PAGE
+MISTRESS FORD
+3.3 :How now, my eyas-musket! what news with you? : None
+ROBIN
+3.3 :My master, Sir John, is come in at your back-door, : None
+3.3 :Mistress Ford, and requests your company. : None
+MISTRESS PAGE
+3.3 :You little Jack-a-Lent, have you been true to us? : None
+ROBIN
+3.3 :Ay, I'll be sworn. My master knows not of your : None
+3.3 :being here and hath threatened to put me into : None
+3.3 :everlasting liberty if I tell you of it; for he : None
+3.3 :swears he'll turn me away. : None
+MISTRESS PAGE
+3.3 :Thou'rt a good boy: this secrecy of thine shall be : None
+3.3 :a tailor to thee and shall make thee a new doublet : None
+3.3 :and hose. I'll go hide me. : None
+MISTRESS FORD
+3.3 :Do so. Go tell thy master I am alone. : None
+Exit ROBIN : ["Exit - ['ROBIN']"] : MISTRESS FORD
+3.3 :Mistress Page, remember you your cue. : None
+MISTRESS PAGE
+3.3 :I warrant thee; if I do not act it, hiss me. : None
+Exit : ['Exit - []'] : MISTRESS PAGE
+MISTRESS FORD
+3.3 :Go to, then: we'll use this unwholesome humidity, : None
+3.3 :this gross watery pumpion; we'll teach him to know : None
+3.3 :turtles from jays. : None
+Enter FALSTAFF : ["Enter - ['FALSTAFF']"] : MISTRESS FORD
+FALSTAFF
+3.3 :Have I caught thee, my heavenly jewel? Why, now let : None
+3.3 :me die, for I have lived long enough: this is the : None
+3.3 :period of my ambition: O this blessed hour! : None
+MISTRESS FORD
+3.3 :O sweet Sir John! : None
+FALSTAFF
+3.3 :Mistress Ford, I cannot cog, I cannot prate, : None
+3.3 :Mistress Ford. Now shall I sin in my wish: I would : None
+3.3 :thy husband were dead: I'll speak it before the : None
+3.3 :best lord; I would make thee my lady. : None
+MISTRESS FORD
+3.3 :I your lady, Sir John! alas, I should be a pitiful lady! : None
+FALSTAFF
+3.3 :Let the court of France show me such another. I see : None
+3.3 :how thine eye would emulate the diamond: thou hast : None
+3.3 :the right arched beauty of the brow that becomes the : None
+3.3 :ship-tire, the tire-valiant, or any tire of : None
+3.3 :Venetian admittance. : None
+MISTRESS FORD
+3.3 :A plain kerchief, Sir John: my brows become nothing : None
+3.3 :else; nor that well neither. : None
+FALSTAFF
+3.3 :By the Lord, thou art a traitor to say so: thou : None
+3.3 :wouldst make an absolute courtier; and the firm : None
+3.3 :fixture of thy foot would give an excellent motion : None
+3.3 :to thy gait in a semi-circled farthingale. I see : None
+3.3 :what thou wert, if Fortune thy foe were not, Nature : None
+3.3 :thy friend. Come, thou canst not hide it. : None
+MISTRESS FORD
+3.3 :Believe me, there is no such thing in me. : None
+FALSTAFF
+3.3 :What made me love thee? let that persuade thee : None
+3.3 :there's something extraordinary in thee. Come, I : None
+3.3 :cannot cog and say thou art this and that, like a : None
+3.3 :many of these lisping hawthorn-buds, that come like : None
+3.3 :women in men's apparel, and smell like Bucklersbury : None
+3.3 :in simple time; I cannot: but I love thee; none : None
+3.3 :but thee; and thou deservest it. : None
+MISTRESS FORD
+3.3 :Do not betray me, sir. I fear you love Mistress Page. : None
+FALSTAFF
+3.3 :Thou mightst as well say I love to walk by the : None
+3.3 :Counter-gate, which is as hateful to me as the reek : None
+3.3 :of a lime-kiln. : None
+MISTRESS FORD
+3.3 :Well, heaven knows how I love you; and you shall one : None
+3.3 :day find it. : None
+FALSTAFF
+3.3 :Keep in that mind; I'll deserve it. : None
+MISTRESS FORD
+3.3 :Nay, I must tell you, so you do; or else I could not : None
+3.3 :be in that mind. : None
+ROBIN
+3.3 :  Mistress Ford, Mistress Ford! here's : Within : ['None - []'] : ROBIN
+3.3 :Mistress Page at the door, sweating and blowing and : None
+3.3 :looking wildly, and would needs speak with you presently. : None
+FALSTAFF
+3.3 :She shall not see me: I will ensconce me behind the arras. : None
+MISTRESS FORD
+3.3 :Pray you, do so: she's a very tattling woman. : None
+FALSTAFF hides himself : ["None - ['FALSTAFF']"] : MISTRESS FORD
+Re-enter MISTRESS PAGE and ROBIN : ["Re-enter - ['MISTRESS PAGE', 'ROBIN']"] : MISTRESS FORD
+3.3 :What's the matter? how now! : None
+MISTRESS PAGE
+3.3 :O Mistress Ford, what have you done? You're shamed, : None
+3.3 :you're overthrown, you're undone for ever! : None
+MISTRESS FORD
+3.3 :What's the matter, good Mistress Page? : None
+MISTRESS PAGE
+3.3 :O well-a-day, Mistress Ford! having an honest man : None
+3.3 :to your husband, to give him such cause of suspicion! : None
+MISTRESS FORD
+3.3 :What cause of suspicion? : None
+MISTRESS PAGE
+3.3 :What cause of suspicion! Out pon you! how am I : None
+3.3 :mistook in you! : None
+MISTRESS FORD
+3.3 :Why, alas, what's the matter? : None
+MISTRESS PAGE
+3.3 :Your husband's coming hither, woman, with all the : None
+3.3 :officers in Windsor, to search for a gentleman that : None
+3.3 :he says is here now in the house by your consent, to : None
+3.3 :take an ill advantage of his assence: you are undone. : None
+MISTRESS FORD
+3.3 :'Tis not so, I hope. : None
+MISTRESS PAGE
+3.3 :Pray heaven it be not so, that you have such a man : None
+3.3 :here! but 'tis most certain your husband's coming, : None
+3.3 :with half Windsor at his heels, to search for such a : None
+3.3 :one. I come before to tell you. If you know : None
+3.3 :yourself clear, why, I am glad of it; but if you : None
+3.3 :have a friend here convey, convey him out. Be not : None
+3.3 :amazed; call all your senses to you; defend your : None
+3.3 :reputation, or bid farewell to your good life for ever. : None
+MISTRESS FORD
+3.3 :What shall I do? There is a gentleman my dear : None
+3.3 :friend; and I fear not mine own shame so much as his : None
+3.3 :peril: I had rather than a thousand pound he were : None
+3.3 :out of the house. : None
+MISTRESS PAGE
+3.3 :For shame! never stand 'you had rather' and 'you : None
+3.3 :had rather:' your husband's here at hand, bethink : None
+3.3 :you of some conveyance: in the house you cannot : None
+3.3 :hide him. O, how have you deceived me! Look, here : None
+3.3 :is a basket: if he be of any reasonable stature, he : None
+3.3 :may creep in here; and throw foul linen upon him, as : None
+3.3 :if it were going to bucking: or--it is whiting-time : None
+3.3 :--send him by your two men to Datchet-mead. : None
+MISTRESS FORD
+3.3 :He's too big to go in there. What shall I do? : None
+FALSTAFF
+3.3 :  Let me see't, let me see't, O, let : Coming forward : ['None - []'] : FALSTAFF
+3.3 :me see't! I'll in, I'll in. Follow your friend's : None
+3.3 :counsel. I'll in. : None
+MISTRESS PAGE
+3.3 :What, Sir John Falstaff! Are these your letters, knight? : None
+FALSTAFF
+3.3 :I love thee. Help me away. Let me creep in here. : None
+3.3 :I'll never-- : None
+Gets into the basket; they cover him with foul linen : ['to - []'] : FALSTAFF
+MISTRESS PAGE
+3.3 :Help to cover your master, boy. Call your men, : None
+3.3 :Mistress Ford. You dissembling knight! : None
+MISTRESS FORD
+3.3 :What, John! Robert! John! : None
+Exit ROBIN : ["Exit - ['ROBIN']"] : MISTRESS FORD
+Re-enter Servants : ["Re-enter - ['SERVANT']"] : MISTRESS FORD
+3.3 :Go take up these clothes here quickly. Where's the : None
+3.3 :cowl-staff? look, how you drumble! Carry them to : None
+3.3 :the laundress in Datchet-meat; quickly, come. : None
+Enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS : ["Enter - ['FORD', 'PAGE', 'DOCTOR CAIUS', 'SIR HUGH EVANS']"] : MISTRESS FORD
+FORD
+3.3 :Pray you, come near: if I suspect without cause, : None
+3.3 :why then make sport at me; then let me be your jest; : None
+3.3 :I deserve it. How now! whither bear you this? : None
+SERVANT
+3.3 :To the laundress, forsooth. : None
+MISTRESS FORD
+3.3 :Why, what have you to do whither they bear it? You : None
+3.3 :were best meddle with buck-washing. : None
+FORD
+3.3 :Buck! I would I could wash myself of the buck! : None
+3.3 :Buck, buck, buck! Ay, buck; I warrant you, buck; : None
+3.3 :and of the season too, it shall appear. : None
+Exeunt Servants with the basket : ["Exeunt - ['SERVANT']"] : FORD
+3.3 :Gentlemen, I have dreamed to-night; I'll tell you my : None
+3.3 :dream. Here, here, here be my keys: ascend my : None
+3.3 :chambers; search, seek, find out: I'll warrant : None
+3.3 :we'll unkennel the fox. Let me stop this way first. : None
+Locking the door : ['None - []'] : FORD
+3.3 :So, now uncape. : None
+PAGE
+3.3 :Good Master Ford, be contented: you wrong yourself too much. : None
+FORD
+3.3 :True, Master Page. Up, gentlemen: you shall see : None
+3.3 :sport anon: follow me, gentlemen. : None
+Exit : ['Exit - []'] : FORD
+SIR HUGH EVANS
+3.3 :This is fery fantastical humours and jealousies. : None
+DOCTOR CAIUS
+3.3 :By gar, 'tis no the fashion of France; it is not : None
+3.3 :jealous in France. : None
+PAGE
+3.3 :Nay, follow him, gentlemen; see the issue of his search. : None
+Exeunt PAGE, DOCTOR CAIUS, and SIR HUGH EVANS : ["Exeunt - ['PAGE', 'DOCTOR CAIUS', 'SIR HUGH EVANS']"] : PAGE
+MISTRESS PAGE
+3.3 :Is there not a double excellency in this? : None
+MISTRESS FORD
+3.3 :I know not which pleases me better, that my husband : None
+3.3 :is deceived, or Sir John. : None
+MISTRESS PAGE
+3.3 :What a taking was he in when your husband asked who : None
+3.3 :was in the basket! : None
+MISTRESS FORD
+3.3 :I am half afraid he will have need of washing; so : None
+3.3 :throwing him into the water will do him a benefit. : None
+MISTRESS PAGE
+3.3 :Hang him, dishonest rascal! I would all of the same : None
+3.3 :strain were in the same distress. : None
+MISTRESS FORD
+3.3 :I think my husband hath some special suspicion of : None
+3.3 :Falstaff's being here; for I never saw him so gross : None
+3.3 :in his jealousy till now. : None
+MISTRESS PAGE
+3.3 :I will lay a plot to try that; and we will yet have : None
+3.3 :more tricks with Falstaff: his dissolute disease will : None
+3.3 :scarce obey this medicine. : None
+MISTRESS FORD
+3.3 :Shall we send that foolish carrion, Mistress : None
+3.3 :Quickly, to him, and excuse his throwing into the : None
+3.3 :water; and give him another hope, to betray him to : None
+3.3 :another punishment? : None
+MISTRESS PAGE
+3.3 :We will do it: let him be sent for to-morrow, : None
+3.3 :eight o'clock, to have amends. : None
+Re-enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS : ["Re-enter - ['FORD', 'PAGE', 'DOCTOR CAIUS', 'SIR HUGH EVANS']"] : MISTRESS PAGE
+FORD
+3.3 :I cannot find him: may be the knave bragged of that : None
+3.3 :he could not compass. : None
+MISTRESS PAGE
+3.3 :  Heard you that? : Aside to MISTRESS FORD : ["Aside - ['MISTRESS FORD']"] : MISTRESS PAGE
+MISTRESS FORD
+3.3 :You use me well, Master Ford, do you? : None
+FORD
+3.3 :Ay, I do so. : None
+MISTRESS FORD
+3.3 :Heaven make you better than your thoughts! : None
+FORD
+3.3 :Amen! : None
+MISTRESS PAGE
+3.3 :You do yourself mighty wrong, Master Ford. : None
+FORD
+3.3 :Ay, ay; I must bear it. : None
+SIR HUGH EVANS
+3.3 :If there be any pody in the house, and in the : None
+3.3 :chambers, and in the coffers, and in the presses, : None
+3.3 :heaven forgive my sins at the day of judgment! : None
+DOCTOR CAIUS
+3.3 :By gar, nor I too: there is no bodies. : None
+PAGE
+3.3 :Fie, fie, Master Ford! are you not ashamed? What : None
+3.3 :spirit, what devil suggests this imagination? I : None
+3.3 :would not ha' your distemper in this kind for the : None
+3.3 :wealth of Windsor Castle. : None
+FORD
+3.3 :'Tis my fault, Master Page: I suffer for it. : None
+SIR HUGH EVANS
+3.3 :You suffer for a pad conscience: your wife is as : None
+3.3 :honest a 'omans as I will desires among five : None
+3.3 :thousand, and five hundred too. : None
+DOCTOR CAIUS
+3.3 :By gar, I see 'tis an honest woman. : None
+FORD
+3.3 :Well, I promised you a dinner. Come, come, walk in : None
+3.3 :the Park: I pray you, pardon me; I will hereafter : None
+3.3 :make known to you why I have done this. Come, : None
+3.3 :wife; come, Mistress Page. I pray you, pardon me; : None
+3.3 :pray heartily, pardon me. : None
+PAGE
+3.3 :Let's go in, gentlemen; but, trust me, we'll mock : None
+3.3 :him. I do invite you to-morrow morning to my house : None
+3.3 :to breakfast: after, we'll a-birding together; I : None
+3.3 :have a fine hawk for the bush. Shall it be so? : None
+FORD
+3.3 :Any thing. : None
+SIR HUGH EVANS
+3.3 :If there is one, I shall make two in the company. : None
+DOCTOR CAIUS
+3.3 :If dere be one or two, I shall make-a the turd. : None
+FORD
+3.3 :Pray you, go, Master Page. : None
+SIR HUGH EVANS
+3.3 :I pray you now, remembrance tomorrow on the lousy : None
+3.3 :knave, mine host. : None
+DOCTOR CAIUS
+3.3 :Dat is good; by gar, with all my heart! : None
+SIR HUGH EVANS
+3.3 :A lousy knave, to have his gibes and his mockeries! : None
+Exeunt : ['Exeunt - []'] : SIR HUGH EVANS
+Scene(scene=4)
+Enter FENTON and ANNE PAGE : ["Enter - ['FENTON', 'ANNE PAGE']"] : SIR HUGH EVANS
+FENTON
+3.4 :I see I cannot get thy father's love; : None
+3.4 :Therefore no more turn me to him, sweet Nan. : None
+ANNE PAGE
+3.4 :Alas, how then? : None
+FENTON
+3.4 :                  Why, thou must be thyself. : None
+3.4 :He doth object I am too great of birth--, : None
+3.4 :And that, my state being gall'd with my expense, : None
+3.4 :I seek to heal it only by his wealth: : None
+3.4 :Besides these, other bars he lays before me, : None
+3.4 :My riots past, my wild societies; : None
+3.4 :And tells me 'tis a thing impossible : None
+3.4 :I should love thee but as a property. : None
+ANNE PAGE
+3.4 :May be he tells you true. : None
+FENTON
+3.4 :No, heaven so speed me in my time to come! : None
+3.4 :Albeit I will confess thy father's wealth : None
+3.4 :Was the first motive that I woo'd thee, Anne: : None
+3.4 :Yet, wooing thee, I found thee of more value : None
+3.4 :Than stamps in gold or sums in sealed bags; : None
+3.4 :And 'tis the very riches of thyself : None
+3.4 :That now I aim at. : None
+ANNE PAGE
+3.4 :                  Gentle Master Fenton, : None
+3.4 :Yet seek my father's love; still seek it, sir: : None
+3.4 :If opportunity and humblest suit : None
+3.4 :Cannot attain it, why, then,--hark you hither! : None
+They converse apart : ['None - []'] : ANNE PAGE
+Enter SHALLOW, SLENDER, and MISTRESS QUICKLY : ["Enter - ['SHALLOW', 'SLENDER', 'MISTRESS QUICKLY']"] : ANNE PAGE
+SHALLOW
+3.4 :Break their talk, Mistress Quickly: my kinsman shall : None
+3.4 :speak for himself. : None
+SLENDER
+3.4 :I'll make a shaft or a bolt on't: 'slid, 'tis but : None
+3.4 :venturing. : None
+SHALLOW
+3.4 :Be not dismayed. : None
+SLENDER
+3.4 :No, she shall not dismay me: I care not for that, : None
+3.4 :but that I am afeard. : None
+MISTRESS QUICKLY
+3.4 :Hark ye; Master Slender would speak a word with you. : None
+ANNE PAGE
+3.4 :I come to him. : None
+Aside : ['Aside - []'] : ANNE PAGE
+3.4 :This is my father's choice. : None
+3.4 :O, what a world of vile ill-favor'd faults : None
+3.4 :Looks handsome in three hundred pounds a-year! : None
+MISTRESS QUICKLY
+3.4 :And how does good Master Fenton? Pray you, a word with you. : None
+SHALLOW
+3.4 :She's coming; to her, coz. O boy, thou hadst a father! : None
+SLENDER
+3.4 :I had a father, Mistress Anne; my uncle can tell you : None
+3.4 :good jests of him. Pray you, uncle, tell Mistress : None
+3.4 :Anne the jest, how my father stole two geese out of : None
+3.4 :a pen, good uncle. : None
+SHALLOW
+3.4 :Mistress Anne, my cousin loves you. : None
+SLENDER
+3.4 :Ay, that I do; as well as I love any woman in : None
+3.4 :Gloucestershire. : None
+SHALLOW
+3.4 :He will maintain you like a gentlewoman. : None
+SLENDER
+3.4 :Ay, that I will, come cut and long-tail, under the : None
+3.4 :degree of a squire. : None
+SHALLOW
+3.4 :He will make you a hundred and fifty pounds jointure. : None
+ANNE PAGE
+3.4 :Good Master Shallow, let him woo for himself. : None
+SHALLOW
+3.4 :Marry, I thank you for it; I thank you for that good : None
+3.4 :comfort. She calls you, coz: I'll leave you. : None
+ANNE PAGE
+3.4 :Now, Master Slender,-- : None
+SLENDER
+3.4 :Now, good Mistress Anne,-- : None
+ANNE PAGE
+3.4 :What is your will? : None
+SLENDER
+3.4 :My will! 'od's heartlings, that's a pretty jest : None
+3.4 :indeed! I ne'er made my will yet, I thank heaven; I : None
+3.4 :am not such a sickly creature, I give heaven praise. : None
+ANNE PAGE
+3.4 :I mean, Master Slender, what would you with me? : None
+SLENDER
+3.4 :Truly, for mine own part, I would little or nothing : None
+3.4 :with you. Your father and my uncle hath made : None
+3.4 :motions: if it be my luck, so; if not, happy man be : None
+3.4 :his dole! They can tell you how things go better : None
+3.4 :than I can: you may ask your father; here he comes. : None
+Enter PAGE and MISTRESS PAGE : ["Enter - ['PAGE', 'MISTRESS PAGE']"] : SLENDER
+PAGE
+3.4 :Now, Master Slender: love him, daughter Anne. : None
+3.4 :Why, how now! what does Master Fenton here? : None
+3.4 :You wrong me, sir, thus still to haunt my house: : None
+3.4 :I told you, sir, my daughter is disposed of. : None
+FENTON
+3.4 :Nay, Master Page, be not impatient. : None
+MISTRESS PAGE
+3.4 :Good Master Fenton, come not to my child. : None
+PAGE
+3.4 :She is no match for you. : None
+FENTON
+3.4 :Sir, will you hear me? : None
+PAGE
+3.4 :No, good Master Fenton. : None
+3.4 :Come, Master Shallow; come, son Slender, in. : None
+3.4 :Knowing my mind, you wrong me, Master Fenton. : None
+Exeunt PAGE, SHALLOW, and SLENDER : ["Exeunt - ['PAGE', 'SHALLOW', 'SLENDER']"] : PAGE
+MISTRESS QUICKLY
+3.4 :Speak to Mistress Page. : None
+FENTON
+3.4 :Good Mistress Page, for that I love your daughter : None
+3.4 :In such a righteous fashion as I do, : None
+3.4 :Perforce, against all cheques, rebukes and manners, : None
+3.4 :I must advance the colours of my love : None
+3.4 :And not retire: let me have your good will. : None
+ANNE PAGE
+3.4 :Good mother, do not marry me to yond fool. : None
+MISTRESS PAGE
+3.4 :I mean it not; I seek you a better husband. : None
+MISTRESS QUICKLY
+3.4 :That's my master, master doctor. : None
+ANNE PAGE
+3.4 :Alas, I had rather be set quick i' the earth : None
+3.4 :And bowl'd to death with turnips! : None
+MISTRESS PAGE
+3.4 :Come, trouble not yourself. Good Master Fenton, : None
+3.4 :I will not be your friend nor enemy: : None
+3.4 :My daughter will I question how she loves you, : None
+3.4 :And as I find her, so am I affected. : None
+3.4 :Till then farewell, sir: she must needs go in; : None
+3.4 :Her father will be angry. : None
+FENTON
+3.4 :Farewell, gentle mistress: farewell, Nan. : None
+Exeunt MISTRESS PAGE and ANNE PAGE : ["Exeunt - ['MISTRESS PAGE', 'ANNE PAGE']"] : FENTON
+MISTRESS QUICKLY
+3.4 :This is my doing, now: 'Nay,' said I, 'will you cast : None
+3.4 :away your child on a fool, and a physician? Look on : None
+3.4 :Master Fenton:' this is my doing. : None
+FENTON
+3.4 :I thank thee; and I pray thee, once to-night : None
+3.4 :Give my sweet Nan this ring: there's for thy pains. : None
+MISTRESS QUICKLY
+3.4 :Now heaven send thee good fortune! : None
+Exit FENTON : ["Exit - ['FENTON']"] : MISTRESS QUICKLY
+3.4 :A kind heart he hath: a woman would run through : None
+3.4 :fire and water for such a kind heart. But yet I : None
+3.4 :would my master had Mistress Anne; or I would : None
+3.4 :Master Slender had her; or, in sooth, I would Master : None
+3.4 :Fenton had her; I will do what I can for them all : None
+3.4 :three; for so I have promised, and I'll be as good : None
+3.4 :as my word; but speciously for Master Fenton. Well, : None
+3.4 :I must of another errand to Sir John Falstaff from : None
+3.4 :my two mistresses: what a beast am I to slack it! : None
+Exit : ['Exit - []'] : MISTRESS QUICKLY
+Scene(scene=5)
+Enter FALSTAFF and BARDOLPH : ["Enter - ['FALSTAFF', 'BARDOLPH']"] : MISTRESS QUICKLY
+FALSTAFF
+3.5 :Bardolph, I say,-- : None
+BARDOLPH
+3.5 :Here, sir. : None
+FALSTAFF
+3.5 :Go fetch me a quart of sack; put a toast in't. : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : FALSTAFF
+3.5 :Have I lived to be carried in a basket, like a : None
+3.5 :barrow of butcher's offal, and to be thrown in the : None
+3.5 :Thames? Well, if I be served such another trick, : None
+3.5 :I'll have my brains ta'en out and buttered, and give : None
+3.5 :them to a dog for a new-year's gift. The rogues : None
+3.5 :slighted me into the river with as little remorse as : None
+3.5 :they would have drowned a blind bitch's puppies, : None
+3.5 :fifteen i' the litter: and you may know by my size : None
+3.5 :that I have a kind of alacrity in sinking; if the : None
+3.5 :bottom were as deep as hell, I should down. I had : None
+3.5 :been drowned, but that the shore was shelvy and : None
+3.5 :shallow,--a death that I abhor; for the water swells : None
+3.5 :a man; and what a thing should I have been when I : None
+3.5 :had been swelled! I should have been a mountain of mummy. : None
+Re-enter BARDOLPH with sack : ["Re-enter - ['BARDOLPH']"] : FALSTAFF
+BARDOLPH
+3.5 :Here's Mistress Quickly, sir, to speak with you. : None
+FALSTAFF
+3.5 :Let me pour in some sack to the Thames water; for my : None
+3.5 :belly's as cold as if I had swallowed snowballs for : None
+3.5 :pills to cool the reins. Call her in. : None
+BARDOLPH
+3.5 :Come in, woman! : None
+Enter MISTRESS QUICKLY : ["Enter - ['MISTRESS QUICKLY']"] : BARDOLPH
+MISTRESS QUICKLY
+3.5 :By your leave; I cry you mercy: give your worship : None
+3.5 :good morrow. : None
+FALSTAFF
+3.5 :Take away these chalices. Go brew me a pottle of : None
+3.5 :sack finely. : None
+BARDOLPH
+3.5 :With eggs, sir? : None
+FALSTAFF
+3.5 :Simple of itself; I'll no pullet-sperm in my brewage. : None
+Exit BARDOLPH : ["Exit - ['BARDOLPH']"] : FALSTAFF
+3.5 :How now! : None
+MISTRESS QUICKLY
+3.5 :Marry, sir, I come to your worship from Mistress Ford. : None
+FALSTAFF
+3.5 :Mistress Ford! I have had ford enough; I was thrown : None
+3.5 :into the ford; I have my belly full of ford. : None
+MISTRESS QUICKLY
+3.5 :Alas the day! good heart, that was not her fault: : None
+3.5 :she does so take on with her men; they mistook their erection. : None
+FALSTAFF
+3.5 :So did I mine, to build upon a foolish woman's promise. : None
+MISTRESS QUICKLY
+3.5 :Well, she laments, sir, for it, that it would yearn : None
+3.5 :your heart to see it. Her husband goes this morning : None
+3.5 :a-birding; she desires you once more to come to her : None
+3.5 :between eight and nine: I must carry her word : None
+3.5 :quickly: she'll make you amends, I warrant you. : None
+FALSTAFF
+3.5 :Well, I will visit her: tell her so; and bid her : None
+3.5 :think what a man is: let her consider his frailty, : None
+3.5 :and then judge of my merit. : None
+MISTRESS QUICKLY
+3.5 :I will tell her. : None
+FALSTAFF
+3.5 :Do so. Between nine and ten, sayest thou? : None
+MISTRESS QUICKLY
+3.5 :Eight and nine, sir. : None
+FALSTAFF
+3.5 :Well, be gone: I will not miss her. : None
+MISTRESS QUICKLY
+3.5 :Peace be with you, sir. : None
+Exit : ['Exit - []'] : MISTRESS QUICKLY
+FALSTAFF
+3.5 :I marvel I hear not of Master Brook; he sent me word : None
+3.5 :to stay within: I like his money well. O, here he comes. : None
+Enter FORD : ["Enter - ['FORD']"] : FALSTAFF
+FORD
+3.5 :Bless you, sir! : None
+FALSTAFF
+3.5 :Now, master Brook, you come to know what hath passed : None
+3.5 :between me and Ford's wife? : None
+FORD
+3.5 :That, indeed, Sir John, is my business. : None
+FALSTAFF
+3.5 :Master Brook, I will not lie to you: I was at her : None
+3.5 :house the hour she appointed me. : None
+FORD
+3.5 :And sped you, sir? : None
+FALSTAFF
+3.5 :Very ill-favoredly, Master Brook. : None
+FORD
+3.5 :How so, sir? Did she change her determination? : None
+FALSTAFF
+3.5 :No, Master Brook; but the peaking Cornuto her : None
+3.5 :husband, Master Brook, dwelling in a continual : None
+3.5 :'larum of jealousy, comes me in the instant of our : None
+3.5 :encounter, after we had embraced, kissed, protested, : None
+3.5 :and, as it were, spoke the prologue of our comedy; : None
+3.5 :and at his heels a rabble of his companions, thither : None
+3.5 :provoked and instigated by his distemper, and, : None
+3.5 :forsooth, to search his house for his wife's love. : None
+FORD
+3.5 :What, while you were there? : None
+FALSTAFF
+3.5 :While I was there. : None
+FORD
+3.5 :And did he search for you, and could not find you? : None
+FALSTAFF
+3.5 :You shall hear. As good luck would have it, comes : None
+3.5 :in one Mistress Page; gives intelligence of Ford's : None
+3.5 :approach; and, in her invention and Ford's wife's : None
+3.5 :distraction, they conveyed me into a buck-basket. : None
+FORD
+3.5 :A buck-basket! : None
+FALSTAFF
+3.5 :By the Lord, a buck-basket! rammed me in with foul : None
+3.5 :shirts and smocks, socks, foul stockings, greasy : None
+3.5 :napkins; that, Master Brook, there was the rankest : None
+3.5 :compound of villanous smell that ever offended nostril. : None
+FORD
+3.5 :And how long lay you there? : None
+FALSTAFF
+3.5 :Nay, you shall hear, Master Brook, what I have : None
+3.5 :suffered to bring this woman to evil for your good. : None
+3.5 :Being thus crammed in the basket, a couple of Ford's : None
+3.5 :knaves, his hinds, were called forth by their : None
+3.5 :mistress to carry me in the name of foul clothes to : None
+3.5 :Datchet-lane: they took me on their shoulders; met : None
+3.5 :the jealous knave their master in the door, who : None
+3.5 :asked them once or twice what they had in their : None
+3.5 :basket: I quaked for fear, lest the lunatic knave : None
+3.5 :would have searched it; but fate, ordaining he : None
+3.5 :should be a cuckold, held his hand. Well: on went he : None
+3.5 :for a search, and away went I for foul clothes. But : None
+3.5 :mark the sequel, Master Brook: I suffered the pangs : None
+3.5 :of three several deaths; first, an intolerable : None
+3.5 :fright, to be detected with a jealous rotten : None
+3.5 :bell-wether; next, to be compassed, like a good : None
+3.5 :bilbo, in the circumference of a peck, hilt to : None
+3.5 :point, heel to head; and then, to be stopped in, : None
+3.5 :like a strong distillation, with stinking clothes : None
+3.5 :that fretted in their own grease: think of that,--a : None
+3.5 :man of my kidney,--think of that,--that am as subject : None
+3.5 :to heat as butter; a man of continual dissolution : None
+3.5 :and thaw: it was a miracle to scape suffocation. : None
+3.5 :And in the height of this bath, when I was more than : None
+3.5 :half stewed in grease, like a Dutch dish, to be : None
+3.5 :thrown into the Thames, and cooled, glowing hot, : None
+3.5 :in that surge, like a horse-shoe; think of : None
+3.5 :that,--hissing hot,--think of that, Master Brook. : None
+FORD
+3.5 :In good sadness, I am sorry that for my sake you : None
+3.5 :have sufferd all this. My suit then is desperate; : None
+3.5 :you'll undertake her no more? : None
+FALSTAFF
+3.5 :Master Brook, I will be thrown into Etna, as I have : None
+3.5 :been into Thames, ere I will leave her thus. Her : None
+3.5 :husband is this morning gone a-birding: I have : None
+3.5 :received from her another embassy of meeting; 'twixt : None
+3.5 :eight and nine is the hour, Master Brook. : None
+FORD
+3.5 :'Tis past eight already, sir. : None
+FALSTAFF
+3.5 :Is it? I will then address me to my appointment. : None
+3.5 :Come to me at your convenient leisure, and you shall : None
+3.5 :know how I speed; and the conclusion shall be : None
+3.5 :crowned with your enjoying her. Adieu. You shall : None
+3.5 :have her, Master Brook; Master Brook, you shall : None
+3.5 :cuckold Ford. : None
+Exit : ['Exit - []'] : FALSTAFF
+FORD
+3.5 :Hum! ha! is this a vision? is this a dream? do I : None
+3.5 :sleep? Master Ford awake! awake, Master Ford! : None
+3.5 :there's a hole made in your best coat, Master Ford. : None
+3.5 :This 'tis to be married! this 'tis to have linen : None
+3.5 :and buck-baskets! Well, I will proclaim myself : None
+3.5 :what I am: I will now take the lecher; he is at my : None
+3.5 :house; he cannot 'scape me; 'tis impossible he : None
+3.5 :should; he cannot creep into a halfpenny purse, : None
+3.5 :nor into a pepper-box: but, lest the devil that : None
+3.5 :guides him should aid him, I will search : None
+3.5 :impossible places. Though what I am I cannot avoid, : None
+3.5 :yet to be what I would not shall not make me tame: : None
+3.5 :if I have horns to make one mad, let the proverb go : None
+3.5 :with me: I'll be horn-mad. : None
+Exit : ['Exit - []'] : FORD
+Act(act=4)
+Scene(scene=1)
+Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM PAGE : ["Enter - ['MISTRESS PAGE', 'MISTRESS QUICKLY', 'WILLIAM PAGE']"] : FORD
+MISTRESS PAGE
+4.1 :Is he at Master Ford's already, think'st thou? : None
+MISTRESS QUICKLY
+4.1 :Sure he is by this, or will be presently: but, : None
+4.1 :truly, he is very courageous mad about his throwing : None
+4.1 :into the water. Mistress Ford desires you to come suddenly. : None
+MISTRESS PAGE
+4.1 :I'll be with her by and by; I'll but bring my young : None
+4.1 :man here to school. Look, where his master comes; : None
+4.1 :'tis a playing-day, I see. : None
+Enter SIR HUGH EVANS : ["Enter - ['SIR HUGH EVANS']"] : MISTRESS PAGE
+4.1 :How now, Sir Hugh! no school to-day? : None
+SIR HUGH EVANS
+4.1 :No; Master Slender is let the boys leave to play. : None
+MISTRESS QUICKLY
+4.1 :Blessing of his heart! : None
+MISTRESS PAGE
+4.1 :Sir Hugh, my husband says my son profits nothing in : None
+4.1 :the world at his book. I pray you, ask him some : None
+4.1 :questions in his accidence. : None
+SIR HUGH EVANS
+4.1 :Come hither, William; hold up your head; come. : None
+MISTRESS PAGE
+4.1 :Come on, sirrah; hold up your head; answer your : None
+4.1 :master, be not afraid. : None
+SIR HUGH EVANS
+4.1 :William, how many numbers is in nouns? : None
+WILLIAM PAGE
+4.1 :Two. : None
+MISTRESS QUICKLY
+4.1 :Truly, I thought there had been one number more, : None
+4.1 :because they say, ''Od's nouns.' : None
+SIR HUGH EVANS
+4.1 :Peace your tattlings! What is 'fair,' William? : None
+WILLIAM PAGE
+4.1 :Pulcher. : None
+MISTRESS QUICKLY
+4.1 :Polecats! there are fairer things than polecats, sure. : None
+SIR HUGH EVANS
+4.1 :You are a very simplicity 'oman: I pray you peace. : None
+4.1 :What is 'lapis,' William? : None
+WILLIAM PAGE
+4.1 :A stone. : None
+SIR HUGH EVANS
+4.1 :And what is 'a stone,' William? : None
+WILLIAM PAGE
+4.1 :A pebble. : None
+SIR HUGH EVANS
+4.1 :No, it is 'lapis:' I pray you, remember in your prain. : None
+WILLIAM PAGE
+4.1 :Lapis. : None
+SIR HUGH EVANS
+4.1 :That is a good William. What is he, William, that : None
+4.1 :does lend articles? : None
+WILLIAM PAGE
+4.1 :Articles are borrowed of the pronoun, and be thus : None
+4.1 :declined, Singulariter, nominativo, hic, haec, hoc. : None
+SIR HUGH EVANS
+4.1 :Nominativo, hig, hag, hog; pray you, mark: : None
+4.1 :genitivo, hujus. Well, what is your accusative case? : None
+WILLIAM PAGE
+4.1 :Accusativo, hinc. : None
+SIR HUGH EVANS
+4.1 :I pray you, have your remembrance, child, : None
+4.1 :accusative, hung, hang, hog. : None
+MISTRESS QUICKLY
+4.1 :'Hang-hog' is Latin for bacon, I warrant you. : None
+SIR HUGH EVANS
+4.1 :Leave your prabbles, 'oman. What is the focative : None
+4.1 :case, William? : None
+WILLIAM PAGE
+4.1 :O,--vocativo, O. : None
+SIR HUGH EVANS
+4.1 :Remember, William; focative is caret. : None
+MISTRESS QUICKLY
+4.1 :And that's a good root. : None
+SIR HUGH EVANS
+4.1 :'Oman, forbear. : None
+MISTRESS PAGE
+4.1 :Peace! : None
+SIR HUGH EVANS
+4.1 :What is your genitive case plural, William? : None
+WILLIAM PAGE
+4.1 :Genitive case! : None
+SIR HUGH EVANS
+4.1 :Ay. : None
+WILLIAM PAGE
+4.1 :Genitive,--horum, harum, horum. : None
+MISTRESS QUICKLY
+4.1 :Vengeance of Jenny's case! fie on her! never name : None
+4.1 :her, child, if she be a whore. : None
+SIR HUGH EVANS
+4.1 :For shame, 'oman. : None
+MISTRESS QUICKLY
+4.1 :You do ill to teach the child such words: he : None
+4.1 :teaches him to hick and to hack, which they'll do : None
+4.1 :fast enough of themselves, and to call 'horum:' fie upon you! : None
+SIR HUGH EVANS
+4.1 :'Oman, art thou lunatics? hast thou no : None
+4.1 :understandings for thy cases and the numbers of the : None
+4.1 :genders? Thou art as foolish Christian creatures as : None
+4.1 :I would desires. : None
+MISTRESS PAGE
+4.1 :Prithee, hold thy peace. : None
+SIR HUGH EVANS
+4.1 :Show me now, William, some declensions of your pronouns. : None
+WILLIAM PAGE
+4.1 :Forsooth, I have forgot. : None
+SIR HUGH EVANS
+4.1 :It is qui, quae, quod: if you forget your 'quies,' : None
+4.1 :your 'quaes,' and your 'quods,' you must be : None
+4.1 :preeches. Go your ways, and play; go. : None
+MISTRESS PAGE
+4.1 :He is a better scholar than I thought he was. : None
+SIR HUGH EVANS
+4.1 :He is a good sprag memory. Farewell, Mistress Page. : None
+MISTRESS PAGE
+4.1 :Adieu, good Sir Hugh. : None
+Exit SIR HUGH EVANS : ["Exit - ['SIR HUGH EVANS']"] : MISTRESS PAGE
+4.1 :Get you home, boy. Come, we stay too long. : None
+Exeunt : ['Exeunt - []'] : MISTRESS PAGE
+Scene(scene=2)
+Enter FALSTAFF and MISTRESS FORD : ["Enter - ['FALSTAFF', 'MISTRESS FORD']"] : MISTRESS PAGE
+FALSTAFF
+4.2 :Mistress Ford, your sorrow hath eaten up my : None
+4.2 :sufferance. I see you are obsequious in your love, : None
+4.2 :and I profess requital to a hair's breadth; not : None
+4.2 :only, Mistress Ford, in the simple : None
+4.2 :office of love, but in all the accoutrement, : None
+4.2 :complement and ceremony of it. But are you : None
+4.2 :sure of your husband now? : None
+MISTRESS FORD
+4.2 :He's a-birding, sweet Sir John. : None
+MISTRESS PAGE
+4.2 :  What, ho, gossip Ford! what, ho! : Within : ['None - []'] : MISTRESS PAGE
+MISTRESS FORD
+4.2 :Step into the chamber, Sir John. : None
+Exit FALSTAFF : ["Exit - ['FALSTAFF']"] : MISTRESS FORD
+Enter MISTRESS PAGE : ["Enter - ['MISTRESS PAGE']"] : MISTRESS FORD
+MISTRESS PAGE
+4.2 :How now, sweetheart! who's at home besides yourself? : None
+MISTRESS FORD
+4.2 :Why, none but mine own people. : None
+MISTRESS PAGE
+4.2 :Indeed! : None
+MISTRESS FORD
+4.2 :No, certainly. : None
+Aside to her : ['Aside - []'] : MISTRESS FORD
+4.2 :Speak louder. : None
+MISTRESS PAGE
+4.2 :Truly, I am so glad you have nobody here. : None
+MISTRESS FORD
+4.2 :Why? : None
+MISTRESS PAGE
+4.2 :Why, woman, your husband is in his old lunes again: : None
+4.2 :he so takes on yonder with my husband; so rails : None
+4.2 :against all married mankind; so curses all Eve's : None
+4.2 :daughters, of what complexion soever; and so buffets : None
+4.2 :himself on the forehead, crying, 'Peer out, peer : None
+4.2 :out!' that any madness I ever yet beheld seemed but : None
+4.2 :tameness, civility and patience, to this his : None
+4.2 :distemper he is in now: I am glad the fat knight is not here. : None
+MISTRESS FORD
+4.2 :Why, does he talk of him? : None
+MISTRESS PAGE
+4.2 :Of none but him; and swears he was carried out, the : None
+4.2 :last time he searched for him, in a basket; protests : None
+4.2 :to my husband he is now here, and hath drawn him and : None
+4.2 :the rest of their company from their sport, to make : None
+4.2 :another experiment of his suspicion: but I am glad : None
+4.2 :the knight is not here; now he shall see his own foolery. : None
+MISTRESS FORD
+4.2 :How near is he, Mistress Page? : None
+MISTRESS PAGE
+4.2 :Hard by; at street end; he will be here anon. : None
+MISTRESS FORD
+4.2 :I am undone! The knight is here. : None
+MISTRESS PAGE
+4.2 :Why then you are utterly shamed, and he's but a dead : None
+4.2 :man. What a woman are you!--Away with him, away : None
+4.2 :with him! better shame than murder. : None
+FORD
+4.2 :Which way should be go? how should I bestow him? : None
+4.2 :Shall I put him into the basket again? : None
+Re-enter FALSTAFF : ["Re-enter - ['FALSTAFF']"] : FORD
+FALSTAFF
+4.2 :No, I'll come no more i' the basket. May I not go : None
+4.2 :out ere he come? : None
+MISTRESS PAGE
+4.2 :Alas, three of Master Ford's brothers watch the door : None
+4.2 :with pistols, that none shall issue out; otherwise : None
+4.2 :you might slip away ere he came. But what make you here? : None
+FALSTAFF
+4.2 :What shall I do? I'll creep up into the chimney. : None
+MISTRESS FORD
+4.2 :There they always use to discharge their : None
+4.2 :birding-pieces. Creep into the kiln-hole. : None
+FALSTAFF
+4.2 :Where is it? : None
+MISTRESS FORD
+4.2 :He will seek there, on my word. Neither press, : None
+4.2 :coffer, chest, trunk, well, vault, but he hath an : None
+4.2 :abstract for the remembrance of such places, and : None
+4.2 :goes to them by his note: there is no hiding you in the house. : None
+FALSTAFF
+4.2 :I'll go out then. : None
+MISTRESS PAGE
+4.2 :If you go out in your own semblance, you die, Sir : None
+4.2 :John. Unless you go out disguised-- : None
+MISTRESS FORD
+4.2 :How might we disguise him? : None
+MISTRESS PAGE
+4.2 :Alas the day, I know not! There is no woman's gown : None
+4.2 :big enough for him otherwise he might put on a hat, : None
+4.2 :a muffler and a kerchief, and so escape. : None
+FALSTAFF
+4.2 :Good hearts, devise something: any extremity rather : None
+4.2 :than a mischief. : None
+MISTRESS FORD
+4.2 :My maid's aunt, the fat woman of Brentford, has a : None
+4.2 :gown above. : None
+MISTRESS PAGE
+4.2 :On my word, it will serve him; she's as big as he : None
+4.2 :is: and there's her thrummed hat and her muffler : None
+4.2 :too. Run up, Sir John. : None
+MISTRESS FORD
+4.2 :Go, go, sweet Sir John: Mistress Page and I will : None
+4.2 :look some linen for your head. : None
+MISTRESS PAGE
+4.2 :Quick, quick! we'll come dress you straight: put : None
+4.2 :on the gown the while. : None
+Exit FALSTAFF : ["Exit - ['FALSTAFF']"] : MISTRESS PAGE
+MISTRESS FORD
+4.2 :I would my husband would meet him in this shape: he : None
+4.2 :cannot abide the old woman of Brentford; he swears : None
+4.2 :she's a witch; forbade her my house and hath : None
+4.2 :threatened to beat her. : None
+MISTRESS PAGE
+4.2 :Heaven guide him to thy husband's cudgel, and the : None
+4.2 :devil guide his cudgel afterwards! : None
+MISTRESS FORD
+4.2 :But is my husband coming? : None
+MISTRESS PAGE
+4.2 :Ah, in good sadness, is he; and talks of the basket : None
+4.2 :too, howsoever he hath had intelligence. : None
+MISTRESS FORD
+4.2 :We'll try that; for I'll appoint my men to carry the : None
+4.2 :basket again, to meet him at the door with it, as : None
+4.2 :they did last time. : None
+MISTRESS PAGE
+4.2 :Nay, but he'll be here presently: let's go dress him : None
+4.2 :like the witch of Brentford. : None
+MISTRESS FORD
+4.2 :I'll first direct my men what they shall do with the : None
+4.2 :basket. Go up; I'll bring linen for him straight. : None
+Exit : ['Exit - []'] : MISTRESS FORD
+MISTRESS PAGE
+4.2 :Hang him, dishonest varlet! we cannot misuse him enough. : None
+4.2 :We'll leave a proof, by that which we will do, : None
+4.2 :Wives may be merry, and yet honest too: : None
+4.2 :We do not act that often jest and laugh; : None
+4.2 :'Tis old, but true, Still swine eat all the draff. : None
+Exit : ['Exit - []'] : MISTRESS PAGE
+Re-enter MISTRESS FORD with two Servants : ["Re-enter - ['MISTRESS FORD', 'SERVANT']"] : MISTRESS PAGE
+MISTRESS FORD
+4.2 :Go, sirs, take the basket again on your shoulders: : None
+4.2 :your master is hard at door; if he bid you set it : None
+4.2 :down, obey him: quickly, dispatch. : None
+Exit : ['Exit - []'] : MISTRESS FORD
+FIRST SERVANT
+4.2 :Come, come, take it up. : None
+SECOND SERVANT
+4.2 :Pray heaven it be not full of knight again. : None
+FIRST SERVANT
+4.2 :I hope not; I had as lief bear so much lead. : None
+Enter FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS : ["Enter - ['FORD', 'PAGE', 'SHALLOW', 'DOCTOR CAIUS', 'SIR HUGH EVANS']"] : FIRST SERVANT
+FORD
+4.2 :Ay, but if it prove true, Master Page, have you any : None
+4.2 :way then to unfool me again? Set down the basket, : None
+4.2 :villain! Somebody call my wife. Youth in a basket! : None
+4.2 :O you panderly rascals! there's a knot, a ging, a : None
+4.2 :pack, a conspiracy against me: now shall the devil : None
+4.2 :be shamed. What, wife, I say! Come, come forth! : None
+4.2 :Behold what honest clothes you send forth to bleaching! : None
+PAGE
+4.2 :Why, this passes, Master Ford; you are not to go : None
+4.2 :loose any longer; you must be pinioned. : None
+SIR HUGH EVANS
+4.2 :Why, this is lunatics! this is mad as a mad dog! : None
+SHALLOW
+4.2 :Indeed, Master Ford, this is not well, indeed. : None
+FORD
+4.2 :So say I too, sir. : None
+Re-enter MISTRESS FORD : ["Re-enter - ['MISTRESS FORD']"] : FORD
+4.2 :Come hither, Mistress Ford; Mistress Ford the honest : None
+4.2 :woman, the modest wife, the virtuous creature, that : None
+4.2 :hath the jealous fool to her husband! I suspect : None
+4.2 :without cause, mistress, do I? : None
+MISTRESS FORD
+4.2 :Heaven be my witness you do, if you suspect me in : None
+4.2 :any dishonesty. : None
+FORD
+4.2 :Well said, brazen-face! hold it out. Come forth, sirrah! : None
+Pulling clothes out of the basket : ['None - []'] : FORD
+PAGE
+4.2 :This passes! : None
+MISTRESS FORD
+4.2 :Are you not ashamed? let the clothes alone. : None
+FORD
+4.2 :I shall find you anon. : None
+SIR HUGH EVANS
+4.2 :'Tis unreasonable! Will you take up your wife's : None
+4.2 :clothes? Come away. : None
+FORD
+4.2 :Empty the basket, I say! : None
+MISTRESS FORD
+4.2 :Why, man, why? : None
+FORD
+4.2 :Master Page, as I am a man, there was one conveyed : None
+4.2 :out of my house yesterday in this basket: why may : None
+4.2 :not he be there again? In my house I am sure he is: : None
+4.2 :my intelligence is true; my jealousy is reasonable. : None
+4.2 :Pluck me out all the linen. : None
+MISTRESS FORD
+4.2 :If you find a man there, he shall die a flea's death. : None
+PAGE
+4.2 :Here's no man. : None
+SHALLOW
+4.2 :By my fidelity, this is not well, Master Ford; this : None
+4.2 :wrongs you. : None
+SIR HUGH EVANS
+4.2 :Master Ford, you must pray, and not follow the : None
+4.2 :imaginations of your own heart: this is jealousies. : None
+FORD
+4.2 :Well, he's not here I seek for. : None
+PAGE
+4.2 :No, nor nowhere else but in your brain. : None
+FORD
+4.2 :Help to search my house this one time. If I find : None
+4.2 :not what I seek, show no colour for my extremity; let : None
+4.2 :me for ever be your table-sport; let them say of : None
+4.2 :me, 'As jealous as Ford, Chat searched a hollow : None
+4.2 :walnut for his wife's leman.' Satisfy me once more; : None
+4.2 :once more search with me. : None
+MISTRESS FORD
+4.2 :What, ho, Mistress Page! come you and the old woman : None
+4.2 :down; my husband will come into the chamber. : None
+FORD
+4.2 :Old woman! what old woman's that? : None
+MISTRESS FORD
+4.2 :Nay, it is my maid's aunt of Brentford. : None
+FORD
+4.2 :A witch, a quean, an old cozening quean! Have I not : None
+4.2 :forbid her my house? She comes of errands, does : None
+4.2 :she? We are simple men; we do not know what's : None
+4.2 :brought to pass under the profession of : None
+4.2 :fortune-telling. She works by charms, by spells, : None
+4.2 :by the figure, and such daubery as this is, beyond : None
+4.2 :our element we know nothing. Come down, you witch, : None
+4.2 :you hag, you; come down, I say! : None
+MISTRESS FORD
+4.2 :Nay, good, sweet husband! Good gentlemen, let him : None
+4.2 :not strike the old woman. : None
+Re-enter FALSTAFF in woman's clothes, and MISTRESS PAGE : ["Re-enter - ['FALSTAFF', 'MISTRESS PAGE']"] : MISTRESS FORD
+MISTRESS PAGE
+4.2 :Come, Mother Prat; come, give me your hand. : None
+FORD
+4.2 :I'll prat her. : None
+Beating him : ['None - []'] : FORD
+4.2 :Out of my door, you witch, you hag, you baggage, you : None
+4.2 :polecat, you runyon! out, out! I'll conjure you, : None
+4.2 :I'll fortune-tell you. : None
+Exit FALSTAFF : ["Exit - ['FALSTAFF']"] : FORD
+MISTRESS PAGE
+4.2 :Are you not ashamed? I think you have killed the : None
+4.2 :poor woman. : None
+MISTRESS FORD
+4.2 :Nay, he will do it. 'Tis a goodly credit for you. : None
+FORD
+4.2 :Hang her, witch! : None
+SIR HUGH EVANS
+4.2 :By the yea and no, I think the 'oman is a witch : None
+4.2 :indeed: I like not when a 'oman has a great peard; : None
+4.2 :I spy a great peard under his muffler. : None
+FORD
+4.2 :Will you follow, gentlemen? I beseech you, follow; : None
+4.2 :see but the issue of my jealousy: if I cry out thus : None
+4.2 :upon no trail, never trust me when I open again. : None
+PAGE
+4.2 :Let's obey his humour a little further: come, : None
+4.2 :gentlemen. : None
+Exeunt FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS : ["Exeunt - ['FORD', 'PAGE', 'SHALLOW', 'DOCTOR CAIUS', 'SIR HUGH EVANS']"] : PAGE
+MISTRESS PAGE
+4.2 :Trust me, he beat him most pitifully. : None
+MISTRESS FORD
+4.2 :Nay, by the mass, that he did not; he beat him most : None
+4.2 :unpitifully, methought. : None
+MISTRESS PAGE
+4.2 :I'll have the cudgel hallowed and hung o'er the : None
+4.2 :altar; it hath done meritorious service. : None
+MISTRESS FORD
+4.2 :What think you? may we, with the warrant of : None
+4.2 :womanhood and the witness of a good conscience, : None
+4.2 :pursue him with any further revenge? : None
+MISTRESS PAGE
+4.2 :The spirit of wantonness is, sure, scared out of : None
+4.2 :him: if the devil have him not in fee-simple, with : None
+4.2 :fine and recovery, he will never, I think, in the : None
+4.2 :way of waste, attempt us again. : None
+MISTRESS FORD
+4.2 :Shall we tell our husbands how we have served him? : None
+MISTRESS PAGE
+4.2 :Yes, by all means; if it be but to scrape the : None
+4.2 :figures out of your husband's brains. If they can : None
+4.2 :find in their hearts the poor unvirtuous fat knight : None
+4.2 :shall be any further afflicted, we two will still be : None
+4.2 :the ministers. : None
+MISTRESS FORD
+4.2 :I'll warrant they'll have him publicly shamed: and : None
+4.2 :methinks there would be no period to the jest, : None
+4.2 :should he not be publicly shamed. : None
+MISTRESS PAGE
+4.2 :Come, to the forge with it then; shape it: I would : None
+4.2 :not have things cool. : None
+Exeunt : ['Exeunt - []'] : MISTRESS PAGE
+Scene(scene=3)
+Enter Host and BARDOLPH : ["Enter - ['HOST', 'BARDOLPH']"] : MISTRESS PAGE
+BARDOLPH
+4.3 :Sir, the Germans desire to have three of your : None
+4.3 :horses: the duke himself will be to-morrow at : None
+4.3 :court, and they are going to meet him. : None
+HOST
+4.3 :What duke should that be comes so secretly? I hear : None
+4.3 :not of him in the court. Let me speak with the : None
+4.3 :gentlemen: they speak English? : None
+BARDOLPH
+4.3 :Ay, sir; I'll call them to you. : None
+HOST
+4.3 :They shall have my horses; but I'll make them pay; : None
+4.3 :I'll sauce them: they have had my house a week at : None
+4.3 :command; I have turned away my other guests: they : None
+4.3 :must come off; I'll sauce them. Come. : None
+Exeunt : ['Exeunt - []'] : HOST
+Scene(scene=4)
+Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS : ["Enter - ['PAGE', 'FORD', 'MISTRESS PAGE', 'MISTRESS FORD', 'SIR HUGH EVANS']"] : HOST
+SIR HUGH EVANS
+4.4 :'Tis one of the best discretions of a 'oman as ever : None
+4.4 :I did look upon. : None
+PAGE
+4.4 :And did he send you both these letters at an instant? : None
+MISTRESS PAGE
+4.4 :Within a quarter of an hour. : None
+FORD
+4.4 :Pardon me, wife. Henceforth do what thou wilt; : None
+4.4 :I rather will suspect the sun with cold : None
+4.4 :Than thee with wantonness: now doth thy honour stand : None
+4.4 :In him that was of late an heretic, : None
+4.4 :As firm as faith. : None
+PAGE
+4.4 :'Tis well, 'tis well; no more: : None
+4.4 :Be not as extreme in submission : None
+4.4 :As in offence. : None
+4.4 :But let our plot go forward: let our wives : None
+4.4 :Yet once again, to make us public sport, : None
+4.4 :Appoint a meeting with this old fat fellow, : None
+4.4 :Where we may take him and disgrace him for it. : None
+FORD
+4.4 :There is no better way than that they spoke of. : None
+PAGE
+4.4 :How? to send him word they'll meet him in the park : None
+4.4 :at midnight? Fie, fie! he'll never come. : None
+SIR HUGH EVANS
+4.4 :You say he has been thrown in the rivers and has : None
+4.4 :been grievously peaten as an old 'oman: methinks : None
+4.4 :there should be terrors in him that he should not : None
+4.4 :come; methinks his flesh is punished, he shall have : None
+4.4 :no desires. : None
+PAGE
+4.4 :So think I too. : None
+MISTRESS FORD
+4.4 :Devise but how you'll use him when he comes, : None
+4.4 :And let us two devise to bring him thither. : None
+MISTRESS PAGE
+4.4 :There is an old tale goes that Herne the hunter, : None
+4.4 :Sometime a keeper here in Windsor forest, : None
+4.4 :Doth all the winter-time, at still midnight, : None
+4.4 :Walk round about an oak, with great ragg'd horns; : None
+4.4 :And there he blasts the tree and takes the cattle : None
+4.4 :And makes milch-kine yield blood and shakes a chain : None
+4.4 :In a most hideous and dreadful manner: : None
+4.4 :You have heard of such a spirit, and well you know : None
+4.4 :The superstitious idle-headed eld : None
+4.4 :Received and did deliver to our age : None
+4.4 :This tale of Herne the hunter for a truth. : None
+PAGE
+4.4 :Why, yet there want not many that do fear : None
+4.4 :In deep of night to walk by this Herne's oak: : None
+4.4 :But what of this? : None
+MISTRESS FORD
+4.4 :                  Marry, this is our device; : None
+4.4 :That Falstaff at that oak shall meet with us. : None
+PAGE
+4.4 :Well, let it not be doubted but he'll come: : None
+4.4 :And in this shape when you have brought him thither, : None
+4.4 :What shall be done with him? what is your plot? : None
+MISTRESS PAGE
+4.4 :That likewise have we thought upon, and thus: : None
+4.4 :Nan Page my daughter and my little son : None
+4.4 :And three or four more of their growth we'll dress : None
+4.4 :Like urchins, ouphes and fairies, green and white, : None
+4.4 :With rounds of waxen tapers on their heads, : None
+4.4 :And rattles in their hands: upon a sudden, : None
+4.4 :As Falstaff, she and I, are newly met, : None
+4.4 :Let them from forth a sawpit rush at once : None
+4.4 :With some diffused song: upon their sight, : None
+4.4 :We two in great amazedness will fly: : None
+4.4 :Then let them all encircle him about : None
+4.4 :And, fairy-like, to-pinch the unclean knight, : None
+4.4 :And ask him why, that hour of fairy revel, : None
+4.4 :In their so sacred paths he dares to tread : None
+4.4 :In shape profane. : None
+MISTRESS FORD
+4.4 :                  And till he tell the truth, : None
+4.4 :Let the supposed fairies pinch him sound : None
+4.4 :And burn him with their tapers. : None
+MISTRESS PAGE
+4.4 :The truth being known, : None
+4.4 :We'll all present ourselves, dis-horn the spirit, : None
+4.4 :And mock him home to Windsor. : None
+FORD
+4.4 :The children must : None
+4.4 :Be practised well to this, or they'll ne'er do't. : None
+SIR HUGH EVANS
+4.4 :I will teach the children their behaviors; and I : None
+4.4 :will be like a jack-an-apes also, to burn the : None
+4.4 :knight with my taber. : None
+FORD
+4.4 :That will be excellent. I'll go and buy them vizards. : None
+MISTRESS PAGE
+4.4 :My Nan shall be the queen of all the fairies, : None
+4.4 :Finely attired in a robe of white. : None
+PAGE
+4.4 :That silk will I go buy. : None
+Aside : ['Aside - []'] : PAGE
+4.4 :And in that time : None
+4.4 :Shall Master Slender steal my Nan away : None
+4.4 :And marry her at Eton. Go send to Falstaff straight. : None
+FORD
+4.4 :Nay I'll to him again in name of Brook : None
+4.4 :He'll tell me all his purpose: sure, he'll come. : None
+MISTRESS PAGE
+4.4 :Fear not you that. Go get us properties : None
+4.4 :And tricking for our fairies. : None
+SIR HUGH EVANS
+4.4 :Let us about it: it is admirable pleasures and fery : None
+4.4 :honest knaveries. : None
+Exeunt PAGE, FORD, and SIR HUGH EVANS : ["Exeunt - ['PAGE', 'FORD', 'SIR HUGH EVANS']"] : SIR HUGH EVANS
+MISTRESS PAGE
+4.4 :Go, Mistress Ford, : None
+4.4 :Send quickly to Sir John, to know his mind. : None
+Exit MISTRESS FORD : ["Exit - ['MISTRESS FORD']"] : MISTRESS PAGE
+4.4 :I'll to the doctor: he hath my good will, : None
+4.4 :And none but he, to marry with Nan Page. : None
+4.4 :That Slender, though well landed, is an idiot; : None
+4.4 :And he my husband best of all affects. : None
+4.4 :The doctor is well money'd, and his friends : None
+4.4 :Potent at court: he, none but he, shall have her, : None
+4.4 :Though twenty thousand worthier come to crave her. : None
+Exit : ['Exit - []'] : MISTRESS PAGE
+Scene(scene=5)
+Enter Host and SIMPLE : ["Enter - ['HOST', 'SIMPLE']"] : MISTRESS PAGE
+HOST
+4.5 :What wouldst thou have, boor? what: thick-skin? : None
+4.5 :speak, breathe, discuss; brief, short, quick, snap. : None
+SIMPLE
+4.5 :Marry, sir, I come to speak with Sir John Falstaff : None
+4.5 :from Master Slender. : None
+HOST
+4.5 :There's his chamber, his house, his castle, his : None
+4.5 :standing-bed and truckle-bed; 'tis painted about : None
+4.5 :with the story of the Prodigal, fresh and new. Go : None
+4.5 :knock and call; hell speak like an Anthropophaginian : None
+4.5 :unto thee: knock, I say. : None
+SIMPLE
+4.5 :There's an old woman, a fat woman, gone up into his : None
+4.5 :chamber: I'll be so bold as stay, sir, till she come : None
+4.5 :down; I come to speak with her, indeed. : None
+HOST
+4.5 :Ha! a fat woman! the knight may be robbed: I'll : None
+4.5 :call. Bully knight! bully Sir John! speak from : None
+4.5 :thy lungs military: art thou there? it is thine : None
+4.5 :host, thine Ephesian, calls. : None
+FALSTAFF
+4.5 :  How now, mine host! : Above : ['None - []'] : FALSTAFF
+HOST
+4.5 :Here's a Bohemian-Tartar tarries the coming down of : None
+4.5 :thy fat woman. Let her descend, bully, let her : None
+4.5 :descend; my chambers are honourable: fie! privacy? : None
+4.5 :fie! : None
+Enter FALSTAFF : ["Enter - ['FALSTAFF']"] : HOST
+FALSTAFF
+4.5 :There was, mine host, an old fat woman even now with : None
+4.5 :me;  but she's gone. : None
+SIMPLE
+4.5 :Pray you, sir, was't not the wise woman of : None
+4.5 :Brentford? : None
+FALSTAFF
+4.5 :Ay, marry, was it, mussel-shell: what would you with her? : None
+SIMPLE
+4.5 :My master, sir, Master Slender, sent to her, seeing : None
+4.5 :her go through the streets, to know, sir, whether : None
+4.5 :one Nym, sir, that beguiled him of a chain, had the : None
+4.5 :chain or no. : None
+FALSTAFF
+4.5 :I spake with the old woman about it. : None
+SIMPLE
+4.5 :And what says she, I pray, sir? : None
+FALSTAFF
+4.5 :Marry, she says that the very same man that : None
+4.5 :beguiled Master Slender of his chain cozened him of : None
+4.5 :it. : None
+SIMPLE
+4.5 :I would I could have spoken with the woman herself; : None
+4.5 :I had other things to have spoken with her too from : None
+4.5 :him. : None
+FALSTAFF
+4.5 :What are they? let us know. : None
+HOST
+4.5 :Ay, come; quick. : None
+SIMPLE
+4.5 :I may not conceal them, sir. : None
+HOST
+4.5 :Conceal them, or thou diest. : None
+SIMPLE
+4.5 :Why, sir, they were nothing but about Mistress Anne : None
+4.5 :Page; to know if it were my master's fortune to : None
+4.5 :have her or no. : None
+FALSTAFF
+4.5 :'Tis, 'tis his fortune. : None
+SIMPLE
+4.5 :What, sir? : None
+FALSTAFF
+4.5 :To have her, or no. Go; say the woman told me so. : None
+SIMPLE
+4.5 :May I be bold to say so, sir? : None
+FALSTAFF
+4.5 :Ay, sir; like who more bold. : None
+SIMPLE
+4.5 :I thank your worship: I shall make my master glad : None
+4.5 :with these tidings. : None
+Exit : ['Exit - []'] : SIMPLE
+HOST
+4.5 :Thou art clerkly, thou art clerkly, Sir John. Was : None
+4.5 :there a wise woman with thee? : None
+FALSTAFF
+4.5 :Ay, that there was, mine host; one that hath taught : None
+4.5 :me more wit than ever I learned before in my life; : None
+4.5 :and I paid nothing for it neither, but was paid for : None
+4.5 :my learning. : None
+Enter BARDOLPH : ["Enter - ['BARDOLPH']"] : FALSTAFF
+BARDOLPH
+4.5 :Out, alas, sir! cozenage, mere cozenage! : None
+HOST
+4.5 :Where be my horses? speak well of them, varletto. : None
+BARDOLPH
+4.5 :Run away with the cozeners; for so soon as I came : None
+4.5 :beyond Eton, they threw me off from behind one of : None
+4.5 :them, in a slough of mire; and set spurs and away, : None
+4.5 :like three German devils, three Doctor Faustuses. : None
+HOST
+4.5 :They are gone but to meet the duke, villain: do not : None
+4.5 :say they be fled; Germans are honest men. : None
+Enter SIR HUGH EVANS : ["Enter - ['SIR HUGH EVANS']"] : HOST
+SIR HUGH EVANS
+4.5 :Where is mine host? : None
+HOST
+4.5 :What is the matter, sir? : None
+SIR HUGH EVANS
+4.5 :Have a care of your entertainments: there is a : None
+4.5 :friend of mine come to town tells me there is three : None
+4.5 :cozen-germans that has cozened all the hosts of : None
+4.5 :Readins, of Maidenhead, of Colebrook, of horses and : None
+4.5 :money. I tell you for good will, look you: you : None
+4.5 :are wise and full of gibes and vlouting-stocks, and : None
+4.5 :'tis not convenient you should be cozened. Fare you well. : None
+Exit : ['Exit - []'] : SIR HUGH EVANS
+Enter DOCTOR CAIUS : ["Enter - ['DOCTOR CAIUS']"] : SIR HUGH EVANS
+DOCTOR CAIUS
+4.5 :Vere is mine host de Jarteer? : None
+HOST
+4.5 :Here, master doctor, in perplexity and doubtful dilemma. : None
+DOCTOR CAIUS
+4.5 :I cannot tell vat is dat: but it is tell-a me dat : None
+4.5 :you make grand preparation for a duke de Jamany: by : None
+4.5 :my trot, dere is no duke dat the court is know to : None
+4.5 :come. I tell you for good vill: adieu. : None
+Exit : ['Exit - []'] : DOCTOR CAIUS
+HOST
+4.5 :Hue and cry, villain, go! Assist me, knight. I am : None
+4.5 :undone! Fly, run, hue and cry, villain! I am undone! : None
+Exeunt Host and BARDOLPH : ["Exeunt - ['HOST', 'BARDOLPH']"] : HOST
+FALSTAFF
+4.5 :I would all the world might be cozened; for I have : None
+4.5 :been cozened and beaten too. If it should come to : None
+4.5 :the ear of the court, how I have been transformed : None
+4.5 :and how my transformation hath been washed and : None
+4.5 :cudgelled, they would melt me out of my fat drop by : None
+4.5 :drop and liquor fishermen's boots with me; I warrant : None
+4.5 :they would whip me with their fine wits till I were : None
+4.5 :as crest-fallen as a dried pear. I never prospered : None
+4.5 :since I forswore myself at primero. Well, if my : None
+4.5 :wind were but long enough to say my prayers, I would repent. : None
+Enter MISTRESS QUICKLY : ["Enter - ['MISTRESS QUICKLY']"] : FALSTAFF
+4.5 :Now, whence come you? : None
+MISTRESS QUICKLY
+4.5 :From the two parties, forsooth. : None
+FALSTAFF
+4.5 :The devil take one party and his dam the other! and : None
+4.5 :so they shall be both bestowed. I have suffered more : None
+4.5 :for their sakes, more than the villanous inconstancy : None
+4.5 :of man's disposition is able to bear. : None
+MISTRESS QUICKLY
+4.5 :And have not they suffered? Yes, I warrant; : None
+4.5 :speciously one of them; Mistress Ford, good heart, : None
+4.5 :is beaten black and blue, that you cannot see a : None
+4.5 :white spot about her. : None
+FALSTAFF
+4.5 :What tellest thou me of black and blue? I was : None
+4.5 :beaten myself into all the colours of the rainbow; : None
+4.5 :and I was like to be apprehended for the witch of : None
+4.5 :Brentford: but that my admirable dexterity of wit, : None
+4.5 :my counterfeiting the action of an old woman, : None
+4.5 :delivered me, the knave constable had set me i' the : None
+4.5 :stocks, i' the common stocks, for a witch. : None
+MISTRESS QUICKLY
+4.5 :Sir, let me speak with you in your chamber: you : None
+4.5 :shall hear how things go; and, I warrant, to your : None
+4.5 :content. Here is a letter will say somewhat. Good : None
+4.5 :hearts, what ado here is to bring you together! : None
+4.5 :Sure, one of you does not serve heaven well, that : None
+4.5 :you are so crossed. : None
+FALSTAFF
+4.5 :Come up into my chamber. : None
+Exeunt : ['Exeunt - []'] : FALSTAFF
+Scene(scene=6)
+Enter FENTON and Host : ["Enter - ['FENTON', 'HOST']"] : FALSTAFF
+HOST
+4.6 :Master Fenton, talk not to me; my mind is heavy: I : None
+4.6 :will give over all. : None
+FENTON
+4.6 :Yet hear me speak. Assist me in my purpose, : None
+4.6 :And, as I am a gentleman, I'll give thee : None
+4.6 :A hundred pound in gold more than your loss. : None
+HOST
+4.6 :I will hear you, Master Fenton; and I will at the : None
+4.6 :least keep your counsel. : None
+FENTON
+4.6 :From time to time I have acquainted you : None
+4.6 :With the dear love I bear to fair Anne Page; : None
+4.6 :Who mutually hath answer'd my affection, : None
+4.6 :So far forth as herself might be her chooser, : None
+4.6 :Even to my wish: I have a letter from her : None
+4.6 :Of such contents as you will wonder at; : None
+4.6 :The mirth whereof so larded with my matter, : None
+4.6 :That neither singly can be manifested, : None
+4.6 :Without the show of both; fat Falstaff : None
+4.6 :Hath a great scene: the image of the jest : None
+4.6 :I'll show you here at large. Hark, good mine host. : None
+4.6 :To-night at Herne's oak, just 'twixt twelve and one, : None
+4.6 :Must my sweet Nan present the Fairy Queen; : None
+4.6 :The purpose why, is here: in which disguise, : None
+4.6 :While other jests are something rank on foot, : None
+4.6 :Her father hath commanded her to slip : None
+4.6 :Away with Slender and with him at Eton : None
+4.6 :Immediately to marry: she hath consented: Now, sir, : None
+4.6 :Her mother, ever strong against that match : None
+4.6 :And firm for Doctor Caius, hath appointed : None
+4.6 :That he shall likewise shuffle her away, : None
+4.6 :While other sports are tasking of their minds, : None
+4.6 :And at the deanery, where a priest attends, : None
+4.6 :Straight marry her: to this her mother's plot : None
+4.6 :She seemingly obedient likewise hath : None
+4.6 :Made promise to the doctor. Now, thus it rests: : None
+4.6 :Her father means she shall be all in white, : None
+4.6 :And in that habit, when Slender sees his time : None
+4.6 :To take her by the hand and bid her go, : None
+4.6 :She shall go with him: her mother hath intended, : None
+4.6 :The better to denote her to the doctor, : None
+4.6 :For they must all be mask'd and vizarded, : None
+4.6 :That quaint in green she shall be loose enrobed, : None
+4.6 :With ribands pendent, flaring 'bout her head; : None
+4.6 :And when the doctor spies his vantage ripe, : None
+4.6 :To pinch her by the hand, and, on that token, : None
+4.6 :The maid hath given consent to go with him. : None
+HOST
+4.6 :Which means she to deceive, father or mother? : None
+FENTON
+4.6 :Both, my good host, to go along with me: : None
+4.6 :And here it rests, that you'll procure the vicar : None
+4.6 :To stay for me at church 'twixt twelve and one, : None
+4.6 :And, in the lawful name of marrying, : None
+4.6 :To give our hearts united ceremony. : None
+HOST
+4.6 :Well, husband your device; I'll to the vicar: : None
+4.6 :Bring you the maid, you shall not lack a priest. : None
+FENTON
+4.6 :So shall I evermore be bound to thee; : None
+4.6 :Besides, I'll make a present recompense. : None
+Exeunt : ['Exeunt - []'] : FENTON
+Act(act=5)
+Scene(scene=1)
+Enter FALSTAFF and MISTRESS QUICKLY : ["Enter - ['FALSTAFF', 'MISTRESS QUICKLY']"] : FENTON
+FALSTAFF
+5.1 :Prithee, no more prattling; go. I'll hold. This is : None
+5.1 :the third time; I hope good luck lies in odd : None
+5.1 :numbers. Away I go. They say there is divinity in : None
+5.1 :odd numbers, either in nativity, chance, or death. Away! : None
+MISTRESS QUICKLY
+5.1 :I'll provide you a chain; and I'll do what I can to : None
+5.1 :get you a pair of horns. : None
+FALSTAFF
+5.1 :Away, I say; time wears: hold up your head, and mince. : None
+Exit MISTRESS QUICKLY : ["Exit - ['MISTRESS QUICKLY']"] : FALSTAFF
+Enter FORD : ["Enter - ['FORD']"] : FALSTAFF
+5.1 :How now, Master Brook! Master Brook, the matter : None
+5.1 :will be known to-night, or never. Be you in the : None
+5.1 :Park about midnight, at Herne's oak, and you shall : None
+5.1 :see wonders. : None
+FORD
+5.1 :Went you not to her yesterday, sir, as you told me : None
+5.1 :you had appointed? : None
+FALSTAFF
+5.1 :I went to her, Master Brook, as you see, like a poor : None
+5.1 :old man: but I came from her, Master Brook, like a : None
+5.1 :poor old woman. That same knave Ford, her husband, : None
+5.1 :hath the finest mad devil of jealousy in him, : None
+5.1 :Master Brook, that ever governed frenzy. I will tell : None
+5.1 :you: he beat me grievously, in the shape of a : None
+5.1 :woman; for in the shape of man, Master Brook, I fear : None
+5.1 :not Goliath with a weaver's beam; because I know : None
+5.1 :also life is a shuttle. I am in haste; go along : None
+5.1 :with me: I'll tell you all, Master Brook. Since I : None
+5.1 :plucked geese, played truant and whipped top, I knew : None
+5.1 :not what 'twas to be beaten till lately. Follow : None
+5.1 :me: I'll tell you strange things of this knave : None
+5.1 :Ford, on whom to-night I will be revenged, and I : None
+5.1 :will deliver his wife into your hand. Follow. : None
+5.1 :Strange things in hand, Master Brook! Follow. : None
+Exeunt : ['Exeunt - []'] : FALSTAFF
+Scene(scene=2)
+Enter PAGE, SHALLOW, and SLENDER : ["Enter - ['PAGE', 'SHALLOW', 'SLENDER']"] : FALSTAFF
+PAGE
+5.2 :Come, come; we'll couch i' the castle-ditch till we : None
+5.2 :see the light of our fairies. Remember, son Slender, : None
+5.2 :my daughter. : None
+SLENDER
+5.2 :Ay, forsooth; I have spoke with her and we have a : None
+5.2 :nay-word how to know one another: I come to her in : None
+5.2 :white, and cry 'mum;' she cries 'budget;' and by : None
+5.2 :that we know one another. : None
+SHALLOW
+5.2 :That's good too: but what needs either your 'mum' : None
+5.2 :or her 'budget?' the white will decipher her well : None
+5.2 :enough. It hath struck ten o'clock. : None
+PAGE
+5.2 :The night is dark; light and spirits will become it : None
+5.2 :well. Heaven prosper our sport! No man means evil : None
+5.2 :but the devil, and we shall know him by his horns. : None
+5.2 :Let's away; follow me. : None
+Exeunt : ['Exeunt - []'] : PAGE
+Scene(scene=3)
+Enter MISTRESS PAGE, MISTRESS FORD, and DOCTOR CAIUS : ["Enter - ['MISTRESS PAGE', 'MISTRESS FORD', 'DOCTOR CAIUS']"] : PAGE
+MISTRESS PAGE
+5.3 :Master doctor, my daughter is in green: when you : None
+5.3 :see your time, take her by the band, away with her : None
+5.3 :to the deanery, and dispatch it quickly. Go before : None
+5.3 :into the Park: we two must go together. : None
+DOCTOR CAIUS
+5.3 :I know vat I have to do. Adieu. : None
+MISTRESS PAGE
+5.3 :Fare you well, sir. : None
+Exit DOCTOR CAIUS : ["Exit - ['DOCTOR CAIUS']"] : MISTRESS PAGE
+5.3 :My husband will not rejoice so much at the abuse of : None
+5.3 :Falstaff as he will chafe at the doctor's marrying : None
+5.3 :my daughter: but 'tis no matter; better a little : None
+5.3 :chiding than a great deal of heart-break. : None
+MISTRESS FORD
+5.3 :Where is Nan now and her troop of fairies, and the : None
+5.3 :Welsh devil Hugh? : None
+MISTRESS PAGE
+5.3 :They are all couched in a pit hard by Herne's oak, : None
+5.3 :with obscured lights; which, at the very instant of : None
+5.3 :Falstaff's and our meeting, they will at once : None
+5.3 :display to the night. : None
+MISTRESS FORD
+5.3 :That cannot choose but amaze him. : None
+MISTRESS PAGE
+5.3 :If he be not amazed, he will be mocked; if he be : None
+5.3 :amazed, he will every way be mocked. : None
+MISTRESS FORD
+5.3 :We'll betray him finely. : None
+MISTRESS PAGE
+5.3 :Against such lewdsters and their lechery : None
+5.3 :Those that betray them do no treachery. : None
+MISTRESS FORD
+5.3 :The hour draws on. To the oak, to the oak! : None
+Exeunt : ['Exeunt - []'] : MISTRESS FORD
+Scene(scene=4)
+Enter SIR HUGH EVANS, disguised, with others as Fairies : ["Enter - ['SIR HUGH EVANS']"] : MISTRESS FORD
+SIR HUGH EVANS
+5.4 :Trib, trib, fairies; come; and remember your parts: : None
+5.4 :be pold, I pray you; follow me into the pit; and : None
+5.4 :when I give the watch-'ords, do as I pid you: : None
+5.4 :come, come; trib, trib. : None
+Exeunt : ['Exeunt - []'] : SIR HUGH EVANS
+Scene(scene=5)
+Enter FALSTAFF disguised as Herne : ["Enter - ['FALSTAFF']"] : SIR HUGH EVANS
+FALSTAFF
+5.5 :The Windsor bell hath struck twelve; the minute : None
+5.5 :draws on. Now, the hot-blooded gods assist me! : None
+5.5 :Remember, Jove, thou wast a bull for thy Europa; love : None
+5.5 :set on thy horns. O powerful love! that, in some : None
+5.5 :respects, makes a beast a man, in some other, a man : None
+5.5 :a beast. You were also, Jupiter, a swan for the love : None
+5.5 :of Leda. O omnipotent Love! how near the god drew : None
+5.5 :to the complexion of a goose! A fault done first in : None
+5.5 :the form of a beast. O Jove, a beastly fault! And : None
+5.5 :then another fault in the semblance of a fowl; think : None
+5.5 :on 't, Jove; a foul fault! When gods have hot : None
+5.5 :backs, what shall poor men do? For me, I am here a : None
+5.5 :Windsor stag; and the fattest, I think, i' the : None
+5.5 :forest. Send me a cool rut-time, Jove, or who can : None
+5.5 :blame me to piss my tallow? Who comes here? my : None
+5.5 :doe? : None
+Enter MISTRESS FORD and MISTRESS PAGE : ["Enter - ['MISTRESS FORD', 'MISTRESS PAGE']"] : FALSTAFF
+MISTRESS FORD
+5.5 :Sir John! art thou there, my deer? my male deer? : None
+FALSTAFF
+5.5 :My doe with the black scut! Let the sky rain : None
+5.5 :potatoes; let it thunder to the tune of Green : None
+5.5 :Sleeves, hail kissing-comfits and snow eringoes; let : None
+5.5 :there come a tempest of provocation, I will shelter me here. : None
+MISTRESS FORD
+5.5 :Mistress Page is come with me, sweetheart. : None
+FALSTAFF
+5.5 :Divide me like a bribe buck, each a haunch: I will : None
+5.5 :keep my sides to myself, my shoulders for the fellow : None
+5.5 :of this walk, and my horns I bequeath your husbands. : None
+5.5 :Am I a woodman, ha? Speak I like Herne the hunter? : None
+5.5 :Why, now is Cupid a child of conscience; he makes : None
+5.5 :restitution. As I am a true spirit, welcome! : None
+Noise within : ['None - []'] : FALSTAFF
+MISTRESS PAGE
+5.5 :Alas, what noise? : None
+MISTRESS FORD
+5.5 :Heaven forgive our sins : None
+FALSTAFF
+5.5 :What should this be? : None
+MISTRESS FORD
+MISTRESS PAGE
+5.5 :Away, away! : None
+They run off : ['None - []'] : MISTRESS PAGE
+FALSTAFF
+5.5 :I think the devil will not have me damned, lest the : None
+5.5 :oil that's in me should set hell on fire; he would : None
+5.5 :never else cross me thus. : None
+Enter SIR HUGH EVANS, disguised as before; PISTOL,  as Hobgoblin; MISTRESS QUICKLY, ANNE PAGE, and others, as Fairies, with tapers : ["Enter - ['SIR HUGH EVANS', 'PISTOL', 'MISTRESS QUICKLY', 'ANNE PAGE']"] : FALSTAFF
+MISTRESS QUICKLY
+5.5 :Fairies, black, grey, green, and white, : None
+5.5 :You moonshine revellers and shades of night, : None
+5.5 :You orphan heirs of fixed destiny, : None
+5.5 :Attend your office and your quality. : None
+5.5 :Crier Hobgoblin, make the fairy oyes. : None
+PISTOL
+5.5 :Elves, list your names; silence, you airy toys. : None
+5.5 :Cricket, to Windsor chimneys shalt thou leap: : None
+5.5 :Where fires thou find'st unraked and hearths unswept, : None
+5.5 :There pinch the maids as blue as bilberry: : None
+5.5 :Our radiant queen hates sluts and sluttery. : None
+FALSTAFF
+5.5 :They are fairies; he that speaks to them shall die: : None
+5.5 :I'll wink and couch: no man their works must eye. : None
+Lies down upon his face : ['None - []'] : FALSTAFF
+SIR HUGH EVANS
+5.5 :Where's Bede? Go you, and where you find a maid : None
+5.5 :That, ere she sleep, has thrice her prayers said, : None
+5.5 :Raise up the organs of her fantasy; : None
+5.5 :Sleep she as sound as careless infancy: : None
+5.5 :But those as sleep and think not on their sins, : None
+5.5 :Pinch them, arms, legs, backs, shoulders, sides and shins. : None
+MISTRESS QUICKLY
+5.5 :About, about; : None
+5.5 :Search Windsor Castle, elves, within and out: : None
+5.5 :Strew good luck, ouphes, on every sacred room: : None
+5.5 :That it may stand till the perpetual doom, : None
+5.5 :In state as wholesome as in state 'tis fit, : None
+5.5 :Worthy the owner, and the owner it. : None
+5.5 :The several chairs of order look you scour : None
+5.5 :With juice of balm and every precious flower: : None
+5.5 :Each fair instalment, coat, and several crest, : None
+5.5 :With loyal blazon, evermore be blest! : None
+5.5 :And nightly, meadow-fairies, look you sing, : None
+5.5 :Like to the Garter's compass, in a ring: : None
+5.5 :The expressure that it bears, green let it be, : None
+5.5 :More fertile-fresh than all the field to see; : None
+5.5 :And 'Honi soit qui mal y pense' write : None
+5.5 :In emerald tufts, flowers purple, blue and white; : None
+5.5 :Let sapphire, pearl and rich embroidery, : None
+5.5 :Buckled below fair knighthood's bending knee: : None
+5.5 :Fairies use flowers for their charactery. : None
+5.5 :Away; disperse: but till 'tis one o'clock, : None
+5.5 :Our dance of custom round about the oak : None
+5.5 :Of Herne the hunter, let us not forget. : None
+SIR HUGH EVANS
+5.5 :Pray you, lock hand in hand; yourselves in order set : None
+5.5 :And twenty glow-worms shall our lanterns be, : None
+5.5 :To guide our measure round about the tree. : None
+5.5 :But, stay; I smell a man of middle-earth. : None
+FALSTAFF
+5.5 :Heavens defend me from that Welsh fairy, lest he : None
+5.5 :transform me to a piece of cheese! : None
+PISTOL
+5.5 :Vile worm, thou wast o'erlook'd even in thy birth. : None
+MISTRESS QUICKLY
+5.5 :With trial-fire touch me his finger-end: : None
+5.5 :If he be chaste, the flame will back descend : None
+5.5 :And turn him to no pain; but if he start, : None
+5.5 :It is the flesh of a corrupted heart. : None
+PISTOL
+5.5 :A trial, come. : None
+SIR HUGH EVANS
+5.5 :Come, will this wood take fire? : None
+They burn him with their tapers : ['None - []'] : SIR HUGH EVANS
+FALSTAFF
+5.5 :Oh, Oh, Oh! : None
+MISTRESS QUICKLY
+5.5 :Corrupt, corrupt, and tainted in desire! : None
+5.5 :About him, fairies; sing a scornful rhyme; : None
+5.5 :And, as you trip, still pinch him to your time. : None
+5.5 :SONG. : None
+5.5 :Fie on sinful fantasy! : None
+5.5 :Fie on lust and luxury! : None
+5.5 :Lust is but a bloody fire, : None
+5.5 :Kindled with unchaste desire, : None
+5.5 :Fed in heart, whose flames aspire : None
+5.5 :As thoughts do blow them, higher and higher. : None
+5.5 :Pinch him, fairies, mutually; : None
+5.5 :Pinch him for his villany; : None
+5.5 :Pinch him, and burn him, and turn him about, : None
+5.5 :Till candles and starlight and moonshine be out. : None
+During this song they pinch FALSTAFF. DOCTOR CAIUS  comes one way, and steals away a boy in green;  SLENDER another way, and takes off a boy in white;  and FENTON comes and steals away ANN PAGE.  A noise of hunting is heard within. All the  Fairies run away. FALSTAFF pulls off his buck's head, and rises : ["None - ['FALSTAFF']", "TO - ['DOCTOR CAIUS', 'SLENDER', 'FENTON', 'PAGE']", 'None - []', "None - ['ALL']", "None - ['FALSTAFF']"] : MISTRESS QUICKLY
+Enter PAGE, FORD, MISTRESS PAGE, and MISTRESS FORD : ["Enter - ['PAGE', 'FORD', 'MISTRESS PAGE', 'MISTRESS FORD']"] : MISTRESS QUICKLY
+PAGE
+5.5 :Nay, do not fly; I think we have watch'd you now : None
+5.5 :Will none but Herne the hunter serve your turn? : None
+MISTRESS PAGE
+5.5 :I pray you, come, hold up the jest no higher : None
+5.5 :Now, good Sir John, how like you Windsor wives? : None
+5.5 :See you these, husband? do not these fair yokes : None
+5.5 :Become the forest better than the town? : None
+FORD
+5.5 :Now, sir, who's a cuckold now? Master Brook, : None
+5.5 :Falstaff's a knave, a cuckoldly knave; here are his : None
+5.5 :horns, Master Brook: and, Master Brook, he hath : None
+5.5 :enjoyed nothing of Ford's but his buck-basket, his : None
+5.5 :cudgel, and twenty pounds of money, which must be : None
+5.5 :paid to Master Brook; his horses are arrested for : None
+5.5 :it, Master Brook. : None
+MISTRESS FORD
+5.5 :Sir John, we have had ill luck; we could never meet. : None
+5.5 :I will never take you for my love again; but I will : None
+5.5 :always count you my deer. : None
+FALSTAFF
+5.5 :I do begin to perceive that I am made an ass. : None
+FORD
+5.5 :Ay, and an ox too: both the proofs are extant. : None
+FALSTAFF
+5.5 :And these are not fairies? I was three or four : None
+5.5 :times in the thought they were not fairies: and yet : None
+5.5 :the guiltiness of my mind, the sudden surprise of my : None
+5.5 :powers, drove the grossness of the foppery into a : None
+5.5 :received belief, in despite of the teeth of all : None
+5.5 :rhyme and reason, that they were fairies. See now : None
+5.5 :how wit may be made a Jack-a-Lent, when 'tis upon : None
+5.5 :ill employment! : None
+SIR HUGH EVANS
+5.5 :Sir John Falstaff, serve Got, and leave your : None
+5.5 :desires, and fairies will not pinse you. : None
+FORD
+5.5 :Well said, fairy Hugh. : None
+SIR HUGH EVANS
+5.5 :And leave your jealousies too, I pray you. : None
+FORD
+5.5 :I will never mistrust my wife again till thou art : None
+5.5 :able to woo her in good English. : None
+FALSTAFF
+5.5 :Have I laid my brain in the sun and dried it, that : None
+5.5 :it wants matter to prevent so gross o'erreaching as : None
+5.5 :this? Am I ridden with a Welsh goat too? shall I : None
+5.5 :have a coxcomb of frize? 'Tis time I were choked : None
+5.5 :with a piece of toasted cheese. : None
+SIR HUGH EVANS
+5.5 :Seese is not good to give putter; your belly is all putter. : None
+FALSTAFF
+5.5 :'Seese' and 'putter'! have I lived to stand at the : None
+5.5 :taunt of one that makes fritters of English? This : None
+5.5 :is enough to be the decay of lust and late-walking : None
+5.5 :through the realm. : None
+MISTRESS PAGE
+5.5 :Why Sir John, do you think, though we would have the : None
+5.5 :virtue out of our hearts by the head and shoulders : None
+5.5 :and have given ourselves without scruple to hell, : None
+5.5 :that ever the devil could have made you our delight? : None
+FORD
+5.5 :What, a hodge-pudding? a bag of flax? : None
+MISTRESS PAGE
+5.5 :A puffed man? : None
+PAGE
+5.5 :Old, cold, withered and of intolerable entrails? : None
+FORD
+5.5 :And one that is as slanderous as Satan? : None
+PAGE
+5.5 :And as poor as Job? : None
+FORD
+5.5 :And as wicked as his wife? : None
+SIR HUGH EVANS
+5.5 :And given to fornications, and to taverns and sack : None
+5.5 :and wine and metheglins, and to drinkings and : None
+5.5 :swearings and starings, pribbles and prabbles? : None
+FALSTAFF
+5.5 :Well, I am your theme: you have the start of me; I : None
+5.5 :am dejected; I am not able to answer the Welsh : None
+5.5 :flannel; ignorance itself is a plummet o'er me: use : None
+5.5 :me as you will. : None
+FORD
+5.5 :Marry, sir, we'll bring you to Windsor, to one : None
+5.5 :Master Brook, that you have cozened of money, to : None
+5.5 :whom you should have been a pander: over and above : None
+5.5 :that you have suffered, I think to repay that money : None
+5.5 :will be a biting affliction. : None
+PAGE
+5.5 :Yet be cheerful, knight: thou shalt eat a posset : None
+5.5 :to-night at my house; where I will desire thee to : None
+5.5 :laugh at my wife, that now laughs at thee: tell her : None
+5.5 :Master Slender hath married her daughter. : None
+MISTRESS PAGE
+5.5 :  Doctors doubt that: if Anne Page be my : Aside : ['Aside - []'] : MISTRESS PAGE
+5.5 :daughter, she is, by this, Doctor Caius' wife. : None
+Enter SLENDER : ["Enter - ['SLENDER']"] : MISTRESS PAGE
+SLENDER
+5.5 :Whoa ho! ho, father Page! : None
+PAGE
+5.5 :Son, how now! how now, son! have you dispatched? : None
+SLENDER
+5.5 :Dispatched! I'll make the best in Gloucestershire : None
+5.5 :know on't; would I were hanged, la, else. : None
+PAGE
+5.5 :Of what, son? : None
+SLENDER
+5.5 :I came yonder at Eton to marry Mistress Anne Page, : None
+5.5 :and she's a great lubberly boy. If it had not been : None
+5.5 :i' the church, I would have swinged him, or he : None
+5.5 :should have swinged me. If I did not think it had : None
+5.5 :been Anne Page, would I might never stir!--and 'tis : None
+5.5 :a postmaster's boy. : None
+PAGE
+5.5 :Upon my life, then, you took the wrong. : None
+SLENDER
+5.5 :What need you tell me that? I think so, when I took : None
+5.5 :a boy for a girl. If I had been married to him, for : None
+5.5 :all he was in woman's apparel, I would not have had : None
+5.5 :him. : None
+PAGE
+5.5 :Why, this is your own folly. Did not I tell you how : None
+5.5 :you should know my daughter by her garments? : None
+SLENDER
+5.5 :I went to her in white, and cried 'mum,' and she : None
+5.5 :cried 'budget,' as Anne and I had appointed; and yet : None
+5.5 :it was not Anne, but a postmaster's boy. : None
+MISTRESS PAGE
+5.5 :Good George, be not angry: I knew of your purpose; : None
+5.5 :turned my daughter into green; and, indeed, she is : None
+5.5 :now with the doctor at the deanery, and there married. : None
+Enter DOCTOR CAIUS : ["Enter - ['DOCTOR CAIUS']"] : MISTRESS PAGE
+DOCTOR CAIUS
+5.5 :Vere is Mistress Page? By gar, I am cozened: I ha' : None
+5.5 :married un garcon, a boy; un paysan, by gar, a boy; : None
+5.5 :it is not Anne Page: by gar, I am cozened. : None
+MISTRESS PAGE
+5.5 :Why, did you take her in green? : None
+DOCTOR CAIUS
+5.5 :Ay, by gar, and 'tis a boy: by gar, I'll raise all Windsor. : None
+Exit : ['Exit - []'] : DOCTOR CAIUS
+FORD
+5.5 :This is strange. Who hath got the right Anne? : None
+PAGE
+5.5 :My heart misgives me: here comes Master Fenton. : None
+Enter FENTON and ANNE PAGE : ["Enter - ['FENTON', 'ANNE PAGE']"] : PAGE
+5.5 :How now, Master Fenton! : None
+ANNE PAGE
+5.5 :Pardon, good father! good my mother, pardon! : None
+PAGE
+5.5 :Now, mistress, how chance you went not with Master Slender? : None
+MISTRESS PAGE
+5.5 :Why went you not with master doctor, maid? : None
+FENTON
+5.5 :You do amaze her: hear the truth of it. : None
+5.5 :You would have married her most shamefully, : None
+5.5 :Where there was no proportion held in love. : None
+5.5 :The truth is, she and I, long since contracted, : None
+5.5 :Are now so sure that nothing can dissolve us. : None
+5.5 :The offence is holy that she hath committed; : None
+5.5 :And this deceit loses the name of craft, : None
+5.5 :Of disobedience, or unduteous title, : None
+5.5 :Since therein she doth evitate and shun : None
+5.5 :A thousand irreligious cursed hours, : None
+5.5 :Which forced marriage would have brought upon her. : None
+FORD
+5.5 :Stand not amazed; here is no remedy: : None
+5.5 :In love the heavens themselves do guide the state; : None
+5.5 :Money buys lands, and wives are sold by fate. : None
+FALSTAFF
+5.5 :I am glad, though you have ta'en a special stand to : None
+5.5 :strike at me, that your arrow hath glanced. : None
+PAGE
+5.5 :Well, what remedy? Fenton, heaven give thee joy! : None
+5.5 :What cannot be eschew'd must be embraced. : None
+FALSTAFF
+5.5 :When night-dogs run, all sorts of deer are chased. : None
+MISTRESS PAGE
+5.5 :Well, I will muse no further. Master Fenton, : None
+5.5 :Heaven give you many, many merry days! : None
+5.5 :Good husband, let us every one go home, : None
+5.5 :And laugh this sport o'er by a country fire; : None
+5.5 :Sir John and all. : None
+FORD
+5.5 :                  Let it be so. Sir John, : None
+5.5 :To Master Brook you yet shall hold your word : None
+5.5 :For he tonight shall lie with Mistress Ford. : None
+Exeunt : ['Exeunt - []'] : FORD

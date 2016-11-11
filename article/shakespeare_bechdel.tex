@@ -1,0 +1,212 @@
+\documentclass[12pt]{article}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\urlstyle{same}
+\usepackage{csquotes}
+ 
+\begin{document}
+
+\title{Does Shakespeare Pass the Bechdel Test?}
+\date{November 11, 2016}
+\author{Zhiyan Foo}
+\maketitle
+
+\section{Background and Significance}
+\label{sec:background_and_significance}
+
+Despite the recent success of films such as \emph{The Hunger Games} and \emph{Star
+Wars: The Force Awakens}, most of our cultural output is disproportionally
+focused on male lives and their stories. One popular measure of this gender
+bias is the Bechdel Test. The test specifies 3 criteria for a piece to pass. 
+\begin{enumerate}  
+\item It must contain two named female characters
+\item They must have a conversation
+\item The conversation must not be about a man
+\end{enumerate}
+While this is not a particularly high bar, a surprising amount of films---the
+original medium the test was applied to---fail it. Gender disparities however
+are not a recent phenomena and this article looks at whether Shakespeare's
+plays in particular pass the Bechdel Test. This would not be done manually
+however but as a showcase for a new software package,
+\textbf{crunch-shake}\footnote{\url{https://github.com/zhiyanfoo/crunch-shake}}.
+
+\section{Methodology}
+\label{sec:methodology}
+
+\subsection{Modified Criteria}
+\label{sub:crunch_shake_s_new_criteria}
+The criteria used by crunch-shake is slightly different from the original
+Bechdel Test. This is to both accommodate and utilize the computational nature
+of crunch-shake. 
+\begin{center}
+    \begin{tabularx}{\textwidth}{ | X | X | X |}
+    \hline
+    Original Criteria & crunch-shake Criteria & Reason for Change \\ \hline
+        contain two named female characters & contain two female characters that are
+        in the upper 50\% of notable characters & The requirement that the two
+        female characters be named is just a proxy for whether the character is
+        significant to the piece, and using social network graphing algorithms
+        and the number of lines the character has, this can be got at directly.
+        \\ \hline
+    The two named female characters must have a conversation & In any scene,
+        two notable female characters must speak in the presence of one another
+        & It is hard to algorithmically determine when two characters are in a
+        'conversation' with one another. So the two females might be talking to
+        a male, not each other, but the scene will still 'pass'  Unfortunate,
+        but as of now, unavoidable.  \\ \hline
+    The conversation must not be about a man & In their 'conversation', the two
+        notable females must not utter a word related to romantic relationships
+        or mention a male & While there's a lot of subtext that an algorithm
+        can miss out, a blacklist of words takes care of the more obvious
+        cases.   \\
+    \hline
+    \end{tabularx}
+\end{center}
+
+\subsection{Blacklist}
+\label{sub:blacklist}
+
+The list of forbidden words 
+\begin{description}
+    \item[romantic relationships] marriage,
+        matrimony, courting, love, wedlock, sex, sexual, intercourse.
+    \item[male partners] boyfriend, partner, husband, spouse, lover,
+        admirer, fiancé, amour, inamorato. (As well as the names of males in
+        the piece).
+\end{description}
+
+The idea is not that it is 'wrong' for script writers to ever have their female
+characters use this words, but rather not ever scene involving female
+characters should have them focused on their relationships with male
+counterparts.
+
+\subsection{Determining Presence}
+\label{sub:determining_presence}
+
+\subsubsection{Method}
+\label{ssub:method}
+
+
+There are two ways the algorithm knows that a character is in a scene. The
+first is through stage directions. For example, if the algorithm sees the stage
+direction 
+\begin{displayquote}
+Enter CAPULET in his gown, and LADY CAPULET.\footnote{From Act
+    I, Scene I in \emph{Romeo and Juliet}}
+\end{displayquote}
+it would note that CAPULET and LADY CAPULET have entered. The second methods
+occurs if it sees that Romeo speaks a line, even if he never 'entered' the
+scene---so that scene started \textit{in media res}---it would take it that
+Romeo was always there. Similarly, the algorithm will remove the character from
+the scene if it sees \textquote{Romeo Exit} or just when the scene ends.
+
+\subsubsection{Limitations}
+\label{ssub:limitations}
+
+There are limitations to the algorithm however. For example if it sees,
+\begin{displayquote}
+Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO.\footnote{From
+the same scene}
+\end{displayquote}
+it would erroneously note that MONTAGUE, LADY MONTAGUE, and BENVOLIO have all
+exited as it sees 'exeunt' while keeping the rest of the characters as it is
+not smart enough to interpret 'but all'. Also if a character enters, exit and
+re-enters, will note only first entrance and last exit. Finally sometimes the
+play directions do not refer to the characters by name. Take this example
+from Act IV, Scene III of \emph{The Taming of the Shrew}, where the SERVANT is
+not mentioned directly.
+\begin{displayquote}
+Enter four or five Serving-men</i></p>
+\end{displayquote}
+Yet is suppose to enter the scene.  
+
+Yet these errors are unlikely to skew the data in favor of males or females.
+\subsection{Gender}
+\label{sub:passing_the_criteria}
+
+The gender of each character is determined manually. The json files that
+include gender classifications can be found
+here\footnote{\url{https://github.com/zhiyanfoo/crunch-shake/tree/master/crunch-shake/gender}}.
+While it is easy enough to be determine the gender of the named characters, the
+unnamed characters proved to be a bit harder. Some gender assignments were
+easy, such as 'groom' or 'maid'. Others such as 'Soldier', while could
+represent both genders in today's society, where for the most part male in
+Shakespeare's time and so classified as such. The more ambiguous designations
+such as 'Citizen' while were for the most part probably intended to be male,
+are left as 'N', and for the purposes of the algorithm, might as well not
+exist.
+
+\subsection{Notability}
+\label{sub:notability}
+
+Whether or not a character is notable or not is dependent on how each character
+scores on 4 metrics: lines by character, out degree, page rank, betweenness.
+The last 3 metrics are network algorithm's. crunch-shake uses the
+implementation found in the python package networkx.
+\begin{center}
+    \begin{tabular}{ | l | l | p{5cm} |}
+    \hline
+    Metric & Weight & Algorithm \\ \hline
+        lines by character & 62.5\% & take the number of lines a character has
+        and divide it by the lines of speech the character with
+        the most lines has.\\ \hline
+        out degree & 12.5\% & networkx's implementation \\ \hline
+        page rank & 12.5\% & networkx's implementation \\ \hline
+        betweenness & 12.5\% & networkx's implementation \\
+    \hline
+    \end{tabular}
+\end{center}
+In this case, the network vertices here are speaking characters, with directed
+edges representing when a character speaks to another character, with more
+lines of speech indicating a stronger connection.
+
+The use of network algorithms to classify importance of characters was taken
+from this paper on Game Of Thrones. Since Shakespeare's plays feature far fewer
+characters that GOT and since those characters are far more interconnected than
+in GOT, this methodology does not work as well for this paper, which is why the
+network algorithms are assigned such low weights.
+
+\subsection{Precautions}
+\label{sub:passing_the_criteria}
+
+\subsubsection{Limiting Initially Used}
+
+In order to not bias the data by, for example changing the blacklisted
+words, or changing the weights given to each character in the metrics, I wrote
+all the specifications before running the crunch-shake on Shakespeare's plays,
+with the exception of \emph{All's Well that Ends Well} and \emph{Romeo and
+Juliet}, which I needed for debugging and checking feasibility purposes. As a
+result I will be omitting these two plays from the results. 
+
+\subsubsection{}
+
+In order to avoid cutting up the data after running the experiment to support
+a potentially biased viewpoint, let me first state what results I wish to present
+after running the experiment.
+
+\begin{enumerate}
+    \item Percentage of females to males overall.
+    \item Percentage of notable female characters to notable male characters
+        (the rest would be ambiguous) per scene and overall.
+    \item A ranking of the plays using the percentages of scenes that past the
+        Bechdel Test.
+    \item The percentages that fail the test because of a lack of females versus
+        those that failed because the conversation was about males.
+    \item A summary of what the females talked about in 8 randomly chosen
+        scenes that passed the test. 
+    \item A summary of what it was they were talking about in 8 randomly chosen
+        scenes that failed the test because they said a word on the blacklist.
+\end{enumerate}
+
+
+\section{Results}
+\label{sec:results}
+
+\end{document}

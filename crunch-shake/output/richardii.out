@@ -1,0 +1,3491 @@
+Act(act=1)
+Scene(scene=1)
+Enter KING RICHARD II, JOHN OF GAUNT, with other Nobles and Attendants : ["Enter - ['KING RICHARD II', 'JOHN OF GAUNT']"] : None
+KING RICHARD II
+1.1 :Old John of Gaunt, time-honour'd Lancaster, : None
+1.1 :Hast thou, according to thy oath and band, : None
+1.1 :Brought hither Henry Hereford thy bold son, : None
+1.1 :Here to make good the boisterous late appeal, : None
+1.1 :Which then our leisure would not let us hear, : None
+1.1 :Against the Duke of Norfolk, Thomas Mowbray? : None
+JOHN OF GAUNT
+1.1 :I have, my liege. : None
+KING RICHARD II
+1.1 :Tell me, moreover, hast thou sounded him, : None
+1.1 :If he appeal the duke on ancient malice; : None
+1.1 :Or worthily, as a good subject should, : None
+1.1 :On some known ground of treachery in him? : None
+JOHN OF GAUNT
+1.1 :As near as I could sift him on that argument, : None
+1.1 :On some apparent danger seen in him : None
+1.1 :Aim'd at your highness, no inveterate malice. : None
+KING RICHARD II
+1.1 :Then call them to our presence; face to face, : None
+1.1 :And frowning brow to brow, ourselves will hear : None
+1.1 :The accuser and the accused freely speak: : None
+1.1 :High-stomach'd are they both, and full of ire, : None
+1.1 :In rage deaf as the sea, hasty as fire. : None
+Enter HENRY BOLINGBROKE and THOMAS MOWBRAY : ["Enter - ['HENRY BOLINGBROKE', 'THOMAS MOWBRAY']"] : KING RICHARD II
+HENRY BOLINGBROKE
+1.1 :Many years of happy days befal : None
+1.1 :My gracious sovereign, my most loving liege! : None
+THOMAS MOWBRAY
+1.1 :Each day still better other's happiness; : None
+1.1 :Until the heavens, envying earth's good hap, : None
+1.1 :Add an immortal title to your crown! : None
+KING RICHARD II
+1.1 :We thank you both: yet one but flatters us, : None
+1.1 :As well appeareth by the cause you come; : None
+1.1 :Namely to appeal each other of high treason. : None
+1.1 :Cousin of Hereford, what dost thou object : None
+1.1 :Against the Duke of Norfolk, Thomas Mowbray? : None
+HENRY BOLINGBROKE
+1.1 :First, heaven be the record to my speech! : None
+1.1 :In the devotion of a subject's love, : None
+1.1 :Tendering the precious safety of my prince, : None
+1.1 :And free from other misbegotten hate, : None
+1.1 :Come I appellant to this princely presence. : None
+1.1 :Now, Thomas Mowbray, do I turn to thee, : None
+1.1 :And mark my greeting well; for what I speak : None
+1.1 :My body shall make good upon this earth, : None
+1.1 :Or my divine soul answer it in heaven. : None
+1.1 :Thou art a traitor and a miscreant, : None
+1.1 :Too good to be so and too bad to live, : None
+1.1 :Since the more fair and crystal is the sky, : None
+1.1 :The uglier seem the clouds that in it fly. : None
+1.1 :Once more, the more to aggravate the note, : None
+1.1 :With a foul traitor's name stuff I thy throat; : None
+1.1 :And wish, so please my sovereign, ere I move, : None
+1.1 :What my tongue speaks my right drawn sword may prove. : None
+THOMAS MOWBRAY
+1.1 :Let not my cold words here accuse my zeal: : None
+1.1 :'Tis not the trial of a woman's war, : None
+1.1 :The bitter clamour of two eager tongues, : None
+1.1 :Can arbitrate this cause betwixt us twain; : None
+1.1 :The blood is hot that must be cool'd for this: : None
+1.1 :Yet can I not of such tame patience boast : None
+1.1 :As to be hush'd and nought at all to say: : None
+1.1 :First, the fair reverence of your highness curbs me : None
+1.1 :From giving reins and spurs to my free speech; : None
+1.1 :Which else would post until it had return'd : None
+1.1 :These terms of treason doubled down his throat. : None
+1.1 :Setting aside his high blood's royalty, : None
+1.1 :And let him be no kinsman to my liege, : None
+1.1 :I do defy him, and I spit at him; : None
+1.1 :Call him a slanderous coward and a villain: : None
+1.1 :Which to maintain I would allow him odds, : None
+1.1 :And meet him, were I tied to run afoot : None
+1.1 :Even to the frozen ridges of the Alps, : None
+1.1 :Or any other ground inhabitable, : None
+1.1 :Where ever Englishman durst set his foot. : None
+1.1 :Mean time let this defend my loyalty, : None
+1.1 :By all my hopes, most falsely doth he lie. : None
+HENRY BOLINGBROKE
+1.1 :Pale trembling coward, there I throw my gage, : None
+1.1 :Disclaiming here the kindred of the king, : None
+1.1 :And lay aside my high blood's royalty, : None
+1.1 :Which fear, not reverence, makes thee to except. : None
+1.1 :If guilty dread have left thee so much strength : None
+1.1 :As to take up mine honour's pawn, then stoop: : None
+1.1 :By that and all the rites of knighthood else, : None
+1.1 :Will I make good against thee, arm to arm, : None
+1.1 :What I have spoke, or thou canst worse devise. : None
+THOMAS MOWBRAY
+1.1 :I take it up; and by that sword I swear : None
+1.1 :Which gently laid my knighthood on my shoulder, : None
+1.1 :I'll answer thee in any fair degree, : None
+1.1 :Or chivalrous design of knightly trial: : None
+1.1 :And when I mount, alive may I not light, : None
+1.1 :If I be traitor or unjustly fight! : None
+KING RICHARD II
+1.1 :What doth our cousin lay to Mowbray's charge? : None
+1.1 :It must be great that can inherit us : None
+1.1 :So much as of a thought of ill in him. : None
+HENRY BOLINGBROKE
+1.1 :Look, what I speak, my life shall prove it true; : None
+1.1 :That Mowbray hath received eight thousand nobles : None
+1.1 :In name of lendings for your highness' soldiers, : None
+1.1 :The which he hath detain'd for lewd employments, : None
+1.1 :Like a false traitor and injurious villain. : None
+1.1 :Besides I say and will in battle prove, : None
+1.1 :Or here or elsewhere to the furthest verge : None
+1.1 :That ever was survey'd by English eye, : None
+1.1 :That all the treasons for these eighteen years : None
+1.1 :Complotted and contrived in this land : None
+1.1 :Fetch from false Mowbray their first head and spring. : None
+1.1 :Further I say and further will maintain : None
+1.1 :Upon his bad life to make all this good, : None
+1.1 :That he did plot the Duke of Gloucester's death, : None
+1.1 :Suggest his soon-believing adversaries, : None
+1.1 :And consequently, like a traitor coward, : None
+1.1 :Sluiced out his innocent soul through streams of blood: : None
+1.1 :Which blood, like sacrificing Abel's, cries, : None
+1.1 :Even from the tongueless caverns of the earth, : None
+1.1 :To me for justice and rough chastisement; : None
+1.1 :And, by the glorious worth of my descent, : None
+1.1 :This arm shall do it, or this life be spent. : None
+KING RICHARD II
+1.1 :How high a pitch his resolution soars! : None
+1.1 :Thomas of Norfolk, what say'st thou to this? : None
+THOMAS MOWBRAY
+1.1 :O, let my sovereign turn away his face : None
+1.1 :And bid his ears a little while be deaf, : None
+1.1 :Till I have told this slander of his blood, : None
+1.1 :How God and good men hate so foul a liar. : None
+KING RICHARD II
+1.1 :Mowbray, impartial are our eyes and ears: : None
+1.1 :Were he my brother, nay, my kingdom's heir, : None
+1.1 :As he is but my father's brother's son, : None
+1.1 :Now, by my sceptre's awe, I make a vow, : None
+1.1 :Such neighbour nearness to our sacred blood : None
+1.1 :Should nothing privilege him, nor partialize : None
+1.1 :The unstooping firmness of my upright soul: : None
+1.1 :He is our subject, Mowbray; so art thou: : None
+1.1 :Free speech and fearless I to thee allow. : None
+THOMAS MOWBRAY
+1.1 :Then, Bolingbroke, as low as to thy heart, : None
+1.1 :Through the false passage of thy throat, thou liest. : None
+1.1 :Three parts of that receipt I had for Calais : None
+1.1 :Disbursed I duly to his highness' soldiers; : None
+1.1 :The other part reserved I by consent, : None
+1.1 :For that my sovereign liege was in my debt : None
+1.1 :Upon remainder of a dear account, : None
+1.1 :Since last I went to France to fetch his queen: : None
+1.1 :Now swallow down that lie. For Gloucester's death, : None
+1.1 :I slew him not; but to my own disgrace : None
+1.1 :Neglected my sworn duty in that case. : None
+1.1 :For you, my noble Lord of Lancaster, : None
+1.1 :The honourable father to my foe : None
+1.1 :Once did I lay an ambush for your life, : None
+1.1 :A trespass that doth vex my grieved soul : None
+1.1 :But ere I last received the sacrament : None
+1.1 :I did confess it, and exactly begg'd : None
+1.1 :Your grace's pardon, and I hope I had it. : None
+1.1 :This is my fault: as for the rest appeall'd, : None
+1.1 :It issues from the rancour of a villain, : None
+1.1 :A recreant and most degenerate traitor : None
+1.1 :Which in myself I boldly will defend; : None
+1.1 :And interchangeably hurl down my gage : None
+1.1 :Upon this overweening traitor's foot, : None
+1.1 :To prove myself a loyal gentleman : None
+1.1 :Even in the best blood chamber'd in his bosom. : None
+1.1 :In haste whereof, most heartily I pray : None
+1.1 :Your highness to assign our trial day. : None
+KING RICHARD II
+1.1 :Wrath-kindled gentlemen, be ruled by me; : None
+1.1 :Let's purge this choler without letting blood: : None
+1.1 :This we prescribe, though no physician; : None
+1.1 :Deep malice makes too deep incision; : None
+1.1 :Forget, forgive; conclude and be agreed; : None
+1.1 :Our doctors say this is no month to bleed. : None
+1.1 :Good uncle, let this end where it begun; : None
+1.1 :We'll calm the Duke of Norfolk, you your son. : None
+JOHN OF GAUNT
+1.1 :To be a make-peace shall become my age: : None
+1.1 :Throw down, my son, the Duke of Norfolk's gage. : None
+KING RICHARD II
+1.1 :And, Norfolk, throw down his. : None
+JOHN OF GAUNT
+1.1 :When, Harry, when? : None
+1.1 :Obedience bids I should not bid again. : None
+KING RICHARD II
+1.1 :Norfolk, throw down, we bid; there is no boot. : None
+THOMAS MOWBRAY
+1.1 :Myself I throw, dread sovereign, at thy foot. : None
+1.1 :My life thou shalt command, but not my shame: : None
+1.1 :The one my duty owes; but my fair name, : None
+1.1 :Despite of death that lives upon my grave, : None
+1.1 :To dark dishonour's use thou shalt not have. : None
+1.1 :I am disgraced, impeach'd and baffled here, : None
+1.1 :Pierced to the soul with slander's venom'd spear, : None
+1.1 :The which no balm can cure but his heart-blood : None
+1.1 :Which breathed this poison. : None
+KING RICHARD II
+1.1 :Rage must be withstood: : None
+1.1 :Give me his gage: lions make leopards tame. : None
+THOMAS MOWBRAY
+1.1 :Yea, but not change his spots: take but my shame. : None
+1.1 :And I resign my gage. My dear dear lord, : None
+1.1 :The purest treasure mortal times afford : None
+1.1 :Is spotless reputation: that away, : None
+1.1 :Men are but gilded loam or painted clay. : None
+1.1 :A jewel in a ten-times-barr'd-up chest : None
+1.1 :Is a bold spirit in a loyal breast. : None
+1.1 :Mine honour is my life; both grow in one: : None
+1.1 :Take honour from me, and my life is done: : None
+1.1 :Then, dear my liege, mine honour let me try; : None
+1.1 :In that I live and for that will I die. : None
+KING RICHARD II
+1.1 :Cousin, throw up your gage; do you begin. : None
+HENRY BOLINGBROKE
+1.1 :O, God defend my soul from such deep sin! : None
+1.1 :Shall I seem crest-fall'n in my father's sight? : None
+1.1 :Or with pale beggar-fear impeach my height : None
+1.1 :Before this out-dared dastard? Ere my tongue : None
+1.1 :Shall wound my honour with such feeble wrong, : None
+1.1 :Or sound so base a parle, my teeth shall tear : None
+1.1 :The slavish motive of recanting fear, : None
+1.1 :And spit it bleeding in his high disgrace, : None
+1.1 :Where shame doth harbour, even in Mowbray's face. : None
+Exit JOHN OF GAUNT : ["Exit - ['JOHN OF GAUNT']"] : HENRY BOLINGBROKE
+KING RICHARD II
+1.1 :We were not born to sue, but to command; : None
+1.1 :Which since we cannot do to make you friends, : None
+1.1 :Be ready, as your lives shall answer it, : None
+1.1 :At Coventry, upon Saint Lambert's day: : None
+1.1 :There shall your swords and lances arbitrate : None
+1.1 :The swelling difference of your settled hate: : None
+1.1 :Since we can not atone you, we shall see : None
+1.1 :Justice design the victor's chivalry. : None
+1.1 :Lord marshal, command our officers at arms : None
+1.1 :Be ready to direct these home alarms. : None
+Exeunt : ['Exeunt - []'] : KING RICHARD II
+Scene(scene=2)
+Enter JOHN OF GAUNT with DUCHESS : ["Enter - ['JOHN OF GAUNT', 'DUCHESS']"] : KING RICHARD II
+JOHN OF GAUNT
+1.2 :Alas, the part I had in Woodstock's blood : None
+1.2 :Doth more solicit me than your exclaims, : None
+1.2 :To stir against the butchers of his life! : None
+1.2 :But since correction lieth in those hands : None
+1.2 :Which made the fault that we cannot correct, : None
+1.2 :Put we our quarrel to the will of heaven; : None
+1.2 :Who, when they see the hours ripe on earth, : None
+1.2 :Will rain hot vengeance on offenders' heads. : None
+DUCHESS
+1.2 :Finds brotherhood in thee no sharper spur? : None
+1.2 :Hath love in thy old blood no living fire? : None
+1.2 :Edward's seven sons, whereof thyself art one, : None
+1.2 :Were as seven vials of his sacred blood, : None
+1.2 :Or seven fair branches springing from one root: : None
+1.2 :Some of those seven are dried by nature's course, : None
+1.2 :Some of those branches by the Destinies cut; : None
+1.2 :But Thomas, my dear lord, my life, my Gloucester, : None
+1.2 :One vial full of Edward's sacred blood, : None
+1.2 :One flourishing branch of his most royal root, : None
+1.2 :Is crack'd, and all the precious liquor spilt, : None
+1.2 :Is hack'd down, and his summer leaves all faded, : None
+1.2 :By envy's hand and murder's bloody axe. : None
+1.2 :Ah, Gaunt, his blood was thine! that bed, that womb, : None
+1.2 :That metal, that self-mould, that fashion'd thee : None
+1.2 :Made him a man; and though thou livest and breathest, : None
+1.2 :Yet art thou slain in him: thou dost consent : None
+1.2 :In some large measure to thy father's death, : None
+1.2 :In that thou seest thy wretched brother die, : None
+1.2 :Who was the model of thy father's life. : None
+1.2 :Call it not patience, Gaunt; it is despair: : None
+1.2 :In suffering thus thy brother to be slaughter'd, : None
+1.2 :Thou showest the naked pathway to thy life, : None
+1.2 :Teaching stern murder how to butcher thee: : None
+1.2 :That which in mean men we intitle patience : None
+1.2 :Is pale cold cowardice in noble breasts. : None
+1.2 :What shall I say? to safeguard thine own life, : None
+1.2 :The best way is to venge my Gloucester's death. : None
+JOHN OF GAUNT
+1.2 :God's is the quarrel; for God's substitute, : None
+1.2 :His deputy anointed in His sight, : None
+1.2 :Hath caused his death: the which if wrongfully, : None
+1.2 :Let heaven revenge; for I may never lift : None
+1.2 :An angry arm against His minister. : None
+DUCHESS
+1.2 :Where then, alas, may I complain myself? : None
+JOHN OF GAUNT
+1.2 :To God, the widow's champion and defence. : None
+DUCHESS
+1.2 :Why, then, I will. Farewell, old Gaunt. : None
+1.2 :Thou goest to Coventry, there to behold : None
+1.2 :Our cousin Hereford and fell Mowbray fight: : None
+1.2 :O, sit my husband's wrongs on Hereford's spear, : None
+1.2 :That it may enter butcher Mowbray's breast! : None
+1.2 :Or, if misfortune miss the first career, : None
+1.2 :Be Mowbray's sins so heavy in his bosom, : None
+1.2 :They may break his foaming courser's back, : None
+1.2 :And throw the rider headlong in the lists, : None
+1.2 :A caitiff recreant to my cousin Hereford! : None
+1.2 :Farewell, old Gaunt: thy sometimes brother's wife : None
+1.2 :With her companion grief must end her life. : None
+JOHN OF GAUNT
+1.2 :Sister, farewell; I must to Coventry: : None
+1.2 :As much good stay with thee as go with me! : None
+DUCHESS
+1.2 :Yet one word more: grief boundeth where it falls, : None
+1.2 :Not with the empty hollowness, but weight: : None
+1.2 :I take my leave before I have begun, : None
+1.2 :For sorrow ends not when it seemeth done. : None
+1.2 :Commend me to thy brother, Edmund York. : None
+1.2 :Lo, this is all:--nay, yet depart not so; : None
+1.2 :Though this be all, do not so quickly go; : None
+1.2 :I shall remember more. Bid him--ah, what?-- : None
+1.2 :With all good speed at Plashy visit me. : None
+1.2 :Alack, and what shall good old York there see : None
+1.2 :But empty lodgings and unfurnish'd walls, : None
+1.2 :Unpeopled offices, untrodden stones? : None
+1.2 :And what hear there for welcome but my groans? : None
+1.2 :Therefore commend me; let him not come there, : None
+1.2 :To seek out sorrow that dwells every where. : None
+1.2 :Desolate, desolate, will I hence and die: : None
+1.2 :The last leave of thee takes my weeping eye. : None
+Exeunt : ['Exeunt - []'] : DUCHESS
+Scene(scene=3)
+Enter the Lord Marshal and the DUKE OF AUMERLE : ["Enter - ['LORD MARSHAL', 'DUKE OF AUMERLE']"] : DUCHESS
+LORD MARSHAL
+1.3 :My Lord Aumerle, is Harry Hereford arm'd? : None
+DUKE OF AUMERLE
+1.3 :Yea, at all points; and longs to enter in. : None
+LORD MARSHAL
+1.3 :The Duke of Norfolk, sprightfully and bold, : None
+1.3 :Stays but the summons of the appellant's trumpet. : None
+DUKE OF AUMERLE
+1.3 :Why, then, the champions are prepared, and stay : None
+1.3 :For nothing but his majesty's approach. : None
+The trumpets sound, and KING RICHARD enters with  his nobles, JOHN OF GAUNT, BUSHY, BAGOT, GREEN, and  others. When they are set, enter THOMAS MOWBRAY in arms, defendant, with a Herald : ["enter - ['JOHN OF GAUNT', 'BUSHY', 'BAGOT', 'GREEN']", "enter - ['THOMAS MOWBRAY']"] : DUKE OF AUMERLE
+KING RICHARD II
+1.3 :Marshal, demand of yonder champion : None
+1.3 :The cause of his arrival here in arms: : None
+1.3 :Ask him his name and orderly proceed : None
+1.3 :To swear him in the justice of his cause. : None
+LORD MARSHAL
+1.3 :In God's name and the king's, say who thou art : None
+1.3 :And why thou comest thus knightly clad in arms, : None
+1.3 :Against what man thou comest, and what thy quarrel: : None
+1.3 :Speak truly, on thy knighthood and thy oath; : None
+1.3 :As so defend thee heaven and thy valour! : None
+THOMAS MOWBRAY
+1.3 :My name is Thomas Mowbray, Duke of Norfolk; : None
+1.3 :Who hither come engaged by my oath-- : None
+1.3 :Which God defend a knight should violate!-- : None
+1.3 :Both to defend my loyalty and truth : None
+1.3 :To God, my king and my succeeding issue, : None
+1.3 :Against the Duke of Hereford that appeals me : None
+1.3 :And, by the grace of God and this mine arm, : None
+1.3 :To prove him, in defending of myself, : None
+1.3 :A traitor to my God, my king, and me: : None
+1.3 :And as I truly fight, defend me heaven! : None
+The trumpets sound. Enter HENRY BOLINGBROKE, appellant, in armour, with a Herald : ['None - []', "Enter - ['HENRY BOLINGBROKE']"] : THOMAS MOWBRAY
+KING RICHARD II
+1.3 :Marshal, ask yonder knight in arms, : None
+1.3 :Both who he is and why he cometh hither : None
+1.3 :Thus plated in habiliments of war, : None
+1.3 :And formally, according to our law, : None
+1.3 :Depose him in the justice of his cause. : None
+LORD MARSHAL
+1.3 :What is thy name? and wherefore comest thou hither, : None
+1.3 :Before King Richard in his royal lists? : None
+1.3 :Against whom comest thou? and what's thy quarrel? : None
+1.3 :Speak like a true knight, so defend thee heaven! : None
+HENRY BOLINGBROKE
+1.3 :Harry of Hereford, Lancaster and Derby : None
+1.3 :Am I; who ready here do stand in arms, : None
+1.3 :To prove, by God's grace and my body's valour, : None
+1.3 :In lists, on Thomas Mowbray, Duke of Norfolk, : None
+1.3 :That he is a traitor, foul and dangerous, : None
+1.3 :To God of heaven, King Richard and to me; : None
+1.3 :And as I truly fight, defend me heaven! : None
+LORD MARSHAL
+1.3 :On pain of death, no person be so bold : None
+1.3 :Or daring-hardy as to touch the lists, : None
+1.3 :Except the marshal and such officers : None
+1.3 :Appointed to direct these fair designs. : None
+HENRY BOLINGBROKE
+1.3 :Lord marshal, let me kiss my sovereign's hand, : None
+1.3 :And bow my knee before his majesty: : None
+1.3 :For Mowbray and myself are like two men : None
+1.3 :That vow a long and weary pilgrimage; : None
+1.3 :Then let us take a ceremonious leave : None
+1.3 :And loving farewell of our several friends. : None
+LORD MARSHAL
+1.3 :The appellant in all duty greets your highness, : None
+1.3 :And craves to kiss your hand and take his leave. : None
+KING RICHARD II
+1.3 :We will descend and fold him in our arms. : None
+1.3 :Cousin of Hereford, as thy cause is right, : None
+1.3 :So be thy fortune in this royal fight! : None
+1.3 :Farewell, my blood; which if to-day thou shed, : None
+1.3 :Lament we may, but not revenge thee dead. : None
+HENRY BOLINGBROKE
+1.3 :O let no noble eye profane a tear : None
+1.3 :For me, if I be gored with Mowbray's spear: : None
+1.3 :As confident as is the falcon's flight : None
+1.3 :Against a bird, do I with Mowbray fight. : None
+1.3 :My loving lord, I take my leave of you; : None
+1.3 :Of you, my noble cousin, Lord Aumerle; : None
+1.3 :Not sick, although I have to do with death, : None
+1.3 :But lusty, young, and cheerly drawing breath. : None
+1.3 :Lo, as at English feasts, so I regreet : None
+1.3 :The daintiest last, to make the end most sweet: : None
+1.3 :O thou, the earthly author of my blood, : None
+1.3 :Whose youthful spirit, in me regenerate, : None
+1.3 :Doth with a twofold vigour lift me up : None
+1.3 :To reach at victory above my head, : None
+1.3 :Add proof unto mine armour with thy prayers; : None
+1.3 :And with thy blessings steel my lance's point, : None
+1.3 :That it may enter Mowbray's waxen coat, : None
+1.3 :And furbish new the name of John a Gaunt, : None
+1.3 :Even in the lusty havior of his son. : None
+JOHN OF GAUNT
+1.3 :God in thy good cause make thee prosperous! : None
+1.3 :Be swift like lightning in the execution; : None
+1.3 :And let thy blows, doubly redoubled, : None
+1.3 :Fall like amazing thunder on the casque : None
+1.3 :Of thy adverse pernicious enemy: : None
+1.3 :Rouse up thy youthful blood, be valiant and live. : None
+HENRY BOLINGBROKE
+1.3 :Mine innocency and Saint George to thrive! : None
+THOMAS MOWBRAY
+1.3 :However God or fortune cast my lot, : None
+1.3 :There lives or dies, true to King Richard's throne, : None
+1.3 :A loyal, just and upright gentleman: : None
+1.3 :Never did captive with a freer heart : None
+1.3 :Cast off his chains of bondage and embrace : None
+1.3 :His golden uncontroll'd enfranchisement, : None
+1.3 :More than my dancing soul doth celebrate : None
+1.3 :This feast of battle with mine adversary. : None
+1.3 :Most mighty liege, and my companion peers, : None
+1.3 :Take from my mouth the wish of happy years: : None
+1.3 :As gentle and as jocund as to jest : None
+1.3 :Go I to fight: truth hath a quiet breast. : None
+KING RICHARD II
+1.3 :Farewell, my lord: securely I espy : None
+1.3 :Virtue with valour couched in thine eye. : None
+1.3 :Order the trial, marshal, and begin. : None
+LORD MARSHAL
+1.3 :Harry of Hereford, Lancaster and Derby, : None
+1.3 :Receive thy lance; and God defend the right! : None
+HENRY BOLINGBROKE
+1.3 :Strong as a tower in hope, I cry amen. : None
+LORD MARSHAL
+1.3 :Go bear this lance to Thomas, Duke of Norfolk. : None
+FIRST HERALD
+1.3 :Harry of Hereford, Lancaster and Derby, : None
+1.3 :Stands here for God, his sovereign and himself, : None
+1.3 :On pain to be found false and recreant, : None
+1.3 :To prove the Duke of Norfolk, Thomas Mowbray, : None
+1.3 :A traitor to his God, his king and him; : None
+1.3 :And dares him to set forward to the fight. : None
+SECOND HERALD
+1.3 :Here standeth Thomas Mowbray, Duke of Norfolk, : None
+1.3 :On pain to be found false and recreant, : None
+1.3 :Both to defend himself and to approve : None
+1.3 :Henry of Hereford, Lancaster, and Derby, : None
+1.3 :To God, his sovereign and to him disloyal; : None
+1.3 :Courageously and with a free desire : None
+1.3 :Attending but the signal to begin. : None
+LORD MARSHAL
+1.3 :Sound, trumpets; and set forward, combatants. : None
+A charge sounded : ['None - []'] : LORD MARSHAL
+1.3 :Stay, the king hath thrown his warder down. : None
+KING RICHARD II
+1.3 :Let them lay by their helmets and their spears, : None
+1.3 :And both return back to their chairs again: : None
+1.3 :Withdraw with us: and let the trumpets sound : None
+1.3 :While we return these dukes what we decree. : None
+A long flourish : ['None - []'] : KING RICHARD II
+1.3 :Draw near, : None
+1.3 :And list what with our council we have done. : None
+1.3 :For that our kingdom's earth should not be soil'd : None
+1.3 :With that dear blood which it hath fostered; : None
+1.3 :And for our eyes do hate the dire aspect : None
+1.3 :Of civil wounds plough'd up with neighbours' sword; : None
+1.3 :And for we think the eagle-winged pride : None
+1.3 :Of sky-aspiring and ambitious thoughts, : None
+1.3 :With rival-hating envy, set on you : None
+1.3 :To wake our peace, which in our country's cradle : None
+1.3 :Draws the sweet infant breath of gentle sleep; : None
+1.3 :Which so roused up with boisterous untuned drums, : None
+1.3 :With harsh resounding trumpets' dreadful bray, : None
+1.3 :And grating shock of wrathful iron arms, : None
+1.3 :Might from our quiet confines fright fair peace : None
+1.3 :And make us wade even in our kindred's blood, : None
+1.3 :Therefore, we banish you our territories: : None
+1.3 :You, cousin Hereford, upon pain of life, : None
+1.3 :Till twice five summers have enrich'd our fields : None
+1.3 :Shall not regreet our fair dominions, : None
+1.3 :But tread the stranger paths of banishment. : None
+HENRY BOLINGBROKE
+1.3 :Your will be done: this must my comfort be, : None
+1.3 :Sun that warms you here shall shine on me; : None
+1.3 :And those his golden beams to you here lent : None
+1.3 :Shall point on me and gild my banishment. : None
+KING RICHARD II
+1.3 :Norfolk, for thee remains a heavier doom, : None
+1.3 :Which I with some unwillingness pronounce: : None
+1.3 :The sly slow hours shall not determinate : None
+1.3 :The dateless limit of thy dear exile; : None
+1.3 :The hopeless word of 'never to return' : None
+1.3 :Breathe I against thee, upon pain of life. : None
+THOMAS MOWBRAY
+1.3 :A heavy sentence, my most sovereign liege, : None
+1.3 :And all unlook'd for from your highness' mouth: : None
+1.3 :A dearer merit, not so deep a maim : None
+1.3 :As to be cast forth in the common air, : None
+1.3 :Have I deserved at your highness' hands. : None
+1.3 :The language I have learn'd these forty years, : None
+1.3 :My native English, now I must forego: : None
+1.3 :And now my tongue's use is to me no more : None
+1.3 :Than an unstringed viol or a harp, : None
+1.3 :Or like a cunning instrument cased up, : None
+1.3 :Or, being open, put into his hands : None
+1.3 :That knows no touch to tune the harmony: : None
+1.3 :Within my mouth you have engaol'd my tongue, : None
+1.3 :Doubly portcullis'd with my teeth and lips; : None
+1.3 :And dull unfeeling barren ignorance : None
+1.3 :Is made my gaoler to attend on me. : None
+1.3 :I am too old to fawn upon a nurse, : None
+1.3 :Too far in years to be a pupil now: : None
+1.3 :What is thy sentence then but speechless death, : None
+1.3 :Which robs my tongue from breathing native breath? : None
+KING RICHARD II
+1.3 :It boots thee not to be compassionate: : None
+1.3 :After our sentence plaining comes too late. : None
+THOMAS MOWBRAY
+1.3 :Then thus I turn me from my country's light, : None
+1.3 :To dwell in solemn shades of endless night. : None
+KING RICHARD II
+1.3 :Return again, and take an oath with thee. : None
+1.3 :Lay on our royal sword your banish'd hands; : None
+1.3 :Swear by the duty that you owe to God-- : None
+1.3 :Our part therein we banish with yourselves-- : None
+1.3 :To keep the oath that we administer: : None
+1.3 :You never shall, so help you truth and God! : None
+1.3 :Embrace each other's love in banishment; : None
+1.3 :Nor never look upon each other's face; : None
+1.3 :Nor never write, regreet, nor reconcile : None
+1.3 :This louring tempest of your home-bred hate; : None
+1.3 :Nor never by advised purpose meet : None
+1.3 :To plot, contrive, or complot any ill : None
+1.3 :'Gainst us, our state, our subjects, or our land. : None
+HENRY BOLINGBROKE
+1.3 :I swear. : None
+THOMAS MOWBRAY
+1.3 :And I, to keep all this. : None
+HENRY BOLINGBROKE
+1.3 :Norfolk, so far as to mine enemy:-- : None
+1.3 :By this time, had the king permitted us, : None
+1.3 :One of our souls had wander'd in the air. : None
+1.3 :Banish'd this frail sepulchre of our flesh, : None
+1.3 :As now our flesh is banish'd from this land: : None
+1.3 :Confess thy treasons ere thou fly the realm; : None
+1.3 :Since thou hast far to go, bear not along : None
+1.3 :The clogging burthen of a guilty soul. : None
+THOMAS MOWBRAY
+1.3 :No, Bolingbroke: if ever I were traitor, : None
+1.3 :My name be blotted from the book of life, : None
+1.3 :And I from heaven banish'd as from hence! : None
+1.3 :But what thou art, God, thou, and I do know; : None
+1.3 :And all too soon, I fear, the king shall rue. : None
+1.3 :Farewell, my liege. Now no way can I stray; : None
+1.3 :Save back to England, all the world's my way. : None
+Exit : ['Exit - []'] : THOMAS MOWBRAY
+KING RICHARD II
+1.3 :Uncle, even in the glasses of thine eyes : None
+1.3 :I see thy grieved heart: thy sad aspect : None
+1.3 :Hath from the number of his banish'd years : None
+1.3 :Pluck'd four away. : None
+To HENRY BOLINGBROKE : ["To - ['HENRY BOLINGBROKE']"] : KING RICHARD II
+1.3 :Six frozen winter spent, : None
+1.3 :Return with welcome home from banishment. : None
+HENRY BOLINGBROKE
+1.3 :How long a time lies in one little word! : None
+1.3 :Four lagging winters and four wanton springs : None
+1.3 :End in a word: such is the breath of kings. : None
+JOHN OF GAUNT
+1.3 :I thank my liege, that in regard of me : None
+1.3 :He shortens four years of my son's exile: : None
+1.3 :But little vantage shall I reap thereby; : None
+1.3 :For, ere the six years that he hath to spend : None
+1.3 :Can change their moons and bring their times about : None
+1.3 :My oil-dried lamp and time-bewasted light : None
+1.3 :Shall be extinct with age and endless night; : None
+1.3 :My inch of taper will be burnt and done, : None
+1.3 :And blindfold death not let me see my son. : None
+KING RICHARD II
+1.3 :Why uncle, thou hast many years to live. : None
+JOHN OF GAUNT
+1.3 :But not a minute, king, that thou canst give: : None
+1.3 :Shorten my days thou canst with sullen sorrow, : None
+1.3 :And pluck nights from me, but not lend a morrow; : None
+1.3 :Thou canst help time to furrow me with age, : None
+1.3 :But stop no wrinkle in his pilgrimage; : None
+1.3 :Thy word is current with him for my death, : None
+1.3 :But dead, thy kingdom cannot buy my breath. : None
+KING RICHARD II
+1.3 :Thy son is banish'd upon good advice, : None
+1.3 :Whereto thy tongue a party-verdict gave: : None
+1.3 :Why at our justice seem'st thou then to lour? : None
+JOHN OF GAUNT
+1.3 :Things sweet to taste prove in digestion sour. : None
+1.3 :You urged me as a judge; but I had rather : None
+1.3 :You would have bid me argue like a father. : None
+1.3 :O, had it been a stranger, not my child, : None
+1.3 :To smooth his fault I should have been more mild: : None
+1.3 :A partial slander sought I to avoid, : None
+1.3 :And in the sentence my own life destroy'd. : None
+1.3 :Alas, I look'd when some of you should say, : None
+1.3 :I was too strict to make mine own away; : None
+1.3 :But you gave leave to my unwilling tongue : None
+1.3 :Against my will to do myself this wrong. : None
+KING RICHARD II
+1.3 :Cousin, farewell; and, uncle, bid him so: : None
+1.3 :Six years we banish him, and he shall go. : None
+Flourish. Exeunt KING RICHARD II and train : ['None - []', "Exeunt - ['KING RICHARD II']"] : KING RICHARD II
+DUKE OF AUMERLE
+1.3 :Cousin, farewell: what presence must not know, : None
+1.3 :From where you do remain let paper show. : None
+LORD MARSHAL
+1.3 :My lord, no leave take I; for I will ride, : None
+1.3 :As far as land will let me, by your side. : None
+JOHN OF GAUNT
+1.3 :O, to what purpose dost thou hoard thy words, : None
+1.3 :That thou return'st no greeting to thy friends? : None
+HENRY BOLINGBROKE
+1.3 :I have too few to take my leave of you, : None
+1.3 :When the tongue's office should be prodigal : None
+1.3 :To breathe the abundant dolour of the heart. : None
+JOHN OF GAUNT
+1.3 :Thy grief is but thy absence for a time. : None
+HENRY BOLINGBROKE
+1.3 :Joy absent, grief is present for that time. : None
+JOHN OF GAUNT
+1.3 :What is six winters? they are quickly gone. : None
+HENRY BOLINGBROKE
+1.3 :To men in joy; but grief makes one hour ten. : None
+JOHN OF GAUNT
+1.3 :Call it a travel that thou takest for pleasure. : None
+HENRY BOLINGBROKE
+1.3 :My heart will sigh when I miscall it so, : None
+1.3 :Which finds it an inforced pilgrimage. : None
+JOHN OF GAUNT
+1.3 :The sullen passage of thy weary steps : None
+1.3 :Esteem as foil wherein thou art to set : None
+1.3 :The precious jewel of thy home return. : None
+HENRY BOLINGBROKE
+1.3 :Nay, rather, every tedious stride I make : None
+1.3 :Will but remember me what a deal of world : None
+1.3 :I wander from the jewels that I love. : None
+1.3 :Must I not serve a long apprenticehood : None
+1.3 :To foreign passages, and in the end, : None
+1.3 :Having my freedom, boast of nothing else : None
+1.3 :But that I was a journeyman to grief? : None
+JOHN OF GAUNT
+1.3 :All places that the eye of heaven visits : None
+1.3 :Are to a wise man ports and happy havens. : None
+1.3 :Teach thy necessity to reason thus; : None
+1.3 :There is no virtue like necessity. : None
+1.3 :Think not the king did banish thee, : None
+1.3 :But thou the king. Woe doth the heavier sit, : None
+1.3 :Where it perceives it is but faintly borne. : None
+1.3 :Go, say I sent thee forth to purchase honour : None
+1.3 :And not the king exiled thee; or suppose : None
+1.3 :Devouring pestilence hangs in our air : None
+1.3 :And thou art flying to a fresher clime: : None
+1.3 :Look, what thy soul holds dear, imagine it : None
+1.3 :To lie that way thou go'st, not whence thou comest: : None
+1.3 :Suppose the singing birds musicians, : None
+1.3 :The grass whereon thou tread'st the presence strew'd, : None
+1.3 :The flowers fair ladies, and thy steps no more : None
+1.3 :Than a delightful measure or a dance; : None
+1.3 :For gnarling sorrow hath less power to bite : None
+1.3 :The man that mocks at it and sets it light. : None
+HENRY BOLINGBROKE
+1.3 :O, who can hold a fire in his hand : None
+1.3 :By thinking on the frosty Caucasus? : None
+1.3 :Or cloy the hungry edge of appetite : None
+1.3 :By bare imagination of a feast? : None
+1.3 :Or wallow naked in December snow : None
+1.3 :By thinking on fantastic summer's heat? : None
+1.3 :O, no! the apprehension of the good : None
+1.3 :Gives but the greater feeling to the worse: : None
+1.3 :Fell sorrow's tooth doth never rankle more : None
+1.3 :Than when he bites, but lanceth not the sore. : None
+JOHN OF GAUNT
+1.3 :Come, come, my son, I'll bring thee on thy way: : None
+1.3 :Had I thy youth and cause, I would not stay. : None
+HENRY BOLINGBROKE
+1.3 :Then, England's ground, farewell; sweet soil, adieu; : None
+1.3 :My mother, and my nurse, that bears me yet! : None
+1.3 :Where'er I wander, boast of this I can, : None
+1.3 :Though banish'd, yet a trueborn Englishman. : None
+Exeunt : ['Exeunt - []'] : HENRY BOLINGBROKE
+Scene(scene=4)
+Enter KING RICHARD II, with BAGOT and GREEN at one door; and the DUKE OF AUMERLE at another : ["Enter - ['KING RICHARD II', 'BAGOT', 'GREEN', 'DUKE OF AUMERLE']"] : HENRY BOLINGBROKE
+KING RICHARD II
+1.4 :We did observe. Cousin Aumerle, : None
+1.4 :How far brought you high Hereford on his way? : None
+DUKE OF AUMERLE
+1.4 :I brought high Hereford, if you call him so, : None
+1.4 :But to the next highway, and there I left him. : None
+KING RICHARD II
+1.4 :And say, what store of parting tears were shed? : None
+DUKE OF AUMERLE
+1.4 :Faith, none for me; except the north-east wind, : None
+1.4 :Which then blew bitterly against our faces, : None
+1.4 :Awaked the sleeping rheum, and so by chance : None
+1.4 :Did grace our hollow parting with a tear. : None
+KING RICHARD II
+1.4 :What said our cousin when you parted with him? : None
+DUKE OF AUMERLE
+1.4 :'Farewell:' : None
+1.4 :And, for my heart disdained that my tongue : None
+1.4 :Should so profane the word, that taught me craft : None
+1.4 :To counterfeit oppression of such grief : None
+1.4 :That words seem'd buried in my sorrow's grave. : None
+1.4 :Marry, would the word 'farewell' have lengthen'd hours : None
+1.4 :And added years to his short banishment, : None
+1.4 :He should have had a volume of farewells; : None
+1.4 :But since it would not, he had none of me. : None
+KING RICHARD II
+1.4 :He is our cousin, cousin; but 'tis doubt, : None
+1.4 :When time shall call him home from banishment, : None
+1.4 :Whether our kinsman come to see his friends. : None
+1.4 :Ourself and Bushy, Bagot here and Green : None
+1.4 :Observed his courtship to the common people; : None
+1.4 :How he did seem to dive into their hearts : None
+1.4 :With humble and familiar courtesy, : None
+1.4 :What reverence he did throw away on slaves, : None
+1.4 :Wooing poor craftsmen with the craft of smiles : None
+1.4 :And patient underbearing of his fortune, : None
+1.4 :As 'twere to banish their affects with him. : None
+1.4 :Off goes his bonnet to an oyster-wench; : None
+1.4 :A brace of draymen bid God speed him well : None
+1.4 :And had the tribute of his supple knee, : None
+1.4 :With 'Thanks, my countrymen, my loving friends;' : None
+1.4 :As were our England in reversion his, : None
+1.4 :And he our subjects' next degree in hope. : None
+GREEN
+1.4 :Well, he is gone; and with him go these thoughts. : None
+1.4 :Now for the rebels which stand out in Ireland, : None
+1.4 :Expedient manage must be made, my liege, : None
+1.4 :Ere further leisure yield them further means : None
+1.4 :For their advantage and your highness' loss. : None
+KING RICHARD II
+1.4 :We will ourself in person to this war: : None
+1.4 :And, for our coffers, with too great a court : None
+1.4 :And liberal largess, are grown somewhat light, : None
+1.4 :We are inforced to farm our royal realm; : None
+1.4 :The revenue whereof shall furnish us : None
+1.4 :For our affairs in hand: if that come short, : None
+1.4 :Our substitutes at home shall have blank charters; : None
+1.4 :Whereto, when they shall know what men are rich, : None
+1.4 :They shall subscribe them for large sums of gold : None
+1.4 :And send them after to supply our wants; : None
+1.4 :For we will make for Ireland presently. : None
+Enter BUSHY : ["Enter - ['BUSHY']"] : KING RICHARD II
+1.4 :Bushy, what news? : None
+BUSHY
+1.4 :Old John of Gaunt is grievous sick, my lord, : None
+1.4 :Suddenly taken; and hath sent post haste : None
+1.4 :To entreat your majesty to visit him. : None
+KING RICHARD II
+1.4 :Where lies he? : None
+BUSHY
+1.4 :At Ely House. : None
+KING RICHARD II
+1.4 :Now put it, God, in the physician's mind : None
+1.4 :To help him to his grave immediately! : None
+1.4 :The lining of his coffers shall make coats : None
+1.4 :To deck our soldiers for these Irish wars. : None
+1.4 :Come, gentlemen, let's all go visit him: : None
+1.4 :Pray God we may make haste, and come too late! : None
+ALL
+1.4 :Amen. : None
+Exeunt : ['Exeunt - []'] : ALL
+Act(act=2)
+Scene(scene=1)
+Enter JOHN OF GAUNT sick, with the DUKE OF YORK, & c : ["Enter - ['JOHN OF GAUNT', 'DUKE OF YORK']"] : ALL
+JOHN OF GAUNT
+2.1 :Will the king come, that I may breathe my last : None
+2.1 :In wholesome counsel to his unstaid youth? : None
+DUKE OF YORK
+2.1 :Vex not yourself, nor strive not with your breath; : None
+2.1 :For all in vain comes counsel to his ear. : None
+JOHN OF GAUNT
+2.1 :O, but they say the tongues of dying men : None
+2.1 :Enforce attention like deep harmony: : None
+2.1 :Where words are scarce, they are seldom spent in vain, : None
+2.1 :For they breathe truth that breathe their words in pain. : None
+2.1 :He that no more must say is listen'd more : None
+2.1 :Than they whom youth and ease have taught to glose; : None
+2.1 :More are men's ends mark'd than their lives before: : None
+2.1 :The setting sun, and music at the close, : None
+2.1 :As the last taste of sweets, is sweetest last, : None
+2.1 :Writ in remembrance more than things long past: : None
+2.1 :Though Richard my life's counsel would not hear, : None
+2.1 :My death's sad tale may yet undeaf his ear. : None
+DUKE OF YORK
+2.1 :No; it is stopp'd with other flattering sounds, : None
+2.1 :As praises, of whose taste the wise are fond, : None
+2.1 :Lascivious metres, to whose venom sound : None
+2.1 :The open ear of youth doth always listen; : None
+2.1 :Report of fashions in proud Italy, : None
+2.1 :Whose manners still our tardy apish nation : None
+2.1 :Limps after in base imitation. : None
+2.1 :Where doth the world thrust forth a vanity-- : None
+2.1 :So it be new, there's no respect how vile-- : None
+2.1 :That is not quickly buzzed into his ears? : None
+2.1 :Then all too late comes counsel to be heard, : None
+2.1 :Where will doth mutiny with wit's regard. : None
+2.1 :Direct not him whose way himself will choose: : None
+2.1 :'Tis breath thou lack'st, and that breath wilt thou lose. : None
+JOHN OF GAUNT
+2.1 :Methinks I am a prophet new inspired : None
+2.1 :And thus expiring do foretell of him: : None
+2.1 :His rash fierce blaze of riot cannot last, : None
+2.1 :For violent fires soon burn out themselves; : None
+2.1 :Small showers last long, but sudden storms are short; : None
+2.1 :He tires betimes that spurs too fast betimes; : None
+2.1 :With eager feeding food doth choke the feeder: : None
+2.1 :Light vanity, insatiate cormorant, : None
+2.1 :Consuming means, soon preys upon itself. : None
+2.1 :This royal throne of kings, this scepter'd isle, : None
+2.1 :This earth of majesty, this seat of Mars, : None
+2.1 :This other Eden, demi-paradise, : None
+2.1 :This fortress built by Nature for herself : None
+2.1 :Against infection and the hand of war, : None
+2.1 :This happy breed of men, this little world, : None
+2.1 :This precious stone set in the silver sea, : None
+2.1 :Which serves it in the office of a wall, : None
+2.1 :Or as a moat defensive to a house, : None
+2.1 :Against the envy of less happier lands, : None
+2.1 :This blessed plot, this earth, this realm, this England, : None
+2.1 :This nurse, this teeming womb of royal kings, : None
+2.1 :Fear'd by their breed and famous by their birth, : None
+2.1 :Renowned for their deeds as far from home, : None
+2.1 :For Christian service and true chivalry, : None
+2.1 :As is the sepulchre in stubborn Jewry, : None
+2.1 :Of the world's ransom, blessed Mary's Son, : None
+2.1 :This land of such dear souls, this dear dear land, : None
+2.1 :Dear for her reputation through the world, : None
+2.1 :Is now leased out, I die pronouncing it, : None
+2.1 :Like to a tenement or pelting farm: : None
+2.1 :England, bound in with the triumphant sea : None
+2.1 :Whose rocky shore beats back the envious siege : None
+2.1 :Of watery Neptune, is now bound in with shame, : None
+2.1 :With inky blots and rotten parchment bonds: : None
+2.1 :That England, that was wont to conquer others, : None
+2.1 :Hath made a shameful conquest of itself. : None
+2.1 :Ah, would the scandal vanish with my life, : None
+2.1 :How happy then were my ensuing death! : None
+Enter KING RICHARD II and QUEEN, DUKE OF AUMERLE,  BUSHY, GREEN, BAGOT, LORD ROSS, and LORD WILLOUGHBY : ["Enter - ['KING RICHARD II', 'QUEEN', 'DUKE OF AUMERLE', 'BUSHY', 'GREEN', 'BAGOT', 'LORD ROSS', 'LORD WILLOUGHBY']"] : JOHN OF GAUNT
+DUKE OF YORK
+2.1 :The king is come: deal mildly with his youth; : None
+2.1 :For young hot colts being raged do rage the more. : None
+QUEEN
+2.1 :How fares our noble uncle, Lancaster? : None
+KING RICHARD II
+2.1 :What comfort, man? how is't with aged Gaunt? : None
+JOHN OF GAUNT
+2.1 :O how that name befits my composition! : None
+2.1 :Old Gaunt indeed, and gaunt in being old: : None
+2.1 :Within me grief hath kept a tedious fast; : None
+2.1 :And who abstains from meat that is not gaunt? : None
+2.1 :For sleeping England long time have I watch'd; : None
+2.1 :Watching breeds leanness, leanness is all gaunt: : None
+2.1 :The pleasure that some fathers feed upon, : None
+2.1 :Is my strict fast; I mean, my children's looks; : None
+2.1 :And therein fasting, hast thou made me gaunt: : None
+2.1 :Gaunt am I for the grave, gaunt as a grave, : None
+2.1 :Whose hollow womb inherits nought but bones. : None
+KING RICHARD II
+2.1 :Can sick men play so nicely with their names? : None
+JOHN OF GAUNT
+2.1 :No, misery makes sport to mock itself: : None
+2.1 :Since thou dost seek to kill my name in me, : None
+2.1 :I mock my name, great king, to flatter thee. : None
+KING RICHARD II
+2.1 :Should dying men flatter with those that live? : None
+JOHN OF GAUNT
+2.1 :No, no, men living flatter those that die. : None
+KING RICHARD II
+2.1 :Thou, now a-dying, say'st thou flatterest me. : None
+JOHN OF GAUNT
+2.1 :O, no! thou diest, though I the sicker be. : None
+KING RICHARD II
+2.1 :I am in health, I breathe, and see thee ill. : None
+JOHN OF GAUNT
+2.1 :Now He that made me knows I see thee ill; : None
+2.1 :Ill in myself to see, and in thee seeing ill. : None
+2.1 :Thy death-bed is no lesser than thy land : None
+2.1 :Wherein thou liest in reputation sick; : None
+2.1 :And thou, too careless patient as thou art, : None
+2.1 :Commit'st thy anointed body to the cure : None
+2.1 :Of those physicians that first wounded thee: : None
+2.1 :A thousand flatterers sit within thy crown, : None
+2.1 :Whose compass is no bigger than thy head; : None
+2.1 :And yet, incaged in so small a verge, : None
+2.1 :The waste is no whit lesser than thy land. : None
+2.1 :O, had thy grandsire with a prophet's eye : None
+2.1 :Seen how his son's son should destroy his sons, : None
+2.1 :From forth thy reach he would have laid thy shame, : None
+2.1 :Deposing thee before thou wert possess'd, : None
+2.1 :Which art possess'd now to depose thyself. : None
+2.1 :Why, cousin, wert thou regent of the world, : None
+2.1 :It were a shame to let this land by lease; : None
+2.1 :But for thy world enjoying but this land, : None
+2.1 :Is it not more than shame to shame it so? : None
+2.1 :Landlord of England art thou now, not king: : None
+2.1 :Thy state of law is bondslave to the law; And thou-- : None
+KING RICHARD II
+2.1 :         A lunatic lean-witted fool, : None
+2.1 :Presuming on an ague's privilege, : None
+2.1 :Darest with thy frozen admonition : None
+2.1 :Make pale our cheek, chasing the royal blood : None
+2.1 :With fury from his native residence. : None
+2.1 :Now, by my seat's right royal majesty, : None
+2.1 :Wert thou not brother to great Edward's son, : None
+2.1 :This tongue that runs so roundly in thy head : None
+2.1 :Should run thy head from thy unreverent shoulders. : None
+JOHN OF GAUNT
+2.1 :O, spare me not, my brother Edward's son, : None
+2.1 :For that I was his father Edward's son; : None
+2.1 :That blood already, like the pelican, : None
+2.1 :Hast thou tapp'd out and drunkenly caroused: : None
+2.1 :My brother Gloucester, plain well-meaning soul, : None
+2.1 :Whom fair befal in heaven 'mongst happy souls! : None
+2.1 :May be a precedent and witness good : None
+2.1 :That thou respect'st not spilling Edward's blood: : None
+2.1 :Join with the present sickness that I have; : None
+2.1 :And thy unkindness be like crooked age, : None
+2.1 :To crop at once a too long wither'd flower. : None
+2.1 :Live in thy shame, but die not shame with thee! : None
+2.1 :These words hereafter thy tormentors be! : None
+2.1 :Convey me to my bed, then to my grave: : None
+2.1 :Love they to live that love and honour have. : None
+Exit, borne off by his Attendants : ['Exit - []'] : JOHN OF GAUNT
+KING RICHARD II
+2.1 :And let them die that age and sullens have; : None
+2.1 :For both hast thou, and both become the grave. : None
+DUKE OF YORK
+2.1 :I do beseech your majesty, impute his words : None
+2.1 :To wayward sickliness and age in him: : None
+2.1 :He loves you, on my life, and holds you dear : None
+2.1 :As Harry Duke of Hereford, were he here. : None
+KING RICHARD II
+2.1 :Right, you say true: as Hereford's love, so his; : None
+2.1 :As theirs, so mine; and all be as it is. : None
+Enter NORTHUMBERLAND : ["Enter - ['NORTHUMBERLAND']"] : KING RICHARD II
+NORTHUMBERLAND
+2.1 :My liege, old Gaunt commends him to your majesty. : None
+KING RICHARD II
+2.1 :What says he? : None
+NORTHUMBERLAND
+2.1 :                  Nay, nothing; all is said : None
+2.1 :His tongue is now a stringless instrument; : None
+2.1 :Words, life and all, old Lancaster hath spent. : None
+DUKE OF YORK
+2.1 :Be York the next that must be bankrupt so! : None
+2.1 :Though death be poor, it ends a mortal woe. : None
+KING RICHARD II
+2.1 :The ripest fruit first falls, and so doth he; : None
+2.1 :His time is spent, our pilgrimage must be. : None
+2.1 :So much for that. Now for our Irish wars: : None
+2.1 :We must supplant those rough rug-headed kerns, : None
+2.1 :Which live like venom where no venom else : None
+2.1 :But only they have privilege to live. : None
+2.1 :And for these great affairs do ask some charge, : None
+2.1 :Towards our assistance we do seize to us : None
+2.1 :The plate, corn, revenues and moveables, : None
+2.1 :Whereof our uncle Gaunt did stand possess'd. : None
+DUKE OF YORK
+2.1 :How long shall I be patient? ah, how long : None
+2.1 :Shall tender duty make me suffer wrong? : None
+2.1 :Not Gloucester's death, nor Hereford's banishment : None
+2.1 :Not Gaunt's rebukes, nor England's private wrongs, : None
+2.1 :Nor the prevention of poor Bolingbroke : None
+2.1 :About his marriage, nor my own disgrace, : None
+2.1 :Have ever made me sour my patient cheek, : None
+2.1 :Or bend one wrinkle on my sovereign's face. : None
+2.1 :I am the last of noble Edward's sons, : None
+2.1 :Of whom thy father, Prince of Wales, was first: : None
+2.1 :In war was never lion raged more fierce, : None
+2.1 :In peace was never gentle lamb more mild, : None
+2.1 :Than was that young and princely gentleman. : None
+2.1 :His face thou hast, for even so look'd he, : None
+2.1 :Accomplish'd with the number of thy hours; : None
+2.1 :But when he frown'd, it was against the French : None
+2.1 :And not against his friends; his noble hand : None
+2.1 :Did will what he did spend and spent not that : None
+2.1 :Which his triumphant father's hand had won; : None
+2.1 :His hands were guilty of no kindred blood, : None
+2.1 :But bloody with the enemies of his kin. : None
+2.1 :O Richard! York is too far gone with grief, : None
+2.1 :Or else he never would compare between. : None
+KING RICHARD II
+2.1 :Why, uncle, what's the matter? : None
+DUKE OF YORK
+2.1 :O my liege, : None
+2.1 :Pardon me, if you please; if n ot, I, pleased : None
+2.1 :Not to be pardon'd, am content withal. : None
+2.1 :Seek you to seize and gripe into your hands : None
+2.1 :The royalties and rights of banish'd Hereford? : None
+2.1 :Is not Gaunt dead, and doth not Hereford live? : None
+2.1 :Was not Gaunt just, and is not Harry true? : None
+2.1 :Did not the one deserve to have an heir? : None
+2.1 :Is not his heir a well-deserving son? : None
+2.1 :Take Hereford's rights away, and take from Time : None
+2.1 :His charters and his customary rights; : None
+2.1 :Let not to-morrow then ensue to-day; : None
+2.1 :Be not thyself; for how art thou a king : None
+2.1 :But by fair sequence and succession? : None
+2.1 :Now, afore God--God forbid I say true!-- : None
+2.1 :If you do wrongfully seize Hereford's rights, : None
+2.1 :Call in the letters patent that he hath : None
+2.1 :By his attorneys-general to sue : None
+2.1 :His livery, and deny his offer'd homage, : None
+2.1 :You pluck a thousand dangers on your head, : None
+2.1 :You lose a thousand well-disposed hearts : None
+2.1 :And prick my tender patience, to those thoughts : None
+2.1 :Which honour and allegiance cannot think. : None
+KING RICHARD II
+2.1 :Think what you will, we seize into our hands : None
+2.1 :His plate, his goods, his money and his lands. : None
+DUKE OF YORK
+2.1 :I'll not be by the while: my liege, farewell: : None
+2.1 :What will ensue hereof, there's none can tell; : None
+2.1 :But by bad courses may be understood : None
+2.1 :That their events can never fall out good. : None
+Exit : ['Exit - []'] : DUKE OF YORK
+KING RICHARD II
+2.1 :Go, Bushy, to the Earl of Wiltshire straight: : None
+2.1 :Bid him repair to us to Ely House : None
+2.1 :To see this business. To-morrow next : None
+2.1 :We will for Ireland; and 'tis time, I trow: : None
+2.1 :And we create, in absence of ourself, : None
+2.1 :Our uncle York lord governor of England; : None
+2.1 :For he is just and always loved us well. : None
+2.1 :Come on, our queen: to-morrow must we part; : None
+2.1 :Be merry, for our time of stay is short : None
+Flourish. Exeunt KING RICHARD II, QUEEN, DUKE OF AUMERLE, BUSHY, GREEN, and BAGOT : ['None - []', "Exeunt - ['KING RICHARD II', 'QUEEN', 'DUKE OF AUMERLE', 'BUSHY', 'GREEN', 'BAGOT']"] : KING RICHARD II
+NORTHUMBERLAND
+2.1 :Well, lords, the Duke of Lancaster is dead. : None
+LORD ROSS
+2.1 :And living too; for now his son is duke. : None
+LORD WILLOUGHBY
+2.1 :Barely in title, not in revenue. : None
+NORTHUMBERLAND
+2.1 :Richly in both, if justice had her right. : None
+LORD ROSS
+2.1 :My heart is great; but it must break with silence, : None
+2.1 :Ere't be disburden'd with a liberal tongue. : None
+NORTHUMBERLAND
+2.1 :Nay, speak thy mind; and let him ne'er speak more : None
+2.1 :That speaks thy words again to do thee harm! : None
+LORD WILLOUGHBY
+2.1 :Tends that thou wouldst speak to the Duke of Hereford? : None
+2.1 :If it be so, out with it boldly, man; : None
+2.1 :Quick is mine ear to hear of good towards him. : None
+LORD ROSS
+2.1 :No good at all that I can do for him; : None
+2.1 :Unless you call it good to pity him, : None
+2.1 :Bereft and gelded of his patrimony. : None
+NORTHUMBERLAND
+2.1 :Now, afore God, 'tis shame such wrongs are borne : None
+2.1 :In him, a royal prince, and many moe : None
+2.1 :Of noble blood in this declining land. : None
+2.1 :The king is not himself, but basely led : None
+2.1 :By flatterers; and what they will inform, : None
+2.1 :Merely in hate, 'gainst any of us all, : None
+2.1 :That will the king severely prosecute : None
+2.1 :'Gainst us, our lives, our children, and our heirs. : None
+LORD ROSS
+2.1 :The commons hath he pill'd with grievous taxes, : None
+2.1 :And quite lost their hearts: the nobles hath he fined : None
+2.1 :For ancient quarrels, and quite lost their hearts. : None
+LORD WILLOUGHBY
+2.1 :And daily new exactions are devised, : None
+2.1 :As blanks, benevolences, and I wot not what: : None
+2.1 :But what, o' God's name, doth become of this? : None
+NORTHUMBERLAND
+2.1 :Wars have not wasted it, for warr'd he hath not, : None
+2.1 :But basely yielded upon compromise : None
+2.1 :That which his noble ancestors achieved with blows: : None
+2.1 :More hath he spent in peace than they in wars. : None
+LORD ROSS
+2.1 :The Earl of Wiltshire hath the realm in farm. : None
+LORD WILLOUGHBY
+2.1 :The king's grown bankrupt, like a broken man. : None
+NORTHUMBERLAND
+2.1 :Reproach and dissolution hangeth over him. : None
+LORD ROSS
+2.1 :He hath not money for these Irish wars, : None
+2.1 :His burthenous taxations notwithstanding, : None
+2.1 :But by the robbing of the banish'd duke. : None
+NORTHUMBERLAND
+2.1 :His noble kinsman: most degenerate king! : None
+2.1 :But, lords, we hear this fearful tempest sing, : None
+2.1 :Yet see no shelter to avoid the storm; : None
+2.1 :We see the wind sit sore upon our sails, : None
+2.1 :And yet we strike not, but securely perish. : None
+LORD ROSS
+2.1 :We see the very wreck that we must suffer; : None
+2.1 :And unavoided is the danger now, : None
+2.1 :For suffering so the causes of our wreck. : None
+NORTHUMBERLAND
+2.1 :Not so; even through the hollow eyes of death : None
+2.1 :I spy life peering; but I dare not say : None
+2.1 :How near the tidings of our comfort is. : None
+LORD WILLOUGHBY
+2.1 :Nay, let us share thy thoughts, as thou dost ours. : None
+LORD ROSS
+2.1 :Be confident to speak, Northumberland: : None
+2.1 :We three are but thyself; and, speaking so, : None
+2.1 :Thy words are but as thoughts; therefore, be bold. : None
+NORTHUMBERLAND
+2.1 :Then thus: I have from Port le Blanc, a bay : None
+2.1 :In Brittany, received intelligence : None
+2.1 :That Harry Duke of Hereford, Rainold Lord Cobham, : None
+2.1 :That late broke from the Duke of Exeter, : None
+2.1 :His brother, Archbishop late of Canterbury, : None
+2.1 :Sir Thomas Erpingham, Sir John Ramston, : None
+2.1 :Sir John Norbery, Sir Robert Waterton and Francis Quoint, : None
+2.1 :All these well furnish'd by the Duke of Bretagne : None
+2.1 :With eight tall ships, three thousand men of war, : None
+2.1 :Are making hither with all due expedience : None
+2.1 :And shortly mean to touch our northern shore: : None
+2.1 :Perhaps they had ere this, but that they stay : None
+2.1 :The first departing of the king for Ireland. : None
+2.1 :If then we shall shake off our slavish yoke, : None
+2.1 :Imp out our drooping country's broken wing, : None
+2.1 :Redeem from broking pawn the blemish'd crown, : None
+2.1 :Wipe off the dust that hides our sceptre's gilt : None
+2.1 :And make high majesty look like itself, : None
+2.1 :Away with me in post to Ravenspurgh; : None
+2.1 :But if you faint, as fearing to do so, : None
+2.1 :Stay and be secret, and myself will go. : None
+LORD ROSS
+2.1 :To horse, to horse! urge doubts to them that fear. : None
+LORD WILLOUGHBY
+2.1 :Hold out my horse, and I will first be there. : None
+Exeunt : ['Exeunt - []'] : LORD WILLOUGHBY
+Scene(scene=2)
+Enter QUEEN, BUSHY, and BAGOT : ["Enter - ['QUEEN', 'BUSHY', 'BAGOT']"] : LORD WILLOUGHBY
+BUSHY
+2.2 :Madam, your majesty is too much sad: : None
+2.2 :You promised, when you parted with the king, : None
+2.2 :To lay aside life-harming heaviness : None
+2.2 :And entertain a cheerful disposition. : None
+QUEEN
+2.2 :To please the king I did; to please myself : None
+2.2 :I cannot do it; yet I know no cause : None
+2.2 :Why I should welcome such a guest as grief, : None
+2.2 :Save bidding farewell to so sweet a guest : None
+2.2 :As my sweet Richard: yet again, methinks, : None
+2.2 :Some unborn sorrow, ripe in fortune's womb, : None
+2.2 :Is coming towards me, and my inward soul : None
+2.2 :With nothing trembles: at some thing it grieves, : None
+2.2 :More than with parting from my lord the king. : None
+BUSHY
+2.2 :Each substance of a grief hath twenty shadows, : None
+2.2 :Which shows like grief itself, but is not so; : None
+2.2 :For sorrow's eye, glazed with blinding tears, : None
+2.2 :Divides one thing entire to many objects; : None
+2.2 :Like perspectives, which rightly gazed upon : None
+2.2 :Show nothing but confusion, eyed awry : None
+2.2 :Distinguish form: so your sweet majesty, : None
+2.2 :Looking awry upon your lord's departure, : None
+2.2 :Find shapes of grief, more than himself, to wail; : None
+2.2 :Which, look'd on as it is, is nought but shadows : None
+2.2 :Of what it is not. Then, thrice-gracious queen, : None
+2.2 :More than your lord's departure weep not: more's not seen; : None
+2.2 :Or if it be, 'tis with false sorrow's eye, : None
+2.2 :Which for things true weeps things imaginary. : None
+QUEEN
+2.2 :It may be so; but yet my inward soul : None
+2.2 :Persuades me it is otherwise: howe'er it be, : None
+2.2 :I cannot but be sad; so heavy sad : None
+2.2 :As, though on thinking on no thought I think, : None
+2.2 :Makes me with heavy nothing faint and shrink. : None
+BUSHY
+2.2 :'Tis nothing but conceit, my gracious lady. : None
+QUEEN
+2.2 :'Tis nothing less: conceit is still derived : None
+2.2 :From some forefather grief; mine is not so, : None
+2.2 :For nothing had begot my something grief; : None
+2.2 :Or something hath the nothing that I grieve: : None
+2.2 :'Tis in reversion that I do possess; : None
+2.2 :But what it is, that is not yet known; what : None
+2.2 :I cannot name; 'tis nameless woe, I wot. : None
+Enter GREEN : ["Enter - ['GREEN']"] : QUEEN
+GREEN
+2.2 :God save your majesty! and well met, gentlemen: : None
+2.2 :I hope the king is not yet shipp'd for Ireland. : None
+QUEEN
+2.2 :Why hopest thou so? 'tis better hope he is; : None
+2.2 :For his designs crave haste, his haste good hope: : None
+2.2 :Then wherefore dost thou hope he is not shipp'd? : None
+GREEN
+2.2 :That he, our hope, might have retired his power, : None
+2.2 :And driven into despair an enemy's hope, : None
+2.2 :Who strongly hath set footing in this land: : None
+2.2 :The banish'd Bolingbroke repeals himself, : None
+2.2 :And with uplifted arms is safe arrived : None
+2.2 :At Ravenspurgh. : None
+QUEEN
+2.2 :                  Now God in heaven forbid! : None
+GREEN
+2.2 :Ah, madam, 'tis too true: and that is worse, : None
+2.2 :The Lord Northumberland, his son young Henry Percy, : None
+2.2 :The Lords of Ross, Beaumond, and Willoughby, : None
+2.2 :With all their powerful friends, are fled to him. : None
+BUSHY
+2.2 :Why have you not proclaim'd Northumberland : None
+2.2 :And all the rest revolted faction traitors? : None
+GREEN
+2.2 :We have: whereupon the Earl of Worcester : None
+2.2 :Hath broke his staff, resign'd his stewardship, : None
+2.2 :And all the household servants fled with him : None
+2.2 :To Bolingbroke. : None
+QUEEN
+2.2 :So, Green, thou art the midwife to my woe, : None
+2.2 :And Bolingbroke my sorrow's dismal heir: : None
+2.2 :Now hath my soul brought forth her prodigy, : None
+2.2 :And I, a gasping new-deliver'd mother, : None
+2.2 :Have woe to woe, sorrow to sorrow join'd. : None
+BUSHY
+2.2 :Despair not, madam. : None
+QUEEN
+2.2 :Who shall hinder me? : None
+2.2 :I will despair, and be at enmity : None
+2.2 :With cozening hope: he is a flatterer, : None
+2.2 :A parasite, a keeper back of death, : None
+2.2 :Who gently would dissolve the bands of life, : None
+2.2 :Which false hope lingers in extremity. : None
+Enter DUKE OF YORK : ["Enter - ['DUKE OF YORK']"] : QUEEN
+GREEN
+2.2 :Here comes the Duke of York. : None
+QUEEN
+2.2 :With signs of war about his aged neck: : None
+2.2 :O, full of careful business are his looks! : None
+2.2 :Uncle, for God's sake, speak comfortable words. : None
+DUKE OF YORK
+2.2 :Should I do so, I should belie my thoughts: : None
+2.2 :Comfort's in heaven; and we are on the earth, : None
+2.2 :Where nothing lives but crosses, cares and grief. : None
+2.2 :Your husband, he is gone to save far off, : None
+2.2 :Whilst others come to make him lose at home: : None
+2.2 :Here am I left to underprop his land, : None
+2.2 :Who, weak with age, cannot support myself: : None
+2.2 :Now comes the sick hour that his surfeit made; : None
+2.2 :Now shall he try his friends that flatter'd him. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : DUKE OF YORK
+SERVANT
+2.2 :My lord, your son was gone before I came. : None
+DUKE OF YORK
+2.2 :He was? Why, so! go all which way it will! : None
+2.2 :The nobles they are fled, the commons they are cold, : None
+2.2 :And will, I fear, revolt on Hereford's side. : None
+2.2 :Sirrah, get thee to Plashy, to my sister Gloucester; : None
+2.2 :Bid her send me presently a thousand pound: : None
+2.2 :Hold, take my ring. : None
+SERVANT
+2.2 :My lord, I had forgot to tell your lordship, : None
+2.2 :To-day, as I came by, I called there; : None
+2.2 :But I shall grieve you to report the rest. : None
+DUKE OF YORK
+2.2 :What is't, knave? : None
+SERVANT
+2.2 :An hour before I came, the duchess died. : None
+DUKE OF YORK
+2.2 :God for his mercy! what a tide of woes : None
+2.2 :Comes rushing on this woeful land at once! : None
+2.2 :I know not what to do: I would to God, : None
+2.2 :So my untruth had not provoked him to it, : None
+2.2 :The king had cut off my head with my brother's. : None
+2.2 :What, are there no posts dispatch'd for Ireland? : None
+2.2 :How shall we do for money for these wars? : None
+2.2 :Come, sister,--cousin, I would say--pray, pardon me. : None
+2.2 :Go, fellow, get thee home, provide some carts : None
+2.2 :And bring away the armour that is there. : None
+Exit Servant : ["Exit - ['SERVANT']"] : DUKE OF YORK
+2.2 :Gentlemen, will you go muster men? : None
+2.2 :If I know how or which way to order these affairs : None
+2.2 :Thus thrust disorderly into my hands, : None
+2.2 :Never believe me. Both are my kinsmen: : None
+2.2 :The one is my sovereign, whom both my oath : None
+2.2 :And duty bids defend; the other again : None
+2.2 :Is my kinsman, whom the king hath wrong'd, : None
+2.2 :Whom conscience and my kindred bids to right. : None
+2.2 :Well, somewhat we must do. Come, cousin, I'll : None
+2.2 :Dispose of you. : None
+2.2 :Gentlemen, go, muster up your men, : None
+2.2 :And meet me presently at Berkeley. : None
+2.2 :I should to Plashy too; : None
+2.2 :But time will not permit: all is uneven, : None
+2.2 :And every thing is left at six and seven. : None
+Exeunt DUKE OF YORK and QUEEN : ["Exeunt - ['DUKE OF YORK', 'QUEEN']"] : DUKE OF YORK
+BUSHY
+2.2 :The wind sits fair for news to go to Ireland, : None
+2.2 :But none returns. For us to levy power : None
+2.2 :Proportionable to the enemy : None
+2.2 :Is all unpossible. : None
+GREEN
+2.2 :Besides, our nearness to the king in love : None
+2.2 :Is near the hate of those love not the king. : None
+BAGOT
+2.2 :And that's the wavering commons: for their love : None
+2.2 :Lies in their purses, and whoso empties them : None
+2.2 :By so much fills their hearts with deadly hate. : None
+BUSHY
+2.2 :Wherein the king stands generally condemn'd. : None
+BAGOT
+2.2 :If judgement lie in them, then so do we, : None
+2.2 :Because we ever have been near the king. : None
+GREEN
+2.2 :Well, I will for refuge straight to Bristol castle: : None
+2.2 :The Earl of Wiltshire is already there. : None
+BUSHY
+2.2 :Thither will I with you; for little office : None
+2.2 :The hateful commons will perform for us, : None
+2.2 :Except like curs to tear us all to pieces. : None
+2.2 :Will you go along with us? : None
+BAGOT
+2.2 :No; I will to Ireland to his majesty. : None
+2.2 :Farewell: if heart's presages be not vain, : None
+2.2 :We three here art that ne'er shall meet again. : None
+BUSHY
+2.2 :That's as York thrives to beat back Bolingbroke. : None
+GREEN
+2.2 :Alas, poor duke! the task he undertakes : None
+2.2 :Is numbering sands and drinking oceans dry: : None
+2.2 :Where one on his side fights, thousands will fly. : None
+2.2 :Farewell at once, for once, for all, and ever. : None
+BUSHY
+2.2 :Well, we may meet again. : None
+BAGOT
+2.2 :I fear me, never. : None
+Exeunt : ['Exeunt - []'] : BAGOT
+Scene(scene=3)
+Enter HENRY BOLINGBROKE and NORTHUMBERLAND, with Forces : ["Enter - ['HENRY BOLINGBROKE', 'NORTHUMBERLAND']"] : BAGOT
+HENRY BOLINGBROKE
+2.3 :How far is it, my lord, to Berkeley now? : None
+NORTHUMBERLAND
+2.3 :Believe me, noble lord, : None
+2.3 :I am a stranger here in Gloucestershire: : None
+2.3 :These high wild hills and rough uneven ways : None
+2.3 :Draws out our miles, and makes them wearisome, : None
+2.3 :And yet your fair discourse hath been as sugar, : None
+2.3 :Making the hard way sweet and delectable. : None
+2.3 :But I bethink me what a weary way : None
+2.3 :From Ravenspurgh to Cotswold will be found : None
+2.3 :In Ross and Willoughby, wanting your company, : None
+2.3 :Which, I protest, hath very much beguiled : None
+2.3 :The tediousness and process of my travel: : None
+2.3 :But theirs is sweetened with the hope to have : None
+2.3 :The present benefit which I possess; : None
+2.3 :And hope to joy is little less in joy : None
+2.3 :Than hope enjoy'd: by this the weary lords : None
+2.3 :Shall make their way seem short, as mine hath done : None
+2.3 :By sight of what I have, your noble company. : None
+HENRY BOLINGBROKE
+2.3 :Of much less value is my company : None
+2.3 :Than your good words. But who comes here? : None
+Enter HENRY PERCY : ["Enter - ['HENRY PERCY']"] : HENRY BOLINGBROKE
+NORTHUMBERLAND
+2.3 :It is my son, young Harry Percy, : None
+2.3 :Sent from my brother Worcester, whencesoever. : None
+2.3 :Harry, how fares your uncle? : None
+HENRY PERCY
+2.3 :I had thought, my lord, to have learn'd his health of you. : None
+NORTHUMBERLAND
+2.3 :Why, is he not with the queen? : None
+HENRY PERCY
+2.3 :No, my good Lord; he hath forsook the court, : None
+2.3 :Broken his staff of office and dispersed : None
+2.3 :The household of the king. : None
+NORTHUMBERLAND
+2.3 :What was his reason? : None
+2.3 :He was not so resolved when last we spake together. : None
+HENRY PERCY
+2.3 :Because your lordship was proclaimed traitor. : None
+2.3 :But he, my lord, is gone to Ravenspurgh, : None
+2.3 :To offer service to the Duke of Hereford, : None
+2.3 :And sent me over by Berkeley, to discover : None
+2.3 :What power the Duke of York had levied there; : None
+2.3 :Then with directions to repair to Ravenspurgh. : None
+NORTHUMBERLAND
+2.3 :Have you forgot the Duke of Hereford, boy? : None
+HENRY PERCY
+2.3 :No, my good lord, for that is not forgot : None
+2.3 :Which ne'er I did remember: to my knowledge, : None
+2.3 :I never in my life did look on him. : None
+NORTHUMBERLAND
+2.3 :Then learn to know him now; this is the duke. : None
+HENRY PERCY
+2.3 :My gracious lord, I tender you my service, : None
+2.3 :Such as it is, being tender, raw and young: : None
+2.3 :Which elder days shall ripen and confirm : None
+2.3 :To more approved service and desert. : None
+HENRY BOLINGBROKE
+2.3 :I thank thee, gentle Percy; and be sure : None
+2.3 :I count myself in nothing else so happy : None
+2.3 :As in a soul remembering my good friends; : None
+2.3 :And, as my fortune ripens with thy love, : None
+2.3 :It shall be still thy true love's recompense: : None
+2.3 :My heart this covenant makes, my hand thus seals it. : None
+NORTHUMBERLAND
+2.3 :How far is it to Berkeley? and what stir : None
+2.3 :Keeps good old York there with his men of war? : None
+HENRY PERCY
+2.3 :There stands the castle, by yon tuft of trees, : None
+2.3 :Mann'd with three hundred men, as I have heard; : None
+2.3 :And in it are the Lords of York, Berkeley, and Seymour; : None
+2.3 :None else of name and noble estimate. : None
+Enter LORD ROSS and LORD WILLOUGHBY : ["Enter - ['LORD ROSS', 'LORD WILLOUGHBY']"] : HENRY PERCY
+NORTHUMBERLAND
+2.3 :Here come the Lords of Ross and Willoughby, : None
+2.3 :Bloody with spurring, fiery-red with haste. : None
+HENRY BOLINGBROKE
+2.3 :Welcome, my lords. I wot your love pursues : None
+2.3 :A banish'd traitor: all my treasury : None
+2.3 :Is yet but unfelt thanks, which more enrich'd : None
+2.3 :Shall be your love and labour's recompense. : None
+LORD ROSS
+2.3 :Your presence makes us rich, most noble lord. : None
+LORD WILLOUGHBY
+2.3 :And far surmounts our labour to attain it. : None
+HENRY BOLINGBROKE
+2.3 :Evermore thanks, the exchequer of the poor; : None
+2.3 :Which, till my infant fortune comes to years, : None
+2.3 :Stands for my bounty. But who comes here? : None
+Enter LORD BERKELEY : ["Enter - ['LORD BERKELEY']"] : HENRY BOLINGBROKE
+NORTHUMBERLAND
+2.3 :It is my Lord of Berkeley, as I guess. : None
+LORD BERKELEY
+2.3 :My Lord of Hereford, my message is to you. : None
+HENRY BOLINGBROKE
+2.3 :My lord, my answer is--to Lancaster; : None
+2.3 :And I am come to seek that name in England; : None
+2.3 :And I must find that title in your tongue, : None
+2.3 :Before I make reply to aught you say. : None
+LORD BERKELEY
+2.3 :Mistake me not, my lord; 'tis not my meaning : None
+2.3 :To raze one title of your honour out: : None
+2.3 :To you, my lord, I come, what lord you will, : None
+2.3 :From the most gracious regent of this land, : None
+2.3 :The Duke of York, to know what pricks you on : None
+2.3 :To take advantage of the absent time : None
+2.3 :And fright our native peace with self-born arms. : None
+Enter DUKE OF YORK attended : ["Enter - ['DUKE OF YORK']"] : LORD BERKELEY
+HENRY BOLINGBROKE
+2.3 :I shall not need transport my words by you; : None
+2.3 :Here comes his grace in person. My noble uncle! : None
+Kneels : ['None - []'] : HENRY BOLINGBROKE
+DUKE OF YORK
+2.3 :Show me thy humble heart, and not thy knee, : None
+2.3 :Whose duty is deceiveable and false. : None
+HENRY BOLINGBROKE
+2.3 :My gracious uncle-- : None
+DUKE OF YORK
+2.3 :Tut, tut! : None
+2.3 :Grace me no grace, nor uncle me no uncle: : None
+2.3 :I am no traitor's uncle; and that word 'grace.' : None
+2.3 :In an ungracious mouth is but profane. : None
+2.3 :Why have those banish'd and forbidden legs : None
+2.3 :Dared once to touch a dust of England's ground? : None
+2.3 :But then more 'why?' why have they dared to march : None
+2.3 :So many miles upon her peaceful bosom, : None
+2.3 :Frighting her pale-faced villages with war : None
+2.3 :And ostentation of despised arms? : None
+2.3 :Comest thou because the anointed king is hence? : None
+2.3 :Why, foolish boy, the king is left behind, : None
+2.3 :And in my loyal bosom lies his power. : None
+2.3 :Were I but now the lord of such hot youth : None
+2.3 :As when brave Gaunt, thy father, and myself : None
+2.3 :Rescued the Black Prince, that young Mars of men, : None
+2.3 :From forth the ranks of many thousand French, : None
+2.3 :O, then how quickly should this arm of mine. : None
+2.3 :Now prisoner to the palsy, chastise thee : None
+2.3 :And minister correction to thy fault! : None
+HENRY BOLINGBROKE
+2.3 :My gracious uncle, let me know my fault: : None
+2.3 :On what condition stands it and wherein? : None
+DUKE OF YORK
+2.3 :Even in condition of the worst degree, : None
+2.3 :In gross rebellion and detested treason: : None
+2.3 :Thou art a banish'd man, and here art come : None
+2.3 :Before the expiration of thy time, : None
+2.3 :In braving arms against thy sovereign. : None
+HENRY BOLINGBROKE
+2.3 :As I was banish'd, I was banish'd Hereford; : None
+2.3 :But as I come, I come for Lancaster. : None
+2.3 :And, noble uncle, I beseech your grace : None
+2.3 :Look on my wrongs with an indifferent eye: : None
+2.3 :You are my father, for methinks in you : None
+2.3 :I see old Gaunt alive; O, then, my father, : None
+2.3 :Will you permit that I shall stand condemn'd : None
+2.3 :A wandering vagabond; my rights and royalties : None
+2.3 :Pluck'd from my arms perforce and given away : None
+2.3 :To upstart unthrifts? Wherefore was I born? : None
+2.3 :If that my cousin king be King of England, : None
+2.3 :It must be granted I am Duke of Lancaster. : None
+2.3 :You have a son, Aumerle, my noble cousin; : None
+2.3 :Had you first died, and he been thus trod down, : None
+2.3 :He should have found his uncle Gaunt a father, : None
+2.3 :To rouse his wrongs and chase them to the bay. : None
+2.3 :I am denied to sue my livery here, : None
+2.3 :And yet my letters-patents give me leave: : None
+2.3 :My father's goods are all distrain'd and sold, : None
+2.3 :And these and all are all amiss employ'd. : None
+2.3 :What would you have me do? I am a subject, : None
+2.3 :And I challenge law: attorneys are denied me; : None
+2.3 :And therefore, personally I lay my claim : None
+2.3 :To my inheritance of free descent. : None
+NORTHUMBERLAND
+2.3 :The noble duke hath been too much abused. : None
+LORD ROSS
+2.3 :It stands your grace upon to do him right. : None
+LORD WILLOUGHBY
+2.3 :Base men by his endowments are made great. : None
+DUKE OF YORK
+2.3 :My lords of England, let me tell you this: : None
+2.3 :I have had feeling of my cousin's wrongs : None
+2.3 :And laboured all I could to do him right; : None
+2.3 :But in this kind to come, in braving arms, : None
+2.3 :Be his own carver and cut out his way, : None
+2.3 :To find out right with wrong, it may not be; : None
+2.3 :And you that do abet him in this kind : None
+2.3 :Cherish rebellion and are rebels all. : None
+NORTHUMBERLAND
+2.3 :The noble duke hath sworn his coming is : None
+2.3 :But for his own; and for the right of that : None
+2.3 :We all have strongly sworn to give him aid; : None
+2.3 :And let him ne'er see joy that breaks that oath! : None
+DUKE OF YORK
+2.3 :Well, well, I see the issue of these arms: : None
+2.3 :I cannot mend it, I must needs confess, : None
+2.3 :Because my power is weak and all ill left: : None
+2.3 :But if I could, by Him that gave me life, : None
+2.3 :I would attach you all and make you stoop : None
+2.3 :Unto the sovereign mercy of the king; : None
+2.3 :But since I cannot, be it known to you : None
+2.3 :I do remain as neuter. So, fare you well; : None
+2.3 :Unless you please to enter in the castle : None
+2.3 :And there repose you for this night. : None
+HENRY BOLINGBROKE
+2.3 :An offer, uncle, that we will accept: : None
+2.3 :But we must win your grace to go with us : None
+2.3 :To Bristol castle, which they say is held : None
+2.3 :By Bushy, Bagot and their complices, : None
+2.3 :The caterpillars of the commonwealth, : None
+2.3 :Which I have sworn to weed and pluck away. : None
+DUKE OF YORK
+2.3 :It may be I will go with you: but yet I'll pause; : None
+2.3 :For I am loath to break our country's laws. : None
+2.3 :Nor friends nor foes, to me welcome you are: : None
+2.3 :Things past redress are now with me past care. : None
+Exeunt : ['Exeunt - []'] : DUKE OF YORK
+Scene(scene=4)
+Enter EARL OF SALISBURY and a Welsh Captain : ["Enter - ['EARL OF SALISBURY', 'CAPTAIN']"] : DUKE OF YORK
+CAPTAIN
+2.4 :My lord of Salisbury, we have stay'd ten days, : None
+2.4 :And hardly kept our countrymen together, : None
+2.4 :And yet we hear no tidings from the king; : None
+2.4 :Therefore we will disperse ourselves: farewell. : None
+EARL OF SALISBURY
+2.4 :Stay yet another day, thou trusty Welshman: : None
+2.4 :The king reposeth all his confidence in thee. : None
+CAPTAIN
+2.4 :'Tis thought the king is dead; we will not stay. : None
+2.4 :The bay-trees in our country are all wither'd : None
+2.4 :And meteors fright the fixed stars of heaven; : None
+2.4 :The pale-faced moon looks bloody on the earth : None
+2.4 :And lean-look'd prophets whisper fearful change; : None
+2.4 :Rich men look sad and ruffians dance and leap, : None
+2.4 :The one in fear to lose what they enjoy, : None
+2.4 :The other to enjoy by rage and war: : None
+2.4 :These signs forerun the death or fall of kings. : None
+2.4 :Farewell: our countrymen are gone and fled, : None
+2.4 :As well assured Richard their king is dead. : None
+Exit : ['Exit - []'] : CAPTAIN
+EARL OF SALISBURY
+2.4 :Ah, Richard, with the eyes of heavy mind : None
+2.4 :I see thy glory like a shooting star : None
+2.4 :Fall to the base earth from the firmament. : None
+2.4 :Thy sun sets weeping in the lowly west, : None
+2.4 :Witnessing storms to come, woe and unrest: : None
+2.4 :Thy friends are fled to wait upon thy foes, : None
+2.4 :And crossly to thy good all fortune goes. : None
+Exit : ['Exit - []'] : EARL OF SALISBURY
+Act(act=3)
+Scene(scene=1)
+Enter HENRY BOLINGBROKE, DUKE OF YORK,  NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD WILLOUGHBY, with BUSHY and GREEN, prisoners : ["Enter - ['HENRY BOLINGBROKE', 'DUKE OF YORK', 'NORTHUMBERLAND', 'LORD ROSS', 'HENRY PERCY', 'LORD WILLOUGHBY', 'BUSHY', 'GREEN']"] : EARL OF SALISBURY
+HENRY BOLINGBROKE
+3.1 :Bring forth these men. : None
+3.1 :Bushy and Green, I will not vex your souls-- : None
+3.1 :Since presently your souls must part your bodies-- : None
+3.1 :With too much urging your pernicious lives, : None
+3.1 :For 'twere no charity; yet, to wash your blood : None
+3.1 :From off my hands, here in the view of men : None
+3.1 :I will unfold some causes of your deaths. : None
+3.1 :You have misled a prince, a royal king, : None
+3.1 :A happy gentleman in blood and lineaments, : None
+3.1 :By you unhappied and disfigured clean: : None
+3.1 :You have in manner with your sinful hours : None
+3.1 :Made a divorce betwixt his queen and him, : None
+3.1 :Broke the possession of a royal bed : None
+3.1 :And stain'd the beauty of a fair queen's cheeks : None
+3.1 :With tears drawn from her eyes by your foul wrongs. : None
+3.1 :Myself, a prince by fortune of my birth, : None
+3.1 :Near to the king in blood, and near in love : None
+3.1 :Till you did make him misinterpret me, : None
+3.1 :Have stoop'd my neck under your injuries, : None
+3.1 :And sigh'd my English breath in foreign clouds, : None
+3.1 :Eating the bitter bread of banishment; : None
+3.1 :Whilst you have fed upon my signories, : None
+3.1 :Dispark'd my parks and fell'd my forest woods, : None
+3.1 :From my own windows torn my household coat, : None
+3.1 :Razed out my imprese, leaving me no sign, : None
+3.1 :Save men's opinions and my living blood, : None
+3.1 :To show the world I am a gentleman. : None
+3.1 :This and much more, much more than twice all this, : None
+3.1 :Condemns you to the death. See them deliver'd over : None
+3.1 :To execution and the hand of death. : None
+BUSHY
+3.1 :More welcome is the stroke of death to me : None
+3.1 :Than Bolingbroke to England. Lords, farewell. : None
+GREEN
+3.1 :My comfort is that heaven will take our souls : None
+3.1 :And plague injustice with the pains of hell. : None
+HENRY BOLINGBROKE
+3.1 :My Lord Northumberland, see them dispatch'd. : None
+Exeunt NORTHUMBERLAND and others, with the prisoners : ["Exeunt - ['NORTHUMBERLAND']"] : HENRY BOLINGBROKE
+3.1 :Uncle, you say the queen is at your house; : None
+3.1 :For God's sake, fairly let her be entreated: : None
+3.1 :Tell her I send to her my kind commends; : None
+3.1 :Take special care my greetings be deliver'd. : None
+DUKE OF YORK
+3.1 :A gentleman of mine I have dispatch'd : None
+3.1 :With letters of your love to her at large. : None
+HENRY BOLINGBROKE
+3.1 :Thank, gentle uncle. Come, lords, away. : None
+3.1 :To fight with Glendower and his complices: : None
+3.1 :Awhile to work, and after holiday. : None
+Exeunt : ['Exeunt - []'] : HENRY BOLINGBROKE
+Scene(scene=2)
+Drums; flourish and colours. Enter KING RICHARD II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, and Soldiers : ['None - []', "Enter - ['KING RICHARD II', 'BISHOP OF CARLISLE', 'DUKE OF AUMERLE']"] : HENRY BOLINGBROKE
+KING RICHARD II
+3.2 :Barkloughly castle call they this at hand? : None
+DUKE OF AUMERLE
+3.2 :Yea, my lord. How brooks your grace the air, : None
+3.2 :After your late tossing on the breaking seas? : None
+KING RICHARD II
+3.2 :Needs must I like it well: I weep for joy : None
+3.2 :To stand upon my kingdom once again. : None
+3.2 :Dear earth, I do salute thee with my hand, : None
+3.2 :Though rebels wound thee with their horses' hoofs: : None
+3.2 :As a long-parted mother with her child : None
+3.2 :Plays fondly with her tears and smiles in meeting, : None
+3.2 :So, weeping, smiling, greet I thee, my earth, : None
+3.2 :And do thee favours with my royal hands. : None
+3.2 :Feed not thy sovereign's foe, my gentle earth, : None
+3.2 :Nor with thy sweets comfort his ravenous sense; : None
+3.2 :But let thy spiders, that suck up thy venom, : None
+3.2 :And heavy-gaited toads lie in their way, : None
+3.2 :Doing annoyance to the treacherous feet : None
+3.2 :Which with usurping steps do trample thee: : None
+3.2 :Yield stinging nettles to mine enemies; : None
+3.2 :And when they from thy bosom pluck a flower, : None
+3.2 :Guard it, I pray thee, with a lurking adder : None
+3.2 :Whose double tongue may with a mortal touch : None
+3.2 :Throw death upon thy sovereign's enemies. : None
+3.2 :Mock not my senseless conjuration, lords: : None
+3.2 :This earth shall have a feeling and these stones : None
+3.2 :Prove armed soldiers, ere her native king : None
+3.2 :Shall falter under foul rebellion's arms. : None
+BISHOP OF CARLISLE
+3.2 :Fear not, my lord: that Power that made you king : None
+3.2 :Hath power to keep you king in spite of all. : None
+3.2 :The means that heaven yields must be embraced, : None
+3.2 :And not neglected; else, if heaven would, : None
+3.2 :And we will not, heaven's offer we refuse, : None
+3.2 :The proffer'd means of succor and redress. : None
+DUKE OF AUMERLE
+3.2 :He means, my lord, that we are too remiss; : None
+3.2 :Whilst Bolingbroke, through our security, : None
+3.2 :Grows strong and great in substance and in power. : None
+KING RICHARD II
+3.2 :Discomfortable cousin! know'st thou not : None
+3.2 :That when the searching eye of heaven is hid, : None
+3.2 :Behind the globe, that lights the lower world, : None
+3.2 :Then thieves and robbers range abroad unseen : None
+3.2 :In murders and in outrage, boldly here; : None
+3.2 :But when from under this terrestrial ball : None
+3.2 :He fires the proud tops of the eastern pines : None
+3.2 :And darts his light through every guilty hole, : None
+3.2 :Then murders, treasons and detested sins, : None
+3.2 :The cloak of night being pluck'd from off their backs, : None
+3.2 :Stand bare and naked, trembling at themselves? : None
+3.2 :So when this thief, this traitor, Bolingbroke, : None
+3.2 :Who all this while hath revell'd in the night : None
+3.2 :Whilst we were wandering with the antipodes, : None
+3.2 :Shall see us rising in our throne, the east, : None
+3.2 :His treasons will sit blushing in his face, : None
+3.2 :Not able to endure the sight of day, : None
+3.2 :But self-affrighted tremble at his sin. : None
+3.2 :Not all the water in the rough rude sea : None
+3.2 :Can wash the balm off from an anointed king; : None
+3.2 :The breath of worldly men cannot depose : None
+3.2 :The deputy elected by the Lord: : None
+3.2 :For every man that Bolingbroke hath press'd : None
+3.2 :To lift shrewd steel against our golden crown, : None
+3.2 :God for his Richard hath in heavenly pay : None
+3.2 :A glorious angel: then, if angels fight, : None
+3.2 :Weak men must fall, for heaven still guards the right. : None
+Enter EARL OF SALISBURY : ["Enter - ['EARL OF SALISBURY']"] : KING RICHARD II
+3.2 :Welcome, my lord	how far off lies your power? : None
+EARL OF SALISBURY
+3.2 :Nor near nor farther off, my gracious lord, : None
+3.2 :Than this weak arm: discomfort guides my tongue : None
+3.2 :And bids me speak of nothing but despair. : None
+3.2 :One day too late, I fear me, noble lord, : None
+3.2 :Hath clouded all thy happy days on earth: : None
+3.2 :O, call back yesterday, bid time return, : None
+3.2 :And thou shalt have twelve thousand fighting men! : None
+3.2 :To-day, to-day, unhappy day, too late, : None
+3.2 :O'erthrows thy joys, friends, fortune and thy state: : None
+3.2 :For all the Welshmen, hearing thou wert dead. : None
+3.2 :Are gone to Bolingbroke, dispersed and fled. : None
+DUKE OF AUMERLE
+3.2 :Comfort, my liege; why looks your grace so pale? : None
+KING RICHARD II
+3.2 :But now the blood of twenty thousand men : None
+3.2 :Did triumph in my face, and they are fled; : None
+3.2 :And, till so much blood thither come again, : None
+3.2 :Have I not reason to look pale and dead? : None
+3.2 :All souls that will be safe fly from my side, : None
+3.2 :For time hath set a blot upon my pride. : None
+DUKE OF AUMERLE
+3.2 :Comfort, my liege; remember who you are. : None
+KING RICHARD II
+3.2 :I had forgot myself; am I not king? : None
+3.2 :Awake, thou coward majesty! thou sleepest. : None
+3.2 :Is not the king's name twenty thousand names? : None
+3.2 :Arm, arm, my name! a puny subject strikes : None
+3.2 :At thy great glory. Look not to the ground, : None
+3.2 :Ye favourites of a king: are we not high? : None
+3.2 :High be our thoughts: I know my uncle York : None
+3.2 :Hath power enough to serve our turn. But who comes here? : None
+Enter SIR STEPHEN SCROOP : ["Enter - ['SIR STEPHEN SCROOP']"] : KING RICHARD II
+SIR STEPHEN SCROOP
+3.2 :More health and happiness betide my liege : None
+3.2 :Than can my care-tuned tongue deliver him! : None
+KING RICHARD II
+3.2 :Mine ear is open and my heart prepared; : None
+3.2 :The worst is worldly loss thou canst unfold. : None
+3.2 :Say, is my kingdom lost? why, 'twas my care : None
+3.2 :And what loss is it to be rid of care? : None
+3.2 :Strives Bolingbroke to be as great as we? : None
+3.2 :Greater he shall not be; if he serve God, : None
+3.2 :We'll serve Him too and be his fellow so: : None
+3.2 :Revolt our subjects? that we cannot mend; : None
+3.2 :They break their faith to God as well as us: : None
+3.2 :Cry woe, destruction, ruin and decay: : None
+3.2 :The worst is death, and death will have his day. : None
+SIR STEPHEN SCROOP
+3.2 :Glad am I that your highness is so arm'd : None
+3.2 :To bear the tidings of calamity. : None
+3.2 :Like an unseasonable stormy day, : None
+3.2 :Which makes the silver rivers drown their shores, : None
+3.2 :As if the world were all dissolved to tears, : None
+3.2 :So high above his limits swells the rage : None
+3.2 :Of Bolingbroke, covering your fearful land : None
+3.2 :With hard bright steel and hearts harder than steel. : None
+3.2 :White-beards have arm'd their thin and hairless scalps : None
+3.2 :Against thy majesty; boys, with women's voices, : None
+3.2 :Strive to speak big and clap their female joints : None
+3.2 :In stiff unwieldy arms against thy crown: : None
+3.2 :The very beadsmen learn to bend their bows : None
+3.2 :Of double-fatal yew against thy state; : None
+3.2 :Yea, distaff-women manage rusty bills : None
+3.2 :Against thy seat: both young and old rebel, : None
+3.2 :And all goes worse than I have power to tell. : None
+KING RICHARD II
+3.2 :Too well, too well thou tell'st a tale so ill. : None
+3.2 :Where is the Earl of Wiltshire? where is Bagot? : None
+3.2 :What is become of Bushy? where is Green? : None
+3.2 :That they have let the dangerous enemy : None
+3.2 :Measure our confines with such peaceful steps? : None
+3.2 :If we prevail, their heads shall pay for it: : None
+3.2 :I warrant they have made peace with Bolingbroke. : None
+SIR STEPHEN SCROOP
+3.2 :Peace have they made with him indeed, my lord. : None
+KING RICHARD II
+3.2 :O villains, vipers, damn'd without redemption! : None
+3.2 :Dogs, easily won to fawn on any man! : None
+3.2 :Snakes, in my heart-blood warm'd, that sting my heart! : None
+3.2 :Three Judases, each one thrice worse than Judas! : None
+3.2 :Would they make peace? terrible hell make war : None
+3.2 :Upon their spotted souls for this offence! : None
+SIR STEPHEN SCROOP
+3.2 :Sweet love, I see, changing his property, : None
+3.2 :Turns to the sourest and most deadly hate: : None
+3.2 :Again uncurse their souls; their peace is made : None
+3.2 :With heads, and not with hands; those whom you curse : None
+3.2 :Have felt the worst of death's destroying wound : None
+3.2 :And lie full low, graved in the hollow ground. : None
+DUKE OF AUMERLE
+3.2 :Is Bushy, Green, and the Earl of Wiltshire dead? : None
+SIR STEPHEN SCROOP
+3.2 :Ay, all of them at Bristol lost their heads. : None
+DUKE OF AUMERLE
+3.2 :Where is the duke my father with his power? : None
+KING RICHARD II
+3.2 :No matter where; of comfort no man speak: : None
+3.2 :Let's talk of graves, of worms, and epitaphs; : None
+3.2 :Make dust our paper and with rainy eyes : None
+3.2 :Write sorrow on the bosom of the earth, : None
+3.2 :Let's choose executors and talk of wills: : None
+3.2 :And yet not so, for what can we bequeath : None
+3.2 :Save our deposed bodies to the ground? : None
+3.2 :Our lands, our lives and all are Bolingbroke's, : None
+3.2 :And nothing can we call our own but death : None
+3.2 :And that small model of the barren earth : None
+3.2 :Which serves as paste and cover to our bones. : None
+3.2 :For God's sake, let us sit upon the ground : None
+3.2 :And tell sad stories of the death of kings; : None
+3.2 :How some have been deposed; some slain in war, : None
+3.2 :Some haunted by the ghosts they have deposed; : None
+3.2 :Some poison'd by their wives: some sleeping kill'd; : None
+3.2 :All murder'd: for within the hollow crown : None
+3.2 :That rounds the mortal temples of a king : None
+3.2 :Keeps Death his court and there the antic sits, : None
+3.2 :Scoffing his state and grinning at his pomp, : None
+3.2 :Allowing him a breath, a little scene, : None
+3.2 :To monarchize, be fear'd and kill with looks, : None
+3.2 :Infusing him with self and vain conceit, : None
+3.2 :As if this flesh which walls about our life, : None
+3.2 :Were brass impregnable, and humour'd thus : None
+3.2 :Comes at the last and with a little pin : None
+3.2 :Bores through his castle wall, and farewell king! : None
+3.2 :Cover your heads and mock not flesh and blood : None
+3.2 :With solemn reverence: throw away respect, : None
+3.2 :Tradition, form and ceremonious duty, : None
+3.2 :For you have but mistook me all this while: : None
+3.2 :I live with bread like you, feel want, : None
+3.2 :Taste grief, need friends: subjected thus, : None
+3.2 :How can you say to me, I am a king? : None
+BISHOP OF CARLISLE
+3.2 :My lord, wise men ne'er sit and wail their woes, : None
+3.2 :But presently prevent the ways to wail. : None
+3.2 :To fear the foe, since fear oppresseth strength, : None
+3.2 :Gives in your weakness strength unto your foe, : None
+3.2 :And so your follies fight against yourself. : None
+3.2 :Fear and be slain; no worse can come to fight: : None
+3.2 :And fight and die is death destroying death; : None
+3.2 :Where fearing dying pays death servile breath. : None
+DUKE OF AUMERLE
+3.2 :My father hath a power; inquire of him : None
+3.2 :And learn to make a body of a limb. : None
+KING RICHARD II
+3.2 :Thou chidest me well: proud Bolingbroke, I come : None
+3.2 :To change blows with thee for our day of doom. : None
+3.2 :This ague fit of fear is over-blown; : None
+3.2 :An easy task it is to win our own. : None
+3.2 :Say, Scroop, where lies our uncle with his power? : None
+3.2 :Speak sweetly, man, although thy looks be sour. : None
+SIR STEPHEN SCROOP
+3.2 :Men judge by the complexion of the sky : None
+3.2 :The state and inclination of the day: : None
+3.2 :So may you by my dull and heavy eye, : None
+3.2 :My tongue hath but a heavier tale to say. : None
+3.2 :I play the torturer, by small and small : None
+3.2 :To lengthen out the worst that must be spoken: : None
+3.2 :Your uncle York is join'd with Bolingbroke, : None
+3.2 :And all your northern castles yielded up, : None
+3.2 :And all your southern gentlemen in arms : None
+3.2 :Upon his party. : None
+KING RICHARD II
+3.2 :                  Thou hast said enough. : None
+3.2 :Beshrew thee, cousin, which didst lead me forth : None
+To DUKE OF AUMERLE : ["To - ['DUKE OF AUMERLE']"] : KING RICHARD II
+3.2 :Of that sweet way I was in to despair! : None
+3.2 :What say you now? what comfort have we now? : None
+3.2 :By heaven, I'll hate him everlastingly : None
+3.2 :That bids me be of comfort any more. : None
+3.2 :Go to Flint castle: there I'll pine away; : None
+3.2 :A king, woe's slave, shall kingly woe obey. : None
+3.2 :That power I have, discharge; and let them go : None
+3.2 :To ear the land that hath some hope to grow, : None
+3.2 :For I have none: let no man speak again : None
+3.2 :To alter this, for counsel is but vain. : None
+DUKE OF AUMERLE
+3.2 :My liege, one word. : None
+KING RICHARD II
+3.2 :He does me double wrong : None
+3.2 :That wounds me with the flatteries of his tongue. : None
+3.2 :Discharge my followers: let them hence away, : None
+3.2 :From Richard's night to Bolingbroke's fair day. : None
+Exeunt : ['Exeunt - []'] : KING RICHARD II
+Scene(scene=3)
+Enter, with drum and colours, HENRY BOLINGBROKE, DUKE OF YORK, NORTHUMBERLAND, Attendants, and forces : ["Enter - ['HENRY BOLINGBROKE', 'DUKE OF YORK', 'NORTHUMBERLAND']"] : KING RICHARD II
+HENRY BOLINGBROKE
+3.3 :So that by this intelligence we learn : None
+3.3 :The Welshmen are dispersed, and Salisbury : None
+3.3 :Is gone to meet the king, who lately landed : None
+3.3 :With some few private friends upon this coast. : None
+NORTHUMBERLAND
+3.3 :The news is very fair and good, my lord: : None
+3.3 :Richard not far from hence hath hid his head. : None
+DUKE OF YORK
+3.3 :It would beseem the Lord Northumberland : None
+3.3 :To say 'King Richard:' alack the heavy day : None
+3.3 :When such a sacred king should hide his head. : None
+NORTHUMBERLAND
+3.3 :Your grace mistakes; only to be brief : None
+3.3 :Left I his title out. : None
+DUKE OF YORK
+3.3 :The time hath been, : None
+3.3 :Would you have been so brief with him, he would : None
+3.3 :Have been so brief with you, to shorten you, : None
+3.3 :For taking so the head, your whole head's length. : None
+HENRY BOLINGBROKE
+3.3 :Mistake not, uncle, further than you should. : None
+DUKE OF YORK
+3.3 :Take not, good cousin, further than you should. : None
+3.3 :Lest you mistake the heavens are o'er our heads. : None
+HENRY BOLINGBROKE
+3.3 :I know it, uncle, and oppose not myself : None
+3.3 :Against their will. But who comes here? : None
+Enter HENRY PERCY : ["Enter - ['HENRY PERCY']"] : HENRY BOLINGBROKE
+3.3 :Welcome, Harry: what, will not this castle yield? : None
+HENRY PERCY
+3.3 :The castle royally is mann'd, my lord, : None
+3.3 :Against thy entrance. : None
+HENRY BOLINGBROKE
+3.3 :Royally! : None
+3.3 :Why, it contains no king? : None
+HENRY PERCY
+3.3 :Yes, my good lord, : None
+3.3 :It doth contain a king; King Richard lies : None
+3.3 :Within the limits of yon lime and stone: : None
+3.3 :And with him are the Lord Aumerle, Lord Salisbury, : None
+3.3 :Sir Stephen Scroop, besides a clergyman : None
+3.3 :Of holy reverence; who, I cannot learn. : None
+NORTHUMBERLAND
+3.3 :O, belike it is the Bishop of Carlisle. : None
+HENRY BOLINGBROKE
+3.3 :Noble lords, : None
+3.3 :Go to the rude ribs of that ancient castle; : None
+3.3 :Through brazen trumpet send the breath of parley : None
+3.3 :Into his ruin'd ears, and thus deliver: : None
+3.3 :Henry Bolingbroke : None
+3.3 :On both his knees doth kiss King Richard's hand : None
+3.3 :And sends allegiance and true faith of heart : None
+3.3 :To his most royal person, hither come : None
+3.3 :Even at his feet to lay my arms and power, : None
+3.3 :Provided that my banishment repeal'd : None
+3.3 :And lands restored again be freely granted: : None
+3.3 :If not, I'll use the advantage of my power : None
+3.3 :And lay the summer's dust with showers of blood : None
+3.3 :Rain'd from the wounds of slaughter'd Englishmen: : None
+3.3 :The which, how far off from the mind of Bolingbroke : None
+3.3 :It is, such crimson tempest should bedrench : None
+3.3 :The fresh green lap of fair King Richard's land, : None
+3.3 :My stooping duty tenderly shall show. : None
+3.3 :Go, signify as much, while here we march : None
+3.3 :Upon the grassy carpet of this plain. : None
+3.3 :Let's march without the noise of threatening drum, : None
+3.3 :That from this castle's tatter'd battlements : None
+3.3 :Our fair appointments may be well perused. : None
+3.3 :Methinks King Richard and myself should meet : None
+3.3 :With no less terror than the elements : None
+3.3 :Of fire and water, when their thundering shock : None
+3.3 :At meeting tears the cloudy cheeks of heaven. : None
+3.3 :Be he the fire, I'll be the yielding water: : None
+3.3 :The rage be his, whilst on the earth I rain : None
+3.3 :My waters; on the earth, and not on him. : None
+3.3 :March on, and mark King Richard how he looks. : None
+Parle without, and answer within. Then a flourish.  Enter on the walls, KING RICHARD II, the BISHOP OF  CARLISLE, DUKE OF AUMERLE, SIR STEPHEN SCROOP, and EARL OF SALISBURY : ['None - []', 'None - []', "Enter - ['ALL', 'KING RICHARD II', 'DUKE OF AUMERLE', 'SIR STEPHEN SCROOP', 'EARL OF SALISBURY']"] : HENRY BOLINGBROKE
+3.3 :See, see, King Richard doth himself appear, : None
+3.3 :As doth the blushing discontented sun : None
+3.3 :From out the fiery portal of the east, : None
+3.3 :When he perceives the envious clouds are bent : None
+3.3 :To dim his glory and to stain the track : None
+3.3 :Of his bright passage to the occident. : None
+DUKE OF YORK
+3.3 :Yet looks he like a king: behold, his eye, : None
+3.3 :As bright as is the eagle's, lightens forth : None
+3.3 :Controlling majesty: alack, alack, for woe, : None
+3.3 :That any harm should stain so fair a show! : None
+KING RICHARD II
+3.3 :We are amazed; and thus long have we stood : None
+3.3 :To watch the fearful bending of thy knee, : None
+To NORTHUMBERLAND : ["To - ['NORTHUMBERLAND']"] : KING RICHARD II
+3.3 :Because we thought ourself thy lawful king: : None
+3.3 :And if we be, how dare thy joints forget : None
+3.3 :To pay their awful duty to our presence? : None
+3.3 :If we be not, show us the hand of God : None
+3.3 :That hath dismissed us from our stewardship; : None
+3.3 :For well we know, no hand of blood and bone : None
+3.3 :Can gripe the sacred handle of our sceptre, : None
+3.3 :Unless he do profane, steal, or usurp. : None
+3.3 :And though you think that all, as you have done, : None
+3.3 :Have torn their souls by turning them from us, : None
+3.3 :And we are barren and bereft of friends; : None
+3.3 :Yet know, my master, God omnipotent, : None
+3.3 :Is mustering in his clouds on our behalf : None
+3.3 :Armies of pestilence; and they shall strike : None
+3.3 :Your children yet unborn and unbegot, : None
+3.3 :That lift your vassal hands against my head : None
+3.3 :And threat the glory of my precious crown. : None
+3.3 :Tell Bolingbroke--for yond methinks he stands-- : None
+3.3 :That every stride he makes upon my land : None
+3.3 :Is dangerous treason: he is come to open : None
+3.3 :The purple testament of bleeding war; : None
+3.3 :But ere the crown he looks for live in peace, : None
+3.3 :Ten thousand bloody crowns of mothers' sons : None
+3.3 :Shall ill become the flower of England's face, : None
+3.3 :Change the complexion of her maid-pale peace : None
+3.3 :To scarlet indignation and bedew : None
+3.3 :Her pastures' grass with faithful English blood. : None
+NORTHUMBERLAND
+3.3 :The king of heaven forbid our lord the king : None
+3.3 :Should so with civil and uncivil arms : None
+3.3 :Be rush'd upon! Thy thrice noble cousin : None
+3.3 :Harry Bolingbroke doth humbly kiss thy hand; : None
+3.3 :And by the honourable tomb he swears, : None
+3.3 :That stands upon your royal grandsire's bones, : None
+3.3 :And by the royalties of both your bloods, : None
+3.3 :Currents that spring from one most gracious head, : None
+3.3 :And by the buried hand of warlike Gaunt, : None
+3.3 :And by the worth and honour of himself, : None
+3.3 :Comprising all that may be sworn or said, : None
+3.3 :His coming hither hath no further scope : None
+3.3 :Than for his lineal royalties and to beg : None
+3.3 :Enfranchisement immediate on his kn ees: : None
+3.3 :Which on thy royal party granted once, : None
+3.3 :His glittering arms he will commend to rust, : None
+3.3 :His barbed steeds to stables, and his heart : None
+3.3 :To faithful service of your majesty. : None
+3.3 :This swears he, as he is a prince, is just; : None
+3.3 :And, as I am a gentleman, I credit him. : None
+KING RICHARD II
+3.3 :Northumberland, say thus the king returns: : None
+3.3 :His noble cousin is right welcome hither; : None
+3.3 :And all the number of his fair demands : None
+3.3 :Shall be accomplish'd without contradiction: : None
+3.3 :With all the gracious utterance thou hast : None
+3.3 :Speak to his gentle hearing kind commends. : None
+3.3 :We do debase ourselves, cousin, do we not, : None
+To DUKE OF AUMERLE : ["To - ['DUKE OF AUMERLE']"] : KING RICHARD II
+3.3 :To look so poorly and to speak so fair? : None
+3.3 :Shall we call back Northumberland, and send : None
+3.3 :Defiance to the traitor, and so die? : None
+DUKE OF AUMERLE
+3.3 :No, good my lord; let's fight with gentle words : None
+3.3 :Till time lend friends and friends their helpful swords. : None
+KING RICHARD II
+3.3 :O God, O God! that e'er this tongue of mine, : None
+3.3 :That laid the sentence of dread banishment : None
+3.3 :On yon proud man, should take it off again : None
+3.3 :With words of sooth! O that I were as great : None
+3.3 :As is my grief, or lesser than my name! : None
+3.3 :Or that I could forget what I have been, : None
+3.3 :Or not remember what I must be now! : None
+3.3 :Swell'st thou, proud heart? I'll give thee scope to beat, : None
+3.3 :Since foes have scope to beat both thee and me. : None
+DUKE OF AUMERLE
+3.3 :Northumberland comes back from Bolingbroke. : None
+KING RICHARD II
+3.3 :What must the king do now? must he submit? : None
+3.3 :The king shall do it: must he be deposed? : None
+3.3 :The king shall be contented: must he lose : None
+3.3 :The name of king? o' God's name, let it go: : None
+3.3 :I'll give my jewels for a set of beads, : None
+3.3 :My gorgeous palace for a hermitage, : None
+3.3 :My gay apparel for an almsman's gown, : None
+3.3 :My figured goblets for a dish of wood, : None
+3.3 :My sceptre for a palmer's walking staff, : None
+3.3 :My subjects for a pair of carved saints : None
+3.3 :And my large kingdom for a little grave, : None
+3.3 :A little little grave, an obscure grave; : None
+3.3 :Or I'll be buried in the king's highway, : None
+3.3 :Some way of common trade, where subjects' feet : None
+3.3 :May hourly trample on their sovereign's head; : None
+3.3 :For on my heart they tread now whilst I live; : None
+3.3 :And buried once, why not upon my head? : None
+3.3 :Aumerle, thou weep'st, my tender-hearted cousin! : None
+3.3 :We'll make foul weather with despised tears; : None
+3.3 :Our sighs and they shall lodge the summer corn, : None
+3.3 :And make a dearth in this revolting land. : None
+3.3 :Or shall we play the wantons with our woes, : None
+3.3 :And make some pretty match with shedding tears? : None
+3.3 :As thus, to drop them still upon one place, : None
+3.3 :Till they have fretted us a pair of graves : None
+3.3 :Within the earth; and, therein laid,--there lies : None
+3.3 :Two kinsmen digg'd their graves with weeping eyes. : None
+3.3 :Would not this ill do well? Well, well, I see : None
+3.3 :I talk but idly, and you laugh at me. : None
+3.3 :Most mighty prince, my Lord Northumberland, : None
+3.3 :What says King Bolingbroke? will his majesty : None
+3.3 :Give Richard leave to live till Richard die? : None
+3.3 :You make a leg, and Bolingbroke says ay. : None
+NORTHUMBERLAND
+3.3 :My lord, in the base court he doth attend : None
+3.3 :To speak with you; may it please you to come down. : None
+KING RICHARD II
+3.3 :Down, down I come; like glistering Phaethon, : None
+3.3 :Wanting the manage of unruly jades. : None
+3.3 :In the base court? Base court, where kings grow base, : None
+3.3 :To come at traitors' calls and do them grace. : None
+3.3 :In the base court? Come down? Down, court! : None
+3.3 :down, king! : None
+3.3 :For night-owls shriek where mounting larks : None
+3.3 :should sing. : None
+Exeunt from above : ['Exeunt - []'] : KING RICHARD II
+HENRY BOLINGBROKE
+3.3 :What says his majesty? : None
+NORTHUMBERLAND
+3.3 :Sorrow and grief of heart : None
+3.3 :Makes him speak fondly, like a frantic man : None
+3.3 :Yet he is come. : None
+Enter KING RICHARD and his attendants below : ['Enter - []'] : NORTHUMBERLAND
+HENRY BOLINGBROKE
+3.3 :Stand all apart, : None
+3.3 :And show fair duty to his majesty. : None
+He kneels down : ['None - []'] : HENRY BOLINGBROKE
+3.3 :My gracious lord,-- : None
+KING RICHARD II
+3.3 :Fair cousin, you debase your princely knee : None
+3.3 :To make the base earth proud with kissing it: : None
+3.3 :Me rather had my heart might feel your love : None
+3.3 :Than my unpleased eye see your courtesy. : None
+3.3 :Up, cousin, up; your heart is up, I know, : None
+3.3 :Thus high at least, although your knee be low. : None
+HENRY BOLINGBROKE
+3.3 :My gracious lord, I come but for mine own. : None
+KING RICHARD II
+3.3 :Your own is yours, and I am yours, and all. : None
+HENRY BOLINGBROKE
+3.3 :So far be mine, my most redoubted lord, : None
+3.3 :As my true service shall deserve your love. : None
+KING RICHARD II
+3.3 :Well you deserve: they well deserve to have, : None
+3.3 :That know the strong'st and surest way to get. : None
+3.3 :Uncle, give me your hands: nay, dry your eyes; : None
+3.3 :Tears show their love, but want their remedies. : None
+3.3 :Cousin, I am too young to be your father, : None
+3.3 :Though you are old enough to be my heir. : None
+3.3 :What you will have, I'll give, and willing too; : None
+3.3 :For do we must what force will have us do. : None
+3.3 :Set on towards London, cousin, is it so? : None
+HENRY BOLINGBROKE
+3.3 :Yea, my good lord. : None
+KING RICHARD II
+3.3 :Then I must not say no. : None
+Flourish. Exeunt : ['None - []', 'Exeunt - []'] : KING RICHARD II
+Scene(scene=4)
+Enter the QUEEN and two Ladies : ["Enter - ['QUEEN']"] : KING RICHARD II
+QUEEN
+3.4 :What sport shall we devise here in this garden, : None
+3.4 :To drive away the heavy thought of care? : None
+LADY
+3.4 :Madam, we'll play at bowls. : None
+QUEEN
+3.4 :'Twill make me think the world is full of rubs, : None
+3.4 :And that my fortune rubs against the bias. : None
+LADY
+3.4 :Madam, we'll dance. : None
+QUEEN
+3.4 :My legs can keep no measure in delight, : None
+3.4 :When my poor heart no measure keeps in grief: : None
+3.4 :Therefore, no dancing, girl; some other sport. : None
+LADY
+3.4 :Madam, we'll tell tales. : None
+QUEEN
+3.4 :Of sorrow or of joy? : None
+LADY
+3.4 :Of either, madam. : None
+QUEEN
+3.4 :Of neither, girl: : None
+3.4 :For of joy, being altogether wanting, : None
+3.4 :It doth remember me the more of sorrow; : None
+3.4 :Or if of grief, being altogether had, : None
+3.4 :It adds more sorrow to my want of joy: : None
+3.4 :For what I have I need not to repeat; : None
+3.4 :And what I want it boots not to complain. : None
+LADY
+3.4 :Madam, I'll sing. : None
+QUEEN
+3.4 :'Tis well that thou hast cause : None
+3.4 :But thou shouldst please me better, wouldst thou weep. : None
+LADY
+3.4 :I could weep, madam, would it do you good. : None
+QUEEN
+3.4 :And I could sing, would weeping do me good, : None
+3.4 :And never borrow any tear of thee. : None
+Enter a Gardener, and two Servants : ["Enter - ['GARDENER', 'SERVANT']"] : QUEEN
+3.4 :But stay, here come the gardeners: : None
+3.4 :Let's step into the shadow of these trees. : None
+3.4 :My wretchedness unto a row of pins, : None
+3.4 :They'll talk of state; for every one doth so : None
+3.4 :Against a change; woe is forerun with woe. : None
+QUEEN and Ladies retire : ["None - ['QUEEN']"] : QUEEN
+GARDENER
+3.4 :Go, bind thou up yon dangling apricocks, : None
+3.4 :Which, like unruly children, make their sire : None
+3.4 :Stoop with oppression of their prodigal weight: : None
+3.4 :Give some supportance to the bending twigs. : None
+3.4 :Go thou, and like an executioner, : None
+3.4 :Cut off the heads of too fast growing sprays, : None
+3.4 :That look too lofty in our commonwealth: : None
+3.4 :All must be even in our government. : None
+3.4 :You thus employ'd, I will go root away : None
+3.4 :The noisome weeds, which without profit suck : None
+3.4 :The soil's fertility from wholesome flowers. : None
+SERVANT
+3.4 :Why should we in the compass of a pale : None
+3.4 :Keep law and form and due proportion, : None
+3.4 :Showing, as in a model, our firm estate, : None
+3.4 :When our sea-walled garden, the whole land, : None
+3.4 :Is full of weeds, her fairest flowers choked up, : None
+3.4 :Her fruit-trees all upturned, her hedges ruin'd, : None
+3.4 :Her knots disorder'd and her wholesome herbs : None
+3.4 :Swarming with caterpillars? : None
+GARDENER
+3.4 :Hold thy peace: : None
+3.4 :He that hath suffer'd this disorder'd spring : None
+3.4 :Hath now himself met with the fall of leaf: : None
+3.4 :The weeds which his broad-spreading leaves did shelter, : None
+3.4 :That seem'd in eating him to hold him up, : None
+3.4 :Are pluck'd up root and all by Bolingbroke, : None
+3.4 :I mean the Earl of Wiltshire, Bushy, Green. : None
+SERVANT
+3.4 :What, are they dead? : None
+GARDENER
+3.4 :They are; and Bolingbroke : None
+3.4 :Hath seized the wasteful king. O, what pity is it : None
+3.4 :That he had not so trimm'd and dress'd his land : None
+3.4 :As we this garden! We at time of year : None
+3.4 :Do wound the bark, the skin of our fruit-trees, : None
+3.4 :Lest, being over-proud in sap and blood, : None
+3.4 :With too much riches it confound itself: : None
+3.4 :Had he done so to great and growing men, : None
+3.4 :They might have lived to bear and he to taste : None
+3.4 :Their fruits of duty: superfluous branches : None
+3.4 :We lop away, that bearing boughs may live: : None
+3.4 :Had he done so, himself had borne the crown, : None
+3.4 :Which waste of idle hours hath quite thrown down. : None
+SERVANT
+3.4 :What, think you then the king shall be deposed? : None
+GARDENER
+3.4 :Depress'd he is already, and deposed : None
+3.4 :'Tis doubt he will be: letters came last night : None
+3.4 :To a dear friend of the good Duke of York's, : None
+3.4 :That tell black tidings. : None
+QUEEN
+3.4 :O, I am press'd to death through want of speaking! : None
+Coming forward : ['None - []'] : QUEEN
+3.4 :Thou, old Adam's likeness, set to dress this garden, : None
+3.4 :How dares thy harsh rude tongue sound this unpleasing news? : None
+3.4 :What Eve, what serpent, hath suggested thee : None
+3.4 :To make a second fall of cursed man? : None
+3.4 :Why dost thou say King Richard is deposed? : None
+3.4 :Darest thou, thou little better thing than earth, : None
+3.4 :Divine his downfall? Say, where, when, and how, : None
+3.4 :Camest thou by this ill tidings? speak, thou wretch. : None
+GARDENER
+3.4 :Pardon me, madam: little joy have I : None
+3.4 :To breathe this news; yet what I say is true. : None
+3.4 :King Richard, he is in the mighty hold : None
+3.4 :Of Bolingbroke: their fortunes both are weigh'd: : None
+3.4 :In your lord's scale is nothing but himself, : None
+3.4 :And some few vanities that make him light; : None
+3.4 :But in the balance of great Bolingbroke, : None
+3.4 :Besides himself, are all the English peers, : None
+3.4 :And with that odds he weighs King Richard down. : None
+3.4 :Post you to London, and you will find it so; : None
+3.4 :I speak no more than every one doth know. : None
+QUEEN
+3.4 :Nimble mischance, that art so light of foot, : None
+3.4 :Doth not thy embassage belong to me, : None
+3.4 :And am I last that knows it? O, thou think'st : None
+3.4 :To serve me last, that I may longest keep : None
+3.4 :Thy sorrow in my breast. Come, ladies, go, : None
+3.4 :To meet at London London's king in woe. : None
+3.4 :What, was I born to this, that my sad look : None
+3.4 :Should grace the triumph of great Bolingbroke? : None
+3.4 :Gardener, for telling me these news of woe, : None
+3.4 :Pray God the plants thou graft'st may never grow. : None
+Exeunt QUEEN and Ladies : ["Exeunt - ['QUEEN']"] : QUEEN
+GARDENER
+3.4 :Poor queen! so that thy state might be no worse, : None
+3.4 :I would my skill were subject to thy curse. : None
+3.4 :Here did she fall a tear; here in this place : None
+3.4 :I'll set a bank of rue, sour herb of grace: : None
+3.4 :Rue, even for ruth, here shortly shall be seen, : None
+3.4 :In the remembrance of a weeping queen. : None
+Exeunt : ['Exeunt - []'] : GARDENER
+Act(act=4)
+Scene(scene=1)
+Enter, as to the Parliament, HENRY BOLINGBROKE,  DUKE OF AUMERLE, NORTHUMBERLAND, HENRY PERCY, LORD  FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE,  the Abbot Of Westminster, and another Lord, Herald, Officers, and BAGOT : ["Enter - ['HENRY BOLINGBROKE', 'DUKE OF AUMERLE', 'NORTHUMBERLAND', 'HENRY PERCY', 'LORD', 'DUKE OF SURREY', 'BISHOP OF CARLISLE', 'ABBOT', 'LORD', 'BAGOT']"] : GARDENER
+HENRY BOLINGBROKE
+4.1 :Call forth Bagot. : None
+4.1 :Now, Bagot, freely speak thy mind; : None
+4.1 :What thou dost know of noble Gloucester's death, : None
+4.1 :Who wrought it with the king, and who perform'd : None
+4.1 :The bloody office of his timeless end. : None
+BAGOT
+4.1 :Then set before my face the Lord Aumerle. : None
+HENRY BOLINGBROKE
+4.1 :Cousin, stand forth, and look upon that man. : None
+BAGOT
+4.1 :My Lord Aumerle, I know your daring tongue : None
+4.1 :Scorns to unsay what once it hath deliver'd. : None
+4.1 :In that dead time when Gloucester's death was plotted, : None
+4.1 :I heard you say, 'Is not my arm of length, : None
+4.1 :That reacheth from the restful English court : None
+4.1 :As far as Calais, to mine uncle's head?' : None
+4.1 :Amongst much other talk, that very time, : None
+4.1 :I heard you say that you had rather refuse : None
+4.1 :The offer of an hundred thousand crowns : None
+4.1 :Than Bolingbroke's return to England; : None
+4.1 :Adding withal how blest this land would be : None
+4.1 :In this your cousin's death. : None
+DUKE OF AUMERLE
+4.1 :Princes and noble lords, : None
+4.1 :What answer shall I make to this base man? : None
+4.1 :Shall I so much dishonour my fair stars, : None
+4.1 :On equal terms to give him chastisement? : None
+4.1 :Either I must, or have mine honour soil'd : None
+4.1 :With the attainder of his slanderous lips. : None
+4.1 :There is my gage, the manual seal of death, : None
+4.1 :That marks thee out for hell: I say, thou liest, : None
+4.1 :And will maintain what thou hast said is false : None
+4.1 :In thy heart-blood, though being all too base : None
+4.1 :To stain the temper of my knightly sword. : None
+HENRY BOLINGBROKE
+4.1 :Bagot, forbear; thou shalt not take it up. : None
+DUKE OF AUMERLE
+4.1 :Excepting one, I would he were the best : None
+4.1 :In all this presence that hath moved me so. : None
+LORD FITZWATER
+4.1 :If that thy valour stand on sympathy, : None
+4.1 :There is my gage, Aumerle, in gage to thine: : None
+4.1 :By that fair sun which shows me where thou stand'st, : None
+4.1 :I heard thee say, and vauntingly thou spakest it : None
+4.1 :That thou wert cause of noble Gloucester's death. : None
+4.1 :If thou deny'st it twenty times, thou liest; : None
+4.1 :And I will turn thy falsehood to thy heart, : None
+4.1 :Where it was forged, with my rapier's point. : None
+DUKE OF AUMERLE
+4.1 :Thou darest not, coward, live to see that day. : None
+LORD FITZWATER
+4.1 :Now by my soul, I would it were this hour. : None
+DUKE OF AUMERLE
+4.1 :Fitzwater, thou art damn'd to hell for this. : None
+HENRY PERCY
+4.1 :Aumerle, thou liest; his honour is as true : None
+4.1 :In this appeal as thou art all unjust; : None
+4.1 :And that thou art so, there I throw my gage, : None
+4.1 :To prove it on thee to the extremest point : None
+4.1 :Of mortal breathing: seize it, if thou darest. : None
+DUKE OF AUMERLE
+4.1 :An if I do not, may my hands rot off : None
+4.1 :And never brandish more revengeful steel : None
+4.1 :Over the glittering helmet of my foe! : None
+LORD
+4.1 :I task the earth to the like, forsworn Aumerle; : None
+4.1 :And spur thee on with full as many lies : None
+4.1 :As may be holloa'd in thy treacherous ear : None
+4.1 :From sun to sun: there is my honour's pawn; : None
+4.1 :Engage it to the trial, if thou darest. : None
+DUKE OF AUMERLE
+4.1 :Who sets me else? by heaven, I'll throw at all: : None
+4.1 :I have a thousand spirits in one breast, : None
+4.1 :To answer twenty thousand such as you. : None
+DUKE OF SURREY
+4.1 :My Lord Fitzwater, I do remember well : None
+4.1 :The very time Aumerle and you did talk. : None
+LORD FITZWATER
+4.1 :'Tis very true: you were in presence then; : None
+4.1 :And you can witness with me this is true. : None
+DUKE OF SURREY
+4.1 :As false, by heaven, as heaven itself is true. : None
+LORD FITZWATER
+4.1 :Surrey, thou liest. : None
+DUKE OF SURREY
+4.1 :Dishonourable boy! : None
+4.1 :That lie shall lie so heavy on my sword, : None
+4.1 :That it shall render vengeance and revenge : None
+4.1 :Till thou the lie-giver and that lie do lie : None
+4.1 :In earth as quiet as thy father's skull: : None
+4.1 :In proof whereof, there is my honour's pawn; : None
+4.1 :Engage it to the trial, if thou darest. : None
+LORD FITZWATER
+4.1 :How fondly dost thou spur a forward horse! : None
+4.1 :If I dare eat, or drink, or breathe, or live, : None
+4.1 :I dare meet Surrey in a wilderness, : None
+4.1 :And spit upon him, whilst I say he lies, : None
+4.1 :And lies, and lies: there is my bond of faith, : None
+4.1 :To tie thee to my strong correction. : None
+4.1 :As I intend to thrive in this new world, : None
+4.1 :Aumerle is guilty of my true appeal: : None
+4.1 :Besides, I heard the banish'd Norfolk say : None
+4.1 :That thou, Aumerle, didst send two of thy men : None
+4.1 :To execute the noble duke at Calais. : None
+DUKE OF AUMERLE
+4.1 :Some honest Christian trust me with a gage : None
+4.1 :That Norfolk lies: here do I throw down this, : None
+4.1 :If he may be repeal'd, to try his honour. : None
+HENRY BOLINGBROKE
+4.1 :These differences shall all rest under gage : None
+4.1 :Till Norfolk be repeal'd: repeal'd he shall be, : None
+4.1 :And, though mine enemy, restored again : None
+4.1 :To all his lands and signories: when he's return'd, : None
+4.1 :Against Aumerle we will enforce his trial. : None
+BISHOP OF CARLISLE
+4.1 :That honourable day shall ne'er be seen. : None
+4.1 :Many a time hath banish'd Norfolk fought : None
+4.1 :For Jesu Christ in glorious Christian field, : None
+4.1 :Streaming the ensign of the Christian cross : None
+4.1 :Against black pagans, Turks, and Saracens: : None
+4.1 :And toil'd with works of war, retired himself : None
+4.1 :To Italy; and there at Venice gave : None
+4.1 :His body to that pleasant country's earth, : None
+4.1 :And his pure soul unto his captain Christ, : None
+4.1 :Under whose colours he had fought so long. : None
+HENRY BOLINGBROKE
+4.1 :Why, bishop, is Norfolk dead? : None
+BISHOP OF CARLISLE
+4.1 :As surely as I live, my lord. : None
+HENRY BOLINGBROKE
+4.1 :Sweet peace conduct his sweet soul to the bosom : None
+4.1 :Of good old Abraham! Lords appellants, : None
+4.1 :Your differences shall all rest under gage : None
+4.1 :Till we assign you to your days of trial. : None
+Enter DUKE OF YORK, attended : ["Enter - ['DUKE OF YORK']"] : HENRY BOLINGBROKE
+DUKE OF YORK
+4.1 :Great Duke of Lancaster, I come to thee : None
+4.1 :From plume-pluck'd Richard; who with willing soul : None
+4.1 :Adopts thee heir, and his high sceptre yields : None
+4.1 :To the possession of thy royal hand: : None
+4.1 :Ascend his throne, descending now from him; : None
+4.1 :And long live Henry, fourth of that name! : None
+HENRY BOLINGBROKE
+4.1 :In God's name, I'll ascend the regal throne. : None
+BISHOP OF CARLISLE
+4.1 :Marry. God forbid! : None
+4.1 :Worst in this royal presence may I speak, : None
+4.1 :Yet best beseeming me to speak the truth. : None
+4.1 :Would God that any in this noble presence : None
+4.1 :Were enough noble to be upright judge : None
+4.1 :Of noble Richard! then true noblesse would : None
+4.1 :Learn him forbearance from so foul a wrong. : None
+4.1 :What subject can give sentence on his king? : None
+4.1 :And who sits here that is not Richard's subject? : None
+4.1 :Thieves are not judged but they are by to hear, : None
+4.1 :Although apparent guilt be seen in them; : None
+4.1 :And shall the figure of God's majesty, : None
+4.1 :His captain, steward, deputy-elect, : None
+4.1 :Anointed, crowned, planted many years, : None
+4.1 :Be judged by subject and inferior breath, : None
+4.1 :And he himself not present? O, forfend it, God, : None
+4.1 :That in a Christian climate souls refined : None
+4.1 :Should show so heinous, black, obscene a deed! : None
+4.1 :I speak to subjects, and a subject speaks, : None
+4.1 :Stirr'd up by God, thus boldly for his king: : None
+4.1 :My Lord of Hereford here, whom you call king, : None
+4.1 :Is a foul traitor to proud Hereford's king: : None
+4.1 :And if you crown him, let me prophesy: : None
+4.1 :The blood of English shall manure the ground, : None
+4.1 :And future ages groan for this foul act; : None
+4.1 :Peace shall go sleep with Turks and infidels, : None
+4.1 :And in this seat of peace tumultuous wars : None
+4.1 :Shall kin with kin and kind with kind confound; : None
+4.1 :Disorder, horror, fear and mutiny : None
+4.1 :Shall here inhabit, and this land be call'd : None
+4.1 :The field of Golgotha and dead men's skulls. : None
+4.1 :O, if you raise this house against this house, : None
+4.1 :It will the woefullest division prove : None
+4.1 :That ever fell upon this cursed earth. : None
+4.1 :Prevent it, resist it, let it not be so, : None
+4.1 :Lest child, child's children, cry against you woe! : None
+NORTHUMBERLAND
+4.1 :Well have you argued, sir; and, for your pains, : None
+4.1 :Of capital treason we arrest you here. : None
+4.1 :My Lord of Westminster, be it your charge : None
+4.1 :To keep him safely till his day of trial. : None
+4.1 :May it please you, lords, to grant the commons' suit. : None
+HENRY BOLINGBROKE
+4.1 :Fetch hither Richard, that in common view : None
+4.1 :He may surrender; so we shall proceed : None
+4.1 :Without suspicion. : None
+DUKE OF YORK
+4.1 :                  I will be his conduct. : None
+Exit : ['Exit - []'] : DUKE OF YORK
+HENRY BOLINGBROKE
+4.1 :Lords, you that here are under our arrest, : None
+4.1 :Procure your sureties for your days of answer. : None
+4.1 :Little are we beholding to your love, : None
+4.1 :And little look'd for at your helping hands. : None
+Re-enter DUKE OF YORK, with KING RICHARD II, and Officers bearing the regalia : ["Re-enter - ['DUKE OF YORK', 'KING RICHARD II']"] : HENRY BOLINGBROKE
+KING RICHARD II
+4.1 :Alack, why am I sent for to a king, : None
+4.1 :Before I have shook off the regal thoughts : None
+4.1 :Wherewith I reign'd? I hardly yet have learn'd : None
+4.1 :To insinuate, flatter, bow, and bend my limbs: : None
+4.1 :Give sorrow leave awhile to tutor me : None
+4.1 :To this submission. Yet I well remember : None
+4.1 :The favours of these men: were they not mine? : None
+4.1 :Did they not sometime cry, 'all hail!' to me? : None
+4.1 :So Judas did to Christ: but he, in twelve, : None
+4.1 :Found truth in all but one: I, in twelve thousand, none. : None
+4.1 :God save the king! Will no man say amen? : None
+4.1 :Am I both priest and clerk? well then, amen. : None
+4.1 :God save the king! although I be not he; : None
+4.1 :And yet, amen, if heaven do think him me. : None
+4.1 :To do what service am I sent for hither? : None
+DUKE OF YORK
+4.1 :To do that office of thine own good will : None
+4.1 :Which tired majesty did make thee offer, : None
+4.1 :The resignation of thy state and crown : None
+4.1 :To Henry Bolingbroke. : None
+KING RICHARD II
+4.1 :Give me the crown. Here, cousin, seize the crown; : None
+4.1 :Here cousin: : None
+4.1 :On this side my hand, and on that side yours. : None
+4.1 :Now is this golden crown like a deep well : None
+4.1 :That owes two buckets, filling one another, : None
+4.1 :The emptier ever dancing in the air, : None
+4.1 :The other down, unseen and full of water: : None
+4.1 :That bucket down and full of tears am I, : None
+4.1 :Drinking my griefs, whilst you mount up on high. : None
+HENRY BOLINGBROKE
+4.1 :I thought you had been willing to resign. : None
+KING RICHARD II
+4.1 :My crown I am; but still my griefs are mine: : None
+4.1 :You may my glories and my state depose, : None
+4.1 :But not my griefs; still am I king of those. : None
+HENRY BOLINGBROKE
+4.1 :Part of your cares you give me with your crown. : None
+KING RICHARD II
+4.1 :Your cares set up do not pluck my cares down. : None
+4.1 :My care is loss of care, by old care done; : None
+4.1 :Your care is gain of care, by new care won: : None
+4.1 :The cares I give I have, though given away; : None
+4.1 :They tend the crown, yet still with me they stay. : None
+HENRY BOLINGBROKE
+4.1 :Are you contented to resign the crown? : None
+KING RICHARD II
+4.1 :Ay, no; no, ay; for I must nothing be; : None
+4.1 :Therefore no no, for I resign to thee. : None
+4.1 :Now mark me, how I will undo myself; : None
+4.1 :I give this heavy weight from off my head : None
+4.1 :And this unwieldy sceptre from my hand, : None
+4.1 :The pride of kingly sway from out my heart; : None
+4.1 :With mine own tears I wash away my balm, : None
+4.1 :With mine own hands I give away my crown, : None
+4.1 :With mine own tongue deny my sacred state, : None
+4.1 :With mine own breath release all duty's rites: : None
+4.1 :All pomp and majesty I do forswear; : None
+4.1 :My manors, rents, revenues I forego; : None
+4.1 :My acts, decrees, and statutes I deny: : None
+4.1 :God pardon all oaths that are broke to me! : None
+4.1 :God keep all vows unbroke that swear to thee! : None
+4.1 :Make me, that nothing have, with nothing grieved, : None
+4.1 :And thou with all pleased, that hast all achieved! : None
+4.1 :Long mayst thou live in Richard's seat to sit, : None
+4.1 :And soon lie Richard in an earthly pit! : None
+4.1 :God save King Harry, unking'd Richard says, : None
+4.1 :And send him many years of sunshine days! : None
+4.1 :What more remains? : None
+NORTHUMBERLAND
+4.1 :                  No more, but that you read : None
+4.1 :These accusations and these grievous crimes : None
+4.1 :Committed by your person and your followers : None
+4.1 :Against the state and profit of this land; : None
+4.1 :That, by confessing them, the souls of men : None
+4.1 :May deem that you are worthily deposed. : None
+KING RICHARD II
+4.1 :Must I do so? and must I ravel out : None
+4.1 :My weaved-up folly? Gentle Northumberland, : None
+4.1 :If thy offences were upon record, : None
+4.1 :Would it not shame thee in so fair a troop : None
+4.1 :To read a lecture of them? If thou wouldst, : None
+4.1 :There shouldst thou find one heinous article, : None
+4.1 :Containing the deposing of a king : None
+4.1 :And cracking the strong warrant of an oath, : None
+4.1 :Mark'd with a blot, damn'd in the book of heaven: : None
+4.1 :Nay, all of you that stand and look upon, : None
+4.1 :Whilst that my wretchedness doth bait myself, : None
+4.1 :Though some of you with Pilate wash your hands : None
+4.1 :Showing an outward pity; yet you Pilates : None
+4.1 :Have here deliver'd me to my sour cross, : None
+4.1 :And water cannot wash away your sin. : None
+NORTHUMBERLAND
+4.1 :My lord, dispatch; read o'er these articles. : None
+KING RICHARD II
+4.1 :Mine eyes are full of tears, I cannot see: : None
+4.1 :And yet salt water blinds them not so much : None
+4.1 :But they can see a sort of traitors here. : None
+4.1 :Nay, if I turn mine eyes upon myself, : None
+4.1 :I find myself a traitor with the rest; : None
+4.1 :For I have given here my soul's consent : None
+4.1 :To undeck the pompous body of a king; : None
+4.1 :Made glory base and sovereignty a slave, : None
+4.1 :Proud majesty a subject, state a peasant. : None
+NORTHUMBERLAND
+4.1 :My lord,-- : None
+KING RICHARD II
+4.1 :No lord of thine, thou haught insulting man, : None
+4.1 :Nor no man's lord; I have no name, no title, : None
+4.1 :No, not that name was given me at the font, : None
+4.1 :But 'tis usurp'd: alack the heavy day, : None
+4.1 :That I have worn so many winters out, : None
+4.1 :And know not now what name to call myself! : None
+4.1 :O that I were a mockery king of snow, : None
+4.1 :Standing before the sun of Bolingbroke, : None
+4.1 :To melt myself away in water-drops! : None
+4.1 :Good king, great king, and yet not greatly good, : None
+4.1 :An if my word be sterling yet in England, : None
+4.1 :Let it command a mirror hither straight, : None
+4.1 :That it may show me what a face I have, : None
+4.1 :Since it is bankrupt of his majesty. : None
+HENRY BOLINGBROKE
+4.1 :Go some of you and fetch a looking-glass. : None
+Exit an attendant : ['Exit - []'] : HENRY BOLINGBROKE
+NORTHUMBERLAND
+4.1 :Read o'er this paper while the glass doth come. : None
+KING RICHARD II
+4.1 :Fiend, thou torment'st me ere I come to hell! : None
+HENRY BOLINGBROKE
+4.1 :Urge it no more, my Lord Northumberland. : None
+NORTHUMBERLAND
+4.1 :The commons will not then be satisfied. : None
+KING RICHARD II
+4.1 :They shall be satisfied: I'll read enough, : None
+4.1 :When I do see the very book indeed : None
+4.1 :Where all my sins are writ, and that's myself. : None
+Re-enter Attendant, with a glass : ['Re-enter - []'] : KING RICHARD II
+4.1 :Give me the glass, and therein will I read. : None
+4.1 :No deeper wrinkles yet? hath sorrow struck : None
+4.1 :So many blows upon this face of mine, : None
+4.1 :And made no deeper wounds? O flattering glass, : None
+4.1 :Like to my followers in prosperity, : None
+4.1 :Thou dost beguile me! Was this face the face : None
+4.1 :That every day under his household roof : None
+4.1 :Did keep ten thousand men? was this the face : None
+4.1 :That, like the sun, did make beholders wink? : None
+4.1 :Was this the face that faced so many follies, : None
+4.1 :And was at last out-faced by Bolingbroke? : None
+4.1 :A brittle glory shineth in this face: : None
+4.1 :As brittle as the glory is the face; : None
+Dashes the glass against the ground : ['None - []'] : KING RICHARD II
+4.1 :For there it is, crack'd in a hundred shivers. : None
+4.1 :Mark, silent king, the moral of this sport, : None
+4.1 :How soon my sorrow hath destroy'd my face. : None
+HENRY BOLINGBROKE
+4.1 :The shadow of your sorrow hath destroy'd : None
+4.1 :The shadow or your face. : None
+KING RICHARD II
+4.1 :Say that again. : None
+4.1 :The shadow of my sorrow! ha! let's see: : None
+4.1 :'Tis very true, my grief lies all within; : None
+4.1 :And these external manners of laments : None
+4.1 :Are merely shadows to the unseen grief : None
+4.1 :That swells with silence in the tortured soul; : None
+4.1 :There lies the substance: and I thank thee, king, : None
+4.1 :For thy great bounty, that not only givest : None
+4.1 :Me cause to wail but teachest me the way : None
+4.1 :How to lament the cause. I'll beg one boon, : None
+4.1 :And then be gone and trouble you no more. : None
+4.1 :Shall I obtain it? : None
+HENRY BOLINGBROKE
+4.1 :                  Name it, fair cousin. : None
+KING RICHARD II
+4.1 :'Fair cousin'? I am greater than a king: : None
+4.1 :For when I was a king, my flatterers : None
+4.1 :Were then but subjects; being now a subject, : None
+4.1 :I have a king here to my flatterer. : None
+4.1 :Being so great, I have no need to beg. : None
+HENRY BOLINGBROKE
+4.1 :Yet ask. : None
+KING RICHARD II
+4.1 :And shall I have? : None
+HENRY BOLINGBROKE
+4.1 :You shall. : None
+KING RICHARD II
+4.1 :Then give me leave to go. : None
+HENRY BOLINGBROKE
+4.1 :Whither? : None
+KING RICHARD II
+4.1 :Whither you will, so I were from your sights. : None
+HENRY BOLINGBROKE
+4.1 :Go, some of you convey him to the Tower. : None
+KING RICHARD II
+4.1 :O, good! convey? conveyers are you all, : None
+4.1 :That rise thus nimbly by a true king's fall. : None
+Exeunt KING RICHARD II, some Lords, and a Guard : ["Exeunt - ['KING RICHARD II', 'LORD']"] : KING RICHARD II
+HENRY BOLINGBROKE
+4.1 :On Wednesday next we solemnly set down : None
+4.1 :Our coronation: lords, prepare yourselves. : None
+Exeunt all except the BISHOP OF CARLISLE, the Abbot of Westminster, and DUKE OF AUMERLE : ["Exeunt - ['ALL', 'BISHOP OF CARLISLE', 'ABBOT', 'DUKE OF AUMERLE']"] : HENRY BOLINGBROKE
+ABBOT
+4.1 :A woeful pageant have we here beheld. : None
+BISHOP OF CARLISLE
+4.1 :The woe's to come; the children yet unborn. : None
+4.1 :Shall feel this day as sharp to them as thorn. : None
+DUKE OF AUMERLE
+4.1 :You holy clergymen, is there no plot : None
+4.1 :To rid the realm of this pernicious blot? : None
+ABBOT
+4.1 :My lord, : None
+4.1 :Before I freely speak my mind herein, : None
+4.1 :You shall not only take the sacrament : None
+4.1 :To bury mine intents, but also to effect : None
+4.1 :Whatever I shall happen to devise. : None
+4.1 :I see your brows are full of discontent, : None
+4.1 :Your hearts of sorrow and your eyes of tears: : None
+4.1 :Come home with me to supper; and I'll lay : None
+4.1 :A plot shall show us all a merry day. : None
+Exeunt : ['Exeunt - []'] : ABBOT
+Act(act=5)
+Scene(scene=1)
+Enter QUEEN and Ladies : ["Enter - ['QUEEN']"] : ABBOT
+QUEEN
+5.1 :This way the king will come; this is the way : None
+5.1 :To Julius Caesar's ill-erected tower, : None
+5.1 :To whose flint bosom my condemned lord : None
+5.1 :Is doom'd a prisoner by proud Bolingbroke: : None
+5.1 :Here let us rest, if this rebellious earth : None
+5.1 :Have any resting for her true king's queen. : None
+Enter KING RICHARD II and Guard : ["Enter - ['KING RICHARD II']"] : QUEEN
+5.1 :But soft, but see, or rather do not see, : None
+5.1 :My fair rose wither: yet look up, behold, : None
+5.1 :That you in pity may dissolve to dew, : None
+5.1 :And wash him fresh again with true-love tears. : None
+5.1 :Ah, thou, the model where old Troy did stand, : None
+5.1 :Thou map of honour, thou King Richard's tomb, : None
+5.1 :And not King Richard; thou most beauteous inn, : None
+5.1 :Why should hard-favour'd grief be lodged in thee, : None
+5.1 :When triumph is become an alehouse guest? : None
+KING RICHARD II
+5.1 :Join not with grief, fair woman, do not so, : None
+5.1 :To make my end too sudden: learn, good soul, : None
+5.1 :To think our former state a happy dream; : None
+5.1 :From which awaked, the truth of what we are : None
+5.1 :Shows us but this: I am sworn brother, sweet, : None
+5.1 :To grim Necessity, and he and I : None
+5.1 :Will keep a league till death. Hie thee to France : None
+5.1 :And cloister thee in some religious house: : None
+5.1 :Our holy lives must win a new world's crown, : None
+5.1 :Which our profane hours here have stricken down. : None
+QUEEN
+5.1 :What, is my Richard both in shape and mind : None
+5.1 :Transform'd and weaken'd? hath Bolingbroke deposed : None
+5.1 :Thine intellect? hath he been in thy heart? : None
+5.1 :The lion dying thrusteth forth his paw, : None
+5.1 :And wounds the earth, if nothing else, with rage : None
+5.1 :To be o'erpower'd; and wilt thou, pupil-like, : None
+5.1 :Take thy correction mildly, kiss the rod, : None
+5.1 :And fawn on rage with base humility, : None
+5.1 :Which art a lion and a king of beasts? : None
+KING RICHARD II
+5.1 :A king of beasts, indeed; if aught but beasts, : None
+5.1 :I had been still a happy king of men. : None
+5.1 :Good sometime queen, prepare thee hence for France: : None
+5.1 :Think I am dead and that even here thou takest, : None
+5.1 :As from my death-bed, thy last living leave. : None
+5.1 :In winter's tedious nights sit by the fire : None
+5.1 :With good old folks and let them tell thee tales : None
+5.1 :Of woeful ages long ago betid; : None
+5.1 :And ere thou bid good night, to quit their griefs, : None
+5.1 :Tell thou the lamentable tale of me : None
+5.1 :And send the hearers weeping to their beds: : None
+5.1 :For why, the senseless brands will sympathize : None
+5.1 :The heavy accent of thy moving tongue : None
+5.1 :And in compassion weep the fire out; : None
+5.1 :And some will mourn in ashes, some coal-black, : None
+5.1 :For the deposing of a rightful king. : None
+Enter NORTHUMBERLAND and others : ["Enter - ['NORTHUMBERLAND']"] : KING RICHARD II
+NORTHUMBERLAND
+5.1 :My lord, the mind of Bolingbroke is changed: : None
+5.1 :You must to Pomfret, not unto the Tower. : None
+5.1 :And, madam, there is order ta'en for you; : None
+5.1 :With all swift speed you must away to France. : None
+KING RICHARD II
+5.1 :Northumberland, thou ladder wherewithal : None
+5.1 :The mounting Bolingbroke ascends my throne, : None
+5.1 :The time shall not be many hours of age : None
+5.1 :More than it is ere foul sin gathering head : None
+5.1 :Shalt break into corruption: thou shalt think, : None
+5.1 :Though he divide the realm and give thee half, : None
+5.1 :It is too little, helping him to all; : None
+5.1 :And he shall think that thou, which know'st the way : None
+5.1 :To plant unrightful kings, wilt know again, : None
+5.1 :Being ne'er so little urged, another way : None
+5.1 :To pluck him headlong from the usurped throne. : None
+5.1 :The love of wicked men converts to fear; : None
+5.1 :That fear to hate, and hate turns one or both : None
+5.1 :To worthy danger and deserved death. : None
+NORTHUMBERLAND
+5.1 :My guilt be on my head, and there an end. : None
+5.1 :Take leave and part; for you must part forthwith. : None
+KING RICHARD II
+5.1 :Doubly divorced! Bad men, you violate : None
+5.1 :A twofold marriage, 'twixt my crown and me, : None
+5.1 :And then betwixt me and my married wife. : None
+5.1 :Let me unkiss the oath 'twixt thee and me; : None
+5.1 :And yet not so, for with a kiss 'twas made. : None
+5.1 :Part us, Northumberland; I toward the north, : None
+5.1 :Where shivering cold and sickness pines the clime; : None
+5.1 :My wife to France: from whence, set forth in pomp, : None
+5.1 :She came adorned hither like sweet May, : None
+5.1 :Sent back like Hallowmas or short'st of day. : None
+QUEEN
+5.1 :And must we be divided? must we part? : None
+KING RICHARD II
+5.1 :Ay, hand from hand, my love, and heart from heart. : None
+QUEEN
+5.1 :Banish us both and send the king with me. : None
+NORTHUMBERLAND
+5.1 :That were some love but little policy. : None
+QUEEN
+5.1 :Then whither he goes, thither let me go. : None
+KING RICHARD II
+5.1 :So two, together weeping, make one woe. : None
+5.1 :Weep thou for me in France, I for thee here; : None
+5.1 :Better far off than near, be ne'er the near. : None
+5.1 :Go, count thy way with sighs; I mine with groans. : None
+QUEEN
+5.1 :So longest way shall have the longest moans. : None
+KING RICHARD II
+5.1 :Twice for one step I'll groan, the way being short, : None
+5.1 :And piece the way out with a heavy heart. : None
+5.1 :Come, come, in wooing sorrow let's be brief, : None
+5.1 :Since, wedding it, there is such length in grief; : None
+5.1 :One kiss shall stop our mouths, and dumbly part; : None
+5.1 :Thus give I mine, and thus take I thy heart. : None
+QUEEN
+5.1 :Give me mine own again; 'twere no good part : None
+5.1 :To take on me to keep and kill thy heart. : None
+5.1 :So, now I have mine own again, be gone, : None
+5.1 :That I might strive to kill it with a groan. : None
+KING RICHARD II
+5.1 :We make woe wanton with this fond delay: : None
+5.1 :Once more, adieu; the rest let sorrow say. : None
+Exeunt : ['Exeunt - []'] : KING RICHARD II
+Scene(scene=2)
+Enter DUKE OF YORK and DUCHESS OF YORK : ["Enter - ['DUKE OF YORK', 'DUCHESS']"] : KING RICHARD II
+DUCHESS OF YORK
+5.2 :My lord, you told me you would tell the rest, : None
+5.2 :When weeping made you break the story off, : None
+5.2 :of our two cousins coming into London. : None
+DUKE OF YORK
+5.2 :Where did I leave? : None
+DUCHESS OF YORK
+5.2 :                  At that sad stop, my lord, : None
+5.2 :Where rude misgovern'd hands from windows' tops : None
+5.2 :Threw dust and rubbish on King Richard's head. : None
+DUKE OF YORK
+5.2 :Then, as I said, the duke, great Bolingbroke, : None
+5.2 :Mounted upon a hot and fiery steed : None
+5.2 :Which his aspiring rider seem'd to know, : None
+5.2 :With slow but stately pace kept on his course, : None
+5.2 :Whilst all tongues cried 'God save thee, : None
+5.2 :Bolingbroke!' : None
+5.2 :You would have thought the very windows spake, : None
+5.2 :So many greedy looks of young and old : None
+5.2 :Through casements darted their desiring eyes : None
+5.2 :Upon his visage, and that all the walls : None
+5.2 :With painted imagery had said at once : None
+5.2 :'Jesu preserve thee! welcome, Bolingbroke!' : None
+5.2 :Whilst he, from the one side to the other turning, : None
+5.2 :Bareheaded, lower than his proud steed's neck, : None
+5.2 :Bespake them thus: 'I thank you, countrymen:' : None
+5.2 :And thus still doing, thus he pass'd along. : None
+DUCHESS OF YORK
+5.2 :Alack, poor Richard! where rode he the whilst? : None
+DUKE OF YORK
+5.2 :As in a theatre, the eyes of men, : None
+5.2 :After a well-graced actor leaves the stage, : None
+5.2 :Are idly bent on him that enters next, : None
+5.2 :Thinking his prattle to be tedious; : None
+5.2 :Even so, or with much more contempt, men's eyes : None
+5.2 :Did scowl on gentle Richard; no man cried 'God save him!' : None
+5.2 :No joyful tongue gave him his welcome home: : None
+5.2 :But dust was thrown upon his sacred head: : None
+5.2 :Which with such gentle sorrow he shook off, : None
+5.2 :His face still combating with tears and smiles, : None
+5.2 :The badges of his grief and patience, : None
+5.2 :That had not God, for some strong purpose, steel'd : None
+5.2 :The hearts of men, they must perforce have melted : None
+5.2 :And barbarism itself have pitied him. : None
+5.2 :But heaven hath a hand in these events, : None
+5.2 :To whose high will we bound our calm contents. : None
+5.2 :To Bolingbroke are we sworn subjects now, : None
+5.2 :Whose state and honour I for aye allow. : None
+DUCHESS OF YORK
+5.2 :Here comes my son Aumerle. : None
+DUKE OF YORK
+5.2 :Aumerle that was; : None
+5.2 :But that is lost for being Richard's friend, : None
+5.2 :And, madam, you must call him Rutland now: : None
+5.2 :I am in parliament pledge for his truth : None
+5.2 :And lasting fealty to the new-made king. : None
+Enter DUKE OF AUMERLE : ["Enter - ['DUKE OF AUMERLE']"] : DUKE OF YORK
+DUCHESS OF YORK
+5.2 :Welcome, my son: who are the violets now : None
+5.2 :That strew the green lap of the new come spring? : None
+DUKE OF AUMERLE
+5.2 :Madam, I know not, nor I greatly care not: : None
+5.2 :God knows I had as lief be none as one. : None
+DUKE OF YORK
+5.2 :Well, bear you well in this new spring of time, : None
+5.2 :Lest you be cropp'd before you come to prime. : None
+5.2 :What news from Oxford? hold those justs and triumphs? : None
+DUKE OF AUMERLE
+5.2 :For aught I know, my lord, they do. : None
+DUKE OF YORK
+5.2 :You will be there, I know. : None
+DUKE OF AUMERLE
+5.2 :If God prevent not, I purpose so. : None
+DUKE OF YORK
+5.2 :What seal is that, that hangs without thy bosom? : None
+5.2 :Yea, look'st thou pale? let me see the writing. : None
+DUKE OF AUMERLE
+5.2 :My lord, 'tis nothing. : None
+DUKE OF YORK
+5.2 :No matter, then, who see it; : None
+5.2 :I will be satisfied; let me see the writing. : None
+DUKE OF AUMERLE
+5.2 :I do beseech your grace to pardon me: : None
+5.2 :It is a matter of small consequence, : None
+5.2 :Which for some reasons I would not have seen. : None
+DUKE OF YORK
+5.2 :Which for some reasons, sir, I mean to see. : None
+5.2 :I fear, I fear,-- : None
+DUCHESS OF YORK
+5.2 :                  What should you fear? : None
+5.2 :'Tis nothing but some bond, that he is enter'd into : None
+5.2 :For gay apparel 'gainst the triumph day. : None
+DUKE OF YORK
+5.2 :Bound to himself! what doth he with a bond : None
+5.2 :That he is bound to? Wife, thou art a fool. : None
+5.2 :Boy, let me see the writing. : None
+DUKE OF AUMERLE
+5.2 :I do beseech you, pardon me; I may not show it. : None
+DUKE OF YORK
+5.2 :I will be satisfied; let me see it, I say. : None
+He plucks it out of his bosom and reads it : ['read - []'] : DUKE OF YORK
+5.2 :Treason! foul treason! Villain! traitor! slave! : None
+DUCHESS OF YORK
+5.2 :What is the matter, my lord? : None
+DUKE OF YORK
+5.2 :Ho! who is within there? : None
+Enter a Servant : ["Enter - ['SERVANT']"] : DUKE OF YORK
+5.2 :Saddle my horse. : None
+5.2 :God for his mercy, what treachery is here! : None
+DUCHESS OF YORK
+5.2 :Why, what is it, my lord? : None
+DUKE OF YORK
+5.2 :Give me my boots, I say; saddle my horse. : None
+5.2 :Now, by mine honour, by my life, by my troth, : None
+5.2 :I will appeach the villain. : None
+DUCHESS OF YORK
+5.2 :What is the matter? : None
+DUKE OF YORK
+5.2 :Peace, foolish woman. : None
+DUCHESS OF YORK
+5.2 :I will not peace. What is the matter, Aumerle. : None
+DUKE OF AUMERLE
+5.2 :Good mother, be content; it is no more : None
+5.2 :Than my poor life must answer. : None
+DUCHESS OF YORK
+5.2 :Thy life answer! : None
+DUKE OF YORK
+5.2 :Bring me my boots: I will unto the king. : None
+Re-enter Servant with boots : ["Re-enter - ['SERVANT']"] : DUKE OF YORK
+DUCHESS OF YORK
+5.2 :Strike him, Aumerle. Poor boy, thou art amazed. : None
+5.2 :Hence, villain! never more come in my sight. : None
+DUKE OF YORK
+5.2 :Give me my boots, I say. : None
+DUCHESS OF YORK
+5.2 :Why, York, what wilt thou do? : None
+5.2 :Wilt thou not hide the trespass of thine own? : None
+5.2 :Have we more sons? or are we like to have? : None
+5.2 :Is not my teeming date drunk up with time? : None
+5.2 :And wilt thou pluck my fair son from mine age, : None
+5.2 :And rob me of a happy mother's name? : None
+5.2 :Is he not like thee? is he not thine own? : None
+DUKE OF YORK
+5.2 :Thou fond mad woman, : None
+5.2 :Wilt thou conceal this dark conspiracy? : None
+5.2 :A dozen of them here have ta'en the sacrament, : None
+5.2 :And interchangeably set down their hands, : None
+5.2 :To kill the king at Oxford. : None
+DUCHESS OF YORK
+5.2 :He shall be none; : None
+5.2 :We'll keep him here: then what is that to him? : None
+DUKE OF YORK
+5.2 :Away, fond woman! were he twenty times my son, : None
+5.2 :I would appeach him. : None
+DUCHESS OF YORK
+5.2 :Hadst thou groan'd for him : None
+5.2 :As I have done, thou wouldst be more pitiful. : None
+5.2 :But now I know thy mind; thou dost suspect : None
+5.2 :That I have been disloyal to thy bed, : None
+5.2 :And that he is a bastard, not thy son: : None
+5.2 :Sweet York, sweet husband, be not of that mind: : None
+5.2 :He is as like thee as a man may be, : None
+5.2 :Not like to me, or any of my kin, : None
+5.2 :And yet I love him. : None
+DUKE OF YORK
+5.2 :Make way, unruly woman! : None
+Exit : ['Exit - []'] : DUKE OF YORK
+DUCHESS OF YORK
+5.2 :After, Aumerle! mount thee upon his horse; : None
+5.2 :Spur post, and get before him to the king, : None
+5.2 :And beg thy pardon ere he do accuse thee. : None
+5.2 :I'll not be long behind; though I be old, : None
+5.2 :I doubt not but to ride as fast as York: : None
+5.2 :And never will I rise up from the ground : None
+5.2 :Till Bolingbroke have pardon'd thee. Away, be gone! : None
+Exeunt : ['Exeunt - []'] : DUCHESS OF YORK
+Scene(scene=3)
+Enter HENRY BOLINGBROKE, HENRY PERCY, and other Lords : ["Enter - ['HENRY BOLINGBROKE', 'HENRY PERCY', 'LORD']"] : DUCHESS OF YORK
+HENRY BOLINGBROKE
+5.3 :Can no man tell me of my unthrifty son? : None
+5.3 :'Tis full three months since I did see him last; : None
+5.3 :If any plague hang over us, 'tis he. : None
+5.3 :I would to God, my lords, he might be found: : None
+5.3 :Inquire at London, 'mongst the taverns there, : None
+5.3 :For there, they say, he daily doth frequent, : None
+5.3 :With unrestrained loose companions, : None
+5.3 :Even such, they say, as stand in narrow lanes, : None
+5.3 :And beat our watch, and rob our passengers; : None
+5.3 :Which he, young wanton and effeminate boy, : None
+5.3 :Takes on the point of honour to support : None
+5.3 :So dissolute a crew. : None
+HENRY PERCY
+5.3 :My lord, some two days since I saw the prince, : None
+5.3 :And told him of those triumphs held at Oxford. : None
+HENRY BOLINGBROKE
+5.3 :And what said the gallant? : None
+HENRY PERCY
+5.3 :His answer was, he would unto the stews, : None
+5.3 :And from the common'st creature pluck a glove, : None
+5.3 :And wear it as a favour; and with that : None
+5.3 :He would unhorse the lustiest challenger. : None
+HENRY BOLINGBROKE
+5.3 :As dissolute as desperate; yet through both : None
+5.3 :I see some sparks of better hope, which elder years : None
+5.3 :May happily bring forth. But who comes here? : None
+Enter DUKE OF AUMERLE : ["Enter - ['DUKE OF AUMERLE']"] : HENRY BOLINGBROKE
+DUKE OF AUMERLE
+5.3 :Where is the king? : None
+HENRY BOLINGBROKE
+5.3 :What means our cousin, that he stares and looks : None
+5.3 :So wildly? : None
+DUKE OF AUMERLE
+5.3 :God save your grace! I do beseech your majesty, : None
+5.3 :To have some conference with your grace alone. : None
+HENRY BOLINGBROKE
+5.3 :Withdraw yourselves, and leave us here alone. : None
+Exeunt HENRY PERCY and Lords : ["Exeunt - ['HENRY PERCY', 'LORD']"] : HENRY BOLINGBROKE
+5.3 :What is the matter with our cousin now? : None
+DUKE OF AUMERLE
+5.3 :For ever may my knees grow to the earth, : None
+5.3 :My tongue cleave to my roof within my mouth : None
+5.3 :Unless a pardon ere I rise or speak. : None
+HENRY BOLINGBROKE
+5.3 :Intended or committed was this fault? : None
+5.3 :If on the first, how heinous e'er it be, : None
+5.3 :To win thy after-love I pardon thee. : None
+DUKE OF AUMERLE
+5.3 :Then give me leave that I may turn the key, : None
+5.3 :That no man enter till my tale be done. : None
+HENRY BOLINGBROKE
+5.3 :Have thy desire. : None
+DUKE OF YORK
+5.3 :  My liege, beware; look to thyself; : Within : ['None - []'] : DUKE OF YORK
+5.3 :Thou hast a traitor in thy presence there. : None
+HENRY BOLINGBROKE
+5.3 :Villain, I'll make thee safe. : None
+Drawing : ['None - []'] : HENRY BOLINGBROKE
+DUKE OF AUMERLE
+5.3 :Stay thy revengeful hand; thou hast no cause to fear. : None
+DUKE OF YORK
+5.3 :  Open the door, secure, foolhardy king: : Within : ['None - []'] : DUKE OF YORK
+5.3 :Shall I for love speak treason to thy face? : None
+5.3 :Open the door, or I will break it open. : None
+Enter DUKE OF YORK : ["Enter - ['DUKE OF YORK']"] : DUKE OF YORK
+HENRY BOLINGBROKE
+5.3 :What is the matter, uncle? speak; : None
+5.3 :Recover breath; tell us how near is danger, : None
+5.3 :That we may arm us to encounter it. : None
+DUKE OF YORK
+5.3 :Peruse this writing here, and thou shalt know : None
+5.3 :The treason that my haste forbids me show. : None
+DUKE OF AUMERLE
+5.3 :Remember, as thou read'st, thy promise pass'd: : None
+5.3 :I do repent me; read not my name there : None
+5.3 :My heart is not confederate with my hand. : None
+DUKE OF YORK
+5.3 :It was, villain, ere thy hand did set it down. : None
+5.3 :I tore it from the traitor's bosom, king; : None
+5.3 :Fear, and not love, begets his penitence: : None
+5.3 :Forget to pity him, lest thy pity prove : None
+5.3 :A serpent that will sting thee to the heart. : None
+HENRY BOLINGBROKE
+5.3 :O heinous, strong and bold conspiracy! : None
+5.3 :O loyal father of a treacherous son! : None
+5.3 :Thou sheer, immaculate and silver fountain, : None
+5.3 :From when this stream through muddy passages : None
+5.3 :Hath held his current and defiled himself! : None
+5.3 :Thy overflow of good converts to bad, : None
+5.3 :And thy abundant goodness shall excuse : None
+5.3 :This deadly blot in thy digressing son. : None
+DUKE OF YORK
+5.3 :So shall my virtue be his vice's bawd; : None
+5.3 :And he shall spend mine honour with his shame, : None
+5.3 :As thriftless sons their scraping fathers' gold. : None
+5.3 :Mine honour lives when his dishonour dies, : None
+5.3 :Or my shamed life in his dishonour lies: : None
+5.3 :Thou kill'st me in his life; giving him breath, : None
+5.3 :The traitor lives, the true man's put to death. : None
+DUCHESS OF YORK
+5.3 :  What ho, my liege! for God's sake, : Within : ['None - []'] : DUCHESS OF YORK
+5.3 :let me in. : None
+HENRY BOLINGBROKE
+5.3 :What shrill-voiced suppliant makes this eager cry? : None
+DUCHESS OF YORK
+5.3 :A woman, and thy aunt, great king; 'tis I. : None
+5.3 :Speak with me, pity me, open the door. : None
+5.3 :A beggar begs that never begg'd before. : None
+HENRY BOLINGBROKE
+5.3 :Our scene is alter'd from a serious thing, : None
+5.3 :And now changed to 'The Beggar and the King.' : None
+5.3 :My dangerous cousin, let your mother in: : None
+5.3 :I know she is come to pray for your foul sin. : None
+DUKE OF YORK
+5.3 :If thou do pardon, whosoever pray, : None
+5.3 :More sins for this forgiveness prosper may. : None
+5.3 :This fester'd joint cut off, the rest rest sound; : None
+5.3 :This let alone will all the rest confound. : None
+Enter DUCHESS OF YORK : ["Enter - ['DUCHESS']"] : DUKE OF YORK
+DUCHESS OF YORK
+5.3 :O king, believe not this hard-hearted man! : None
+5.3 :Love loving not itself none other can. : None
+DUKE OF YORK
+5.3 :Thou frantic woman, what dost thou make here? : None
+5.3 :Shall thy old dugs once more a traitor rear? : None
+DUCHESS OF YORK
+5.3 :Sweet York, be patient. Hear me, gentle liege. : None
+Kneels : ['None - []'] : DUCHESS OF YORK
+HENRY BOLINGBROKE
+5.3 :Rise up, good aunt. : None
+DUCHESS OF YORK
+5.3 :Not yet, I thee beseech: : None
+5.3 :For ever will I walk upon my knees, : None
+5.3 :And never see day that the happy sees, : None
+5.3 :Till thou give joy; until thou bid me joy, : None
+5.3 :By pardoning Rutland, my transgressing boy. : None
+DUKE OF AUMERLE
+5.3 :Unto my mother's prayers I bend my knee. : None
+DUKE OF YORK
+5.3 :Against them both my true joints bended be. : None
+5.3 :Ill mayst thou thrive, if thou grant any grace! : None
+DUCHESS OF YORK
+5.3 :Pleads he in earnest? look upon his face; : None
+5.3 :His eyes do drop no tears, his prayers are in jest; : None
+5.3 :His words come from his mouth, ours from our breast: : None
+5.3 :He prays but faintly and would be denied; : None
+5.3 :We pray with heart and soul and all beside: : None
+5.3 :His weary joints would gladly rise, I know; : None
+5.3 :Our knees shall kneel till to the ground they grow: : None
+5.3 :His prayers are full of false hypocrisy; : None
+5.3 :Ours of true zeal and deep integrity. : None
+5.3 :Our prayers do out-pray his; then let them have : None
+5.3 :That mercy which true prayer ought to have. : None
+HENRY BOLINGBROKE
+5.3 :Good aunt, stand up. : None
+DUCHESS OF YORK
+5.3 :Nay, do not say, 'stand up;' : None
+5.3 :Say, 'pardon' first, and afterwards 'stand up.' : None
+5.3 :And if I were thy nurse, thy tongue to teach, : None
+5.3 :'Pardon' should be the first word of thy speech. : None
+5.3 :I never long'd to hear a word till now; : None
+5.3 :Say 'pardon,' king; let pity teach thee how: : None
+5.3 :The word is short, but not so short as sweet; : None
+5.3 :No word like 'pardon' for kings' mouths so meet. : None
+DUKE OF YORK
+5.3 :Speak it in French, king; say, 'pardonne moi.' : None
+DUCHESS OF YORK
+5.3 :Dost thou teach pardon pardon to destroy? : None
+5.3 :Ah, my sour husband, my hard-hearted lord, : None
+5.3 :That set'st the word itself against the word! : None
+5.3 :Speak 'pardon' as 'tis current in our land; : None
+5.3 :The chopping French we do not understand. : None
+5.3 :Thine eye begins to speak; set thy tongue there; : None
+5.3 :Or in thy piteous heart plant thou thine ear; : None
+5.3 :That hearing how our plaints and prayers do pierce, : None
+5.3 :Pity may move thee 'pardon' to rehearse. : None
+HENRY BOLINGBROKE
+5.3 :Good aunt, stand up. : None
+DUCHESS OF YORK
+5.3 :I do not sue to stand; : None
+5.3 :Pardon is all the suit I have in hand. : None
+HENRY BOLINGBROKE
+5.3 :I pardon him, as God shall pardon me. : None
+DUCHESS OF YORK
+5.3 :O happy vantage of a kneeling knee! : None
+5.3 :Yet am I sick for fear: speak it again; : None
+5.3 :Twice saying 'pardon' doth not pardon twain, : None
+5.3 :But makes one pardon strong. : None
+HENRY BOLINGBROKE
+5.3 :With all my heart : None
+5.3 :I pardon him. : None
+DUCHESS OF YORK
+5.3 :                  A god on earth thou art. : None
+HENRY BOLINGBROKE
+5.3 :But for our trusty brother-in-law and the abbot, : None
+5.3 :With all the rest of that consorted crew, : None
+5.3 :Destruction straight shall dog them at the heels. : None
+5.3 :Good uncle, help to order several powers : None
+5.3 :To Oxford, or where'er these traitors are: : None
+5.3 :They shall not live within this world, I swear, : None
+5.3 :But I will have them, if I once know where. : None
+5.3 :Uncle, farewell: and, cousin too, adieu: : None
+5.3 :Your mother well hath pray'd, and prove you true. : None
+DUCHESS OF YORK
+5.3 :Come, my old son: I pray God make thee new. : None
+Exeunt : ['Exeunt - []'] : DUCHESS OF YORK
+Scene(scene=4)
+Enter EXTON and Servant : ["Enter - ['EXTON', 'SERVANT']"] : DUCHESS OF YORK
+EXTON
+5.4 :Didst thou not mark the king, what words he spake, : None
+5.4 :'Have I no friend will rid me of this living fear?' : None
+5.4 :Was it not so? : None
+SERVANT
+5.4 :                  These were his very words. : None
+EXTON
+5.4 :'Have I no friend?' quoth he: he spake it twice, : None
+5.4 :And urged it twice together, did he not? : None
+SERVANT
+5.4 :He did. : None
+EXTON
+5.4 :And speaking it, he wistly look'd on me, : None
+5.4 :And who should say, 'I would thou wert the man' : None
+5.4 :That would divorce this terror from my heart;' : None
+5.4 :Meaning the king at Pomfret. Come, let's go: : None
+5.4 :I am the king's friend, and will rid his foe. : None
+Exeunt : ['Exeunt - []'] : EXTON
+Scene(scene=5)
+Enter KING RICHARD : ['Enter - []'] : EXTON
+KING RICHARD II
+5.5 :I have been studying how I may compare : None
+5.5 :This prison where I live unto the world: : None
+5.5 :And for because the world is populous : None
+5.5 :And here is not a creature but myself, : None
+5.5 :I cannot do it; yet I'll hammer it out. : None
+5.5 :My brain I'll prove the female to my soul, : None
+5.5 :My soul the father; and these two beget : None
+5.5 :A generation of still-breeding thoughts, : None
+5.5 :And these same thoughts people this little world, : None
+5.5 :In humours like the people of this world, : None
+5.5 :For no thought is contented. The better sort, : None
+5.5 :As thoughts of things divine, are intermix'd : None
+5.5 :With scruples and do set the word itself : None
+5.5 :Against the word: : None
+5.5 :As thus, 'Come, little ones,' and then again, : None
+5.5 :'It is as hard to come as for a camel : None
+5.5 :To thread the postern of a small needle's eye.' : None
+5.5 :Thoughts tending to ambition, they do plot : None
+5.5 :Unlikely wonders; how these vain weak nails : None
+5.5 :May tear a passage through the flinty ribs : None
+5.5 :Of this hard world, my ragged prison walls, : None
+5.5 :And, for they cannot, die in their own pride. : None
+5.5 :Thoughts tending to content flatter themselves : None
+5.5 :That they are not the first of fortune's slaves, : None
+5.5 :Nor shall not be the last; like silly beggars : None
+5.5 :Who sitting in the stocks refuge their shame, : None
+5.5 :That many have and others must sit there; : None
+5.5 :And in this thought they find a kind of ease, : None
+5.5 :Bearing their own misfortunes on the back : None
+5.5 :Of such as have before endured the like. : None
+5.5 :Thus play I in one person many people, : None
+5.5 :And none contented: sometimes am I king; : None
+5.5 :Then treasons make me wish myself a beggar, : None
+5.5 :And so I am: then crushing penury : None
+5.5 :Persuades me I was better when a king; : None
+5.5 :Then am I king'd again: and by and by : None
+5.5 :Think that I am unking'd by Bolingbroke, : None
+5.5 :And straight am nothing: but whate'er I be, : None
+5.5 :Nor I nor any man that but man is : None
+5.5 :With nothing shall be pleased, till he be eased : None
+5.5 :With being nothing. Music do I hear? : None
+Music : ['None - []'] : KING RICHARD II
+5.5 :Ha, ha! keep time: how sour sweet music is, : None
+5.5 :When time is broke and no proportion kept! : None
+5.5 :So is it in the music of men's lives. : None
+5.5 :And here have I the daintiness of ear : None
+5.5 :To cheque time broke in a disorder'd string; : None
+5.5 :But for the concord of my state and time : None
+5.5 :Had not an ear to hear my true time broke. : None
+5.5 :I wasted time, and now doth time waste me; : None
+5.5 :For now hath time made me his numbering clock: : None
+5.5 :My thoughts are minutes; and with sighs they jar : None
+5.5 :Their watches on unto mine eyes, the outward watch, : None
+5.5 :Whereto my finger, like a dial's point, : None
+5.5 :Is pointing still, in cleansing them from tears. : None
+5.5 :Now sir, the sound that tells what hour it is : None
+5.5 :Are clamorous groans, which strike upon my heart, : None
+5.5 :Which is the bell: so sighs and tears and groans : None
+5.5 :Show minutes, times, and hours: but my time : None
+5.5 :Runs posting on in Bolingbroke's proud joy, : None
+5.5 :While I stand fooling here, his Jack o' the clock. : None
+5.5 :This music mads me; let it sound no more; : None
+5.5 :For though it have holp madmen to their wits, : None
+5.5 :In me it seems it will make wise men mad. : None
+5.5 :Yet blessing on his heart that gives it me! : None
+5.5 :For 'tis a sign of love; and love to Richard : None
+5.5 :Is a strange brooch in this all-hating world. : None
+Enter a Groom of the Stable : ["Enter - ['GROOM']"] : KING RICHARD II
+GROOM
+5.5 :Hail, royal prince! : None
+KING RICHARD II
+5.5 :Thanks, noble peer; : None
+5.5 :The cheapest of us is ten groats too dear. : None
+5.5 :What art thou? and how comest thou hither, : None
+5.5 :Where no man never comes but that sad dog : None
+5.5 :That brings me food to make misfortune live? : None
+GROOM
+5.5 :I was a poor groom of thy stable, king, : None
+5.5 :When thou wert king; who, travelling towards York, : None
+5.5 :With much ado at length have gotten leave : None
+5.5 :To look upon my sometimes royal master's face. : None
+5.5 :O, how it yearn'd my heart when I beheld : None
+5.5 :In London streets, that coronation-day, : None
+5.5 :When Bolingbroke rode on roan Barbary, : None
+5.5 :That horse that thou so often hast bestrid, : None
+5.5 :That horse that I so carefully have dress'd! : None
+KING RICHARD II
+5.5 :Rode he on Barbary? Tell me, gentle friend, : None
+5.5 :How went he under him? : None
+GROOM
+5.5 :So proudly as if he disdain'd the ground. : None
+KING RICHARD II
+5.5 :So proud that Bolingbroke was on his back! : None
+5.5 :That jade hath eat bread from my royal hand; : None
+5.5 :This hand hath made him proud with clapping him. : None
+5.5 :Would he not stumble? would he not fall down, : None
+5.5 :Since pride must have a fall, and break the neck : None
+5.5 :Of that proud man that did usurp his back? : None
+5.5 :Forgiveness, horse! why do I rail on thee, : None
+5.5 :Since thou, created to be awed by man, : None
+5.5 :Wast born to bear? I was not made a horse; : None
+5.5 :And yet I bear a burthen like an ass, : None
+5.5 :Spurr'd, gall'd and tired by jouncing Bolingbroke. : None
+Enter Keeper, with a dish : ["Enter - ['KEEPER']"] : KING RICHARD II
+KEEPER
+5.5 :Fellow, give place; here is no longer stay. : None
+KING RICHARD II
+5.5 :If thou love me, 'tis time thou wert away. : None
+GROOM
+5.5 :What my tongue dares not, that my heart shall say. : None
+Exit : ['Exit - []'] : GROOM
+KEEPER
+5.5 :My lord, will't please you to fall to? : None
+KING RICHARD II
+5.5 :Taste of it first, as thou art wont to do. : None
+KEEPER
+5.5 :My lord, I dare not: Sir Pierce of Exton, who : None
+5.5 :lately came from the king, commands the contrary. : None
+KING RICHARD II
+5.5 :The devil take Henry of Lancaster and thee! : None
+5.5 :Patience is stale, and I am weary of it. : None
+Beats the keeper : ["None - ['KEEPER']"] : KING RICHARD II
+KEEPER
+5.5 :Help, help, help! : None
+Enter EXTON and Servants, armed : ["Enter - ['EXTON', 'SERVANT']"] : KEEPER
+KING RICHARD II
+5.5 :How now! what means death in this rude assault? : None
+5.5 :Villain, thy own hand yields thy death's instrument. : None
+Snatching an axe from a Servant and killing him : ["None - ['SERVANT']"] : KING RICHARD II
+5.5 :Go thou, and fill another room in hell. : None
+He kills another. Then Exton strikes him down : ['None - []', "to - ['EXTON']"] : KING RICHARD II
+5.5 :That hand shall burn in never-quenching fire : None
+5.5 :That staggers thus my person. Exton, thy fierce hand : None
+5.5 :Hath with the king's blood stain'd the king's own land. : None
+5.5 :Mount, mount, my soul! thy seat is up on high; : None
+5.5 :Whilst my gross flesh sinks downward, here to die. : None
+Dies : ['None - []'] : KING RICHARD II
+EXTON
+5.5 :As full of valour as of royal blood: : None
+5.5 :Both have I spill'd; O would the deed were good! : None
+5.5 :For now the devil, that told me I did well, : None
+5.5 :Says that this deed is chronicled in hell. : None
+5.5 :This dead king to the living king I'll bear : None
+5.5 :Take hence the rest, and give them burial here. : None
+Exeunt : ['Exeunt - []'] : EXTON
+Scene(scene=6)
+Flourish. Enter HENRY BOLINGBROKE, DUKE OF YORK, with other Lords, and Attendants : ['None - []', "Enter - ['HENRY BOLINGBROKE', 'DUKE OF YORK', 'LORD']"] : EXTON
+HENRY BOLINGBROKE
+5.6 :Kind uncle York, the latest news we hear : None
+5.6 :Is that the rebels have consumed with fire : None
+5.6 :Our town of Cicester in Gloucestershire; : None
+5.6 :But whether they be ta'en or slain we hear not. : None
+Enter NORTHUMBERLAND : ["Enter - ['NORTHUMBERLAND']"] : HENRY BOLINGBROKE
+5.6 :Welcome, my lord	what is the news? : None
+NORTHUMBERLAND
+5.6 :First, to thy sacred state wish I all happiness. : None
+5.6 :The next news is, I have to London sent : None
+5.6 :The heads of Oxford, Salisbury, Blunt, and Kent: : None
+5.6 :The manner of their taking may appear : None
+5.6 :At large discoursed in this paper here. : None
+HENRY BOLINGBROKE
+5.6 :We thank thee, gentle Percy, for thy pains; : None
+5.6 :And to thy worth will add right worthy gains. : None
+Enter LORD FITZWATER : ["Enter - ['LORD FITZWATER']"] : HENRY BOLINGBROKE
+LORD FITZWATER
+5.6 :My lord, I have from Oxford sent to London : None
+5.6 :The heads of Brocas and Sir Bennet Seely, : None
+5.6 :Two of the dangerous consorted traitors : None
+5.6 :That sought at Oxford thy dire overthrow. : None
+HENRY BOLINGBROKE
+5.6 :Thy pains, Fitzwater, shall not be forgot; : None
+5.6 :Right noble is thy merit, well I wot. : None
+Enter HENRY PERCY, and the BISHOP OF CARLISLE : ["Enter - ['HENRY PERCY', 'BISHOP OF CARLISLE']"] : HENRY BOLINGBROKE
+HENRY PERCY
+5.6 :The grand conspirator, Abbot of Westminster, : None
+5.6 :With clog of conscience and sour melancholy : None
+5.6 :Hath yielded up his body to the grave; : None
+5.6 :But here is Carlisle living, to abide : None
+5.6 :Thy kingly doom and sentence of his pride. : None
+HENRY BOLINGBROKE
+5.6 :Carlisle, this is your doom: : None
+5.6 :Choose out some secret place, some reverend room, : None
+5.6 :More than thou hast, and with it joy thy life; : None
+5.6 :So as thou livest in peace, die free from strife: : None
+5.6 :For though mine enemy thou hast ever been, : None
+5.6 :High sparks of honour in thee have I seen. : None
+Enter EXTON, with persons bearing a coffin : ["Enter - ['EXTON']"] : HENRY BOLINGBROKE
+EXTON
+5.6 :Great king, within this coffin I present : None
+5.6 :Thy buried fear: herein all breathless lies : None
+5.6 :The mightiest of thy greatest enemies, : None
+5.6 :Richard of Bordeaux, by me hither brought. : None
+HENRY BOLINGBROKE
+5.6 :Exton, I thank thee not; for thou hast wrought : None
+5.6 :A deed of slander with thy fatal hand : None
+5.6 :Upon my head and all this famous land. : None
+EXTON
+5.6 :From your own mouth, my lord, did I this deed. : None
+HENRY BOLINGBROKE
+5.6 :They love not poison that do poison need, : None
+5.6 :Nor do I thee: though I did wish him dead, : None
+5.6 :I hate the murderer, love him murdered. : None
+5.6 :The guilt of conscience take thou for thy labour, : None
+5.6 :But neither my good word nor princely favour: : None
+5.6 :With Cain go wander through shades of night, : None
+5.6 :And never show thy head by day nor light. : None
+5.6 :Lords, I protest, my soul is full of woe, : None
+5.6 :That blood should sprinkle me to make me grow: : None
+5.6 :Come, mourn with me for that I do lament, : None
+5.6 :And put on sullen black incontinent: : None
+5.6 :I'll make a voyage to the Holy Land, : None
+5.6 :To wash this blood off from my guilty hand: : None
+5.6 :March sadly after; grace my mournings here; : None
+5.6 :In weeping after this untimely bier. : None
+Exeunt : ['Exeunt - []'] : HENRY BOLINGBROKE

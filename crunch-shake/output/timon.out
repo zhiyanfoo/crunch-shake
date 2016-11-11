@@ -1,0 +1,3430 @@
+Act(act=1)
+Scene(scene=1)
+Enter Poet, Painter, Jeweller, Merchant, and others, at several doors : ["Enter - ['POET', 'PAINTER', 'JEWELLER', 'MERCHANT']"] : None
+POET
+1.1 :Good day, sir. : None
+PAINTER
+1.1 :                  I am glad you're well. : None
+POET
+1.1 :I have not seen you long: how goes the world? : None
+PAINTER
+1.1 :It wears, sir, as it grows. : None
+POET
+1.1 :Ay, that's well known: : None
+1.1 :But what particular rarity? what strange, : None
+1.1 :Which manifold record not matches? See, : None
+1.1 :Magic of bounty! all these spirits thy power : None
+1.1 :Hath conjured to attend. I know the merchant. : None
+PAINTER
+1.1 :I know them both; th' other's a jeweller. : None
+MERCHANT
+1.1 :O, 'tis a worthy lord. : None
+JEWELLER
+1.1 :Nay, that's most fix'd. : None
+MERCHANT
+1.1 :A most incomparable man, breathed, as it were, : None
+1.1 :To an untirable and continuate goodness: : None
+1.1 :He passes. : None
+1.1 :Jeweller:	I have a jewel here-- : None
+MERCHANT
+1.1 :O, pray, let's see't: for the Lord Timon, sir? : None
+1.1 :Jeweller:	If he will touch the estimate: but, for that-- : None
+POET
+1.1 :  'When we for recompense have : Reciting to himself : ['to - []'] : POET
+1.1 :praised the vile, : None
+1.1 :It stains the glory in that happy verse : None
+1.1 :Which aptly sings the good.' : None
+MERCHANT
+1.1 :'Tis a good form. : None
+Looking at the jewel : ['None - []'] : MERCHANT
+JEWELLER
+1.1 :And rich: here is a water, look ye. : None
+PAINTER
+1.1 :You are rapt, sir, in some work, some dedication : None
+1.1 :To the great lord. : None
+POET
+1.1 :                  A thing slipp'd idly from me. : None
+1.1 :Our poesy is as a gum, which oozes : None
+1.1 :From whence 'tis nourish'd: the fire i' the flint : None
+1.1 :Shows not till it be struck; our gentle flame : None
+1.1 :Provokes itself and like the current flies : None
+1.1 :Each bound it chafes. What have you there? : None
+PAINTER
+1.1 :A picture, sir. When comes your book forth? : None
+POET
+1.1 :Upon the heels of my presentment, sir. : None
+1.1 :Let's see your piece. : None
+PAINTER
+1.1 :'Tis a good piece. : None
+POET
+1.1 :So 'tis: this comes off well and excellent. : None
+PAINTER
+1.1 :Indifferent. : None
+POET
+1.1 :                  Admirable: how this grace : None
+1.1 :Speaks his own standing! what a mental power : None
+1.1 :This eye shoots forth! how big imagination : None
+1.1 :Moves in this lip! to the dumbness of the gesture : None
+1.1 :One might interpret. : None
+PAINTER
+1.1 :It is a pretty mocking of the life. : None
+1.1 :Here is a touch; is't good? : None
+POET
+1.1 :I will say of it, : None
+1.1 :It tutors nature: artificial strife : None
+1.1 :Lives in these touches, livelier than life. : None
+Enter certain Senators, and pass over : ["Enter - ['SENATOR']"] : POET
+PAINTER
+1.1 :How this lord is follow'd! : None
+POET
+1.1 :The senators of Athens: happy man! : None
+PAINTER
+1.1 :Look, more! : None
+POET
+1.1 :You see this confluence, this great flood : None
+1.1 :of visitors. : None
+1.1 :I have, in this rough work, shaped out a man, : None
+1.1 :Whom this beneath world doth embrace and hug : None
+1.1 :With amplest entertainment: my free drift : None
+1.1 :Halts not particularly, but moves itself : None
+1.1 :In a wide sea of wax: no levell'd malice : None
+1.1 :Infects one comma in the course I hold; : None
+1.1 :But flies an eagle flight, bold and forth on, : None
+1.1 :Leaving no tract behind. : None
+PAINTER
+1.1 :How shall I understand you? : None
+POET
+1.1 :I will unbolt to you. : None
+1.1 :You see how all conditions, how all minds, : None
+1.1 :As well of glib and slippery creatures as : None
+1.1 :Of grave and austere quality, tender down : None
+1.1 :Their services to Lord Timon: his large fortune : None
+1.1 :Upon his good and gracious nature hanging : None
+1.1 :Subdues and properties to his love and tendance : None
+1.1 :All sorts of hearts; yea, from the glass-faced flatterer : None
+1.1 :To Apemantus, that few things loves better : None
+1.1 :Than to abhor himself: even he drops down : None
+1.1 :The knee before him, and returns in peace : None
+1.1 :Most rich in Timon's nod. : None
+PAINTER
+1.1 :I saw them speak together. : None
+POET
+1.1 :Sir, I have upon a high and pleasant hill : None
+1.1 :Feign'd Fortune to be throned: the base o' the mount : None
+1.1 :Is rank'd with all deserts, all kind of natures, : None
+1.1 :That labour on the bosom of this sphere : None
+1.1 :To propagate their states: amongst them all, : None
+1.1 :Whose eyes are on this sovereign lady fix'd, : None
+1.1 :One do I personate of Lord Timon's frame, : None
+1.1 :Whom Fortune with her ivory hand wafts to her; : None
+1.1 :Whose present grace to present slaves and servants : None
+1.1 :Translates his rivals. : None
+PAINTER
+1.1 :'Tis conceived to scope. : None
+1.1 :This throne, this Fortune, and this hill, methinks, : None
+1.1 :With one man beckon'd from the rest below, : None
+1.1 :Bowing his head against the sleepy mount : None
+1.1 :To climb his happiness, would be well express'd : None
+1.1 :In our condition. : None
+POET
+1.1 :                  Nay, sir, but hear me on. : None
+1.1 :All those which were his fellows but of late, : None
+1.1 :Some better than his value, on the moment : None
+1.1 :Follow his strides, his lobbies fill with tendance, : None
+1.1 :Rain sacrificial whisperings in his ear, : None
+1.1 :Make sacred even his stirrup, and through him : None
+1.1 :Drink the free air. : None
+PAINTER
+1.1 :Ay, marry, what of these? : None
+POET
+1.1 :When Fortune in her shift and change of mood : None
+1.1 :Spurns down her late beloved, all his dependants : None
+1.1 :Which labour'd after him to the mountain's top : None
+1.1 :Even on their knees and hands, let him slip down, : None
+1.1 :Not one accompanying his declining foot. : None
+PAINTER
+1.1 :'Tis common: : None
+1.1 :A thousand moral paintings I can show : None
+1.1 :That shall demonstrate these quick blows of Fortune's : None
+1.1 :More pregnantly than words. Yet you do well : None
+1.1 :To show Lord Timon that mean eyes have seen : None
+1.1 :The foot above the head. : None
+Trumpets sound. Enter TIMON, addressing himself  courteously to every suitor; a Messenger from  VENTIDIUS talking with him; LUCILIUS and other servants following : ['None - []', "Enter - ['TIMON', 'MESSENGER', 'VENTIDIUS', 'LUCILIUS', 'SERVANT']"] : PAINTER
+TIMON
+1.1 :Imprison'd is he, say you? : None
+MESSENGER
+1.1 :Ay, my good lord: five talents is his debt, : None
+1.1 :His means most short, his creditors most strait: : None
+1.1 :Your honourable letter he desires : None
+1.1 :To those have shut him up; which failing, : None
+1.1 :Periods his comfort. : None
+TIMON
+1.1 :Noble Ventidius! Well; : None
+1.1 :I am not of that feather to shake off : None
+1.1 :My friend when he must need me. I do know him : None
+1.1 :A gentleman that well deserves a help: : None
+1.1 :Which he shall have: I'll pay the debt, : None
+1.1 :and free him. : None
+MESSENGER
+1.1 :Your lordship ever binds him. : None
+TIMON
+1.1 :Commend me to him: I will send his ransom; : None
+1.1 :And being enfranchised, bid him come to me. : None
+1.1 :'Tis not enough to help the feeble up, : None
+1.1 :But to support him after. Fare you well. : None
+MESSENGER
+1.1 :All happiness to your honour! : None
+Exit : ['Exit - []'] : MESSENGER
+Enter an old Athenian : ["Enter - ['OLD ATHENIAN']"] : MESSENGER
+OLD ATHENIAN
+1.1 :Lord Timon, hear me speak. : None
+TIMON
+1.1 :Freely, good father. : None
+OLD ATHENIAN
+1.1 :Thou hast a servant named Lucilius. : None
+TIMON
+1.1 :I have so: what of him? : None
+OLD ATHENIAN
+1.1 :Most noble Timon, call the man before thee. : None
+TIMON
+1.1 :Attends he here, or no? Lucilius! : None
+LUCILIUS
+1.1 :Here, at your lordship's service. : None
+OLD ATHENIAN
+1.1 :This fellow here, Lord Timon, this thy creature, : None
+1.1 :By night frequents my house. I am a man : None
+1.1 :That from my first have been inclined to thrift; : None
+1.1 :And my estate deserves an heir more raised : None
+1.1 :Than one which holds a trencher. : None
+TIMON
+1.1 :Well; what further? : None
+OLD ATHENIAN
+1.1 :One only daughter have I, no kin else, : None
+1.1 :On whom I may confer what I have got: : None
+1.1 :The maid is fair, o' the youngest for a bride, : None
+1.1 :And I have bred her at my dearest cost : None
+1.1 :In qualities of the best. This man of thine : None
+1.1 :Attempts her love: I prithee, noble lord, : None
+1.1 :Join with me to forbid him her resort; : None
+1.1 :Myself have spoke in vain. : None
+TIMON
+1.1 :The man is honest. : None
+OLD ATHENIAN
+1.1 :Therefore he will be, Timon: : None
+1.1 :His honesty rewards him in itself; : None
+1.1 :It must not bear my daughter. : None
+TIMON
+1.1 :Does she love him? : None
+OLD ATHENIAN
+1.1 :She is young and apt: : None
+1.1 :Our own precedent passions do instruct us : None
+1.1 :What levity's in youth. : None
+TIMON
+1.1 :           Love you the maid? : To LUCILIUS : ["To - ['LUCILIUS']"] : TIMON
+LUCILIUS
+1.1 :Ay, my good lord, and she accepts of it. : None
+OLD ATHENIAN
+1.1 :If in her marriage my consent be missing, : None
+1.1 :I call the gods to witness, I will choose : None
+1.1 :Mine heir from forth the beggars of the world, : None
+1.1 :And dispossess her all. : None
+TIMON
+1.1 :How shall she be endow'd, : None
+1.1 :if she be mated with an equal husband? : None
+OLD ATHENIAN
+1.1 :Three talents on the present; in future, all. : None
+TIMON
+1.1 :This gentleman of mine hath served me long: : None
+1.1 :To build his fortune I will strain a little, : None
+1.1 :For 'tis a bond in men. Give him thy daughter: : None
+1.1 :What you bestow, in him I'll counterpoise, : None
+1.1 :And make him weigh with her. : None
+OLD ATHENIAN
+1.1 :Most noble lord, : None
+1.1 :Pawn me to this your honour, she is his. : None
+TIMON
+1.1 :My hand to thee; mine honour on my promise. : None
+LUCILIUS
+1.1 :Humbly I thank your lordship: never may : None
+1.1 :The state or fortune fall into my keeping, : None
+1.1 :Which is not owed to you! : None
+Exeunt LUCILIUS and Old Athenian : ["Exeunt - ['LUCILIUS', 'OLD ATHENIAN']"] : LUCILIUS
+POET
+1.1 :Vouchsafe my labour, and long live your lordship! : None
+TIMON
+1.1 :I thank you; you shall hear from me anon: : None
+1.1 :Go not away. What have you there, my friend? : None
+PAINTER
+1.1 :A piece of painting, which I do beseech : None
+1.1 :Your lordship to accept. : None
+TIMON
+1.1 :Painting is welcome. : None
+1.1 :The painting is almost the natural man; : None
+1.1 :or since dishonour traffics with man's nature, : None
+1.1 :He is but outside: these pencill'd figures are : None
+1.1 :Even such as they give out. I like your work; : None
+1.1 :And you shall find I like it: wait attendance : None
+1.1 :Till you hear further from me. : None
+PAINTER
+1.1 :The gods preserve ye! : None
+TIMON
+1.1 :Well fare you, gentleman: give me your hand; : None
+1.1 :We must needs dine together. Sir, your jewel : None
+1.1 :Hath suffer'd under praise. : None
+JEWELLER
+1.1 :What, my lord! dispraise? : None
+TIMON
+1.1 :A more satiety of commendations. : None
+1.1 :If I should pay you for't as 'tis extoll'd, : None
+1.1 :It would unclew me quite. : None
+JEWELLER
+1.1 :My lord, 'tis rated : None
+1.1 :As those which sell would give: but you well know, : None
+1.1 :Things of like value differing in the owners : None
+1.1 :Are prized by their masters: believe't, dear lord, : None
+1.1 :You mend the jewel by the wearing it. : None
+TIMON
+1.1 :Well mock'd. : None
+MERCHANT
+1.1 :No, my good lord; he speaks the common tongue, : None
+1.1 :Which all men speak with him. : None
+TIMON
+1.1 :Look, who comes here: will you be chid? : None
+Enter APEMANTUS : ["Enter - ['APEMANTUS']"] : TIMON
+1.1 :Jeweller: We'll bear, with your lordship. : None
+MERCHANT
+1.1 :He'll spare none. : None
+TIMON
+1.1 :Good morrow to thee, gentle Apemantus! : None
+APEMANTUS
+1.1 :Till I be gentle, stay thou for thy good morrow; : None
+1.1 :When thou art Timon's dog, and these knaves honest. : None
+TIMON
+1.1 :Why dost thou call them knaves? thou know'st them not. : None
+APEMANTUS
+1.1 :Are they not Athenians? : None
+TIMON
+1.1 :Yes. : None
+APEMANTUS
+1.1 :Then I repent not. : None
+1.1 :Jeweller: You know me, Apemantus? : None
+APEMANTUS
+1.1 :Thou know'st I do: I call'd thee by thy name. : None
+TIMON
+1.1 :Thou art proud, Apemantus. : None
+APEMANTUS
+1.1 :Of nothing so much as that I am not like Timon. : None
+TIMON
+1.1 :Whither art going? : None
+APEMANTUS
+1.1 :To knock out an honest Athenian's brains. : None
+TIMON
+1.1 :That's a deed thou'lt die for. : None
+APEMANTUS
+1.1 :Right, if doing nothing be death by the law. : None
+TIMON
+1.1 :How likest thou this picture, Apemantus? : None
+APEMANTUS
+1.1 :The best, for the innocence. : None
+TIMON
+1.1 :Wrought he not well that painted it? : None
+APEMANTUS
+1.1 :He wrought better that made the painter; and yet : None
+1.1 :he's but a filthy piece of work. : None
+PAINTER
+1.1 :You're a dog. : None
+APEMANTUS
+1.1 :Thy mother's of my generation: what's she, if I be a dog? : None
+TIMON
+1.1 :Wilt dine with me, Apemantus? : None
+APEMANTUS
+1.1 :No; I eat not lords. : None
+TIMON
+1.1 :An thou shouldst, thou 'ldst anger ladies. : None
+APEMANTUS
+1.1 :O, they eat lords; so they come by great bellies. : None
+TIMON
+1.1 :That's a lascivious apprehension. : None
+APEMANTUS
+1.1 :So thou apprehendest it: take it for thy labour. : None
+TIMON
+1.1 :How dost thou like this jewel, Apemantus? : None
+APEMANTUS
+1.1 :Not so well as plain-dealing, which will not cost a : None
+1.1 :man a doit. : None
+TIMON
+1.1 :What dost thou think 'tis worth? : None
+APEMANTUS
+1.1 :Not worth my thinking. How now, poet! : None
+POET
+1.1 :How now, philosopher! : None
+APEMANTUS
+1.1 :Thou liest. : None
+POET
+1.1 :Art not one? : None
+APEMANTUS
+1.1 :Yes. : None
+POET
+1.1 :Then I lie not. : None
+APEMANTUS
+1.1 :Art not a poet? : None
+POET
+1.1 :Yes. : None
+APEMANTUS
+1.1 :Then thou liest: look in thy last work, where thou : None
+1.1 :hast feigned him a worthy fellow. : None
+POET
+1.1 :That's not feigned; he is so. : None
+APEMANTUS
+1.1 :Yes, he is worthy of thee, and to pay thee for thy : None
+1.1 :labour: he that loves to be flattered is worthy o' : None
+1.1 :the flatterer. Heavens, that I were a lord! : None
+TIMON
+1.1 :What wouldst do then, Apemantus? : None
+APEMANTUS
+1.1 :E'en as Apemantus does now; hate a lord with my heart. : None
+TIMON
+1.1 :What, thyself? : None
+APEMANTUS
+1.1 :Ay. : None
+TIMON
+1.1 :Wherefore? : None
+APEMANTUS
+1.1 :That I had no angry wit to be a lord. : None
+1.1 :Art not thou a merchant? : None
+MERCHANT
+1.1 :Ay, Apemantus. : None
+APEMANTUS
+1.1 :Traffic confound thee, if the gods will not! : None
+MERCHANT
+1.1 :If traffic do it, the gods do it. : None
+APEMANTUS
+1.1 :Traffic's thy god; and thy god confound thee! : None
+Trumpet sounds. Enter a Messenger : ['None - []', "Enter - ['MESSENGER']"] : APEMANTUS
+TIMON
+1.1 :What trumpet's that? : None
+MESSENGER
+1.1 :'Tis Alcibiades, and some twenty horse, : None
+1.1 :All of companionship. : None
+TIMON
+1.1 :Pray, entertain them; give them guide to us. : None
+Exeunt some Attendants : ['Exeunt - []'] : TIMON
+1.1 :You must needs dine with me: go not you hence : None
+1.1 :Till I have thank'd you: when dinner's done, : None
+1.1 :Show me this piece. I am joyful of your sights. : None
+Enter ALCIBIADES, with the rest : ["Enter - ['ALCIBIADES']"] : TIMON
+1.1 :Most welcome, sir! : None
+APEMANTUS
+1.1 :                  So, so, there! : None
+1.1 :Aches contract and starve your supple joints! : None
+1.1 :That there should be small love 'mongst these : None
+1.1 :sweet knaves, : None
+1.1 :And all this courtesy! The strain of man's bred out : None
+1.1 :Into baboon and monkey. : None
+ALCIBIADES
+1.1 :Sir, you have saved my longing, and I feed : None
+1.1 :Most hungerly on your sight. : None
+TIMON
+1.1 :Right welcome, sir! : None
+1.1 :Ere we depart, we'll share a bounteous time : None
+1.1 :In different pleasures. Pray you, let us in. : None
+Exeunt all except APEMANTUS : ["Exeunt - ['ALL', 'APEMANTUS']"] : TIMON
+Enter two Lords : ['Enter - []'] : TIMON
+FIRST LORD
+1.1 :What time o' day is't, Apemantus? : None
+APEMANTUS
+1.1 :Time to be honest. : None
+FIRST LORD
+1.1 :That time serves still. : None
+APEMANTUS
+1.1 :The more accursed thou, that still omitt'st it. : None
+SECOND LORD
+1.1 :Thou art going to Lord Timon's feast? : None
+APEMANTUS
+1.1 :Ay, to see meat fill knaves and wine heat fools. : None
+SECOND LORD
+1.1 :Fare thee well, fare thee well. : None
+APEMANTUS
+1.1 :Thou art a fool to bid me farewell twice. : None
+SECOND LORD
+1.1 :Why, Apemantus? : None
+APEMANTUS
+1.1 :Shouldst have kept one to thyself, for I mean to : None
+1.1 :give thee none. : None
+FIRST LORD
+1.1 :Hang thyself! : None
+APEMANTUS
+1.1 :No, I will do nothing at thy bidding: make thy : None
+1.1 :requests to thy friend. : None
+SECOND LORD
+1.1 :Away, unpeaceable dog, or I'll spurn thee hence! : None
+APEMANTUS
+1.1 :I will fly, like a dog, the heels o' the ass. : None
+Exit : ['Exit - []'] : APEMANTUS
+FIRST LORD
+1.1 :He's opposite to humanity. Come, shall we in, : None
+1.1 :And taste Lord Timon's bounty? he outgoes : None
+1.1 :The very heart of kindness. : None
+SECOND LORD
+1.1 :He pours it out; Plutus, the god of gold, : None
+1.1 :Is but his steward: no meed, but he repays : None
+1.1 :Sevenfold above itself; no gift to him, : None
+1.1 :But breeds the giver a return exceeding : None
+1.1 :All use of quittance. : None
+FIRST LORD
+1.1 :The noblest mind he carries : None
+1.1 :That ever govern'd man. : None
+SECOND LORD
+1.1 :Long may he live in fortunes! Shall we in? : None
+FIRST LORD
+1.1 :I'll keep you company. : None
+Exeunt : ['Exeunt - []'] : FIRST LORD
+Scene(scene=2)
+Hautboys playing loud music. A great banquet  served in; FLAVIUS and others attending; then enter  TIMON, ALCIBIADES, Lords, Senators, and VENTIDIUS.  Then comes, dropping, after all, APEMANTUS, discontentedly, like himself : ['None - []', "enter - ['FLAVIUS', 'TIMON', 'ALCIBIADES', 'SENATOR', 'VENTIDIUS']", "None - ['ALL', 'APEMANTUS']"] : FIRST LORD
+VENTIDIUS
+1.2 :Most honour'd Timon, : None
+1.2 :It hath pleased the gods to remember my father's age, : None
+1.2 :And call him to long peace. : None
+1.2 :He is gone happy, and has left me rich: : None
+1.2 :Then, as in grateful virtue I am bound : None
+1.2 :To your free heart, I do return those talents, : None
+1.2 :Doubled with thanks and service, from whose help : None
+1.2 :I derived liberty. : None
+TIMON
+1.2 :                  O, by no means, : None
+1.2 :Honest Ventidius; you mistake my love: : None
+1.2 :I gave it freely ever; and there's none : None
+1.2 :Can truly say he gives, if he receives: : None
+1.2 :If our betters play at that game, we must not dare : None
+1.2 :To imitate them; faults that are rich are fair. : None
+VENTIDIUS
+1.2 :A noble spirit! : None
+TIMON
+1.2 :                  Nay, my lords, : None
+They all stand ceremoniously looking on TIMON : ["None - ['ALL', 'TIMON']"] : TIMON
+1.2 :Ceremony was but devised at first : None
+1.2 :To set a gloss on faint deeds, hollow welcomes, : None
+1.2 :Recanting goodness, sorry ere 'tis shown; : None
+1.2 :But where there is true friendship, there needs none. : None
+1.2 :Pray, sit; more welcome are ye to my fortunes : None
+1.2 :Than my fortunes to me. : None
+They sit : ['None - []'] : TIMON
+FIRST LORD
+1.2 :My lord, we always have confess'd it. : None
+APEMANTUS
+1.2 :Ho, ho, confess'd it! hang'd it, have you not? : None
+TIMON
+1.2 :O, Apemantus, you are welcome. : None
+APEMANTUS
+1.2 :No; : None
+1.2 :You shall not make me welcome: : None
+1.2 :I come to have thee thrust me out of doors. : None
+TIMON
+1.2 :Fie, thou'rt a churl; ye've got a humour there : None
+1.2 :Does not become a man: 'tis much to blame. : None
+1.2 :They say, my lords, 'ira furor brevis est;' but yond : None
+1.2 :man is ever angry. Go, let him have a table by : None
+1.2 :himself, for he does neither affect company, nor is : None
+1.2 :he fit for't, indeed. : None
+APEMANTUS
+1.2 :Let me stay at thine apperil, Timon: I come to : None
+1.2 :observe; I give thee warning on't. : None
+TIMON
+1.2 :I take no heed of thee; thou'rt an Athenian, : None
+1.2 :therefore welcome: I myself would have no power; : None
+1.2 :prithee, let my meat make thee silent. : None
+APEMANTUS
+1.2 :I scorn thy meat; 'twould choke me, for I should : None
+1.2 :ne'er flatter thee. O you gods, what a number of : None
+1.2 :men eat Timon, and he sees 'em not! It grieves me : None
+1.2 :to see so many dip their meat in one man's blood; : None
+1.2 :and all the madness is, he cheers them up too. : None
+1.2 :I wonder men dare trust themselves with men: : None
+1.2 :Methinks they should invite them without knives; : None
+1.2 :Good for their meat, and safer for their lives. : None
+1.2 :There's much example for't; the fellow that sits : None
+1.2 :next him now, parts bread with him, pledges the : None
+1.2 :breath of him in a divided draught, is the readiest : None
+1.2 :man to kill him: 't has been proved. If I were a : None
+1.2 :huge man, I should fear to drink at meals; : None
+1.2 :Lest they should spy my windpipe's dangerous notes: : None
+1.2 :Great men should drink with harness on their throats. : None
+TIMON
+1.2 :My lord, in heart; and let the health go round. : None
+SECOND LORD
+1.2 :Let it flow this way, my good lord. : None
+APEMANTUS
+1.2 :Flow this way! A brave fellow! he keeps his tides : None
+1.2 :well. Those healths will make thee and thy state : None
+1.2 :look ill, Timon. Here's that which is too weak to : None
+1.2 :be a sinner, honest water, which ne'er left man i' the mire: : None
+1.2 :This and my food are equals; there's no odds: : None
+1.2 :Feasts are too proud to give thanks to the gods. : None
+1.2 :Apemantus' grace. : None
+1.2 :Immortal gods, I crave no pelf; : None
+1.2 :I pray for no man but myself: : None
+1.2 :Grant I may never prove so fond, : None
+1.2 :To trust man on his oath or bond; : None
+1.2 :Or a harlot, for her weeping; : None
+1.2 :Or a dog, that seems a-sleeping: : None
+1.2 :Or a keeper with my freedom; : None
+1.2 :Or my friends, if I should need 'em. : None
+1.2 :Amen. So fall to't: : None
+1.2 :Rich men sin, and I eat root. : None
+Eats and drinks : ['None - []'] : APEMANTUS
+1.2 :Much good dich thy good heart, Apemantus! : None
+TIMON
+1.2 :Captain Alcibiades, your heart's in the field now. : None
+ALCIBIADES
+1.2 :My heart is ever at your service, my lord. : None
+TIMON
+1.2 :You had rather be at a breakfast of enemies than a : None
+1.2 :dinner of friends. : None
+ALCIBIADES
+1.2 :So the were bleeding-new, my lord, there's no meat : None
+1.2 :like 'em: I could wish my best friend at such a feast. : None
+APEMANTUS
+1.2 :Would all those fatterers were thine enemies then, : None
+1.2 :that then thou mightst kill 'em and bid me to 'em! : None
+FIRST LORD
+1.2 :Might we but have that happiness, my lord, that you : None
+1.2 :would once use our hearts, whereby we might express : None
+1.2 :some part of our zeals, we should think ourselves : None
+1.2 :for ever perfect. : None
+TIMON
+1.2 :O, no doubt, my good friends, but the gods : None
+1.2 :themselves have provided that I shall have much help : None
+1.2 :from you: how had you been my friends else? why : None
+1.2 :have you that charitable title from thousands, did : None
+1.2 :not you chiefly belong to my heart? I have told : None
+1.2 :more of you to myself than you can with modesty : None
+1.2 :speak in your own behalf; and thus far I confirm : None
+1.2 :you. O you gods, think I, what need we have any : None
+1.2 :friends, if we should ne'er have need of 'em? they : None
+1.2 :were the most needless creatures living, should we : None
+1.2 :ne'er have use for 'em, and would most resemble : None
+1.2 :sweet instruments hung up in cases that keep their : None
+1.2 :sounds to themselves. Why, I have often wished : None
+1.2 :myself poorer, that I might come nearer to you. We : None
+1.2 :are born to do benefits: and what better or : None
+1.2 :properer can we can our own than the riches of our : None
+1.2 :friends? O, what a precious comfort 'tis, to have : None
+1.2 :so many, like brothers, commanding one another's : None
+1.2 :fortunes! O joy, e'en made away ere 't can be born! : None
+1.2 :Mine eyes cannot hold out water, methinks: to : None
+1.2 :forget their faults, I drink to you. : None
+APEMANTUS
+1.2 :Thou weepest to make them drink, Timon. : None
+SECOND LORD
+1.2 :Joy had the like conception in our eyes : None
+1.2 :And at that instant like a babe sprung up. : None
+APEMANTUS
+1.2 :Ho, ho! I laugh to think that babe a bastard. : None
+THIRD LORD
+1.2 :I promise you, my lord, you moved me much. : None
+APEMANTUS
+1.2 :Much! : None
+Tucket, within : ['None - []'] : APEMANTUS
+TIMON
+1.2 :What means that trump? : None
+Enter a Servant : ["Enter - ['SERVANT']"] : TIMON
+1.2 :How now? : None
+SERVANT
+1.2 :Please you, my lord, there are certain : None
+1.2 :ladies most desirous of admittance. : None
+TIMON
+1.2 :Ladies! what are their wills? : None
+SERVANT
+1.2 :There comes with them a forerunner, my lord, which : None
+1.2 :bears that office, to signify their pleasures. : None
+TIMON
+1.2 :I pray, let them be admitted. : None
+Enter Cupid : ["Enter - ['CUPID']"] : TIMON
+CUPID
+1.2 :Hail to thee, worthy Timon, and to all : None
+1.2 :That of his bounties taste! The five best senses : None
+1.2 :Acknowledge thee their patron; and come freely : None
+1.2 :To gratulate thy plenteous bosom: th' ear, : None
+1.2 :Taste, touch and smell, pleased from thy tale rise; : None
+1.2 :They only now come but to feast thine eyes. : None
+TIMON
+1.2 :They're welcome all; let 'em have kind admittance: : None
+1.2 :Music, make their welcome! : None
+Exit Cupid : ["Exit - ['CUPID']"] : TIMON
+FIRST LORD
+1.2 :You see, my lord, how ample you're beloved. : None
+Music. Re-enter Cupid with a mask of Ladies  as Amazons, with lutes in their hands, dancing and playing : ['None - []', "Re-enter - ['CUPID']"] : FIRST LORD
+APEMANTUS
+1.2 :Hoy-day, what a sweep of vanity comes this way! : None
+1.2 :They dance! they are mad women. : None
+1.2 :Like madness is the glory of this life. : None
+1.2 :As this pomp shows to a little oil and root. : None
+1.2 :We make ourselves fools, to disport ourselves; : None
+1.2 :And spend our flatteries, to drink those men : None
+1.2 :Upon whose age we void it up again, : None
+1.2 :With poisonous spite and envy. : None
+1.2 :Who lives that's not depraved or depraves? : None
+1.2 :Who dies, that bears not one spurn to their graves : None
+1.2 :Of their friends' gift? : None
+1.2 :I should fear those that dance before me now : None
+1.2 :Would one day stamp upon me: 't has been done; : None
+1.2 :Men shut their doors against a setting sun. : None
+The Lords rise from table, with much adoring of  TIMON; and to show their loves, each singles out an  Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease : ["to - ['TIMON', 'ALL']"] : APEMANTUS
+TIMON
+1.2 :You have done our pleasures much grace, fair ladies, : None
+1.2 :Set a fair fashion on our entertainment, : None
+1.2 :Which was not half so beautiful and kind; : None
+1.2 :You have added worth unto 't and lustre, : None
+1.2 :And entertain'd me with mine own device; : None
+1.2 :I am to thank you for 't. : None
+FIRST LADY
+1.2 :My lord, you take us even at the best. : None
+APEMANTUS
+1.2 :'Faith, for the worst is filthy; and would not hold : None
+1.2 :taking, I doubt me. : None
+TIMON
+1.2 :Ladies, there is an idle banquet attends you: : None
+1.2 :Please you to dispose yourselves. : None
+ALL LADIES
+1.2 :Most thankfully, my lord. : None
+Exeunt Cupid and Ladies : ["Exeunt - ['CUPID']"] : ALL LADIES
+TIMON
+1.2 :Flavius. : None
+FLAVIUS
+1.2 :My lord? : None
+TIMON
+1.2 :       The little casket bring me hither. : None
+FLAVIUS
+1.2 :Yes, my lord. More jewels yet! : None
+1.2 :There is no crossing him in 's humour; : None
+Aside : ['Aside - []'] : FLAVIUS
+1.2 :Else I should tell him,--well, i' faith I should, : None
+1.2 :When all's spent, he 'ld be cross'd then, an he could. : None
+1.2 :'Tis pity bounty had not eyes behind, : None
+1.2 :That man might ne'er be wretched for his mind. : None
+Exit : ['Exit - []'] : FLAVIUS
+FIRST LORD
+1.2 :Where be our men? : None
+SERVANT
+1.2 :Here, my lord, in readiness. : None
+SECOND LORD
+1.2 :Our horses! : None
+Re-enter FLAVIUS, with the casket : ["Re-enter - ['FLAVIUS']"] : SECOND LORD
+TIMON
+1.2 :          O my friends, : None
+1.2 :I have one word to say to you: look you, my good lord, : None
+1.2 :I must entreat you, honour me so much : None
+1.2 :As to advance this jewel; accept it and wear it, : None
+1.2 :Kind my lord. : None
+FIRST LORD
+1.2 :I am so far already in your gifts,-- : None
+ALL
+1.2 :So are we all. : None
+Enter a Servant : ["Enter - ['SERVANT']"] : ALL
+SERVANT
+1.2 :My lord, there are certain nobles of the senate : None
+1.2 :Newly alighted, and come to visit you. : None
+TIMON
+1.2 :They are fairly welcome. : None
+FLAVIUS
+1.2 :I beseech your honour, : None
+1.2 :Vouchsafe me a word; it does concern you near. : None
+TIMON
+1.2 :Near! why then, another time I'll hear thee: : None
+1.2 :I prithee, let's be provided to show them : None
+1.2 :entertainment. : None
+FLAVIUS
+1.2 :  I scarce know how. : Aside : ['Aside - []'] : FLAVIUS
+Enter a Second Servant : ["Enter - ['SECOND SERVANT']"] : FLAVIUS
+SECOND SERVANT
+1.2 :May it please your honour, Lord Lucius, : None
+1.2 :Out of his free love, hath presented to you : None
+1.2 :Four milk-white horses, trapp'd in silver. : None
+TIMON
+1.2 :I shall accept them fairly; let the presents : None
+1.2 :Be worthily entertain'd. : None
+Enter a third Servant : ["Enter - ['THIRD SERVANT']"] : TIMON
+1.2 :How now! what news? : None
+THIRD SERVANT
+1.2 :Please you, my lord, that honourable : None
+1.2 :gentleman, Lord Lucullus, entreats your company : None
+1.2 :to-morrow to hunt with him, and has sent your honour : None
+1.2 :two brace of greyhounds. : None
+TIMON
+1.2 :I'll hunt with him; and let them be received, : None
+1.2 :Not without fair reward. : None
+FLAVIUS
+1.2 :                What will this come to? : Aside : ['Aside - []'] : FLAVIUS
+1.2 :He commands us to provide, and give great gifts, : None
+1.2 :And all out of an empty coffer: : None
+1.2 :Nor will he know his purse, or yield me this, : None
+1.2 :To show him what a beggar his heart is, : None
+1.2 :Being of no power to make his wishes good: : None
+1.2 :His promises fly so beyond his state : None
+1.2 :That what he speaks is all in debt; he owes : None
+1.2 :For every word: he is so kind that he now : None
+1.2 :Pays interest for 't; his land's put to their books. : None
+1.2 :Well, would I were gently put out of office : None
+1.2 :Before I were forced out! : None
+1.2 :Happier is he that has no friend to feed : None
+1.2 :Than such that do e'en enemies exceed. : None
+1.2 :I bleed inwardly for my lord. : None
+Exit : ['Exit - []'] : FLAVIUS
+TIMON
+1.2 :You do yourselves : None
+1.2 :Much wrong, you bate too much of your own merits: : None
+1.2 :Here, my lord, a trifle of our love. : None
+SECOND LORD
+1.2 :With more than common thanks I will receive it. : None
+THIRD LORD
+1.2 :O, he's the very soul of bounty! : None
+TIMON
+1.2 :And now I remember, my lord, you gave : None
+1.2 :Good words the other day of a bay courser : None
+1.2 :I rode on: it is yours, because you liked it. : None
+SECOND LORD
+1.2 :O, I beseech you, pardon me, my lord, in that. : None
+TIMON
+1.2 :You may take my word, my lord; I know, no man : None
+1.2 :Can justly praise but what he does affect: : None
+1.2 :I weigh my friend's affection with mine own; : None
+1.2 :I'll tell you true. I'll call to you. : None
+ALL LORDS
+1.2 :O, none so welcome. : None
+TIMON
+1.2 :I take all and your several visitations : None
+1.2 :So kind to heart, 'tis not enough to give; : None
+1.2 :Methinks, I could deal kingdoms to my friends, : None
+1.2 :And ne'er be weary. Alcibiades, : None
+1.2 :Thou art a soldier, therefore seldom rich; : None
+1.2 :It comes in charity to thee: for all thy living : None
+1.2 :Is 'mongst the dead, and all the lands thou hast : None
+1.2 :Lie in a pitch'd field. : None
+ALCIBIADES
+1.2 :Ay, defiled land, my lord. : None
+FIRST LORD
+1.2 :We are so virtuously bound-- : None
+TIMON
+1.2 :And so : None
+1.2 :Am I to you. : None
+SECOND LORD
+1.2 :So infinitely endear'd-- : None
+TIMON
+1.2 :All to you. Lights, more lights! : None
+FIRST LORD
+1.2 :The best of happiness, : None
+1.2 :Honour and fortunes, keep with you, Lord Timon! : None
+TIMON
+1.2 :Ready for his friends. : None
+Exeunt all but APEMANTUS and TIMON : ["Exeunt - ['ALL', 'APEMANTUS', 'TIMON']"] : TIMON
+APEMANTUS
+1.2 :What a coil's here! : None
+1.2 :Serving of becks and jutting-out of bums! : None
+1.2 :I doubt whether their legs be worth the sums : None
+1.2 :That are given for 'em. Friendship's full of dregs: : None
+1.2 :Methinks, false hearts should never have sound legs, : None
+1.2 :Thus honest fools lay out their wealth on court'sies. : None
+TIMON
+1.2 :Now, Apemantus, if thou wert not sullen, I would be : None
+1.2 :good to thee. : None
+APEMANTUS
+1.2 :No, I'll nothing: for if I should be bribed too, : None
+1.2 :there would be none left to rail upon thee, and then : None
+1.2 :thou wouldst sin the faster. Thou givest so long, : None
+1.2 :Timon, I fear me thou wilt give away thyself in : None
+1.2 :paper shortly: what need these feasts, pomps and : None
+1.2 :vain-glories? : None
+TIMON
+1.2 :Nay, an you begin to rail on society once, I am : None
+1.2 :sworn not to give regard to you. Farewell; and come : None
+1.2 :with better music. : None
+Exit : ['Exit - []'] : TIMON
+APEMANTUS
+1.2 :So: : None
+1.2 :Thou wilt not hear me now; thou shalt not then: : None
+1.2 :I'll lock thy heaven from thee. : None
+1.2 :O, that men's ears should be : None
+1.2 :To counsel deaf, but not to flattery! : None
+Exit : ['Exit - []'] : APEMANTUS
+Act(act=2)
+Scene(scene=1)
+Enter Senator, with papers in his hand : ["Enter - ['SENATOR']"] : APEMANTUS
+SENATOR
+2.1 :And late, five thousand: to Varro and to Isidore : None
+2.1 :He owes nine thousand; besides my former sum, : None
+2.1 :Which makes it five and twenty. Still in motion : None
+2.1 :Of raging waste? It cannot hold; it will not. : None
+2.1 :If I want gold, steal but a beggar's dog, : None
+2.1 :And give it Timon, why, the dog coins gold. : None
+2.1 :If I would sell my horse, and buy twenty more : None
+2.1 :Better than he, why, give my horse to Timon, : None
+2.1 :Ask nothing, give it him, it foals me, straight, : None
+2.1 :And able horses. No porter at his gate, : None
+2.1 :But rather one that smiles and still invites : None
+2.1 :All that pass by. It cannot hold: no reason : None
+2.1 :Can found his state in safety. Caphis, ho! : None
+2.1 :Caphis, I say! : None
+Enter CAPHIS : ["Enter - ['CAPHIS']"] : SENATOR
+CAPHIS
+2.1 :Here, sir; what is your pleasure? : None
+SENATOR
+2.1 :Get on your cloak, and haste you to Lord Timon; : None
+2.1 :Importune him for my moneys; be not ceased : None
+2.1 :With slight denial, nor then silenced when-- : None
+2.1 :'Commend me to your master'--and the cap : None
+2.1 :Plays in the right hand, thus: but tell him, : None
+2.1 :My uses cry to me, I must serve my turn : None
+2.1 :Out of mine own; his days and times are past : None
+2.1 :And my reliances on his fracted dates : None
+2.1 :Have smit my credit: I love and honour him, : None
+2.1 :But must not break my back to heal his finger; : None
+2.1 :Immediate are my needs, and my relief : None
+2.1 :Must not be toss'd and turn'd to me in words, : None
+2.1 :But find supply immediate. Get you gone: : None
+2.1 :Put on a most importunate aspect, : None
+2.1 :A visage of demand; for, I do fear, : None
+2.1 :When every feather sticks in his own wing, : None
+2.1 :Lord Timon will be left a naked gull, : None
+2.1 :Which flashes now a phoenix. Get you gone. : None
+CAPHIS
+2.1 :I go, sir. : None
+SENATOR
+2.1 :'I go, sir!'--Take the bonds along with you, : None
+2.1 :And have the dates in contempt. : None
+CAPHIS
+2.1 :I will, sir. : None
+SENATOR
+2.1 :Go. : None
+Exeunt : ['Exeunt - []'] : SENATOR
+Scene(scene=2)
+Enter FLAVIUS, with many bills in his hand : ["Enter - ['FLAVIUS']"] : SENATOR
+FLAVIUS
+2.2 :No care, no stop! so senseless of expense, : None
+2.2 :That he will neither know how to maintain it, : None
+2.2 :Nor cease his flow of riot: takes no account : None
+2.2 :How things go from him, nor resumes no care : None
+2.2 :Of what is to continue: never mind : None
+2.2 :Was to be so unwise, to be so kind. : None
+2.2 :What shall be done? he will not hear, till feel: : None
+2.2 :I must be round with him, now he comes from hunting. : None
+2.2 :Fie, fie, fie, fie! : None
+Enter CAPHIS, and the Servants of Isidore and Varro : ["Enter - ['CAPHIS', 'SERVANT']"] : FLAVIUS
+CAPHIS
+2.2 :Good even, Varro: what, : None
+2.2 :You come for money? : None
+2.2 :Varro's Servant	Is't not your business too? : None
+CAPHIS
+2.2 :It is: and yours too, Isidore? : None
+2.2 :Isidore's Servant	It is so. : None
+CAPHIS
+2.2 :Would we were all discharged! : None
+2.2 :Varro's Servant	I fear it. : None
+CAPHIS
+2.2 :Here comes the lord. : None
+Enter TIMON, ALCIBIADES, and Lords,  & c : ["Enter - ['TIMON', 'ALCIBIADES']"] : CAPHIS
+TIMON
+2.2 :So soon as dinner's done, we'll forth again, : None
+2.2 :My Alcibiades. With me? what is your will? : None
+CAPHIS
+2.2 :My lord, here is a note of certain dues. : None
+TIMON
+2.2 :Dues! Whence are you? : None
+CAPHIS
+2.2 :Of Athens here, my lord. : None
+TIMON
+2.2 :Go to my steward. : None
+CAPHIS
+2.2 :Please it your lordship, he hath put me off : None
+2.2 :To the succession of new days this month: : None
+2.2 :My master is awaked by great occasion : None
+2.2 :To call upon his own, and humbly prays you : None
+2.2 :That with your other noble parts you'll suit : None
+2.2 :In giving him his right. : None
+TIMON
+2.2 :Mine honest friend, : None
+2.2 :I prithee, but repair to me next morning. : None
+CAPHIS
+2.2 :Nay, good my lord,-- : None
+TIMON
+2.2 :Contain thyself, good friend. : None
+2.2 :Varro's Servant	One Varro's servant, my good lord,-- : None
+2.2 :Isidore's Servant	From Isidore; : None
+2.2 :He humbly prays your speedy payment. : None
+CAPHIS
+2.2 :If you did know, my lord, my master's wants-- : None
+2.2 :Varro's Servant	'Twas due on forfeiture, my lord, six weeks And past. : None
+2.2 :Isidore's Servant	         Your steward puts me off, my lord; : None
+2.2 :And I am sent expressly to your lordship. : None
+TIMON
+2.2 :Give me breath. : None
+2.2 :I do beseech you, good my lords, keep on; : None
+2.2 :I'll wait upon you instantly. : None
+Exeunt ALCIBIADES and Lords : ["Exeunt - ['ALCIBIADES']"] : TIMON
+To FLAVIUS : ["To - ['FLAVIUS']"] : TIMON
+2.2 :Come hither: pray you, : None
+2.2 :How goes the world, that I am thus encounter'd : None
+2.2 :With clamourous demands of date-broke bonds, : None
+2.2 :And the detention of long-since-due debts, : None
+2.2 :Against my honour? : None
+FLAVIUS
+2.2 :                  Please you, gentlemen, : None
+2.2 :The time is unagreeable to this business: : None
+2.2 :Your importunacy cease till after dinner, : None
+2.2 :That I may make his lordship understand : None
+2.2 :Wherefore you are not paid. : None
+TIMON
+2.2 :Do so, my friends. See them well entertain'd. : None
+Exit : ['Exit - []'] : TIMON
+FLAVIUS
+2.2 :Pray, draw near. : None
+Exit : ['Exit - []'] : FLAVIUS
+Enter APEMANTUS and Fool : ["Enter - ['APEMANTUS', 'FOOL']"] : FLAVIUS
+CAPHIS
+2.2 :Stay, stay, here comes the fool with Apemantus: : None
+2.2 :let's ha' some sport with 'em. : None
+2.2 :Varro's Servant	Hang him, he'll abuse us. : None
+2.2 :Isidore's Servant	A plague upon him, dog! : None
+2.2 :Varro's Servant	How dost, fool? : None
+APEMANTUS
+2.2 :Dost dialogue with thy shadow? : None
+2.2 :Varro's Servant	I speak not to thee. : None
+APEMANTUS
+2.2 :No,'tis to thyself. : None
+To the Fool : ["To - ['FOOL']"] : APEMANTUS
+2.2 :Come away. : None
+2.2 :Isidore's Servant	There's the fool hangs on your back already. : None
+APEMANTUS
+2.2 :No, thou stand'st single, thou'rt not on him yet. : None
+CAPHIS
+2.2 :Where's the fool now? : None
+APEMANTUS
+2.2 :He last asked the question. Poor rogues, and : None
+2.2 :usurers' men! bawds between gold and want! : None
+ALL SERVANTS
+2.2 :What are we, Apemantus? : None
+APEMANTUS
+2.2 :Asses. : None
+ALL SERVANTS
+2.2 :Why? : None
+APEMANTUS
+2.2 :That you ask me what you are, and do not know : None
+2.2 :yourselves. Speak to 'em, fool. : None
+FOOL
+2.2 :How do you, gentlemen? : None
+ALL SERVANTS
+2.2 :Gramercies, good fool: how does your mistress? : None
+FOOL
+2.2 :She's e'en setting on water to scald such chickens : None
+2.2 :as you are. Would we could see you at Corinth! : None
+APEMANTUS
+2.2 :Good! gramercy. : None
+Enter Page : ["Enter - ['PAGE']"] : APEMANTUS
+FOOL
+2.2 :Look you, here comes my mistress' page. : None
+PAGE
+2.2 :  Why, how now, captain! what do you : To the Fool : ["To - ['FOOL']"] : PAGE
+2.2 :in this wise company? How dost thou, Apemantus? : None
+APEMANTUS
+2.2 :Would I had a rod in my mouth, that I might answer : None
+2.2 :thee profitably. : None
+PAGE
+2.2 :Prithee, Apemantus, read me the superscription of : None
+2.2 :these letters: I know not which is which. : None
+APEMANTUS
+2.2 :Canst not read? : None
+PAGE
+2.2 :No. : None
+APEMANTUS
+2.2 :There will little learning die then, that day thou : None
+2.2 :art hanged. This is to Lord Timon; this to : None
+2.2 :Alcibiades. Go; thou wast born a bastard, and thou't : None
+2.2 :die a bawd. : None
+PAGE
+2.2 :Thou wast whelped a dog, and thou shalt famish a : None
+2.2 :dog's death. Answer not; I am gone. : None
+Exit : ['Exit - []'] : PAGE
+APEMANTUS
+2.2 :E'en so thou outrunnest grace. Fool, I will go with : None
+2.2 :you to Lord Timon's. : None
+FOOL
+2.2 :Will you leave me there? : None
+APEMANTUS
+2.2 :If Timon stay at home. You three serve three usurers? : None
+ALL SERVANTS
+2.2 :Ay; would they served us! : None
+APEMANTUS
+2.2 :So would I,--as good a trick as ever hangman served thief. : None
+FOOL
+2.2 :Are you three usurers' men? : None
+ALL SERVANTS
+2.2 :Ay, fool. : None
+FOOL
+2.2 :I think no usurer but has a fool to his servant: my : None
+2.2 :mistress is one, and I am her fool. When men come : None
+2.2 :to borrow of your masters, they approach sadly, and : None
+2.2 :go away merry; but they enter my mistress' house : None
+2.2 :merrily, and go away sadly: the reason of this? : None
+2.2 :Varro's Servant	I could render one. : None
+APEMANTUS
+2.2 :Do it then, that we may account thee a whoremaster : None
+2.2 :and a knave; which not-withstanding, thou shalt be : None
+2.2 :no less esteemed. : None
+2.2 :Varro's Servant	What is a whoremaster, fool? : None
+FOOL
+2.2 :A fool in good clothes, and something like thee. : None
+2.2 :'Tis a spirit: sometime't appears like a lord; : None
+2.2 :sometime like a lawyer; sometime like a philosopher, : None
+2.2 :with two stones moe than's artificial one: he is : None
+2.2 :very often like a knight; and, generally, in all : None
+2.2 :shapes that man goes up and down in from fourscore : None
+2.2 :to thirteen, this spirit walks in. : None
+2.2 :Varro's Servant	Thou art not altogether a fool. : None
+FOOL
+2.2 :Nor thou altogether a wise man: as much foolery as : None
+2.2 :I have, so much wit thou lackest. : None
+APEMANTUS
+2.2 :That answer might have become Apemantus. : None
+ALL SERVANTS
+2.2 :Aside, aside; here comes Lord Timon. : None
+Re-enter TIMON and FLAVIUS : ["Re-enter - ['TIMON', 'FLAVIUS']"] : ALL SERVANTS
+APEMANTUS
+2.2 :Come with me, fool, come. : None
+FOOL
+2.2 :I do not always follow lover, elder brother and : None
+2.2 :woman; sometime the philosopher. : None
+Exeunt APEMANTUS and Fool : ["Exeunt - ['APEMANTUS', 'FOOL']"] : FOOL
+FLAVIUS
+2.2 :Pray you, walk near: I'll speak with you anon. : None
+Exeunt Servants : ["Exeunt - ['SERVANT']"] : FLAVIUS
+TIMON
+2.2 :You make me marvel: wherefore ere this time : None
+2.2 :Had you not fully laid my state before me, : None
+2.2 :That I might so have rated my expense, : None
+2.2 :As I had leave of means? : None
+FLAVIUS
+2.2 :You would not hear me, : None
+2.2 :At many leisures I proposed. : None
+TIMON
+2.2 :Go to: : None
+2.2 :Perchance some single vantages you took. : None
+2.2 :When my indispos ition put you back: : None
+2.2 :And that unaptness made your minister, : None
+2.2 :Thus to excuse yourself. : None
+FLAVIUS
+2.2 :O my good lord, : None
+2.2 :At many times I brought in my accounts, : None
+2.2 :Laid them before you; you would throw them off, : None
+2.2 :And say, you found them in mine honesty. : None
+2.2 :When, for some trifling present, you have bid me : None
+2.2 :Return so much, I have shook my head and wept; : None
+2.2 :Yea, 'gainst the authority of manners, pray'd you : None
+2.2 :To hold your hand more close: I did endure : None
+2.2 :Not seldom, nor no slight cheques, when I have : None
+2.2 :Prompted you in the ebb of your estate : None
+2.2 :And your great flow of debts. My loved lord, : None
+2.2 :Though you hear now, too late--yet now's a time-- : None
+2.2 :The greatest of your having lacks a half : None
+2.2 :To pay your present debts. : None
+TIMON
+2.2 :Let all my land be sold. : None
+FLAVIUS
+2.2 :'Tis all engaged, some forfeited and gone; : None
+2.2 :And what remains will hardly stop the mouth : None
+2.2 :Of present dues: the future comes apace: : None
+2.2 :What shall defend the interim? and at length : None
+2.2 :How goes our reckoning? : None
+TIMON
+2.2 :To Lacedaemon did my land extend. : None
+FLAVIUS
+2.2 :O my good lord, the world is but a word: : None
+2.2 :Were it all yours to give it in a breath, : None
+2.2 :How quickly were it gone! : None
+TIMON
+2.2 :You tell me true. : None
+FLAVIUS
+2.2 :If you suspect my husbandry or falsehood, : None
+2.2 :Call me before the exactest auditors : None
+2.2 :And set me on the proof. So the gods bless me, : None
+2.2 :When all our offices have been oppress'd : None
+2.2 :With riotous feeders, when our vaults have wept : None
+2.2 :With drunken spilth of wine, when every room : None
+2.2 :Hath blazed with lights and bray'd with minstrelsy, : None
+2.2 :I have retired me to a wasteful cock, : None
+2.2 :And set mine eyes at flow. : None
+TIMON
+2.2 :Prithee, no more. : None
+FLAVIUS
+2.2 :Heavens, have I said, the bounty of this lord! : None
+2.2 :How many prodigal bits have slaves and peasants : None
+2.2 :This night englutted! Who is not Timon's? : None
+2.2 :What heart, head, sword, force, means, but is : None
+2.2 :Lord Timon's? : None
+2.2 :Great Timon, noble, worthy, royal Timon! : None
+2.2 :Ah, when the means are gone that buy this praise, : None
+2.2 :The breath is gone whereof this praise is made: : None
+2.2 :Feast-won, fast-lost; one cloud of winter showers, : None
+2.2 :These flies are couch'd. : None
+TIMON
+2.2 :Come, sermon me no further: : None
+2.2 :No villanous bounty yet hath pass'd my heart; : None
+2.2 :Unwisely, not ignobly, have I given. : None
+2.2 :Why dost thou weep? Canst thou the conscience lack, : None
+2.2 :To think I shall lack friends? Secure thy heart; : None
+2.2 :If I would broach the vessels of my love, : None
+2.2 :And try the argument of hearts by borrowing, : None
+2.2 :Men and men's fortunes could I frankly use : None
+2.2 :As I can bid thee speak. : None
+FLAVIUS
+2.2 :Assurance bless your thoughts! : None
+TIMON
+2.2 :And, in some sort, these wants of mine are crown'd, : None
+2.2 :That I account them blessings; for by these : None
+2.2 :Shall I try friends: you shall perceive how you : None
+2.2 :Mistake my fortunes; I am wealthy in my friends. : None
+2.2 :Within there! Flaminius! Servilius! : None
+Enter FLAMINIUS, SERVILIUS, and other Servants : ["Enter - ['FLAMINIUS', 'SERVILIUS', 'SERVANT']"] : TIMON
+SERVANTS
+2.2 :My lord? my lord? : None
+TIMON
+2.2 :I will dispatch you severally; you to Lord Lucius; : None
+2.2 :to Lord Lucullus you: I hunted with his honour : None
+2.2 :to-day: you, to Sempronius: commend me to their : None
+2.2 :loves, and, I am proud, say, that my occasions have : None
+2.2 :found time to use 'em toward a supply of money: let : None
+2.2 :the request be fifty talents. : None
+FLAMINIUS
+2.2 :As you have said, my lord. : None
+FLAVIUS
+2.2 :  Lord Lucius and Lucullus? hum! : Aside : ['Aside - []'] : FLAVIUS
+TIMON
+2.2 :Go you, sir, to the senators-- : None
+2.2 :Of whom, even to the state's best health, I have : None
+2.2 :Deserved this hearing--bid 'em send o' the instant : None
+2.2 :A thousand talents to me. : None
+FLAVIUS
+2.2 :I have been bold-- : None
+2.2 :For that I knew it the most general way-- : None
+2.2 :To them to use your signet and your name; : None
+2.2 :But they do shake their heads, and I am here : None
+2.2 :No richer in return. : None
+TIMON
+2.2 :Is't true? can't be? : None
+FLAVIUS
+2.2 :They answer, in a joint and corporate voice, : None
+2.2 :That now they are at fall, want treasure, cannot : None
+2.2 :Do what they would; are sorry--you are honourable,-- : None
+2.2 :But yet they could have wish'd--they know not-- : None
+2.2 :Something hath been amiss--a noble nature : None
+2.2 :May catch a wrench--would all were well--'tis pity;-- : None
+2.2 :And so, intending other serious matters, : None
+2.2 :After distasteful looks and these hard fractions, : None
+2.2 :With certain half-caps and cold-moving nods : None
+2.2 :They froze me into silence. : None
+TIMON
+2.2 :You gods, reward them! : None
+2.2 :Prithee, man, look cheerly. These old fellows : None
+2.2 :Have their ingratitude in them hereditary: : None
+2.2 :Their blood is caked, 'tis cold, it seldom flows; : None
+2.2 :'Tis lack of kindly warmth they are not kind; : None
+2.2 :And nature, as it grows again toward earth, : None
+2.2 :Is fashion'd for the journey, dull and heavy. : None
+To a Servant : ["To - ['SERVANT']"] : TIMON
+2.2 :Go to Ventidius. : None
+To FLAVIUS : ["To - ['FLAVIUS']"] : TIMON
+2.2 :Prithee, be not sad, : None
+2.2 :Thou art true and honest; ingeniously I speak. : None
+2.2 :No blame belongs to thee. : None
+To Servant : ["To - ['SERVANT']"] : TIMON
+2.2 :Ventidius lately : None
+2.2 :Buried his father; by whose death he's stepp'd : None
+2.2 :Into a great estate: when he was poor, : None
+2.2 :Imprison'd and in scarcity of friends, : None
+2.2 :I clear'd him with five talents: greet him from me; : None
+2.2 :Bid him suppose some good necessity : None
+2.2 :Touches his friend, which craves to be remember'd : None
+2.2 :With those five talents. : None
+Exit Servant : ["Exit - ['SERVANT']"] : TIMON
+To FLAVIUS : ["To - ['FLAVIUS']"] : TIMON
+2.2 :That had, give't these fellows : None
+2.2 :To whom 'tis instant due. Ne'er speak, or think, : None
+2.2 :That Timon's fortunes 'mong his friends can sink. : None
+FLAVIUS
+2.2 :I would I could not think it: that thought is : None
+2.2 :bounty's foe; : None
+2.2 :Being free itself, it thinks all others so. : None
+Exeunt : ['Exeunt - []'] : FLAVIUS
+Act(act=3)
+Scene(scene=1)
+FLAMINIUS waiting. Enter a Servant to him : ["None - ['FLAMINIUS']", "Enter - ['SERVANT']"] : FLAVIUS
+SERVANT
+3.1 :I have told my lord of you; he is coming down to you. : None
+FLAMINIUS
+3.1 :I thank you, sir. : None
+Enter LUCULLUS : ["Enter - ['LUCULLUS']"] : FLAMINIUS
+SERVANT
+3.1 :Here's my lord. : None
+LUCULLUS
+3.1 :  One of Lord Timon's men? a gift, I : Aside : ['Aside - []'] : LUCULLUS
+3.1 :warrant. Why, this hits right; I dreamt of a silver : None
+3.1 :basin and ewer to-night. Flaminius, honest : None
+3.1 :Flaminius; you are very respectively welcome, sir. : None
+3.1 :Fill me some wine. : None
+Exit Servants : ["Exit - ['SERVANT']"] : LUCULLUS
+3.1 :And how does that honourable, complete, free-hearted : None
+3.1 :gentleman of Athens, thy very bountiful good lord : None
+3.1 :and master? : None
+FLAMINIUS
+3.1 :His health is well sir. : None
+LUCULLUS
+3.1 :I am right glad that his health is well, sir: and : None
+3.1 :what hast thou there under thy cloak, pretty Flaminius? : None
+FLAMINIUS
+3.1 :'Faith, nothing but an empty box, sir; which, in my : None
+3.1 :lord's behalf, I come to entreat your honour to : None
+3.1 :supply; who, having great and instant occasion to : None
+3.1 :use fifty talents, hath sent to your lordship to : None
+3.1 :furnish him, nothing doubting your present : None
+3.1 :assistance therein. : None
+LUCULLUS
+3.1 :La, la, la, la! 'nothing doubting,' says he? Alas, : None
+3.1 :good lord! a noble gentleman 'tis, if he would not : None
+3.1 :keep so good a house. Many a time and often I ha' : None
+3.1 :dined with him, and told him on't, and come again to : None
+3.1 :supper to him, of purpose to have him spend less, : None
+3.1 :and yet he would embrace no counsel, take no warning : None
+3.1 :by my coming. Every man has his fault, and honesty : None
+3.1 :is his: I ha' told him on't, but I could ne'er get : None
+3.1 :him from't. : None
+Re-enter Servant, with wine : ["Re-enter - ['SERVANT']"] : LUCULLUS
+SERVANT
+3.1 :Please your lordship, here is the wine. : None
+LUCULLUS
+3.1 :Flaminius, I have noted thee always wise. Here's to thee. : None
+FLAMINIUS
+3.1 :Your lordship speaks your pleasure. : None
+LUCULLUS
+3.1 :I have observed thee always for a towardly prompt : None
+3.1 :spirit--give thee thy due--and one that knows what : None
+3.1 :belongs to reason; and canst use the time well, if : None
+3.1 :the time use thee well: good parts in thee. : None
+To Servant : ["To - ['SERVANT']"] : LUCULLUS
+3.1 :Get you gone, sirrah. : None
+Exit Servant : ["Exit - ['SERVANT']"] : LUCULLUS
+3.1 :Draw nearer, honest Flaminius. Thy lord's a : None
+3.1 :bountiful gentleman: but thou art wise; and thou : None
+3.1 :knowest well enough, although thou comest to me, : None
+3.1 :that this is no time to lend money, especially upon : None
+3.1 :bare friendship, without security. Here's three : None
+3.1 :solidares for thee: good boy, wink at me, and say : None
+3.1 :thou sawest me not. Fare thee well. : None
+FLAMINIUS
+3.1 :Is't possible the world should so much differ, : None
+3.1 :And we alive that lived? Fly, damned baseness, : None
+3.1 :To him that worships thee! : None
+Throwing the money back : ['None - []'] : FLAMINIUS
+LUCULLUS
+3.1 :Ha! now I see thou art a fool, and fit for thy master. : None
+Exit : ['Exit - []'] : LUCULLUS
+FLAMINIUS
+3.1 :May these add to the number that may scald thee! : None
+3.1 :Let moulten coin be thy damnation, : None
+3.1 :Thou disease of a friend, and not himself! : None
+3.1 :Has friendship such a faint and milky heart, : None
+3.1 :It turns in less than two nights? O you gods, : None
+3.1 :I feel master's passion! this slave, : None
+3.1 :Unto his honour, has my lord's meat in him: : None
+3.1 :Why should it thrive and turn to nutriment, : None
+3.1 :When he is turn'd to poison? : None
+3.1 :O, may diseases only work upon't! : None
+3.1 :And, when he's sick to death, let not that part of nature : None
+3.1 :Which my lord paid for, be of any power : None
+3.1 :To expel sickness, but prolong his hour! : None
+Exit : ['Exit - []'] : FLAMINIUS
+Scene(scene=2)
+Enter LUCILIUS, with three Strangers : ["Enter - ['LUCILIUS']"] : FLAMINIUS
+LUCILIUS
+3.2 :Who, the Lord Timon? he is my very good friend, and : None
+3.2 :an honourable gentleman. : None
+FIRST STRANGER
+3.2 :We know him for no less, though we are but strangers : None
+3.2 :to him. But I can tell you one thing, my lord, and : None
+3.2 :which I hear from common rumours: now Lord Timon's : None
+3.2 :happy hours are done and past, and his estate : None
+3.2 :shrinks from him. : None
+LUCILIUS
+3.2 :Fie, no, do not believe it; he cannot want for money. : None
+SECOND STRANGER
+3.2 :But believe you this, my lord, that, not long ago, : None
+3.2 :one of his men was with the Lord Lucullus to borrow : None
+3.2 :so many talents, nay, urged extremely for't and : None
+3.2 :showed what necessity belonged to't, and yet was denied. : None
+LUCILIUS
+3.2 :How! : None
+SECOND STRANGER
+3.2 :I tell you, denied, my lord. : None
+LUCILIUS
+3.2 :What a strange case was that! now, before the gods, : None
+3.2 :I am ashamed on't. Denied that honourable man! : None
+3.2 :there was very little honour showed in't. For my own : None
+3.2 :part, I must needs confess, I have received some : None
+3.2 :small kindnesses from him, as money, plate, jewels : None
+3.2 :and such-like trifles, nothing comparing to his; : None
+3.2 :yet, had he mistook him and sent to me, I should : None
+3.2 :ne'er have denied his occasion so many talents. : None
+Enter SERVILIUS : ["Enter - ['SERVILIUS']"] : LUCILIUS
+SERVILIUS
+3.2 :See, by good hap, yonder's my lord; : None
+3.2 :I have sweat to see his honour. My honoured lord,-- : None
+To LUCIUS : ['To - []'] : SERVILIUS
+LUCILIUS
+3.2 :Servilius! you are kindly met, sir. Fare thee well: : None
+3.2 :commend me to thy honourable virtuous lord, my very : None
+3.2 :exquisite friend. : None
+SERVILIUS
+3.2 :May it please your honour, my lord hath sent-- : None
+LUCILIUS
+3.2 :Ha! what has he sent? I am so much endeared to : None
+3.2 :that lord; he's ever sending: how shall I thank : None
+3.2 :him, thinkest thou? And what has he sent now? : None
+SERVILIUS
+3.2 :Has only sent his present occasion now, my lord; : None
+3.2 :requesting your lordship to supply his instant use : None
+3.2 :with so many talents. : None
+LUCILIUS
+3.2 :I know his lordship is but merry with me; : None
+3.2 :He cannot want fifty five hundred talents. : None
+SERVILIUS
+3.2 :But in the mean time he wants less, my lord. : None
+3.2 :If his occasion were not virtuous, : None
+3.2 :I should not urge it half so faithfully. : None
+LUCILIUS
+3.2 :Dost thou speak seriously, Servilius? : None
+SERVILIUS
+3.2 :Upon my soul,'tis true, sir. : None
+LUCILIUS
+3.2 :What a wicked beast was I to disfurnish myself : None
+3.2 :against such a good time, when I might ha' shown : None
+3.2 :myself honourable! how unluckily it happened, that I : None
+3.2 :should purchase the day before for a little part, : None
+3.2 :and undo a great deal of honoured! Servilius, now, : None
+3.2 :before the gods, I am not able to do,--the more : None
+3.2 :beast, I say:--I was sending to use Lord Timon : None
+3.2 :myself, these gentlemen can witness! but I would : None
+3.2 :not, for the wealth of Athens, I had done't now. : None
+3.2 :Commend me bountifully to his good lordship; and I : None
+3.2 :hope his honour will conceive the fairest of me, : None
+3.2 :because I have no power to be kind: and tell him : None
+3.2 :this from me, I count it one of my greatest : None
+3.2 :afflictions, say, that I cannot pleasure such an : None
+3.2 :honourable gentleman. Good Servilius, will you : None
+3.2 :befriend me so far, as to use mine own words to him? : None
+SERVILIUS
+3.2 :Yes, sir, I shall. : None
+LUCILIUS
+3.2 :I'll look you out a good turn, Servilius. : None
+Exit SERVILIUS : ["Exit - ['SERVILIUS']"] : LUCILIUS
+3.2 :True as you said, Timon is shrunk indeed; : None
+3.2 :And he that's once denied will hardly speed. : None
+Exit : ['Exit - []'] : LUCILIUS
+FIRST STRANGER
+3.2 :Do you observe this, Hostilius? : None
+SECOND STRANGER
+3.2 :Ay, too well. : None
+FIRST STRANGER
+3.2 :Why, this is the world's soul; and just of the : None
+3.2 :same piece : None
+3.2 :Is every flatterer's spirit. Who can call him : None
+3.2 :His friend that dips in the same dish? for, in : None
+3.2 :My knowing, Timon has been this lord's father, : None
+3.2 :And kept his credit with his purse, : None
+3.2 :Supported his estate; nay, Timon's money : None
+3.2 :Has paid his men their wages: he ne'er drinks, : None
+3.2 :But Timon's silver treads upon his lip; : None
+3.2 :And yet--O, see the monstrousness of man : None
+3.2 :When he looks out in an ungrateful shape!-- : None
+3.2 :He does deny him, in respect of his, : None
+3.2 :What charitable men afford to beggars. : None
+THIRD STRANGER
+3.2 :Religion groans at it. : None
+FIRST STRANGER
+3.2 :For mine own part, : None
+3.2 :I never tasted Timon in my life, : None
+3.2 :Nor came any of his bounties over me, : None
+3.2 :To mark me for his friend; yet, I protest, : None
+3.2 :For his right noble mind, illustrious virtue : None
+3.2 :And honourable carriage, : None
+3.2 :Had his necessity made use of me, : None
+3.2 :I would have put my wealth into donation, : None
+3.2 :And the best half should have return'd to him, : None
+3.2 :So much I love his heart: but, I perceive, : None
+3.2 :Men must learn now with pity to dispense; : None
+3.2 :For policy sits above conscience. : None
+Exeunt : ['Exeunt - []'] : FIRST STRANGER
+Scene(scene=3)
+Enter SEMPRONIUS, and a Servant of TIMON's : ["Enter - ['SEMPRONIUS', 'SERVANT', 'TIMON']"] : FIRST STRANGER
+SEMPRONIUS
+3.3 :Must he needs trouble me in 't,--hum!--'bove : None
+3.3 :all others? : None
+3.3 :He might have tried Lord Lucius or Lucullus; : None
+3.3 :And now Ventidius is wealthy too, : None
+3.3 :Whom he redeem'd from prison: all these : None
+3.3 :Owe their estates unto him. : None
+SERVANT
+3.3 :My lord, : None
+3.3 :They have all been touch'd and found base metal, for : None
+3.3 :They have au denied him. : None
+SEMPRONIUS
+3.3 :How! have they denied him? : None
+3.3 :Has Ventidius and Lucullus denied him? : None
+3.3 :And does he send to me? Three? hum! : None
+3.3 :It shows but little love or judgment in him: : None
+3.3 :Must I be his last refuge! His friends, like : None
+3.3 :physicians, : None
+3.3 :Thrive, give him over: must I take the cure upon me? : None
+3.3 :Has much disgraced me in't; I'm angry at him, : None
+3.3 :That might have known my place: I see no sense for't, : None
+3.3 :But his occasion might have woo'd me first; : None
+3.3 :For, in my conscience, I was the first man : None
+3.3 :That e'er received gift from him: : None
+3.3 :And does he think so backwardly of me now, : None
+3.3 :That I'll requite its last? No: : None
+3.3 :So it may prove an argument of laughter : None
+3.3 :To the rest, and 'mongst lords I be thought a fool. : None
+3.3 :I'ld rather than the worth of thrice the sum, : None
+3.3 :Had sent to me first, but for my mind's sake; : None
+3.3 :I'd such a courage to do him good. But now return, : None
+3.3 :And with their faint reply this answer join; : None
+3.3 :Who bates mine honour shall not know my coin. : None
+Exit : ['Exit - []'] : SEMPRONIUS
+SERVANT
+3.3 :Excellent! Your lordship's a goodly villain. The : None
+3.3 :devil knew not what he did when he made man : None
+3.3 :politic; he crossed himself by 't: and I cannot : None
+3.3 :think but, in the end, the villainies of man will : None
+3.3 :set him clear. How fairly this lord strives to : None
+3.3 :appear foul! takes virtuous copies to be wicked, : None
+3.3 :like those that under hot ardent zeal would set : None
+3.3 :whole realms on fire: Of such a nature is his : None
+3.3 :politic love. : None
+3.3 :This was my lord's best hope; now all are fled, : None
+3.3 :Save only the gods: now his friends are dead, : None
+3.3 :Doors, that were ne'er acquainted with their wards : None
+3.3 :Many a bounteous year must be employ'd : None
+3.3 :Now to guard sure their master. : None
+3.3 :And this is all a liberal course allows; : None
+3.3 :Who cannot keep his wealth must keep his house. : None
+Exit : ['Exit - []'] : SERVANT
+Scene(scene=4)
+Enter two Servants of Varro, and the Servant of  LUCIUS, meeting TITUS, HORTENSIUS, and other Servants of TIMON's creditors, waiting his coming out : ["Enter - ['SERVANT', 'SERVANT', 'TITUS', 'HORTENSIUS', 'SERVANT', 'TIMON']"] : SERVANT
+3.4 :Varro's : None
+FIRST SERVANT
+3.4 :Well met; good morrow, Titus and Hortensius. : None
+TITUS
+3.4 :The like to you kind Varro. : None
+HORTENSIUS
+3.4 :Lucius! : None
+3.4 :What, do we meet together? : None
+3.4 :Lucilius' Servant	Ay, and I think : None
+3.4 :One business does command us all; for mine Is money. : None
+TITUS
+3.4 :So is theirs and ours. : None
+Enter PHILOTUS : ["Enter - ['PHILOTUS']"] : TITUS
+3.4 :Lucilius' Servant	And Sir Philotus too! : None
+PHILOTUS
+3.4 :Good day at once. : None
+3.4 :Lucilius' Servant	                  Welcome, good brother. : None
+3.4 :What do you think the hour? : None
+PHILOTUS
+3.4 :Labouring for nine. : None
+3.4 :Lucilius' Servant	So much? : None
+PHILOTUS
+3.4 :Is not my lord seen yet? : None
+3.4 :Lucilius' Servant	Not yet. : None
+PHILOTUS
+3.4 :I wonder on't; he was wont to shine at seven. : None
+3.4 :Lucilius' Servant	Ay, but the days are wax'd shorter with him: : None
+3.4 :You must consider that a prodigal course : None
+3.4 :Is like the sun's; but not, like his, recoverable. : None
+3.4 :I fear 'tis deepest winter in Lord Timon's purse; : None
+3.4 :That is one may reach deep enough, and yet : None
+3.4 :Find little. : None
+PHILOTUS
+3.4 :I am of your fear for that. : None
+TITUS
+3.4 :I'll show you how to observe a strange event. : None
+3.4 :Your lord sends now for money. : None
+HORTENSIUS
+3.4 :Most true, he does. : None
+TITUS
+3.4 :And he wears jewels now of Timon's gift, : None
+3.4 :For which I wait for money. : None
+HORTENSIUS
+3.4 :It is against my heart. : None
+3.4 :Lucilius' Servant	Mark, how strange it shows, : None
+3.4 :Timon in this should pay more than he owes: : None
+3.4 :And e'en as if your lord should wear rich jewels, : None
+3.4 :And send for money for 'em. : None
+HORTENSIUS
+3.4 :I'm weary of this charge, the gods can witness: : None
+3.4 :I know my lord hath spent of Timon's wealth, : None
+3.4 :And now ingratitude makes it worse than stealth. : None
+3.4 :Varro's : None
+FIRST SERVANT
+3.4 :Yes, mine's three thousand crowns: what's yours? : None
+3.4 :Lucilius' Servant	Five thousand mine. : None
+3.4 :Varro's : None
+FIRST SERVANT
+3.4 :'Tis much deep: and it should seem by the sun, : None
+3.4 :Your master's confidence was above mine; : None
+3.4 :Else, surely, his had equall'd. : None
+3.4 :Enter FLAMINIUS. : None
+TITUS
+3.4 :One of Lord Timon's men. : None
+3.4 :Lucilius' Servant	Flaminius! Sir, a word: pray, is my lord ready to : None
+3.4 :come forth? : None
+FLAMINIUS
+3.4 :No, indeed, he is not. : None
+TITUS
+3.4 :We attend his lordship; pray, signify so much. : None
+FLAMINIUS
+3.4 :I need not tell him that; he knows you are too diligent. : None
+Exit : ['Exit - []'] : FLAMINIUS
+Enter FLAVIUS in a cloak, muffled : ["Enter - ['FLAVIUS']"] : FLAMINIUS
+3.4 :Lucilius' Servant	Ha! is not that his steward muffled so? : None
+3.4 :He goes away in a cloud: call him, call him. : None
+TITUS
+3.4 :Do you hear, sir? : None
+3.4 :Varro's : None
+SECOND SERVANT
+3.4 :By your leave, sir,-- : None
+FLAVIUS
+3.4 :What do ye ask of me, my friend? : None
+TITUS
+3.4 :We wait for certain money here, sir. : None
+FLAVIUS
+3.4 :Ay, : None
+3.4 :If money were as certain as your waiting, : None
+3.4 :'Twere sure enough. : None
+3.4 :Why then preferr'd you not your sums and bills, : None
+3.4 :When your false masters eat of my lord's meat? : None
+3.4 :Then they could smile and fawn upon his debts : None
+3.4 :And take down the interest into their : None
+3.4 :gluttonous maws. : None
+3.4 :You do yourselves but wrong to stir me up; : None
+3.4 :Let me pass quietly: : None
+3.4 :Believe 't, my lord and I have made an end; : None
+3.4 :I have no more to reckon, he to spend. : None
+3.4 :Lucilius' Servant	Ay, but this answer will not serve. : None
+FLAVIUS
+3.4 :If 'twill not serve,'tis not so base as you; : None
+3.4 :For you serve knaves. : None
+Exit : ['Exit - []'] : FLAVIUS
+3.4 :Varro's : None
+FIRST SERVANT
+3.4 :How! what does his cashiered worship mutter? : None
+3.4 :Varro's : None
+SECOND SERVANT
+3.4 :No matter what; he's poor, and that's revenge : None
+3.4 :enough. Who can speak broader than he that has no : None
+3.4 :house to put his head in? such may rail against : None
+3.4 :great buildings. : None
+Enter SERVILIUS : ["Enter - ['SERVILIUS']"] : SECOND SERVANT
+TITUS
+3.4 :O, here's Servilius; now we shall know some answer. : None
+SERVILIUS
+3.4 :If I might beseech you, gentlemen, to repair some : None
+3.4 :other hour, I should derive much from't; for, : None
+3.4 :take't of my soul, my lord leans wondrously to : None
+3.4 :discontent: his comfortable temper has forsook him; : None
+3.4 :he's much out of health, and keeps his chamber. : None
+3.4 :Lucilius' Servant: Many do keep their chambers are not sick: : None
+3.4 :And, if it be so far beyond his health, : None
+3.4 :Methinks he should the sooner pay his debts, : None
+3.4 :And make a clear way to the gods. : None
+SERVILIUS
+3.4 :Good gods! : None
+TITUS
+3.4 :We cannot take this for answer, sir. : None
+FLAMINIUS
+3.4 :  Servilius, help! My lord! my lord! : Within : ['None - []'] : FLAMINIUS
+Enter TIMON, in a rage, FLAMINIUS following : ["Enter - ['TIMON', 'FLAMINIUS']"] : FLAMINIUS
+TIMON
+3.4 :What, are my doors opposed against my passage? : None
+3.4 :Have I been ever free, and must my house : None
+3.4 :Be my retentive enemy, my gaol? : None
+3.4 :The place which I have feasted, does it now, : None
+3.4 :Like all mankind, show me an iron heart? : None
+3.4 :Lucilius' Servant	Put in now, Titus. : None
+TITUS
+3.4 :My lord, here is my bill. : None
+3.4 :Lucilius' Servant	Here's mine. : None
+HORTENSIUS
+3.4 :And mine, my lord. : None
+3.4 :Both : None
+3.4 :Varro's Servants	And ours, my lord. : None
+PHILOTUS
+3.4 :All our bills. : None
+TIMON
+3.4 :Knock me down with 'em: cleave me to the girdle. : None
+3.4 :Lucilius' Servant	Alas, my lord,- : None
+TIMON
+3.4 :Cut my heart in sums. : None
+TITUS
+3.4 :Mine, fifty talents. : None
+TIMON
+3.4 :Tell out my blood. : None
+3.4 :Lucilius' Servant	Five thousand crowns, my lord. : None
+TIMON
+3.4 :Five thousand drops pays that. : None
+3.4 :What yours?--and yours? : None
+3.4 :Varro's : None
+FIRST SERVANT
+3.4 :My lord,-- : None
+3.4 :Varro's : None
+SECOND SERVANT
+3.4 :My lord,-- : None
+TIMON
+3.4 :Tear me, take me, and the gods fall upon you! : None
+Exit : ['Exit - []'] : TIMON
+HORTENSIUS
+3.4 :'Faith, I perceive our masters may throw their caps : None
+3.4 :at their money: these debts may well be called : None
+3.4 :desperate ones, for a madman owes 'em. : None
+Exeunt : ['Exeunt - []'] : HORTENSIUS
+Re-enter TIMON and FLAVIUS : ["Re-enter - ['TIMON', 'FLAVIUS']"] : HORTENSIUS
+TIMON
+3.4 :They have e'en put my breath from me, the slaves. : None
+3.4 :Creditors? devils! : None
+FLAVIUS
+3.4 :My dear lord,-- : None
+TIMON
+3.4 :What if it should be so? : None
+FLAVIUS
+3.4 :My lord,-- : None
+TIMON
+3.4 :I'll have it so. My steward! : None
+FLAVIUS
+3.4 :Here, my lord. : None
+TIMON
+3.4 :So fitly? Go, bid all my friends again, : None
+3.4 :Lucius, Lucullus, and Sempronius: : None
+3.4 :All, sirrah, all: : None
+3.4 :I'll once more feast the rascals. : None
+FLAVIUS
+3.4 :O my lord, : None
+3.4 :You only speak from your distracted soul; : None
+3.4 :There is not so much left, to furnish out : None
+3.4 :A moderate table. : None
+TIMON
+3.4 :                  Be't not in thy care; go, : None
+3.4 :I charge thee, invite them all: let in the tide : None
+3.4 :Of knaves once more; my cook and I'll provide. : None
+Exeunt : ['Exeunt - []'] : TIMON
+Scene(scene=5)
+FIRST SENATOR
+3.5 :My lord, you have my voice to it; the fault's : None
+3.5 :Bloody; 'tis necessary he should die: : None
+3.5 :Nothing emboldens sin so much as mercy. : None
+SECOND SENATOR
+3.5 :Most true; the law shall bruise him. : None
+Enter ALCIBIADES, with Attendants : ["Enter - ['ALCIBIADES']"] : SECOND SENATOR
+ALCIBIADES
+3.5 :Honour, health, and compassion to the senate! : None
+FIRST SENATOR
+3.5 :Now, captain? : None
+ALCIBIADES
+3.5 :I am an humble suitor to your virtues; : None
+3.5 :For pity is the virtue of the law, : None
+3.5 :And none but tyrants use it cruelly. : None
+3.5 :It pleases time and fortune to lie heavy : None
+3.5 :Upon a friend of mine, who, in hot blood, : None
+3.5 :Hath stepp'd into the law, which is past depth : None
+3.5 :To those that, without heed, do plunge into 't. : None
+3.5 :He is a man, setting his fate aside, : None
+3.5 :Of comely virtues: : None
+3.5 :Nor did he soil the fact with cowardice-- : None
+3.5 :An honour in him which buys out his fault-- : None
+3.5 :But with a noble fury and fair spirit, : None
+3.5 :Seeing his reputation touch'd to death, : None
+3.5 :He did oppose his foe: : None
+3.5 :And with such sober and unnoted passion : None
+3.5 :He did behave his anger, ere 'twas spent, : None
+3.5 :As if he had but proved an argument. : None
+FIRST SENATOR
+3.5 :You undergo too strict a paradox, : None
+3.5 :Striving to make an ugly deed look fair: : None
+3.5 :Your words have took such pains as if they labour'd : None
+3.5 :To bring manslaughter into form and set quarrelling : None
+3.5 :Upon the head of valour; which indeed : None
+3.5 :Is valour misbegot and came into the world : None
+3.5 :When sects and factions were newly born: : None
+3.5 :He's truly valiant that can wisely suffer : None
+3.5 :The worst that man can breathe, and make his wrongs : None
+3.5 :His outsides, to wear them like his raiment, : None
+3.5 :carelessly, : None
+3.5 :And ne'er prefer his injuries to his heart, : None
+3.5 :To bring it into danger. : None
+3.5 :If wrongs be evils and enforce us kill, : None
+3.5 :What folly 'tis to hazard life for ill! : None
+ALCIBIADES
+3.5 :My lord,-- : None
+FIRST SENATOR
+3.5 :       You cannot make gross sins look clear: : None
+3.5 :To revenge is no valour, but to bear. : None
+ALCIBIADES
+3.5 :My lords, then, under favour, pardon me, : None
+3.5 :If I speak like a captain. : None
+3.5 :Why do fond men expose themselves to battle, : None
+3.5 :And not endure all threats? sleep upon't, : None
+3.5 :And let the foes quietly cut their throats, : None
+3.5 :Without repugnancy? If there be : None
+3.5 :Such valour in the bearing, what make we : None
+3.5 :Abroad? why then, women are more valiant : None
+3.5 :That stay at home, if bearing carry it, : None
+3.5 :And the ass more captain than the lion, the felon : None
+3.5 :Loaden with irons wiser than the judge, : None
+3.5 :If wisdom be in suffering. O my lords, : None
+3.5 :As you are great, be pitifully good: : None
+3.5 :Who cannot condemn rashness in cold blood? : None
+3.5 :To kill, I grant, is sin's extremest gust; : None
+3.5 :But, in defence, by mercy, 'tis most just. : None
+3.5 :To be in anger is impiety; : None
+3.5 :But who is man that is not angry? : None
+3.5 :Weigh but the crime with this. : None
+SECOND SENATOR
+3.5 :You breathe in vain. : None
+ALCIBIADES
+3.5 :In vain! his service done : None
+3.5 :At Lacedaemon and Byzantium : None
+3.5 :Were a sufficient briber for his life. : None
+FIRST SENATOR
+3.5 :What's that? : None
+ALCIBIADES
+3.5 :I say, my lords, he has done fair service, : None
+3.5 :And slain in fight many of your enemies: : None
+3.5 :How full of valour did he bear himself : None
+3.5 :In the last conflict, and made plenteous wounds! : None
+SECOND SENATOR
+3.5 :He has made too much plenty with 'em; : None
+3.5 :He's a sworn rioter: he has a sin that often : None
+3.5 :Drowns him, and takes his valour prisoner: : None
+3.5 :If there were no foes, that were enough : None
+3.5 :To overcome him: in that beastly fury : None
+3.5 :He has been known to commit outrages, : None
+3.5 :And cherish factions: 'tis inferr'd to us, : None
+3.5 :His days are foul and his drink dangerous. : None
+FIRST SENATOR
+3.5 :He dies. : None
+ALCIBIADES
+3.5 :Hard fate! he might have died in war. : None
+3.5 :My lords, if not for any parts in him-- : None
+3.5 :Though his right arm might purchase his own time : None
+3.5 :And be in debt to none--yet, more to move you, : None
+3.5 :Take my deserts to his, and join 'em both: : None
+3.5 :And, for I know your reverend ages love : None
+3.5 :Security, I'll pawn my victories, all : None
+3.5 :My honours to you, upon his good returns. : None
+3.5 :If by this crime he owes the law his life, : None
+3.5 :Why, let the war receive 't in valiant gore : None
+3.5 :For law is strict, and war is nothing more. : None
+FIRST SENATOR
+3.5 :We are for law: he dies; urge it no more, : None
+3.5 :On height of our displeasure: friend or brother, : None
+3.5 :He forfeits his own blood that spills another. : None
+ALCIBIADES
+3.5 :Must it be so? it must not be. My lords, : None
+3.5 :I do beseech you, know me. : None
+SECOND SENATOR
+3.5 :How! : None
+ALCIBIADES
+3.5 :Call me to your remembrances. : None
+THIRD SENATOR
+3.5 :What! : None
+ALCIBIADES
+3.5 :I cannot think but your age has forgot me; : None
+3.5 :It could not else be, I should prove so base, : None
+3.5 :To sue, and be denied such common grace: : None
+3.5 :My wounds ache at you. : None
+FIRST SENATOR
+3.5 :Do you dare our anger? : None
+3.5 :'Tis in few words, but spacious in effect; : None
+3.5 :We banish thee for ever. : None
+ALCIBIADES
+3.5 :Banish me! : None
+3.5 :Banish your dotage; banish usury, : None
+3.5 :That makes the senate ugly. : None
+FIRST SENATOR
+3.5 :If, after two days' shine, Athens contain thee, : None
+3.5 :Attend our weightier judgment. And, not to swell : None
+3.5 :our spirit, : None
+3.5 :He shall be executed presently. : None
+Exeunt Senators : ["Exeunt - ['SENATOR']"] : FIRST SENATOR
+ALCIBIADES
+3.5 :Now the gods keep you old enough; that you may live : None
+3.5 :Only in bone, that none may look on you! : None
+3.5 :I'm worse than mad: I have kept back their foes, : None
+3.5 :While they have told their money and let out : None
+3.5 :Their coin upon large interest, I myself : None
+3.5 :Rich only in large hurts. All those for this? : None
+3.5 :Is this the balsam that the usuring senate : None
+3.5 :Pours into captains' wounds? Banishment! : None
+3.5 :It comes not ill; I hate not to be banish'd; : None
+3.5 :It is a cause worthy my spleen and fury, : None
+3.5 :That I may strike at Athens. I'll cheer up : None
+3.5 :My discontented troops, and lay for hearts. : None
+3.5 :'Tis honour with most lands to be at odds; : None
+3.5 :Soldiers should brook as little wrongs as gods. : None
+Exit : ['Exit - []'] : ALCIBIADES
+Scene(scene=6)
+Music. Tables set out: Servants attending.  Enter divers Lords, Senators and others, at several doors : ['None - []', "None - ['SERVANT']", "Enter - ['SENATOR']"] : ALCIBIADES
+FIRST LORD
+3.6 :The good time of day to you, sir. : None
+SECOND LORD
+3.6 :I also wish it to you. I think this honourable lord : None
+3.6 :did but try us this other day. : None
+FIRST LORD
+3.6 :Upon that were my thoughts tiring, when we : None
+3.6 :encountered: I hope it is not so low with him as : None
+3.6 :he made it seem in the trial of his several friends. : None
+SECOND LORD
+3.6 :It should not be, by the persuasion of his new feasting. : None
+FIRST LORD
+3.6 :I should think so: he hath sent me an earnest : None
+3.6 :inviting, which many my near occasions did urge me : None
+3.6 :to put off; but he hath conjured me beyond them, and : None
+3.6 :I must needs appear. : None
+SECOND LORD
+3.6 :In like manner was I in debt to my importunate : None
+3.6 :business, but he would not hear my excuse. I am : None
+3.6 :sorry, when he sent to borrow of me, that my : None
+3.6 :provision was out. : None
+FIRST LORD
+3.6 :I am sick of that grief too, as I understand how all : None
+3.6 :things go. : None
+SECOND LORD
+3.6 :Every man here's so. What would he have borrowed of : None
+3.6 :you? : None
+FIRST LORD
+3.6 :A thousand pieces. : None
+SECOND LORD
+3.6 :A thousand pieces! : None
+FIRST LORD
+3.6 :What of you? : None
+SECOND LORD
+3.6 :He sent to me, sir,--Here he comes. : None
+Enter TIMON and Attendants : ["Enter - ['TIMON']"] : SECOND LORD
+TIMON
+3.6 :With all my heart, gentlemen both; and how fare you? : None
+FIRST LORD
+3.6 :Ever at the best, hearing well of your lordship. : None
+SECOND LORD
+3.6 :The swallow follows not summer more willing than we : None
+3.6 :your lordship. : None
+TIMON
+3.6 :  Nor more willingly leaves winter; such : Aside : ['Aside - []'] : TIMON
+3.6 :summer-birds are men. Gentlemen, our dinner will not : None
+3.6 :recompense this long stay: feast your ears with the : None
+3.6 :music awhile, if they will fare so harshly o' the : None
+3.6 :trumpet's sound; we shall to 't presently. : None
+FIRST LORD
+3.6 :I hope it remains not unkindly with your lordship : None
+3.6 :that I returned you an empty messenger. : None
+TIMON
+3.6 :O, sir, let it not trouble you. : None
+SECOND LORD
+3.6 :My noble lord,-- : None
+TIMON
+3.6 :Ah, my good friend, what cheer? : None
+SECOND LORD
+3.6 :My most honourable lord, I am e'en sick of shame, : None
+3.6 :that, when your lordship this other day sent to me, : None
+3.6 :I was so unfortunate a beggar. : None
+TIMON
+3.6 :Think not on 't, sir. : None
+SECOND LORD
+3.6 :If you had sent but two hours before,-- : None
+TIMON
+3.6 :Let it not cumber your better remembrance. : None
+The banquet brought in : ['None - []'] : TIMON
+3.6 :Come, bring in all together. : None
+SECOND LORD
+3.6 :All covered dishes! : None
+FIRST LORD
+3.6 :Royal cheer, I warrant you. : None
+THIRD LORD
+3.6 :Doubt not that, if money and the season can yield : None
+3.6 :it. : None
+FIRST LORD
+3.6 :How do you? What's the news? : None
+THIRD LORD
+3.6 :Alcibiades is banished: hear you of it? : None
+FIRST LORD
+SECOND LORD
+3.6 :Alcibiades banished! : None
+THIRD LORD
+3.6 :'Tis so, be sure of it. : None
+FIRST LORD
+3.6 :How! how! : None
+SECOND LORD
+3.6 :I pray you, upon what? : None
+TIMON
+3.6 :My worthy friends, will you draw near? : None
+THIRD LORD
+3.6 :I'll tell you more anon. Here's a noble feast toward. : None
+SECOND LORD
+3.6 :This is the old man still. : None
+THIRD LORD
+3.6 :Will 't hold? will 't hold? : None
+SECOND LORD
+3.6 :It does: but time will--and so-- : None
+THIRD LORD
+3.6 :I do conceive. : None
+TIMON
+3.6 :Each man to his stool, with that spur as he would to : None
+3.6 :the lip of his mistress: your diet shall be in all : None
+3.6 :places alike. Make not a city feast of it, to let : None
+3.6 :the meat cool ere we can agree upon the first place: : None
+3.6 :sit, sit. The gods require our thanks. : None
+3.6 :You great benefactors, sprinkle our society with : None
+3.6 :thankfulness. For your own gifts, make yourselves : None
+3.6 :praised: but reserve still to give, lest your : None
+3.6 :deities be despised. Lend to each man enough, that : None
+3.6 :one need not lend to another; for, were your : None
+3.6 :godheads to borrow of men, men would forsake the : None
+3.6 :gods. Make the meat be beloved more than the man : None
+3.6 :that gives it. Let no assembly of twenty be without : None
+3.6 :a score of villains: if there sit twelve women at : None
+3.6 :the table, let a dozen of them be--as they are. The : None
+3.6 :rest of your fees, O gods--the senators of Athens, : None
+3.6 :together with the common lag of people--what is : None
+3.6 :amiss in them, you gods, make suitable for : None
+3.6 :destruction. For these my present friends, as they : None
+3.6 :are to me nothing, so in nothing bless them, and to : None
+3.6 :nothing are they welcome. : None
+3.6 :Uncover, dogs, and lap. : None
+The dishes are uncovered and seen to be full of warm water : ['to - []'] : TIMON
+SOME SPEAK
+3.6 :What does his lordship mean? : None
+SOME OTHERS
+3.6 :I know not. : None
+TIMON
+3.6 :May you a better feast never behold, : None
+3.6 :You knot of mouth-friends I smoke and lukewarm water : None
+3.6 :Is your perfection. This is Timon's last; : None
+3.6 :Who, stuck and spangled with your flatteries, : None
+3.6 :Washes it off, and sprinkles in your faces : None
+3.6 :Your reeking villany. : None
+Throwing the water in their faces : ['None - []'] : TIMON
+3.6 :Live loathed and long, : None
+3.6 :Most smiling, smooth, detested parasites, : None
+3.6 :Courteous destroyers, affable wolves, meek bears, : None
+3.6 :You fools of fortune, trencher-friends, time's flies, : None
+3.6 :Cap and knee slaves, vapours, and minute-jacks! : None
+3.6 :Of man and beast the infinite malady : None
+3.6 :Crust you quite o'er! What, dost thou go? : None
+3.6 :Soft! take thy physic first--thou too--and thou;-- : None
+3.6 :Stay, I will lend thee money, borrow none. : None
+Throws the dishes at them, and drives them out : ['None - []'] : TIMON
+3.6 :What, all in motion? Henceforth be no feast, : None
+3.6 :Whereat a villain's not a welcome guest. : None
+3.6 :Burn, house! sink, Athens! henceforth hated be : None
+3.6 :Of Timon man and all humanity! : None
+Exit : ['Exit - []'] : TIMON
+Re-enter the Lords, Senators,  & c : ["Re-enter - ['SENATOR']"] : TIMON
+FIRST LORD
+3.6 :How now, my lords! : None
+SECOND LORD
+3.6 :Know you the quality of Lord Timon's fury? : None
+THIRD LORD
+3.6 :Push! did you see my cap? : None
+FOURTH LORD
+3.6 :I have lost my gown. : None
+FIRST LORD
+3.6 :He's but a mad lord, and nought but humour sways him. : None
+3.6 :He gave me a jewel th' other day, and now he has : None
+3.6 :beat it out of my hat: did you see my jewel? : None
+THIRD LORD
+3.6 :Did you see my cap? : None
+SECOND LORD
+3.6 :Here 'tis. : None
+FOURTH LORD
+3.6 :Here lies my gown. : None
+FIRST LORD
+3.6 :Let's make no stay. : None
+SECOND LORD
+3.6 :Lord Timon's mad. : None
+THIRD LORD
+3.6 :I feel 't upon my bones. : None
+FOURTH LORD
+3.6 :One day he gives us diamonds, next day stones. : None
+Exeunt : ['Exeunt - []'] : FOURTH LORD
+Act(act=4)
+Scene(scene=1)
+Enter TIMON : ["Enter - ['TIMON']"] : FOURTH LORD
+TIMON
+4.1 :Let me look back upon thee. O thou wall, : None
+4.1 :That girdlest in those wolves, dive in the earth, : None
+4.1 :And fence not Athens! Matrons, turn incontinent! : None
+4.1 :Obedience fail in children! slaves and fools, : None
+4.1 :Pluck the grave wrinkled senate from the bench, : None
+4.1 :And minister in their steads! to general filths : None
+4.1 :Convert o' the instant, green virginity, : None
+4.1 :Do 't in your parents' eyes! bankrupts, hold fast; : None
+4.1 :Rather than render back, out with your knives, : None
+4.1 :And cut your trusters' throats! bound servants, steal! : None
+4.1 :Large-handed robbers your grave masters are, : None
+4.1 :And pill by law. Maid, to thy master's bed; : None
+4.1 :Thy mistress is o' the brothel! Son of sixteen, : None
+4.1 :pluck the lined crutch from thy old limping sire, : None
+4.1 :With it beat out his brains! Piety, and fear, : None
+4.1 :Religion to the gods, peace, justice, truth, : None
+4.1 :Domestic awe, night-rest, and neighbourhood, : None
+4.1 :Instruction, manners, mysteries, and trades, : None
+4.1 :Degrees, observances, customs, and laws, : None
+4.1 :Decline to your confounding contraries, : None
+4.1 :And let confusion live! Plagues, incident to men, : None
+4.1 :Your potent and infectious fevers heap : None
+4.1 :On Athens, ripe for stroke! Thou cold sciatica, : None
+4.1 :Cripple our senators, that their limbs may halt : None
+4.1 :As lamely as their manners. Lust and liberty : None
+4.1 :Creep in the minds and marrows of our youth, : None
+4.1 :That 'gainst the stream of virtue they may strive, : None
+4.1 :And drown themselves in riot! Itches, blains, : None
+4.1 :Sow all the Athenian bosoms; and their crop : None
+4.1 :Be general leprosy! Breath infect breath, : None
+4.1 :at their society, as their friendship, may : None
+4.1 :merely poison! Nothing I'll bear from thee, : None
+4.1 :But nakedness, thou detestable town! : None
+4.1 :Take thou that too, with multiplying bans! : None
+4.1 :Timon will to the woods; where he shall find : None
+4.1 :The unkindest beast more kinder than mankind. : None
+4.1 :The gods confound--hear me, you good gods all-- : None
+4.1 :The Athenians both within and out that wall! : None
+4.1 :And grant, as Timon grows, his hate may grow : None
+4.1 :To the whole race of mankind, high and low! Amen. : None
+Exit : ['Exit - []'] : TIMON
+Scene(scene=2)
+Enter FLAVIUS, with two or three Servants : ["Enter - ['FLAVIUS', 'SERVANT']"] : TIMON
+FIRST SERVANT
+4.2 :Hear you, master steward, where's our master? : None
+4.2 :Are we undone? cast off? nothing remaining? : None
+FLAVIUS
+4.2 :Alack, my fellows, what should I say to you? : None
+4.2 :Let me be recorded by the righteous gods, : None
+4.2 :I am as poor as you. : None
+FIRST SERVANT
+4.2 :Such a house broke! : None
+4.2 :So noble a master fall'n! All gone! and not : None
+4.2 :One friend to take his fortune by the arm, : None
+4.2 :And go along with him! : None
+SECOND SERVANT
+4.2 :As we do turn our backs : None
+4.2 :From our companion thrown into his grave, : None
+4.2 :So his familiars to his buried fortunes : None
+4.2 :Slink all away, leave their false vows with him, : None
+4.2 :Like empty purses pick'd; and his poor self, : None
+4.2 :A dedicated beggar to the air, : None
+4.2 :With his disease of all-shunn'd poverty, : None
+4.2 :Walks, like contempt, alone. More of our fellows. : None
+Enter other Servants : ["Enter - ['SERVANT']"] : SECOND SERVANT
+FLAVIUS
+4.2 :All broken implements of a ruin'd house. : None
+THIRD SERVANT
+4.2 :Yet do our hearts wear Timon's livery; : None
+4.2 :That see I by our faces; we are fellows still, : None
+4.2 :Serving alike in sorrow: leak'd is our bark, : None
+4.2 :And we, poor mates, stand on the dying deck, : None
+4.2 :Hearing the surges threat: we must all part : None
+4.2 :Into this sea of air. : None
+FLAVIUS
+4.2 :Good fellows all, : None
+4.2 :The latest of my wealth I'll share amongst you. : None
+4.2 :Wherever we shall meet, for Timon's sake, : None
+4.2 :Let's yet be fellows; let's shake our heads, and say, : None
+4.2 :As 'twere a knell unto our master's fortunes, : None
+4.2 :'We have seen better days.' Let each take some; : None
+4.2 :Nay, put out all your hands. Not one word more: : None
+4.2 :Thus part we rich in sorrow, parting poor. : None
+Servants embrace, and part several ways : ["None - ['SERVANT']"] : FLAVIUS
+4.2 :O, the fierce wretchedness that glory brings us! : None
+4.2 :Who would not wish to be from wealth exempt, : None
+4.2 :Since riches point to misery and contempt? : None
+4.2 :Who would be so mock'd with glory? or to live : None
+4.2 :But in a dream of friendship? : None
+4.2 :To have his pomp and all what state compounds : None
+4.2 :But only painted, like his varnish'd friends? : None
+4.2 :Poor honest lord, brought low by his own heart, : None
+4.2 :Undone by goodness! Strange, unusual blood, : None
+4.2 :When man's worst sin is, he does too much good! : None
+4.2 :Who, then, dares to be half so kind again? : None
+4.2 :For bounty, that makes gods, does still mar men. : None
+4.2 :My dearest lord, bless'd, to be most accursed, : None
+4.2 :Rich, only to be wretched, thy great fortunes : None
+4.2 :Are made thy chief afflictions. Alas, kind lord! : None
+4.2 :He's flung in rage from this ingrateful seat : None
+4.2 :Of monstrous friends, nor has he with him to : None
+4.2 :Supply his life, or that which can command it. : None
+4.2 :I'll follow and inquire him out: : None
+4.2 :I'll ever serve his mind with my best will; : None
+4.2 :Whilst I have gold, I'll be his steward still. : None
+Exit : ['Exit - []'] : FLAVIUS
+Scene(scene=3)
+Enter TIMON, from the cave : ["Enter - ['TIMON']"] : FLAVIUS
+4.3 :O blessed breeding sun, draw from the earth : None
+4.3 :Rotten humidity; below thy sister's orb : None
+4.3 :Infect the air! Twinn'd brothers of one womb, : None
+4.3 :Whose procreation, residence, and birth, : None
+4.3 :Scarce is dividant, touch them with several fortunes; : None
+4.3 :The greater scorns the lesser: not nature, : None
+4.3 :To whom all sores lay siege, can bear great fortune, : None
+4.3 :But by contempt of nature. : None
+4.3 :Raise me this beggar, and deny 't that lord; : None
+4.3 :The senator shall bear contempt hereditary, : None
+4.3 :The beggar native honour. : None
+4.3 :It is the pasture lards the rother's sides, : None
+4.3 :The want that makes him lean. Who dares, who dares, : None
+4.3 :In purity of manhood stand upright, : None
+4.3 :And say 'This man's a flatterer?' if one be, : None
+4.3 :So are they all; for every grise of fortune : None
+4.3 :Is smooth'd by that below: the learned pate : None
+4.3 :Ducks to the golden fool: all is oblique; : None
+4.3 :There's nothing level in our cursed natures, : None
+4.3 :But direct villany. Therefore, be abhorr'd : None
+4.3 :All feasts, societies, and throngs of men! : None
+4.3 :His semblable, yea, himself, Timon disdains: : None
+4.3 :Destruction fang mankind! Earth, yield me roots! : None
+Digging : ['None - []'] : FLAVIUS
+4.3 :Who seeks for better of thee, sauce his palate : None
+4.3 :With thy most operant poison! What is here? : None
+4.3 :Gold? yellow, glittering, precious gold? No, gods, : None
+4.3 :I am no idle votarist: roots, you clear heavens! : None
+4.3 :Thus much of this will make black white, foul fair, : None
+4.3 :Wrong right, base noble, old young, coward valiant. : None
+4.3 :Ha, you gods! why this? what this, you gods? Why, this : None
+4.3 :Will lug your priests and servants from your sides, : None
+4.3 :Pluck stout men's pillows from below their heads: : None
+4.3 :This yellow slave : None
+4.3 :Will knit and break religions, bless the accursed, : None
+4.3 :Make the hoar leprosy adored, place thieves : None
+4.3 :And give them title, knee and approbation : None
+4.3 :With senators on the bench: this is it : None
+4.3 :That makes the wappen'd widow wed again; : None
+4.3 :She, whom the spital-house and ulcerous sores : None
+4.3 :Would cast the gorge at, this embalms and spices : None
+4.3 :To the April day again. Come, damned earth, : None
+4.3 :Thou common whore of mankind, that put'st odds : None
+4.3 :Among the route of nations, I will make thee : None
+4.3 :Do thy right nature. : None
+March afar off : ['None - []'] : FLAVIUS
+4.3 :Ha! a drum ? Thou'rt quick, : None
+4.3 :But yet I'll bury thee: thou'lt go, strong thief, : None
+4.3 :When gouty keepers of thee cannot stand. : None
+4.3 :Nay, stay thou out for earnest. : None
+Keeping some gold : ['None - []'] : FLAVIUS
+Enter ALCIBIADES, with drum and fife, in warlike manner; PHRYNIA and TIMANDRA : ["Enter - ['ALCIBIADES', 'PHRYNIA', 'TIMANDRA']"] : FLAVIUS
+ALCIBIADES
+4.3 :What art thou there? speak. : None
+TIMON
+4.3 :A beast, as thou art. The canker gnaw thy heart, : None
+4.3 :For showing me again the eyes of man! : None
+ALCIBIADES
+4.3 :What is thy name? Is man so hateful to thee, : None
+4.3 :That art thyself a man? : None
+TIMON
+4.3 :I am Misanthropos, and hate mankind. : None
+4.3 :For thy part, I do wish thou wert a dog, : None
+4.3 :That I might love thee something. : None
+ALCIBIADES
+4.3 :I know thee well; : None
+4.3 :But in thy fortunes am unlearn'd and strange. : None
+TIMON
+4.3 :I know thee too; and more than that I know thee, : None
+4.3 :I not desire to know. Follow thy drum; : None
+4.3 :With man's blood paint the ground, gules, gules: : None
+4.3 :Religious canons, civil laws are cruel; : None
+4.3 :Then what should war be? This fell whore of thine : None
+4.3 :Hath in her more destruction than thy sword, : None
+4.3 :For all her cherubim look. : None
+PHRYNIA
+4.3 :Thy lips rot off! : None
+TIMON
+4.3 :I will not kiss thee; then the rot returns : None
+4.3 :To thine own lips again. : None
+ALCIBIADES
+4.3 :How came the noble Timon to this change? : None
+TIMON
+4.3 :As the moon does, by wanting light to give: : None
+4.3 :But then renew I could not, like the moon; : None
+4.3 :There were no suns to borrow of. : None
+ALCIBIADES
+4.3 :Noble Timon, : None
+4.3 :What friendship may I do thee? : None
+TIMON
+4.3 :None, but to : None
+4.3 :Maintain my opinion. : None
+ALCIBIADES
+4.3 :What is it, Timon? : None
+TIMON
+4.3 :Promise me friendship, but perform none: if thou : None
+4.3 :wilt not promise, the gods plague thee, for thou art : None
+4.3 :a man! if thou dost perform, confound thee, for : None
+4.3 :thou art a man! : None
+ALCIBIADES
+4.3 :I have heard in some sort of thy miseries. : None
+TIMON
+4.3 :Thou saw'st them, when I had prosperity. : None
+ALCIBIADES
+4.3 :I see them now; then was a blessed time. : None
+TIMON
+4.3 :As thine is now, held with a brace of harlots. : None
+TIMANDRA
+4.3 :Is this the Athenian minion, whom the world : None
+4.3 :Voiced so regardfully? : None
+TIMON
+4.3 :Art thou Timandra? : None
+TIMANDRA
+4.3 :Yes. : None
+TIMON
+4.3 :Be a whore still: they love thee not that use thee; : None
+4.3 :Give them diseases, leaving with thee their lust. : None
+4.3 :Make use of thy salt hours: season the slaves : None
+4.3 :For tubs and baths; bring down rose-cheeked youth : None
+4.3 :To the tub-fast and the diet. : None
+TIMANDRA
+4.3 :Hang thee, monster! : None
+ALCIBIADES
+4.3 :Pardon him, sweet Timandra; for his wits : None
+4.3 :Are drown'd and lost in his calamities. : None
+4.3 :I have but little gold of late, brave Timon, : None
+4.3 :The want whereof doth daily make revolt : None
+4.3 :In my penurious band: I have heard, and grieved, : None
+4.3 :How cursed Athens, mindless of thy worth, : None
+4.3 :Forgetting thy great deeds, when neighbour states, : None
+4.3 :But for thy sword and fortune, trod upon them,-- : None
+TIMON
+4.3 :I prithee, beat thy drum, and get thee gone. : None
+ALCIBIADES
+4.3 :I am thy friend, and pity thee, dear Timon. : None
+TIMON
+4.3 :How dost thou pity him whom thou dost trouble? : None
+4.3 :I had rather be alone. : None
+ALCIBIADES
+4.3 :Why, fare thee well: : None
+4.3 :Here is some gold for thee. : None
+TIMON
+4.3 :Keep it, I cannot eat it. : None
+ALCIBIADES
+4.3 :When I have laid proud Athens on a heap,-- : None
+TIMON
+4.3 :Warr'st thou 'gainst Athens? : None
+ALCIBIADES
+4.3 :Ay, Timon, and have cause. : None
+TIMON
+4.3 :The gods confound them all in thy conquest; : None
+4.3 :And thee after, when thou hast conquer'd! : None
+ALCIBIADES
+4.3 :Why me, Timon? : None
+TIMON
+4.3 :                  That, by killing of villains, : None
+4.3 :Thou wast born to conquer my country. : None
+4.3 :Put up thy gold: go on,--here's gold,--go on; : None
+4.3 :Be as a planetary plague, when Jove : None
+4.3 :Will o'er some high-viced city hang his poison : None
+4.3 :In the sick air: let not thy sword skip one: : None
+4.3 :Pity not honour'd age for his white beard; : None
+4.3 :He is an usurer: strike me the counterfeit matron; : None
+4.3 :It is her habit only that is honest, : None
+4.3 :Herself's a bawd: let not the virgin's cheek : None
+4.3 :Make soft thy trenchant sword; for those milk-paps, : None
+4.3 :That through the window-bars bore at men's eyes, : None
+4.3 :Are not within the leaf of pity writ, : None
+4.3 :But set them down horrible traitors: spare not the babe, : None
+4.3 :Whose dimpled smiles from fools exhaust their mercy; : None
+4.3 :Think it a bastard, whom the oracle : None
+4.3 :Hath doubtfully pronounced thy throat shall cut, : None
+4.3 :And mince it sans remorse: swear against objects; : None
+4.3 :Put armour on thine ears and on thine eyes; : None
+4.3 :Whose proof, nor yells of mothers, maids, nor babes, : None
+4.3 :Nor sight of priests in holy vestments bleeding, : None
+4.3 :Shall pierce a jot. There's gold to pay soldiers: : None
+4.3 :Make large confusion; and, thy fury spent, : None
+4.3 :Confounded be thyself! Speak not, be gone. : None
+ALCIBIADES
+4.3 :Hast thou gold yet? I'll take the gold thou : None
+4.3 :givest me, : None
+4.3 :Not all thy counsel. : None
+TIMON
+4.3 :Dost thou, or dost thou not, heaven's curse : None
+4.3 :upon thee! : None
+PHRYNIA
+TIMANDRA
+4.3 :Give us some gold, good Timon: hast thou more? : None
+TIMON
+4.3 :Enough to make a whore forswear her trade, : None
+4.3 :And to make whores, a bawd. Hold up, you sluts, : None
+4.3 :Your aprons mountant: you are not oathable, : None
+4.3 :Although, I know, you 'll swear, terribly swear : None
+4.3 :Into strong shudders and to heavenly agues : None
+4.3 :The immortal gods that hear you,--spare your oaths, : None
+4.3 :I'll trust to your conditions: be whores still; : None
+4.3 :And he whose pious breath seeks to convert you, : None
+4.3 :Be strong in whore, allure him, burn him up; : None
+4.3 :Let your close fire predominate his smoke, : None
+4.3 :And be no turncoats: yet may your pains, six months, : None
+4.3 :Be quite contrary: and thatch your poor thin roofs : None
+4.3 :With burthens of the dead;--some that were hang'd, : None
+4.3 :No matter:--wear them, betray with them: whore still; : None
+4.3 :Paint till a horse may mire upon your face, : None
+4.3 :A pox of wrinkles! : None
+PHRYNIA
+TIMANDRA
+4.3 :Well, more gold: what then? : None
+4.3 :Believe't, that we'll do any thing for gold. : None
+TIMON
+4.3 :Consumptions sow : None
+4.3 :In hollow bones of man; strike their sharp shins, : None
+4.3 :And mar men's spurring. Crack the lawyer's voice, : None
+4.3 :That he may never more false title plead, : None
+4.3 :Nor sound his quillets shrilly: hoar the flamen, : None
+4.3 :That scolds against the quality of flesh, : None
+4.3 :And not believes himself: down with the nose, : None
+4.3 :Down with it flat; take the bridge quite away : None
+4.3 :Of him that, his particular to foresee, : None
+4.3 :Smells from the general weal: make curl'd-pate : None
+4.3 :ruffians bald; : None
+4.3 :And let the unscarr'd braggarts of the war : None
+4.3 :Derive some pain from you: plague all; : None
+4.3 :That your activity may defeat and quell : None
+4.3 :The source of all erection. There's more gold: : None
+4.3 :Do you damn others, and let this damn you, : None
+4.3 :And ditches grave you all! : None
+PHRYNIA
+TIMANDRA
+4.3 :More counsel with more money, bounteous Timon. : None
+TIMON
+4.3 :More whore, more mischief first; I have given you earnest. : None
+ALCIBIADES
+4.3 :Strike up the drum towards Athens! Farewell, Timon: : None
+4.3 :If I thrive well, I'll visit thee again. : None
+TIMON
+4.3 :If I hope well, I'll never see thee more. : None
+ALCIBIADES
+4.3 :I never did thee harm. : None
+TIMON
+4.3 :Yes, thou spokest well of me. : None
+ALCIBIADES
+4.3 :Call'st thou that harm? : None
+TIMON
+4.3 :Men daily find it. Get thee away, and take : None
+4.3 :Thy beagles with thee. : None
+ALCIBIADES
+4.3 :We but offend him. Strike! : None
+Drum beats. Exeunt ALCIBIADES, PHRYNIA, and TIMANDRA : ['None - []', "Exeunt - ['ALCIBIADES', 'PHRYNIA', 'TIMANDRA']"] : ALCIBIADES
+TIMON
+4.3 :That nature, being sick of man's unkindness, : None
+4.3 :Should yet be hungry! Common mother, thou, : None
+Digging : ['None - []'] : TIMON
+4.3 :Whose womb unmeasurable, and infinite breast, : None
+4.3 :Teems, and feeds all; whose self-same mettle, : None
+4.3 :Whereof thy proud child, arrogant man, is puff'd, : None
+4.3 :Engenders the black toad and adder blue, : None
+4.3 :The gilded newt and eyeless venom'd worm, : None
+4.3 :With all the abhorred births below crisp heaven : None
+4.3 :Whereon Hyperion's quickening fire doth shine; : None
+4.3 :Yield him, who all thy human sons doth hate, : None
+4.3 :From forth thy plenteous bosom, one poor root! : None
+4.3 :Ensear thy fertile and conceptious womb, : None
+4.3 :Let it no more bring out ingrateful man! : None
+4.3 :Go great with tigers, dragons, wolves, and bears; : None
+4.3 :Teem with new monsters, whom thy upward face : None
+4.3 :Hath to the marbled mansion all above : None
+4.3 :Never presented!--O, a root,--dear thanks!-- : None
+4.3 :Dry up thy marrows, vines, and plough-torn leas; : None
+4.3 :Whereof ungrateful man, with liquorish draughts : None
+4.3 :And morsels unctuous, greases his pure mind, : None
+4.3 :That from it all consideration slips! : None
+Enter APEMANTUS : ["Enter - ['APEMANTUS']"] : TIMON
+4.3 :More man? plague, plague! : None
+APEMANTUS
+4.3 :I was directed hither: men report : None
+4.3 :Thou dost affect my manners, and dost use them. : None
+TIMON
+4.3 :'Tis, then, because thou dost not keep a dog, : None
+4.3 :Whom I would imitate: consumption catch thee! : None
+APEMANTUS
+4.3 :This is in thee a nature but infected; : None
+4.3 :A poor unmanly melancholy sprung : None
+4.3 :From change of fortune. Why this spade? this place? : None
+4.3 :This slave-like habit? and these looks of care? : None
+4.3 :Thy flatterers yet wear silk, drink wine, lie soft; : None
+4.3 :Hug their diseased perfumes, and have forgot : None
+4.3 :That ever Timon was. Shame not these woods, : None
+4.3 :By putting on the cunning of a carper. : None
+4.3 :Be thou a flatterer now, and seek to thrive : None
+4.3 :By that which has undone thee: hinge thy knee, : None
+4.3 :And let his very breath, whom thou'lt observe, : None
+4.3 :Blow off thy cap; praise his most vicious strain, : None
+4.3 :And call it excellent: thou wast told thus; : None
+4.3 :Thou gavest thine ears like tapsters that bid welcome : None
+4.3 :To knaves and all approachers: 'tis most just : None
+4.3 :That thou turn rascal; hadst thou wealth again, : None
+4.3 :Rascals should have 't. Do not assume my likeness. : None
+TIMON
+4.3 :Were I like thee, I'ld throw away myself. : None
+APEMANTUS
+4.3 :Thou hast cast away thyself, being like thyself; : None
+4.3 :A madman so long, now a fool. What, think'st : None
+4.3 :That the bleak air, thy boisterous chamberlain, : None
+4.3 :Will put thy shirt on warm? will these moss'd trees, : None
+4.3 :That have outlived the eagle, page thy heels, : None
+4.3 :And skip where thou point'st out? will the : None
+4.3 :cold brook, : None
+4.3 :Candied with ice, caudle thy morning taste, : None
+4.3 :To cure thy o'er-night's surfeit? Call the creatures : None
+4.3 :Whose naked natures live in an the spite : None
+4.3 :Of wreakful heaven, whose bare unhoused trunks, : None
+4.3 :To the conflicting elements exposed, : None
+4.3 :Answer mere nature; bid them flatter thee; : None
+4.3 :O, thou shalt find-- : None
+TIMON
+4.3 :A fool of thee: depart. : None
+APEMANTUS
+4.3 :I love thee better now than e'er I did. : None
+TIMON
+4.3 :I hate thee worse. : None
+APEMANTUS
+4.3 :                  Why? : None
+TIMON
+4.3 :Thou flatter'st misery. : None
+APEMANTUS
+4.3 :I flatter not; but say thou art a caitiff. : None
+TIMON
+4.3 :Why dost thou seek me out? : None
+APEMANTUS
+4.3 :To vex thee. : None
+TIMON
+4.3 :Always a villain's office or a fool's. : None
+4.3 :Dost please thyself in't? : None
+APEMANTUS
+4.3 :Ay. : None
+TIMON
+4.3 :What! a knave too? : None
+APEMANTUS
+4.3 :If thou didst put this sour-cold habit on : None
+4.3 :To castigate thy pride, 'twere well: but thou : None
+4.3 :Dost it enforcedly; thou'ldst courtier be again, : None
+4.3 :Wert thou not beggar. Willing misery : None
+4.3 :Outlives encertain pomp, is crown'd before: : None
+4.3 :The one is filling still, never complete; : None
+4.3 :The other, at high wish: best state, contentless, : None
+4.3 :Hath a distracted and most wretched being, : None
+4.3 :Worse than the worst, content. : None
+4.3 :Thou shouldst desire to die, being miserable. : None
+TIMON
+4.3 :Not by his breath that is more miserable. : None
+4.3 :Thou art a slave, whom Fortune's tender arm : None
+4.3 :With favour never clasp'd; but bred a dog. : None
+4.3 :Hadst thou, like us from our first swath, proceeded : None
+4.3 :The sweet degrees that this brief world affords : None
+4.3 :To such as may the passive drugs of it : None
+4.3 :Freely command, thou wouldst have plunged thyself : None
+4.3 :In general riot; melted down thy youth : None
+4.3 :In different beds of lust; and never learn'd : None
+4.3 :The icy precepts of respect, but follow'd : None
+4.3 :The sugar'd game before thee. But myself, : None
+4.3 :Who had the world as my confectionary, : None
+4.3 :The mouths, the tongues, the eyes and hearts of men : None
+4.3 :At duty, more than I could frame employment, : None
+4.3 :That numberless upon me stuck as leaves : None
+4.3 :Do on the oak, hive with one winter's brush : None
+4.3 :Fell from their boughs and left me open, bare : None
+4.3 :For every storm that blows: I, to bear this, : None
+4.3 :That never knew but better, is some burden: : None
+4.3 :Thy nature did commence in sufferance, time : None
+4.3 :Hath made thee hard in't. Why shouldst thou hate men? : None
+4.3 :They never flatter'd thee: what hast thou given? : None
+4.3 :If thou wilt curse, thy father, that poor rag, : None
+4.3 :Must be thy subject, who in spite put stuff : None
+4.3 :To some she beggar and compounded thee : None
+4.3 :Poor rogue hereditary. Hence, be gone! : None
+4.3 :If thou hadst not been born the worst of men, : None
+4.3 :Thou hadst been a knave and flatterer. : None
+APEMANTUS
+4.3 :Art thou proud yet? : None
+TIMON
+4.3 :Ay, that I am not thee. : None
+APEMANTUS
+4.3 :I, that I was : None
+4.3 :No prodigal. : None
+TIMON
+4.3 :                  I, that I am one now: : None
+4.3 :Were all the wealth I have shut up in thee, : None
+4.3 :I'ld give thee leave to hang it. Get thee gone. : None
+4.3 :That the whole life of Athens were in this! : None
+4.3 :Thus would I eat it. : None
+Eating a root : ['None - []'] : TIMON
+APEMANTUS
+4.3 :Here; I will mend thy feast. : None
+Offering him a root : ['None - []'] : APEMANTUS
+TIMON
+4.3 :First mend my company, take away thyself. : None
+APEMANTUS
+4.3 :So I shall mend mine own, by the lack of thine. : None
+TIMON
+4.3 :'Tis not well mended so, it is but botch'd; : None
+4.3 :if not, I would it were. : None
+APEMANTUS
+4.3 :What wouldst thou have to Athens? : None
+TIMON
+4.3 :Thee thither in a whirlwind. If thou wilt, : None
+4.3 :Tell them there I have gold; look, so I have. : None
+APEMANTUS
+4.3 :Here is no use for gold. : None
+TIMON
+4.3 :The best and truest; : None
+4.3 :For here it sleeps, and does no hired harm. : None
+APEMANTUS
+4.3 :Where liest o' nights, Timon? : None
+TIMON
+4.3 :Under that's above me. : None
+4.3 :Where feed'st thou o' days, Apemantus? : None
+APEMANTUS
+4.3 :Where my stomach finds meat; or, rather, where I eat : None
+4.3 :it. : None
+TIMON
+4.3 :Would poison were obedient and knew my mind! : None
+APEMANTUS
+4.3 :Where wouldst thou send it? : None
+TIMON
+4.3 :To sauce thy dishes. : None
+APEMANTUS
+4.3 :The middle of humanity thou never knewest, but the : None
+4.3 :extremity of both ends: when thou wast in thy gilt : None
+4.3 :and thy perfume, they mocked thee for too much : None
+4.3 :curiosity; in thy rags thou knowest none, but art : None
+4.3 :despised for the contrary. There's a medlar for : None
+4.3 :thee, eat it. : None
+TIMON
+4.3 :On what I hate I feed not. : None
+APEMANTUS
+4.3 :Dost hate a medlar? : None
+TIMON
+4.3 :Ay, though it look like thee. : None
+APEMANTUS
+4.3 :An thou hadst hated meddlers sooner, thou shouldst : None
+4.3 :have loved thyself better now. What man didst thou : None
+4.3 :ever know unthrift that was beloved after his means? : None
+TIMON
+4.3 :Who, without those means thou talkest of, didst thou : None
+4.3 :ever know beloved? : None
+APEMANTUS
+4.3 :Myself. : None
+TIMON
+4.3 :I understand thee; thou hadst some means to keep a : None
+4.3 :dog. : None
+APEMANTUS
+4.3 :What things in the world canst thou nearest compare : None
+4.3 :to thy flatterers? : None
+TIMON
+4.3 :Women nearest; but men, men are the things : None
+4.3 :themselves. What wouldst thou do with the world, : None
+4.3 :Apemantus, if it lay in thy power? : None
+APEMANTUS
+4.3 :Give it the beasts, to be rid of the men. : None
+TIMON
+4.3 :Wouldst thou have thyself fall in the confusion of : None
+4.3 :men, and remain a beast with the beasts? : None
+APEMANTUS
+4.3 :Ay, Timon. : None
+TIMON
+4.3 :A beastly ambition, which the gods grant thee t' : None
+4.3 :attain to! If thou wert the lion, the fox would : None
+4.3 :beguile thee; if thou wert the lamb, the fox would : None
+4.3 :eat three: if thou wert the fox, the lion would : None
+4.3 :suspect thee, when peradventure thou wert accused by : None
+4.3 :the ass: if thou wert the ass, thy dulness would : None
+4.3 :torment thee, and still thou livedst but as a : None
+4.3 :breakfast to the wolf: if thou wert the wolf, thy : None
+4.3 :greediness would afflict thee, and oft thou shouldst : None
+4.3 :hazard thy life for thy dinner: wert thou the : None
+4.3 :unicorn, pride and wrath would confound thee and : None
+4.3 :make thine own self the conquest of thy fury: wert : None
+4.3 :thou a bear, thou wouldst be killed by the horse: : None
+4.3 :wert thou a horse, thou wouldst be seized by the : None
+4.3 :leopard: wert thou a leopard, thou wert german to : None
+4.3 :the lion and the spots of thy kindred were jurors on : None
+4.3 :thy life: all thy safety were remotion and thy : None
+4.3 :defence absence. What beast couldst thou be, that : None
+4.3 :were not subject to a beast? and what a beast art : None
+4.3 :thou already, that seest not thy loss in : None
+4.3 :transformation! : None
+APEMANTUS
+4.3 :If thou couldst please me with speaking to me, thou : None
+4.3 :mightst have hit upon it here: the commonwealth of : None
+4.3 :Athens is become a forest of beasts. : None
+TIMON
+4.3 :How has the ass broke the wall, that thou art out of the city? : None
+APEMANTUS
+4.3 :Yonder comes a poet and a painter: the plague of : None
+4.3 :company light upon thee! I will fear to catch it : None
+4.3 :and give way: when I know not what else to do, I'll : None
+4.3 :see thee again. : None
+TIMON
+4.3 :When there is nothing living but thee, thou shalt be : None
+4.3 :welcome. I had rather be a beggar's dog than Apemantus. : None
+APEMANTUS
+4.3 :Thou art the cap of all the fools alive. : None
+TIMON
+4.3 :Would thou wert clean enough to spit upon! : None
+APEMANTUS
+4.3 :A plague on thee! thou art too bad to curse. : None
+TIMON
+4.3 :All villains that do stand by thee are pure. : None
+APEMANTUS
+4.3 :There is no leprosy but what thou speak'st. : None
+TIMON
+4.3 :If I name thee. : None
+4.3 :I'll beat thee, but I should infect my hands. : None
+APEMANTUS
+4.3 :I would my tongue could rot them off! : None
+TIMON
+4.3 :Away, thou issue of a mangy dog! : None
+4.3 :Choler does kill me that thou art alive; : None
+4.3 :I swound to see thee. : None
+APEMANTUS
+4.3 :Would thou wouldst burst! : None
+TIMON
+4.3 :Away, : None
+4.3 :Thou tedious rogue! I am sorry I shall lose : None
+4.3 :A stone by thee. : None
+Throws a stone at him : ['to - []'] : TIMON
+APEMANTUS
+4.3 :                  Beast! : None
+TIMON
+4.3 :Slave! : None
+APEMANTUS
+4.3 :Toad! : None
+TIMON
+4.3 :Rogue, rogue, rogue! : None
+4.3 :I am sick of this false world, and will love nought : None
+4.3 :But even the mere necessities upon 't. : None
+4.3 :Then, Timon, presently prepare thy grave; : None
+4.3 :Lie where the light foam the sea may beat : None
+4.3 :Thy grave-stone daily: make thine epitaph, : None
+4.3 :That death in me at others' lives may laugh. : None
+To the gold : ['To - []'] : TIMON
+4.3 :O thou sweet king-killer, and dear divorce : None
+4.3 :'Twixt natural son and sire! thou bright defiler : None
+4.3 :Of Hymen's purest bed! thou valiant Mars! : None
+4.3 :Thou ever young, fresh, loved and delicate wooer, : None
+4.3 :Whose blush doth thaw the consecrated snow : None
+4.3 :That lies on Dian's lap! thou visible god, : None
+4.3 :That solder'st close impossibilities, : None
+4.3 :And makest them kiss! that speak'st with : None
+4.3 :every tongue, : None
+4.3 :To every purpose! O thou touch of hearts! : None
+4.3 :Think, thy slave man rebels, and by thy virtue : None
+4.3 :Set them into confounding odds, that beasts : None
+4.3 :May have the world in empire! : None
+APEMANTUS
+4.3 :Would 'twere so! : None
+4.3 :But not till I am dead. I'll say thou'st gold: : None
+4.3 :Thou wilt be throng'd to shortly. : None
+TIMON
+4.3 :Throng'd to! : None
+APEMANTUS
+4.3 :Ay. : None
+TIMON
+4.3 :Thy back, I prithee. : None
+APEMANTUS
+4.3 :Live, and love thy misery. : None
+TIMON
+4.3 :Long live so, and so die. : None
+Exit APEMANTUS : ["Exit - ['APEMANTUS']"] : TIMON
+4.3 :I am quit. : None
+4.3 :Moe things like men! Eat, Timon, and abhor them. : None
+Enter Banditti : ["Enter - ['BANDITTI']"] : TIMON
+FIRST BANDIT
+4.3 :Where should he have this gold? It is some poor : None
+4.3 :fragment, some slender sort of his remainder: the : None
+4.3 :mere want of gold, and the falling-from of his : None
+4.3 :friends, drove him into this melancholy. : None
+SECOND BANDIT
+4.3 :It is noised he hath a mass of treasure. : None
+THIRD BANDIT
+4.3 :Let us make the assay upon him: if he care not : None
+4.3 :for't, he will supply us easily; if he covetously : None
+4.3 :reserve it, how shall's get it? : None
+SECOND BANDIT
+4.3 :True; for he bears it not about him, 'tis hid. : None
+FIRST BANDIT
+4.3 :Is not this he? : None
+BANDITTI
+4.3 :Where? : None
+SECOND BANDIT
+4.3 :'Tis his description. : None
+THIRD BANDIT
+4.3 :He; I know him. : None
+BANDITTI
+4.3 :Save thee, Timon. : None
+TIMON
+4.3 :Now, thieves? : None
+BANDITTI
+4.3 :Soldiers, not thieves. : None
+TIMON
+4.3 :Both too; and women's sons. : None
+BANDITTI
+4.3 :We are not thieves, but men that much do want. : None
+TIMON
+4.3 :Your greatest want is, you want much of meat. : None
+4.3 :Why should you want? Behold, the earth hath roots; : None
+4.3 :Within this mile break forth a hundred springs; : None
+4.3 :The oaks bear mast, the briers scarlet hips; : None
+4.3 :The bounteous housewife, nature, on each bush : None
+4.3 :Lays her full mess before you. Want! why want? : None
+FIRST BANDIT
+4.3 :We cannot live on grass, on berries, water, : None
+4.3 :As beasts and birds and fishes. : None
+TIMON
+4.3 :Nor on the beasts themselves, the birds, and fishes; : None
+4.3 :You must eat men. Yet thanks I must you con : None
+4.3 :That you are thieves profess'd, that you work not : None
+4.3 :In holier shapes: for there is boundless theft : None
+4.3 :In limited professions. Rascal thieves, : None
+4.3 :Here's gold. Go, suck the subtle blood o' the grape, : None
+4.3 :Till the high fever seethe your blood to froth, : None
+4.3 :And so 'scape hanging: trust not the physician; : None
+4.3 :His antidotes are poison, and he slays : None
+4.3 :Moe than you rob: take wealth and lives together; : None
+4.3 :Do villany, do, since you protest to do't, : None
+4.3 :Like workmen. I'll example you with thievery. : None
+4.3 :The sun's a thief, and with his great attraction : None
+4.3 :Robs the vast sea: the moon's an arrant thief, : None
+4.3 :And her pale fire she snatches from the sun: : None
+4.3 :The sea's a thief, whose liquid surge resolves : None
+4.3 :The moon into salt tears: the earth's a thief, : None
+4.3 :That feeds and breeds by a composture stolen : None
+4.3 :From general excrement: each thing's a thief: : None
+4.3 :The laws, your curb and whip, in their rough power : None
+4.3 :Have uncheque'd theft. Love not yourselves: away, : None
+4.3 :Rob one another. There's more gold. Cut throats: : None
+4.3 :All that you meet are thieves: to Athens go, : None
+4.3 :Break open shops; nothing can you steal, : None
+4.3 :But thieves do lose it: steal no less for this : None
+4.3 :I give you; and gold confound you howsoe'er! Amen. : None
+THIRD BANDIT
+4.3 :Has almost charmed me from my profession, by : None
+4.3 :persuading me to it. : None
+FIRST BANDIT
+4.3 :'Tis in the malice of mankind that he thus advises : None
+4.3 :us; not to have us thrive in our mystery. : None
+SECOND BANDIT
+4.3 :I'll believe him as an enemy, and give over my trade. : None
+FIRST BANDIT
+4.3 :Let us first see peace in Athens: there is no time : None
+4.3 :so miserable but a man may be true. : None
+Exeunt Banditti : ["Exeunt - ['BANDITTI']"] : FIRST BANDIT
+Enter FLAVIUS : ["Enter - ['FLAVIUS']"] : FIRST BANDIT
+FLAVIUS
+4.3 :O you gods! : None
+4.3 :Is yond despised and ruinous man my lord? : None
+4.3 :Full of decay and failing? O monument : None
+4.3 :And wonder of good deeds evilly bestow'd! : None
+4.3 :What an alteration of honour : None
+4.3 :Has desperate want made! : None
+4.3 :What viler thing upon the earth than friends : None
+4.3 :Who can bring noblest minds to basest ends! : None
+4.3 :How rarely does it meet with this time's guise, : None
+4.3 :When man was wish'd to love his enemies! : None
+4.3 :Grant I may ever love, and rather woo : None
+4.3 :Those that would mischief me than those that do! : None
+4.3 :Has caught me in his eye: I will present : None
+4.3 :My honest grief unto him; and, as my lord, : None
+4.3 :Still serve him with my life. My dearest master! : None
+TIMON
+4.3 :Away! what art thou? : None
+FLAVIUS
+4.3 :Have you forgot me, sir? : None
+TIMON
+4.3 :Why dost ask that? I have forgot all men; : None
+4.3 :Then, if thou grant'st thou'rt a man, I have forgot thee. : None
+FLAVIUS
+4.3 :An honest poor servant of yours. : None
+TIMON
+4.3 :Then I know thee not: : None
+4.3 :I never had honest man about me, I; all : None
+4.3 :I kept were knaves, to serve in meat to villains. : None
+FLAVIUS
+4.3 :The gods are witness, : None
+4.3 :Ne'er did poor steward wear a truer grief : None
+4.3 :For his undone lord than mine eyes for you. : None
+TIMON
+4.3 :What, dost thou weep? Come nearer. Then I : None
+4.3 :love thee, : None
+4.3 :Because thou art a woman, and disclaim'st : None
+4.3 :Flinty mankind; whose eyes do never give : None
+4.3 :But thorough lust and laughter. Pity's sleeping: : None
+4.3 :Strange times, that weep with laughing, not with weeping! : None
+FLAVIUS
+4.3 :I beg of you to know me, good my lord, : None
+4.3 :To accept my grief and whilst this poor wealth lasts : None
+4.3 :To entertain me as your steward still. : None
+TIMON
+4.3 :Had I a steward : None
+4.3 :So true, so just, and now so comfortable? : None
+4.3 :It almost turns my dangerous nature mild. : None
+4.3 :Let me behold thy face. Surely, this man : None
+4.3 :Was born of woman. : None
+4.3 :Forgive my general and exceptless rashness, : None
+4.3 :You perpetual-sober gods! I do proclaim : None
+4.3 :One honest man--mistake me not--but one; : None
+4.3 :No more, I pray,--and he's a steward. : None
+4.3 :How fain would I have hated all mankind! : None
+4.3 :And thou redeem'st thyself: but all, save thee, : None
+4.3 :I fell with curses. : None
+4.3 :Methinks thou art more honest now than wise; : None
+4.3 :For, by oppressing and betraying me, : None
+4.3 :Thou mightst have sooner got another service: : None
+4.3 :For many so arrive at second masters, : None
+4.3 :Upon their first lord's neck. But tell me true-- : None
+4.3 :For I must ever doubt, though ne'er so sure-- : None
+4.3 :Is not thy kindness subtle, covetous, : None
+4.3 :If not a usuring kindness, and, as rich men deal gifts, : None
+4.3 :Expecting in return twenty for one? : None
+FLAVIUS
+4.3 :No, my most worthy master; in whose breast : None
+4.3 :Doubt and suspect, alas, are placed too late: : None
+4.3 :You should have fear'd false times when you did feast: : None
+4.3 :Suspect still comes where an estate is least. : None
+4.3 :That which I show, heaven knows, is merely love, : None
+4.3 :Duty and zeal to your unmatched mind, : None
+4.3 :Care of your food and living; and, believe it, : None
+4.3 :My most honour'd lord, : None
+4.3 :For any benefit that points to me, : None
+4.3 :Either in hope or present, I'ld exchange : None
+4.3 :For this one wish, that you had power and wealth : None
+4.3 :To requite me, by making rich yourself. : None
+TIMON
+4.3 :Look thee, 'tis so! Thou singly honest man, : None
+4.3 :Here, take: the gods out of my misery : None
+4.3 :Have sent thee treasure. Go, live rich and happy; : None
+4.3 :But thus condition'd: thou shalt build from men; : None
+4.3 :Hate all, curse all, show charity to none, : None
+4.3 :But let the famish'd flesh slide from the bone, : None
+4.3 :Ere thou relieve the beggar; give to dogs : None
+4.3 :What thou deny'st to men; let prisons swallow 'em, : None
+4.3 :Debts wither 'em to nothing; be men like : None
+4.3 :blasted woods, : None
+4.3 :And may diseases lick up their false bloods! : None
+4.3 :And so farewell and thrive. : None
+FLAVIUS
+4.3 :O, let me stay, : None
+4.3 :And comfort you, my master. : None
+TIMON
+4.3 :If thou hatest curses, : None
+4.3 :Stay not; fly, whilst thou art blest and free: : None
+4.3 :Ne'er see thou man, and let me ne'er see thee. : None
+Exit FLAVIUS. TIMON retires to his cave : ["Exit - ['FLAVIUS']", "to - ['TIMON']"] : TIMON
+Act(act=5)
+Scene(scene=1)
+Enter Poet and Painter; TIMON watching them from his cave : ["Enter - ['POET', 'PAINTER', 'TIMON']"] : TIMON
+PAINTER
+5.1 :As I took note of the place, it cannot be far where : None
+5.1 :he abides. : None
+POET
+5.1 :What's to be thought of him? does the rumour hold : None
+5.1 :for true, that he's so full of gold? : None
+PAINTER
+5.1 :Certain: Alcibiades reports it; Phrynia and : None
+5.1 :Timandra had gold of him: he likewise enriched poor : None
+5.1 :straggling soldiers with great quantity: 'tis said : None
+5.1 :he gave unto his steward a mighty sum. : None
+POET
+5.1 :Then this breaking of his has been but a try for his friends. : None
+PAINTER
+5.1 :Nothing else: you shall see him a palm in Athens : None
+5.1 :again, and flourish with the highest. Therefore : None
+5.1 :'tis not amiss we tender our loves to him, in this : None
+5.1 :supposed distress of his: it will show honestly in : None
+5.1 :us; and is very likely to load our purposes with : None
+5.1 :what they travail for, if it be a just true report : None
+5.1 :that goes of his having. : None
+POET
+5.1 :What have you now to present unto him? : None
+PAINTER
+5.1 :Nothing at this time but my visitation: only I will : None
+5.1 :promise him an excellent piece. : None
+POET
+5.1 :I must serve him so too, tell him of an intent : None
+5.1 :that's coming toward him. : None
+PAINTER
+5.1 :Good as the best. Promising is the very air o' the : None
+5.1 :time: it opens the eyes of expectation: : None
+5.1 :performance is ever the duller for his act; and, : None
+5.1 :but in the plainer and simpler kind of people, the : None
+5.1 :deed of saying is quite out of use. To promise is : None
+5.1 :most courtly and fashionable: performance is a kind : None
+5.1 :of will or testament which argues a great sickness : None
+5.1 :in his judgment that makes it. : None
+TIMON comes from his cave, behind : ["None - ['TIMON']"] : PAINTER
+TIMON
+5.1 :  Excellent workman! thou canst not paint a : Aside : ['Aside - []'] : TIMON
+5.1 :man so bad as is thyself. : None
+POET
+5.1 :I am thinking what I shall say I have provided for : None
+5.1 :him: it must be a personating of himself; a satire : None
+5.1 :against the softness of prosperity, with a discovery : None
+5.1 :of the infinite flatteries that follow youth and opulency. : None
+TIMON
+5.1 :  Must thou needs stand for a villain in : Aside : ['Aside - []'] : TIMON
+5.1 :thine own work? wilt thou whip thine own faults in : None
+5.1 :other men? Do so, I have gold for thee. : None
+POET
+5.1 :Nay, let's seek him: : None
+5.1 :Then do we sin against our own estate, : None
+5.1 :When we may profit meet, and come too late. : None
+PAINTER
+5.1 :True; : None
+5.1 :When the day serves, before black-corner'd night, : None
+5.1 :Find what thou want'st by free and offer'd light. Come. : None
+TIMON
+5.1 :  I'll meet you at the turn. What a : Aside : ['Aside - []'] : TIMON
+5.1 :god's gold, : None
+5.1 :That he is worshipp'd in a baser temple : None
+5.1 :Than where swine feed! : None
+5.1 :'Tis thou that rigg'st the bark and plough'st the foam, : None
+5.1 :Settlest admired reverence in a slave: : None
+5.1 :To thee be worship! and thy saints for aye : None
+5.1 :Be crown'd with plagues that thee alone obey! : None
+5.1 :Fit I meet them. : None
+Coming forward : ['None - []'] : TIMON
+POET
+5.1 :Hail, worthy Timon! : None
+PAINTER
+5.1 :Our late noble master! : None
+TIMON
+5.1 :Have I once lived to see two honest men? : None
+POET
+5.1 :Sir, : None
+5.1 :Having often of your open bounty tasted, : None
+5.1 :Hearing you were retired, your friends fall'n off, : None
+5.1 :Whose thankless natures--O abhorred spirits!-- : None
+5.1 :Not all the whips of heaven are large enough: : None
+5.1 :What! to you, : None
+5.1 :Whose star-like nobleness gave life and influence : None
+5.1 :To their whole being! I am rapt and cannot cover : None
+5.1 :The monstrous bulk of this ingratitude : None
+5.1 :With any size of words. : None
+TIMON
+5.1 :Let it go naked, men may see't the better: : None
+5.1 :You that are honest, by being what you are, : None
+5.1 :Make them best seen and known. : None
+PAINTER
+5.1 :He and myself : None
+5.1 :Have travail'd in the great shower of your gifts, : None
+5.1 :And sweetly felt it. : None
+TIMON
+5.1 :Ay, you are honest men. : None
+PAINTER
+5.1 :We are hither come to offer you our service. : None
+TIMON
+5.1 :Most honest men! Why, how shall I requite you? : None
+5.1 :Can you eat roots, and drink cold water? no. : None
+BOTH
+5.1 :What we can do, we'll do, to do you service. : None
+TIMON
+5.1 :Ye're honest men: ye've heard that I have gold; : None
+5.1 :I am sure you have: speak truth; ye're honest men. : None
+PAINTER
+5.1 :So it is said, my noble lord; but therefore : None
+5.1 :Came not my friend nor I. : None
+TIMON
+5.1 :Good honest men! Thou draw'st a counterfeit : None
+5.1 :Best in all Athens: thou'rt, indeed, the best; : None
+5.1 :Thou counterfeit'st most lively. : None
+PAINTER
+5.1 :So, so, my lord. : None
+TIMON
+5.1 :E'en so, sir, as I say. And, for thy fiction, : None
+5.1 :Why, thy verse swells with stuff so fine and smooth : None
+5.1 :That thou art even natural in thine art. : None
+5.1 :But, for all this, my honest-natured friends, : None
+5.1 :I must needs say you have a little fault: : None
+5.1 :Marry, 'tis not monstrous in you, neither wish I : None
+5.1 :You take much pains to mend. : None
+BOTH
+5.1 :Beseech your honour : None
+5.1 :To make it known to us. : None
+TIMON
+5.1 :You'll take it ill. : None
+BOTH
+5.1 :Most thankfully, my lord. : None
+TIMON
+5.1 :Will you, indeed? : None
+BOTH
+5.1 :Doubt it not, worthy lord. : None
+TIMON
+5.1 :There's never a one of you but trusts a knave, : None
+5.1 :That mightily deceives you. : None
+BOTH
+5.1 :Do we, my lord? : None
+TIMON
+5.1 :Ay, and you hear him cog, see him dissemble, : None
+5.1 :Know his gross patchery, love him, feed him, : None
+5.1 :Keep in your bosom: yet remain assured : None
+5.1 :That he's a made-up villain. : None
+PAINTER
+5.1 :I know none such, my lord. : None
+POET
+5.1 :Nor I. : None
+TIMON
+5.1 :Look you, I love you well; I'll give you gold, : None
+5.1 :Rid me these villains from your companies: : None
+5.1 :Hang them or stab them, drown them in a draught, : None
+5.1 :Confound them by some course, and come to me, : None
+5.1 :I'll give you gold enough. : None
+BOTH
+5.1 :Name them, my lord, let's know them. : None
+TIMON
+5.1 :You that way and you this, but two in company; : None
+5.1 :Each man apart, all single and alone, : None
+5.1 :Yet an arch-villain keeps him company. : None
+5.1 :If where thou art two villains shall not be, : None
+5.1 :Come not near him. If thou wouldst not reside : None
+5.1 :But where one villain is, then him abandon. : None
+5.1 :Hence, pack! there's gold; you came for gold, ye slaves: : None
+To Painter : ["To - ['PAINTER']"] : TIMON
+5.1 :You have work'd for me; there's payment for you: hence! : None
+To Poet : ["To - ['POET']"] : TIMON
+5.1 :You are an alchemist; make gold of that. : None
+5.1 :Out, rascal dogs! : None
+Beats them out, and then retires to his cave : ['to - []'] : TIMON
+Enter FLAVIUS and two Senators : ["Enter - ['FLAVIUS', 'SENATOR']"] : TIMON
+FLAVIUS
+5.1 :It is in vain that you would speak with Timon; : None
+5.1 :For he is set so only to himself : None
+5.1 :That nothing but himself which looks like man : None
+5.1 :Is friendly with him. : None
+FIRST SENATOR
+5.1 :Bring us to his cave: : None
+5.1 :It is our part and promise to the Athenians : None
+5.1 :To speak with Timon. : None
+SECOND SENATOR
+5.1 :At all times alike : None
+5.1 :Men are not still the same: 'twas time and griefs : None
+5.1 :That framed him thus: time, with his fairer hand, : None
+5.1 :Offering the fortunes of his former days, : None
+5.1 :The former man may make him. Bring us to him, : None
+5.1 :And chance it as it may. : None
+FLAVIUS
+5.1 :Here is his cave. : None
+5.1 :Peace and content be here! Lord Timon! Timon! : None
+5.1 :Look out, and speak to friends: the Athenians, : None
+5.1 :By two of their most reverend senate, greet thee: : None
+5.1 :Speak to them, noble Timon. : None
+TIMON comes from his cave : ["None - ['TIMON']"] : FLAVIUS
+TIMON
+5.1 :Thou sun, that comfort'st, burn! Speak, and : None
+5.1 :be hang'd: : None
+5.1 :For each true word, a blister! and each false : None
+5.1 :Be as cauterizing to the root o' the tongue, : None
+5.1 :Consuming it with speaking! : None
+FIRST SENATOR
+5.1 :Worthy Timon,-- : None
+TIMON
+5.1 :Of none but such as you, and you of Timon. : None
+FIRST SENATOR
+5.1 :The senators of Athens greet thee, Timon. : None
+TIMON
+5.1 :I thank them; and would send them back the plague, : None
+5.1 :Could I but catch it for them. : None
+FIRST SENATOR
+5.1 :O, forget : None
+5.1 :What we are sorry for ourselves in thee. : None
+5.1 :The senators with one consent of love : None
+5.1 :Entreat thee back to Athens; who have thought : None
+5.1 :On special dignities, which vacant lie : None
+5.1 :For thy best use and wearing. : None
+SECOND SENATOR
+5.1 :They confess : None
+5.1 :Toward thee forgetfulness too general, gross: : None
+5.1 :Which now the public body, which doth seldom : None
+5.1 :Play the recanter, feeling in itself : None
+5.1 :A lack of Timon's aid, hath sense withal : None
+5.1 :Of its own fail, restraining aid to Timon; : None
+5.1 :And send forth us, to make their sorrow'd render, : None
+5.1 :Together with a recompense more fruitful : None
+5.1 :Than their offence can weigh down by the dram; : None
+5.1 :Ay, even such heaps and sums of love and wealth : None
+5.1 :As shall to thee blot out what wrongs were theirs : None
+5.1 :And write in thee the figures of their love, : None
+5.1 :Ever to read them thine. : None
+TIMON
+5.1 :You witch me in it; : None
+5.1 :Surprise me to the very brink of tears: : None
+5.1 :Lend me a fool's heart and a woman's eyes, : None
+5.1 :And I'll beweep these comforts, worthy senators. : None
+FIRST SENATOR
+5.1 :Therefore, so please thee to return with us : None
+5.1 :And of our Athens, thine and ours, to take : None
+5.1 :The captainship, thou shalt be met with thanks, : None
+5.1 :Allow'd with absolute power and thy good name : None
+5.1 :Live with authority: so soon we shall drive back : None
+5.1 :Of Alcibiades the approaches wild, : None
+5.1 :Who, like a boar too savage, doth root up : None
+5.1 :His country's peace. : None
+SECOND SENATOR
+5.1 :And shakes his threatening sword : None
+5.1 :Against the walls of Athens. : None
+FIRST SENATOR
+5.1 :Therefore, Timon,-- : None
+TIMON
+5.1 :Well, sir, I will; therefore, I will, sir; thus: : None
+5.1 :If Alcibiades kill my countrymen, : None
+5.1 :Let Alcibiades know this of Timon, : None
+5.1 :That Timon cares not. But if be sack fair Athens, : None
+5.1 :And take our goodly aged men by the beards, : None
+5.1 :Giving our holy virgins to the stain : None
+5.1 :Of contumelious, beastly, mad-brain'd war, : None
+5.1 :Then let him know, and tell him Timon speaks it, : None
+5.1 :In pity of our aged and our youth, : None
+5.1 :I cannot choose but tell him, that I care not, : None
+5.1 :And let him take't at worst; for their knives care not, : None
+5.1 :While you have throats to answer: for myself, : None
+5.1 :There's not a whittle in the unruly camp : None
+5.1 :But I do prize it at my love before : None
+5.1 :The reverend'st throat in Athens. So I leave you : None
+5.1 :To the protection of the prosperous gods, : None
+5.1 :As thieves to keepers. : None
+FLAVIUS
+5.1 :Stay not, all's in vain. : None
+TIMON
+5.1 :Why, I was writing of my epitaph; : None
+5.1 :it will be seen to-morrow: my long sickness : None
+5.1 :Of health and living now begins to mend, : None
+5.1 :And nothing brings me all things. Go, live still; : None
+5.1 :Be Alcibiades your plague, you his, : None
+5.1 :And last so long enough! : None
+FIRST SENATOR
+5.1 :We speak in vain. : None
+TIMON
+5.1 :But yet I love my country, and am not : None
+5.1 :One that rejoices in the common wreck, : None
+5.1 :As common bruit doth put it. : None
+FIRST SENATOR
+5.1 :That's well spoke. : None
+TIMON
+5.1 :Commend me to my loving countrymen,-- : None
+FIRST SENATOR
+5.1 :These words become your lips as they pass : None
+5.1 :thorough them. : None
+SECOND SENATOR
+5.1 :And enter in our ears like great triumphers : None
+5.1 :In their applauding gates. : None
+TIMON
+5.1 :Commend me to them, : None
+5.1 :And tell them that, to ease them of their griefs, : None
+5.1 :Their fears of hostile strokes, their aches, losses, : None
+5.1 :Their pangs of love, with other incident throes : None
+5.1 :That nature's fragile vessel doth sustain : None
+5.1 :In life's uncertain voyage, I will some kindness do them: : None
+5.1 :I'll teach them to prevent wild Alcibiades' wrath. : None
+FIRST SENATOR
+5.1 :I like this well; he will return again. : None
+TIMON
+5.1 :I have a tree, which grows here in my close, : None
+5.1 :That mine own use invites me to cut down, : None
+5.1 :And shortly must I fell it: tell my friends, : None
+5.1 :Tell Athens, in the sequence of degree : None
+5.1 :From high to low throughout, that whoso please : None
+5.1 :To stop affliction, let him take his haste, : None
+5.1 :Come hither, ere my tree hath felt the axe, : None
+5.1 :And hang himself. I pray you, do my greeting. : None
+FLAVIUS
+5.1 :Trouble him no further; thus you still shall find him. : None
+TIMON
+5.1 :Come not to me again: but say to Athens, : None
+5.1 :Timon hath made his everlasting mansion : None
+5.1 :Upon the beached verge of the salt flood; : None
+5.1 :Who once a day with his embossed froth : None
+5.1 :The turbulent surge shall cover: thither come, : None
+5.1 :And let my grave-stone be your oracle. : None
+5.1 :Lips, let sour words go by and language end: : None
+5.1 :What is amiss plague and infection mend! : None
+5.1 :Graves only be men's works and death their gain! : None
+5.1 :Sun, hide thy beams! Timon hath done his reign. : None
+Retires to his cave : ['to - []'] : TIMON
+FIRST SENATOR
+5.1 :His discontents are unremoveably : None
+5.1 :Coupled to nature. : None
+SECOND SENATOR
+5.1 :Our hope in him is dead: let us return, : None
+5.1 :And strain what other means is left unto us : None
+5.1 :In our dear peril. : None
+FIRST SENATOR
+5.1 :                  It requires swift foot. : None
+Exeunt : ['Exeunt - []'] : FIRST SENATOR
+Scene(scene=2)
+Enter two Senators and a Messenger : ["Enter - ['SENATOR', 'MESSENGER']"] : FIRST SENATOR
+FIRST SENATOR
+5.2 :Thou hast painfully discover'd: are his files : None
+5.2 :As full as thy report? : None
+MESSENGER
+5.2 :have spoke the least: : None
+5.2 :Besides, his expedition promises : None
+5.2 :Present approach. : None
+SECOND SENATOR
+5.2 :We stand much hazard, if they bring not Timon. : None
+MESSENGER
+5.2 :I met a courier, one mine ancient friend; : None
+5.2 :Whom, though in general part we were opposed, : None
+5.2 :Yet our old love made a particular force, : None
+5.2 :And made us speak like friends: this man was riding : None
+5.2 :From Alcibiades to Timon's cave, : None
+5.2 :With letters of entreaty, which imported : None
+5.2 :His fellowship i' the cause against your city, : None
+5.2 :In part for his sake moved. : None
+FIRST SENATOR
+5.2 :Here come our brothers. : None
+Enter the Senators from TIMON : ["Enter - ['SENATOR', 'TIMON']"] : FIRST SENATOR
+THIRD SENATOR
+5.2 :No talk of Timon, nothing of him expect. : None
+5.2 :The enemies' drum is heard, and fearful scouring : None
+5.2 :Doth choke the air with dust: in, and prepare: : None
+5.2 :Ours is the fall, I fear; our foes the snare. : None
+Exeunt : ['Exeunt - []'] : THIRD SENATOR
+Scene(scene=3)
+Enter a Soldier, seeking TIMON : ["Enter - ['SOLDIER', 'TIMON']"] : THIRD SENATOR
+SOLDIER
+5.3 :By all description this should be the place. : None
+5.3 :Who's here? speak, ho! No answer! What is this? : None
+5.3 :Timon is dead, who hath outstretch'd his span: : None
+5.3 :Some beast rear'd this; there does not live a man. : None
+5.3 :Dead, sure; and this his grave. What's on this tomb : None
+5.3 :I cannot read; the character I'll take with wax: : None
+5.3 :Our captain hath in every figure skill, : None
+5.3 :An aged interpreter, though young in days: : None
+5.3 :Before proud Athens he's set down by this, : None
+5.3 :Whose fall the mark of his ambition is. : None
+Exit : ['Exit - []'] : SOLDIER
+Scene(scene=4)
+Trumpets sound. Enter ALCIBIADES with his powers : ['None - []', "Enter - ['ALCIBIADES']"] : SOLDIER
+ALCIBIADES
+5.4 :Sound to this coward and lascivious town : None
+5.4 :Our terrible approach. : None
+A parley sounded : ['None - []'] : ALCIBIADES
+Enter Senators on the walls : ["Enter - ['SENATOR', 'ALL']"] : ALCIBIADES
+5.4 :Till now you have gone on and fill'd the time : None
+5.4 :With all licentious measure, making your wills : None
+5.4 :The scope of justice; till now myself and such : None
+5.4 :As slept within the shadow of your power : None
+5.4 :Hav e wander'd with our traversed arms and breathed : None
+5.4 :Our sufferance vainly: now the time is flush, : None
+5.4 :When crouching marrow in the bearer strong : None
+5.4 :Cries of itself 'No more:' now breathless wrong : None
+5.4 :Shall sit and pant in your great chairs of ease, : None
+5.4 :And pursy insolence shall break his wind : None
+5.4 :With fear and horrid flight. : None
+FIRST SENATOR
+5.4 :Noble and young, : None
+5.4 :When thy first griefs were but a mere conceit, : None
+5.4 :Ere thou hadst power or we had cause of fear, : None
+5.4 :We sent to thee, to give thy rages balm, : None
+5.4 :To wipe out our ingratitude with loves : None
+5.4 :Above their quantity. : None
+SECOND SENATOR
+5.4 :So did we woo : None
+5.4 :Transformed Timon to our city's love : None
+5.4 :By humble message and by promised means: : None
+5.4 :We were not all unkind, nor all deserve : None
+5.4 :The common stroke of war. : None
+FIRST SENATOR
+5.4 :These walls of ours : None
+5.4 :Were not erected by their hands from whom : None
+5.4 :You have received your griefs; nor are they such : None
+5.4 :That these great towers, trophies and schools : None
+5.4 :should fall : None
+5.4 :For private faults in them. : None
+SECOND SENATOR
+5.4 :Nor are they living : None
+5.4 :Who were the motives that you first went out; : None
+5.4 :Shame that they wanted cunning, in excess : None
+5.4 :Hath broke their hearts. March, noble lord, : None
+5.4 :Into our city with thy banners spread: : None
+5.4 :By decimation, and a tithed death-- : None
+5.4 :If thy revenges hunger for that food : None
+5.4 :Which nature loathes--take thou the destined tenth, : None
+5.4 :And by the hazard of the spotted die : None
+5.4 :Let die the spotted. : None
+FIRST SENATOR
+5.4 :All have not offended; : None
+5.4 :For those that were, it is not square to take : None
+5.4 :On those that are, revenges: crimes, like lands, : None
+5.4 :Are not inherited. Then, dear countryman, : None
+5.4 :Bring in thy ranks, but leave without thy rage: : None
+5.4 :Spare thy Athenian cradle and those kin : None
+5.4 :Which in the bluster of thy wrath must fall : None
+5.4 :With those that have offended: like a shepherd, : None
+5.4 :Approach the fold and cull the infected forth, : None
+5.4 :But kill not all together. : None
+SECOND SENATOR
+5.4 :What thou wilt, : None
+5.4 :Thou rather shalt enforce it with thy smile : None
+5.4 :Than hew to't with thy sword. : None
+FIRST SENATOR 
+5.4 :Set but thy foot : None
+5.4 :Against our rampired gates, and they shall ope; : None
+5.4 :So thou wilt send thy gentle heart before, : None
+5.4 :To say thou'lt enter friendly. : None
+SECOND SENATOR
+5.4 :Throw thy glove, : None
+5.4 :Or any token of thine honour else, : None
+5.4 :That thou wilt use the wars as thy redress : None
+5.4 :And not as our confusion, all thy powers : None
+5.4 :Shall make their harbour in our town, till we : None
+5.4 :Have seal'd thy full desire. : None
+ALCIBIADES
+5.4 :Then there's my glove; : None
+5.4 :Descend, and open your uncharged ports: : None
+5.4 :Those enemies of Timon's and mine own : None
+5.4 :Whom you yourselves shall set out for reproof : None
+5.4 :Fall and no more: and, to atone your fears : None
+5.4 :With my more noble meaning, not a man : None
+5.4 :Shall pass his quarter, or offend the stream : None
+5.4 :Of regular justice in your city's bounds, : None
+5.4 :But shall be render'd to your public laws : None
+5.4 :At heaviest answer. : None
+BOTH
+5.4 :'Tis most nobly spoken. : None
+ALCIBIADES
+5.4 :Descend, and keep your words. : None
+The Senators descend, and open the gates : ["to - ['SENATOR']"] : ALCIBIADES
+Enter Soldier : ["Enter - ['SOLDIER']"] : ALCIBIADES
+SOLDIER
+5.4 :My noble general, Timon is dead; : None
+5.4 :Entomb'd upon the very hem o' the sea; : None
+5.4 :And on his grave-stone this insculpture, which : None
+5.4 :With wax I brought away, whose soft impression : None
+5.4 :Interprets for my poor ignorance. : None
+ALCIBIADES
+5.4 :  'Here lies a : Reads the epitaph : ['Read - []'] : ALCIBIADES
+5.4 :wretched corse, of wretched soul bereft: : None
+5.4 :Seek not my name: a plague consume you wicked : None
+5.4 :caitiffs left! : None
+5.4 :Here lie I, Timon; who, alive, all living men did hate: : None
+5.4 :Pass by and curse thy fill, but pass and stay : None
+5.4 :not here thy gait.' : None
+5.4 :These well express in thee thy latter spirits: : None
+5.4 :Though thou abhorr'dst in us our human griefs, : None
+5.4 :Scorn'dst our brain's flow and those our : None
+5.4 :droplets which : None
+5.4 :From niggard nature fall, yet rich conceit : None
+5.4 :Taught thee to make vast Neptune weep for aye : None
+5.4 :On thy low grave, on faults forgiven. Dead : None
+5.4 :Is noble Timon: of whose memory : None
+5.4 :Hereafter more. Bring me into your city, : None
+5.4 :And I will use the olive with my sword, : None
+5.4 :Make war breed peace, make peace stint war, make each : None
+5.4 :Prescribe to other as each other's leech. : None
+5.4 :Let our drums strike. : None
+Exeunt : ['Exeunt - []'] : ALCIBIADES

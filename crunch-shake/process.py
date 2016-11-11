@@ -165,14 +165,24 @@ def get_presence_by_scene(adj, play_lines, start_end, scene_entrance,
 
 def process(speaking_characters, play_lines):
     act_scenes, act_scene_range = get_act_scene_range(play_lines)
+    # print(act_scenes)
     act_scene_start_end = list(zip(act_scene_range, act_scene_range[1:]))
     entrance, exit = get_entrance_exit(
             play_lines, 
             act_scene_start_end)
+    # print(act_scene_start_end[5])
+    # print(entrance[5])
+    # print(exit[5])
+    # quit()
+    # print(play_lines[2152:2438])
+    # print(play_lines[0:20])
+    # print(entrance)
+    # print(exit)
     adj = get_presence(
             speaking_characters, 
             play_lines, 
             act_scene_start_end,
             entrance, 
             exit)
+    # print(adj['EUPHRONIUS']) # scene 23 
     return adj, act_scene_start_end

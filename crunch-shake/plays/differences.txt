@@ -1,2 +1,8 @@
 2henryiv.html : remove lines 21-73 inclusive from original
 1henryiv.html : Change 4079-4082 to proper scene format
+henryv.html : remove prologue
+henryviii : remove prologue
+perciples : remove prologue
+romeo_juliet : remove prologue
+taming_shre : add Servant to line 3870
+troilus : remove prologue
