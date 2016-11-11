@@ -3,14 +3,16 @@
 \usepackage{tabularx}
 \hypersetup{
     colorlinks=true,
-    linkcolor=black,
+    linkcolor=blue,
     filecolor=magenta,      
     urlcolor=blue,
+    citecolor=black,
 }
 
 \urlstyle{same}
 \usepackage{csquotes}
- 
+
+
 \begin{document}
 
 \title{Does Shakespeare Pass the Bechdel Test?}
@@ -23,18 +25,20 @@
 
 Despite the recent success of films such as \emph{The Hunger Games} and \emph{Star
 Wars: The Force Awakens}, most of our cultural output is disproportionally
-focused on male lives and their stories. One popular measure of this gender
-bias is the Bechdel Test. The test specifies 3 criteria for a piece to pass. 
+focused on male lives and their stories\cite{atlantic}. One popular measure of this gender
+bias is the Bechdel Test\cite{polygraph}. The test specifies 3 criteria for a piece to pass. 
 \begin{enumerate}  
 \item It must contain two named female characters
 \item They must have a conversation
 \item The conversation must not be about a man
 \end{enumerate}
 While this is not a particularly high bar, a surprising amount of films---the
-original medium the test was applied to---fail it. Gender disparities however
-are not a recent phenomena and this article looks at whether Shakespeare's
-plays in particular pass the Bechdel Test. This would not be done manually
-however but as a showcase for a new software package,
+original medium the test was applied to\footnote{see
+\url{http://bechdeltest.com/} for a crowdsourced effort to classify movies by
+the Bechdel Test.}---fail it. Gender disparities however are not a recent
+phenomena and this article looks at whether Shakespeare's plays in particular
+pass the Bechdel Test. This would not be done manually however but as a
+showcase for a new software package,
 \textbf{crunch-shake}\footnote{\url{https://github.com/zhiyanfoo/crunch-shake}}.
 
 \section{Methodology}
@@ -49,46 +53,82 @@ of crunch-shake.
     \begin{tabularx}{\textwidth}{ | X | X | X |}
     \hline
     Original Criteria & crunch-shake Criteria & Reason for Change \\ \hline
-        contain two named female characters & contain two female characters that are
-        in the upper 50\% of notable characters & The requirement that the two
-        female characters be named is just a proxy for whether the character is
-        significant to the piece, and using social network graphing algorithms
-        and the number of lines the character has, this can be got at directly.
+        Contain two named female characters & Contain two female characters
+        that are in the upper 50\% of notable characters. See
+        \hyperref[sub:gender]{Gender} and
+        \hyperref[sub:notability]{Notability}.
+        & The requirement that the two female characters be named is just a
+        proxy for whether the character is significant to the piece, and using
+        social network graphing algorithms and the number of lines the
+        character has, this can be got at directly.
         \\ \hline
     The two named female characters must have a conversation & In any scene,
-        two notable female characters must speak in the presence of one another
+        two notable female characters must speak in the presence of one
+        another.
+        See \hyperref[sub:presence]{Presence}.
         & It is hard to algorithmically determine when two characters are in a
         'conversation' with one another. So the two females might be talking to
-        a male, not each other, but the scene will still 'pass'  Unfortunate,
-        but as of now, unavoidable.  \\ \hline
+        a male, not each other, but unfortunately the scene will still
+        'pass'. \\ \hline
     The conversation must not be about a man & In their 'conversation', the two
         notable females must not utter a word related to romantic relationships
-        or mention a male & While there's a lot of subtext that an algorithm
-        can miss out, a blacklist of words takes care of the more obvious
-        cases.   \\
+        or mention a male. See \hyperref[sub:blacklist]{Blacklist}. & While
+        there's a lot of subtext that an algorithm can miss out, a blacklist of
+        words takes care of the more obvious
+        cases. \\
     \hline
     \end{tabularx}
 \end{center}
 
-\subsection{Blacklist}
-\label{sub:blacklist}
+\subsection{Gender}
+\label{sub:gender}
 
-The list of forbidden words 
-\begin{description}
-    \item[romantic relationships] marriage,
-        matrimony, courting, love, wedlock, sex, sexual, intercourse.
-    \item[male partners] boyfriend, partner, husband, spouse, lover,
-        admirer, fiancé, amour, inamorato. (As well as the names of males in
-        the piece).
-\end{description}
+The gender of each character is determined manually. The json files that
+include gender classifications can be found
+here
+\footnote{\url{https://github.com/zhiyanfoo/crunch-shake/tree/master/crunch-shake/gender}}.
+While it is easy enough to be determine the gender of the named characters, the
+unnamed characters proved to be a bit harder. Some gender assignments were
+easy, such as `groom' or `maid'. Others such as `Soldier', while could
+represent both genders in today's society, where for the most part male in
+Shakespeare's time and so classified as such. The more ambiguous designations
+such as 'Citizen' while were for the most part probably intended to be male,
+are left as 'N', and for the purposes of the algorithm, might as well not
+exist.
 
-The idea is not that it is 'wrong' for script writers to ever have their female
-characters use this words, but rather not ever scene involving female
-characters should have them focused on their relationships with male
-counterparts.
+\subsection{Notability}
+\label{sub:notability}
 
-\subsection{Determining Presence}
-\label{sub:determining_presence}
+Whether or not a character is notable or not is dependent on how each character
+scores on 4 metrics: lines by character, out degree, page rank, betweenness.
+The last 3 metrics are network algorithms. crunch-shake uses the
+implementation found in the python package networkx
+\footnote{\url{https://networkx.readthedocs.io/en/stable/reference/algorithms.centrality.html}}.
+\begin{center}
+    \begin{tabular}{ | l | l | p{5cm} |}
+    \hline
+    Metric & Weight & Algorithm \\ \hline
+        lines by character & 62.5\% & Take the number of lines a character has
+        and divide it by the lines of speech the character with
+        the most lines has.\\ \hline
+        out degree & 12.5\% & networkx's implementation \\ \hline
+        page rank & 12.5\% & networkx's implementation \\ \hline
+        betweenness & 12.5\% & networkx's implementation \\
+    \hline
+    \end{tabular}
+\end{center}
+In this case, the network vertices here are speaking characters, with directed
+edges representing when a character speaks to another character, with more
+lines of speech indicating a stronger connection.
+
+The use of network algorithms to classify importance of characters was taken
+from a paper on Game Of Thrones. Since Shakespeare's plays feature far fewer
+characters that GOT and since those characters are far more interconnected than
+in GOT, this methodology does not work as well for this paper, which is why the
+network algorithms are assigned such low weights.
+
+\subsection{Presence}
+\label{sub:presence}
 
 \subsubsection{Method}
 \label{ssub:method}
@@ -128,68 +168,40 @@ Enter four or five Serving-men</i></p>
 Yet is suppose to enter the scene.  
 
 Yet these errors are unlikely to skew the data in favor of males or females.
-\subsection{Gender}
-\label{sub:passing_the_criteria}
 
-The gender of each character is determined manually. The json files that
-include gender classifications can be found
-here\footnote{\url{https://github.com/zhiyanfoo/crunch-shake/tree/master/crunch-shake/gender}}.
-While it is easy enough to be determine the gender of the named characters, the
-unnamed characters proved to be a bit harder. Some gender assignments were
-easy, such as 'groom' or 'maid'. Others such as 'Soldier', while could
-represent both genders in today's society, where for the most part male in
-Shakespeare's time and so classified as such. The more ambiguous designations
-such as 'Citizen' while were for the most part probably intended to be male,
-are left as 'N', and for the purposes of the algorithm, might as well not
-exist.
+\subsection{Blacklist}
+\label{sub:blacklist}
 
-\subsection{Notability}
-\label{sub:notability}
+The list of forbidden words 
+\begin{description}
+    \item[romantic relationships] marriage,
+        matrimony, courting, love, wedlock, sex, sexual, intercourse.
+    \item[male partners] boyfriend, partner, husband, spouse, lover,
+        admirer, fiancé, amour, inamorato. (As well as the names of males in
+        the piece).
+\end{description}
 
-Whether or not a character is notable or not is dependent on how each character
-scores on 4 metrics: lines by character, out degree, page rank, betweenness.
-The last 3 metrics are network algorithm's. crunch-shake uses the
-implementation found in the python package networkx.
-\begin{center}
-    \begin{tabular}{ | l | l | p{5cm} |}
-    \hline
-    Metric & Weight & Algorithm \\ \hline
-        lines by character & 62.5\% & take the number of lines a character has
-        and divide it by the lines of speech the character with
-        the most lines has.\\ \hline
-        out degree & 12.5\% & networkx's implementation \\ \hline
-        page rank & 12.5\% & networkx's implementation \\ \hline
-        betweenness & 12.5\% & networkx's implementation \\
-    \hline
-    \end{tabular}
-\end{center}
-In this case, the network vertices here are speaking characters, with directed
-edges representing when a character speaks to another character, with more
-lines of speech indicating a stronger connection.
+The idea is not that it is 'wrong' for script writers to ever have their female
+characters use this words, but rather not ever scene involving female
+characters should have them focused on their relationships with male
+counterparts.
 
-The use of network algorithms to classify importance of characters was taken
-from this paper on Game Of Thrones. Since Shakespeare's plays feature far fewer
-characters that GOT and since those characters are far more interconnected than
-in GOT, this methodology does not work as well for this paper, which is why the
-network algorithms are assigned such low weights.
+\subsection{Avoiding Systematic Error}
+\label{sub:Precautions}
 
-\subsection{Precautions}
-\label{sub:passing_the_criteria}
+\subsubsection{No Peeking}
 
-\subsubsection{Limiting Initially Used}
+In order to not bias the data by, for example changing the blacklisted words,
+or changing the weights given to each metrics, I wrote all the specifications
+before running the crunch-shake on Shakespeare's plays, with the exception of
+\emph{All's Well that Ends Well} and \emph{Romeo and Juliet}, which I needed
+for debugging and checking feasibility purposes. As a result I will be omitting
+these two plays from the results. 
 
-In order to not bias the data by, for example changing the blacklisted
-words, or changing the weights given to each character in the metrics, I wrote
-all the specifications before running the crunch-shake on Shakespeare's plays,
-with the exception of \emph{All's Well that Ends Well} and \emph{Romeo and
-Juliet}, which I needed for debugging and checking feasibility purposes. As a
-result I will be omitting these two plays from the results. 
+\subsubsection{Analysis}
 
-\subsubsection{}
-
-In order to avoid cutting up the data after running the experiment to support
-a potentially biased viewpoint, let me first state what results I wish to present
-after running the experiment.
+In order to avoid cutting up the data after running the experiment to support a
+potentially biased viewpoint, let me first state what results I wish to present.
 
 \begin{enumerate}
     \item Percentage of females to males overall.
@@ -208,5 +220,9 @@ after running the experiment.
 
 \section{Results}
 \label{sec:results}
+
+\bibliographystyle{siam} 
+\bibliography{sources} 
+
 
 \end{document}

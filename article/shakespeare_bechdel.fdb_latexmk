@@ -1,7 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1478880848 "shakespeare_bechdel.tex" "shakespeare_bechdel.pdf" "shakespeare_bechdel" 1478880849
+["bibtex shakespeare_bechdel"] 1478886262 "shakespeare_bechdel.aux" "shakespeare_bechdel.bbl" "shakespeare_bechdel" 1478886263
+  "/usr/local/texlive/2016/texmf-dist/bibtex/bst/base/siam.bst" 1292289607 19403 812681d329611d2a1625ad7ae5186edc ""
+  "shakespeare_bechdel.aux" 1478886263 2797 7d2a03bf5a7a98cc1c76a82c3ce38d7c ""
+  "shakespeare_bechdel.bcf" 0 -1 0 ""
+  "sources.bib" 1478886250 460 f1ed37c8066fee5d536e3e97f62ec84d ""
+  (generated)
+  "shakespeare_bechdel.bbl"
+["pdflatex"] 1478886262 "shakespeare_bechdel.tex" "shakespeare_bechdel.pdf" "shakespeare_bechdel" 1478886263
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -15,6 +23,7 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
@@ -52,9 +61,10 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1473251172 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "shakespeare_bechdel.aux" 1478880849 2713 5d61e1011a33782c8a72917bd5784f26 ""
-  "shakespeare_bechdel.out" 1478880849 797 1f4be2013c40c853559e451ed8113b6f ""
-  "shakespeare_bechdel.tex" 1478880847 9166 2ee1b0bf86f831ce43359175034e3b53 ""
+  "shakespeare_bechdel.aux" 1478886263 2797 7d2a03bf5a7a98cc1c76a82c3ce38d7c ""
+  "shakespeare_bechdel.bbl" 1478886262 361 e5b83e6c926dd2714394b2b48f90f2a7 "bibtex shakespeare_bechdel"
+  "shakespeare_bechdel.out" 1478886263 794 fd1b8b447df6411200aa1043c8a264e6 ""
+  "shakespeare_bechdel.tex" 1478886259 9567 96081f991915e790dee2fda1e5535847 ""
   (generated)
   "shakespeare_bechdel.out"
   "shakespeare_bechdel.aux"
