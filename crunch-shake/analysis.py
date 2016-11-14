@@ -95,90 +95,91 @@ Note:
     If there are no females in the upper 50% of characters, it retuns 0%.
 """
 
-def bechdel_test(play_lines, characters_by_importance, adj, gender,
-        act_scene_start_end):
-    characters = [ x[0] for x in characters_by_importance ]
-    # if odd number of characters, includes n + 1 characters, where
-    # len(characters) = 2n + 1
-    start = len(characters_by_importance) // 2
-    notable_females = set(filter(lambda x: gender[x] == 'F',
-        characters[start:]))
-    female_to_female = sorted([ line 
-            for speaker in notable_females
-            for spoken in notable_females - {speaker} 
+def bechdel_test(play_lines, notable, forbidden_matcher, adj,
+        act_scene_start_end, play_stats, prefix):
+    gender_to_gender = sorted([ line 
+            for speaker in notable
+            for spoken in notable - {speaker} 
             for line in adj[speaker].get(spoken, [])])
-    female_lines_by_scene = get_female_lines_by_scene(female_to_female,
+    gender_lines_by_scene = get_gender_lines_by_scene(gender_to_gender,
             act_scene_start_end)
-    males = filter(lambda x: gender[x] == 'M', characters)
-    bechdel_scenes = [ bechdel_by_scene(start, end, female_to_female,
-        play_lines, males) for start, end in female_lines_by_scene ]
+    blacklist_name = prefix + 'blacklist'
+    play_stats[blacklist_name] = 0
+    bechdel_scenes = [ bechdel_by_scene(start, end, play_lines,
+        gender_to_gender, forbidden_matcher, play_stats, blacklist_name)
+        for start, end in gender_lines_by_scene ]
     # Abusing the fact that True is one
+    play_stats[prefix + 'passes'] = sum(bechdel_scenes)
     bechdel_percent = sum(bechdel_scenes) / len(act_scene_start_end)
     return bechdel_scenes, bechdel_percent
 
-def get_female_lines_by_scene(female_to_female, act_scene_start_end):
+def get_gender_lines_by_scene(gender_to_gender, act_scene_start_end):
     """ for each scene in play, get the range of lines in female_to_female
     which belong to that scene. As is in common, the range is defined to be
     (inclusive, exclusive).
 
     For example:
     if 
-    >>> female_to_female = [0, 1, 3, 8, 9, 10, 11, 100, 101]
+    >>> gender_to_gender = [0, 1, 3, 8, 9, 10, 11, 100, 101]
     >>> act_scene_start_end = [(0, 10), (10, 30), (30, 80), (80, 102)]
 
     then after 
-    >>> female_lines_by_scene = [ lines_by_scene(female_to_female, end) for _ ,
+    >>> gender_lines_by_scene = [ lines_by_scene(gender_to_gender, end) for _ ,
             end in act_scene_start_end ]
-    >>> female_lines_by_scene == [(0, 5), (5, 7), (7,7), (7,9)]
+    >>> gender_lines_by_scene == [(0, 5), (5, 7), (7,7), (7,9)]
     """
     class LinesByScenes:
         def __init__(self):
             self.left_marker = 0
             self.reached_end = False
 
-        def __call__(self, female_to_female, end):
+        def __call__(self, gender_to_gender, end):
             if self.reached_end:
-                return (len(female_to_female), len(female_to_female))
-            for i in range(self.left_marker, len(female_to_female)):
-                line_n = female_to_female[i]
+                return (len(gender_to_gender), len(gender_to_gender))
+            for i in range(self.left_marker, len(gender_to_gender)):
+                line_n = gender_to_gender[i]
                 if line_n >= end:
                     line_range = (self.left_marker, i)
                     self.left_marker = i
                     return line_range
             self.reached_end = True
-            return (self.left_marker, len(female_to_female))
+            return (self.left_marker, len(gender_to_gender))
 
     lines_by_scene = LinesByScenes()
-    female_lines_by_scene = [ lines_by_scene(female_to_female, end) for _ ,
+    gender_lines_by_scene = [ lines_by_scene(gender_to_gender, end) for _ ,
             end in act_scene_start_end ]
-    return female_lines_by_scene
+    return gender_lines_by_scene
 
-def bechdel_by_scene(start, end, female_to_female, play_lines,
-        males):
-    forbidden_matcher = create_forbidden_matcher(males)
+def bechdel_by_scene(start, end, play_lines, gender_to_gender,
+        forbidden_matcher, play_stats, blacklist_name):
     # if start == end, this means the scene contains no dialgoue.
     if start == end:
         return False
-    notable_females = set()
+    notable_gender = set()
     # Test forbidden match and keep track of females in the scene
     for i in range(start, end):
-        line_i = female_to_female[i]
+        line_i = gender_to_gender[i]
         line = play_lines[line_i]
         # First Test : forbidden match
         forbidden_match = forbidden_matcher.search(line.dialogue)
         if forbidden_match:
             # print("forbidden_match : ", forbidden_match)
+            play_stats[blacklist_name] += 1
             return False
-        notable_females.add(line.character)
+        notable_gender.add(line.character)
     # Return true only if notable females speaking are greater than 1
-    return len(notable_females) > 1
+    return len(notable_gender) > 1
 
-def create_forbidden_matcher(males):
+def create_forbidden_matcher(names, letter):
+    """Forbid mention of gender specified by letter"""
     icky = ['sex', 'sexual', 'intercourse', 'marriage', 'matrimony','courting',
-            'love', 'wedlock']
-    boyfriend = ['boyfriend', 'partner', 'husband', 'spouse', 'lover',
-            'admirer', 'fiancé', 'amour', 'inamorato']
-    forbidden_words = icky + boyfriend + list(males)
+            'wedlock']
+    partner = ['partner', 'spouse', 'lover', 'admirer', 'fiancé', 'amour',
+            'inamorato', 'betrothed']
+    boyfriend = ['boyfriend', 'husband']
+    girlfriend = ['girlfriend', 'wife']
+    xfriend = boyfriend if letter == 'M' else girlfriend
+    forbidden_words = icky + partner + xfriend + list(names)
     return get_matcher(forbidden_words, "forbidden")
 
 # VOCAB DIFFERENCES
@@ -202,7 +203,6 @@ def vocab_difference(play_lines, gender):
     word_gender = { key : get_word_gender(key)
             for key in set(males_vocab.keys()).union(set(female_vocab.keys())) }
     word_gender_sorted = sorted(word_gender, key=lambda x: word_gender[x])
-
     # print([ (word, word_gender[word]) for word in word_gender_sorted[:25] ])
     # print([ (word, word_gender[word]) for word in word_gender_sorted[-25:] ])
     # print(word_gender_sorted[:25])
@@ -257,8 +257,17 @@ def create_get_word_gender(males_vocab, female_vocab):
         return metric
     return get_word_gender
 
+def get_notable_characters(characters_by_importance, gender, letter):
+    characters = [ x[0] for x in characters_by_importance ]
+    # if odd number of characters, includes n + 1 characters, where
+    # len(characters) = 2n + 1
+    start = len(characters_by_importance) // 2
+    notable_characters = set(filter(lambda x: gender[x] == letter,
+        characters[start:]))
+    return notable_characters
+
 def postprocess(play_lines, speaking_characters, adj, gender,
-        act_scene_start_end):
+        act_scene_start_end, play_stats):
     adj_num = { speaker : { spoken : len(adj[speaker][spoken]) 
         for spoken in adj[speaker] } 
         for speaker in adj }
@@ -271,6 +280,25 @@ def postprocess(play_lines, speaking_characters, adj, gender,
             reciprocal_graph,
             )
     vocab_difference(play_lines, gender)
-    bechdel_scenes = bechdel_test(play_lines, characters_by_importance, adj,
-            gender, act_scene_start_end)
+
+    def bechdel_gender(letter):
+        other_letter = 'M' if letter == 'F' else 'F'
+        prefix = 'female ' if letter == 'F' else 'male '
+        notable_gender = get_notable_characters(characters_by_importance,
+                gender, letter)
+        print(notable_gender)
+        play_stats[prefix + 'notable'] = len(notable_gender)
+        other_gender = filter(lambda x: gender[x] == other_letter,
+                speaking_characters)
+        forbidden_matcher = create_forbidden_matcher(other_gender,
+                other_letter)
+        bechdel_scenes = bechdel_test(play_lines, notable_gender,
+                forbidden_matcher, adj, act_scene_start_end, play_stats, prefix)
+        print(bechdel_scenes[0].index(True))
+        return bechdel_scenes
+
+    # print(bechdel_gender('F'))
+    print(bechdel_gender('M'))
     return graph
+
+

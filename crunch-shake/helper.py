@@ -1,5 +1,8 @@
+import sys
+import os
 from urllib.request import urlopen
 import glob
+import re
 
 from parse import get_speaking_characters
 from mit_shakespeare_regex import matcher
@@ -28,7 +31,7 @@ def get_html(names):
 
 def main():
     # get_html(names)
-    blank_gender_files()
+    # blank_gender_files()
     pass
         
 names = """

@@ -27,6 +27,14 @@ def str_to_file(x, path):
 
 # MATCHERS
 
+def get_title(raw_play_lines):
+    pattern = re.compile("<title>(.*): Entire Play.*")
+    for line in raw_play_lines:
+        match = pattern.search(line)
+        if match:
+            return match.group(1)
+    raise ValueError
+
 def get_matcher(words, identifier):
     joined_words = "|".join(words)
     pattern = "(?P<{0}>".format(identifier) + joined_words + ")"

@@ -161,20 +161,25 @@ def get_presence_by_scene(adj, play_lines, start_end, scene_entrance,
                     adj[line.character][character] = [i]
         if i in inv_exit:
             for character in inv_exit[i]:
-                characters_present.remove(character)
+                try:
+                    characters_present.remove(character)
+                except KeyError:
+                    print(i)
+                    print(line)
+                    exit()
 
 def process(speaking_characters, play_lines):
     act_scenes, act_scene_range = get_act_scene_range(play_lines)
-    # print(act_scenes)
+    print(act_scenes[8])
     act_scene_start_end = list(zip(act_scene_range, act_scene_range[1:]))
     entrance, exit = get_entrance_exit(
             play_lines, 
             act_scene_start_end)
-    # print(act_scene_start_end[5])
+    # print(act_scene_start_end[17])
     # print(entrance[5])
     # print(exit[5])
     # quit()
-    # print(play_lines[2152:2438])
+    # print(play_lines[3980: 4028])
     # print(play_lines[0:20])
     # print(entrance)
     # print(exit)

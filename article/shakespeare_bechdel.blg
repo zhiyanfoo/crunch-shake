@@ -3,46 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: shakespeare_bechdel.aux
 The style file: siam.bst
 Database file #1: sources.bib
+Warning--empty year in got
 Warning--empty year in polygraph
-You've used 2 entries,
+You've used 3 entries,
             2030 wiz_defined-function locations,
-            506 strings with 4027 characters,
-and the built_in function-call counts, 527 in all, are:
-= -- 40
-> -- 35
+            510 strings with 4110 characters,
+and the built_in function-call counts, 750 in all, are:
+= -- 58
+> -- 48
 < -- 0
-+ -- 14
-- -- 12
-* -- 46
-:= -- 102
-add.period$ -- 2
-call.type$ -- 2
-change.case$ -- 12
++ -- 19
+- -- 16
+* -- 62
+:= -- 142
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 22
-empty$ -- 33
-format.name$ -- 12
-if$ -- 94
+cite$ -- 5
+duplicate$ -- 33
+empty$ -- 49
+format.name$ -- 16
+if$ -- 136
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 9
-num.names$ -- 4
-pop$ -- 14
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 12
+num.names$ -- 6
+pop$ -- 21
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 14
 quote$ -- 0
-skip$ -- 9
+skip$ -- 14
 stack$ -- 0
-substring$ -- 10
-swap$ -- 4
+substring$ -- 15
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 1
-while$ -- 4
-width$ -- 3
-write$ -- 17
-(There was 1 warning)
+type$ -- 12
+warning$ -- 2
+while$ -- 6
+width$ -- 4
+write$ -- 24
+(There were 2 warnings)

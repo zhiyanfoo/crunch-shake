@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 NOV 2016 01:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 NOV 2016 01:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,21 +160,58 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@cols=\count97
 \TX@ftn=\toks16
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 10.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count98
+\@cmidlb=\count99
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count100
+\@lastruleclass=\count101
+\@thisrulewidth=\dimen126
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen127
+\captionmargin@=\dimen128
+\captionwidth=\dimen129
+\caption@tempdima=\dimen130
+\caption@indent=\dimen131
+\caption@parindent=\dimen132
+\caption@hangindent=\dimen133
+)
+\c@ContinuedFloat=\count102
+Package caption Info: hyperref package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count98
+\etb@tempcnta=\count103
 )
-\csq@reset=\count99
-\csq@gtype=\count100
-\csq@glevel=\count101
-\csq@qlevel=\count102
-\csq@maxlvl=\count103
-\csq@tshold=\count104
+\csq@reset=\count104
+\csq@gtype=\count105
+\csq@glevel=\count106
+\csq@qlevel=\count107
+\csq@maxlvl=\count108
+\csq@tshold=\count109
 \csq@ltx@everypar=\toks17
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -186,26 +223,47 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
 (./shakespeare_bechdel.aux)
 \openout1 = `shakespeare_bechdel.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 \AtBeginShipoutBox=\box26
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
@@ -215,142 +273,152 @@ Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 144.
+)
+Package hyperref Info: Link coloring ON on input line 19.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count105
-
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen114
-\scratchbox=\box27
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen115
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks19
-)))
-Package hyperref Info: Link coloring ON on input line 16.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count112
+\c@section@level=\count111
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
 (./shakespeare_bechdel.out) (./shakespeare_bechdel.out)
 \@outlinefile=\write3
 \openout3 = `shakespeare_bechdel.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen136
+\scratchbox=\box27
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen137
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 22.
+(Font)              <14.4> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 22.
+(Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 36.
+(Font)              <12> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <6> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
-
-Overfull \hbox (3.39037pt too wide) in paragraph at lines 49--52
-\OT1/cmr/m/n/12 The cri-te-ria used by crunch-shake is slightly dif-fer-ent fro
-m the orig-i-nal Bechdel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
-[]|\OT1/cmr/m/n/12 Contain two fe-male
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 num-ber of lines the
- []
-
-
-Underfull \hbox (badness 1348) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 ence of one an-other.
- []
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 80--80
-[]|\OT1/cmr/m/n/12 It is hard to al-go-
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 rith-mi-cally de-ter-mine
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 when two char-ac-ters
- []
-
-
-Underfull \hbox (badness 1515) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 for-tu-nately the scene
- []
-
-
-Underfull \hbox (badness 4254) in paragraph at lines 80--80
-\OT1/cmr/m/n/12 the two no-table fe-
- []
+(Font)              <5> on input line 47.
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3]
-Overfull \hbox (0.22652pt too wide) in paragraph at lines 177--179
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\OT1/cmr/m/n/12 Contain two fe-male
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 char-ac-ters that are
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 num-ber of lines the
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 ence of one an-other.
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 cally de-ter-mine when
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 a 'con-ver-sa-tion' with
+ []
+
+[2] [3] [4]
+Overfull \hbox (0.22652pt too wide) in paragraph at lines 198--200
 []\OT1/cmr/m/n/12 marriage, mat-ri-mony, court-ing, love, wed-lock, sex,
  []
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-[4] (./shakespeare_bechdel.bbl [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+
+Overfull \hbox (6.27281pt too wide) in paragraph at lines 200--202
+[]\OT1/cmr/m/n/12 partner, spouse, lover, ad-mirer, fi-anc, amour, in-amorato, 
+be-trothed. 
+ []
+
+
+Overfull \hbox (4.48883pt too wide) in paragraph at lines 271--271
+[]|\OT1/cmr/m/n/12 Rank| 
+ []
+
+[5] [6] [7] [8] (./shakespeare_bechdel.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
  (./shakespeare_bechdel.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
 Package rerunfilecheck Info: File `shakespeare_bechdel.out' has not changed.
-(rerunfilecheck)             Checksum: FD1B8B447DF6411200AA1043C8A264E6;794.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
+(rerunfilecheck)             Checksum: 5F411E1187AD6727183352A9D4428109;844.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 393.
  ) 
 Here is how much of TeX's memory you used:
- 5810 strings out of 493014
- 85893 string characters out of 6133351
- 188766 words of memory out of 5000000
- 9301 multiletter control sequences out of 15000+600000
- 9802 words of font info for 34 fonts, out of 8000000 for 9000
+ 7179 strings out of 493014
+ 110007 string characters out of 6133351
+ 261580 words of memory out of 5000000
+ 10631 multiletter control sequences out of 15000+600000
+ 10410 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,28p,924b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on shakespeare_bechdel.pdf (6 pages, 130186 bytes).
+ 36i,12n,39p,945b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on shakespeare_bechdel.pdf (9 pages, 156916 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 206 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
