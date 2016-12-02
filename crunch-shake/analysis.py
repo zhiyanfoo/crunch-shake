@@ -294,10 +294,10 @@ def postprocess(play_lines, speaking_characters, adj, gender,
                 other_letter)
         bechdel_scenes = bechdel_test(play_lines, notable_gender,
                 forbidden_matcher, adj, act_scene_start_end, play_stats, prefix)
-        print(bechdel_scenes[0].index(True))
+        # print(bechdel_scenes[0].index(True))
         return bechdel_scenes
 
-    # print(bechdel_gender('F'))
+    print(bechdel_gender('F'))
     print(bechdel_gender('M'))
     return graph
 

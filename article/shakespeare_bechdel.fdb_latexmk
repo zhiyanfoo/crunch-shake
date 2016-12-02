@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex shakespeare_bechdel"] 1479036010 "shakespeare_bechdel.aux" "shakespeare_bechdel.bbl" "shakespeare_bechdel" 1479143587
+["bibtex shakespeare_bechdel"] 1480661086 "shakespeare_bechdel.aux" "shakespeare_bechdel.bbl" "shakespeare_bechdel" 1480663019
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/base/siam.bst" 1292289607 19403 812681d329611d2a1625ad7ae5186edc ""
-  "shakespeare_bechdel.aux" 1479143587 3294 6a8d00b944d48afb0b0de959087e261c ""
+  "shakespeare_bechdel.aux" 1480663018 3294 6a8d00b944d48afb0b0de959087e261c ""
   "shakespeare_bechdel.bcf" 0 -1 0 ""
   "sources.bib" 1478973582 606 50af2c73b00cc9111bef0fefa56ab974 ""
   (generated)
   "shakespeare_bechdel.blg"
   "shakespeare_bechdel.bbl"
-["pdflatex"] 1479143584 "shakespeare_bechdel.tex" "shakespeare_bechdel.pdf" "shakespeare_bechdel" 1479143587
+["pdflatex"] 1480663018 "shakespeare_bechdel.tex" "shakespeare_bechdel.pdf" "shakespeare_bechdel" 1480663019
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -75,12 +75,12 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1473251172 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "shakespeare_bechdel.aux" 1479143587 3294 6a8d00b944d48afb0b0de959087e261c ""
-  "shakespeare_bechdel.bbl" 1479036010 471 64f7a83ef2c3a59636f3aa7ce9ad539d "bibtex shakespeare_bechdel"
-  "shakespeare_bechdel.out" 1479143587 844 5f411e1187ad6727183352a9d4428109 ""
-  "shakespeare_bechdel.tex" 1479143584 18837 fc642ae4f5067edbc8171d9b76d61d46 ""
+  "shakespeare_bechdel.aux" 1480663018 3294 6a8d00b944d48afb0b0de959087e261c ""
+  "shakespeare_bechdel.bbl" 1480661087 471 64f7a83ef2c3a59636f3aa7ce9ad539d "bibtex shakespeare_bechdel"
+  "shakespeare_bechdel.out" 1480663018 844 5f411e1187ad6727183352a9d4428109 ""
+  "shakespeare_bechdel.tex" 1480663018 18956 12286f725af0b1c8f48e9df0e5fae7d1 ""
   (generated)
   "shakespeare_bechdel.aux"
   "shakespeare_bechdel.log"
-  "shakespeare_bechdel.pdf"
   "shakespeare_bechdel.out"
+  "shakespeare_bechdel.pdf"

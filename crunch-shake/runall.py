@@ -10,7 +10,7 @@ for play in plays[:]:
     run.run(play, stats)
 
 def processing(stats):
-    # print(stats)
+    print(stats)
     for play_name in stats:
         play = stats[play_name]
         play['female fail'] = play['scenes'] - play['female passes'] 
