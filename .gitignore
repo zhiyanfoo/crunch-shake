@@ -8,3 +8,5 @@ pyvenv.cfg
 *.png
 
 .ipynb_checkpoints/
+
+crunch-shake/runall.py
